@@ -21,6 +21,7 @@ import { EnrichmentResult } from "./sources/web-search";
 
 import * as companyWebsite from "./sources/company-website";
 import * as webSearch from "./sources/web-search";
+import * as googleBusiness from "./sources/google-business";
 import * as emailDiscovery from "./sources/email-discovery";
 import * as linkedinSource from "./sources/linkedin";
 import * as funding from "./sources/funding";
@@ -38,6 +39,7 @@ const LEAD_SOURCES = [
   // wappalyzer runs alongside company-website (both analyse the website)
   { name: "wappalyzer", mod: wappalyzer },
   { name: "web-search", mod: webSearch },
+  { name: "google-business", mod: googleBusiness },
   { name: "email-discovery", mod: emailDiscovery },
   { name: "linkedin", mod: linkedinSource },
   { name: "funding", mod: funding },
