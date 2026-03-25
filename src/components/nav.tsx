@@ -11,11 +11,13 @@ import {
   Settings,
   Dog,
   Sparkles,
+  Zap,
 } from "lucide-react";
 
 const navItems = [
   { href: "/", label: "Dashboard", icon: LayoutDashboard },
   { href: "/leads", label: "Leads", icon: Users },
+  { href: "/sources", label: "Engine", icon: Zap },
   { href: "/agents", label: "Agents", icon: Bot },
   { href: "/enrichment", label: "Enrichment", icon: Sparkles },
   { href: "/export", label: "Export", icon: Download },
