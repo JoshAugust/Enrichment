@@ -4,25 +4,19 @@ import Link from "next/link";
 import { usePathname } from "next/navigation";
 import { cn } from "@/lib/utils";
 import {
-  LayoutDashboard,
   Users,
-  Bot,
-  Download,
+  ArrowUpDown,
   Settings,
   Dog,
-  Sparkles,
   Zap,
   PhoneCall,
 } from "lucide-react";
 
 const navItems = [
-  { href: "/", label: "Dashboard", icon: LayoutDashboard },
   { href: "/leads", label: "Leads", icon: Users },
   { href: "/call-sheet", label: "For Me", icon: PhoneCall },
   { href: "/sources", label: "Engine", icon: Zap },
-  { href: "/agents", label: "Agents", icon: Bot },
-  { href: "/enrichment", label: "Enrichment", icon: Sparkles },
-  { href: "/export", label: "Export", icon: Download },
+  { href: "/import-export", label: "Import & Export", icon: ArrowUpDown },
   { href: "/settings", label: "Settings", icon: Settings },
 ];
 
@@ -46,10 +40,7 @@ export function Sidebar() {
       <nav className="flex-1 px-3 py-4 space-y-1">
         {navItems.map((item) => {
           const Icon = item.icon;
-          const isActive =
-            item.href === "/"
-              ? pathname === "/"
-              : pathname.startsWith(item.href);
+          const isActive = pathname.startsWith(item.href);
 
           return (
             <Link
@@ -85,8 +76,7 @@ export function MobileNav() {
     <div className="fixed bottom-0 left-0 right-0 bg-card border-t border-border flex md:hidden z-50">
       {navItems.map((item) => {
         const Icon = item.icon;
-        const isActive =
-          item.href === "/" ? pathname === "/" : pathname.startsWith(item.href);
+        const isActive = pathname.startsWith(item.href);
 
         return (
           <Link

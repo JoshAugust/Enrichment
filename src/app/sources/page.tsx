@@ -350,6 +350,56 @@ const SOURCES: Source[] = [
     dataProvided: ["Email automation", "Personalization", "A/B testing", "Reply tracking"],
     color: "from-violet-400/20 to-violet-500/10 border-violet-400/30",
   },
+
+  // ── Databases ────────────────────────────────────────────────────────────
+  {
+    id: "dealscope",
+    name: "DealScope by Munger Longview",
+    icon: Database,
+    status: "coming_soon",
+    category: "Databases",
+    description: "Massive business financial database",
+    tooltip:
+      "DealScope from Munger Longview provides comprehensive financial data on millions of businesses — revenue, assets, liabilities, employee count, NAICS codes, ownership structure, and credit indicators. Ideal for qualifying leads by financial health, identifying companies with the revenue profile and asset base that match your ideal customer. Pair with enrichment data to instantly surface companies that can afford premium coverage.",
+    dataProvided: ["Revenue", "Total assets", "Liabilities", "Credit indicators", "NAICS codes", "Ownership"],
+    color: "from-amber-500/20 to-amber-600/10 border-amber-500/30",
+  },
+  {
+    id: "dnb",
+    name: "Dun & Bradstreet",
+    icon: Database,
+    status: "coming_soon",
+    category: "Databases",
+    description: "Global business intelligence & credit data",
+    tooltip:
+      "D&B's database covers 500M+ business entities worldwide. Provides DUNS numbers, company hierarchies, financial statements, payment history, risk scores, and industry classifications. The gold standard for B2B company verification and financial risk assessment.",
+    dataProvided: ["DUNS number", "Financial statements", "Risk scores", "Company hierarchy", "Payment history"],
+    color: "from-blue-500/20 to-blue-600/10 border-blue-500/30",
+  },
+  {
+    id: "privco",
+    name: "PrivCo",
+    icon: Database,
+    status: "coming_soon",
+    category: "Databases",
+    description: "Private company financial data",
+    tooltip:
+      "PrivCo provides financial data on 1M+ private companies that don't publicly report. Revenue estimates, employee counts, funding history, M&A activity, and executive contacts. Essential for qualifying private companies that make up the majority of insurance buyers.",
+    dataProvided: ["Revenue estimates", "Employee count", "M&A activity", "Executive contacts"],
+    color: "from-emerald-500/20 to-emerald-600/10 border-emerald-500/30",
+  },
+  {
+    id: "naic-filings",
+    name: "NAIC Insurance Filings",
+    icon: FileText,
+    status: "coming_soon",
+    category: "Databases",
+    description: "National Association of Insurance Commissioners data",
+    tooltip:
+      "Access statutory financial filings, market share data, and regulatory records for insurance carriers and agencies. Useful for understanding the competitive landscape, identifying carrier relationships, and validating agency credentials.",
+    dataProvided: ["Financial filings", "Market share", "Regulatory records", "Carrier data"],
+    color: "from-slate-500/20 to-slate-600/10 border-slate-500/30",
+  },
 ];
 
 // ── Category grouping ──────────────────────────────────────────────────────
@@ -359,6 +409,7 @@ const CATEGORIES = [
   { key: "Contact Intel", label: "Contact Discovery", description: "Find decision-makers, emails, and phone numbers" },
   { key: "Signals", label: "Buying Signals", description: "Detect growth, hiring, and purchase intent" },
   { key: "Verification", label: "Data Verification", description: "Validate and clean enriched data" },
+  { key: "Databases", label: "Databases", description: "Financial data, credit reports, and business intelligence at scale" },
   { key: "Infrastructure", label: "Infrastructure & Integrations", description: "Pipeline management and CRM connections" },
 ];
 
