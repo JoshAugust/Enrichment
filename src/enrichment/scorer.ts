@@ -74,6 +74,21 @@ interface ContactData {
 // Licensed states for trucking insurance
 const LICENSED_STATES = ['AL','AR','AZ','CO','FL','GA','IA','ID','IL','IN','KS','KY','LA','MI','MN','MO','MS','NC','NM','OH','OK','PA','SC','TN','TX','VA'];
 
+// Industry-specific good_signals for the 11 new tech verticals
+const TECH_VERTICAL_KEYWORDS: Record<string, string[]> = {
+  healthcare_tech: ['HIPAA compliant', 'FDA', 'digital health', 'telemedicine', 'patient data', 'EHR', 'health AI', 'clinical'],
+  fintech: ['payments', 'banking', 'lending', 'crypto', 'DeFi', 'financial services', 'PCI', 'SOC2'],
+  cybersecurity: ['security', 'pentest', 'SOC', 'threat detection', 'vulnerability', 'SIEM', 'zero trust', 'endpoint'],
+  climate_tech: ['carbon', 'solar', 'renewable', 'sustainability', 'clean energy', 'climate', 'EV', 'battery'],
+  devtools: ['API', 'SDK', 'developer', 'infrastructure', 'cloud', 'DevOps', 'CI/CD', 'open source'],
+  legal_tech: ['legal', 'law', 'compliance', 'contract', 'litigation', 'court', 'attorney'],
+  robotics_hardware: ['robotics', 'hardware', 'manufacturing', 'IoT', 'sensor', 'autonomous', 'drone', '3D printing'],
+  marketing_tech: ['marketing', 'sales', 'CRM', 'lead gen', 'advertising', 'analytics', 'SEO', 'content'],
+  web3_crypto: ['blockchain', 'crypto', 'DeFi', 'NFT', 'web3', 'smart contract', 'token', 'decentralized'],
+  edtech: ['education', 'learning', 'tutoring', 'EdTech', 'school', 'university', 'student', 'training'],
+  hr_workforce: ['HR', 'hiring', 'workforce', 'payroll', 'recruiting', 'talent', 'employee', 'staffing'],
+};
+
 function scoreSpecialization(lead: LeadData, maxPoints: number): number {
   const industry = lead.industry || 'trucking_insurance';
   const combined = [lead.specialization, lead.agent_notes, lead.company_type]
@@ -112,7 +127,31 @@ function scoreSpecialization(lead: LeadData, maxPoints: number): number {
     return maxPoints * 0.2;
   }
 
+  // Handle all 11 new tech verticals using their industry-specific keywords
+  if (TECH_VERTICAL_KEYWORDS[industry]) {
+    const keywords = TECH_VERTICAL_KEYWORDS[industry];
+    const hits = textContains(combined, keywords);
+    if (hits >= 2) return maxPoints;
+    if (hits >= 1) return maxPoints * 0.6;
+    return maxPoints * 0.2;
+  }
+
   return maxPoints * 0.3; // Unknown industry, partial credit
+}
+
+const ACCELERATOR_SIGNALS = ['YC', 'Y Combinator', 'a16z', 'Andreessen', 'Sequoia', 'Techstars', '500 Startups'];
+
+function scoreAcceleratorAffiliation(lead: LeadData, maxPoints: number): number {
+  const combined = [
+    lead.agent_notes,
+    lead.company_name,
+    lead.enrichment_data ? JSON.stringify(lead.enrichment_data) : '',
+  ].filter(Boolean).join(' ');
+
+  for (const signal of ACCELERATOR_SIGNALS) {
+    if (combined.includes(signal)) return maxPoints;
+  }
+  return 0;
 }
 
 function scoreIndependence(lead: LeadData, maxPoints: number): number {
@@ -311,6 +350,7 @@ const SCORING_FUNCTIONS: Record<string, (lead: LeadData, contacts: ContactData[]
   book_size: (l, _, mp) => scoreBookSize(l, mp),
   portfolio_size: (l, _, mp) => scorePortfolioSize(l, mp),
   property_types: (l, _, mp) => scorePropertyTypes(l, mp),
+  accelerator_affiliation: (l, _, mp) => scoreAcceleratorAffiliation(l, mp),
 };
 
 export interface ScoreResult {

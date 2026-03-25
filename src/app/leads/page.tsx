@@ -115,6 +115,32 @@ function getGradeColor(score: number | null | undefined): string {
   return "bg-red-500/20 text-red-300 border-red-500/30";
 }
 
+const ACCELERATOR_SIGNALS = ["YC", "Y Combinator", "a16z", "Andreessen", "Sequoia", "Techstars", "500 Startups"];
+
+function isYCCompany(lead: LeadWithV2): boolean {
+  const combined = [
+    lead.agent_notes,
+    lead.company_name,
+    lead.enrichment_data ? JSON.stringify(lead.enrichment_data) : "",
+  ].filter(Boolean).join(" ");
+  return ACCELERATOR_SIGNALS.some((sig) => combined.includes(sig));
+}
+
+function getDealPotential(lead: LeadWithV2): { emoji: string; label: string } {
+  const score = lead.quality_score ?? 0;
+  const hasPhone = !!(lead.mobile_phone || lead.phone_hq);
+  const hasFunding = !!(lead.total_raised || lead.last_funding_round);
+  const isYC = isYCCompany(lead);
+
+  if (score >= 70 && hasPhone && (hasFunding || isYC)) {
+    return { emoji: "🔥", label: "Hot" };
+  }
+  if (score >= 50 && hasPhone) {
+    return { emoji: "⭐", label: "Warm" };
+  }
+  return { emoji: "❄️", label: "Cold" };
+}
+
 // ── Sub-components ───────────────────────────────────────────────────────────
 
 function EnrichmentMiniBar({ value }: { value: number | null | undefined }) {
@@ -633,7 +659,7 @@ export default function LeadsPage() {
                 <th className="p-3 w-12 text-left font-medium text-muted-foreground">
                   St
                 </th>
-                <th className="p-3 w-14 text-left font-medium text-muted-foreground">
+                <th className="p-3 w-24 text-left font-medium text-muted-foreground">
                   Score
                 </th>
                 <th
@@ -691,6 +717,7 @@ export default function LeadsPage() {
                   const completeness = getCompleteness(lead);
                   const contactsCount = getContactsCount(lead);
                   const hasPhone = !!(lead.mobile_phone || lead.phone_hq);
+                  const dealPotential = getDealPotential(lead);
 
                   return (
                     <tr
@@ -857,23 +884,31 @@ export default function LeadsPage() {
                         </span>
                       </td>
 
-                      {/* Score → letter grade */}
+                      {/* Score → letter grade + Deal Potential */}
                       <td className="p-3">
-                        {lead.quality_score !== null &&
-                        lead.quality_score !== undefined ? (
-                          <Badge
-                            className={`text-xs border font-bold ${getGradeColor(
-                              lead.quality_score
-                            )}`}
-                            title={`Score: ${lead.quality_score}/100`}
+                        <div className="flex items-center gap-1.5">
+                          {lead.quality_score !== null &&
+                          lead.quality_score !== undefined ? (
+                            <Badge
+                              className={`text-xs border font-bold ${getGradeColor(
+                                lead.quality_score
+                              )}`}
+                              title={`Score: ${lead.quality_score}/100`}
+                            >
+                              {scoreToGrade(lead.quality_score)}
+                            </Badge>
+                          ) : (
+                            <span className="text-muted-foreground text-xs">
+                              —
+                            </span>
+                          )}
+                          <span
+                            title={dealPotential.label}
+                            className="text-sm leading-none cursor-default"
                           >
-                            {scoreToGrade(lead.quality_score)}
-                          </Badge>
-                        ) : (
-                          <span className="text-muted-foreground text-xs">
-                            —
+                            {dealPotential.emoji}
                           </span>
-                        )}
+                        </div>
                       </td>
 
                       {/* Enrichment bar */}
