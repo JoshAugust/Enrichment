@@ -146,3 +146,4 @@ curl -X PATCH https://your-app.railway.app/api/tasks/{id} \
 - 70+ = Green (strong prospect)
 - 40-69 = Yellow (moderate)
 - <40 = Red (low priority)
+# Trigger redeploy
