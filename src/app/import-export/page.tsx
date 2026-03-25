@@ -286,7 +286,7 @@ export default function ImportExportPage() {
           const err = await res.json().catch(() => ({ error: "Unknown error" }));
           errors.push(`Row ${i + 2} (${lead.company_name}): ${err.error}`);
         }
-      } catch (_e) {
+      } catch {
         errors.push(`Row ${i + 2} (${lead.company_name}): Network error`);
       }
 
