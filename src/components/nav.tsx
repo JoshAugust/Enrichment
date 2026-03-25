@@ -12,11 +12,13 @@ import {
   Dog,
   Sparkles,
   Zap,
+  PhoneCall,
 } from "lucide-react";
 
 const navItems = [
   { href: "/", label: "Dashboard", icon: LayoutDashboard },
   { href: "/leads", label: "Leads", icon: Users },
+  { href: "/call-sheet", label: "For Me", icon: PhoneCall },
   { href: "/sources", label: "Engine", icon: Zap },
   { href: "/agents", label: "Agents", icon: Bot },
   { href: "/enrichment", label: "Enrichment", icon: Sparkles },
