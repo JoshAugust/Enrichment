@@ -1,7 +1,18 @@
 import { Card, CardContent, CardHeader, CardTitle } from "@/components/ui/card";
 import { Badge } from "@/components/ui/badge";
 import { getStatusColor, ALL_STATUSES } from "@/lib/constants";
-import { Users, CheckCircle, TrendingUp, Activity, BarChart3, Clock } from "lucide-react";
+import { INDUSTRY_LABELS } from "@/components/industry-badge";
+import {
+  Users,
+  CheckCircle,
+  TrendingUp,
+  Activity,
+  BarChart3,
+  Clock,
+  Sparkles,
+  AlertTriangle,
+  Building2,
+} from "lucide-react";
 
 const API_KEY = process.env.API_KEY ?? "";
 const APP_URL = process.env.NEXT_PUBLIC_APP_URL ?? "http://localhost:3000";
@@ -15,6 +26,12 @@ interface Stats {
   avgScore: number | null;
   addedToday: number;
   addedThisWeek: number;
+  // V2 enrichment stats (may not exist yet)
+  avgEnrichmentCompleteness?: number | null;
+  awaitingEnrichment?: number | null;
+  byIndustry?: Record<string, number>;
+  enrichedToday?: number | null;
+  avgEnrichmentTime?: number | null;
 }
 
 interface AgentLog {
@@ -23,6 +40,11 @@ interface AgentLog {
   action: string;
   details: Record<string, unknown>;
   created_at: string;
+}
+
+interface SourceHealth {
+  name: string;
+  status: "ok" | "stale" | "error" | "not_run";
 }
 
 async function getStats(): Promise<Stats | null> {
@@ -51,6 +73,19 @@ async function getAgentLog(): Promise<AgentLog[]> {
   }
 }
 
+async function getEnrichmentSourceHealth(): Promise<SourceHealth[]> {
+  try {
+    const res = await fetch(`${APP_URL}/api/enrichment/sources`, {
+      headers: { "x-api-key": API_KEY },
+      cache: "no-store",
+    });
+    if (!res.ok) return [];
+    return res.json();
+  } catch {
+    return [];
+  }
+}
+
 function timeAgo(dateStr: string): string {
   const date = new Date(dateStr);
   const seconds = Math.floor((Date.now() - date.getTime()) / 1000);
@@ -60,8 +95,46 @@ function timeAgo(dateStr: string): string {
   return `${Math.floor(seconds / 86400)}d ago`;
 }
 
+const DEFAULT_SOURCES: SourceHealth[] = [
+  { name: "LinkedIn", status: "not_run" },
+  { name: "Clearbit", status: "not_run" },
+  { name: "Hunter.io", status: "not_run" },
+  { name: "Apollo", status: "not_run" },
+  { name: "ZoomInfo", status: "not_run" },
+  { name: "Crunchbase", status: "not_run" },
+  { name: "Website Scraper", status: "not_run" },
+  { name: "Google Maps", status: "not_run" },
+  { name: "FMCSA", status: "not_run" },
+  { name: "News API", status: "not_run" },
+];
+
+function SourceDot({ status }: { status: string }) {
+  const colors: Record<string, string> = {
+    ok: "bg-green-500",
+    stale: "bg-yellow-500",
+    error: "bg-red-500",
+    not_run: "bg-gray-500",
+  };
+  return (
+    <div
+      className={`w-2.5 h-2.5 rounded-full ${colors[status] ?? colors.not_run}`}
+      title={status}
+    />
+  );
+}
+
+function getCompletenessColor(pct: number): string {
+  if (pct >= 80) return "text-green-400";
+  if (pct >= 50) return "text-yellow-400";
+  return "text-red-400";
+}
+
 export default async function DashboardPage() {
-  const [stats, logs] = await Promise.all([getStats(), getAgentLog()]);
+  const [stats, logs, sourceHealth] = await Promise.all([
+    getStats(),
+    getAgentLog(),
+    getEnrichmentSourceHealth(),
+  ]);
 
   const topStates = stats?.byState
     ? Object.entries(stats.byState)
@@ -69,6 +142,15 @@ export default async function DashboardPage() {
         .slice(0, 10)
     : [];
   const maxStateCount = topStates[0]?.[1] ?? 1;
+
+  const sources = sourceHealth.length > 0 ? sourceHealth : DEFAULT_SOURCES;
+  const allOk = sources.every((s) => s.status === "ok" || s.status === "not_run");
+
+  const byIndustry = stats?.byIndustry ?? {};
+  const industryEntries = Object.entries(byIndustry).filter(([, v]) => v > 0);
+
+  const avgCompleteness = stats?.avgEnrichmentCompleteness ?? null;
+  const awaitingEnrichment = stats?.awaitingEnrichment ?? null;
 
   return (
     <div className="space-y-8">
@@ -141,6 +223,145 @@ export default async function DashboardPage() {
         </Card>
       </div>
 
+      {/* Enrichment Stats Row */}
+      <div className="grid grid-cols-1 sm:grid-cols-3 gap-4">
+        {/* Enrichment Coverage */}
+        <Card>
+          <CardContent className="p-6">
+            <div className="flex items-center gap-3">
+              <div className="p-2 rounded-lg bg-teal-500/10">
+                <Sparkles className="w-5 h-5 text-teal-400" />
+              </div>
+              <div>
+                <p className="text-sm text-muted-foreground">Enrichment Coverage</p>
+                {avgCompleteness !== null ? (
+                  <p className={`text-2xl font-bold ${getCompletenessColor(avgCompleteness)}`}>
+                    {avgCompleteness}%
+                  </p>
+                ) : (
+                  <p className="text-2xl font-bold text-muted-foreground">—</p>
+                )}
+              </div>
+            </div>
+          </CardContent>
+        </Card>
+
+        {/* Awaiting Enrichment */}
+        <Card>
+          <CardContent className="p-6">
+            <div className="flex items-center gap-3">
+              <div className="p-2 rounded-lg bg-orange-500/10">
+                <AlertTriangle className="w-5 h-5 text-orange-400" />
+              </div>
+              <div>
+                <p className="text-sm text-muted-foreground">Awaiting Enrichment</p>
+                <p className="text-2xl font-bold">
+                  {awaitingEnrichment !== null ? awaitingEnrichment : "—"}
+                </p>
+                <p className="text-xs text-muted-foreground mt-0.5">&lt;30% complete</p>
+              </div>
+            </div>
+          </CardContent>
+        </Card>
+
+        {/* Industries */}
+        <Card>
+          <CardContent className="p-6">
+            <div className="flex items-center gap-3">
+              <div className="p-2 rounded-lg bg-indigo-500/10">
+                <Building2 className="w-5 h-5 text-indigo-400" />
+              </div>
+              <div className="flex-1 min-w-0">
+                <p className="text-sm text-muted-foreground">Industries</p>
+                {industryEntries.length > 0 ? (
+                  <div className="mt-1 space-y-0.5">
+                    {industryEntries.slice(0, 3).map(([ind, count]) => (
+                      <div key={ind} className="flex items-center justify-between gap-2">
+                        <span className="text-xs text-muted-foreground truncate">
+                          {INDUSTRY_LABELS[ind] ?? ind}
+                        </span>
+                        <span className="text-xs font-medium text-foreground shrink-0">{count}</span>
+                      </div>
+                    ))}
+                  </div>
+                ) : (
+                  <p className="text-2xl font-bold text-muted-foreground">—</p>
+                )}
+              </div>
+            </div>
+          </CardContent>
+        </Card>
+      </div>
+
+      {/* Enrichment Pipeline Status */}
+      <Card>
+        <CardHeader className="pb-3">
+          <CardTitle className="text-base flex items-center gap-2">
+            <Sparkles className="w-4 h-4" />
+            Enrichment Pipeline Status
+            <Badge
+              className={`text-xs border ml-2 ${
+                allOk
+                  ? "bg-green-500/20 text-green-300 border-green-500/30"
+                  : "bg-yellow-500/20 text-yellow-300 border-yellow-500/30"
+              }`}
+            >
+              {allOk ? "Operational" : "Degraded"}
+            </Badge>
+          </CardTitle>
+        </CardHeader>
+        <CardContent>
+          <div className="space-y-4">
+            {/* Source dots grid */}
+            <div>
+              <p className="text-xs text-muted-foreground mb-2">Source Health</p>
+              <div className="flex flex-wrap gap-3">
+                {sources.map((src) => (
+                  <div key={src.name} className="flex items-center gap-1.5">
+                    <SourceDot status={src.status} />
+                    <span className="text-xs text-muted-foreground">{src.name}</span>
+                  </div>
+                ))}
+              </div>
+              <div className="flex items-center gap-4 mt-2 text-xs text-muted-foreground">
+                <span className="flex items-center gap-1">
+                  <div className="w-2 h-2 rounded-full bg-green-500" /> OK
+                </span>
+                <span className="flex items-center gap-1">
+                  <div className="w-2 h-2 rounded-full bg-yellow-500" /> Stale
+                </span>
+                <span className="flex items-center gap-1">
+                  <div className="w-2 h-2 rounded-full bg-red-500" /> Error
+                </span>
+                <span className="flex items-center gap-1">
+                  <div className="w-2 h-2 rounded-full bg-gray-500" /> Not Run
+                </span>
+              </div>
+            </div>
+
+            {/* Enrichment metrics */}
+            <div className="grid grid-cols-2 gap-4 pt-2 border-t border-border">
+              <div>
+                <p className="text-xs text-muted-foreground">Enriched Today</p>
+                <p className="text-lg font-semibold mt-0.5">
+                  {stats?.enrichedToday !== null && stats?.enrichedToday !== undefined
+                    ? stats.enrichedToday
+                    : "—"}
+                </p>
+              </div>
+              <div>
+                <p className="text-xs text-muted-foreground">Avg Enrichment Time</p>
+                <p className="text-lg font-semibold mt-0.5">
+                  {stats?.avgEnrichmentTime !== null && stats?.avgEnrichmentTime !== undefined
+                    ? `${stats.avgEnrichmentTime}s`
+                    : "—"}
+                </p>
+              </div>
+            </div>
+          </div>
+        </CardContent>
+      </Card>
+
       <div className="grid lg:grid-cols-2 gap-6">
         {/* Status Breakdown */}
         <Card>
@@ -154,10 +375,13 @@ export default async function DashboardPage() {
             {stats
               ? ALL_STATUSES.map((status) => {
                   const count = stats.byStatus[status] ?? 0;
-                  const pct = stats.total > 0 ? Math.round((count / stats.total) * 100) : 0;
+                  const pct =
+                    stats.total > 0 ? Math.round((count / stats.total) * 100) : 0;
                   return (
                     <div key={status} className="flex items-center gap-3">
-                      <Badge className={`text-xs w-28 justify-center border ${getStatusColor(status)}`}>
+                      <Badge
+                        className={`text-xs w-28 justify-center border ${getStatusColor(status)}`}
+                      >
                         {status}
                       </Badge>
                       <div className="flex-1 bg-muted rounded-full h-2 overflow-hidden">
@@ -218,14 +442,16 @@ export default async function DashboardPage() {
           {logs.length > 0 ? (
             <div className="space-y-2 divide-y divide-border">
               {logs.map((log) => (
-                <div key={log.id} className="flex items-start justify-between gap-4 pt-2 first:pt-0">
+                <div
+                  key={log.id}
+                  className="flex items-start justify-between gap-4 pt-2 first:pt-0"
+                >
                   <div className="flex items-start gap-3 min-w-0">
                     <div className="w-2 h-2 rounded-full bg-primary mt-2 shrink-0" />
                     <div className="min-w-0">
                       <p className="text-sm font-medium truncate">
                         <span className="text-primary">{log.agent_name}</span>{" "}
-                        <span className="text-muted-foreground">→</span>{" "}
-                        {log.action}
+                        <span className="text-muted-foreground">→</span> {log.action}
                       </p>
                       {log.details && Object.keys(log.details).length > 0 && (
                         <p className="text-xs text-muted-foreground truncate">

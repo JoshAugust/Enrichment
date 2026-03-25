@@ -5,6 +5,7 @@ import { leads } from "@/db/schema";
 import { validateApiKey, unauthorizedResponse } from "@/lib/auth";
 import { extractDomain, normalizeName } from "@/lib/dedup";
 import { eq } from "drizzle-orm";
+import { task_queue } from "@/db/schema";
 
 const LeadPatchSchema = z.object({
   company_name: z.string().min(1).optional(),
@@ -114,6 +115,19 @@ export async function PATCH(request: NextRequest, context: RouteContext) {
 
     if (updated.length === 0) {
       return NextResponse.json({ error: "Lead not found" }, { status: 404 });
+    }
+
+    // Auto-create enrich task when lead is verified
+    if (data.verified === true) {
+      try {
+        await db.insert(task_queue).values({
+          task_type: "enrich",
+          payload: { lead_id: id },
+          priority: 5,
+        });
+      } catch (taskErr) {
+        console.warn("Failed to create enrich task:", taskErr);
+      }
     }
 
     return NextResponse.json(updated[0]);

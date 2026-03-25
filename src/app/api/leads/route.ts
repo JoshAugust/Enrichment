@@ -5,6 +5,7 @@ import { leads } from "@/db/schema";
 import { validateApiKey, unauthorizedResponse } from "@/lib/auth";
 import { extractDomain, normalizeName } from "@/lib/dedup";
 import { and, eq, gte, ilike, lte, or, sql, desc } from "drizzle-orm";
+import { task_queue } from "@/db/schema";
 
 const LeadCreateSchema = z.object({
   company_name: z.string().min(1),
@@ -49,6 +50,7 @@ export async function GET(request: NextRequest) {
   const maxScore = searchParams.get("maxScore");
   const source = searchParams.get("source");
   const search = searchParams.get("search");
+  const industry = searchParams.get("industry");
   const limit = parseInt(searchParams.get("limit") ?? "50", 10);
   const offset = parseInt(searchParams.get("offset") ?? "0", 10);
 
@@ -57,6 +59,7 @@ export async function GET(request: NextRequest) {
 
     if (status) conditions.push(eq(leads.status, status));
     if (state) conditions.push(eq(leads.state, state));
+    if (industry) conditions.push(eq(leads.industry, industry));
     if (verified !== null) conditions.push(eq(leads.verified, verified === "true"));
     if (minScore) conditions.push(gte(leads.quality_score, parseInt(minScore, 10)));
     if (maxScore) conditions.push(lte(leads.quality_score, parseInt(maxScore, 10)));
@@ -151,6 +154,17 @@ export async function POST(request: NextRequest) {
         enrichment_data: data.enrichment_data ?? {},
       })
       .returning();
+
+    // Auto-create a verify task
+    try {
+      await db.insert(task_queue).values({
+        task_type: "verify",
+        payload: { lead_id: newLead[0].id },
+        priority: 5,
+      });
+    } catch (taskErr) {
+      console.warn("Failed to create verify task:", taskErr);
+    }
 
     return NextResponse.json(newLead[0], { status: 201 });
   } catch (error) {

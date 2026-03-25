@@ -26,6 +26,7 @@ import {
   getStatusColor,
   getScoreColor,
 } from "@/lib/constants";
+import { IndustryBadge, ALL_INDUSTRIES, INDUSTRY_LABELS } from "@/components/industry-badge";
 import {
   Search,
   ChevronLeft,
@@ -38,8 +39,36 @@ import type { Lead } from "@/db/schema";
 
 const PAGE_SIZE = 50;
 
+// Extended lead type with V2 fields that may live in enrichment_data
+type LeadWithV2 = Lead & {
+  industry?: string | null;
+  enrichment_completeness?: number | null;
+  contacts_count?: number | null;
+};
+
+function getCompletenessBarColor(pct: number): string {
+  if (pct >= 80) return "bg-green-500";
+  if (pct >= 50) return "bg-yellow-500";
+  return "bg-red-500";
+}
+
+function EnrichmentMiniBar({ value }: { value: number | null | undefined }) {
+  const pct = value ?? 0;
+  return (
+    <div className="flex items-center gap-1.5">
+      <div className="w-16 h-1.5 rounded-full bg-muted overflow-hidden">
+        <div
+          className={`h-full rounded-full ${getCompletenessBarColor(pct)}`}
+          style={{ width: `${pct}%` }}
+        />
+      </div>
+      <span className="text-xs text-muted-foreground tabular-nums">{pct}%</span>
+    </div>
+  );
+}
+
 export default function LeadsPage() {
-  const [leads, setLeads] = useState<Lead[]>([]);
+  const [leads, setLeads] = useState<LeadWithV2[]>([]);
   const [total, setTotal] = useState(0);
   const [page, setPage] = useState(0);
   const [loading, setLoading] = useState(false);
@@ -47,9 +76,12 @@ export default function LeadsPage() {
   const [statusFilter, setStatusFilter] = useState<string>("");
   const [stateFilter, setStateFilter] = useState<string>("");
   const [verifiedFilter, setVerifiedFilter] = useState<string>("");
+  const [industryFilter, setIndustryFilter] = useState<string>("");
   const [selectedIds, setSelectedIds] = useState<Set<string>>(new Set());
   const [bulkStatus, setBulkStatus] = useState("");
   const [searchInput, setSearchInput] = useState("");
+  const [sortBy, setSortBy] = useState<"enrichment_completeness" | "">("");
+  const [sortDir, setSortDir] = useState<"asc" | "desc">("desc");
 
   const fetchLeads = useCallback(async () => {
     setLoading(true);
@@ -61,6 +93,11 @@ export default function LeadsPage() {
       if (statusFilter) params.set("status", statusFilter);
       if (stateFilter) params.set("state", stateFilter);
       if (verifiedFilter) params.set("verified", verifiedFilter);
+      if (industryFilter) params.set("industry", industryFilter);
+      if (sortBy) {
+        params.set("sort_by", sortBy);
+        params.set("sort_dir", sortDir);
+      }
 
       const res = await fetch(`/api/leads?${params}`, {
         headers: { "x-api-key": process.env.NEXT_PUBLIC_API_KEY ?? "" },
@@ -75,7 +112,7 @@ export default function LeadsPage() {
     } finally {
       setLoading(false);
     }
-  }, [page, search, statusFilter, stateFilter, verifiedFilter]);
+  }, [page, search, statusFilter, stateFilter, verifiedFilter, industryFilter, sortBy, sortDir]);
 
   useEffect(() => {
     fetchLeads();
@@ -108,9 +145,7 @@ export default function LeadsPage() {
   const handleBulkStatusChange = async () => {
     if (!bulkStatus || selectedIds.size === 0) return;
     const ids = Array.from(selectedIds);
-    await Promise.all(
-      ids.map((id) => handleStatusChange(id, bulkStatus))
-    );
+    await Promise.all(ids.map((id) => handleStatusChange(id, bulkStatus)));
     setSelectedIds(new Set());
     setBulkStatus("");
   };
@@ -132,6 +167,51 @@ export default function LeadsPage() {
     }
   };
 
+  const handleSortCompleteness = () => {
+    if (sortBy === "enrichment_completeness") {
+      setSortDir((d) => (d === "desc" ? "asc" : "desc"));
+    } else {
+      setSortBy("enrichment_completeness");
+      setSortDir("desc");
+    }
+    setPage(0);
+  };
+
+  // Derive industry from enrichment_data if not a top-level field
+  const getIndustry = (lead: LeadWithV2): string | null => {
+    if (lead.industry) return lead.industry;
+    const ed = lead.enrichment_data as Record<string, unknown> | null;
+    return (ed?.industry as string) ?? null;
+  };
+
+  const getCompleteness = (lead: LeadWithV2): number => {
+    if (lead.enrichment_completeness !== null && lead.enrichment_completeness !== undefined) {
+      return lead.enrichment_completeness;
+    }
+    const ed = lead.enrichment_data as Record<string, unknown> | null;
+    return (ed?.enrichment_completeness as number) ?? 0;
+  };
+
+  const getContactsCount = (lead: LeadWithV2): number | null => {
+    if (lead.contacts_count !== null && lead.contacts_count !== undefined) {
+      return lead.contacts_count;
+    }
+    const ed = lead.enrichment_data as Record<string, unknown> | null;
+    return (ed?.contacts_count as number) ?? null;
+  };
+
+  const clearFilters = () => {
+    setStatusFilter("");
+    setStateFilter("");
+    setVerifiedFilter("");
+    setIndustryFilter("");
+    setSearch("");
+    setSearchInput("");
+    setSortBy("");
+    setPage(0);
+  };
+
+  const hasFilters = statusFilter || stateFilter || verifiedFilter || industryFilter || search;
   const totalPages = Math.ceil(total / PAGE_SIZE);
 
   return (
@@ -176,8 +256,26 @@ export default function LeadsPage() {
               <SelectContent>
                 <SelectItem value="all">All Statuses</SelectItem>
                 {ALL_STATUSES.map((s) => (
-                  <SelectItem key={s} value={s}>
-                    {s}
+                  <SelectItem key={s} value={s}>{s}</SelectItem>
+                ))}
+              </SelectContent>
+            </Select>
+
+            <Select
+              value={industryFilter || "all"}
+              onValueChange={(v) => {
+                setIndustryFilter(v === "all" ? "" : v);
+                setPage(0);
+              }}
+            >
+              <SelectTrigger className="w-44">
+                <SelectValue placeholder="Industry" />
+              </SelectTrigger>
+              <SelectContent>
+                <SelectItem value="all">All Industries</SelectItem>
+                {ALL_INDUSTRIES.map((ind) => (
+                  <SelectItem key={ind} value={ind}>
+                    {INDUSTRY_LABELS[ind]}
                   </SelectItem>
                 ))}
               </SelectContent>
@@ -196,9 +294,7 @@ export default function LeadsPage() {
               <SelectContent>
                 <SelectItem value="all">All States</SelectItem>
                 {US_STATES.map((s) => (
-                  <SelectItem key={s} value={s}>
-                    {s}
-                  </SelectItem>
+                  <SelectItem key={s} value={s}>{s}</SelectItem>
                 ))}
               </SelectContent>
             </Select>
@@ -220,19 +316,8 @@ export default function LeadsPage() {
               </SelectContent>
             </Select>
 
-            {(statusFilter || stateFilter || verifiedFilter || search) && (
-              <Button
-                variant="ghost"
-                size="sm"
-                onClick={() => {
-                  setStatusFilter("");
-                  setStateFilter("");
-                  setVerifiedFilter("");
-                  setSearch("");
-                  setSearchInput("");
-                  setPage(0);
-                }}
-              >
+            {hasFilters && (
+              <Button variant="ghost" size="sm" onClick={clearFilters}>
                 Clear filters
               </Button>
             )}
@@ -250,24 +335,14 @@ export default function LeadsPage() {
                 </SelectTrigger>
                 <SelectContent>
                   {ALL_STATUSES.map((s) => (
-                    <SelectItem key={s} value={s}>
-                      {s}
-                    </SelectItem>
+                    <SelectItem key={s} value={s}>{s}</SelectItem>
                   ))}
                 </SelectContent>
               </Select>
-              <Button
-                size="sm"
-                onClick={handleBulkStatusChange}
-                disabled={!bulkStatus}
-              >
+              <Button size="sm" onClick={handleBulkStatusChange} disabled={!bulkStatus}>
                 Apply
               </Button>
-              <Button
-                size="sm"
-                variant="ghost"
-                onClick={() => setSelectedIds(new Set())}
-              >
+              <Button size="sm" variant="ghost" onClick={() => setSelectedIds(new Set())}>
                 Deselect
               </Button>
             </div>
@@ -283,17 +358,14 @@ export default function LeadsPage() {
               <tr>
                 <th className="p-3 w-10 text-left">
                   <Checkbox
-                    checked={
-                      leads.length > 0 && selectedIds.size === leads.length
-                    }
+                    checked={leads.length > 0 && selectedIds.size === leads.length}
                     onCheckedChange={toggleSelectAll}
                   />
                 </th>
-                <th className="p-3 text-left font-medium text-muted-foreground">
-                  Status
-                </th>
-                <th className="p-3 text-left font-medium text-muted-foreground">
-                  Company
+                <th className="p-3 text-left font-medium text-muted-foreground">Status</th>
+                <th className="p-3 text-left font-medium text-muted-foreground">Company</th>
+                <th className="p-3 text-left font-medium text-muted-foreground hidden lg:table-cell">
+                  Industry
                 </th>
                 <th className="p-3 text-left font-medium text-muted-foreground hidden lg:table-cell">
                   Website
@@ -304,15 +376,24 @@ export default function LeadsPage() {
                 <th className="p-3 text-left font-medium text-muted-foreground hidden md:table-cell">
                   Phone
                 </th>
-                <th className="p-3 text-left font-medium text-muted-foreground">
-                  State
+                <th className="p-3 text-left font-medium text-muted-foreground">State</th>
+                <th className="p-3 text-left font-medium text-muted-foreground">Score</th>
+                <th
+                  className="p-3 text-left font-medium text-muted-foreground hidden xl:table-cell cursor-pointer hover:text-foreground transition-colors select-none"
+                  onClick={handleSortCompleteness}
+                  title="Sort by enrichment completeness"
+                >
+                  <span className="flex items-center gap-1">
+                    Enrichment
+                    {sortBy === "enrichment_completeness" && (
+                      <span className="text-xs">{sortDir === "desc" ? "↓" : "↑"}</span>
+                    )}
+                  </span>
                 </th>
-                <th className="p-3 text-left font-medium text-muted-foreground">
-                  Score
+                <th className="p-3 text-left font-medium text-muted-foreground hidden xl:table-cell">
+                  Contacts
                 </th>
-                <th className="p-3 text-left font-medium text-muted-foreground hidden lg:table-cell">
-                  ✓
-                </th>
+                <th className="p-3 text-left font-medium text-muted-foreground hidden lg:table-cell">✓</th>
                 <th className="p-3 text-left font-medium text-muted-foreground hidden xl:table-cell">
                   Source
                 </th>
@@ -321,128 +402,138 @@ export default function LeadsPage() {
             <tbody className="divide-y divide-border">
               {loading ? (
                 <tr>
-                  <td colSpan={10} className="p-8 text-center text-muted-foreground">
+                  <td colSpan={13} className="p-8 text-center text-muted-foreground">
                     Loading leads...
                   </td>
                 </tr>
               ) : leads.length === 0 ? (
                 <tr>
-                  <td colSpan={10} className="p-8 text-center text-muted-foreground">
+                  <td colSpan={13} className="p-8 text-center text-muted-foreground">
                     No leads found.
-                    {(statusFilter || stateFilter || search) && (
-                      <span> Try adjusting your filters.</span>
-                    )}
+                    {hasFilters && <span> Try adjusting your filters.</span>}
                   </td>
                 </tr>
               ) : (
-                leads.map((lead) => (
-                  <tr
-                    key={lead.id}
-                    className="hover:bg-muted/30 transition-colors group"
-                  >
-                    <td className="p-3" onClick={(e) => e.stopPropagation()}>
-                      <Checkbox
-                        checked={selectedIds.has(lead.id)}
-                        onCheckedChange={() => toggleSelect(lead.id)}
-                      />
-                    </td>
-                    <td className="p-3" onClick={(e) => e.stopPropagation()}>
-                      <DropdownMenu>
-                        <DropdownMenuTrigger asChild>
-                          <button className="flex items-center gap-1">
-                            <Badge
-                              className={`text-xs border cursor-pointer hover:opacity-80 ${getStatusColor(lead.status)}`}
-                            >
-                              {lead.status ?? "New"}
-                              <ChevronDown className="w-3 h-3 ml-1" />
-                            </Badge>
-                          </button>
-                        </DropdownMenuTrigger>
-                        <DropdownMenuContent>
-                          {ALL_STATUSES.map((s) => (
-                            <DropdownMenuItem
-                              key={s}
-                              onClick={() => handleStatusChange(lead.id, s)}
-                            >
-                              {s}
-                            </DropdownMenuItem>
-                          ))}
-                        </DropdownMenuContent>
-                      </DropdownMenu>
-                    </td>
-                    <td className="p-3">
-                      <Link
-                        href={`/leads/${lead.id}`}
-                        className="font-medium text-foreground hover:text-primary transition-colors"
-                      >
-                        {lead.company_name}
-                      </Link>
-                      {lead.city && (
-                        <p className="text-xs text-muted-foreground">
-                          {lead.city}
-                        </p>
-                      )}
-                    </td>
-                    <td className="p-3 hidden lg:table-cell">
-                      {lead.website ? (
-                        <a
-                          href={
-                            lead.website.startsWith("http")
-                              ? lead.website
-                              : `https://${lead.website}`
-                          }
-                          target="_blank"
-                          rel="noopener noreferrer"
-                          className="text-blue-400 hover:text-blue-300 flex items-center gap-1 text-xs"
-                          onClick={(e) => e.stopPropagation()}
+                leads.map((lead) => {
+                  const industry = getIndustry(lead);
+                  const completeness = getCompleteness(lead);
+                  const contactsCount = getContactsCount(lead);
+
+                  return (
+                    <tr
+                      key={lead.id}
+                      className="hover:bg-muted/30 transition-colors group"
+                    >
+                      <td className="p-3" onClick={(e) => e.stopPropagation()}>
+                        <Checkbox
+                          checked={selectedIds.has(lead.id)}
+                          onCheckedChange={() => toggleSelect(lead.id)}
+                        />
+                      </td>
+                      <td className="p-3" onClick={(e) => e.stopPropagation()}>
+                        <DropdownMenu>
+                          <DropdownMenuTrigger asChild>
+                            <button className="flex items-center gap-1">
+                              <Badge
+                                className={`text-xs border cursor-pointer hover:opacity-80 ${getStatusColor(lead.status)}`}
+                              >
+                                {lead.status ?? "New"}
+                                <ChevronDown className="w-3 h-3 ml-1" />
+                              </Badge>
+                            </button>
+                          </DropdownMenuTrigger>
+                          <DropdownMenuContent>
+                            {ALL_STATUSES.map((s) => (
+                              <DropdownMenuItem
+                                key={s}
+                                onClick={() => handleStatusChange(lead.id, s)}
+                              >
+                                {s}
+                              </DropdownMenuItem>
+                            ))}
+                          </DropdownMenuContent>
+                        </DropdownMenu>
+                      </td>
+                      <td className="p-3">
+                        <Link
+                          href={`/leads/${lead.id}`}
+                          className="font-medium text-foreground hover:text-primary transition-colors"
                         >
-                          {lead.domain ?? lead.website}
-                          <ExternalLink className="w-3 h-3" />
-                        </a>
-                      ) : (
-                        <span className="text-muted-foreground text-xs">—</span>
-                      )}
-                    </td>
-                    <td className="p-3 hidden md:table-cell">
-                      <div>
-                        <p className="text-sm">{lead.contact_name ?? "—"}</p>
-                        {lead.contact_title && (
-                          <p className="text-xs text-muted-foreground">
-                            {lead.contact_title}
-                          </p>
+                          {lead.company_name}
+                        </Link>
+                        {lead.city && (
+                          <p className="text-xs text-muted-foreground">{lead.city}</p>
                         )}
-                      </div>
-                    </td>
-                    <td className="p-3 hidden md:table-cell text-sm text-muted-foreground">
-                      {lead.mobile_phone ?? lead.phone_hq ?? "—"}
-                    </td>
-                    <td className="p-3">
-                      <span className="text-sm font-mono">{lead.state ?? "—"}</span>
-                    </td>
-                    <td className="p-3">
-                      {lead.quality_score !== null &&
-                      lead.quality_score !== undefined ? (
-                        <Badge
-                          className={`text-xs border ${getScoreColor(lead.quality_score)}`}
-                        >
-                          {lead.quality_score}
-                        </Badge>
-                      ) : (
-                        <span className="text-muted-foreground text-xs">—</span>
-                      )}
-                    </td>
-                    <td className="p-3 hidden lg:table-cell">
-                      {lead.verified ? (
-                        <CheckCircle className="w-4 h-4 text-green-400" />
-                      ) : (
-                        <span className="text-muted-foreground text-xs">—</span>
-                      )}
-                    </td>
-                    <td className="p-3 hidden xl:table-cell text-xs text-muted-foreground">
-                      {lead.source ?? "—"}
-                    </td>
-                  </tr>
-                ))
+                      </td>
+                      <td className="p-3 hidden lg:table-cell">
+                        <IndustryBadge industry={industry} />
+                      </td>
+                      <td className="p-3 hidden lg:table-cell">
+                        {lead.website ? (
+                          <a
+                            href={
+                              lead.website.startsWith("http")
+                                ? lead.website
+                                : `https://${lead.website}`
+                            }
+                            target="_blank"
+                            rel="noopener noreferrer"
+                            className="text-blue-400 hover:text-blue-300 flex items-center gap-1 text-xs"
+                            onClick={(e) => e.stopPropagation()}
+                          >
+                            {lead.domain ?? lead.website}
+                            <ExternalLink className="w-3 h-3" />
+                          </a>
+                        ) : (
+                          <span className="text-muted-foreground text-xs">—</span>
+                        )}
+                      </td>
+                      <td className="p-3 hidden md:table-cell">
+                        <div>
+                          <p className="text-sm">{lead.contact_name ?? "—"}</p>
+                          {lead.contact_title && (
+                            <p className="text-xs text-muted-foreground">{lead.contact_title}</p>
+                          )}
+                        </div>
+                      </td>
+                      <td className="p-3 hidden md:table-cell text-sm text-muted-foreground">
+                        {lead.mobile_phone ?? lead.phone_hq ?? "—"}
+                      </td>
+                      <td className="p-3">
+                        <span className="text-sm font-mono">{lead.state ?? "—"}</span>
+                      </td>
+                      <td className="p-3">
+                        {lead.quality_score !== null && lead.quality_score !== undefined ? (
+                          <Badge className={`text-xs border ${getScoreColor(lead.quality_score)}`}>
+                            {lead.quality_score}
+                          </Badge>
+                        ) : (
+                          <span className="text-muted-foreground text-xs">—</span>
+                        )}
+                      </td>
+                      <td className="p-3 hidden xl:table-cell">
+                        <EnrichmentMiniBar value={completeness} />
+                      </td>
+                      <td className="p-3 hidden xl:table-cell text-sm text-muted-foreground">
+                        {contactsCount !== null ? (
+                          <span className="font-medium text-foreground">{contactsCount}</span>
+                        ) : (
+                          <span>—</span>
+                        )}
+                      </td>
+                      <td className="p-3 hidden lg:table-cell">
+                        {lead.verified ? (
+                          <CheckCircle className="w-4 h-4 text-green-400" />
+                        ) : (
+                          <span className="text-muted-foreground text-xs">—</span>
+                        )}
+                      </td>
+                      <td className="p-3 hidden xl:table-cell text-xs text-muted-foreground">
+                        {lead.source ?? "—"}
+                      </td>
+                    </tr>
+                  );
+                })
               )}
             </tbody>
           </table>
@@ -453,8 +544,8 @@ export default function LeadsPage() {
       {totalPages > 1 && (
         <div className="flex items-center justify-between">
           <p className="text-sm text-muted-foreground">
-            Showing {page * PAGE_SIZE + 1}–
-            {Math.min((page + 1) * PAGE_SIZE, total)} of {total.toLocaleString()}
+            Showing {page * PAGE_SIZE + 1}–{Math.min((page + 1) * PAGE_SIZE, total)} of{" "}
+            {total.toLocaleString()}
           </p>
           <div className="flex items-center gap-2">
             <Button

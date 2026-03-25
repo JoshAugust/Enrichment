@@ -10,12 +10,14 @@ import {
   Download,
   Settings,
   Dog,
+  Sparkles,
 } from "lucide-react";
 
 const navItems = [
   { href: "/", label: "Dashboard", icon: LayoutDashboard },
   { href: "/leads", label: "Leads", icon: Users },
   { href: "/agents", label: "Agents", icon: Bot },
+  { href: "/enrichment", label: "Enrichment", icon: Sparkles },
   { href: "/export", label: "Export", icon: Download },
   { href: "/settings", label: "Settings", icon: Settings },
 ];
@@ -66,7 +68,7 @@ export function Sidebar() {
       {/* Footer */}
       <div className="px-6 py-4 border-t border-border">
         <p className="text-xs text-muted-foreground">Corgi Insurance Enrichment</p>
-        <p className="text-xs text-muted-foreground/60">v1.0.0</p>
+        <p className="text-xs text-muted-foreground/60">v2.0.0</p>
       </div>
     </aside>
   );
