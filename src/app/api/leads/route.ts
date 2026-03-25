@@ -79,8 +79,31 @@ export async function GET(request: NextRequest) {
       db.select({ count: sql<number>`count(*)` }).from(leads).where(where),
     ]);
 
+    // Fetch top contact per lead (highest email_confidence, then most recent)
+    const topContactsMap: Record<string, Record<string, unknown>> = {};
+    if (leadsResult.length > 0) {
+      const leadIds = leadsResult.map((l) => l.id);
+      try {
+        const topContacts = await db.execute(
+          sql`SELECT DISTINCT ON (lead_id) * FROM contacts WHERE lead_id = ANY(${leadIds}) ORDER BY lead_id, email_confidence DESC NULLS LAST, created_at DESC`
+        );
+        for (const contact of topContacts) {
+          const c = contact as Record<string, unknown>;
+          const lid = c.lead_id as string;
+          if (lid) topContactsMap[lid] = c;
+        }
+      } catch (contactErr) {
+        console.warn("Failed to fetch top contacts:", contactErr);
+      }
+    }
+
+    const leadsWithContacts = leadsResult.map((lead) => ({
+      ...lead,
+      top_contact: topContactsMap[lead.id] ?? null,
+    }));
+
     return NextResponse.json({
-      leads: leadsResult,
+      leads: leadsWithContacts,
       total: Number(countResult[0]?.count ?? 0),
     });
   } catch (error) {
