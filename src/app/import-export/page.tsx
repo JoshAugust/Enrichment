@@ -35,16 +35,6 @@ interface ExportRecord {
   created_at: string;
 }
 
-interface ImportPreview {
-  fileName: string;
-  totalRows: number;
-  columns: string[];
-  mappedColumns: Record<string, string>;
-  sampleRows: Record<string, string>[];
-  duplicateCount: number;
-  newCount: number;
-}
-
 interface ImportResult {
   imported: number;
   duplicates: number;
@@ -176,7 +166,6 @@ export default function ImportExportPage() {
   const [columnMapping, setColumnMapping] = useState<Record<string, string>>({});
   const [importResult, setImportResult] = useState<ImportResult | null>(null);
   const [importError, setImportError] = useState<string | null>(null);
-  const [importing, setImporting] = useState(false);
   const fileInputRef = useRef<HTMLInputElement>(null);
 
   // ── Export ──────────────────────────────────────────────────────────────
@@ -297,7 +286,7 @@ export default function ImportExportPage() {
           const err = await res.json().catch(() => ({ error: "Unknown error" }));
           errors.push(`Row ${i + 2} (${lead.company_name}): ${err.error}`);
         }
-      } catch (e) {
+      } catch (_e) {
         errors.push(`Row ${i + 2} (${lead.company_name}): Network error`);
       }
 
