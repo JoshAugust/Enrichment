@@ -237,7 +237,6 @@ export default function ImportExportPage() {
 
   const handleStartImport = async () => {
     if (!csvData) return;
-    setImporting(true);
     setImportStep("importing");
     setImportError(null);
 
@@ -297,7 +296,6 @@ export default function ImportExportPage() {
     }
 
     setImportResult({ imported, duplicates, errors: errors.slice(0, 50) });
-    setImporting(false);
     setImportStep("done");
   };
 
