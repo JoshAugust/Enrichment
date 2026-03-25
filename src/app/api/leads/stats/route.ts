@@ -1,13 +1,11 @@
 import { NextRequest, NextResponse } from "next/server";
 import { getDb } from "@/db";
 import { leads } from "@/db/schema";
-import { validateApiKey, unauthorizedResponse } from "@/lib/auth";
 import { sql, isNotNull, gte } from "drizzle-orm";
 
 export async function GET(request: NextRequest) {
-  if (!validateApiKey(request)) {
-    return unauthorizedResponse();
-  }
+  void request; // satisfy linter
+  // Allow unauthenticated read access for frontend UI
 
   const db = getDb();
 

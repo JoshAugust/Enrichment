@@ -25,7 +25,7 @@ export default function ExportPage() {
   const fetchHistory = async () => {
     try {
       const res = await fetch("/api/export/history", {
-        headers: { "x-api-key": process.env.NEXT_PUBLIC_API_KEY ?? "" },
+        
       });
       if (res.ok) {
         setHistory(await res.json());

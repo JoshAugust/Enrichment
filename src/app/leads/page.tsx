@@ -100,7 +100,7 @@ export default function LeadsPage() {
       }
 
       const res = await fetch(`/api/leads?${params}`, {
-        headers: { "x-api-key": process.env.NEXT_PUBLIC_API_KEY ?? "" },
+        // Auth not needed for read endpoints
       });
 
       if (!res.ok) throw new Error("Failed to fetch");

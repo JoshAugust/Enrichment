@@ -89,7 +89,7 @@ export default function LeadDetailPage({ params }: Props) {
     const fetchLead = async () => {
       try {
         const res = await fetch(`/api/leads/${id}`, {
-          headers: { "x-api-key": process.env.NEXT_PUBLIC_API_KEY ?? "" },
+          
         });
         if (!res.ok) throw new Error("Not found");
         const data = await res.json();
@@ -108,7 +108,7 @@ export default function LeadDetailPage({ params }: Props) {
     setLogLoading(true);
     try {
       const res = await fetch(`/api/enrichment/log/${id}`, {
-        headers: { "x-api-key": process.env.NEXT_PUBLIC_API_KEY ?? "" },
+        
       });
       if (!res.ok) return;
       const data = await res.json();

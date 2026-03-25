@@ -37,10 +37,7 @@ const LeadCreateSchema = z.object({
 });
 
 export async function GET(request: NextRequest) {
-  if (!validateApiKey(request)) {
-    return unauthorizedResponse();
-  }
-
+  // Allow unauthenticated read access for the frontend UI
   const db = getDb();
   const { searchParams } = new URL(request.url);
   const status = searchParams.get("status");

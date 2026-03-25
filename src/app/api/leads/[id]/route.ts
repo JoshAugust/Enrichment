@@ -39,10 +39,7 @@ const LeadPatchSchema = z.object({
 type RouteContext = { params: Promise<{ id: string }> };
 
 export async function GET(request: NextRequest, context: RouteContext) {
-  if (!validateApiKey(request)) {
-    return unauthorizedResponse();
-  }
-
+  // Allow unauthenticated read access for the frontend UI
   const db = getDb();
   const { id } = await context.params;
 

@@ -105,7 +105,7 @@ export default function EnrichmentPage() {
     // Try to fetch source health
     try {
       const res = await fetch("/api/enrichment/sources", {
-        headers: { "x-api-key": process.env.NEXT_PUBLIC_API_KEY ?? "" },
+        
       });
       if (res.ok) {
         const data = await res.json();
@@ -121,7 +121,7 @@ export default function EnrichmentPage() {
     // Fetch queue depth
     try {
       const res = await fetch("/api/tasks?status=pending&task_type=enrich", {
-        headers: { "x-api-key": process.env.NEXT_PUBLIC_API_KEY ?? "" },
+        
       });
       if (res.ok) {
         const data = await res.json();
@@ -135,7 +135,7 @@ export default function EnrichmentPage() {
     setLogLoading(true);
     try {
       const res = await fetch("/api/enrichment/log?limit=50", {
-        headers: { "x-api-key": process.env.NEXT_PUBLIC_API_KEY ?? "" },
+        
       });
       if (res.ok) {
         const data = await res.json();

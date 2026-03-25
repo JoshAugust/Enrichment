@@ -65,10 +65,10 @@ export default function AgentsPage() {
       try {
         const [runsRes, tasksRes] = await Promise.all([
           fetch("/api/search-runs?limit=200", {
-            headers: { "x-api-key": process.env.NEXT_PUBLIC_API_KEY ?? "" },
+            
           }),
           fetch("/api/tasks?limit=100", {
-            headers: { "x-api-key": process.env.NEXT_PUBLIC_API_KEY ?? "" },
+            
           }),
         ]);
 

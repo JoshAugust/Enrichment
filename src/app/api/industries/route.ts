@@ -18,8 +18,8 @@ const IndustryCreateSchema = z.object({
 });
 
 export async function GET(request: NextRequest) {
-  if (!validateApiKey(request)) return unauthorizedResponse();
-
+  void request; // satisfy linter
+  // Allow unauthenticated read access for frontend UI
   const db = getDb();
   try {
     const configs = await db.select().from(industry_config);
