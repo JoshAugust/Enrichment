@@ -28,9 +28,13 @@ import * as newsMonitor from "./sources/news-monitor";
 import * as jobPostings from "./sources/job-postings";
 import * as socialSignals from "./sources/social-signals";
 import * as secEdgar from "./sources/sec-edgar";
+import * as wappalyzer from "./sources/wappalyzer";
+import * as phoneValidation from "./sources/phone-validation";
 
 const LEAD_SOURCES = [
   { name: "company-website", mod: companyWebsite },
+  // wappalyzer runs alongside company-website (both analyse the website)
+  { name: "wappalyzer", mod: wappalyzer },
   { name: "web-search", mod: webSearch },
   { name: "email-discovery", mod: emailDiscovery },
   { name: "linkedin", mod: linkedinSource },
@@ -39,6 +43,8 @@ const LEAD_SOURCES = [
   { name: "job-postings", mod: jobPostings },
   { name: "social-signals", mod: socialSignals },
   { name: "sec-edgar", mod: secEdgar },
+  // phone-validation runs after contact enrichment populates phone fields
+  { name: "phone-validation", mod: phoneValidation },
 ];
 
 const CONTACT_SOURCES = [
@@ -47,6 +53,8 @@ const CONTACT_SOURCES = [
   { name: "email-discovery", mod: emailDiscovery },
   { name: "social-signals", mod: socialSignals },
   { name: "news-monitor", mod: newsMonitor },
+  // phone-validation runs after other sources may surface phone numbers
+  { name: "phone-validation", mod: phoneValidation },
 ];
 
 // ── Key fields for completeness calculation ───────────────────────────────────
