@@ -30,6 +30,8 @@ import * as socialSignals from "./sources/social-signals";
 import * as secEdgar from "./sources/sec-edgar";
 import * as wappalyzer from "./sources/wappalyzer";
 import * as phoneValidation from "./sources/phone-validation";
+import * as apollo from "./sources/apollo";
+import type { ApolloContact } from "./sources/apollo";
 
 const LEAD_SOURCES = [
   { name: "company-website", mod: companyWebsite },
@@ -43,6 +45,8 @@ const LEAD_SOURCES = [
   { name: "job-postings", mod: jobPostings },
   { name: "social-signals", mod: socialSignals },
   { name: "sec-edgar", mod: secEdgar },
+  // Apollo enrichment: company data + decision-maker contacts
+  { name: "apollo", mod: apollo },
   // phone-validation runs after contact enrichment populates phone fields
   { name: "phone-validation", mod: phoneValidation },
 ];
@@ -266,6 +270,52 @@ export async function enrichLead(
       fieldsFound: Object.keys(result.data || {}).filter((k) => result.data[k] !== null).length,
       error: result.error,
     });
+  }
+
+  // ── Insert Apollo contacts ────────────────────────────────────────────────
+  const apolloResult = settled.find((s) => s.sourceName === "apollo");
+  if (apolloResult?.result.success && apolloResult.result.data?.contacts) {
+    const apolloContacts = apolloResult.result.data.contacts as ApolloContact[];
+    if (apolloContacts.length > 0) {
+      console.log(`[pipeline] Inserting ${apolloContacts.length} Apollo contacts for lead ${leadId}`);
+      for (const c of apolloContacts) {
+        if (!c.name) continue;
+        try {
+          // Upsert by name + lead_id to avoid duplicates on re-runs
+          const existing = leadContacts.find(
+            (lc) => lc.name.toLowerCase() === c.name.toLowerCase()
+          );
+          if (existing) {
+            // Update with Apollo data if fields are missing
+            const updates: Record<string, unknown> = {};
+            if (c.email && !existing.email) updates.email = c.email;
+            if (c.phone && !existing.phone) updates.phone = c.phone;
+            if (c.title && !existing.title) updates.title = c.title;
+            if (c.linkedin_url && !existing.linkedin_url) updates.linkedin_url = c.linkedin_url;
+            if (Object.keys(updates).length > 0) {
+              await db
+                .update(contacts)
+                .set({ ...updates, last_enriched_at: new Date() })
+                .where(eq(contacts.id, existing.id));
+            }
+          } else {
+            await db.insert(contacts).values({
+              lead_id: leadId,
+              name: c.name,
+              title: c.title ?? null,
+              email: c.email ?? null,
+              phone: c.phone ?? null,
+              linkedin_url: c.linkedin_url ?? null,
+              source: "apollo",
+              verified: false,
+              last_enriched_at: new Date(),
+            });
+          }
+        } catch (err) {
+          console.warn(`[pipeline] Failed to upsert Apollo contact ${c.name}:`, err);
+        }
+      }
+    }
   }
 
   // Compute completeness
