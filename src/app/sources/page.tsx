@@ -24,6 +24,7 @@ import {
   Lock,
   Eye,
   Building2,
+  Info,
   type LucideIcon,
 } from "lucide-react";
 
@@ -387,50 +388,52 @@ function StatusPill({ status }: { status: SourceStatus }) {
 }
 
 function SourceTile({ source }: { source: Source }) {
-  const [showTooltip, setShowTooltip] = useState(false);
+  const [expanded, setExpanded] = useState(false);
   const Icon = source.icon;
   const isInactive = source.status !== "active";
 
   return (
     <div
-      className={`relative group rounded-xl border bg-gradient-to-br ${source.color} p-5 transition-all duration-200 hover:scale-[1.02] hover:shadow-lg hover:shadow-black/20 cursor-default ${isInactive ? "opacity-75" : ""}`}
-      onMouseEnter={() => setShowTooltip(true)}
-      onMouseLeave={() => setShowTooltip(false)}
+      className={`rounded-xl border bg-gradient-to-br ${source.color} transition-all duration-200 hover:shadow-lg hover:shadow-black/20 cursor-pointer ${isInactive ? "opacity-75" : ""}`}
+      onClick={() => setExpanded(!expanded)}
     >
-      {/* Header */}
-      <div className="flex items-start justify-between gap-3 mb-3">
-        <div className="flex items-center gap-3">
-          <div className={`p-2 rounded-lg bg-background/50 ${isInactive ? "opacity-60" : ""}`}>
-            <Icon className="w-5 h-5" />
+      <div className="p-5">
+        {/* Header */}
+        <div className="flex items-start justify-between gap-3 mb-3">
+          <div className="flex items-center gap-3">
+            <div className={`p-2 rounded-lg bg-background/50 ${isInactive ? "opacity-60" : ""}`}>
+              <Icon className="w-5 h-5" />
+            </div>
+            <div>
+              <h3 className="text-sm font-semibold leading-tight">{source.name}</h3>
+              <p className="text-xs text-muted-foreground mt-0.5">{source.description}</p>
+            </div>
           </div>
-          <div>
-            <h3 className="text-sm font-semibold leading-tight">{source.name}</h3>
-            <p className="text-xs text-muted-foreground mt-0.5">{source.description}</p>
-          </div>
+          <Info className={`w-4 h-4 text-muted-foreground/40 shrink-0 mt-0.5 transition-transform ${expanded ? "rotate-180" : ""}`} />
+        </div>
+
+        {/* Status */}
+        <div className="mb-3">
+          <StatusPill status={source.status} />
+        </div>
+
+        {/* Data chips */}
+        <div className="flex flex-wrap gap-1.5">
+          {source.dataProvided.map((d) => (
+            <span
+              key={d}
+              className="inline-block px-2 py-0.5 rounded-md text-[10px] font-medium bg-background/40 text-muted-foreground border border-white/5"
+            >
+              {d}
+            </span>
+          ))}
         </div>
       </div>
 
-      {/* Status */}
-      <div className="mb-3">
-        <StatusPill status={source.status} />
-      </div>
-
-      {/* Data chips */}
-      <div className="flex flex-wrap gap-1.5">
-        {source.dataProvided.map((d) => (
-          <span
-            key={d}
-            className="inline-block px-2 py-0.5 rounded-md text-[10px] font-medium bg-background/40 text-muted-foreground border border-white/5"
-          >
-            {d}
-          </span>
-        ))}
-      </div>
-
-      {/* Tooltip overlay */}
-      {showTooltip && (
-        <div className="absolute z-50 left-0 right-0 -bottom-2 translate-y-full">
-          <div className="mx-2 p-4 rounded-lg bg-popover border border-border shadow-xl text-sm text-popover-foreground leading-relaxed">
+      {/* Expandable detail panel */}
+      {expanded && (
+        <div className="px-5 pb-5 pt-0">
+          <div className="p-3 rounded-lg bg-background/60 border border-white/5 text-sm text-muted-foreground leading-relaxed">
             {source.tooltip}
           </div>
         </div>
