@@ -7,7 +7,9 @@ import { rateLimiter } from "./rate-limiter";
 import { EnrichmentResult } from "./web-search";
 
 const TIMEOUT_MS = 15000;
-const USER_AGENT = "Mozilla/5.0 (compatible; CorgiResearchBot/1.0)";
+// Use a real browser User-Agent — many sites serve stripped content to bots
+const USER_AGENT =
+  "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36";
 
 const PAGE_PATTERNS: Record<string, RegExp[]> = {
   about: [/\/about/i, /\/company/i, /\/who-we-are/i, /\/our-story/i],
@@ -141,12 +143,123 @@ function extractEmailsFromPage($: cheerio.CheerioAPI): string[] {
 }
 
 function extractPhonesFromPage($: cheerio.CheerioAPI): string[] {
-  const text = $("body").text();
-  const phoneRe = /(?:\+1[\s\-.]?)?\(?\d{3}\)?[\s\-.]?\d{3}[\s\-.]?\d{4}/g;
   const phones = new Set<string>();
-  let m;
-  while ((m = phoneRe.exec(text)) !== null) phones.add(m[0].trim());
-  return [...phones].slice(0, 5);
+
+  // Multiple phone regex patterns for different formats
+  const phonePatterns = [
+    /(?:\+1[\s\-.]?)?\(?\d{3}\)?[\s\-.]?\d{3}[\s\-.]?\d{4}/g,           // (555) 555-5555 or 555-555-5555
+    /\b1?[\s.-]?\(?\d{3}\)?[\s.-]?\d{3}[\s.-]?\d{4}\b/g,                 // 1-555-555-5555
+    /\b\d{3}[\s.-]\d{3}[\s.-]\d{4}\b/g,                                    // 555.555.5555
+    /\+1\s?\d{10}\b/g,                                                      // +15555555555
+  ];
+
+  // 1. Extract from tel: links (most reliable)
+  $('a[href^="tel:"]').each((_, el) => {
+    const href = $(el).attr("href") || "";
+    const num = href.replace("tel:", "").replace(/\s/g, "");
+    if (num.replace(/\D/g, "").length >= 10) phones.add(num);
+  });
+
+  // 2. Extract from structured data / schema.org
+  $('script[type="application/ld+json"]').each((_, el) => {
+    try {
+      const json = JSON.parse($(el).html() || "");
+      const items = Array.isArray(json) ? json : [json];
+      for (const item of items) {
+        for (const key of ["telephone", "phone", "contactPoint"]) {
+          if (typeof item[key] === "string") phones.add(item[key]);
+          if (item[key]?.telephone) phones.add(item[key].telephone);
+          if (Array.isArray(item[key])) {
+            for (const cp of item[key]) {
+              if (cp.telephone) phones.add(cp.telephone);
+            }
+          }
+        }
+      }
+    } catch { /* ignore bad JSON-LD */ }
+  });
+
+  // 3. Extract from meta tags
+  $('meta[name*="phone"], meta[property*="phone"], meta[name*="tel"], meta[itemprop="telephone"]').each((_, el) => {
+    const content = $(el).attr("content") || "";
+    if (content.replace(/\D/g, "").length >= 10) phones.add(content);
+  });
+
+  // 4. Extract from elements with phone-related classes/ids
+  $('[class*="phone"], [class*="tel"], [id*="phone"], [id*="tel"], [itemprop="telephone"]').each((_, el) => {
+    const text = $(el).text().trim();
+    for (const re of phonePatterns) {
+      re.lastIndex = 0;
+      let m;
+      while ((m = re.exec(text)) !== null) {
+        if (m[0].replace(/\D/g, "").length >= 10) phones.add(m[0].trim());
+      }
+    }
+  });
+
+  // 5. Extract from footer specifically (where most business phones live)
+  const footerSelectors = ["footer", "[class*='footer']", "[id*='footer']", "[role='contentinfo']",
+    "[class*='bottom-bar']", "[class*='site-info']", "[class*='contact-info']", "[class*='contact-bar']"];
+  for (const sel of footerSelectors) {
+    $(sel).each((_, el) => {
+      const text = $(el).text();
+      for (const re of phonePatterns) {
+        re.lastIndex = 0;
+        let m;
+        while ((m = re.exec(text)) !== null) {
+          if (m[0].replace(/\D/g, "").length >= 10) phones.add(m[0].trim());
+        }
+      }
+    });
+  }
+
+  // 6. Extract from header / top bar (many sites put phone in header)
+  const headerSelectors = ["header", "[class*='header']", "[id*='header']", "[class*='top-bar']",
+    "[class*='topbar']", "[class*='navbar']", "[class*='utility-nav']"];
+  for (const sel of headerSelectors) {
+    $(sel).each((_, el) => {
+      const text = $(el).text();
+      for (const re of phonePatterns) {
+        re.lastIndex = 0;
+        let m;
+        while ((m = re.exec(text)) !== null) {
+          if (m[0].replace(/\D/g, "").length >= 10) phones.add(m[0].trim());
+        }
+      }
+    });
+  }
+
+  // 7. Look near phone-related labels in full body text
+  const bodyHtml = $("body").html() || "";
+  const labelPatterns = [
+    /(?:phone|call|tel|telephone|call us|contact us|main office|toll.?free|fax)[:\s]*([(\d][\d\s.()\-+]{8,}[\d)])/gi,
+  ];
+  for (const re of labelPatterns) {
+    let m;
+    while ((m = re.exec(bodyHtml)) !== null) {
+      const candidate = m[1].trim();
+      if (candidate.replace(/\D/g, "").length >= 10) phones.add(candidate);
+    }
+  }
+
+  // 8. Full body text scan as final fallback
+  const bodyText = $("body").text();
+  for (const re of phonePatterns) {
+    re.lastIndex = 0;
+    let m;
+    while ((m = re.exec(bodyText)) !== null) {
+      const digits = m[0].replace(/\D/g, "");
+      // Filter out likely non-phone numbers (years, zip codes, etc.)
+      if (digits.length >= 10 && digits.length <= 11) {
+        // Skip if it looks like a year range or zip+4
+        if (!/^(19|20)\d{8}$/.test(digits)) {
+          phones.add(m[0].trim());
+        }
+      }
+    }
+  }
+
+  return [...phones].slice(0, 10);
 }
 
 function extractTeamMembers($: cheerio.CheerioAPI) {
@@ -354,6 +467,10 @@ export async function enrich(
       phones: homepagePhones,
     };
 
+    // Map extracted arrays to lead DB fields so the pipeline can persist them
+    if (homepagePhones.length > 0) data.phone_hq = homepagePhones[0];
+    if (homepageEmails.length > 0) data.email = homepageEmails[0];
+
     if (foundingYear) data.founded_year = foundingYear;
     if (employeeCount) data.employee_count = employeeCount;
 
@@ -397,6 +514,12 @@ export async function enrich(
       const contactSocial = extractSocialLinks($contact, baseUrl);
       data.socialLinks = { ...contactSocial, ...(data.socialLinks as Record<string, string>) };
     }
+
+    // Update phone_hq and email with best available from all pages
+    const allPhones = data.phones as string[];
+    const allEmails = data.emails as string[];
+    if (allPhones.length > 0 && !data.phone_hq) data.phone_hq = allPhones[0];
+    if (allEmails.length > 0 && !data.email) data.email = allEmails[0];
 
     const sl = data.socialLinks as Record<string, string>;
     if (sl.linkedin && !existingData.linkedin_url) data.linkedin_url = sl.linkedin;
