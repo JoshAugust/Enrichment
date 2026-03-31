@@ -1,0 +1,142 @@
+[
+  {
+    "company_name": "Galax-eSystems Corporation",
+    "revenue_usd_000s": 9000,
+    "revenue_source": "Web search (ZoomInfo, RocketReach — multiple aggregators consistent at $9M)",
+    "revenue_confidence": "Low",
+    "revenue_year": "2025",
+    "revenue_notes": "Apollo returned null. Multiple business data aggregators (ZoomInfo, RocketReach) consistently cite $9M. Note: these are algorithmic estimates, not self-reported figures. Apollo employee count: 26.",
+    "employee_count_verified": 26,
+    "employee_source": "Apollo"
+  },
+  {
+    "company_name": "1460 CAPITAL CORP INC",
+    "revenue_usd_000s": 4500,
+    "revenue_source": "Apollo (domain: pacificcoastcommercial.com — matched to 'Pacific Coast Commercial')",
+    "revenue_confidence": "Medium",
+    "revenue_year": "estimated",
+    "revenue_notes": "Apollo returned $4.5M for the entity behind pacificcoastcommercial.com, identified as 'Pacific Coast Commercial'. The legal name in the dataset is '1460 Capital Corp Inc' — same website, likely same operating entity. San Diego, CA commercial real estate. Apollo employee count: 110 (appears to be for larger Pacific Coast Commercial group).",
+    "employee_count_verified": 110,
+    "employee_source": "Apollo"
+  },
+  {
+    "company_name": "VILLAGE TRUCK SALES INC",
+    "revenue_usd_000s": 3093,
+    "revenue_source": "Web search (Dun & Bradstreet profile via web search — $3,093,247; Manta: $3,742,829)",
+    "revenue_confidence": "Low",
+    "revenue_year": "estimated",
+    "revenue_notes": "D&B and Manta both cite ~$3.1–3.7M and are consistent with each other. Apollo returned $16.9M with only 3 employees which is inconsistent — D&B/Manta also show 15 employees, which is more credible for this family-owned MA truck dealership. D&B explicitly flags the record as UNVERIFIED. Reporting lower D&B figure; discrepancy with Apollo noted.",
+    "employee_count_verified": 15,
+    "employee_source": "Web search (D&B / Manta)"
+  },
+  {
+    "company_name": "MASTERWORKS CONSTRUCTION SERVICES, INC.",
+    "revenue_usd_000s": null,
+    "revenue_source": null,
+    "revenue_confidence": "Unknown",
+    "revenue_year": null,
+    "revenue_notes": "Apollo returned null. Web sources are highly inconsistent: Buzzfile cites ~$937K, another source cites $244K. Given major conflict and both being low-reliability algorithmic estimators, no credible figure available. SBA PPP loan data shows 7 retained jobs. Very small Long Beach, CA general contractor.",
+    "employee_count_verified": 7,
+    "employee_source": "Web search (SBA PPP loan records)"
+  },
+  {
+    "company_name": "KENTUCKY COUNTRY DAY SCHOOL, INC.",
+    "revenue_usd_000s": 21700,
+    "revenue_source": "ProPublica Nonprofit Explorer — IRS Form 990 (FY ending June 2024)",
+    "revenue_confidence": "High",
+    "revenue_year": "2024",
+    "revenue_notes": "Form 990 (filed January 2024 per ProPublica) shows revenue of $21.7M. Expenses $20.8M. Total assets $66M. Also confirmed by Apollo independently at $21,694,000. Louisville, KY private K-12 school. 501(c)(3) nonprofit.",
+    "employee_count_verified": 190,
+    "employee_source": "Apollo"
+  },
+  {
+    "company_name": "PHEIFER BROTHERS CONSTRUCTION COMPANY, INC.",
+    "revenue_usd_000s": 12400,
+    "revenue_source": "Web search (ZoomInfo — cited $12.4M)",
+    "revenue_confidence": "Low",
+    "revenue_year": "2025",
+    "revenue_notes": "Apollo returned null. ZoomInfo cites $12.4M. ZoomInfo uses algorithmic estimation — this is not a self-reported figure. Neenah, WI bridge construction company, founded 1952, third-generation family business. 11 employees on LinkedIn/Apollo.",
+    "employee_count_verified": 11,
+    "employee_source": "Apollo"
+  },
+  {
+    "company_name": "JOSEPH H. ROBERTS INC.",
+    "revenue_usd_000s": null,
+    "revenue_source": null,
+    "revenue_confidence": "Unknown",
+    "revenue_year": null,
+    "revenue_notes": "Apollo returned a different company ('MHS') for jhrobertsinc.com with only 4 employees. Web searches found Joseph H. Roberts Inc. is an HVAC company in Forked River, NJ (founded 1979), but no revenue data found in any accessible public source. Small private HVAC firm with no public financial disclosures.",
+    "employee_count_verified": null,
+    "employee_source": null
+  },
+  {
+    "company_name": "JAMES DEAN CONSTRUCTION INC.",
+    "revenue_usd_000s": null,
+    "revenue_source": null,
+    "revenue_confidence": "Unknown",
+    "revenue_year": null,
+    "revenue_notes": "Apollo returned null. Salary.com shows a revenue range of $5M–$10M, but range-only figures excluded per research rules. SBA PPP loan records show 40 retained jobs. White Salmon, WA — road, bridge, excavation contractor. No specific point-figure found from a credible single source.",
+    "employee_count_verified": 40,
+    "employee_source": "Web search (SBA PPP loan records)"
+  },
+  {
+    "company_name": "J.L.W. TRUCKING, INC.",
+    "revenue_usd_000s": 4011,
+    "revenue_source": "Web search (Manta.com — $4,011,189; Eatonton, GA)",
+    "revenue_confidence": "Low",
+    "revenue_year": "estimated",
+    "revenue_notes": "Apollo returned null for jlwtruckingco.com. Manta cites $4,011,189 in annual revenue with ~35 employees. Family-owned hauling company based in Eatonton, GA, founded 1991. Manta figures are business-directory estimates, not self-reported.",
+    "employee_count_verified": 35,
+    "employee_source": "Web search (Manta)"
+  },
+  {
+    "company_name": "PACIFIC LIVING PROPERTIES, INC.",
+    "revenue_usd_000s": 13400,
+    "revenue_source": "Apollo (domain: pacificliving.com — resolved to '11Residential')",
+    "revenue_confidence": "Low",
+    "revenue_year": "estimated",
+    "revenue_notes": "Apollo enrichment of pacificliving.com returned '11Residential' with $13.4M and 120 employees. LinkedIn confirms the Pacific Living Properties company page now redirects to 11Residential (Kirkland, WA property management). These appear to be the same entity or a rebrand. Revenue is for the 11Residential entity; attribution to 'Pacific Living Properties' legal name is uncertain. See also 11Residential entry below.",
+    "employee_count_verified": 120,
+    "employee_source": "Apollo"
+  },
+  {
+    "company_name": "11RESIDENTIAL (11residential.com)",
+    "revenue_usd_000s": 13400,
+    "revenue_source": "Apollo (domain: 11residential.com — matched to '11Residential')",
+    "revenue_confidence": "Medium",
+    "revenue_year": "estimated",
+    "revenue_notes": "Apollo returned $13.4M for 11Residential. Same data returned for both 11residential.com and pacificliving.com, confirming these are the same operating entity. Kirkland, WA property management company, ~120 employees per Apollo.",
+    "employee_count_verified": 120,
+    "employee_source": "Apollo"
+  },
+  {
+    "company_name": "HEALTHY MOTHERS/HEALTHY BABIES COALITION OF PALM BEACH COUNTY, INC.",
+    "revenue_usd_000s": 5990,
+    "revenue_source": "ProPublica Nonprofit Explorer — IRS Form 990 (FY ending Sept 2024, filed May 2025)",
+    "revenue_confidence": "High",
+    "revenue_year": "2024",
+    "revenue_notes": "Form 990 via ProPublica shows FY2024 (Sept year-end) revenue of $5,990,000, expenses $6.3M, total assets $4.73M, total liabilities $2.67M. EIN: 59-2657051. 501(c)(3) maternal health nonprofit, West Palm Beach FL. Note: Apollo returned $17.6M which is incorrect — Form 990 is authoritative.",
+    "employee_count_verified": 66,
+    "employee_source": "Apollo"
+  },
+  {
+    "company_name": "NOVA HEALTHCARE GROUP",
+    "revenue_usd_000s": null,
+    "revenue_source": null,
+    "revenue_confidence": "Unknown",
+    "revenue_year": null,
+    "revenue_notes": "Apollo returned null. Web searches found Nova Healthcare Group LLC is a very small Las Vegas, NV in-home primary care practice with 2 NP providers. No public revenue data found. Private LLC, not required to disclose financials.",
+    "employee_count_verified": 1,
+    "employee_source": "Apollo"
+  },
+  {
+    "company_name": "ALIGNED ENERGY DATA CENTER",
+    "revenue_usd_000s": 150000,
+    "revenue_source": "Apollo (domain: aligneddc.com — matched to 'Aligned Data Centers')",
+    "revenue_confidence": "Medium",
+    "revenue_year": "estimated",
+    "revenue_notes": "Apollo returned $150M for Aligned Data Centers. Company is private — no audited revenue disclosed publicly. Confirmed major scale: $40B enterprise value acquisition by BlackRock/GIP/NVIDIA consortium (Oct 2025), $12B+ capital raise (Jan 2025), 50 data centers globally, 5GW capacity. One web source (Growjo) shows $76.3M — discrepancy vs Apollo's $150M. Apollo figure retained as most likely given scale. ~510 employees per Apollo.",
+    "employee_count_verified": 510,
+    "employee_source": "Apollo"
+  }
+]

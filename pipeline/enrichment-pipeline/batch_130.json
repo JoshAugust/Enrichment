@@ -1,0 +1,934 @@
+[
+  {
+    "name": "VOYENCE INC",
+    "state": "TX",
+    "year_incorporated": "2001",
+    "nace": "5829",
+    "employees": "60",
+    "revenue_usd": 870000,
+    "pl_before_tax": null,
+    "total_assets": null,
+    "equity": null,
+    "website": "www.dellemc.com",
+    "description": "Network configuration management software developer",
+    "contacts": [
+      {
+        "name": "Mr Ike Smith",
+        "title": "Owner"
+      }
+    ]
+  },
+  {
+    "name": "NEWTEK OF TEXAS INC",
+    "state": "TX",
+    "year_incorporated": "1996",
+    "nace": "5829",
+    "employees": "75",
+    "revenue_usd": 870000,
+    "pl_before_tax": null,
+    "total_assets": null,
+    "equity": null,
+    "website": "www.newtek.com",
+    "description": null,
+    "contacts": []
+  },
+  {
+    "name": "SCICOMP INC.",
+    "state": "TX",
+    "year_incorporated": "1998",
+    "nace": "5829",
+    "employees": "32",
+    "revenue_usd": 870000,
+    "pl_before_tax": null,
+    "total_assets": null,
+    "equity": null,
+    "website": "www.scicomp.com",
+    "description": null,
+    "contacts": [
+      {
+        "name": "Mr Curt Randall",
+        "title": "Principal"
+      },
+      {
+        "name": "Mr Curt Randall",
+        "title": "Vice President - Application"
+      },
+      {
+        "name": "Ms Elaine Kant",
+        "title": "Executive Officer"
+      },
+      {
+        "name": "Mr Lawrence Schumann",
+        "title": "Chief Financial Officer"
+      },
+      {
+        "name": "Mr David Johansen",
+        "title": "Vice President Sales"
+      },
+      {
+        "name": "Ms Stacy Formby",
+        "title": "Director, Marketing"
+      },
+      {
+        "name": "Sholem Greenbaum",
+        "title": "Officer"
+      },
+      {
+        "name": "Mr Dean Tallam",
+        "title": "Dean"
+      }
+    ]
+  },
+  {
+    "name": "EPS SOFTWARE CORP",
+    "state": "TX",
+    "year_incorporated": "2022",
+    "nace": "5829",
+    "employees": "21",
+    "revenue_usd": 870000,
+    "pl_before_tax": null,
+    "total_assets": null,
+    "equity": null,
+    "website": "www.eps-software.com",
+    "description": null,
+    "contacts": [
+      {
+        "name": "Mr Markus Egger",
+        "title": "President"
+      },
+      {
+        "name": "Mr Markus Egger",
+        "title": "Secretary"
+      },
+      {
+        "name": "Mr Markus Egger",
+        "title": "No specific function"
+      },
+      {
+        "name": "Ms Ellen Elizabeth Whitney",
+        "title": "Vice President and Chief Financial Officer"
+      },
+      {
+        "name": "Ms Ellen Elizabeth Whitney",
+        "title": "Vice Director"
+      },
+      {
+        "name": "Mr James P Duffy",
+        "title": "Director of Marketing and Business Development"
+      },
+      {
+        "name": "Mr Iain Hopwood",
+        "title": "Director of Business Development"
+      },
+      {
+        "name": "Ms Tammy Ferguson",
+        "title": "Executive Assistant / Publication Manager"
+      },
+      {
+        "name": "Mr James Michael Yeager",
+        "title": "Chief Operating Officer"
+      },
+      {
+        "name": "Mr Geoffrey Callaghan",
+        "title": "Senior Software Developer"
+      },
+      {
+        "name": "Mr Jeff Etter",
+        "title": "Senior Software Developer"
+      },
+      {
+        "name": "Mr Ahmed Ilyas",
+        "title": "Consultant & Senior Software Developer"
+      }
+    ]
+  },
+  {
+    "name": "INSURANCE RATING SYSTEMS INC",
+    "state": "TX",
+    "year_incorporated": null,
+    "nace": "5829",
+    "employees": "21",
+    "revenue_usd": 870000,
+    "pl_before_tax": null,
+    "total_assets": null,
+    "equity": null,
+    "website": "www.irsaims.com",
+    "description": "Document management software developer",
+    "contacts": []
+  },
+  {
+    "name": "TOPAZ TECHNOLOGIES, LLC",
+    "state": "TX",
+    "year_incorporated": "2010",
+    "nace": "5829",
+    "employees": "22",
+    "revenue_usd": 870000,
+    "pl_before_tax": null,
+    "total_assets": null,
+    "equity": null,
+    "website": "www.topazti.com",
+    "description": null,
+    "contacts": [
+      {
+        "name": "Mr James Baker",
+        "title": "President"
+      },
+      {
+        "name": "Mr Aaron Plante",
+        "title": "General Manager"
+      },
+      {
+        "name": "Mr Aaron Plante",
+        "title": "Chief Operating Officer"
+      },
+      {
+        "name": "Mr Ronald Thornton",
+        "title": "Chief Executive Officer"
+      },
+      {
+        "name": "Mr Steve Cimicata",
+        "title": "Secretary"
+      },
+      {
+        "name": "Ms Randy Sanders",
+        "title": "Controller"
+      },
+      {
+        "name": "Mr Todd Thomas",
+        "title": "Senior Sales Executive"
+      },
+      {
+        "name": "Ms Laurie Childers",
+        "title": "Manager, Client Care"
+      },
+      {
+        "name": "Mr Bennett Easton",
+        "title": "Client Services Specialist"
+      },
+      {
+        "name": "Mr Richard Chabot",
+        "title": "Director, Development"
+      },
+      {
+        "name": "Mr Richard Chabot",
+        "title": "Chief Information Officer"
+      },
+      {
+        "name": "Mr Richard Chabot",
+        "title": "Senior Director, Information Technology"
+      },
+      {
+        "name": "Mr Sean Goggin",
+        "title": "Project Manager, Implementation"
+      },
+      {
+        "name": "Ms Danielle Risko",
+        "title": "Implementation Project Manager"
+      },
+      {
+        "name": "Mr Alexei Kazakov",
+        "title": "Principal Software Developer"
+      },
+      {
+        "name": "Mr Scott Braziel",
+        "title": "Database Engineer"
+      },
+      {
+        "name": "Mr Ricky Collins",
+        "title": "It Support Technician"
+      },
+      {
+        "name": "Mr Eric Dorothy",
+        "title": "Software Engineer"
+      },
+      {
+        "name": "Mr Javier Gamboa",
+        "title": "Software Tester"
+      },
+      {
+        "name": "Ms Phanitha Paturi",
+        "title": "Software Developer"
+      },
+      {
+        "name": "Mr Rob Clay",
+        "title": "Signing Officer"
+      },
+      {
+        "name": "Mr Brian Beattie",
+        "title": "Manager"
+      },
+      {
+        "name": "Mr Richard Cole",
+        "title": "Manager"
+      },
+      {
+        "name": "Mr John Gilmore",
+        "title": "Manager"
+      },
+      {
+        "name": "Mr John D Long JR",
+        "title": "Manager"
+      },
+      {
+        "name": "Mr Mark Miller",
+        "title": "Manager"
+      },
+      {
+        "name": "Mr Carl Michael Peters",
+        "title": "Category Manager"
+      },
+      {
+        "name": "Justine Alires",
+        "title": ".Net Developer"
+      },
+      {
+        "name": "Mr Jitender Singh",
+        "title": "Developer"
+      }
+    ]
+  },
+  {
+    "name": "EMLOGIS INC",
+    "state": "TX",
+    "year_incorporated": "2009",
+    "nace": "5829",
+    "employees": "14",
+    "revenue_usd": 870000,
+    "pl_before_tax": null,
+    "total_assets": null,
+    "equity": null,
+    "website": "www.emlogis.com",
+    "description": "Operates as a developer and supplier of innovative employee scheduling solutions",
+    "contacts": [
+      {
+        "name": "Mr Lester Amidei",
+        "title": "Chairman"
+      },
+      {
+        "name": "Mr Lester Amidei",
+        "title": "President"
+      },
+      {
+        "name": "Mr Martin D Estill",
+        "title": "Chairman"
+      },
+      {
+        "name": "Mr Joseph E Horzepa",
+        "title": "Secretary"
+      },
+      {
+        "name": "Mr William Walker",
+        "title": "Secretary"
+      },
+      {
+        "name": "Mr Chris Kiklas",
+        "title": "Treasurer"
+      },
+      {
+        "name": "Mr Joseph H Kirkland",
+        "title": "Prod Manager"
+      }
+    ]
+  },
+  {
+    "name": "YIELDWERX",
+    "state": "TX",
+    "year_incorporated": "2015",
+    "nace": "5829",
+    "employees": "45",
+    "revenue_usd": 870000,
+    "pl_before_tax": null,
+    "total_assets": null,
+    "equity": null,
+    "website": "yieldwerx.com/pat-gdbn-outlier-detection-moving-beyond-automotive",
+    "description": null,
+    "contacts": [
+      {
+        "name": "Ms Aftkhar Aslam",
+        "title": "Co-Founder & Chief Executive Officer; Shareholder"
+      },
+      {
+        "name": "Mr Omar Mohy Ud Din Malik",
+        "title": "Co-Founder; Shareholder"
+      },
+      {
+        "name": "Mr Omar Mohy Ud Din Malik",
+        "title": "Chief Operating Officer"
+      },
+      {
+        "name": "Mr Muneeb Rasheed",
+        "title": "Vice President, Business Development & Sales"
+      }
+    ]
+  },
+  {
+    "name": "DREAM SERVICE SOFTWARE",
+    "state": "TX",
+    "year_incorporated": "2004",
+    "nace": "5829",
+    "employees": "50",
+    "revenue_usd": 870000,
+    "pl_before_tax": null,
+    "total_assets": null,
+    "equity": null,
+    "website": "dreamservicesoftware.com",
+    "description": null,
+    "contacts": [
+      {
+        "name": "Mr Nitesh Jain",
+        "title": "Founder"
+      }
+    ]
+  },
+  {
+    "name": "MARINE COMPUTATION SERVICES KENNY, INC.",
+    "state": "TX",
+    "year_incorporated": "1999",
+    "nace": "5829",
+    "employees": "20",
+    "revenue_usd": 870000,
+    "pl_before_tax": null,
+    "total_assets": null,
+    "equity": null,
+    "website": "www.mcskenny.com",
+    "description": null,
+    "contacts": []
+  },
+  {
+    "name": "VISTA SOLUTIONS GROUP, LP",
+    "state": "TX",
+    "year_incorporated": "2001",
+    "nace": "5829",
+    "employees": "10",
+    "revenue_usd": 870000,
+    "pl_before_tax": null,
+    "total_assets": null,
+    "equity": null,
+    "website": "www.vistasg.com",
+    "description": null,
+    "contacts": []
+  },
+  {
+    "name": "NEXTEC OPERATING CORP.",
+    "state": "TX",
+    "year_incorporated": "1999",
+    "nace": "5829",
+    "employees": "12",
+    "revenue_usd": 870000,
+    "pl_before_tax": null,
+    "total_assets": null,
+    "equity": null,
+    "website": "www.nextecgroup.com",
+    "description": "Involved in the provision of business management systems, application systems development and practical technology integration",
+    "contacts": [
+      {
+        "name": "Bric C Frank",
+        "title": "President"
+      },
+      {
+        "name": "Mr Eric C Frank",
+        "title": "President"
+      },
+      {
+        "name": "Mr Walter R Harper",
+        "title": "Vice President"
+      },
+      {
+        "name": "Mr David R Schneiderman",
+        "title": "Vice President"
+      },
+      {
+        "name": "Mr Alan Subel",
+        "title": "Vice President"
+      },
+      {
+        "name": "Mr Aaron Butler",
+        "title": "Regional Sales Manager"
+      },
+      {
+        "name": "Ms Marissa Elizondo",
+        "title": "Sales & Marketing Assistant"
+      },
+      {
+        "name": "Mr Kristopher Smiley",
+        "title": "Director of Microsoft Dynamics GP West"
+      },
+      {
+        "name": "Mr Jim Gross",
+        "title": "Senior Project Manager"
+      },
+      {
+        "name": "Mr Mark Frank",
+        "title": "Chief Operating Officer"
+      },
+      {
+        "name": "Mr Joseph P Barber",
+        "title": "Other"
+      },
+      {
+        "name": "Mr Adam Rezende",
+        "title": "Senior Consultant"
+      }
+    ]
+  },
+  {
+    "name": "WONDER WORKS STUDIO INC",
+    "state": "TX",
+    "year_incorporated": "2022",
+    "nace": "5829",
+    "employees": "30",
+    "revenue_usd": 870000,
+    "pl_before_tax": null,
+    "total_assets": null,
+    "equity": null,
+    "website": "www.wonderworks.org",
+    "description": null,
+    "contacts": []
+  },
+  {
+    "name": "ABACUS COMPUTER CO INC",
+    "state": "TX",
+    "year_incorporated": "1985",
+    "nace": "5829",
+    "employees": "25",
+    "revenue_usd": 870000,
+    "pl_before_tax": null,
+    "total_assets": null,
+    "equity": null,
+    "website": "www.bli-tax.com",
+    "description": null,
+    "contacts": []
+  },
+  {
+    "name": "SOFTSMITHS, INC.",
+    "state": "TX",
+    "year_incorporated": "1999",
+    "nace": "5829",
+    "employees": "30",
+    "revenue_usd": 870000,
+    "pl_before_tax": null,
+    "total_assets": null,
+    "equity": null,
+    "website": "www.softsmiths.com",
+    "description": null,
+    "contacts": [
+      {
+        "name": "Mr David Berkal",
+        "title": "President"
+      },
+      {
+        "name": "Mr Michael Parrella",
+        "title": "Chief Executive Officer"
+      },
+      {
+        "name": "Mr Nathaniel J Sheik",
+        "title": "Chief Executive Officer"
+      },
+      {
+        "name": "Mr Nathaniel J Sheik",
+        "title": "Officer"
+      },
+      {
+        "name": "Marjan Elbaum",
+        "title": "Secretary"
+      },
+      {
+        "name": "Mr Zafar Ahmad",
+        "title": "Senior Accountant"
+      },
+      {
+        "name": "Mr Mitchell Glickman",
+        "title": "Treasurer"
+      },
+      {
+        "name": "Mr Hugo Stappers",
+        "title": "Director of Sales and Marketing"
+      },
+      {
+        "name": "Mr Lawrence W Stone",
+        "title": "Officer"
+      },
+      {
+        "name": "Benji Sucher",
+        "title": "Officer"
+      },
+      {
+        "name": "Mr Arun Srinivasan",
+        "title": "Governor"
+      }
+    ]
+  },
+  {
+    "name": "DCAS SOFTWARE SOLUTIONS, INC.",
+    "state": "TX",
+    "year_incorporated": "2000",
+    "nace": "5829",
+    "employees": "15",
+    "revenue_usd": 870000,
+    "pl_before_tax": null,
+    "total_assets": null,
+    "equity": null,
+    "website": "www.cyberexchange.net",
+    "description": null,
+    "contacts": [
+      {
+        "name": "Mr Larry D Wubbena",
+        "title": "President"
+      },
+      {
+        "name": "Mr Russell T Scott",
+        "title": "Secretary"
+      },
+      {
+        "name": "Mr Russell T Scott",
+        "title": "Governing Person"
+      },
+      {
+        "name": "Mr Michael D Loehr",
+        "title": "Treasurer"
+      },
+      {
+        "name": "Mr Eric Loehr",
+        "title": "Treasurer"
+      },
+      {
+        "name": "Mr Bruce Deelaney",
+        "title": "Governing Person"
+      }
+    ]
+  },
+  {
+    "name": "TICKET EVOLUTION INC.",
+    "state": "TX",
+    "year_incorporated": "2021",
+    "nace": "5829",
+    "employees": "35",
+    "revenue_usd": 870000,
+    "pl_before_tax": null,
+    "total_assets": null,
+    "equity": null,
+    "website": "www.ticketevolution.com",
+    "description": null,
+    "contacts": [
+      {
+        "name": "Mr Stephen T Parry",
+        "title": "Chairman"
+      },
+      {
+        "name": "Mr Rami K Silverman",
+        "title": "President"
+      },
+      {
+        "name": "Mr Drew Gainor",
+        "title": "Vice President"
+      },
+      {
+        "name": "Mr Nicholas Cooper Dragga",
+        "title": "Chief Financial Officer"
+      }
+    ]
+  },
+  {
+    "name": "JPG TECHNOLOGIES, INC.",
+    "state": "TX",
+    "year_incorporated": "2009",
+    "nace": "5829",
+    "employees": "46",
+    "revenue_usd": 870000,
+    "pl_before_tax": null,
+    "total_assets": null,
+    "equity": null,
+    "website": "www.medimobile.com",
+    "description": null,
+    "contacts": [
+      {
+        "name": "Mr James H Enis",
+        "title": "President"
+      },
+      {
+        "name": "Mr Travis Hall",
+        "title": "Vice President Business Development"
+      },
+      {
+        "name": "Courtney Muzyka",
+        "title": "Billing Specialist"
+      },
+      {
+        "name": "Ms Lydia Williams",
+        "title": "Billing Specialist"
+      },
+      {
+        "name": "Ms Leigha Loranger",
+        "title": "Director Project Management Office"
+      },
+      {
+        "name": "Ms Eri Arellano",
+        "title": "Software Developer"
+      }
+    ]
+  },
+  {
+    "name": "HALCYON CONSULTING LLC",
+    "state": "TX",
+    "year_incorporated": "2007",
+    "nace": "5829",
+    "employees": "280",
+    "revenue_usd": 870000,
+    "pl_before_tax": null,
+    "total_assets": null,
+    "equity": null,
+    "website": "www.halcyontek.com",
+    "description": "Engaged in providing information and communication services",
+    "contacts": []
+  },
+  {
+    "name": "AYU TECHNOLOGY SOLUTIONS LLC",
+    "state": "TX",
+    "year_incorporated": "2005",
+    "nace": "5829",
+    "employees": "10",
+    "revenue_usd": 870000,
+    "pl_before_tax": null,
+    "total_assets": null,
+    "equity": null,
+    "website": "www.websitealive.com",
+    "description": null,
+    "contacts": [
+      {
+        "name": "Mr Dustin Yu",
+        "title": "President & Chief Executive Officer"
+      },
+      {
+        "name": "Mr Dustin Yu",
+        "title": "President & CTO"
+      },
+      {
+        "name": "Mr Paul Glancy",
+        "title": "Director of Sales"
+      },
+      {
+        "name": "Mr Paul Glancy",
+        "title": "Manager, Sales"
+      },
+      {
+        "name": "Jarrell Liner",
+        "title": "Director - Client Happiness"
+      },
+      {
+        "name": "Lee Bratina",
+        "title": "Director-Technical"
+      },
+      {
+        "name": "Mr Glenn Gutierrez",
+        "title": "Chief Operating Officer"
+      },
+      {
+        "name": "Ms Lois Brooks",
+        "title": "Director - Operations"
+      },
+      {
+        "name": "Ms Lois Brooks",
+        "title": "Operations Manager"
+      },
+      {
+        "name": "Mr Halbert Rivera",
+        "title": "Front-End Developer"
+      },
+      {
+        "name": "Mr John Beeby",
+        "title": "Creative"
+      }
+    ]
+  },
+  {
+    "name": "ADVANCED BUSINESS INFORMATION SYSTEMS, INC.",
+    "state": "TX",
+    "year_incorporated": "1996",
+    "nace": "5829",
+    "employees": "10",
+    "revenue_usd": 870000,
+    "pl_before_tax": null,
+    "total_assets": null,
+    "equity": null,
+    "website": "www.abiscorp.com",
+    "description": null,
+    "contacts": [
+      {
+        "name": "Pennee Schulte",
+        "title": "Vice President"
+      },
+      {
+        "name": "Ms Michelle Faas",
+        "title": "Business Development Manager"
+      },
+      {
+        "name": "Mr Jeremy Johnson",
+        "title": "Abis Inside Sales Representative"
+      },
+      {
+        "name": "H. Riddle",
+        "title": "Senior Consultant and Client Support Manager"
+      },
+      {
+        "name": "Ms Amanda Schwem",
+        "title": "Software Programmer"
+      },
+      {
+        "name": "Mr Russell J Schulte",
+        "title": "No specific function"
+      }
+    ]
+  },
+  {
+    "name": "WAY2SMILE SOLUTIONS, LLC",
+    "state": "TX",
+    "year_incorporated": "2021",
+    "nace": "5829",
+    "employees": "22",
+    "revenue_usd": 870000,
+    "pl_before_tax": null,
+    "total_assets": null,
+    "equity": null,
+    "website": "www.w2ssolutions.com",
+    "description": null,
+    "contacts": [
+      {
+        "name": "Mr Kesavan Madhubalan",
+        "title": "Governing Person"
+      }
+    ]
+  },
+  {
+    "name": "SK GLOBAL SOFTWARE LLC",
+    "state": "TX",
+    "year_incorporated": "2014",
+    "nace": "5829",
+    "employees": "50",
+    "revenue_usd": 870000,
+    "pl_before_tax": null,
+    "total_assets": null,
+    "equity": null,
+    "website": "www.sksoft.com",
+    "description": null,
+    "contacts": [
+      {
+        "name": "Mr Scott Caudle",
+        "title": "Chief Executive Officer"
+      },
+      {
+        "name": "Mr Scott Caudle",
+        "title": "Officer"
+      },
+      {
+        "name": "Mr Scott Caudle",
+        "title": "Manager"
+      },
+      {
+        "name": "Mr Sandler Richard R",
+        "title": "Executive Officer"
+      },
+      {
+        "name": "Mr Sandler Richard R",
+        "title": "Member"
+      },
+      {
+        "name": "Mr Sandler Richard R",
+        "title": "Part"
+      },
+      {
+        "name": "Ms Wendy Dehnert",
+        "title": "Controller"
+      },
+      {
+        "name": "Ms Stephanie DeVries",
+        "title": "Sales and Accounting Support"
+      },
+      {
+        "name": "Mr Kevin Casselman",
+        "title": "Director, Software Development"
+      },
+      {
+        "name": "Mr Jan Ulinski",
+        "title": "Software Developer Ii"
+      },
+      {
+        "name": "Mr Timothy Kahne",
+        "title": "Officer"
+      },
+      {
+        "name": "Mr Timothy Kahne",
+        "title": "Member"
+      },
+      {
+        "name": "Mr Timothy Kahne",
+        "title": "Auth"
+      },
+      {
+        "name": "Ms Becky Caudle",
+        "title": "Member"
+      },
+      {
+        "name": "Mr Justin Hurst",
+        "title": "Senior Business Consultant"
+      },
+      {
+        "name": "Ms Tawana Nusbaum",
+        "title": "Senior Business Consultant"
+      },
+      {
+        "name": "PLUMBLINE SOLUTIONS INC",
+        "title": "Part"
+      }
+    ]
+  },
+  {
+    "name": "INNER CORRIDOR TECHNOLOGIES, INC.",
+    "state": "TX",
+    "year_incorporated": "2001",
+    "nace": "5829",
+    "employees": "12",
+    "revenue_usd": 870000,
+    "pl_before_tax": null,
+    "total_assets": null,
+    "equity": null,
+    "website": "www.teachmegis.com",
+    "description": null,
+    "contacts": [
+      {
+        "name": "Ms Jennifer B Harrison",
+        "title": "President"
+      },
+      {
+        "name": "Mr Joseph Harrison",
+        "title": "Vice President/Sec"
+      }
+    ]
+  },
+  {
+    "name": "RISTKEN SOFTWARE SERVICES, L.P.",
+    "state": "TX",
+    "year_incorporated": "2006",
+    "nace": "5829",
+    "employees": "21",
+    "revenue_usd": 870000,
+    "pl_before_tax": null,
+    "total_assets": null,
+    "equity": null,
+    "website": "www.ristken.com",
+    "description": "Retail automotive market software developer",
+    "contacts": [
+      {
+        "name": "Mr Patrick A Demarco",
+        "title": "President"
+      },
+      {
+        "name": "Mr Matthew G Twyman",
+        "title": "Shareholder; Founder & Chief Executive Officer"
+      },
+      {
+        "name": "Mr Robert Maberry",
+        "title": "Business Development National Sales Manager"
+      }
+    ]
+  }
+]

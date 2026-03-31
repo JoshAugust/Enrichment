@@ -1,149 +1,25 @@
-# dependencies
-/node_modules
-/.pnp
-.pnp.js
-.yarn/install-state.gz
-
-# testing
-/coverage
-
-# next.js
-/.next/
-/out/
-
-# production
-/build
-
-# misc
-.DS_Store
-*.pem
-
-# debug
-npm-debug.log*
-yarn-debug.log*
-yarn-error.log*
-
-# local env files
-.env*.local
+node_modules
+dist
 .env
-
-# vercel
-.vercel
-
-# typescript
+.env.local
 *.tsbuildinfo
-next-env.d.ts
-package-lock.json
 
-# Enrichment logs (sub-agent output, not source code)
+# === Backend pipeline ===
 *_LOG.md
 *_LOG_*.md
-
-# Configs with secrets
 .config/
-
-# Large data files (keep in local, not git)
 data/sweeps/
-data/apollo/raw/
+data/apollo/
 data/product-docs/
-
-# Outreach app (separate repo history)
-outreach/corgi-outreach/
-
-# Python cache
+outreach/
 __pycache__/
 *.pyc
-
-# Orange Slice docs (reference, not ours)
 orangeslice-docs/
-
-# Checkpoint files
 *_checkpoint.json
-*_hubspot_checkpoint.json
-
-# Images (avatars etc)
 *.jpg
 *.png
-
-# One-off scripts and logs
-cleanup_agent.py
-cleanup_v2.py
-collect_and_enrich.sh
-all_leads.json
-*.log
-
-# Misc reports (keep PIPELINE.md)
+config/
 FINAL_REPORT.md
 MORNING_BRIEFING*.md
 SMB_ENRICHMENT_BUILD_NOTES.md
 STATUS.md
-
-# Batch data files
-data/batch_*.json
-data/enriched_batch_*.json
-data/cleanup_*.json
-data/db_*.json
-data/all_leads.json
-data/enrich_run.log
-
-# Enrichment XLSX outputs (large binary)
-data/enriched_leads_*.xlsx
-data/dealscope/*.xlsx
-
-# Pipeline batch inputs (large, generated)
-pipeline/enrichment-pipeline/batch_*.json
-pipeline/enrichment-pipeline/*.xlsx
-
-# GPU operators data (large)
-pipeline/gpu-operators/*.xlsx
-pipeline/gpu-operators/*-checkpoint.json
-pipeline/gpu-operators/webhook-raw-payloads.json
-
-# One-off python/shell scripts
-dry_run.py
-enrich_runner.py
-enrich_v3.py
-enrich_wave2.sh
-hunt_emails.py
-patch_batch_b.py
-patch_batch_b_v2.py
-recover_leads.py
-run_batches.py
-run_batches.sh
-run_enrichment.py
-run_enrichment_v2.py
-
-# Misc data artifacts
-hunt_progress.json
-leads_page1.json
-low_completeness_ids.json
-missing_emails.json
-data/extensions_found.json
-data/phone_batch_*.json
-data/pipeline_*.json
-data/pipeline_*.md
-data/qa_results.json
-data/research_*.json
-data/rev_batch_*.json
-data/sec_edgar_results.json
-data/valid_contact_phones.json
-
-# Outreach (separate concern)
-outreach/
-
-# More one-off scripts
-run_enrichment_v3.py
-run_enrichment_v4.py
-spec_tagger_v2.py
-submit_all_batches.py
-verify_leads_v6.py
-unenriched_ids.json
-unenriched_ids.txt
-wave_leads_todo.json
-
-# Apollo data (contains API responses, large)
-data/apollo/
-
-# MCP config (contains API keys)
-config/
-pipeline/gpu-operators/*.png

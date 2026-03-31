@@ -1,0 +1,705 @@
+[
+  {
+    "name": "INFORM DECISIONS, INC.",
+    "state": "CA",
+    "year_incorporated": "2002",
+    "nace": "5829",
+    "employees": "13",
+    "revenue_usd": 1344000,
+    "pl_before_tax": null,
+    "total_assets": null,
+    "equity": null,
+    "website": "www.informdecisions.com",
+    "description": null,
+    "contacts": [
+      {
+        "name": "Mr Daniel Grant Forster",
+        "title": "President"
+      },
+      {
+        "name": "Mr Daniel Grant Forster",
+        "title": "Chief Financial Officer"
+      },
+      {
+        "name": "Mr Oliver Rodriguez",
+        "title": "Sales Engineer"
+      },
+      {
+        "name": "Mr Erin Salisbury",
+        "title": "Sales Representative"
+      },
+      {
+        "name": "Mr Orlando Ferrer",
+        "title": "Operations"
+      }
+    ]
+  },
+  {
+    "name": "ABACUSS SOFTWARE TECH LLC",
+    "state": "GA",
+    "year_incorporated": "2008",
+    "nace": "5829",
+    "employees": "10",
+    "revenue_usd": 1341000,
+    "pl_before_tax": null,
+    "total_assets": null,
+    "equity": null,
+    "website": "www.abacuspeople.com",
+    "description": null,
+    "contacts": []
+  },
+  {
+    "name": "SAIVA AI INC",
+    "state": "CA",
+    "year_incorporated": "2019",
+    "nace": "5829",
+    "employees": "13",
+    "revenue_usd": 1340000,
+    "pl_before_tax": null,
+    "total_assets": null,
+    "equity": null,
+    "website": "saiva.ai",
+    "description": null,
+    "contacts": [
+      {
+        "name": "Mr Shane Dearing",
+        "title": "Chief Executive Officer"
+      },
+      {
+        "name": "Gili Becker",
+        "title": "Secretary"
+      }
+    ]
+  },
+  {
+    "name": "NMETRIC LLC",
+    "state": "CA",
+    "year_incorporated": "2000",
+    "nace": "5829",
+    "employees": "18",
+    "revenue_usd": 1333000,
+    "pl_before_tax": null,
+    "total_assets": null,
+    "equity": null,
+    "website": "www.nmetric.com",
+    "description": null,
+    "contacts": [
+      {
+        "name": "Mr Thomas Koski",
+        "title": "Chief Executive Officer"
+      },
+      {
+        "name": "Mr Thomas Koski",
+        "title": "General Partner; Shareholder"
+      },
+      {
+        "name": "Ms Lucille Hoger",
+        "title": "General Partner; Shareholder"
+      },
+      {
+        "name": "Mr Robert Koski SR",
+        "title": "General Partner; Shareholder"
+      },
+      {
+        "name": "Ms Christine Louise Koski",
+        "title": "General Partner; Shareholder"
+      },
+      {
+        "name": "Ms Anne Bradley Nixon",
+        "title": "General Partner; Shareholder"
+      },
+      {
+        "name": "Ms Ananda Variganji",
+        "title": "General Partner; Shareholder"
+      },
+      {
+        "name": "Mr Haresh Raval",
+        "title": "Manager, Quality Assurance"
+      },
+      {
+        "name": "Mr Michael Worden",
+        "title": "No specific function"
+      }
+    ]
+  },
+  {
+    "name": "B THREE SOLUTIONS INC",
+    "state": "PA",
+    "year_incorporated": "2006",
+    "nace": "5829",
+    "employees": "30",
+    "revenue_usd": 1330000,
+    "pl_before_tax": null,
+    "total_assets": null,
+    "equity": null,
+    "website": "www.bthreesolutions.com",
+    "description": null,
+    "contacts": [
+      {
+        "name": "Mr Michael Walton",
+        "title": "President"
+      },
+      {
+        "name": "Mr Chuck Summerville",
+        "title": "Director of Sales and Marketing"
+      },
+      {
+        "name": "Ms Carlie Elliott",
+        "title": "Quality Assurance / a Web Designer"
+      },
+      {
+        "name": "Mr Robert Elliott",
+        "title": "Software Developer"
+      },
+      {
+        "name": "Mr Matthews George",
+        "title": "Systems Analyst"
+      },
+      {
+        "name": "Mr Peter Hanson",
+        "title": "Senior Systems Analyst"
+      },
+      {
+        "name": "Mr Brian Schultz",
+        "title": "Systems Analyst"
+      },
+      {
+        "name": "Mr Robert Stivanson",
+        "title": "System Analyst"
+      },
+      {
+        "name": "Mr Ben Walton",
+        "title": "Software Developer"
+      },
+      {
+        "name": "Mr John Woods",
+        "title": "Senior Systems Analyst"
+      }
+    ]
+  },
+  {
+    "name": "RISE SCIENCE INC",
+    "state": "IL",
+    "year_incorporated": "2018",
+    "nace": "5829",
+    "employees": "13",
+    "revenue_usd": 1330000,
+    "pl_before_tax": null,
+    "total_assets": null,
+    "equity": null,
+    "website": "www.risescience.com",
+    "description": "Sleep monitoring app developer",
+    "contacts": [
+      {
+        "name": "Mr Jeffrey M Kahn",
+        "title": "Chief Executive Officer"
+      }
+    ]
+  },
+  {
+    "name": "O3 INSIGHT INC",
+    "state": "AL",
+    "year_incorporated": "2024",
+    "nace": "5829",
+    "employees": "13",
+    "revenue_usd": 1320000,
+    "pl_before_tax": null,
+    "total_assets": null,
+    "equity": null,
+    "website": "www.o3.solutions",
+    "description": "Construction project management software operator",
+    "contacts": [
+      {
+        "name": "Mr Joshua Girvin",
+        "title": "Chief Executive Officer"
+      },
+      {
+        "name": "Mr Joshua Girvin",
+        "title": "Officer"
+      },
+      {
+        "name": "Mr Hall Matthew",
+        "title": "Senior Vice President of Finance"
+      },
+      {
+        "name": "Mr Hall Matthew",
+        "title": "Vice-President, Officer"
+      }
+    ]
+  },
+  {
+    "name": "AMITY SOFTWARE INC",
+    "state": "CA",
+    "year_incorporated": "2013",
+    "nace": "5829",
+    "employees": "11",
+    "revenue_usd": 1320000,
+    "pl_before_tax": null,
+    "total_assets": null,
+    "equity": null,
+    "website": "www.amity-software.com",
+    "description": null,
+    "contacts": []
+  },
+  {
+    "name": "SPEARTIP TECHNOLOGIES LLC",
+    "state": "MO",
+    "year_incorporated": null,
+    "nace": "5829",
+    "employees": "45",
+    "revenue_usd": 1320000,
+    "pl_before_tax": null,
+    "total_assets": null,
+    "equity": null,
+    "website": "www.speartip.net",
+    "description": null,
+    "contacts": []
+  },
+  {
+    "name": "FLEET SOURCE GROUP",
+    "state": "MO",
+    "year_incorporated": "2004",
+    "nace": "5829",
+    "employees": "12",
+    "revenue_usd": 1320000,
+    "pl_before_tax": null,
+    "total_assets": null,
+    "equity": null,
+    "website": "www.bebsoft.com",
+    "description": null,
+    "contacts": []
+  },
+  {
+    "name": "BOUNCEBACK, INC.",
+    "state": "MO",
+    "year_incorporated": "2006",
+    "nace": "5829",
+    "employees": "33",
+    "revenue_usd": 1320000,
+    "pl_before_tax": null,
+    "total_assets": null,
+    "equity": null,
+    "website": "www.bouncebk.com",
+    "description": null,
+    "contacts": [
+      {
+        "name": "Gale H Kreig",
+        "title": "President"
+      },
+      {
+        "name": "Mr John Sturgess",
+        "title": "Secretary"
+      },
+      {
+        "name": "Ms Jeanne Emerson",
+        "title": "Human Resources Director / Manager"
+      },
+      {
+        "name": "Mr Ron Mccurry",
+        "title": "Database Programmer"
+      }
+    ]
+  },
+  {
+    "name": "REDBERRI CORP",
+    "state": "MO",
+    "year_incorporated": "2008",
+    "nace": "5829",
+    "employees": "62",
+    "revenue_usd": 1320000,
+    "pl_before_tax": null,
+    "total_assets": null,
+    "equity": null,
+    "website": "www.redberri.com",
+    "description": null,
+    "contacts": [
+      {
+        "name": "Mr Deepak Kant Vyas",
+        "title": "Chairman"
+      },
+      {
+        "name": "Mr Deepak Kant Vyas",
+        "title": "President"
+      },
+      {
+        "name": "Mr Deepak Kant Vyas",
+        "title": "Chairman - Chief Executive Officer"
+      }
+    ]
+  },
+  {
+    "name": "FIRST CALL TECHNOLOGIES LLC",
+    "state": "MO",
+    "year_incorporated": "2024",
+    "nace": "5829",
+    "employees": "11",
+    "revenue_usd": 1320000,
+    "pl_before_tax": null,
+    "total_assets": null,
+    "equity": null,
+    "website": "www.communitycarelink.com",
+    "description": null,
+    "contacts": []
+  },
+  {
+    "name": "DATA ACCESS TECHNOLOGIES INC",
+    "state": "FL",
+    "year_incorporated": "1993",
+    "nace": "5829",
+    "employees": "75",
+    "revenue_usd": 1320000,
+    "pl_before_tax": null,
+    "total_assets": null,
+    "equity": null,
+    "website": "www.dataaccess.com",
+    "description": null,
+    "contacts": [
+      {
+        "name": "Casanave Charles Liii",
+        "title": "President/Treasurer/Director"
+      },
+      {
+        "name": "Casanave Brienne M",
+        "title": "Vice President"
+      },
+      {
+        "name": "Mr Meeley Stephen W",
+        "title": "Vice President"
+      },
+      {
+        "name": "Mr Cory Brewster Casanave",
+        "title": "Director"
+      },
+      {
+        "name": "Mr Taren Garone",
+        "title": "Senior Director"
+      }
+    ]
+  },
+  {
+    "name": "FORM FAST",
+    "state": "MO",
+    "year_incorporated": null,
+    "nace": "5829",
+    "employees": "25",
+    "revenue_usd": 1320000,
+    "pl_before_tax": null,
+    "total_assets": null,
+    "equity": null,
+    "website": "interlacehealth.com",
+    "description": null,
+    "contacts": []
+  },
+  {
+    "name": "ONEPIN INC",
+    "state": "MA",
+    "year_incorporated": "2006",
+    "nace": "5829",
+    "employees": "23",
+    "revenue_usd": 1317000,
+    "pl_before_tax": null,
+    "total_assets": null,
+    "equity": null,
+    "website": "www.onepin.com",
+    "description": "Social address book sharing mobile application developer",
+    "contacts": [
+      {
+        "name": "Eeyzi Celik",
+        "title": "President"
+      },
+      {
+        "name": "Feyzi Celik",
+        "title": "President and Chief Executive Officer"
+      },
+      {
+        "name": "Mr Mehmet F Celik",
+        "title": "Secretary"
+      },
+      {
+        "name": "Mr Stephen Dane",
+        "title": "Chief Financial Officer"
+      },
+      {
+        "name": "Ms Marie Epstein",
+        "title": "Treasurer"
+      },
+      {
+        "name": "Mr Selim Unlu",
+        "title": "Treasurer"
+      },
+      {
+        "name": "Ms Lynne Brum",
+        "title": "Clerk"
+      },
+      {
+        "name": "Mr David Moore",
+        "title": "Director, Global Sales & Solutions Management"
+      },
+      {
+        "name": "Mr Christopher Degrace",
+        "title": "Vice President, Products & Alliances"
+      },
+      {
+        "name": "Mr Gary Vincens",
+        "title": "Director, Information Technology"
+      },
+      {
+        "name": "Mr Erman Karakoc",
+        "title": "Software Engineer"
+      }
+    ]
+  },
+  {
+    "name": "SUCCESSEHS CORPORATION",
+    "state": "AL",
+    "year_incorporated": "2012",
+    "nace": "5829",
+    "employees": "80",
+    "revenue_usd": 1312000,
+    "pl_before_tax": null,
+    "total_assets": null,
+    "equity": null,
+    "website": "www.greenwayhealth.com",
+    "description": "Engaged in the provision of computer systems design and related services",
+    "contacts": [
+      {
+        "name": "Mr Michael Young",
+        "title": "Software Development Manager"
+      },
+      {
+        "name": "Mr Tim Emerson",
+        "title": "Production Support Engineer"
+      },
+      {
+        "name": "Mr Logan Moore",
+        "title": "Software Engineer"
+      },
+      {
+        "name": "Mr Brian Harper",
+        "title": "Developer"
+      },
+      {
+        "name": "Mr Chris Rendall",
+        "title": "Installer"
+      }
+    ]
+  },
+  {
+    "name": "JAHIA INC.",
+    "state": "DC",
+    "year_incorporated": "2002",
+    "nace": "5829",
+    "employees": "20",
+    "revenue_usd": 1310000,
+    "pl_before_tax": null,
+    "total_assets": null,
+    "equity": null,
+    "website": "www.jahia.com",
+    "description": null,
+    "contacts": [
+      {
+        "name": "Mr Emmanuel Garcin",
+        "title": "President"
+      },
+      {
+        "name": "Mr Serge Huber",
+        "title": "Chief Technology Officer and Founder"
+      },
+      {
+        "name": "Mr Elie Auvray",
+        "title": "Secretary"
+      },
+      {
+        "name": "Mr Michael Tupanjanin",
+        "title": "Secretary"
+      },
+      {
+        "name": "Mr Julian Maurel",
+        "title": "Lead Solutions Architect"
+      },
+      {
+        "name": "Mr David Griffon",
+        "title": "Software Engineer"
+      },
+      {
+        "name": "Mr Kevan Jahanshahi",
+        "title": "Software Engineer"
+      }
+    ]
+  },
+  {
+    "name": "MS GROUP SOFTWARE INC",
+    "state": "SC",
+    "year_incorporated": "2003",
+    "nace": "5829",
+    "employees": "14",
+    "revenue_usd": 1306000,
+    "pl_before_tax": null,
+    "total_assets": null,
+    "equity": null,
+    "website": "www.msgroupsoftware.com",
+    "description": null,
+    "contacts": [
+      {
+        "name": "Ms Cinderella S Bicki",
+        "title": "Owner"
+      }
+    ]
+  },
+  {
+    "name": "USERFRONT, INC.",
+    "state": "CA",
+    "year_incorporated": "2023",
+    "nace": "5829",
+    "employees": "12",
+    "revenue_usd": 1300000,
+    "pl_before_tax": null,
+    "total_assets": null,
+    "equity": null,
+    "website": "userfront.com",
+    "description": null,
+    "contacts": [
+      {
+        "name": "Mr Tyler Warnock",
+        "title": "President"
+      },
+      {
+        "name": "Mr Tyler Warnock",
+        "title": "Secretary"
+      },
+      {
+        "name": "Ruscio Joseph",
+        "title": "Director"
+      }
+    ]
+  },
+  {
+    "name": "CARIINA INC",
+    "state": "MA",
+    "year_incorporated": "2023",
+    "nace": "5829",
+    "employees": "10",
+    "revenue_usd": 1300000,
+    "pl_before_tax": null,
+    "total_assets": null,
+    "equity": null,
+    "website": "www.cariina.com",
+    "description": null,
+    "contacts": []
+  },
+  {
+    "name": "METROCALL",
+    "state": "NC",
+    "year_incorporated": null,
+    "nace": "5829",
+    "employees": "12",
+    "revenue_usd": 1300000,
+    "pl_before_tax": null,
+    "total_assets": null,
+    "equity": null,
+    "website": "www.spok.com",
+    "description": null,
+    "contacts": []
+  },
+  {
+    "name": "DEALERTEAM, INC.",
+    "state": "CA",
+    "year_incorporated": "2022",
+    "nace": "5829",
+    "employees": "12",
+    "revenue_usd": 1300000,
+    "pl_before_tax": null,
+    "total_assets": null,
+    "equity": null,
+    "website": "www.dealerteam.com",
+    "description": null,
+    "contacts": [
+      {
+        "name": "Mr Adam Grossman",
+        "title": "Co-Founder"
+      },
+      {
+        "name": "Mr Jarrett Kuljis",
+        "title": "General Partner; Shareholder"
+      },
+      {
+        "name": "Mr Jarrett John Kuske",
+        "title": "General Partner; Shareholder"
+      },
+      {
+        "name": "Travis John Sousa",
+        "title": "General Partner; Shareholder"
+      },
+      {
+        "name": "Mr Aaron J Stewart",
+        "title": "Agent"
+      },
+      {
+        "name": "Mr Tyler Kauffman",
+        "title": "Software Engineer"
+      },
+      {
+        "name": "Mr Mark Alward",
+        "title": "Success Manager"
+      }
+    ]
+  },
+  {
+    "name": "ATTESTIV INC",
+    "state": "MA",
+    "year_incorporated": "2019",
+    "nace": "5829",
+    "employees": "10",
+    "revenue_usd": 1300000,
+    "pl_before_tax": null,
+    "total_assets": null,
+    "equity": null,
+    "website": "www.attestiv.com",
+    "description": "Online digital data validation platform Software-as-a-Service (SaaS) provider",
+    "contacts": [
+      {
+        "name": "Mr Nicos Vekiarides",
+        "title": "President"
+      },
+      {
+        "name": "Mr John W Bates",
+        "title": "Vice President"
+      },
+      {
+        "name": "Mr Emmanuel Parasirakis",
+        "title": "Vice President"
+      },
+      {
+        "name": "Mr Thomas Mark Morley",
+        "title": "Secretary"
+      },
+      {
+        "name": "Mr Thomas Mark Morley",
+        "title": "Chief Operating Officer"
+      },
+      {
+        "name": "Mr Stephen M Kane",
+        "title": "Assistant Secretary"
+      }
+    ]
+  },
+  {
+    "name": "AERIA GAMES INC",
+    "state": "CA",
+    "year_incorporated": "2006",
+    "nace": "5829",
+    "employees": "200",
+    "revenue_usd": 1293000,
+    "pl_before_tax": null,
+    "total_assets": null,
+    "equity": null,
+    "website": "www.aeriagames.com",
+    "description": "Engaged in publishing and developing online games",
+    "contacts": [
+      {
+        "name": "Mr Lan The Hoang",
+        "title": "Founder & Chief Executive Officer; Shareholder"
+      }
+    ]
+  }
+]

@@ -1,0 +1,1119 @@
+[
+  {
+    "name": "BETTEROMICS INC.",
+    "state": "CA",
+    "year_incorporated": "2019",
+    "nace": "5829",
+    "employees": "35",
+    "revenue_usd": 2390000,
+    "pl_before_tax": null,
+    "total_assets": null,
+    "equity": null,
+    "website": "www.betteromics.com",
+    "description": "Multi-modal multi-omics data management, analytics and visualisation Software-as-a-Service (SaaS) provider",
+    "contacts": [
+      {
+        "name": "Ms Angela Lai",
+        "title": "Chief Executive Officer"
+      }
+    ]
+  },
+  {
+    "name": "ARIBA INC",
+    "state": "TX",
+    "year_incorporated": "1992",
+    "nace": "5829",
+    "employees": "10",
+    "revenue_usd": 2390000,
+    "pl_before_tax": null,
+    "total_assets": null,
+    "equity": null,
+    "website": "www.sap.com/products/spend-management.html",
+    "description": null,
+    "contacts": []
+  },
+  {
+    "name": "EDP ENTERPRISES INC",
+    "state": "TX",
+    "year_incorporated": "2007",
+    "nace": "5829",
+    "employees": "45",
+    "revenue_usd": 2390000,
+    "pl_before_tax": null,
+    "total_assets": null,
+    "equity": null,
+    "website": "www.edpi.com",
+    "description": "Financial and student information management software developer",
+    "contacts": []
+  },
+  {
+    "name": "BLUEPRINT ADVISORY SOFTWARE, LLC",
+    "state": "TX",
+    "year_incorporated": "2020",
+    "nace": "5829",
+    "employees": "10",
+    "revenue_usd": 2390000,
+    "pl_before_tax": null,
+    "total_assets": null,
+    "equity": null,
+    "website": "www.asymbl.com",
+    "description": null,
+    "contacts": [
+      {
+        "name": "Mr Brandon E Metcalf",
+        "title": "Member"
+      },
+      {
+        "name": "Mr Greg Symons",
+        "title": "Member"
+      },
+      {
+        "name": "Ms Kabe Vanderbaan",
+        "title": "Member"
+      }
+    ]
+  },
+  {
+    "name": "I.C.E. ENTERPRISE LLC",
+    "state": "PA",
+    "year_incorporated": "2024",
+    "nace": "5829",
+    "employees": "10",
+    "revenue_usd": 2380000,
+    "pl_before_tax": null,
+    "total_assets": null,
+    "equity": null,
+    "website": "www.arrivia.com",
+    "description": null,
+    "contacts": []
+  },
+  {
+    "name": "ZORUS, INC.",
+    "state": "CT",
+    "year_incorporated": "2017",
+    "nace": "5829",
+    "employees": "20",
+    "revenue_usd": 2380000,
+    "pl_before_tax": null,
+    "total_assets": null,
+    "equity": null,
+    "website": "www.zorustech.com",
+    "description": "Cybersecurity software developer",
+    "contacts": []
+  },
+  {
+    "name": "MIND BODY CONNECTION INC.",
+    "state": "PA",
+    "year_incorporated": "1996",
+    "nace": "5829",
+    "employees": "12",
+    "revenue_usd": 2380000,
+    "pl_before_tax": null,
+    "total_assets": null,
+    "equity": null,
+    "website": "www.mindbodyonline.com",
+    "description": null,
+    "contacts": []
+  },
+  {
+    "name": "PRINTERLOGIC INC.",
+    "state": "UT",
+    "year_incorporated": "2018",
+    "nace": "5829",
+    "employees": "220",
+    "revenue_usd": 2370000,
+    "pl_before_tax": null,
+    "total_assets": null,
+    "equity": null,
+    "website": "www.printerlogic.com",
+    "description": "Online enterprise print management Software-as-a-Service (SaaS) provider",
+    "contacts": [
+      {
+        "name": "Mr Ryan George Wedig",
+        "title": "Chief Executive Officer"
+      },
+      {
+        "name": "Mr Ryan George Wedig",
+        "title": "Officer"
+      },
+      {
+        "name": "Mr Jarrett Taylor",
+        "title": "Owner"
+      },
+      {
+        "name": "Mr Jarrett Taylor",
+        "title": "Officer"
+      },
+      {
+        "name": "Mr Michael Shane Callahan",
+        "title": "Secretary"
+      },
+      {
+        "name": "Mr Michael Shane Callahan",
+        "title": "Chief Financial Officer"
+      },
+      {
+        "name": "Mr Michael Shane Callahan",
+        "title": "Officer"
+      },
+      {
+        "name": "Mr Matthew Dean",
+        "title": "Secretary"
+      },
+      {
+        "name": "Mr Dave Allred",
+        "title": "Strategic Alliance Manager"
+      },
+      {
+        "name": "Ms Camila Henriquez",
+        "title": "Business Development Representative"
+      },
+      {
+        "name": "Ms Tanya Mae",
+        "title": "Business Development, Lead Generation"
+      },
+      {
+        "name": "Mr Buck Glauser",
+        "title": "Senior Accountant"
+      },
+      {
+        "name": "Jocelyn Olsen",
+        "title": "Accountant"
+      },
+      {
+        "name": "Ms Jennifer Ann Brady",
+        "title": "Administrative Director"
+      },
+      {
+        "name": "Mr Martin Wright",
+        "title": "Director of Legal Administration"
+      },
+      {
+        "name": "Mr George Barlow",
+        "title": "Sales Administrative Assistant"
+      },
+      {
+        "name": "Jd Carter",
+        "title": "Vice President of Commercial Sales"
+      },
+      {
+        "name": "Mr Jed Beck",
+        "title": "Director of Field Sales"
+      },
+      {
+        "name": "Kerry Roy Haymore",
+        "title": "Sales Operations Manager"
+      },
+      {
+        "name": "Mr Ross Cavan",
+        "title": "Sales Engineer"
+      },
+      {
+        "name": "Mr Aaron PeAa",
+        "title": "Inside Sales Representative"
+      },
+      {
+        "name": "Mr Matthew Riley",
+        "title": "Chief Communications Officer"
+      },
+      {
+        "name": "Mr Tom Darnall",
+        "title": "Product Marketing Manager"
+      },
+      {
+        "name": "Mr Taylor Nelson",
+        "title": "Marketing Operations and Automation Lead"
+      },
+      {
+        "name": "Mr Chris Summerhays",
+        "title": "Technical Marketing Engineer"
+      },
+      {
+        "name": "Mr Oliver Benedict",
+        "title": "Enterprise Account Executive"
+      },
+      {
+        "name": "Mr Jimmy Cesario",
+        "title": "Federal Account Executive"
+      },
+      {
+        "name": "Mr Landon Clegg",
+        "title": "Client Director"
+      },
+      {
+        "name": "Skyler Ence",
+        "title": "Account Executive"
+      },
+      {
+        "name": "Mr Cameron Erwin",
+        "title": "Enterprise Account Executive"
+      },
+      {
+        "name": "Mr Jake Goodrich",
+        "title": "Account Executive"
+      },
+      {
+        "name": "Mr Tim Hicks",
+        "title": "Field Account Executive - Sled Team Lead"
+      },
+      {
+        "name": "Mr Aaron Mcaffee",
+        "title": "Account Executive"
+      },
+      {
+        "name": "Mr Kirk Robison",
+        "title": "MSP Account Executive"
+      },
+      {
+        "name": "Kelly Rogers",
+        "title": "Healthcare Account Executive"
+      },
+      {
+        "name": "Mr Scott Stevenson",
+        "title": "Account Executive"
+      },
+      {
+        "name": "Mr Michael T Stewart",
+        "title": "Director, Account Development"
+      },
+      {
+        "name": "Mr Zachary Vernon",
+        "title": "Account Executive"
+      },
+      {
+        "name": "Mr Matt Wiest",
+        "title": "Client Director"
+      },
+      {
+        "name": "Ms Estela Alvarez",
+        "title": "Channel Account Manager"
+      },
+      {
+        "name": "Mr Ray Amie",
+        "title": "National Channel Account Manager"
+      },
+      {
+        "name": "Mr Gregory Anderson",
+        "title": "Account Development Manager"
+      },
+      {
+        "name": "Mr Michael Bennett",
+        "title": "Account Development Manager"
+      },
+      {
+        "name": "Ms Iris Chan",
+        "title": "Manager, Customer Success"
+      },
+      {
+        "name": "Mr Nick Child",
+        "title": "Account Development Manager"
+      },
+      {
+        "name": "Mr Chance Ewell",
+        "title": "Account Development Manager"
+      },
+      {
+        "name": "Mr Max Geigle",
+        "title": "Supervisor - Channel Account Development Manager"
+      },
+      {
+        "name": "Mr Jayden Griffin",
+        "title": "Account Development Manager"
+      },
+      {
+        "name": "Mr Ron Hollenback",
+        "title": "Channel Account Manager"
+      },
+      {
+        "name": "Mr Marc Hoover",
+        "title": "Channel Account Manager"
+      },
+      {
+        "name": "Ms Cara Humphries",
+        "title": "Account Development Manager"
+      },
+      {
+        "name": "Andrea Lim",
+        "title": "Manager, Customer Success"
+      },
+      {
+        "name": "Raleigh Lund",
+        "title": "Customer Success Manager"
+      },
+      {
+        "name": "Mr Peter Rowley",
+        "title": "Account Development Manager"
+      },
+      {
+        "name": "Mr Michael Shaw",
+        "title": "Account Development Manager"
+      },
+      {
+        "name": "Shanon Singleton",
+        "title": "Account Development Manager"
+      },
+      {
+        "name": "Mr Nathan Soderquist",
+        "title": "Account Development Manager"
+      },
+      {
+        "name": "Mr Kyle Stokes",
+        "title": "Account Development Manager"
+      },
+      {
+        "name": "Chance Truman",
+        "title": "Account Development Manager"
+      },
+      {
+        "name": "Mr Nathan Truman",
+        "title": "Account Development Manager"
+      },
+      {
+        "name": "Mr Geoffrey Vernon",
+        "title": "Account Development Manager"
+      },
+      {
+        "name": "Ms Tiffany Whitehead",
+        "title": "Paralegal"
+      },
+      {
+        "name": "Mr Corey Ercanbrack",
+        "title": "Chief Technology Officer"
+      },
+      {
+        "name": "Mr Dustin Larsen",
+        "title": "Principal Product Support Engineer"
+      },
+      {
+        "name": "Mr Chad Sillitoe",
+        "title": "Principal Software Engineer"
+      },
+      {
+        "name": "Mr Scott Sinclair",
+        "title": "Vice President Systems Engineering"
+      },
+      {
+        "name": "Mr David Pittinger",
+        "title": "Director of Technical Services"
+      },
+      {
+        "name": "Mr Justin Scott",
+        "title": "Director of Technology Operations"
+      },
+      {
+        "name": "Mr Mark Daams",
+        "title": "Lead Software Engineer"
+      },
+      {
+        "name": "Mr Jordan Lindsey",
+        "title": "Lead Systems Engineer - Professional Services"
+      },
+      {
+        "name": "Mr Sean Bangerter",
+        "title": "Senior Technical Writer"
+      },
+      {
+        "name": "Mr Jacob Daugherty",
+        "title": "Tech. Support"
+      },
+      {
+        "name": "Mr Brian Wistisen",
+        "title": "Vice President of Products"
+      },
+      {
+        "name": "Mr Jason Callahan",
+        "title": "Senior Product Manager"
+      },
+      {
+        "name": "Mr Salvador Gamez",
+        "title": "Senior Product Support Engineer"
+      },
+      {
+        "name": "Mr Shane Harris",
+        "title": "Director of Business Operations"
+      },
+      {
+        "name": "Mr Brad Simmons",
+        "title": "Channels Operations Manager"
+      },
+      {
+        "name": "Mr Nickolas Jared Ball",
+        "title": "Quality Assurance Automation Engineer"
+      },
+      {
+        "name": "Mr Scott Rich",
+        "title": "Information Technology Manager / Quality Assurance Engineer"
+      },
+      {
+        "name": "Lee Triebwasser",
+        "title": "Senior Director IT ECO Systems Channel"
+      },
+      {
+        "name": "Mr John Beuke",
+        "title": "Healthcare, Federal & High Security Systems Engineer"
+      },
+      {
+        "name": "Mr Josh Harrison",
+        "title": "Senior Software Engineer"
+      },
+      {
+        "name": "Mr Eric Johnson",
+        "title": "Systems Engineer"
+      },
+      {
+        "name": "Mr Steve Kelley",
+        "title": "Systems Engineer II"
+      },
+      {
+        "name": "Mr Steve Kelley",
+        "title": "No specific function"
+      },
+      {
+        "name": "Mr Pierre Lefebvre",
+        "title": "Enterprise Systems Engineer"
+      },
+      {
+        "name": "Mr Kevin Merrill",
+        "title": "Junior Systems Engineer"
+      },
+      {
+        "name": "Mr Darian Nielson",
+        "title": "Systems Engineer Professional Services Engineer"
+      },
+      {
+        "name": "Mr Ken Sivori",
+        "title": "System Engineer"
+      },
+      {
+        "name": "Mr Greg Smith",
+        "title": "Systems Engineer"
+      },
+      {
+        "name": "Mr Max Theobald",
+        "title": "Professional Services Systems Engineer"
+      },
+      {
+        "name": "Mr Josh Christensen",
+        "title": "Officer"
+      },
+      {
+        "name": "Ms Helen Eva",
+        "title": "Officer"
+      },
+      {
+        "name": "Mr Jonah Livingston",
+        "title": "Managing Director - Emea"
+      },
+      {
+        "name": "Ms Joella Marie Adair",
+        "title": "Campaign & Demand Generation Manager"
+      },
+      {
+        "name": "Mr Kyle Gold",
+        "title": "Corporate Controller"
+      },
+      {
+        "name": "Mr Michael Snook",
+        "title": "Channel Manager"
+      },
+      {
+        "name": "Ms Broc Hafen",
+        "title": "MSP On boarding Engineer"
+      },
+      {
+        "name": "Mr Ken Mickelsen",
+        "title": "Enterprise Architect"
+      }
+    ]
+  },
+  {
+    "name": "SENFORCE TECHNOLOGIES INC",
+    "state": "UT",
+    "year_incorporated": "2004",
+    "nace": "5829",
+    "employees": "52",
+    "revenue_usd": 2370000,
+    "pl_before_tax": null,
+    "total_assets": null,
+    "equity": null,
+    "website": "www.senforce.com",
+    "description": "Engaged in providing endpoint security solutions to the endpoint security enforcement market",
+    "contacts": []
+  },
+  {
+    "name": "CORDA TECHNOLOGIES",
+    "state": "UT",
+    "year_incorporated": "1996",
+    "nace": "5829",
+    "employees": "40",
+    "revenue_usd": 2370000,
+    "pl_before_tax": null,
+    "total_assets": null,
+    "equity": null,
+    "website": "www.corda.com",
+    "description": "Business software developer",
+    "contacts": []
+  },
+  {
+    "name": "WINGATEWEB LLC",
+    "state": "UT",
+    "year_incorporated": null,
+    "nace": "5829",
+    "employees": "35",
+    "revenue_usd": 2370000,
+    "pl_before_tax": null,
+    "total_assets": null,
+    "equity": null,
+    "website": "www.wingateweb.com",
+    "description": null,
+    "contacts": []
+  },
+  {
+    "name": "BOOM, LLC",
+    "state": "UT",
+    "year_incorporated": "2020",
+    "nace": "5829",
+    "employees": "20",
+    "revenue_usd": 2370000,
+    "pl_before_tax": null,
+    "total_assets": null,
+    "equity": null,
+    "website": "boomi.com",
+    "description": null,
+    "contacts": []
+  },
+  {
+    "name": "PERFECT PITCH TECHNOLOGY",
+    "state": "UT",
+    "year_incorporated": "2016",
+    "nace": "5829",
+    "employees": "12",
+    "revenue_usd": 2370000,
+    "pl_before_tax": null,
+    "total_assets": null,
+    "equity": null,
+    "website": "www.perfectpitchtech.com",
+    "description": null,
+    "contacts": [
+      {
+        "name": "Mr Jacob N Munns",
+        "title": "Agent"
+      }
+    ]
+  },
+  {
+    "name": "AUTOPAL SOFTWARE LLC",
+    "state": "UT",
+    "year_incorporated": "2016",
+    "nace": "5829",
+    "employees": "35",
+    "revenue_usd": 2370000,
+    "pl_before_tax": null,
+    "total_assets": null,
+    "equity": null,
+    "website": "www.autopalsoftware.com",
+    "description": null,
+    "contacts": [
+      {
+        "name": "Mr Lloyd Dean Roberts",
+        "title": "Sales Director"
+      },
+      {
+        "name": "Mr Rhett Michael Roberts",
+        "title": "Manager"
+      }
+    ]
+  },
+  {
+    "name": "CONTRARY LLC",
+    "state": "CA",
+    "year_incorporated": "2022",
+    "nace": "5829",
+    "employees": "19",
+    "revenue_usd": 2360000,
+    "pl_before_tax": null,
+    "total_assets": null,
+    "equity": null,
+    "website": "www.contrary.com",
+    "description": "Venture capital investment services",
+    "contacts": [
+      {
+        "name": "Mr Eric Tarczynski",
+        "title": "Member"
+      }
+    ]
+  },
+  {
+    "name": "THINKWHY LLC",
+    "state": "TX",
+    "year_incorporated": "2018",
+    "nace": "5829",
+    "employees": "14",
+    "revenue_usd": 2350000,
+    "pl_before_tax": null,
+    "total_assets": null,
+    "equity": null,
+    "website": "laboriq.co",
+    "description": "Engaged in software development",
+    "contacts": [
+      {
+        "name": "Mr Ronald G Johnsey",
+        "title": "Manager"
+      }
+    ]
+  },
+  {
+    "name": "WASATCH SOFTWARE INC",
+    "state": "UT",
+    "year_incorporated": "2002",
+    "nace": "5829",
+    "employees": "25",
+    "revenue_usd": 2350000,
+    "pl_before_tax": null,
+    "total_assets": null,
+    "equity": null,
+    "website": "www.wasatchsoftware.com",
+    "description": null,
+    "contacts": [
+      {
+        "name": "Mr Spencer E Ferguson",
+        "title": "President"
+      },
+      {
+        "name": "Mr Bahar Sharifan",
+        "title": "President"
+      },
+      {
+        "name": "Ms Margaret Shoeman",
+        "title": "Accounting Clerk"
+      },
+      {
+        "name": "Mr JaNae Neves",
+        "title": "Administrative Assistant"
+      },
+      {
+        "name": "Mr Gavin Spencer",
+        "title": "Senior Account Manager, Sales"
+      },
+      {
+        "name": "Mr Sean Beck",
+        "title": "Computer Technician"
+      },
+      {
+        "name": "Mr Richard Juricic",
+        "title": "Onsite Field Engineer"
+      }
+    ]
+  },
+  {
+    "name": "I5 SERVICES, LLC",
+    "state": "UT",
+    "year_incorporated": "2009",
+    "nace": "5829",
+    "employees": "19",
+    "revenue_usd": 2350000,
+    "pl_before_tax": null,
+    "total_assets": null,
+    "equity": null,
+    "website": "i5services.com",
+    "description": null,
+    "contacts": [
+      {
+        "name": "Ms Cindy Davis",
+        "title": "Chief Financial Officer"
+      },
+      {
+        "name": "Mr David Rudd",
+        "title": "Chief Financial Officer"
+      },
+      {
+        "name": "Ms Dana Pope",
+        "title": "Executives Project Manager"
+      }
+    ]
+  },
+  {
+    "name": "CASEWORTHY, INC.",
+    "state": "UT",
+    "year_incorporated": "2008",
+    "nace": "5829",
+    "employees": "95",
+    "revenue_usd": 2350000,
+    "pl_before_tax": null,
+    "total_assets": null,
+    "equity": null,
+    "website": "www.caseworthy.com",
+    "description": null,
+    "contacts": [
+      {
+        "name": "Mr Scott Argeris",
+        "title": "President"
+      },
+      {
+        "name": "Mr Brian Bingel",
+        "title": "Chief Executive Officer"
+      },
+      {
+        "name": "Mr Brian Bingel",
+        "title": "Incorporator"
+      },
+      {
+        "name": "Mr Rhett Richins",
+        "title": "President"
+      },
+      {
+        "name": "Mr Aaron Watson",
+        "title": "President"
+      },
+      {
+        "name": "Mr Aaron Watson",
+        "title": "No specific function"
+      },
+      {
+        "name": "Ms Darla Christensen",
+        "title": "Vice President"
+      },
+      {
+        "name": "Mr Paparao Gummadapu",
+        "title": "Vice President"
+      },
+      {
+        "name": "Mr Paparao Gummadapu",
+        "title": "Executive Vice President of Enterprise Architecture and Development"
+      },
+      {
+        "name": "Ms Nina Wilson",
+        "title": "Vice President, Professional Services"
+      },
+      {
+        "name": "Mr Lloyd Brandon",
+        "title": "Secretary"
+      },
+      {
+        "name": "Mr Lloyd Brandon",
+        "title": "CFO/D"
+      },
+      {
+        "name": "Mr Thomas Hogan",
+        "title": "Secretary"
+      },
+      {
+        "name": "Mr Stephan Everingham",
+        "title": "Agent"
+      },
+      {
+        "name": "Mr Stephan Everingham",
+        "title": "Accountant"
+      },
+      {
+        "name": "Mr Cameron Dixon",
+        "title": "Business Development"
+      },
+      {
+        "name": "Mr Robert Wigfield",
+        "title": "Business Development"
+      },
+      {
+        "name": "Mr Tyson Taylor",
+        "title": "Controller"
+      },
+      {
+        "name": "Ms Sara Collett",
+        "title": "Human Resources Manager"
+      },
+      {
+        "name": "Ms Rukmani Krishna",
+        "title": "Senior Training Manager"
+      },
+      {
+        "name": "Ms Lauren Schmidt",
+        "title": "Vice President, Sales & Marketing"
+      },
+      {
+        "name": "Casey McKee",
+        "title": "Senior Sales Executive"
+      },
+      {
+        "name": "Mr Steve Monks",
+        "title": "Senior Sales Executive"
+      },
+      {
+        "name": "Mr Richard Ropolo",
+        "title": "Senior Sales Executive"
+      },
+      {
+        "name": "Ms Melissa Steff",
+        "title": "Senior Sales Executive"
+      },
+      {
+        "name": "Ms Laura Ball",
+        "title": "Sales and Marketing Manager"
+      },
+      {
+        "name": "Ms Sara Nagel",
+        "title": "Sales Engineer"
+      },
+      {
+        "name": "Ms Valentina Gillespie",
+        "title": "Manager, Marketing"
+      },
+      {
+        "name": "Ms Melissa Snedecor",
+        "title": "Marketing Designer"
+      },
+      {
+        "name": "Mr David Veirs",
+        "title": "Account Executive"
+      },
+      {
+        "name": "Ms Marissa Fischbeck",
+        "title": "Account Manager, Customer Success"
+      },
+      {
+        "name": "Mr Marco Muralles",
+        "title": "Account Manager, Customer Success"
+      },
+      {
+        "name": "Ms Katerina Tanuvasa",
+        "title": "Account Manager, Customer Success"
+      },
+      {
+        "name": "Mr Marc Piparo",
+        "title": "Chief Technology Officer"
+      },
+      {
+        "name": "Mr Rajah Hilliard",
+        "title": "Technical Analyst"
+      },
+      {
+        "name": "Argeris Scott",
+        "title": "Production and Development"
+      },
+      {
+        "name": "Mr Darius Beverly",
+        "title": "Director of Product Management"
+      },
+      {
+        "name": "Mr Joshua Cardoza",
+        "title": "Project Manager"
+      },
+      {
+        "name": "Mr Timothy Patrick Christian",
+        "title": "Supervisor, Project Management"
+      },
+      {
+        "name": "Mr Howard Drury",
+        "title": "Project Manager"
+      },
+      {
+        "name": "Ms Jennifer Prashad",
+        "title": "Project Manager"
+      },
+      {
+        "name": "Ms Tuella Sowu",
+        "title": "Project Manager"
+      },
+      {
+        "name": "Mr Cameron Beck",
+        "title": "Manager, Reporting, ETL & Quality Assurance"
+      },
+      {
+        "name": "Mr Timothy Jensen",
+        "title": "Systems Administrator"
+      },
+      {
+        "name": "Mr Russ Bauer",
+        "title": "Systems Analyst"
+      },
+      {
+        "name": "Mr Brandon Bird",
+        "title": "Systems Analyst"
+      },
+      {
+        "name": "Mr Adrian Eliason",
+        "title": "Systems Analyst"
+      },
+      {
+        "name": "Mr Derek Hill",
+        "title": "Systems Analyst"
+      },
+      {
+        "name": "Mr Steve Nance",
+        "title": "Systems Analyst"
+      },
+      {
+        "name": "Bingel Brian",
+        "title": "CEO/D"
+      },
+      {
+        "name": "Mr Ralph Figueroa",
+        "title": "Director of Professional Services"
+      },
+      {
+        "name": "Ms Kathleen Allen",
+        "title": "Senior Analyst Manager"
+      },
+      {
+        "name": "Mr Brian Fleming",
+        "title": "Senior Proposal Manager"
+      },
+      {
+        "name": "Krysten Adler",
+        "title": "Business Analyst"
+      },
+      {
+        "name": "Mr Jeffery Bloes",
+        "title": "Business Intelligence Developer"
+      },
+      {
+        "name": "Ms Charlene Dailey",
+        "title": "Etl Developer"
+      },
+      {
+        "name": "Ms Diana McGarry",
+        "title": "Business Analyst"
+      },
+      {
+        "name": "Emilee Mullin",
+        "title": "Implementation Specialist"
+      }
+    ]
+  },
+  {
+    "name": "SECOND AVENUE SOFTWARE, INC.",
+    "state": "NY",
+    "year_incorporated": "2007",
+    "nace": "5829",
+    "employees": "18",
+    "revenue_usd": 2350000,
+    "pl_before_tax": null,
+    "total_assets": null,
+    "equity": null,
+    "website": "www.secondavenuelearning.com",
+    "description": null,
+    "contacts": [
+      {
+        "name": "Ms Victoria Van Voorhis",
+        "title": "Chairman"
+      },
+      {
+        "name": "Ms Victoria Van Voorhis",
+        "title": "Executive Officer"
+      },
+      {
+        "name": "Victoria Van S",
+        "title": "Executive Officer"
+      },
+      {
+        "name": "Mr Richard Carey",
+        "title": "Vice President of Technology"
+      }
+    ]
+  },
+  {
+    "name": "GRAM LABS INC",
+    "state": "MA",
+    "year_incorporated": "2020",
+    "nace": "5829",
+    "employees": "25",
+    "revenue_usd": 2340000,
+    "pl_before_tax": null,
+    "total_assets": null,
+    "equity": null,
+    "website": "www.stormforge.io",
+    "description": null,
+    "contacts": []
+  },
+  {
+    "name": "ATRIS TECHNOLOGY, LLC",
+    "state": "FL",
+    "year_incorporated": "2022",
+    "nace": "5829",
+    "employees": "12",
+    "revenue_usd": 2340000,
+    "pl_before_tax": null,
+    "total_assets": null,
+    "equity": null,
+    "website": "www.atris.com",
+    "description": null,
+    "contacts": [
+      {
+        "name": "Mr Mcelhiney Scott E",
+        "title": "Sales Manager"
+      },
+      {
+        "name": "Mr Mcelhiney Scott E",
+        "title": "Manager"
+      },
+      {
+        "name": "Mr Davis Lon R",
+        "title": "Manager"
+      },
+      {
+        "name": "Mr Daniel L Roberts",
+        "title": "Manager"
+      }
+    ]
+  },
+  {
+    "name": "ART & SOFTWARE",
+    "state": "FL",
+    "year_incorporated": null,
+    "nace": "5829",
+    "employees": "11",
+    "revenue_usd": 2340000,
+    "pl_before_tax": null,
+    "total_assets": null,
+    "equity": null,
+    "website": "www.sagetimberlineoffice.com",
+    "description": null,
+    "contacts": [
+      {
+        "name": "Mr Guard Peter J",
+        "title": "President"
+      },
+      {
+        "name": "Mr Thomas W Guard",
+        "title": "Secretary"
+      }
+    ]
+  },
+  {
+    "name": "SOFTVELOCITY INC",
+    "state": "FL",
+    "year_incorporated": "2001",
+    "nace": "5829",
+    "employees": "76",
+    "revenue_usd": 2340000,
+    "pl_before_tax": null,
+    "total_assets": null,
+    "equity": null,
+    "website": "www.softvelocity.com",
+    "description": null,
+    "contacts": [
+      {
+        "name": "Ms Doreen Williamson",
+        "title": "Programmer"
+      }
+    ]
+  },
+  {
+    "name": "PEREDUR CORPORATION",
+    "state": "FL",
+    "year_incorporated": "1997",
+    "nace": "5829",
+    "employees": "40",
+    "revenue_usd": 2340000,
+    "pl_before_tax": null,
+    "total_assets": null,
+    "equity": null,
+    "website": "www.peredursystems.com",
+    "description": null,
+    "contacts": [
+      {
+        "name": "Mr Mark S Olsen",
+        "title": "Product Development"
+      }
+    ]
+  }
+]

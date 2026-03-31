@@ -1,0 +1,845 @@
+[
+  {
+    "name": "DIGICOMP RESEARCH CORPORATION",
+    "state": "NY",
+    "year_incorporated": "1975",
+    "nace": "5829",
+    "employees": "15",
+    "revenue_usd": 1190000,
+    "pl_before_tax": null,
+    "total_assets": null,
+    "equity": null,
+    "website": "www.digicomp.com",
+    "description": null,
+    "contacts": [
+      {
+        "name": "Mr Om P Gupta",
+        "title": "Executive Officer"
+      },
+      {
+        "name": "Buyoucos Barney Kerrigan",
+        "title": "Processor"
+      }
+    ]
+  },
+  {
+    "name": "ENIGMA SOFTWARE GROUP INC",
+    "state": "NY",
+    "year_incorporated": "2000",
+    "nace": "5829",
+    "employees": "20",
+    "revenue_usd": 1190000,
+    "pl_before_tax": null,
+    "total_assets": null,
+    "equity": null,
+    "website": "www.enigmasoftware.com",
+    "description": null,
+    "contacts": [
+      {
+        "name": "Mr Alvin J Estevez",
+        "title": "Executive Officer"
+      }
+    ]
+  },
+  {
+    "name": "BRIGADOON SOFTWARE INC",
+    "state": "NY",
+    "year_incorporated": "1999",
+    "nace": "5829",
+    "employees": "12",
+    "revenue_usd": 1190000,
+    "pl_before_tax": null,
+    "total_assets": null,
+    "equity": null,
+    "website": "www.brigadoonsoftware.com",
+    "description": null,
+    "contacts": [
+      {
+        "name": "Mr Frank Jones",
+        "title": "Marketing Executive"
+      }
+    ]
+  },
+  {
+    "name": "EX EL ENTERPRISES LTD",
+    "state": "NY",
+    "year_incorporated": "1983",
+    "nace": "5829",
+    "employees": "11",
+    "revenue_usd": 1190000,
+    "pl_before_tax": null,
+    "total_assets": null,
+    "equity": null,
+    "website": "www.ex-el.com",
+    "description": null,
+    "contacts": [
+      {
+        "name": "Mr Henry N Lehmann",
+        "title": "President"
+      }
+    ]
+  },
+  {
+    "name": "CAST SOFTWARE",
+    "state": "NY",
+    "year_incorporated": "2019",
+    "nace": "5829",
+    "employees": "20",
+    "revenue_usd": 1190000,
+    "pl_before_tax": null,
+    "total_assets": null,
+    "equity": null,
+    "website": "www.castsoftware.com",
+    "description": "Application security control software provider",
+    "contacts": [
+      {
+        "name": "Mr Nevin Kaplan",
+        "title": "Senior Quality Assurance Engineer & Services Professional"
+      }
+    ]
+  },
+  {
+    "name": "BIODIGITAL, INC.",
+    "state": "NY",
+    "year_incorporated": "2013",
+    "nace": "5829",
+    "employees": "40",
+    "revenue_usd": 1190000,
+    "pl_before_tax": null,
+    "total_assets": null,
+    "equity": null,
+    "website": "www.biodigital.com",
+    "description": "Biomedical 3D visualisation systems developer ; Biomedical data visualisation services ; Biomedical 3D visualisation online platform developer",
+    "contacts": [
+      {
+        "name": "Mr Frank Sculli",
+        "title": "Chief Executive Officer"
+      },
+      {
+        "name": "Mr Frank Sculli",
+        "title": "Officer"
+      },
+      {
+        "name": "Mr John Qualter",
+        "title": "Co-Founder"
+      },
+      {
+        "name": "Mr John Qualter",
+        "title": "Secretary"
+      },
+      {
+        "name": "Mr John Qualter",
+        "title": "Director of Media"
+      },
+      {
+        "name": "Mr John Qualter",
+        "title": "Officer"
+      },
+      {
+        "name": "Mr Todd Reinglass",
+        "title": "Vice President of Business Development"
+      },
+      {
+        "name": "Mr Harlan Tell",
+        "title": "Chief Financial Officer"
+      },
+      {
+        "name": "Mr Harlan Tell",
+        "title": "Treasurer"
+      },
+      {
+        "name": "Ms Rachel Moak",
+        "title": "Customer Success Specialist"
+      },
+      {
+        "name": "Mr David Ross",
+        "title": "Chief Operating Officer"
+      },
+      {
+        "name": "Mr Josh Abene",
+        "title": "Lead Content Developer"
+      },
+      {
+        "name": "Mr Evan Molinelli",
+        "title": "Bioinformatics Programmer"
+      },
+      {
+        "name": "Mr Amish Jani",
+        "title": "Officer"
+      },
+      {
+        "name": "Mr Alan Ren",
+        "title": "Officer"
+      },
+      {
+        "name": "Mr Russell Richmond",
+        "title": "Officer"
+      },
+      {
+        "name": "Mr Russell Richmond",
+        "title": "Director"
+      },
+      {
+        "name": "Hatlen Tell",
+        "title": "Officer"
+      },
+      {
+        "name": "Vivian Chang",
+        "title": "Governing Person"
+      },
+      {
+        "name": "Mr Ian Lotto",
+        "title": "Frontend Developer"
+      },
+      {
+        "name": "Mr Aaron Oliker",
+        "title": "Governing Person"
+      },
+      {
+        "name": "Ms Lauren Struck",
+        "title": "Governing Person"
+      },
+      {
+        "name": "Ms Stephanie Winans",
+        "title": "Governing Person"
+      }
+    ]
+  },
+  {
+    "name": "PICA",
+    "state": "NY",
+    "year_incorporated": "2008",
+    "nace": "5829",
+    "employees": "11",
+    "revenue_usd": 1190000,
+    "pl_before_tax": null,
+    "total_assets": null,
+    "equity": null,
+    "website": "www.pica9.com",
+    "description": null,
+    "contacts": []
+  },
+  {
+    "name": "AUGMENTED REALITY PRODUCT",
+    "state": "NY",
+    "year_incorporated": "2016",
+    "nace": "5829",
+    "employees": "130",
+    "revenue_usd": 1190000,
+    "pl_before_tax": null,
+    "total_assets": null,
+    "equity": null,
+    "website": "www.plattar.com",
+    "description": null,
+    "contacts": []
+  },
+  {
+    "name": "CODE DX, INC.",
+    "state": "NY",
+    "year_incorporated": "2015",
+    "nace": "5829",
+    "employees": "12",
+    "revenue_usd": 1190000,
+    "pl_before_tax": null,
+    "total_assets": null,
+    "equity": null,
+    "website": "www.codedx.com",
+    "description": "Application security management Software-as-a-Service (SaaS) provider ; Application security management software developer",
+    "contacts": [
+      {
+        "name": "Ms Anita D Amico",
+        "title": "Chief Executive Officer"
+      },
+      {
+        "name": "Ms Kelly A Bennett",
+        "title": "Controller"
+      },
+      {
+        "name": "Mr Curtis Bragdon",
+        "title": "Director, Sales"
+      },
+      {
+        "name": "Mr Kris Ramaswamy",
+        "title": "Account Executive"
+      },
+      {
+        "name": "Mr Ken Prole",
+        "title": "Development Team"
+      },
+      {
+        "name": "Ms Kathleen Conroy",
+        "title": "Software Vulnerabilities"
+      }
+    ]
+  },
+  {
+    "name": "CUSTORA, INC.",
+    "state": "NY",
+    "year_incorporated": "2011",
+    "nace": "5829",
+    "employees": "40",
+    "revenue_usd": 1190000,
+    "pl_before_tax": null,
+    "total_assets": null,
+    "equity": null,
+    "website": "www.custora.com",
+    "description": "Online marketing and analysis Software-as-a-Service (SaaS) platform operator",
+    "contacts": [
+      {
+        "name": "Mr Corey Pierson",
+        "title": "Chief Executive Officer & Co-Founder"
+      },
+      {
+        "name": "Mr Jon Pospischil",
+        "title": "Co-Founder"
+      },
+      {
+        "name": "Ms Elizabeth Emerson",
+        "title": "Enterprise Sales Director"
+      },
+      {
+        "name": "Mr Kevin Young",
+        "title": "Chief Marketing Officer"
+      },
+      {
+        "name": "Ms Maddie Buras",
+        "title": "Director, Marketing"
+      },
+      {
+        "name": "Mr Brady Walker",
+        "title": "Senior Manager, Content Marketing"
+      },
+      {
+        "name": "Trinity Wofford",
+        "title": "Marketing Manager"
+      },
+      {
+        "name": "Ms Jessica Fleisher",
+        "title": "Customer Development Manager"
+      },
+      {
+        "name": "Mr Will Lowther",
+        "title": "Manager, Customer Development"
+      },
+      {
+        "name": "Ashley Pikula",
+        "title": "Manager, Customer Development"
+      },
+      {
+        "name": "Mr Daniel Rieger",
+        "title": "Manager, Customer Development"
+      },
+      {
+        "name": "Mr Nick Nagy",
+        "title": "Customer Success - Technical Business and Integrations"
+      },
+      {
+        "name": "Mr Martin Gordon",
+        "title": "Product Development"
+      },
+      {
+        "name": "Ms Marianne Menictas",
+        "title": "Data Scientist"
+      },
+      {
+        "name": "Mr Jordan Elkind",
+        "title": "Head of Product Management"
+      },
+      {
+        "name": "Ms Hannah Briskin",
+        "title": "Project Manager, On boarding"
+      },
+      {
+        "name": "Ms Joyce Greenbaum",
+        "title": "Product Manager"
+      },
+      {
+        "name": "Ms Kathleen O'Keefe",
+        "title": "Head of Operations"
+      },
+      {
+        "name": "Ms Chelsea Conrad",
+        "title": "Operations Executive"
+      },
+      {
+        "name": "Mr Abraham Bae",
+        "title": "Software Engineer"
+      },
+      {
+        "name": "Ms Sam Dallas",
+        "title": "Software Engineer"
+      },
+      {
+        "name": "Mr Aaron Grau",
+        "title": "Software Engineer"
+      },
+      {
+        "name": "Mr Jacob Shorty",
+        "title": "Software Engineer (Remote)"
+      },
+      {
+        "name": "Mr Tim Bryan",
+        "title": "Chief Revenue Officer"
+      },
+      {
+        "name": "Mr Asher Waxman",
+        "title": "Director of Partnerships"
+      }
+    ]
+  },
+  {
+    "name": "BEFUNKY, INC.",
+    "state": "OR",
+    "year_incorporated": "2019",
+    "nace": "5829",
+    "employees": "13",
+    "revenue_usd": 1190000,
+    "pl_before_tax": null,
+    "total_assets": null,
+    "equity": null,
+    "website": "www.befunky.com",
+    "description": null,
+    "contacts": [
+      {
+        "name": "Mr Chris Sparling",
+        "title": "President"
+      },
+      {
+        "name": "Mr Andrew Wilkinson",
+        "title": "President"
+      },
+      {
+        "name": "Mr Abdi Tekin Tatar",
+        "title": "Secretary"
+      },
+      {
+        "name": "Mr Abdi Tekin Tatar",
+        "title": "Officer"
+      },
+      {
+        "name": "Ms Derric Tanner",
+        "title": "Product Manager"
+      },
+      {
+        "name": "Micah Miller-Eshleman",
+        "title": "Senior Frontend Engineer"
+      }
+    ]
+  },
+  {
+    "name": "ROON LABS LLC",
+    "state": "NY",
+    "year_incorporated": "2015",
+    "nace": "5829",
+    "employees": "20",
+    "revenue_usd": 1190000,
+    "pl_before_tax": null,
+    "total_assets": null,
+    "equity": null,
+    "website": "www.roonlabs.com",
+    "description": "Digital music streaming platform operator",
+    "contacts": [
+      {
+        "name": "Mr Dipin Sehdev",
+        "title": "Vice President of Marketing"
+      },
+      {
+        "name": "Ms Genia Vyala",
+        "title": "Director of Operations"
+      }
+    ]
+  },
+  {
+    "name": "CHECKM8 INC",
+    "state": "NY",
+    "year_incorporated": null,
+    "nace": "5829",
+    "employees": "40",
+    "revenue_usd": 1190000,
+    "pl_before_tax": null,
+    "total_assets": null,
+    "equity": null,
+    "website": "www.checkm8.com",
+    "description": "Online advertising and marketing software developer",
+    "contacts": []
+  },
+  {
+    "name": "GCS SOFTWARE LLC",
+    "state": "NY",
+    "year_incorporated": "2002",
+    "nace": "5829",
+    "employees": "10",
+    "revenue_usd": 1190000,
+    "pl_before_tax": null,
+    "total_assets": null,
+    "equity": null,
+    "website": "a2000software.com",
+    "description": null,
+    "contacts": [
+      {
+        "name": "Ms Deborah Douglass",
+        "title": "Vice President"
+      },
+      {
+        "name": "Mr Jeff Sherman",
+        "title": "Director, Customer Success"
+      },
+      {
+        "name": "Ms Kristine Avicolli",
+        "title": "Customer Service Manager"
+      },
+      {
+        "name": "Mr Rafael Martinez",
+        "title": "Programmer & Analyst"
+      },
+      {
+        "name": "Mr Gelson Mata",
+        "title": "Software Developer"
+      },
+      {
+        "name": "Ms Lisa Smith",
+        "title": "GCS Software; Software Implementation"
+      },
+      {
+        "name": "Ms Ayana Williams",
+        "title": "Trainer / Support"
+      }
+    ]
+  },
+  {
+    "name": "GLOBALQUEST SOLUTIONS INC",
+    "state": "NY",
+    "year_incorporated": "1994",
+    "nace": "5829",
+    "employees": "35",
+    "revenue_usd": 1190000,
+    "pl_before_tax": null,
+    "total_assets": null,
+    "equity": null,
+    "website": "www.globalquestinc.com",
+    "description": "Technology consultancy services",
+    "contacts": [
+      {
+        "name": "Mr Aaron V Fox",
+        "title": "Owner"
+      },
+      {
+        "name": "Mr Gregory Macdonald",
+        "title": "Senior Systems Engineer"
+      },
+      {
+        "name": "Ms Martha J Martin",
+        "title": "No specific function"
+      },
+      {
+        "name": "Ms Mandy Schunk",
+        "title": "Employee Relations Specialist"
+      }
+    ]
+  },
+  {
+    "name": "REGENCY ONE DEVELOPMENT COMPANY, INC.",
+    "state": "NY",
+    "year_incorporated": "1999",
+    "nace": "5829",
+    "employees": "20",
+    "revenue_usd": 1190000,
+    "pl_before_tax": null,
+    "total_assets": null,
+    "equity": null,
+    "website": "www.successware21.com",
+    "description": null,
+    "contacts": [
+      {
+        "name": "Mr Vincent A Re SR",
+        "title": "Executive Officer"
+      },
+      {
+        "name": "C O Re SR",
+        "title": "Processor"
+      }
+    ]
+  },
+  {
+    "name": "ORBUS SOFTWARE",
+    "state": "NY",
+    "year_incorporated": "2003",
+    "nace": "5829",
+    "employees": "25",
+    "revenue_usd": 1190000,
+    "pl_before_tax": null,
+    "total_assets": null,
+    "equity": null,
+    "website": "www.orbussoftware.com",
+    "description": null,
+    "contacts": [
+      {
+        "name": "Mr Mitchell Wightman",
+        "title": "Business Development Representative"
+      },
+      {
+        "name": "Mr Matt Tremonte",
+        "title": "Sales Executive"
+      },
+      {
+        "name": "Mr Mike Sheehan",
+        "title": "Sales Manager & Internal & New Business Consultant"
+      },
+      {
+        "name": "Mr Richard Ellis",
+        "title": "Sales Consultant"
+      },
+      {
+        "name": "Ms Julia Lipnicky",
+        "title": "Sales Consultant"
+      },
+      {
+        "name": "Mr Julian Martin",
+        "title": "Sales Consultant"
+      },
+      {
+        "name": "Ms Alexandra Nybratt",
+        "title": "Sales Consultant"
+      },
+      {
+        "name": "Ms Alison Port",
+        "title": "Internal Sales Consultant"
+      },
+      {
+        "name": "Mr Geo Rodriguez",
+        "title": "Account Executive"
+      },
+      {
+        "name": "Ms Hana Wright",
+        "title": "Customer Account Manager"
+      },
+      {
+        "name": "Mr Peter Bates",
+        "title": "Country Manager"
+      },
+      {
+        "name": "Mr Sean Cleary",
+        "title": "Senior Consultant"
+      }
+    ]
+  },
+  {
+    "name": "WHITE STAR TECHNOLOGIES LLC",
+    "state": "NY",
+    "year_incorporated": "2017",
+    "nace": "5829",
+    "employees": "25",
+    "revenue_usd": 1190000,
+    "pl_before_tax": null,
+    "total_assets": null,
+    "equity": null,
+    "website": "www.whitestartech.com",
+    "description": null,
+    "contacts": []
+  },
+  {
+    "name": "CUBE PLANNING INC",
+    "state": "NY",
+    "year_incorporated": "2021",
+    "nace": "5829",
+    "employees": "85",
+    "revenue_usd": 1190000,
+    "pl_before_tax": null,
+    "total_assets": null,
+    "equity": null,
+    "website": "www.cubesoftware.com",
+    "description": "Financial planning and analysis Software-as-a-Service (SaaS) provider",
+    "contacts": [
+      {
+        "name": "Ms Christina Ross",
+        "title": "Executive Officer"
+      },
+      {
+        "name": "Mr Matt Buchan",
+        "title": "Officer"
+      }
+    ]
+  },
+  {
+    "name": "SPELL INC.",
+    "state": "NY",
+    "year_incorporated": "2017",
+    "nace": "5829",
+    "employees": "20",
+    "revenue_usd": 1190000,
+    "pl_before_tax": null,
+    "total_assets": null,
+    "equity": null,
+    "website": "spell.ml",
+    "description": "Machine learning operations (MLOps) experiments Software-as-a-Service (SaaS) provider",
+    "contacts": [
+      {
+        "name": "Mr Serkan Piantino",
+        "title": "Executive Officer"
+      }
+    ]
+  },
+  {
+    "name": "POINT DUTY INC.",
+    "state": "NY",
+    "year_incorporated": "2021",
+    "nace": "5829",
+    "employees": "10",
+    "revenue_usd": 1190000,
+    "pl_before_tax": null,
+    "total_assets": null,
+    "equity": null,
+    "website": "www.pointdutyusa.com",
+    "description": null,
+    "contacts": [
+      {
+        "name": "Mr Michael Peter Summerfield",
+        "title": "Vice President Sales & Channel Partnerships"
+      },
+      {
+        "name": "Mr David Williams",
+        "title": "Vice President Sales Direct"
+      },
+      {
+        "name": "Mr Stanley Lewis Kaine",
+        "title": "Officer"
+      }
+    ]
+  },
+  {
+    "name": "COTA, INC.",
+    "state": "NY",
+    "year_incorporated": "2017",
+    "nace": "5829",
+    "employees": "85",
+    "revenue_usd": 1190000,
+    "pl_before_tax": null,
+    "total_assets": null,
+    "equity": null,
+    "website": "www.cotahealthcare.com",
+    "description": "Cloud-based cancer outcomes tracking and analysis platform operator",
+    "contacts": [
+      {
+        "name": "Mr Michael Doyle",
+        "title": "President"
+      },
+      {
+        "name": "Mr John Hervey",
+        "title": "President"
+      },
+      {
+        "name": "C K Wang",
+        "title": "Chief Executive Officer"
+      },
+      {
+        "name": "Miruna Sasu",
+        "title": "Executive Officer"
+      },
+      {
+        "name": "Ms Emily Di Capua",
+        "title": "Vice President"
+      },
+      {
+        "name": "Ms Elizabeth K Rushforth",
+        "title": "Secretary"
+      },
+      {
+        "name": "Mr Ernest Odame",
+        "title": "Director, Strategic Partnerships"
+      },
+      {
+        "name": "Ms Stephanie Casin",
+        "title": "Executive Assistant"
+      },
+      {
+        "name": "Tom Galluccei",
+        "title": "Treasurer"
+      },
+      {
+        "name": "Ms Jenny Mirakrov",
+        "title": "Treasurer"
+      },
+      {
+        "name": "Ms Joellen Hornig",
+        "title": "Senior Vice President, Human Resources"
+      },
+      {
+        "name": "Ms Kristin Fallon-Hanley",
+        "title": "Clinical Data Operations Manager, Quality & Training"
+      },
+      {
+        "name": "Ms Pauline Rosas",
+        "title": "Manager, Commercial Support"
+      },
+      {
+        "name": "Ms Nadine Peters",
+        "title": "Chief Legal Officer"
+      },
+      {
+        "name": "Ms Jacqueline Connors",
+        "title": "Director, Clinical Abstraction, Clinical Data Operations"
+      },
+      {
+        "name": "Ms Monica Matta",
+        "title": "Director, Operations"
+      }
+    ]
+  },
+  {
+    "name": "VOLPARA SOLUTIONS INC.",
+    "state": "NY",
+    "year_incorporated": "2018",
+    "nace": "5829",
+    "employees": "30",
+    "revenue_usd": 1190000,
+    "pl_before_tax": null,
+    "total_assets": null,
+    "equity": null,
+    "website": "www.volparasolutions.com",
+    "description": null,
+    "contacts": [
+      {
+        "name": "Mr Craig Hadfield",
+        "title": "Corporate Officer"
+      }
+    ]
+  },
+  {
+    "name": "CUREMD COME INC",
+    "state": "NY",
+    "year_incorporated": "2014",
+    "nace": "5829",
+    "employees": "35",
+    "revenue_usd": 1190000,
+    "pl_before_tax": null,
+    "total_assets": null,
+    "equity": null,
+    "website": "www.curemd.com",
+    "description": null,
+    "contacts": [
+      {
+        "name": "Mr Zeeshan Haq",
+        "title": "Senior Manager Information Technology"
+      }
+    ]
+  },
+  {
+    "name": "SCIOLYTIX",
+    "state": "NY",
+    "year_incorporated": null,
+    "nace": "5829",
+    "employees": "20",
+    "revenue_usd": 1190000,
+    "pl_before_tax": null,
+    "total_assets": null,
+    "equity": null,
+    "website": "www.sciolytix.com",
+    "description": null,
+    "contacts": [
+      {
+        "name": "Scioly Tix",
+        "title": "Owner"
+      }
+    ]
+  }
+]

@@ -1,0 +1,514 @@
+[
+  {
+    "name": "INTERNET STRATEGY, INC.",
+    "state": "CA",
+    "year_incorporated": "2004",
+    "nace": "5829",
+    "employees": "14",
+    "revenue_usd": 1050000,
+    "pl_before_tax": null,
+    "total_assets": null,
+    "equity": null,
+    "website": "www.1parkplace.com",
+    "description": null,
+    "contacts": []
+  },
+  {
+    "name": "MOMENTUM DATA SYSTEMS, INC.",
+    "state": "CA",
+    "year_incorporated": "1987",
+    "nace": "5829",
+    "employees": "25",
+    "revenue_usd": 1050000,
+    "pl_before_tax": null,
+    "total_assets": null,
+    "equity": null,
+    "website": "www.mds.com",
+    "description": null,
+    "contacts": [
+      {
+        "name": "Mr Stephen R Brunner",
+        "title": "Chief Executive Officer"
+      },
+      {
+        "name": "Mr Stephen R Brunner",
+        "title": "Vice President Sales"
+      },
+      {
+        "name": "Ms Linda M Purcell",
+        "title": "Secretary"
+      },
+      {
+        "name": "Mr Jerry E Purcell",
+        "title": "Chief Financial Officer"
+      },
+      {
+        "name": "Mr Alfred Lee",
+        "title": "Chief Technology Officer"
+      }
+    ]
+  },
+  {
+    "name": "TSUNAMI SOFTWARE INC",
+    "state": "CA",
+    "year_incorporated": "2000",
+    "nace": "5829",
+    "employees": "18",
+    "revenue_usd": 1050000,
+    "pl_before_tax": null,
+    "total_assets": null,
+    "equity": null,
+    "website": "www.intapp.com",
+    "description": null,
+    "contacts": [
+      {
+        "name": "Ms Leah Cruz",
+        "title": "Controller"
+      },
+      {
+        "name": "Vonhof John",
+        "title": "Senior Product Marketing Manager"
+      },
+      {
+        "name": "Mr Schweitzer Lea",
+        "title": "Marketing Manager"
+      },
+      {
+        "name": "Ms Petra Haltmayer",
+        "title": "Marketing Specialist"
+      },
+      {
+        "name": "Ward Eldean",
+        "title": "Vice President Customer Success Management"
+      },
+      {
+        "name": "Mr Blaine Sullivan",
+        "title": "Information Technology Manager"
+      }
+    ]
+  },
+  {
+    "name": "CVPS INC",
+    "state": "CA",
+    "year_incorporated": null,
+    "nace": "5829",
+    "employees": "13",
+    "revenue_usd": 1050000,
+    "pl_before_tax": null,
+    "total_assets": null,
+    "equity": null,
+    "website": "cvps.solutions",
+    "description": null,
+    "contacts": []
+  },
+  {
+    "name": "FURNITURE RETAIL OPERATIONS GROUP, INC.",
+    "state": "CA",
+    "year_incorporated": "2021",
+    "nace": "5829",
+    "employees": "10",
+    "revenue_usd": 1050000,
+    "pl_before_tax": null,
+    "total_assets": null,
+    "equity": null,
+    "website": "www.furnguy.com",
+    "description": null,
+    "contacts": [
+      {
+        "name": "Mr Timothy Allen Trefry",
+        "title": "President"
+      }
+    ]
+  },
+  {
+    "name": "SOLID OAK SOFTWARE, INC.",
+    "state": "CA",
+    "year_incorporated": "1990",
+    "nace": "5829",
+    "employees": "25",
+    "revenue_usd": 1050000,
+    "pl_before_tax": null,
+    "total_assets": null,
+    "equity": null,
+    "website": "www.cybersitterlists.com",
+    "description": "Develops prepackaged Internet filtering & PC security software Industry specific software, network applications software, network management software, networking software, operating environment software, security and protection software, utility and device driver software",
+    "contacts": []
+  },
+  {
+    "name": "CONVERA TECHNOLOGIES INC",
+    "state": "CA",
+    "year_incorporated": "2011",
+    "nace": "5829",
+    "employees": "54",
+    "revenue_usd": 1050000,
+    "pl_before_tax": null,
+    "total_assets": null,
+    "equity": null,
+    "website": "www.convera.com",
+    "description": null,
+    "contacts": []
+  },
+  {
+    "name": "INDX SOFTWARE CORPORATION, A SIEMENS COMPANY",
+    "state": "CA",
+    "year_incorporated": "1996",
+    "nace": "5829",
+    "employees": "40",
+    "revenue_usd": 1050000,
+    "pl_before_tax": null,
+    "total_assets": null,
+    "equity": null,
+    "website": "www.indx.com",
+    "description": "Operations intelligence software developer",
+    "contacts": []
+  },
+  {
+    "name": "WORDSMART CORP",
+    "state": "CA",
+    "year_incorporated": "1993",
+    "nace": "5829",
+    "employees": "105",
+    "revenue_usd": 1050000,
+    "pl_before_tax": null,
+    "total_assets": null,
+    "equity": null,
+    "website": "www.wordsmart.com",
+    "description": "Engaged in the provision of computer programming, data processing and hosting, as well as other related services",
+    "contacts": [
+      {
+        "name": "Mr David Kay",
+        "title": "President / Chief Executive Officer"
+      }
+    ]
+  },
+  {
+    "name": "ERA SOFTWARE SYSTEMS INC",
+    "state": "CA",
+    "year_incorporated": "2000",
+    "nace": "5829",
+    "employees": "14",
+    "revenue_usd": 1050000,
+    "pl_before_tax": null,
+    "total_assets": null,
+    "equity": null,
+    "website": "www.erasoftwaresystems.com",
+    "description": null,
+    "contacts": [
+      {
+        "name": "Mr Hugh Albert",
+        "title": "Chief Sales and Marketing Officer"
+      }
+    ]
+  },
+  {
+    "name": "FIORANO SOFTWARE, INC.",
+    "state": "CA",
+    "year_incorporated": "1995",
+    "nace": "5829",
+    "employees": "95",
+    "revenue_usd": 1050000,
+    "pl_before_tax": null,
+    "total_assets": null,
+    "equity": null,
+    "website": "www.fiorano.com",
+    "description": null,
+    "contacts": [
+      {
+        "name": "Mr Atul Saini",
+        "title": "Chief Executive Officer"
+      },
+      {
+        "name": "Ms Anjali Saini",
+        "title": "Chief Financial Officer"
+      },
+      {
+        "name": "Ms Anjali Saini",
+        "title": "No specific function"
+      },
+      {
+        "name": "Mr Damodar Reddy",
+        "title": "Product Licensing"
+      },
+      {
+        "name": "Mr Thomas Stack",
+        "title": "No specific function"
+      }
+    ]
+  },
+  {
+    "name": "ORTIVA WIRELESS, INC.",
+    "state": "CA",
+    "year_incorporated": "2005",
+    "nace": "5829",
+    "employees": "30",
+    "revenue_usd": 1050000,
+    "pl_before_tax": null,
+    "total_assets": null,
+    "equity": null,
+    "website": "www.ortivawireless.com",
+    "description": null,
+    "contacts": []
+  },
+  {
+    "name": "UNION SOLUTIONS, INC.",
+    "state": "CA",
+    "year_incorporated": "1996",
+    "nace": "5829",
+    "employees": "14",
+    "revenue_usd": 1050000,
+    "pl_before_tax": null,
+    "total_assets": null,
+    "equity": null,
+    "website": "www.unionsolutions.com",
+    "description": null,
+    "contacts": []
+  },
+  {
+    "name": "GIS CONSULTANTS",
+    "state": "CA",
+    "year_incorporated": "1993",
+    "nace": "5829",
+    "employees": "25",
+    "revenue_usd": 1050000,
+    "pl_before_tax": null,
+    "total_assets": null,
+    "equity": null,
+    "website": "www.opendataconsortium.org",
+    "description": null,
+    "contacts": []
+  },
+  {
+    "name": "AIM SYSTEMS INC",
+    "state": "CA",
+    "year_incorporated": "2001",
+    "nace": "5829",
+    "employees": "30",
+    "revenue_usd": 1050000,
+    "pl_before_tax": null,
+    "total_assets": null,
+    "equity": null,
+    "website": "www.retailanywhere.com",
+    "description": "Retail point of sale software developer",
+    "contacts": []
+  },
+  {
+    "name": "BERKELEY ELECTRONIC PRESS",
+    "state": "CA",
+    "year_incorporated": "1999",
+    "nace": "5829",
+    "employees": "14",
+    "revenue_usd": 1050000,
+    "pl_before_tax": null,
+    "total_assets": null,
+    "equity": null,
+    "website": "www.bepress.com",
+    "description": null,
+    "contacts": [
+      {
+        "name": "Mr Dave Stout",
+        "title": "Director of Sales"
+      },
+      {
+        "name": "Mr Doug Cannon",
+        "title": "Sales Manager"
+      },
+      {
+        "name": "Mr Gregory Seymour",
+        "title": "Sales Manager"
+      },
+      {
+        "name": "Casey Busher",
+        "title": "Director of Communications"
+      },
+      {
+        "name": "Ms Julia Cianci",
+        "title": "Outreach and Communications Coordinator"
+      },
+      {
+        "name": "Mr JeanGabriel Bankier",
+        "title": "Chief Operating Officer"
+      },
+      {
+        "name": "Benedek Nyikos",
+        "title": "Operations Manager"
+      },
+      {
+        "name": "Ms Brenda Deely",
+        "title": "Junior Software Engineer"
+      }
+    ]
+  },
+  {
+    "name": "CLOCKWARE",
+    "state": "CA",
+    "year_incorporated": null,
+    "nace": "5829",
+    "employees": "15",
+    "revenue_usd": 1050000,
+    "pl_before_tax": null,
+    "total_assets": null,
+    "equity": null,
+    "website": "www.clockware.com",
+    "description": null,
+    "contacts": []
+  },
+  {
+    "name": "VANGUARD INTEGRITY PROFESSIONALS INC.",
+    "state": "CA",
+    "year_incorporated": "1998",
+    "nace": "5829",
+    "employees": "25",
+    "revenue_usd": 1050000,
+    "pl_before_tax": null,
+    "total_assets": null,
+    "equity": null,
+    "website": "www.go2vanguard.com",
+    "description": null,
+    "contacts": []
+  },
+  {
+    "name": "STARCOM SOFTWARE INC",
+    "state": "CA",
+    "year_incorporated": null,
+    "nace": "5829",
+    "employees": "10",
+    "revenue_usd": 1050000,
+    "pl_before_tax": null,
+    "total_assets": null,
+    "equity": null,
+    "website": "www.starcomcorp.com",
+    "description": null,
+    "contacts": []
+  },
+  {
+    "name": "INTERPAC SOFTWARE INC",
+    "state": "CA",
+    "year_incorporated": "2007",
+    "nace": "5829",
+    "employees": "13",
+    "revenue_usd": 1050000,
+    "pl_before_tax": null,
+    "total_assets": null,
+    "equity": null,
+    "website": "www.admii.com",
+    "description": null,
+    "contacts": []
+  },
+  {
+    "name": "KATANA SOFTWARE, INC.",
+    "state": "CA",
+    "year_incorporated": "2000",
+    "nace": "5829",
+    "employees": "10",
+    "revenue_usd": 1050000,
+    "pl_before_tax": null,
+    "total_assets": null,
+    "equity": null,
+    "website": "www.katanasoft.com",
+    "description": null,
+    "contacts": [
+      {
+        "name": "Mr Robert Woodward",
+        "title": "Chief Executive Officer"
+      },
+      {
+        "name": "Mr Uday Sawhney",
+        "title": "Chief Financial Officer"
+      },
+      {
+        "name": "Ms Julie Alatorre",
+        "title": "Customer Service Hero"
+      },
+      {
+        "name": "Mr Barry Harris",
+        "title": "Operations Project Manager"
+      },
+      {
+        "name": "Ms Melissa Gordon",
+        "title": "Chief Operating Officer"
+      },
+      {
+        "name": "Ms Michelle Taddei",
+        "title": "Operations Manager"
+      },
+      {
+        "name": "Ms Sherri Clifford",
+        "title": "Software Engineer"
+      },
+      {
+        "name": "Mr Andrew M Johnstone JR.",
+        "title": "Senior Software Engineer"
+      }
+    ]
+  },
+  {
+    "name": "DATA LINKAGE SOFTWARE, INC.",
+    "state": "CA",
+    "year_incorporated": "1997",
+    "nace": "5829",
+    "employees": "15",
+    "revenue_usd": 1050000,
+    "pl_before_tax": null,
+    "total_assets": null,
+    "equity": null,
+    "website": "www.datalinkage.com",
+    "description": null,
+    "contacts": [
+      {
+        "name": "Mr Marwan Dajani",
+        "title": "President"
+      }
+    ]
+  },
+  {
+    "name": "DATA BASE ARCHITECTS, INC.",
+    "state": "CA",
+    "year_incorporated": "1983",
+    "nace": "5829",
+    "employees": "20",
+    "revenue_usd": 1050000,
+    "pl_before_tax": null,
+    "total_assets": null,
+    "equity": null,
+    "website": "www.dbasoft.com",
+    "description": null,
+    "contacts": [
+      {
+        "name": "Mr William M Braasch",
+        "title": "Chief Financial Officer"
+      },
+      {
+        "name": "Andrea Braasch",
+        "title": "No specific function"
+      }
+    ]
+  },
+  {
+    "name": "AUREMA INC",
+    "state": "CA",
+    "year_incorporated": null,
+    "nace": "5829",
+    "employees": "15",
+    "revenue_usd": 1050000,
+    "pl_before_tax": null,
+    "total_assets": null,
+    "equity": null,
+    "website": "www.aurema.com",
+    "description": "Sales Office",
+    "contacts": []
+  },
+  {
+    "name": "INFOSQUARE-U.S.A., INC.",
+    "state": "CA",
+    "year_incorporated": "2002",
+    "nace": "5829",
+    "employees": "18",
+    "revenue_usd": 1050000,
+    "pl_before_tax": null,
+    "total_assets": null,
+    "equity": null,
+    "website": "www.infosquare.com",
+    "description": null,
+    "contacts": []
+  }
+]

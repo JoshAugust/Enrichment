@@ -1,0 +1,45 @@
+
+## Phase1-Wave2 — 2026-03-26 19:01:47
+### Processing 709 IDs (force=False)
+
+Starting Phase1-Wave2: 709 leads, batch_size=20, force=False
+- Batch 1 (0%, i=0): ERROR — TimeoutError: The read operation timed out
+- Batch 2 (3%, i=20): 20 leads → succeeded=20 failed=0
+- Batch 3 (6%, i=40): 20 leads → succeeded=20 failed=0
+- Batch 4 (8%, i=60): ERROR — TimeoutError: The read operation timed out
+- Batch 5 (11%, i=80): ERROR — TimeoutError: The read operation timed out
+- Batch 6 (14%, i=100): 20 leads → succeeded=20 failed=0
+- Batch 7 (17%, i=120): 20 leads → succeeded=20 failed=0
+- Batch 8 (20%, i=140): 20 leads → succeeded=20 failed=0
+- Batch 9 (23%, i=160): 20 leads → succeeded=20 failed=0
+- Batch 10 (25%, i=180): 20 leads → succeeded=20 failed=0
+- Batch 11 (28%, i=200): 20 leads → succeeded=20 failed=0
+- Batch 12 (31%, i=220): 20 leads → succeeded=20 failed=0
+- Batch 13 (34%, i=240): 20 leads → succeeded=20 failed=0
+- Batch 14 (37%, i=260): 20 leads → succeeded=20 failed=0
+- Batch 15 (39%, i=280): 20 leads → succeeded=20 failed=0
+- Batch 16 (42%, i=300): 20 leads → succeeded=20 failed=0
+- Batch 17 (45%, i=320): 20 leads → succeeded=20 failed=0
+- Batch 18 (48%, i=340): 20 leads → succeeded=20 failed=0
+- Batch 19 (51%, i=360): 20 leads → succeeded=20 failed=0
+- Batch 20 (54%, i=380): 20 leads → succeeded=20 failed=0
+- Batch 21 (56%, i=400): 20 leads → succeeded=20 failed=0
+- Batch 22 (59%, i=420): 20 leads → succeeded=20 failed=0
+- Batch 23 (62%, i=440): 20 leads → succeeded=20 failed=0
+- Batch 24 (65%, i=460): 20 leads → succeeded=20 failed=0
+- Batch 25 (68%, i=480): 20 leads → succeeded=20 failed=0
+- Batch 26 (71%, i=500): 20 leads → succeeded=20 failed=0
+- Batch 27 (73%, i=520): 20 leads → succeeded=20 failed=0
+- Batch 28 (76%, i=540): 20 leads → succeeded=20 failed=0
+- Batch 29 (79%, i=560): 20 leads → succeeded=20 failed=0
+- Batch 30 (82%, i=580): 20 leads → succeeded=20 failed=0
+- Batch 31 (85%, i=600): 20 leads → succeeded=20 failed=0
+- Batch 32 (87%, i=620): 20 leads → succeeded=20 failed=0
+- Batch 33 (90%, i=640): 20 leads → succeeded=20 failed=0
+- Batch 34 (93%, i=660): 20 leads → succeeded=20 failed=0
+- Batch 35 (96%, i=680): 20 leads → succeeded=20 failed=0
+- Batch 36 (99%, i=700): 9 leads → succeeded=9 failed=0
+
+### Phase1-Wave2 Complete: 36 batches, 649 succeeded, 0 failed, 3 errors
+
+Phase1-Wave2 DONE: 649 succeeded, 0 failed, 3 errors

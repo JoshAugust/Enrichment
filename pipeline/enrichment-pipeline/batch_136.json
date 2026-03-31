@@ -1,0 +1,793 @@
+[
+  {
+    "name": "NETSTEPS",
+    "state": "UT",
+    "year_incorporated": "2003",
+    "nace": "5829",
+    "employees": "34",
+    "revenue_usd": 710000,
+    "pl_before_tax": null,
+    "total_assets": null,
+    "equity": null,
+    "website": "www.netsteps.com",
+    "description": "NetSteps was founded in 2004 and is headquartered in Lehi, UT. The company is a provider of modular software solutions for global direct selling companies. It delivers technology solutions through its ENCORE platform of application modules which offers co",
+    "contacts": [
+      {
+        "name": "Mr Kevin Vitale",
+        "title": "Chief Executive Officer"
+      },
+      {
+        "name": "Ms Sherilyn P Laddimore",
+        "title": "Office Manager"
+      },
+      {
+        "name": "Mr Cannon Holbrook",
+        "title": "Chief Financial Officer"
+      }
+    ]
+  },
+  {
+    "name": "CONTRA.WORK, INC.",
+    "state": "CA",
+    "year_incorporated": null,
+    "nace": "5829",
+    "employees": "19",
+    "revenue_usd": 700000,
+    "pl_before_tax": null,
+    "total_assets": null,
+    "equity": null,
+    "website": "contra.com",
+    "description": "Professional networking platform operator",
+    "contacts": [
+      {
+        "name": "Mr Joseph Huffman",
+        "title": "Officer"
+      }
+    ]
+  },
+  {
+    "name": "A CST GROUP, INC.",
+    "state": "CA",
+    "year_incorporated": "2004",
+    "nace": "5829",
+    "employees": "11",
+    "revenue_usd": 700000,
+    "pl_before_tax": null,
+    "total_assets": null,
+    "equity": null,
+    "website": "www.sstgroup-inc.com",
+    "description": null,
+    "contacts": [
+      {
+        "name": "Ms Lisa Riland",
+        "title": "Sales Support Manager"
+      },
+      {
+        "name": "Mr Jim Losselyoung",
+        "title": "Marketing Director"
+      },
+      {
+        "name": "Ms Suzy Andrade",
+        "title": "Customer Service Manager"
+      },
+      {
+        "name": "Ms Paula Brogan",
+        "title": "Account Manager"
+      },
+      {
+        "name": "Ms Lisa Kaye",
+        "title": "Client Services"
+      },
+      {
+        "name": "Mr Achilles Martinez",
+        "title": "Technical Support"
+      },
+      {
+        "name": "Mr Robert W Riland III",
+        "title": "Director"
+      },
+      {
+        "name": "Mr Robert Black",
+        "title": "Shipping Receiving Manager"
+      },
+      {
+        "name": "Mr Barry Dejaeger",
+        "title": "Shipping & Receiving Clerk"
+      }
+    ]
+  },
+  {
+    "name": "LEARNING THROUGH SPORTS",
+    "state": "AL",
+    "year_incorporated": "2001",
+    "nace": "5829",
+    "employees": "14",
+    "revenue_usd": 691000,
+    "pl_before_tax": null,
+    "total_assets": null,
+    "equity": null,
+    "website": "www.ltskc.com",
+    "description": null,
+    "contacts": []
+  },
+  {
+    "name": "EVO MEDIA GROUP, INC.",
+    "state": "WA",
+    "year_incorporated": "2017",
+    "nace": "5829",
+    "employees": "10",
+    "revenue_usd": 690000,
+    "pl_before_tax": null,
+    "total_assets": null,
+    "equity": null,
+    "website": "www.evomediagroup.com",
+    "description": null,
+    "contacts": [
+      {
+        "name": "Mr Mark Michael",
+        "title": "Executive"
+      },
+      {
+        "name": "Mr Daniel Rust",
+        "title": "Executive"
+      }
+    ]
+  },
+  {
+    "name": "METRIX INC",
+    "state": "WI",
+    "year_incorporated": "1996",
+    "nace": "5829",
+    "employees": "50",
+    "revenue_usd": 690000,
+    "pl_before_tax": null,
+    "total_assets": null,
+    "equity": null,
+    "website": "www.metrix.com",
+    "description": "Service management and reverse logistics software developer ; Service management and reverse logistics software training services",
+    "contacts": [
+      {
+        "name": "Mr Larry Laux",
+        "title": "Chief Executive Officer"
+      },
+      {
+        "name": "Mr Micheal Fidelis Nwaefulu",
+        "title": "Chief Executive Officer"
+      },
+      {
+        "name": "Sutus N Vicha",
+        "title": "President"
+      },
+      {
+        "name": "Mr Thomas Devroy",
+        "title": "Vice President"
+      },
+      {
+        "name": "Mr Patrick Liegel",
+        "title": "Chief Financial Officer"
+      },
+      {
+        "name": "Mr Harvey Shovers",
+        "title": "Vice President - Sales & Marketing"
+      },
+      {
+        "name": "Mr Andy Lichey",
+        "title": "Senior Software Architect"
+      },
+      {
+        "name": "Mr Doug Peters",
+        "title": "Vice President-E Business"
+      }
+    ]
+  },
+  {
+    "name": "COMPUTERS UNLIMITED",
+    "state": "KS",
+    "year_incorporated": "1970",
+    "nace": "5829",
+    "employees": "170",
+    "revenue_usd": 690000,
+    "pl_before_tax": null,
+    "total_assets": null,
+    "equity": null,
+    "website": "www.cu.net",
+    "description": "Engaged in the provision of computer programming services",
+    "contacts": []
+  },
+  {
+    "name": "TURNKEY TEST",
+    "state": "CA",
+    "year_incorporated": "1985",
+    "nace": "5829",
+    "employees": "15",
+    "revenue_usd": 690000,
+    "pl_before_tax": null,
+    "total_assets": null,
+    "equity": null,
+    "website": "www.turnkeytest.com",
+    "description": null,
+    "contacts": []
+  },
+  {
+    "name": "BRAINWARE, INC.",
+    "state": "VA",
+    "year_incorporated": "2006",
+    "nace": "5829",
+    "employees": "100",
+    "revenue_usd": 690000,
+    "pl_before_tax": null,
+    "total_assets": null,
+    "equity": null,
+    "website": "www.brainware.com",
+    "description": "Engaged in providing printing and imaging products, and software solutions serving customers in government, retail, freight, BPO, travel and recreation, healthcare, manufacturing, technology and communications, oil and energy,and financial markets",
+    "contacts": [
+      {
+        "name": "Mr Carl Eugene Mergele",
+        "title": "Chief Executive Officer"
+      },
+      {
+        "name": "Mr Stuart Neale",
+        "title": "Account Executive"
+      },
+      {
+        "name": "Mr David Luzier",
+        "title": "Chief Technology Officer"
+      },
+      {
+        "name": "Mr Peter Barry",
+        "title": "US Support Supervisor"
+      },
+      {
+        "name": "Mr Mark A Gilbert",
+        "title": "Systems Engineer"
+      }
+    ]
+  },
+  {
+    "name": "RP SOLUTIONS INC",
+    "state": "NY",
+    "year_incorporated": "2001",
+    "nace": "5829",
+    "employees": "15",
+    "revenue_usd": 690000,
+    "pl_before_tax": null,
+    "total_assets": null,
+    "equity": null,
+    "website": "www.rpsolutions.com",
+    "description": null,
+    "contacts": [
+      {
+        "name": "Mr David Johnson",
+        "title": "President"
+      },
+      {
+        "name": "Mr Stephen Hunt",
+        "title": "Business Development Manager"
+      },
+      {
+        "name": "Ms Kara Johnson",
+        "title": "Administrative Assistant"
+      },
+      {
+        "name": "Ms Cindy Mccall",
+        "title": "Vice President of Sales and Marketing"
+      },
+      {
+        "name": "Ms Melissa Irvine",
+        "title": "Marketing Communications Specialist"
+      },
+      {
+        "name": "Mr Tom Johnson",
+        "title": "National Account Manager"
+      },
+      {
+        "name": "Mr Bill Pierce",
+        "title": "National Account Manager"
+      },
+      {
+        "name": "Ms Christa Cady",
+        "title": "Customer Service"
+      },
+      {
+        "name": "Mr Scott Everts",
+        "title": "Chief Technology Officer"
+      },
+      {
+        "name": "Mr Mario Martinez",
+        "title": "Business Analyst, Project Manager"
+      },
+      {
+        "name": "Mr Jeremy Femino",
+        "title": "Software Test Engineer"
+      },
+      {
+        "name": "Mr Peter Ng",
+        "title": "Network Systems Engineer"
+      },
+      {
+        "name": "Mr Paul Stearns",
+        "title": "Officer"
+      },
+      {
+        "name": "Mr John Cooper",
+        "title": "Director of Professional Services"
+      },
+      {
+        "name": "Mr Darin Lagarry",
+        "title": "Senior Developer"
+      }
+    ]
+  },
+  {
+    "name": "LORUS SOFTWARE",
+    "state": "MI",
+    "year_incorporated": "2002",
+    "nace": "5829",
+    "employees": "120",
+    "revenue_usd": 689000,
+    "pl_before_tax": null,
+    "total_assets": null,
+    "equity": null,
+    "website": "www.workforcesoftware.com",
+    "description": "Engaged in the cloud workforce management solutions for enterprise and mid-sized organizations",
+    "contacts": []
+  },
+  {
+    "name": "RFX SOLUTIONS, INC.",
+    "state": "OK",
+    "year_incorporated": "2022",
+    "nace": "5829",
+    "employees": "20",
+    "revenue_usd": 680000,
+    "pl_before_tax": null,
+    "total_assets": null,
+    "equity": null,
+    "website": "www.rfxsolutions.com",
+    "description": "Healthcare related Software-as-a-Service (SaaS) compliance services provider",
+    "contacts": [
+      {
+        "name": "Ms Amanda Penrod",
+        "title": "Chief Executive Officer"
+      }
+    ]
+  },
+  {
+    "name": "OSAGE MANHATTAN BUILDERS A JOINT VENTURE",
+    "state": "OK",
+    "year_incorporated": "2008",
+    "nace": "5829",
+    "employees": "35",
+    "revenue_usd": 680000,
+    "pl_before_tax": null,
+    "total_assets": null,
+    "equity": null,
+    "website": "www.osagellc.com",
+    "description": null,
+    "contacts": [
+      {
+        "name": "Ms Gina Gray",
+        "title": "No specific function"
+      }
+    ]
+  },
+  {
+    "name": "ONVISOURCE, INC.",
+    "state": "OK",
+    "year_incorporated": "2006",
+    "nace": "5829",
+    "employees": "20",
+    "revenue_usd": 680000,
+    "pl_before_tax": null,
+    "total_assets": null,
+    "equity": null,
+    "website": "www.onvisource.com",
+    "description": "Engaged in the provision of workforce optimization and automation solutions for contact centers and enterprises as software products, Software as a Service, managed services, and business process outsourcing (BPO) services",
+    "contacts": [
+      {
+        "name": "Mr Roger W Dennis",
+        "title": "Registered Agent"
+      },
+      {
+        "name": "Avadelle K Hibbets",
+        "title": "Vice President Accounting and Finance"
+      },
+      {
+        "name": "Ms Rhonda Doss",
+        "title": "Accounts Payable"
+      },
+      {
+        "name": "Ms Sherry Pippin",
+        "title": "Vice President of Human Resources"
+      },
+      {
+        "name": "Ms Tracy Hiland",
+        "title": "Regional Sales Manager"
+      },
+      {
+        "name": "Ms Deborah Cromwell",
+        "title": "Marketing Executive"
+      },
+      {
+        "name": "Ms Deborah Cromwell",
+        "title": "Marketing Manager"
+      },
+      {
+        "name": "Mr Kim Pippin",
+        "title": "Senior Account Executive"
+      },
+      {
+        "name": "Mr Gerald Leurquin",
+        "title": "Software Engineer"
+      }
+    ]
+  },
+  {
+    "name": "SEQUOYAH SOFTWARE & CONSULTING",
+    "state": "OK",
+    "year_incorporated": "2000",
+    "nace": "5829",
+    "employees": "15",
+    "revenue_usd": 680000,
+    "pl_before_tax": null,
+    "total_assets": null,
+    "equity": null,
+    "website": "www.sequoyahsoftware.com",
+    "description": null,
+    "contacts": []
+  },
+  {
+    "name": "JUMP T SERVICES",
+    "state": "OK",
+    "year_incorporated": "2000",
+    "nace": "5829",
+    "employees": "32",
+    "revenue_usd": 680000,
+    "pl_before_tax": null,
+    "total_assets": null,
+    "equity": null,
+    "website": "www.jumpfaster.com",
+    "description": null,
+    "contacts": [
+      {
+        "name": "Mr Alan Brinkmeyer",
+        "title": "Information Technology Team Member"
+      }
+    ]
+  },
+  {
+    "name": "ADVANCED MICRO SOLUTIONS INC",
+    "state": "OK",
+    "year_incorporated": "2004",
+    "nace": "5829",
+    "employees": "14",
+    "revenue_usd": 680000,
+    "pl_before_tax": null,
+    "total_assets": null,
+    "equity": null,
+    "website": "www.1099-etc.com",
+    "description": null,
+    "contacts": [
+      {
+        "name": "Robbi Carmack",
+        "title": "AMS Technical Support"
+      },
+      {
+        "name": "Mr Tim Brady",
+        "title": "Network Administrator"
+      }
+    ]
+  },
+  {
+    "name": "ELECTRONIC STORAGE CORP",
+    "state": "OK",
+    "year_incorporated": "1996",
+    "nace": "5829",
+    "employees": "16",
+    "revenue_usd": 680000,
+    "pl_before_tax": null,
+    "total_assets": null,
+    "equity": null,
+    "website": "laservault.com",
+    "description": null,
+    "contacts": [
+      {
+        "name": "Ms Sharon Wing",
+        "title": "Controller"
+      },
+      {
+        "name": "Ax Synar",
+        "title": "Vice President Sales"
+      },
+      {
+        "name": "Mr Rick Wilson",
+        "title": "Vice President of Sales & Support"
+      },
+      {
+        "name": "Ms Lisa Scott",
+        "title": "Director of Technical Services"
+      },
+      {
+        "name": "Mr Erik Dabrowsky",
+        "title": "Product Development"
+      },
+      {
+        "name": "Mr Erik Dabrowsky",
+        "title": "Software Developer"
+      }
+    ]
+  },
+  {
+    "name": "GLOBAL INTERFACE SOLUTION, INC.",
+    "state": "OK",
+    "year_incorporated": "2006",
+    "nace": "5829",
+    "employees": "20",
+    "revenue_usd": 680000,
+    "pl_before_tax": null,
+    "total_assets": null,
+    "equity": null,
+    "website": "www.secureagent.com",
+    "description": "Global Interface Solutions, Inc. dba SecureAgent Software is a corporation based in Tulsa, Oklahoma, USA. Our growth has come from innovation, a high-level of customer service, and a reputation for quality products. Perhaps the most compelling proof of ou",
+    "contacts": [
+      {
+        "name": "R Brent Johnson",
+        "title": "President"
+      },
+      {
+        "name": "Ms Brenda Kay Melancon",
+        "title": "Vice President"
+      },
+      {
+        "name": "Mr Dennis Smiley",
+        "title": "Vice President"
+      },
+      {
+        "name": "Mr John Sawyer",
+        "title": "Secretary"
+      }
+    ]
+  },
+  {
+    "name": "QDOS INC",
+    "state": "CA",
+    "year_incorporated": "2003",
+    "nace": "5829",
+    "employees": "20",
+    "revenue_usd": 673000,
+    "pl_before_tax": null,
+    "total_assets": null,
+    "equity": null,
+    "website": "www.desksite.com",
+    "description": null,
+    "contacts": []
+  },
+  {
+    "name": "IDEVICES LLC",
+    "state": "CT",
+    "year_incorporated": "2012",
+    "nace": "5829",
+    "employees": "40",
+    "revenue_usd": 671000,
+    "pl_before_tax": null,
+    "total_assets": null,
+    "equity": null,
+    "website": "www.idevicesinc.com",
+    "description": "Wireless connectivity devices manufacturer ; Wireless connectivity consultancy services ; Wireless connectivity device applications developer",
+    "contacts": [
+      {
+        "name": "Mr Christopher J Allen SR",
+        "title": "President"
+      },
+      {
+        "name": "Mr Warren Katz",
+        "title": "CMO, Vice President of Business Development"
+      },
+      {
+        "name": "Ms Marissa Fronte",
+        "title": "Executive Assistant"
+      },
+      {
+        "name": "Kelley Mcintyre",
+        "title": "Chief Financial Officer"
+      },
+      {
+        "name": "Mr Michael Vokes",
+        "title": "National Accounts Manager"
+      },
+      {
+        "name": "Sheri Yuschak",
+        "title": "Manager, Accounting"
+      },
+      {
+        "name": "Ms Lourdes Cruz-Martinez",
+        "title": "Accounting Associate"
+      },
+      {
+        "name": "Ms Lourdes Cruz-Martinez",
+        "title": "Customer Experience Agent"
+      },
+      {
+        "name": "Sheri Fay",
+        "title": "Corporate Accountant"
+      },
+      {
+        "name": "Mr Brian Hoddy",
+        "title": "Director, Sales"
+      },
+      {
+        "name": "Mr Michael Coppola",
+        "title": "Director, Marketing"
+      },
+      {
+        "name": "Ms Sierra Coughlin",
+        "title": "Marketing Coordinator"
+      },
+      {
+        "name": "Mr Andrew Ragali",
+        "title": "Senior Marketing Manager"
+      },
+      {
+        "name": "Mr Jason Cody",
+        "title": "Vice President of Software Engineering"
+      },
+      {
+        "name": "Mr Shawn Monteith",
+        "title": "Chief Technology Officer & Vice President Engineering"
+      },
+      {
+        "name": "Mr Jonathan Day",
+        "title": "Director, Embedded Software Engineering"
+      },
+      {
+        "name": "Mr Michael Tetreault",
+        "title": "Director, Electrical Engineering"
+      },
+      {
+        "name": "Ms Karen Simard",
+        "title": "Project Manager"
+      },
+      {
+        "name": "Mr Michael Daigle",
+        "title": "Operations Manager"
+      },
+      {
+        "name": "Mr Jim Millis",
+        "title": "Quality Assurance Engineer"
+      },
+      {
+        "name": "Mr Paul Langdon",
+        "title": "Vice President, Software"
+      },
+      {
+        "name": "Mr Mark Daigle",
+        "title": "Director, Application Development"
+      },
+      {
+        "name": "Mr Mark Vereb",
+        "title": "Lead It Specialist"
+      },
+      {
+        "name": "Mr Peter Zaffetti",
+        "title": "Embedded Software Engineer"
+      },
+      {
+        "name": "Ms Stacey Marin",
+        "title": "Manager, Facility"
+      },
+      {
+        "name": "Ms Kayla Ekwall",
+        "title": "Ux Designer"
+      },
+      {
+        "name": "Mr Nicholas Kraus",
+        "title": "Electrical Engineer"
+      },
+      {
+        "name": "Ms Sarah Milevschi",
+        "title": "Senior Ux Designer"
+      }
+    ]
+  },
+  {
+    "name": "EASYRX, LLC",
+    "state": "GA",
+    "year_incorporated": "2020",
+    "nace": "5829",
+    "employees": "19",
+    "revenue_usd": 670000,
+    "pl_before_tax": null,
+    "total_assets": null,
+    "equity": null,
+    "website": "www.easyrxcloud.com",
+    "description": null,
+    "contacts": [
+      {
+        "name": "Mr Blankenbelcher Todd",
+        "title": "President & Chief Executive Officer"
+      },
+      {
+        "name": "Mr Blankenbelcher Todd",
+        "title": "Manager"
+      },
+      {
+        "name": "Mr Blankenbelcher Todd",
+        "title": "Member"
+      },
+      {
+        "name": "Mr Marc Lemchen",
+        "title": "Officer"
+      },
+      {
+        "name": "Mr Marc Lemchen",
+        "title": "Manager"
+      },
+      {
+        "name": "Ms Wright James",
+        "title": "Member"
+      },
+      {
+        "name": "Mr Robert Joseph",
+        "title": "Organizer"
+      }
+    ]
+  },
+  {
+    "name": "SIGNAL SOFTWARE CORP",
+    "state": "PA",
+    "year_incorporated": null,
+    "nace": "5829",
+    "employees": "12",
+    "revenue_usd": 670000,
+    "pl_before_tax": null,
+    "total_assets": null,
+    "equity": null,
+    "website": "www.signalsoftware.com/lander",
+    "description": null,
+    "contacts": []
+  },
+  {
+    "name": "CUSTOMER SERVICE DELIVERY PLATFORM CORP",
+    "state": "PA",
+    "year_incorporated": "2008",
+    "nace": "5829",
+    "employees": "13",
+    "revenue_usd": 670000,
+    "pl_before_tax": null,
+    "total_assets": null,
+    "equity": null,
+    "website": "www.csdpcorp.com",
+    "description": null,
+    "contacts": []
+  },
+  {
+    "name": "EXCEL4APPS INCORPORATED",
+    "state": "PA",
+    "year_incorporated": "2015",
+    "nace": "5829",
+    "employees": "35",
+    "revenue_usd": 670000,
+    "pl_before_tax": null,
+    "total_assets": null,
+    "equity": null,
+    "website": "www.excel4apps.com",
+    "description": "Regional headquarters",
+    "contacts": [
+      {
+        "name": "Mr Tyler Schnebel",
+        "title": "Accountant"
+      },
+      {
+        "name": "Peterson Grant",
+        "title": "Product Manager"
+      },
+      {
+        "name": "Ms Darlene Davis",
+        "title": "Corporate Graphic Designer"
+      },
+      {
+        "name": "Mr Steven Greenwood",
+        "title": "Senior Developer"
+      }
+    ]
+  }
+]

@@ -1,0 +1,957 @@
+[
+  {
+    "name": "INSIGHT TECHNOLOGY HOLDINGS, LLC",
+    "state": "MD",
+    "year_incorporated": "1999",
+    "nace": "5829",
+    "employees": "55",
+    "revenue_usd": 5130000,
+    "pl_before_tax": null,
+    "total_assets": null,
+    "equity": null,
+    "website": "www.insighttsi.com",
+    "description": null,
+    "contacts": [
+      {
+        "name": "Mr Matthew Anderson",
+        "title": "President"
+      },
+      {
+        "name": "Ms Mary A Anderson",
+        "title": "Chief Executive Officer"
+      },
+      {
+        "name": "Mr Crovo Patrick J",
+        "title": "President"
+      },
+      {
+        "name": "Ms Linda Hazlehurst",
+        "title": "Director, Business Development Operations"
+      },
+      {
+        "name": "Mr Dean Lenuik",
+        "title": "Director, Business Development"
+      },
+      {
+        "name": "Mr Brian Peeler",
+        "title": "Director of Operations"
+      },
+      {
+        "name": "Mr Brian Peeler",
+        "title": "Program Manager"
+      },
+      {
+        "name": "Mr Scott Brown",
+        "title": "Program Manager"
+      },
+      {
+        "name": "Mr Rick Gay",
+        "title": "Program Manager"
+      },
+      {
+        "name": "Mr John Hennigan",
+        "title": "Program Manager - Emergency Management Portfolio"
+      },
+      {
+        "name": "Mr William Gilbreath",
+        "title": "Officer"
+      },
+      {
+        "name": "Mr Atif Gilani",
+        "title": "Manager"
+      },
+      {
+        "name": "Mr Atif Gilani",
+        "title": "Member"
+      },
+      {
+        "name": "Mr Gary Anderson",
+        "title": "Governing Person"
+      },
+      {
+        "name": "Mr Chuck August",
+        "title": "Test Engineer"
+      },
+      {
+        "name": "Al Burgun",
+        "title": "Corporate Recruiter"
+      }
+    ]
+  },
+  {
+    "name": "EASY SOFTWARE INC",
+    "state": "PA",
+    "year_incorporated": "2001",
+    "nace": "5829",
+    "employees": "10",
+    "revenue_usd": 5120000,
+    "pl_before_tax": null,
+    "total_assets": null,
+    "equity": null,
+    "website": "www.zendoc.com",
+    "description": null,
+    "contacts": [
+      {
+        "name": "Mr Derek Lambert",
+        "title": "Director, Sales (Americas)"
+      },
+      {
+        "name": "Mr Ross Chapman",
+        "title": "Systems Engineer"
+      }
+    ]
+  },
+  {
+    "name": "PETROS PHARMACEUTICALS, INC.",
+    "state": "DC",
+    "year_incorporated": "2020",
+    "nace": "5829",
+    "employees": "18",
+    "revenue_usd": 5112040,
+    "pl_before_tax": -14318790,
+    "total_assets": 10635310,
+    "equity": -7467580,
+    "website": "www.petrospharma.com",
+    "description": "Petros Pharmaceuticals, Inc. is focused on the self-care market by providing expanded access to key prescription pharmaceuticals such as OTC treatment options. The Company is engaged in developing a software-as-a-service (SaaS) platform designed to assist pharmaceutical companies in meeting FDA standards to assist in the Rx-to-OTC switch. In addition to the SaaS component, the platform is intended to incorporate software as a medical device (SaMD) capabilities, transforming traditional OTC medications into digitally enabled solutions. The SaMD interface seeks to be designed as customized and branded to pharmaceutical therapy and established as a specific application pathway to that therapy. Together, it aims to develop the SaaS and SaMD components to create a scalable, licensable platform that supports various classes of medications across the pharmaceutical industry, assisting pharmaceutical companies achieve regulatory approval, while delivering consumer-focused healthcare solutions.",
+    "contacts": [
+      {
+        "name": "Mr John David Shulman",
+        "title": "Executive Chairman (Board of Directors)"
+      },
+      {
+        "name": "Mr Joshua N. Silverman",
+        "title": "Independent Non-Executive Chairman of the Board"
+      },
+      {
+        "name": "Mr Joshua N. Silverman",
+        "title": "Vice Chairman (Board of Directors)"
+      },
+      {
+        "name": "Mr Bruce T. Bernstein",
+        "title": "Member (Board of Directors); Independent Director"
+      },
+      {
+        "name": "Mr Gregory Bradley",
+        "title": "Member (Board of Directors)"
+      },
+      {
+        "name": "Mr Wayne R. Walker",
+        "title": "Member (Board of Directors); Independent Director"
+      },
+      {
+        "name": "Mr Fady Boctor",
+        "title": "President, Chief Commercial Officer"
+      },
+      {
+        "name": "Mr Fady Boctor",
+        "title": "President"
+      },
+      {
+        "name": "Mr Mitchell Arnold",
+        "title": "Chief Accounting Officer, Vice President - Finance"
+      },
+      {
+        "name": "Mr Robert Weinstein",
+        "title": "Interim Chief Financial Officer"
+      },
+      {
+        "name": "Mr John David Shulman",
+        "title": "Executive Chairman of the Board"
+      },
+      {
+        "name": "Mr Joshua N. Silverman",
+        "title": "Independent Vice Chairman of the Board"
+      },
+      {
+        "name": "Mr Gregory Bradley",
+        "title": "Independent Director"
+      }
+    ]
+  },
+  {
+    "name": "RECONNECT, INC.",
+    "state": "ME",
+    "year_incorporated": "2009",
+    "nace": "5829",
+    "employees": "16",
+    "revenue_usd": 5110000,
+    "pl_before_tax": null,
+    "total_assets": null,
+    "equity": null,
+    "website": "www.reconnect.io",
+    "description": null,
+    "contacts": [
+      {
+        "name": "Mr Peter Andrews",
+        "title": "Chief Executive Officer"
+      },
+      {
+        "name": "Ms Laura Baine",
+        "title": "Chief Financial Officer"
+      }
+    ]
+  },
+  {
+    "name": "AURORA SOFTWARE, INC.",
+    "state": "PA",
+    "year_incorporated": "1994",
+    "nace": "5829",
+    "employees": "15",
+    "revenue_usd": 5110000,
+    "pl_before_tax": null,
+    "total_assets": null,
+    "equity": null,
+    "website": "aurorasoftware.com",
+    "description": null,
+    "contacts": [
+      {
+        "name": "Mr Steve Ianovale",
+        "title": "President"
+      },
+      {
+        "name": "Mr Bruce Garcia",
+        "title": "Vice President"
+      },
+      {
+        "name": "Mr Bruce Garcia",
+        "title": "Treasurer"
+      },
+      {
+        "name": "Mr Dale Santoferraro",
+        "title": "Secretary"
+      },
+      {
+        "name": "Mr Steve Uianovale",
+        "title": "Secretary"
+      },
+      {
+        "name": "Mr Robert E Clarke",
+        "title": "Treasurer"
+      }
+    ]
+  },
+  {
+    "name": "PALO ALTO SOFTWARE",
+    "state": "OR",
+    "year_incorporated": "1983",
+    "nace": "5829",
+    "employees": "20",
+    "revenue_usd": 5100000,
+    "pl_before_tax": null,
+    "total_assets": null,
+    "equity": null,
+    "website": "www.paloaltosoftware.com",
+    "description": "Engaged in providing business planning and management software and services",
+    "contacts": []
+  },
+  {
+    "name": "YUZU, LLC",
+    "state": "PA",
+    "year_incorporated": "2023",
+    "nace": "5829",
+    "employees": "11",
+    "revenue_usd": 5090000,
+    "pl_before_tax": null,
+    "total_assets": null,
+    "equity": null,
+    "website": "www.yuzu.com",
+    "description": null,
+    "contacts": [
+      {
+        "name": "Mr Arthur Hall IV",
+        "title": "Organizer"
+      }
+    ]
+  },
+  {
+    "name": "CIETRADE SYSTEMS, INC.",
+    "state": "CT",
+    "year_incorporated": "2013",
+    "nace": "5829",
+    "employees": "20",
+    "revenue_usd": 5090000,
+    "pl_before_tax": null,
+    "total_assets": null,
+    "equity": null,
+    "website": "www.cietrade.com",
+    "description": null,
+    "contacts": [
+      {
+        "name": "Mr David Haber",
+        "title": "Chief Executive Officer / Co-Founder"
+      },
+      {
+        "name": "Mr David Haber",
+        "title": "Officer"
+      },
+      {
+        "name": "Mr Marc Covey",
+        "title": "Senior Software Developer"
+      },
+      {
+        "name": "Ms Maria Paganelli",
+        "title": "Software Support Analyst"
+      },
+      {
+        "name": "Mr Evan Rutkowski",
+        "title": "Software Developer"
+      },
+      {
+        "name": "Mr Jonathan Fromme",
+        "title": ".Net Developer"
+      }
+    ]
+  },
+  {
+    "name": "ADAPTIVE COMPUTING ENTERPRISES, INC.",
+    "state": "FL",
+    "year_incorporated": "2001",
+    "nace": "5829",
+    "employees": "12",
+    "revenue_usd": 5090000,
+    "pl_before_tax": null,
+    "total_assets": null,
+    "equity": null,
+    "website": "www.adaptivecomputing.com",
+    "description": null,
+    "contacts": [
+      {
+        "name": "Mr Rick Mckay",
+        "title": "Technical Support Engineer & Technical Account Manager"
+      },
+      {
+        "name": "Mr Luis Miguel Silva",
+        "title": "Technical Product Manager"
+      },
+      {
+        "name": "Mr Isaac Tobler",
+        "title": "Senior Software Engineer in Test (Quality Assurance)"
+      },
+      {
+        "name": "Ms Becky Heugly",
+        "title": "Corporate Controller"
+      }
+    ]
+  },
+  {
+    "name": "EXONICUS INC",
+    "state": "WA",
+    "year_incorporated": "2015",
+    "nace": "5829",
+    "employees": "11",
+    "revenue_usd": 5090000,
+    "pl_before_tax": null,
+    "total_assets": null,
+    "equity": null,
+    "website": "www.anatomy4sculptors.com",
+    "description": null,
+    "contacts": [
+      {
+        "name": "Mr Sandis Kondrats",
+        "title": "Chief Executive Officer"
+      }
+    ]
+  },
+  {
+    "name": "INFORMATION INTEGRATION GROUP, INC.",
+    "state": "CA",
+    "year_incorporated": "1995",
+    "nace": "5829",
+    "employees": "21",
+    "revenue_usd": 5080000,
+    "pl_before_tax": null,
+    "total_assets": null,
+    "equity": null,
+    "website": "www.iigservices.com",
+    "description": null,
+    "contacts": [
+      {
+        "name": "Mr Matt Mestre",
+        "title": "Director of Strategic Account Management / Client Success"
+      },
+      {
+        "name": "Mr Alec Baghdasaryan",
+        "title": "Chief Financial Officer"
+      },
+      {
+        "name": "Mr Jay Hersey",
+        "title": "Vice President, Sales"
+      },
+      {
+        "name": "Mr Scott Smith",
+        "title": "Director, Marketing & Channel Sales"
+      },
+      {
+        "name": "Mr Garen Mesropian",
+        "title": "Project Manager"
+      },
+      {
+        "name": "Mr Hovasapyan Nelson",
+        "title": "Project Manager"
+      },
+      {
+        "name": "Alenoush Baghdasaryan",
+        "title": "Dentist"
+      }
+    ]
+  },
+  {
+    "name": "BLANCHARD SYSTEMS, INC.",
+    "state": "LA",
+    "year_incorporated": "2003",
+    "nace": "5829",
+    "employees": "15",
+    "revenue_usd": 5080000,
+    "pl_before_tax": null,
+    "total_assets": null,
+    "equity": null,
+    "website": "www.blanchardsystems.com",
+    "description": null,
+    "contacts": [
+      {
+        "name": "Mr Charles Blanchard JR",
+        "title": "President & Chief Executive Officer"
+      },
+      {
+        "name": "Mr Keith Allan Zibilich",
+        "title": "Vice President & Chief Operations Officer"
+      },
+      {
+        "name": "Mr Keith Allan Zibilich",
+        "title": "Governing Person"
+      },
+      {
+        "name": "Mr Gary Dolgins",
+        "title": "Director-Sales & Marketing"
+      },
+      {
+        "name": "Ms Jessie Williams",
+        "title": "Director - Software Development"
+      },
+      {
+        "name": "Mr Joshua Chauvin",
+        "title": "Director, Product Design"
+      },
+      {
+        "name": "Mr Jude Oliver",
+        "title": "Senior Systems Engineer"
+      },
+      {
+        "name": "Mr Alfredo Ruben Padilla",
+        "title": "Officer"
+      },
+      {
+        "name": "Brennan Webb",
+        "title": "Programming"
+      }
+    ]
+  },
+  {
+    "name": "SANCTUARY SOFTWARE STUDIO INC",
+    "state": "OH",
+    "year_incorporated": "2008",
+    "nace": "5829",
+    "employees": "11",
+    "revenue_usd": 5080000,
+    "pl_before_tax": null,
+    "total_assets": null,
+    "equity": null,
+    "website": "www.sancsoft.com",
+    "description": null,
+    "contacts": [
+      {
+        "name": "Ms Stacey Simonton",
+        "title": "Managing Director"
+      },
+      {
+        "name": "Mr Tony Fienman",
+        "title": "Creative Director"
+      },
+      {
+        "name": "Mr Joe Sarkauskas",
+        "title": "Software Engineer"
+      },
+      {
+        "name": "Mr Brad Tapolcsanyi",
+        "title": "Software Engineer"
+      },
+      {
+        "name": "Mr Greg Thorson",
+        "title": "Software Engineer"
+      },
+      {
+        "name": "Ms Angela Lauro",
+        "title": "Multimedia Developer"
+      },
+      {
+        "name": "Mr Stephen Shay",
+        "title": "Multimedia Developer"
+      }
+    ]
+  },
+  {
+    "name": "REVBOSS, INC.",
+    "state": "NC",
+    "year_incorporated": "2016",
+    "nace": "5829",
+    "employees": "45",
+    "revenue_usd": 5080000,
+    "pl_before_tax": null,
+    "total_assets": null,
+    "equity": null,
+    "website": "www.facebook.com/revboss",
+    "description": null,
+    "contacts": [
+      {
+        "name": "Mr Eric Boggs",
+        "title": "Chief Executive Officer"
+      },
+      {
+        "name": "Mr Neil S Bagchi",
+        "title": "Secretary"
+      },
+      {
+        "name": "Ms Mikisha Markham",
+        "title": "Secretary"
+      },
+      {
+        "name": "Mr Zachary Boylston",
+        "title": "Chief Financial Officer"
+      }
+    ]
+  },
+  {
+    "name": "MAXQ TECHNOLOGIES, INC.",
+    "state": "CT",
+    "year_incorporated": "1989",
+    "nace": "5829",
+    "employees": "25",
+    "revenue_usd": 5070000,
+    "pl_before_tax": null,
+    "total_assets": null,
+    "equity": null,
+    "website": "www.maxqtech.com",
+    "description": null,
+    "contacts": [
+      {
+        "name": "Ms Pamela A Aguilar",
+        "title": "Chief Financial Officer"
+      },
+      {
+        "name": "Ms Pamela A Aguilar",
+        "title": "Officer"
+      },
+      {
+        "name": "Mr Fran Parker",
+        "title": "Marketing Manager"
+      },
+      {
+        "name": "Mr Jones Adam",
+        "title": "Client Services Manager"
+      },
+      {
+        "name": "Mr James Schepflin",
+        "title": "Systems Consultant"
+      },
+      {
+        "name": "Mr John J Pavain",
+        "title": "Officer; Director"
+      },
+      {
+        "name": "Mr Robert Sherry",
+        "title": "Officer"
+      }
+    ]
+  },
+  {
+    "name": "LIFEGUARD HEALTH NETWORKS INC",
+    "state": "PA",
+    "year_incorporated": "2011",
+    "nace": "5829",
+    "employees": "13",
+    "revenue_usd": 5050000,
+    "pl_before_tax": null,
+    "total_assets": null,
+    "equity": null,
+    "website": "www.lifeguardhealthnetworks.com",
+    "description": null,
+    "contacts": []
+  },
+  {
+    "name": "BLUE OX FAMILY GAMES INC",
+    "state": "ME",
+    "year_incorporated": "2017",
+    "nace": "5829",
+    "employees": "11",
+    "revenue_usd": 5030000,
+    "pl_before_tax": null,
+    "total_assets": null,
+    "equity": null,
+    "website": "www.blueoxfamilygames.com",
+    "description": null,
+    "contacts": []
+  },
+  {
+    "name": "DNASTAR INC",
+    "state": "WI",
+    "year_incorporated": "1986",
+    "nace": "5829",
+    "employees": "30",
+    "revenue_usd": 5020000,
+    "pl_before_tax": null,
+    "total_assets": null,
+    "equity": null,
+    "website": "www.dnastar.com",
+    "description": null,
+    "contacts": [
+      {
+        "name": "Professor Frederick Russell Blattner",
+        "title": "Chief Executive Officer"
+      },
+      {
+        "name": "Professor Frederick Russell Blattner",
+        "title": "No specific function"
+      },
+      {
+        "name": "Mr Thomas Schwei",
+        "title": "Vice President & General Manager"
+      },
+      {
+        "name": "Mr Thomas Schwei",
+        "title": "Vice President"
+      },
+      {
+        "name": "Mr John Lorren Schroeder",
+        "title": "Vice President"
+      },
+      {
+        "name": "Ms Vickie O'Connor",
+        "title": "Administrative Assistant"
+      },
+      {
+        "name": "Ms Vickie O'Connor",
+        "title": "No specific function"
+      },
+      {
+        "name": "Mr Brian Anderson",
+        "title": "Manager, Sales"
+      },
+      {
+        "name": "Mr Brian Anderson",
+        "title": "Technical Sales Scientist"
+      },
+      {
+        "name": "Mr Greg Jakubczak",
+        "title": "Sales Manager"
+      },
+      {
+        "name": "Mr Thomas Leary",
+        "title": "Manager, Technical Sales"
+      },
+      {
+        "name": "Mr Eric Ma",
+        "title": "Manager, Global Sales and Channel"
+      },
+      {
+        "name": "Mr Aaron Reynolds",
+        "title": "Senior Manager, Sales Eastern US & Europe"
+      },
+      {
+        "name": "Mr Brian Walsh",
+        "title": "Sales Manager"
+      },
+      {
+        "name": "Mr Jeff Engelking",
+        "title": "Technical Sales Consultant"
+      },
+      {
+        "name": "Mr Hosung Shin",
+        "title": "Director, Marketing"
+      },
+      {
+        "name": "Mr Bob Steinhauser",
+        "title": "Director, Marketing"
+      },
+      {
+        "name": "Ms Katie Maxfield",
+        "title": "Senior Marketing Manager"
+      },
+      {
+        "name": "Ms Anne Stover",
+        "title": "Digital Marketing Manager"
+      },
+      {
+        "name": "Mr Matt Keyser",
+        "title": "Senior Manager Product Development"
+      },
+      {
+        "name": "Mr Tim Durfee",
+        "title": "Senior Scientist"
+      },
+      {
+        "name": "Ms Amanda Mitchell",
+        "title": "Quality Assurance Scientist"
+      },
+      {
+        "name": "Mr Guy Plunkett",
+        "title": "Senior Scientist"
+      },
+      {
+        "name": "Mr Shawn Grass",
+        "title": "Director of Information Technology"
+      },
+      {
+        "name": "Mr Shawn Grass",
+        "title": "No specific function"
+      },
+      {
+        "name": "Mr Adam Briska",
+        "title": "Software Engineer"
+      },
+      {
+        "name": "Mr William Cordio",
+        "title": "Information Technology Support Technician, Web Designer"
+      },
+      {
+        "name": "Mr William Cordio",
+        "title": "Server Administrator"
+      },
+      {
+        "name": "Mr Andrew Thomas",
+        "title": "Senior Software Engineer"
+      },
+      {
+        "name": "Ms Spring Sun",
+        "title": "No specific function"
+      }
+    ]
+  },
+  {
+    "name": "QUINTAR INC.",
+    "state": "CA",
+    "year_incorporated": "2020",
+    "nace": "5829",
+    "employees": "11",
+    "revenue_usd": 5010000,
+    "pl_before_tax": null,
+    "total_assets": null,
+    "equity": null,
+    "website": "www.quintar.ai",
+    "description": "Augmented reality technology platform operator",
+    "contacts": [
+      {
+        "name": "Mr Sankar Jayaram",
+        "title": "President"
+      },
+      {
+        "name": "Mr Jeffrey Jonas",
+        "title": "Other"
+      }
+    ]
+  },
+  {
+    "name": "WILDFLOWER HEALTH, INC.",
+    "state": "CA",
+    "year_incorporated": "2018",
+    "nace": "5829",
+    "employees": "75",
+    "revenue_usd": 5010000,
+    "pl_before_tax": null,
+    "total_assets": null,
+    "equity": null,
+    "website": "www.wildflowerhealth.com",
+    "description": "Online health engagement platform operator",
+    "contacts": [
+      {
+        "name": "Ms Teresa Klausmann",
+        "title": "Director, Business Development"
+      },
+      {
+        "name": "Ms Taryn Selonke",
+        "title": "Director of Business Development"
+      },
+      {
+        "name": "Ms Jessica Szalay",
+        "title": "Growth Marketing Manager"
+      },
+      {
+        "name": "Ms Jessica Nicholas",
+        "title": "Client Services Manager"
+      }
+    ]
+  },
+  {
+    "name": "CAESAR CREEK SOFTWARE INC",
+    "state": "OH",
+    "year_incorporated": "1998",
+    "nace": "5829",
+    "employees": "12",
+    "revenue_usd": 5000000,
+    "pl_before_tax": null,
+    "total_assets": null,
+    "equity": null,
+    "website": "cc-sw.com",
+    "description": "Cyber research and development software platform operator",
+    "contacts": [
+      {
+        "name": "Mr Kevin D D Hoffer",
+        "title": "Agent"
+      },
+      {
+        "name": "Mr Kevin D D Hoffer",
+        "title": "President"
+      }
+    ]
+  },
+  {
+    "name": "AVATIER APAC CORPORATION",
+    "state": "CA",
+    "year_incorporated": "1994",
+    "nace": "5829",
+    "employees": "74",
+    "revenue_usd": 5000000,
+    "pl_before_tax": null,
+    "total_assets": null,
+    "equity": null,
+    "website": "www.avatier.com",
+    "description": "Software and Other Prerecorded Compact Disc, Tape, and Record Reproducing",
+    "contacts": [
+      {
+        "name": "Mr Nelson Anthony Cicchitto",
+        "title": "Chairman & Chief Executive Officer"
+      },
+      {
+        "name": "Mr Nelson Anthony Cicchitto",
+        "title": "No specific function"
+      },
+      {
+        "name": "Ms Sarah Gylling",
+        "title": "Executive Assistant"
+      },
+      {
+        "name": "Mr Mach Jordon",
+        "title": "Accounts Receivable & Renewals Specialist"
+      },
+      {
+        "name": "Cherry Wong",
+        "title": "Accounts Receivable"
+      },
+      {
+        "name": "Chi Wong",
+        "title": "Head of Talent Management - WE ARE HIRING!"
+      },
+      {
+        "name": "Mr James Swan",
+        "title": "Global Sales Manager"
+      },
+      {
+        "name": "Jami Cox",
+        "title": "Director of Customer Success"
+      },
+      {
+        "name": "Mr Trevor Harp",
+        "title": "Director of Customer Success"
+      },
+      {
+        "name": "Mr Jeff Litton",
+        "title": "Identity Management Account Executive"
+      },
+      {
+        "name": "Mr Denny Goldberg",
+        "title": "Director of Systems Engineering"
+      },
+      {
+        "name": "Mr Sean Mccay",
+        "title": "Software Development Contractor"
+      },
+      {
+        "name": "Mr Matthew David Comyford",
+        "title": "Senior System Engineer"
+      },
+      {
+        "name": "Uronda Dawan",
+        "title": "Senior Support Systems Engineer"
+      },
+      {
+        "name": "Mr Mark Layman",
+        "title": "Senior Software Engineer"
+      },
+      {
+        "name": "Ms Magda Stadnicka",
+        "title": "System Engineer"
+      },
+      {
+        "name": "Mr Chris Arnold",
+        "title": "Vice President of Services"
+      },
+      {
+        "name": "Kelly Gibson",
+        "title": "Branch Manager"
+      }
+    ]
+  },
+  {
+    "name": "NEUONE, LLC",
+    "state": "TX",
+    "year_incorporated": "2013",
+    "nace": "5829",
+    "employees": "11",
+    "revenue_usd": 4990000,
+    "pl_before_tax": null,
+    "total_assets": null,
+    "equity": null,
+    "website": "neuone.com",
+    "description": null,
+    "contacts": []
+  },
+  {
+    "name": "NUMETRIC",
+    "state": "UT",
+    "year_incorporated": "2015",
+    "nace": "5829",
+    "employees": "30",
+    "revenue_usd": 4990000,
+    "pl_before_tax": null,
+    "total_assets": null,
+    "equity": null,
+    "website": "www.numetric.com",
+    "description": null,
+    "contacts": [
+      {
+        "name": "Mr Nate Bowler",
+        "title": "Chief Executive Officer"
+      },
+      {
+        "name": "Ms Anna Gavan",
+        "title": "Financial Controller"
+      },
+      {
+        "name": "Ms Heather Baker",
+        "title": "Vice President, Marketing"
+      },
+      {
+        "name": "Mr Marcus Varner",
+        "title": "Senior Product Marketing Manager"
+      }
+    ]
+  },
+  {
+    "name": "MAXIENT LLC",
+    "state": "VA",
+    "year_incorporated": "2006",
+    "nace": "5829",
+    "employees": "19",
+    "revenue_usd": 4970000,
+    "pl_before_tax": null,
+    "total_assets": null,
+    "equity": null,
+    "website": "www.maxient.com",
+    "description": null,
+    "contacts": [
+      {
+        "name": "Ms Luanne Barbee",
+        "title": "Office Manager"
+      }
+    ]
+  }
+]

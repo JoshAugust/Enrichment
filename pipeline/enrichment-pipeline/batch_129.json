@@ -1,0 +1,860 @@
+[
+  {
+    "name": "BLUSTREAM CORPORATION",
+    "state": "MA",
+    "year_incorporated": "2021",
+    "nace": "5829",
+    "employees": "12",
+    "revenue_usd": 890000,
+    "pl_before_tax": null,
+    "total_assets": null,
+    "equity": null,
+    "website": "www.blustream.io",
+    "description": "After-sale product engagement focused Software-as-a-Service (SaaS) provider",
+    "contacts": [
+      {
+        "name": "Mr Kenneth Rapp",
+        "title": "Secretary"
+      },
+      {
+        "name": "Mr Andrew A Aberdale",
+        "title": "Treasurer"
+      }
+    ]
+  },
+  {
+    "name": "PANGIAM, LLC",
+    "state": "VA",
+    "year_incorporated": "2022",
+    "nace": "5829",
+    "employees": "170",
+    "revenue_usd": 890000,
+    "pl_before_tax": null,
+    "total_assets": null,
+    "equity": null,
+    "website": "pangiam.com",
+    "description": "Biometric identity and authentication technology provider",
+    "contacts": [
+      {
+        "name": "Ms Amanda Louise Long",
+        "title": "Chief Executive Officer"
+      },
+      {
+        "name": "Mr Kevin Mcaleenan",
+        "title": "Chief Executive Officer"
+      },
+      {
+        "name": "Mr Kevin Mcaleenan",
+        "title": "Officer"
+      },
+      {
+        "name": "Mr Michael Jameson",
+        "title": "Agent"
+      },
+      {
+        "name": "Ms Julie Ann Peffer",
+        "title": "Chief Financial Officer"
+      },
+      {
+        "name": "Mr David Reissfelder",
+        "title": "Chief Financial Officer"
+      },
+      {
+        "name": "Mr David Reissfelder",
+        "title": "Officer"
+      },
+      {
+        "name": "Mr Patrick Flanagan",
+        "title": "Chief Operating Officer"
+      },
+      {
+        "name": "Mr Patrick Flanagan",
+        "title": "Officer"
+      },
+      {
+        "name": "Mr Andre Hentz",
+        "title": "Manager"
+      }
+    ]
+  },
+  {
+    "name": "REPISODIC, INC",
+    "state": "PA",
+    "year_incorporated": "2022",
+    "nace": "5829",
+    "employees": "10",
+    "revenue_usd": 890000,
+    "pl_before_tax": null,
+    "total_assets": null,
+    "equity": null,
+    "website": "www.repisodic.com",
+    "description": "Software technology services provider",
+    "contacts": [
+      {
+        "name": "Ms Preeya DMello",
+        "title": "Product Manager"
+      },
+      {
+        "name": "Mr Michael Cwalinski",
+        "title": "Officer"
+      },
+      {
+        "name": "Mr Michael Cwalinski",
+        "title": "Governor"
+      },
+      {
+        "name": "Mr Ryan Miller",
+        "title": "Officer"
+      }
+    ]
+  },
+  {
+    "name": "PORTLOCK SOFTWARE",
+    "state": "MT",
+    "year_incorporated": "2000",
+    "nace": "5829",
+    "employees": "20",
+    "revenue_usd": 880000,
+    "pl_before_tax": null,
+    "total_assets": null,
+    "equity": null,
+    "website": "www.portlock.com",
+    "description": null,
+    "contacts": []
+  },
+  {
+    "name": "APPFICIENCY US, INC.",
+    "state": "CO",
+    "year_incorporated": "2017",
+    "nace": "5829",
+    "employees": "19",
+    "revenue_usd": 880000,
+    "pl_before_tax": null,
+    "total_assets": null,
+    "equity": null,
+    "website": "www.appficiency.com",
+    "description": null,
+    "contacts": [
+      {
+        "name": "Mr Johnny Than",
+        "title": "Founder & Chief Executive Officer; Shareholder"
+      }
+    ]
+  },
+  {
+    "name": "AGENCY SOFTWARE, INC.",
+    "state": "ID",
+    "year_incorporated": "1988",
+    "nace": "5829",
+    "employees": "16",
+    "revenue_usd": 880000,
+    "pl_before_tax": null,
+    "total_assets": null,
+    "equity": null,
+    "website": "www.agencysoftware.com",
+    "description": "Insurance products related software developer",
+    "contacts": [
+      {
+        "name": "Ms Moria Balsley",
+        "title": "Customer Support & Accounting Trainer"
+      },
+      {
+        "name": "Ms Lori Mitchell",
+        "title": "Human Resources"
+      },
+      {
+        "name": "Mr Mark Aldridge",
+        "title": "Regional Sales Manager"
+      },
+      {
+        "name": "Mr Bruce Wyble",
+        "title": "Regional Sales Manager"
+      },
+      {
+        "name": "Mr Tim Mowery",
+        "title": "Account Manager"
+      },
+      {
+        "name": "Mr Tom Watson",
+        "title": "Regional Account Manager"
+      },
+      {
+        "name": "Hoylemcinelly M Haunnah",
+        "title": "Officer"
+      },
+      {
+        "name": "Haunnah M Mcinelly",
+        "title": "Officer"
+      },
+      {
+        "name": "Mr Kenneth M Mcinelly",
+        "title": "Officer"
+      },
+      {
+        "name": "Mr Dan Poirier",
+        "title": "Officer"
+      }
+    ]
+  },
+  {
+    "name": "MINISOFT",
+    "state": "AZ",
+    "year_incorporated": "1994",
+    "nace": "5829",
+    "employees": "10",
+    "revenue_usd": 880000,
+    "pl_before_tax": null,
+    "total_assets": null,
+    "equity": null,
+    "website": "www.minisoft.com",
+    "description": "Non classifiable establishment",
+    "contacts": []
+  },
+  {
+    "name": "NORTHWEST PERFORMANCE",
+    "state": "OR",
+    "year_incorporated": "1992",
+    "nace": "5829",
+    "employees": "10",
+    "revenue_usd": 880000,
+    "pl_before_tax": null,
+    "total_assets": null,
+    "equity": null,
+    "website": "www.nwpsw.com",
+    "description": null,
+    "contacts": []
+  },
+  {
+    "name": "HOUND, INC.",
+    "state": "CO",
+    "year_incorporated": "2021",
+    "nace": "5829",
+    "employees": "10",
+    "revenue_usd": 880000,
+    "pl_before_tax": null,
+    "total_assets": null,
+    "equity": null,
+    "website": "www.brandforce.com/domain/Hound.net",
+    "description": null,
+    "contacts": []
+  },
+  {
+    "name": "MARKT-PILOT INC",
+    "state": "IL",
+    "year_incorporated": "2022",
+    "nace": "5829",
+    "employees": "10",
+    "revenue_usd": 880000,
+    "pl_before_tax": null,
+    "total_assets": null,
+    "equity": null,
+    "website": "www.markt-pilot.com/de",
+    "description": null,
+    "contacts": []
+  },
+  {
+    "name": "ROCKTON SOFTWARE INC",
+    "state": "ID",
+    "year_incorporated": "1999",
+    "nace": "5829",
+    "employees": "16",
+    "revenue_usd": 880000,
+    "pl_before_tax": null,
+    "total_assets": null,
+    "equity": null,
+    "website": "www.rocktonsoftware.com",
+    "description": null,
+    "contacts": []
+  },
+  {
+    "name": "FITTED USA INC.",
+    "state": "ID",
+    "year_incorporated": "2023",
+    "nace": "5829",
+    "employees": "30",
+    "revenue_usd": 880000,
+    "pl_before_tax": null,
+    "total_assets": null,
+    "equity": null,
+    "website": "fittedhawaii.com",
+    "description": "Brand and retailer connectivity platform operator",
+    "contacts": [
+      {
+        "name": "Monte Keleher",
+        "title": "Chief Executive Officer"
+      },
+      {
+        "name": "Mr Andrew Bentley",
+        "title": "Secretary"
+      },
+      {
+        "name": "Mr Glen Bentley",
+        "title": "Chief Financial Officer"
+      }
+    ]
+  },
+  {
+    "name": "EDUCATION LOGISTICS INC",
+    "state": "MT",
+    "year_incorporated": "1977",
+    "nace": "5829",
+    "employees": "100",
+    "revenue_usd": 880000,
+    "pl_before_tax": null,
+    "total_assets": null,
+    "equity": null,
+    "website": "www.edulog.com",
+    "description": "Engaged in the provision of routing and planning software solutions",
+    "contacts": [
+      {
+        "name": "Mr Hien Quang Nguyen",
+        "title": "Chair"
+      },
+      {
+        "name": "Mr Hien Quang Nguyen",
+        "title": "Chief Executive Officer"
+      },
+      {
+        "name": "Mr Hien Quang Nguyen",
+        "title": "Officer"
+      },
+      {
+        "name": "Mr Samuel Bull",
+        "title": "Chief Executive Officer"
+      },
+      {
+        "name": "Mr Samuel Bull",
+        "title": "Chief Operating Officer"
+      },
+      {
+        "name": "Mr Samuel Bull",
+        "title": "Officer"
+      },
+      {
+        "name": "Mr Jason T Corbally",
+        "title": "President"
+      },
+      {
+        "name": "Hien Q Hguyen",
+        "title": "Chief Executive Officer"
+      },
+      {
+        "name": "Ms Nicole L Field",
+        "title": "Vice President"
+      },
+      {
+        "name": "Mr Lyles Johns",
+        "title": "Vice President"
+      },
+      {
+        "name": "Mr Lyles Johns",
+        "title": "Vice President Business Development"
+      },
+      {
+        "name": "Mr Andrew Leibenguth",
+        "title": "Vice President"
+      },
+      {
+        "name": "Mr Andrew Leibenguth",
+        "title": "Project Manager"
+      },
+      {
+        "name": "Mr Andrew Leibenguth",
+        "title": "Vice President Operations"
+      },
+      {
+        "name": "Ms Lois J Jensen",
+        "title": "Assistant Secretary"
+      },
+      {
+        "name": "Ms Lois J Jensen",
+        "title": "Director of Human Resources"
+      },
+      {
+        "name": "Ms Mara Baldwin",
+        "title": "Office Assistant"
+      },
+      {
+        "name": "Ms Aurora Rummel Lindig",
+        "title": "Administrative Assistant"
+      },
+      {
+        "name": "Mr Timothy Baigent",
+        "title": "Director of Training"
+      },
+      {
+        "name": "Ms Lynn Exe",
+        "title": "Manager, Human Resources"
+      },
+      {
+        "name": "AndrAa Brunson",
+        "title": "Training Specialist"
+      },
+      {
+        "name": "Mr Brendan Conners",
+        "title": "Regional Sales Manager"
+      },
+      {
+        "name": "Mr Carter Young",
+        "title": "Sales Support Manager"
+      },
+      {
+        "name": "Ms Elaine Brown",
+        "title": "Manager, Marketing"
+      },
+      {
+        "name": "Mr Andy Smith",
+        "title": "Marketing and Graphic Design"
+      },
+      {
+        "name": "Mr Ronald Perkowski",
+        "title": "Account Manager"
+      },
+      {
+        "name": "Mr Mark Thonnings",
+        "title": "Manager, Client Services"
+      },
+      {
+        "name": "Ms Johanna Arnold",
+        "title": "Hardware Coordinator"
+      },
+      {
+        "name": "Mr Gary Duncan",
+        "title": "Project Manager"
+      },
+      {
+        "name": "Mr Chris Lowry",
+        "title": "Senior Project Manager"
+      },
+      {
+        "name": "Mr Bret Marquardt",
+        "title": "Project Manager & Data Analyst"
+      },
+      {
+        "name": "Mr Zachary McClanahan",
+        "title": "Project Manager"
+      },
+      {
+        "name": "Mr Karl Thorne",
+        "title": "Site Manager"
+      },
+      {
+        "name": "Ms Anne Wood",
+        "title": "Project Manager"
+      },
+      {
+        "name": "Mr Gavin Marsh",
+        "title": "Product Support"
+      },
+      {
+        "name": "Mr Barak Nelson",
+        "title": "Product Support Analyst III"
+      },
+      {
+        "name": "Mr Darryl Branning",
+        "title": "Software Support Specialist"
+      },
+      {
+        "name": "Ms Amy Madzelonka",
+        "title": "Software Support Technician"
+      },
+      {
+        "name": "Udloc N Nguyen",
+        "title": "Officer"
+      },
+      {
+        "name": "Udloc N Nguyen",
+        "title": "Dst"
+      },
+      {
+        "name": "Mr Mitch Rosenau",
+        "title": "Chief Lending Officer"
+      },
+      {
+        "name": "Huyenlam Nguyen-Bull",
+        "title": "Director"
+      },
+      {
+        "name": "Mr Trevor Adams",
+        "title": "Dynamics CRM Manager"
+      },
+      {
+        "name": "Ms Jessica Brannum",
+        "title": "Travel Coordinator"
+      },
+      {
+        "name": "Mr Anthony Duvall",
+        "title": "Deployment Specialist"
+      },
+      {
+        "name": "Ms Wendy Evans",
+        "title": "Collections Specialist"
+      },
+      {
+        "name": "Mr Michael Forbes",
+        "title": "Elearning Specialist"
+      },
+      {
+        "name": "Mr Thomas Kester",
+        "title": "Implementation Specialist"
+      },
+      {
+        "name": "Ms Sara Rena Mihailovich",
+        "title": "Executive Assistant to the President"
+      }
+    ]
+  },
+  {
+    "name": "TRISEUM, LLC",
+    "state": "TX",
+    "year_incorporated": "2014",
+    "nace": "5829",
+    "employees": "32",
+    "revenue_usd": 870000,
+    "pl_before_tax": null,
+    "total_assets": null,
+    "equity": null,
+    "website": "www.triseum.com",
+    "description": "Educational video games developer",
+    "contacts": [
+      {
+        "name": "Mr Andre Thomas",
+        "title": "Chief Executive Officer"
+      },
+      {
+        "name": "Kristi Emerson",
+        "title": "Public Relations"
+      }
+    ]
+  },
+  {
+    "name": "QUINSTAR CORP",
+    "state": "TX",
+    "year_incorporated": "1984",
+    "nace": "5829",
+    "employees": "14",
+    "revenue_usd": 870000,
+    "pl_before_tax": null,
+    "total_assets": null,
+    "equity": null,
+    "website": "www.specterinstruments.com",
+    "description": null,
+    "contacts": []
+  },
+  {
+    "name": "IPSUM NETWORKS INC",
+    "state": "TX",
+    "year_incorporated": "2001",
+    "nace": "5829",
+    "employees": "32",
+    "revenue_usd": 870000,
+    "pl_before_tax": null,
+    "total_assets": null,
+    "equity": null,
+    "website": "ipsumnetworks.wordpress.com",
+    "description": null,
+    "contacts": []
+  },
+  {
+    "name": "BLU AGE CORPORATION",
+    "state": "TX",
+    "year_incorporated": "2008",
+    "nace": "5829",
+    "employees": "35",
+    "revenue_usd": 870000,
+    "pl_before_tax": null,
+    "total_assets": null,
+    "equity": null,
+    "website": "www.bluage.com",
+    "description": null,
+    "contacts": [
+      {
+        "name": "Mr Christian Champagne",
+        "title": "Chief Executive Officer"
+      },
+      {
+        "name": "Mr Christian Champagne",
+        "title": "Manager"
+      },
+      {
+        "name": "Mr Christian Champagne",
+        "title": "Governing Person"
+      },
+      {
+        "name": "Mr Kurt Lamp",
+        "title": "Vice President"
+      },
+      {
+        "name": "Ms Gayle Tagawa",
+        "title": "Vice President"
+      },
+      {
+        "name": "Mr Jason Weinstein",
+        "title": "Vice President"
+      },
+      {
+        "name": "Ms Anne Christel Gueurce",
+        "title": "Secretary"
+      },
+      {
+        "name": "Mr Jean Philippe Monnet",
+        "title": "Secretary"
+      },
+      {
+        "name": "Mr Pierre Kubryk",
+        "title": "Project Manager"
+      },
+      {
+        "name": "Apurva Alekar",
+        "title": "Software Developer"
+      },
+      {
+        "name": "Mr Charles Gao",
+        "title": "Software Developer"
+      },
+      {
+        "name": "Mr Kevin Gasper",
+        "title": "Manager"
+      },
+      {
+        "name": "Mr Mathew Kline",
+        "title": "Manager"
+      }
+    ]
+  },
+  {
+    "name": "O9 SOLUTIONS INC.",
+    "state": "TX",
+    "year_incorporated": "2016",
+    "nace": "5829",
+    "employees": "490",
+    "revenue_usd": 870000,
+    "pl_before_tax": null,
+    "total_assets": null,
+    "equity": null,
+    "website": "www.o9solutions.com",
+    "description": null,
+    "contacts": [
+      {
+        "name": "Mr Chakradhar Gottemukkala",
+        "title": "Executive Officer"
+      }
+    ]
+  },
+  {
+    "name": "MCLANE TECHNOLOGY PARTNERS, LLC",
+    "state": "TX",
+    "year_incorporated": "2016",
+    "nace": "5829",
+    "employees": "306",
+    "revenue_usd": 870000,
+    "pl_before_tax": null,
+    "total_assets": null,
+    "equity": null,
+    "website": "mclaneat.com",
+    "description": "Engaged in the provision of logistics and information technology (IT) services to federal, state, and local government entities and to small and medium commercial businesses",
+    "contacts": [
+      {
+        "name": "Ms Sammie L Hodges",
+        "title": "President"
+      },
+      {
+        "name": "Mr Chuck Leaming",
+        "title": "Director of Business Development"
+      },
+      {
+        "name": "Mr Robert Drayton McLane JR",
+        "title": "President, Business Development"
+      },
+      {
+        "name": "Mr Robert Drayton McLane JR",
+        "title": "Manager"
+      },
+      {
+        "name": "Mr Brian Naugher",
+        "title": "Director of Business Development"
+      },
+      {
+        "name": "Brittni Fausett",
+        "title": "Office Coordinator"
+      },
+      {
+        "name": "Mr Wendall Howard",
+        "title": "Enterprise Admin"
+      },
+      {
+        "name": "Ms Krista Keener",
+        "title": "Receptionist"
+      },
+      {
+        "name": "Mr Marvin White",
+        "title": "Manager, Training"
+      },
+      {
+        "name": "Mr Joseph George",
+        "title": "Director Enterprise Technology Solutions"
+      },
+      {
+        "name": "Mr Clyde Braswell",
+        "title": "Supply Tech."
+      },
+      {
+        "name": "Mr James Chambers",
+        "title": "Chief Operating Officer"
+      },
+      {
+        "name": "Mr Joel Scharlat",
+        "title": "Director of Business Operations"
+      },
+      {
+        "name": "Mr Rodney Seale",
+        "title": "Senior Logistics Analyst"
+      },
+      {
+        "name": "Mr Greg Vega",
+        "title": "System Administrator"
+      },
+      {
+        "name": "Ms Linda Brown",
+        "title": "Software Engineer"
+      },
+      {
+        "name": "Ms Miriam Delavega",
+        "title": "Junior Software Engineer"
+      },
+      {
+        "name": "Mr Kevin Washington",
+        "title": "Senior System Engineer"
+      },
+      {
+        "name": "Mr George Sprague",
+        "title": "Director Cyber Security"
+      },
+      {
+        "name": "Mr Ray Chandler",
+        "title": "Sams-E Team Leader"
+      },
+      {
+        "name": "Mr Paul Keiper",
+        "title": "Manager"
+      },
+      {
+        "name": "Ms Kelli Mcdonald",
+        "title": "Office / Travel Coordinator"
+      },
+      {
+        "name": "Mr Brett Moore",
+        "title": "Manager"
+      },
+      {
+        "name": "Ms Xiomara Carrasquillo",
+        "title": "Test Engineer"
+      },
+      {
+        "name": "Jelle Scheepstra",
+        "title": "Developer"
+      },
+      {
+        "name": "Mr Joe Shafer",
+        "title": "Business Analyst Iii"
+      },
+      {
+        "name": "Ms Renae Willberg",
+        "title": "Business Analyst"
+      }
+    ]
+  },
+  {
+    "name": "FIFTH ROCK SOFTWARE INC",
+    "state": "TX",
+    "year_incorporated": null,
+    "nace": "5829",
+    "employees": "30",
+    "revenue_usd": 870000,
+    "pl_before_tax": null,
+    "total_assets": null,
+    "equity": null,
+    "website": "www.fifthrock.com",
+    "description": null,
+    "contacts": []
+  },
+  {
+    "name": "GEM-CAP INC",
+    "state": "TX",
+    "year_incorporated": "1990",
+    "nace": "5829",
+    "employees": "13",
+    "revenue_usd": 870000,
+    "pl_before_tax": null,
+    "total_assets": null,
+    "equity": null,
+    "website": "www.hayessoft.com",
+    "description": null,
+    "contacts": []
+  },
+  {
+    "name": "LIGHT HOUSE TEKNOLOGIES",
+    "state": "TX",
+    "year_incorporated": "1994",
+    "nace": "5829",
+    "employees": "18",
+    "revenue_usd": 870000,
+    "pl_before_tax": null,
+    "total_assets": null,
+    "equity": null,
+    "website": "www.tek-rent.com",
+    "description": null,
+    "contacts": []
+  },
+  {
+    "name": "FG SQUARED MULTIMEDIA CORP",
+    "state": "TX",
+    "year_incorporated": "1994",
+    "nace": "5829",
+    "employees": "11",
+    "revenue_usd": 870000,
+    "pl_before_tax": null,
+    "total_assets": null,
+    "equity": null,
+    "website": "www.fg2.com",
+    "description": null,
+    "contacts": []
+  },
+  {
+    "name": "ISOFT CORP",
+    "state": "TX",
+    "year_incorporated": "2005",
+    "nace": "5829",
+    "employees": "30",
+    "revenue_usd": 870000,
+    "pl_before_tax": null,
+    "total_assets": null,
+    "equity": null,
+    "website": "www.isoft.com",
+    "description": "Enterprise communications software developer",
+    "contacts": []
+  },
+  {
+    "name": "ARCHITEXT, INC.",
+    "state": "TX",
+    "year_incorporated": "1986",
+    "nace": "5829",
+    "employees": "20",
+    "revenue_usd": 870000,
+    "pl_before_tax": null,
+    "total_assets": null,
+    "equity": null,
+    "website": "www.architext.com",
+    "description": "Provides font and graphic solutions for laser printers and display devices",
+    "contacts": [
+      {
+        "name": "Mr Ross W Estep SR",
+        "title": "No specific function"
+      },
+      {
+        "name": "Toshi Estep",
+        "title": "Governing Person"
+      }
+    ]
+  }
+]

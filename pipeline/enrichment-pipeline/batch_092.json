@@ -1,0 +1,950 @@
+[
+  {
+    "name": "NAUTICUS ROBOTICS, INC.",
+    "state": "TX",
+    "year_incorporated": "2014",
+    "nace": "5829",
+    "employees": "47",
+    "revenue_usd": 1807000,
+    "pl_before_tax": null,
+    "total_assets": null,
+    "equity": null,
+    "website": "nauticusrobotics.com",
+    "description": null,
+    "contacts": [
+      {
+        "name": "Mr Jon Najarian",
+        "title": "Chairman"
+      },
+      {
+        "name": "Governor Bill Richardson",
+        "title": "Vice Chairman"
+      },
+      {
+        "name": "Mr Douglas Cole",
+        "title": "Board of Dirs"
+      },
+      {
+        "name": "Mr William H. Flores",
+        "title": "Board of Dirs"
+      },
+      {
+        "name": "Mr Jonas Sven Grossman",
+        "title": "Board of Dirs"
+      },
+      {
+        "name": "Mr Brendan Riley",
+        "title": "Board of Dirs"
+      },
+      {
+        "name": "Mr Adam Sharkawy",
+        "title": "Board of Dirs"
+      },
+      {
+        "name": "Mr John Willis Gibson JR",
+        "title": "President & Chief Executive Officer"
+      },
+      {
+        "name": "Mr Rodney M Ondler",
+        "title": "President"
+      },
+      {
+        "name": "Mr Richard F Fitzgerald",
+        "title": "Chief Financial Officer"
+      },
+      {
+        "name": "Mr Ankur Dhanuka",
+        "title": "CTO"
+      },
+      {
+        "name": "Mr John D. Yamokoski",
+        "title": "CTO"
+      },
+      {
+        "name": "Mr Louis R Buffalino",
+        "title": "Chief Operating Officer"
+      },
+      {
+        "name": "Mr Jim Bellingham",
+        "title": "Director"
+      },
+      {
+        "name": "Mr Eli J Spiro",
+        "title": "Director"
+      }
+    ]
+  },
+  {
+    "name": "LEAPFROG POWER, INC.",
+    "state": "CA",
+    "year_incorporated": "2017",
+    "nace": "5829",
+    "employees": "45",
+    "revenue_usd": 1800000,
+    "pl_before_tax": null,
+    "total_assets": null,
+    "equity": null,
+    "website": "www.leap.energy",
+    "description": "Distributed energy exchange marketplace platform operator",
+    "contacts": []
+  },
+  {
+    "name": "ODDWORLD INHABITANTS",
+    "state": "CA",
+    "year_incorporated": "1997",
+    "nace": "5829",
+    "employees": "60",
+    "revenue_usd": 1800000,
+    "pl_before_tax": null,
+    "total_assets": null,
+    "equity": null,
+    "website": "www.oddworld.com",
+    "description": null,
+    "contacts": []
+  },
+  {
+    "name": "VISAGE MOBILE INC",
+    "state": "CA",
+    "year_incorporated": null,
+    "nace": "5829",
+    "employees": "150",
+    "revenue_usd": 1800000,
+    "pl_before_tax": null,
+    "total_assets": null,
+    "equity": null,
+    "website": "www.visagemobile.com",
+    "description": "Provider of management solutions for enterprises seeking to gain visibility and control over its smart phones, cell phones and other workforce mobility solutions",
+    "contacts": [
+      {
+        "name": "Mr Bzur Haun",
+        "title": "Chief Executive Officer"
+      },
+      {
+        "name": "Mr Mani Zarrehparvar",
+        "title": "President"
+      }
+    ]
+  },
+  {
+    "name": "INSIGHT SOLUTIONS INC. CALIFORNIA",
+    "state": "CA",
+    "year_incorporated": "1999",
+    "nace": "5829",
+    "employees": "40",
+    "revenue_usd": 1800000,
+    "pl_before_tax": null,
+    "total_assets": null,
+    "equity": null,
+    "website": "www.insightsol.com",
+    "description": null,
+    "contacts": [
+      {
+        "name": "Mr Raghav Sherma",
+        "title": "Chief Executive Officer"
+      }
+    ]
+  },
+  {
+    "name": "IRISE",
+    "state": "CA",
+    "year_incorporated": "1996",
+    "nace": "5829",
+    "employees": "200",
+    "revenue_usd": 1800000,
+    "pl_before_tax": null,
+    "total_assets": null,
+    "equity": null,
+    "website": "www.irise.com",
+    "description": "Supplier of visualization software for business applications",
+    "contacts": [
+      {
+        "name": "Mr Emmet Britton Keeffe Iii",
+        "title": "Secretary"
+      },
+      {
+        "name": "Mr Thomas Polk",
+        "title": "Officer"
+      },
+      {
+        "name": "Mr Maurice Allyn Martin",
+        "title": "President; Chief Executive Officer (Ceo); Chief Executive Officer & Founder"
+      },
+      {
+        "name": "Mr Gregg Blatt",
+        "title": "Vice President"
+      },
+      {
+        "name": "Mr Stephen W Brickley",
+        "title": "Vice President"
+      },
+      {
+        "name": "Mr Stephen W Brickley",
+        "title": "Executive Vice President Customer Success"
+      },
+      {
+        "name": "P Terry",
+        "title": "Vice President"
+      },
+      {
+        "name": "Mr Michael Loria",
+        "title": "Vice President - Business Development"
+      },
+      {
+        "name": "Ms Holly Sowersby",
+        "title": "Officer"
+      },
+      {
+        "name": "Mr Dominic Infante",
+        "title": "Marketing Manager"
+      },
+      {
+        "name": "Mr Bryan Lipson",
+        "title": "Executive Vice President - Product Management"
+      },
+      {
+        "name": "Maria Peters Legal",
+        "title": "Notice of Process"
+      },
+      {
+        "name": "Mr Alain Somphone",
+        "title": "Ux Design Manager"
+      },
+      {
+        "name": "Mr Stuart Larking",
+        "title": "Executive Vice President - Engineering & IT"
+      },
+      {
+        "name": "Mr Peter Chung",
+        "title": "Director"
+      },
+      {
+        "name": "Mr Emmet Britton Keeffe Iii",
+        "title": "Director"
+      },
+      {
+        "name": "Mr Thomas Polk",
+        "title": "Director"
+      },
+      {
+        "name": "Mr Maurice Allyn Martin",
+        "title": "Secretary"
+      },
+      {
+        "name": "Ms Holly Sowersby",
+        "title": "Chief Financial Officer"
+      }
+    ]
+  },
+  {
+    "name": "STREAMLINE SOFTWARE CORPORATION",
+    "state": "CA",
+    "year_incorporated": "2001",
+    "nace": "5829",
+    "employees": "17",
+    "revenue_usd": 1800000,
+    "pl_before_tax": null,
+    "total_assets": null,
+    "equity": null,
+    "website": "www.streamlinevrs.com",
+    "description": null,
+    "contacts": [
+      {
+        "name": "Mr Craig Perkins",
+        "title": "President"
+      }
+    ]
+  },
+  {
+    "name": "BLUE SHIFT INC",
+    "state": "CA",
+    "year_incorporated": "2012",
+    "nace": "5829",
+    "employees": "10",
+    "revenue_usd": 1800000,
+    "pl_before_tax": null,
+    "total_assets": null,
+    "equity": null,
+    "website": "www.blueshiftinc.com",
+    "description": null,
+    "contacts": []
+  },
+  {
+    "name": "ALTERMEDIA, INC.",
+    "state": "CA",
+    "year_incorporated": "2002",
+    "nace": "5829",
+    "employees": "10",
+    "revenue_usd": 1800000,
+    "pl_before_tax": null,
+    "total_assets": null,
+    "equity": null,
+    "website": "www.studiosuite.com",
+    "description": null,
+    "contacts": [
+      {
+        "name": "Mr Joel Alexander Stoner",
+        "title": "Chief Executive Officer"
+      },
+      {
+        "name": "Mr Alex Ballar",
+        "title": "Sales Executive"
+      }
+    ]
+  },
+  {
+    "name": "SHOP IT TO ME INC",
+    "state": "CA",
+    "year_incorporated": "2013",
+    "nace": "5829",
+    "employees": "10",
+    "revenue_usd": 1800000,
+    "pl_before_tax": null,
+    "total_assets": null,
+    "equity": null,
+    "website": "www.shopittome.com",
+    "description": null,
+    "contacts": [
+      {
+        "name": "Mr Jeremy Meigs",
+        "title": "Director of Engineering / Principal Engineer"
+      }
+    ]
+  },
+  {
+    "name": "HG AUTOTECH LLC",
+    "state": "LA",
+    "year_incorporated": "2021",
+    "nace": "5829",
+    "employees": "17",
+    "revenue_usd": 1800000,
+    "pl_before_tax": null,
+    "total_assets": null,
+    "equity": null,
+    "website": "hgautotech.com",
+    "description": null,
+    "contacts": [
+      {
+        "name": "Mr Jesse D Broderick",
+        "title": "Member"
+      },
+      {
+        "name": "Mr Dru Darby",
+        "title": "Member"
+      },
+      {
+        "name": "Mr James Tyler",
+        "title": "Member"
+      },
+      {
+        "name": "Mr Andrew Zlotoff",
+        "title": "Member"
+      }
+    ]
+  },
+  {
+    "name": "DATAMEER INC",
+    "state": "CA",
+    "year_incorporated": "2009",
+    "nace": "5829",
+    "employees": "75",
+    "revenue_usd": 1800000,
+    "pl_before_tax": null,
+    "total_assets": null,
+    "equity": null,
+    "website": "www.datameer.com",
+    "description": "Engaged in the provision of big data platform for data-driven companies like Citibank, RBC, Optum, Aetna, Anthem, National Instruments, Vivint and so many others",
+    "contacts": [
+      {
+        "name": "Mr Nikhil Eapen",
+        "title": "Board of Dirs"
+      },
+      {
+        "name": "Ben Fu",
+        "title": "Board of Dirs"
+      },
+      {
+        "name": "Mr Philip R Gilligan",
+        "title": "Board of Dirs"
+      },
+      {
+        "name": "Mr Sanjay Mirchandani",
+        "title": "Board of Dirs"
+      },
+      {
+        "name": "Mr Matthew John Murphy",
+        "title": "Board of Dirs"
+      },
+      {
+        "name": "Mr John L Walecka II",
+        "title": "Board of Dirs"
+      },
+      {
+        "name": "Mr Christian Jurgen Rodatus",
+        "title": "Chief Executive Officer"
+      },
+      {
+        "name": "Ms Alison Fumelle",
+        "title": "Office Manager"
+      },
+      {
+        "name": "Joscelyn Szymkowski",
+        "title": "Executive Assistant"
+      },
+      {
+        "name": "Mr George Shahid",
+        "title": "Chief Financial Officer"
+      },
+      {
+        "name": "Mr Jonathan Martin Oslowski",
+        "title": "Vice President, Finance"
+      },
+      {
+        "name": "Ms Gloria Gong",
+        "title": "Senior Accountant"
+      },
+      {
+        "name": "Ms Linda Esperance",
+        "title": "Vice President - People Operations"
+      },
+      {
+        "name": "Ms Karen Buell",
+        "title": "Human Resources Generalist"
+      },
+      {
+        "name": "Mr Jeff Gallagher",
+        "title": "Senior Vice President-Sales"
+      },
+      {
+        "name": "Mr Drew Alexander",
+        "title": "Regional Sales Director"
+      },
+      {
+        "name": "Ms Susan O Brien",
+        "title": "Vice President, Marketing"
+      },
+      {
+        "name": "Ms Susan O Brien",
+        "title": "Director of Communications"
+      },
+      {
+        "name": "Mr Andrew Muff",
+        "title": "Head of Field Marketing"
+      },
+      {
+        "name": "Mr BenoAte Yver",
+        "title": "Vice President, Marketing"
+      },
+      {
+        "name": "Mr John Morrell",
+        "title": "Senior Director of Product Marketing"
+      },
+      {
+        "name": "Mr Faiqah Ahmad",
+        "title": "Digital Marketing Manager"
+      },
+      {
+        "name": "Mr Tarlock Sagoo",
+        "title": "Vice President-Services-Global & Customer Success"
+      },
+      {
+        "name": "Mr Kevin Wild",
+        "title": "Account Executive"
+      },
+      {
+        "name": "Mr Thomas Ehrenhard",
+        "title": "Technical Account Manager"
+      },
+      {
+        "name": "Mr Frank Henze",
+        "title": "Vice President, Innovation"
+      },
+      {
+        "name": "Mr Matt Mcmanus",
+        "title": "Vice President - Engineering"
+      },
+      {
+        "name": "Mr Peter Voss",
+        "title": "Chief Technology Officer"
+      },
+      {
+        "name": "Mr Raghu Thiagarajan",
+        "title": "Vice President - Product Management"
+      },
+      {
+        "name": "Mr William Benica",
+        "title": "Director of Product Management"
+      },
+      {
+        "name": "Ms Monique Sherman",
+        "title": "Manager-Pr-Global"
+      },
+      {
+        "name": "Mr Frank Keller",
+        "title": "Manager, Information Technology Operations"
+      },
+      {
+        "name": "Mr Philipp Metz",
+        "title": "Software Test Engineer"
+      },
+      {
+        "name": "Ms Kelly Nawrocke",
+        "title": "Senior Software Engineer"
+      },
+      {
+        "name": "Ms Kelly Nawrocke",
+        "title": "Chief Architect"
+      },
+      {
+        "name": "Ms Susan Puccinelli",
+        "title": "Director of Public Relations"
+      },
+      {
+        "name": "Ms Erin Hitchcock",
+        "title": "Manager-PR"
+      },
+      {
+        "name": "Mr Naveed Ahmed",
+        "title": "Ui Engineer"
+      },
+      {
+        "name": "Mr Daniel Cheng",
+        "title": "Senior User Experience Designer"
+      },
+      {
+        "name": "Mr Evan Haveman",
+        "title": "User Interface Engineer"
+      },
+      {
+        "name": "Ms Bogdana Kifiak",
+        "title": "Ui Engineer"
+      }
+    ]
+  },
+  {
+    "name": "KNOWLEDGECITY LLC",
+    "state": "CA",
+    "year_incorporated": "2021",
+    "nace": "5829",
+    "employees": "60",
+    "revenue_usd": 1800000,
+    "pl_before_tax": null,
+    "total_assets": null,
+    "equity": null,
+    "website": "www.knowledgecity.com",
+    "description": null,
+    "contacts": [
+      {
+        "name": "Ms Amanda Gonzalez",
+        "title": "Manager"
+      }
+    ]
+  },
+  {
+    "name": "GREATER GIVING",
+    "state": "OR",
+    "year_incorporated": null,
+    "nace": "5829",
+    "employees": "14",
+    "revenue_usd": 1800000,
+    "pl_before_tax": null,
+    "total_assets": null,
+    "equity": null,
+    "website": "www.greatergiving.com",
+    "description": null,
+    "contacts": []
+  },
+  {
+    "name": "BLUELAKE SOFTWARE INC",
+    "state": "CA",
+    "year_incorporated": "2002",
+    "nace": "5829",
+    "employees": "10",
+    "revenue_usd": 1800000,
+    "pl_before_tax": null,
+    "total_assets": null,
+    "equity": null,
+    "website": "www.bluelake.com",
+    "description": null,
+    "contacts": []
+  },
+  {
+    "name": "NVOQ INC",
+    "state": "CO",
+    "year_incorporated": "2000",
+    "nace": "5829",
+    "employees": "60",
+    "revenue_usd": 1790000,
+    "pl_before_tax": null,
+    "total_assets": null,
+    "equity": null,
+    "website": "www.nvoq.com",
+    "description": "Online cloud-based speech recognition Software-as-a-Service (SaaS) developer",
+    "contacts": [
+      {
+        "name": "Mr Charles N Corfield",
+        "title": "President and Chief Executive Officer"
+      },
+      {
+        "name": "Ms Deborah Gillotti",
+        "title": "Executive Officer"
+      },
+      {
+        "name": "Mr Conrad A Mccarty",
+        "title": "Executive Officer"
+      },
+      {
+        "name": "Mr Dan Morley",
+        "title": "Vice President Sales"
+      },
+      {
+        "name": "Mr Carleton Perry",
+        "title": "Vice President, Platform Sales"
+      },
+      {
+        "name": "Mr Gopal Ciancio",
+        "title": "Sales Engineer"
+      },
+      {
+        "name": "Kristen Ayers",
+        "title": "Senior Solutions Marketing Manager"
+      },
+      {
+        "name": "Mr Bruce Kerns",
+        "title": "Engineer"
+      },
+      {
+        "name": "Ms Angie Linder",
+        "title": "Programmer"
+      },
+      {
+        "name": "Mr Nolan Tininenko",
+        "title": "Information Technology Support"
+      },
+      {
+        "name": "Mr Chad Hiner",
+        "title": "Executive Director, Healthcare"
+      },
+      {
+        "name": "Sherin Tedeschi",
+        "title": "Rector"
+      }
+    ]
+  },
+  {
+    "name": "SECURE64 SOFTWARE CORP",
+    "state": "CO",
+    "year_incorporated": "2002",
+    "nace": "5829",
+    "employees": "24",
+    "revenue_usd": 1790000,
+    "pl_before_tax": null,
+    "total_assets": null,
+    "equity": null,
+    "website": "www.secure64.com",
+    "description": "Security software developer ; Security software publisher",
+    "contacts": [
+      {
+        "name": "Mr Thad Dupper",
+        "title": "Chief Executive Officer"
+      },
+      {
+        "name": "Mr Steven Robert Goodbarn",
+        "title": "Chairman & Co-Founder"
+      },
+      {
+        "name": "Mr Mark Beckett",
+        "title": "Vice President, Marketing & Product Management"
+      },
+      {
+        "name": "Mr John Worley",
+        "title": "System Architect & Director of Engineering"
+      },
+      {
+        "name": "Mr Tim Asmussen",
+        "title": "Technical Support Engineer"
+      }
+    ]
+  },
+  {
+    "name": "INTELLIGENT INFORMATION TECH",
+    "state": "DC",
+    "year_incorporated": "2000",
+    "nace": "5829",
+    "employees": "13",
+    "revenue_usd": 1790000,
+    "pl_before_tax": null,
+    "total_assets": null,
+    "equity": null,
+    "website": "www.iitsllc.com",
+    "description": null,
+    "contacts": []
+  },
+  {
+    "name": "DELANO",
+    "state": "CO",
+    "year_incorporated": "2001",
+    "nace": "5829",
+    "employees": "10",
+    "revenue_usd": 1790000,
+    "pl_before_tax": null,
+    "total_assets": null,
+    "equity": null,
+    "website": "www.delano.net",
+    "description": null,
+    "contacts": []
+  },
+  {
+    "name": "TRACKVIA, INC.",
+    "state": "CO",
+    "year_incorporated": "2006",
+    "nace": "5829",
+    "employees": "29",
+    "revenue_usd": 1790000,
+    "pl_before_tax": null,
+    "total_assets": null,
+    "equity": null,
+    "website": "www.trackvia.com",
+    "description": "Online business application creation software-as-a-service platform operator ; Information management software publisher ; Online business application creation software-as-a-service platform developer",
+    "contacts": [
+      {
+        "name": "Mr Edward Daihl",
+        "title": "Chief Executive Officer"
+      },
+      {
+        "name": "Mr Pete Khanna",
+        "title": "Chief Executive Officer"
+      },
+      {
+        "name": "Ms Julie Puffer",
+        "title": "Executive Assistant / Office Manager"
+      },
+      {
+        "name": "Mr Jason Murante",
+        "title": "Executive Vice President"
+      },
+      {
+        "name": "Ms Victoria Ambrose",
+        "title": "Business Development Representative"
+      },
+      {
+        "name": "Ms Natalie Fieldsend",
+        "title": "Business Development Representative"
+      },
+      {
+        "name": "Mr Brad Knudsen",
+        "title": "Business Development"
+      },
+      {
+        "name": "Mr Alex Puldy",
+        "title": "Business Development"
+      },
+      {
+        "name": "Mechelle Martz-Mayfield",
+        "title": "Manager, Corporate Communications"
+      },
+      {
+        "name": "Cpa Mike Isham",
+        "title": "Vice President of Finance"
+      },
+      {
+        "name": "Mr Brett Reed",
+        "title": "Senior Accountant"
+      },
+      {
+        "name": "Mr Brett Reed",
+        "title": "No specific function"
+      },
+      {
+        "name": "Mr Michael Newborn",
+        "title": "North American Sales"
+      },
+      {
+        "name": "Mr Keith Parker",
+        "title": "Senior Account Executive"
+      },
+      {
+        "name": "Mr Pete Schaefer",
+        "title": "Director, Information Security & Compliance"
+      },
+      {
+        "name": "Mr Isaac Linder",
+        "title": "Vice President Information Technology Development"
+      },
+      {
+        "name": "Mr Matt Green",
+        "title": "Senior Software Architect / Engineering Manager"
+      },
+      {
+        "name": "Ms Cristina Gutierrez",
+        "title": "Technical Support Specialist"
+      },
+      {
+        "name": "Mr Walker Fenton",
+        "title": "Senior Vice President Product Management"
+      },
+      {
+        "name": "Mr Anchal Kumar",
+        "title": "Senior Product Manager"
+      },
+      {
+        "name": "Mr Thomas Gallagher",
+        "title": "Director of Information Technology"
+      },
+      {
+        "name": "Mr Nathan Allen",
+        "title": "Solutions Architect"
+      },
+      {
+        "name": "Mr Jason Baird",
+        "title": "Software Engineer"
+      },
+      {
+        "name": "Mr Brandon Gill",
+        "title": "Solutions Consultant"
+      },
+      {
+        "name": "Kyungseog Oh",
+        "title": "Software Architect"
+      },
+      {
+        "name": "Mr Drew Thompson",
+        "title": "Solutions Consultant"
+      },
+      {
+        "name": "Mr Kyle Turner",
+        "title": "Software Engineer"
+      },
+      {
+        "name": "Mr Stephen Kennicutt",
+        "title": "API & Integrations Engineer"
+      },
+      {
+        "name": "Mr Andrew Reid",
+        "title": "Implementation Engineer"
+      },
+      {
+        "name": "Mr Taylor Termentozzi",
+        "title": "Implementation Engineer"
+      },
+      {
+        "name": "Ms Kate Zornow",
+        "title": "Implementation Engineer"
+      },
+      {
+        "name": "Mr Alex Barba",
+        "title": "Customer Support Advocate"
+      },
+      {
+        "name": "Witte Crosby",
+        "title": "Customer Support Advocate"
+      },
+      {
+        "name": "Mr Derrick Kotlus",
+        "title": "Customer Support Advocate"
+      },
+      {
+        "name": "Ms Mariya Novokhatska",
+        "title": "Customer Success Advocate"
+      }
+    ]
+  },
+  {
+    "name": "AVENTURA INC",
+    "state": "CO",
+    "year_incorporated": "2010",
+    "nace": "5829",
+    "employees": "30",
+    "revenue_usd": 1790000,
+    "pl_before_tax": null,
+    "total_assets": null,
+    "equity": null,
+    "website": "www.aventurahq.com",
+    "description": null,
+    "contacts": []
+  },
+  {
+    "name": "CALIPER LLC",
+    "state": "VA",
+    "year_incorporated": "1984",
+    "nace": "5829",
+    "employees": "12",
+    "revenue_usd": 1790000,
+    "pl_before_tax": null,
+    "total_assets": null,
+    "equity": null,
+    "website": "www.caliper.net",
+    "description": "Specializes in the provision of labor recruitment and personnel services in the United States",
+    "contacts": []
+  },
+  {
+    "name": "ROCKWARE, INC.",
+    "state": "CO",
+    "year_incorporated": "1983",
+    "nace": "5829",
+    "employees": "15",
+    "revenue_usd": 1790000,
+    "pl_before_tax": null,
+    "total_assets": null,
+    "equity": null,
+    "website": "www.rockware.com",
+    "description": null,
+    "contacts": [
+      {
+        "name": "Mr Thomas R Reed",
+        "title": "Chief Operating Officer / Owner"
+      },
+      {
+        "name": "Mr Thomas R Reed",
+        "title": "Agent"
+      },
+      {
+        "name": "Sandy Meakins",
+        "title": "Accounts Receivable"
+      },
+      {
+        "name": "Ms Mayfield Molly",
+        "title": "Marketing Director"
+      },
+      {
+        "name": "Mr Jim Reed",
+        "title": "Director of Research and Development"
+      },
+      {
+        "name": "Mr Tom Bresnahan",
+        "title": "Tech. Support Representative / Product Manager"
+      },
+      {
+        "name": "Ms Alison Alcott",
+        "title": "Consultant"
+      }
+    ]
+  },
+  {
+    "name": "OPTIBRAND LTD",
+    "state": "CO",
+    "year_incorporated": null,
+    "nace": "5829",
+    "employees": "17",
+    "revenue_usd": 1790000,
+    "pl_before_tax": null,
+    "total_assets": null,
+    "equity": null,
+    "website": "www.optibrand.com",
+    "description": null,
+    "contacts": []
+  },
+  {
+    "name": "USER1ST LLC",
+    "state": "DC",
+    "year_incorporated": "2019",
+    "nace": "5829",
+    "employees": "20",
+    "revenue_usd": 1790000,
+    "pl_before_tax": null,
+    "total_assets": null,
+    "equity": null,
+    "website": "www.user1st.com",
+    "description": null,
+    "contacts": []
+  }
+]

@@ -1,0 +1,66 @@
+[
+  {
+    "company_id": "9663e215-13cd-4795-a0a9-ee5696eb77dd",
+    "company_name": "Fireworks AI",
+    "agent_qa_score": 80,
+    "issues": ["HQ listed as San Francisco but company is based in Redwood City, CA", "Total raised is $77M (not just $52M+) — Series B was $52M but prior rounds bring total to $77M", "Only 1 contact on record — thin coverage for a $552M-valuation company"],
+    "recommendation": "Update HQ to Redwood City, correct total raised to $77M, enrich contacts",
+    "checks_run": "web presence check, funding verification (Crunchbase/SiliconAngle), HQ location, GPU scale plausibility"
+  },
+  {
+    "company_id": "f11e04c5-a4ed-4dee-aa16-63831a43ed15",
+    "company_name": "Fal.ai",
+    "agent_qa_score": 68,
+    "issues": ["Funding severely stale — $23M was 2024 figure; Fal raised $140M+ (Series C/D) in Dec 2025, now valued at $4.5B", "GPU scale estimate likely too low given 10x revenue growth and $4.5B valuation", "Only 1 contact — needs enrichment given company's rapid growth trajectory"],
+    "recommendation": "Re-enrich urgently — funding and scale data at least 18 months out of date; company is now a unicorn-class player",
+    "checks_run": "web presence check, TechCrunch/Bloomberg funding verification, GPU scale plausibility vs revenue trajectory"
+  },
+  {
+    "company_id": "37aea0ab-5b2c-4b68-931a-d2c79603cc56",
+    "company_name": "Baseten",
+    "agent_qa_score": 55,
+    "issues": ["Funding massively understated — DB says $40M Series B, reality is $585M+ total ($75M in Feb 2025, $300M Series E in Jan 2026 at $5B valuation)", "Company is primarily a platform/API inference layer, not a direct GPU fleet owner — GPU ownership scale unclear", "Only 1 contact for a $5B-valuation company"],
+    "recommendation": "Re-enrich completely — data is multiple rounds out of date; verify if they own GPU hardware vs purely resell cloud capacity before outreach",
+    "checks_run": "web presence check, SiliconAngle/CNBC/Crunchbase funding verification, business model GPU ownership analysis"
+  },
+  {
+    "company_id": "d2d5d5d9-c304-439b-827c-f956fcd6d8e9",
+    "company_name": "AceCloud",
+    "agent_qa_score": 70,
+    "issues": ["HQ address (Gurugram, Sector 19) does not match actual data center locations — DCs are in Noida and Mumbai, not Gurugram", "Gurugram address may be registered office for a different Ace entity (acecloudhosting.com vs acecloud.ai)", "Only 1 contact"],
+    "recommendation": "Verify correct legal entity (acecloud.ai vs acecloudhosting.com are potentially distinct); update HQ to Noida/Mumbai; enrich contacts",
+    "checks_run": "web presence check, DCD/DataCenter Dynamics location verification, GPU offering and pricing verification, entity disambiguation"
+  },
+  {
+    "company_id": "dde49807-a9e5-4df8-aa77-34170e95bf06",
+    "company_name": "Sify Technologies",
+    "agent_qa_score": 84,
+    "issues": ["GPU scale (2,000-10,000) is plausible but unconfirmed — Sify operates NVIDIA-certified data centers but GPU count not publicly disclosed", "Only 1 contact for a NASDAQ-listed public company — significant outreach gap"],
+    "recommendation": "Good candidate — verify GPU fleet size with direct contact; enrich contacts (public company, more decision-makers findable)",
+    "checks_run": "NASDAQ listing confirmed (SIFY), HQ Chennai confirmed, NVIDIA partnership and certification verified, GPU cloud product (CloudInfinit+AI) confirmed"
+  },
+  {
+    "company_id": "6fdb5892-0c0f-4822-a1fb-034a764c9e89",
+    "company_name": "Alembic AI",
+    "agent_qa_score": 58,
+    "issues": ["HQ listed as Palo Alto, CA — actual HQ is San Francisco (SOMA district)", "Website listed as alembic.ai — correct site is alembic.com", "Funding severely understated — $30M+ in DB vs $145M+ raised (Series B, Nov 2025)", "Supercomputer is hosted at Equinix colo (not owned outright) — GPU RVG applicability depends on ownership structure", "Primary business is causal AI analytics/marketing intelligence, not a GPU cloud provider for third parties"],
+    "recommendation": "Re-enrich: fix HQ, website, funding; clarify GPU ownership structure before RVG pitch — they own HPC hardware for internal use, not a cloud operator per se",
+    "checks_run": "web presence check, VentureBeat/BusinessWire funding verification, HQ location via LinkedIn/Crunchbase, website verification, supercomputer ownership model review"
+  },
+  {
+    "company_id": "3fc6e562-68cd-4b9c-9a7b-1e41b2641af5",
+    "company_name": "Nimbix / Penguin Solutions",
+    "agent_qa_score": 48,
+    "issues": ["Critical data error: Nimbix was acquired by Atos (now Eviden) in 2021 — NOT by SMART Global Holdings / Penguin Solutions", "Penguin Solutions and Nimbix are two entirely separate companies that were conflated into one record", "Nimbix is now operating under Eviden (Atos spin-off) branding", "Contact data may belong to wrong entity — needs full disambiguation and re-enrichment", "Dallas HQ may apply to Nimbix but not Penguin Solutions (different location)"],
+    "recommendation": "Split into two records or pick one correct entity; data is fundamentally wrong on corporate ownership — do not outreach until disambiguated",
+    "checks_run": "Atos acquisition of Nimbix 2021 verified (Atos press release/DCD), Penguin Solutions / SMART Global Holdings verified separately, corporate structure disambiguation"
+  },
+  {
+    "company_id": "4218ff06-cc18-4f76-9b75-dd3f2f44c155",
+    "company_name": "Colo-X",
+    "agent_qa_score": 22,
+    "issues": ["Real Colo-X (colo-x.com) is a UK data center BROKERAGE/CONSULTANCY — not a Nordic GPU cloud operator", "Company is UK-focused (150+ UK data centers in their directory), not based in Copenhagen", "No evidence of operating any GPU infrastructure — they help clients find data centers, they don't run them", "Description in DB ('Nordic GPU and HPC cloud provider. Operates data centers in Denmark') is fundamentally inaccurate", "HQ listed as Copenhagen, Denmark — actual company appears UK-based", "May be a case of mistaken identity with a different company (e.g. Kolos, Kolo DC, or another Nordic provider)"],
+    "recommendation": "Do not outreach — record appears to be wrong company entirely. Investigate whether a different Nordic GPU cloud provider was intended (e.g. Kolos, LeaderGPU, Genesis Cloud Nordic). Remove or replace record.",
+    "checks_run": "Direct website check (colo-x.com), web search for Nordic GPU cloud identity, UK brokerage model confirmed, no GPU operations found"
+  }
+]

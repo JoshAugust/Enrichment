@@ -1,0 +1,578 @@
+{
+  "Lambda Labs|Stephen Balaban": {
+    "name": "Stephen Balaban",
+    "company": "Lambda Labs",
+    "phone": null,
+    "allPhones": [],
+    "email": "s@lambda.ai",
+    "allEmails": [
+      "s@lambda.ai"
+    ],
+    "title": "Co-Founder & CEO",
+    "linkedin": "https://linkedin.com/in/sbalaban"
+  },
+  "Lambda Labs|Michael Balaban": {
+    "name": "Michael Balaban",
+    "company": "Lambda Labs",
+    "phone": null,
+    "allPhones": [],
+    "email": "m@lambda.ai",
+    "allEmails": [
+      "m@lambda.ai"
+    ],
+    "title": "Co-Founder & CTO",
+    "linkedin": ""
+  },
+  "Lambda Labs|Robert Brooks IV": {
+    "name": "Robert Brooks IV",
+    "company": "Lambda Labs",
+    "phone": null,
+    "allPhones": [],
+    "email": "robert@lambdal.com",
+    "allEmails": [
+      "robert@lambdal.com"
+    ],
+    "title": "Chief Commercial Officer",
+    "linkedin": "http://www.linkedin.com/in/boborado"
+  },
+  "Lambda Labs|Peter Seibold": {
+    "name": "Peter Seibold",
+    "company": "Lambda Labs",
+    "phone": null,
+    "allPhones": [],
+    "email": null,
+    "allEmails": [],
+    "title": "CFO",
+    "linkedin": ""
+  },
+  "Crusoe Energy Systems|Chase Lochmiller": {
+    "name": "Chase Lochmiller",
+    "company": "Crusoe Energy Systems",
+    "phone": null,
+    "allPhones": [],
+    "email": "chase@crusoe.ai",
+    "allEmails": [
+      "chase@crusoe.ai"
+    ],
+    "title": "Co-Founder Related to Search Terms in Your Query and Chief Executive Officer Related to Search Terms in Your Query",
+    "linkedin": "http://www.linkedin.com/in/chase-lochmiller-604483341"
+  },
+  "Crusoe Energy Systems|Cully Cavness": {
+    "name": "Cully Cavness",
+    "company": "Crusoe Energy Systems",
+    "phone": null,
+    "allPhones": [],
+    "email": "cully@crusoe.ai",
+    "allEmails": [
+      "cully@crusoe.ai"
+    ],
+    "title": "Co-Founder, President and Chief Strategy Officer",
+    "linkedin": "http://www.linkedin.com/in/ccavness"
+  },
+  "Crusoe Energy Systems|Nadav Eiron": {
+    "name": "Nadav Eiron",
+    "company": "Crusoe Energy Systems",
+    "phone": null,
+    "allPhones": [],
+    "email": null,
+    "allEmails": [],
+    "title": "SVP Cloud Engineering",
+    "linkedin": "http://www.linkedin.com/in/nadav-eiron"
+  },
+  "Applied Digital (APLD)|Wes Cummins": {
+    "name": "Wes Cummins",
+    "company": "Applied Digital (APLD)",
+    "phone": null,
+    "allPhones": [],
+    "email": "wes@applieddigital.com",
+    "allEmails": [
+      "wes@applieddigital.com"
+    ],
+    "title": "Founder, CEO and Chairman",
+    "linkedin": "http://www.linkedin.com/in/wes-cummins-63114481"
+  },
+  "Verda (formerly DataCrunch)|Leena Kassinen": {
+    "name": "Leena Kassinen",
+    "company": "Verda (formerly DataCrunch)",
+    "phone": null,
+    "allPhones": [],
+    "email": "leena@datacrunch.io",
+    "allEmails": [
+      "leena@datacrunch.io"
+    ],
+    "title": "Head of Capital Markets",
+    "linkedin": "http://www.linkedin.com/in/leena-kassinen-9053a454"
+  },
+  "Voltage Park / Lightning AI|Ozan Kaya": {
+    "name": "Ozan Kaya",
+    "company": "Voltage Park / Lightning AI",
+    "phone": null,
+    "allPhones": [],
+    "email": "ozan@newhealth.media",
+    "allEmails": [
+      "ozan@newhealth.media"
+    ],
+    "title": "Director of International Operations",
+    "linkedin": "http://www.linkedin.com/in/ozankaya"
+  },
+  "Voltage Park / Lightning AI|Saurabh Giri": {
+    "name": "Saurabh Giri",
+    "company": "Voltage Park / Lightning AI",
+    "phone": null,
+    "allPhones": [],
+    "email": "saurabh@voltagepark.com",
+    "allEmails": [
+      "saurabh@voltagepark.com"
+    ],
+    "title": "Chief Product and Technology Officer",
+    "linkedin": "http://www.linkedin.com/in/saurabh-giri"
+  },
+  "Vultr|J.J. Kardwell": {
+    "name": "J.J. Kardwell",
+    "company": "Vultr",
+    "phone": null,
+    "allPhones": [],
+    "email": null,
+    "allEmails": [],
+    "title": "CEO",
+    "linkedin": "https://linkedin.com/in/jjkardwell"
+  },
+  "Vultr|Matt Short": {
+    "name": "Matt Short",
+    "company": "Vultr",
+    "phone": null,
+    "allPhones": [],
+    "email": "mshort@vultr.com",
+    "allEmails": [
+      "mshort@vultr.com"
+    ],
+    "title": "Senior Vice President- Global Finance and Accounting",
+    "linkedin": "http://www.linkedin.com/in/matt-short-75a6b713"
+  },
+  "Nscale|Josh Payne": {
+    "name": "Josh Payne",
+    "company": "Nscale",
+    "phone": null,
+    "allPhones": [],
+    "email": "josh@nscale.com",
+    "allEmails": [
+      "josh@nscale.com"
+    ],
+    "title": "Founder & Chief Executive Officer",
+    "linkedin": "http://www.linkedin.com/in/josh-payne"
+  },
+  "TeraWulf|Sean Farrell": {
+    "name": "Sean Farrell",
+    "company": "TeraWulf",
+    "phone": null,
+    "allPhones": [],
+    "email": "farrell@terawulf.com",
+    "allEmails": [
+      "farrell@terawulf.com"
+    ],
+    "title": "Chief Operating Officer",
+    "linkedin": "http://www.linkedin.com/in/sean-farrell-6636374b"
+  },
+  "TeraWulf|Paul Prager": {
+    "name": "Paul Prager",
+    "company": "TeraWulf",
+    "phone": null,
+    "allPhones": [],
+    "email": "prager@terawulf.com",
+    "allEmails": [
+      "prager@terawulf.com"
+    ],
+    "title": "Co-Founder & Chief Executive Officer",
+    "linkedin": "http://www.linkedin.com/in/paul-b-prager"
+  },
+  "IREN (formerly Iris Energy)|Daniel Roberts": {
+    "name": "Daniel Roberts",
+    "company": "IREN (formerly Iris Energy)",
+    "phone": null,
+    "allPhones": [],
+    "email": "daniel@joltcharge.com",
+    "allEmails": [
+      "daniel@joltcharge.com"
+    ],
+    "title": "Director",
+    "linkedin": "http://www.linkedin.com/in/daniel-roberts-b767444"
+  },
+  "IREN (formerly Iris Energy)|William Roberts": {
+    "name": "William Roberts",
+    "company": "IREN (formerly Iris Energy)",
+    "phone": null,
+    "allPhones": [],
+    "email": null,
+    "allEmails": [],
+    "title": "Co-Founder & Co-CEO",
+    "linkedin": ""
+  },
+  "FluidStack|David King": {
+    "name": "David King",
+    "company": "FluidStack",
+    "phone": null,
+    "allPhones": [],
+    "email": null,
+    "allEmails": [],
+    "title": "CEO & Co-Founder",
+    "linkedin": ""
+  },
+  "GMI Cloud|Geoff Gordon": {
+    "name": "Geoff Gordon",
+    "company": "GMI Cloud",
+    "phone": null,
+    "allPhones": [],
+    "email": null,
+    "allEmails": [],
+    "title": "Co-Founder",
+    "linkedin": ""
+  },
+  "Hut 8|Asher Genoot": {
+    "name": "Asher Genoot",
+    "company": "Hut 8",
+    "phone": null,
+    "allPhones": [],
+    "email": "asher@hut8.com",
+    "allEmails": [
+      "asher@hut8.com"
+    ],
+    "title": "Chief Executive Officer",
+    "linkedin": "http://www.linkedin.com/in/ashergenoot"
+  },
+  "QScale|Martin Bouchard": {
+    "name": "Martin Bouchard",
+    "company": "QScale",
+    "phone": null,
+    "allPhones": [],
+    "email": "mbouchard@qscale.com",
+    "allEmails": [
+      "mbouchard@qscale.com"
+    ],
+    "title": "President / Chairman",
+    "linkedin": "http://www.linkedin.com/in/martin-bouchard-1a9940210"
+  },
+  "Salad Cloud|Michael Intrator": {
+    "name": "Michael Intrator",
+    "company": "Salad Cloud",
+    "phone": null,
+    "allPhones": [],
+    "email": "david@smarterstorytelling.com",
+    "allEmails": [
+      "david@smarterstorytelling.com"
+    ],
+    "title": "Chief Meaning Officer",
+    "linkedin": "http://www.linkedin.com/in/intrator"
+  },
+  "RunPod|Zhen Qian": {
+    "name": "Zhen Qian",
+    "company": "RunPod",
+    "phone": null,
+    "allPhones": [],
+    "email": "zhen.qian@motiva.com",
+    "allEmails": [
+      "zhen.qian@motiva.com"
+    ],
+    "title": "Financial Reporting & Technical Accounting Manager",
+    "linkedin": "http://www.linkedin.com/in/zhenqian"
+  },
+  "Northern Data Group|Aroosh Thillainadarajah": {
+    "name": "Aroosh Thillainadarajah",
+    "company": "Northern Data Group",
+    "phone": null,
+    "allPhones": [],
+    "email": "aroosh.purushothaman@amadeus.com",
+    "allEmails": [
+      "aroosh.purushothaman@amadeus.com"
+    ],
+    "title": "Lead Architect",
+    "linkedin": "http://www.linkedin.com/in/aroosh"
+  },
+  "Northern Data Group|Rosanne Kincaid-Smith": {
+    "name": "Rosanne Kincaid-Smith",
+    "company": "Northern Data Group",
+    "phone": null,
+    "allPhones": [],
+    "email": "vol@nebius.com",
+    "allEmails": [
+      "vol@nebius.com"
+    ],
+    "title": "Co-founder and CEO",
+    "linkedin": "http://www.linkedin.com/in/arkady-volozh"
+  },
+  "E2E Networks|Tarun Dua": {
+    "name": "Tarun Dua",
+    "company": "E2E Networks",
+    "phone": null,
+    "allPhones": [],
+    "email": "tarundua@e2enetworks.com",
+    "allEmails": [
+      "tarundua@e2enetworks.com"
+    ],
+    "title": "Founder",
+    "linkedin": "http://www.linkedin.com/in/tarundua"
+  },
+  "Together AI|Vipul Ved Prakash": {
+    "name": "Vipul Ved Prakash",
+    "company": "Together AI",
+    "phone": null,
+    "allPhones": [],
+    "email": "vipul@together.ai",
+    "allEmails": [
+      "vipul@together.ai"
+    ],
+    "title": "Co-Founder & CEO",
+    "linkedin": "http://www.linkedin.com/in/vipulved"
+  },
+  "Together AI|Ce Zhang": {
+    "name": "Ce Zhang",
+    "company": "Together AI",
+    "phone": null,
+    "allPhones": [],
+    "email": "ce@together.ai",
+    "allEmails": [
+      "ce@together.ai"
+    ],
+    "title": "Co-Founder, CTO",
+    "linkedin": "http://www.linkedin.com/in/ce-zhang-6aa37419"
+  },
+  "Gcore|Andre Reitenbach": {
+    "name": "Andre Reitenbach",
+    "company": "Gcore",
+    "phone": null,
+    "allPhones": [],
+    "email": "andre.reitenbach@gcore.com",
+    "allEmails": [
+      "andre.reitenbach@gcore.com"
+    ],
+    "title": "CEO & CoFounder",
+    "linkedin": "http://www.linkedin.com/in/andre-reitenbach-92a49020"
+  },
+  "Yotta Infrastructure|Sunil Gupta": {
+    "name": "Sunil Gupta",
+    "company": "Yotta Infrastructure",
+    "phone": null,
+    "allPhones": [],
+    "email": "sgupta@yotta.com",
+    "allEmails": [
+      "sgupta@yotta.com"
+    ],
+    "title": "Cofounder, Managing Director & CEO",
+    "linkedin": "http://www.linkedin.com/in/sunilgupta1701"
+  },
+  "TensorWave|Piotr Tomasik": {
+    "name": "Piotr Tomasik",
+    "company": "TensorWave",
+    "phone": null,
+    "allPhones": [],
+    "email": "piotr@tensorwave.com",
+    "allEmails": [
+      "piotr@tensorwave.com"
+    ],
+    "title": "Co-Founder, President & COO",
+    "linkedin": "http://www.linkedin.com/in/ptomasik"
+  },
+  "Baseten|Tuhin Srivastava": {
+    "name": "Tuhin Srivastava",
+    "company": "Baseten",
+    "phone": null,
+    "allPhones": [],
+    "email": "tuhin.samaddar@ifrc.org",
+    "allEmails": [
+      "tuhin.samaddar@ifrc.org"
+    ],
+    "title": "Co-Founder",
+    "linkedin": "http://www.linkedin.com/in/tuhins"
+  },
+  "Baseten|Amir Haghighat": {
+    "name": "Amir Haghighat",
+    "company": "Baseten",
+    "phone": null,
+    "allPhones": [],
+    "email": "amir@baseten.co",
+    "allEmails": [
+      "amir@baseten.co"
+    ],
+    "title": "Co-founder",
+    "linkedin": "http://www.linkedin.com/in/amirhaghighat"
+  },
+  "Foundry / Mithril|Asher Genoot": {
+    "name": "Asher Genoot",
+    "company": "Foundry / Mithril",
+    "phone": null,
+    "allPhones": [],
+    "email": "asher@hut8.com",
+    "allEmails": [
+      "asher@hut8.com"
+    ],
+    "title": "Chief Executive Officer",
+    "linkedin": "http://www.linkedin.com/in/ashergenoot"
+  },
+  "Nebius Group|Arkady Volozh": {
+    "name": "Arkady Volozh",
+    "company": "Nebius Group",
+    "phone": null,
+    "allPhones": [],
+    "email": "vol@nebius.com",
+    "allEmails": [
+      "vol@nebius.com"
+    ],
+    "title": "Co-founder and CEO",
+    "linkedin": "http://www.linkedin.com/in/arkady-volozh"
+  },
+  "Nebius Group|Oleg Gorobets": {
+    "name": "Oleg Gorobets",
+    "company": "Nebius Group",
+    "phone": null,
+    "allPhones": [],
+    "email": null,
+    "allEmails": [],
+    "title": "CFO",
+    "linkedin": ""
+  },
+  "OVHcloud|Michel Paulin": {
+    "name": "Michel Paulin",
+    "company": "OVHcloud",
+    "phone": null,
+    "allPhones": [],
+    "email": null,
+    "allEmails": [],
+    "title": "Board Member Quandela the Quantum Photonic Leader",
+    "linkedin": "http://www.linkedin.com/in/michel-paulin-5a4042155"
+  },
+  "Fireworks AI|Lin Qiao": {
+    "name": "Lin Qiao",
+    "company": "Fireworks AI",
+    "phone": null,
+    "allPhones": [],
+    "email": "lin_qiao@manulife.com",
+    "allEmails": [
+      "lin_qiao@manulife.com"
+    ],
+    "title": "Sr. Solution Architect",
+    "linkedin": "http://www.linkedin.com/in/linqiao"
+  },
+  "Cirrascale Cloud Services|Chris Weiss": {
+    "name": "Chris Weiss",
+    "company": "Cirrascale Cloud Services",
+    "phone": null,
+    "allPhones": [],
+    "email": null,
+    "allEmails": [],
+    "title": "CEO",
+    "linkedin": "https://linkedin.com/in/chrisweiss-cirrascale"
+  },
+  "DataBank|Raul Martynek": {
+    "name": "Raul Martynek",
+    "company": "DataBank",
+    "phone": null,
+    "allPhones": [],
+    "email": "rmartynek@databank.com",
+    "allEmails": [
+      "rmartynek@databank.com"
+    ],
+    "title": "Chief Executive Officer",
+    "linkedin": "http://www.linkedin.com/in/raulmartynek"
+  },
+  "Massed Compute|Amir Haghighat": {
+    "name": "Amir Haghighat",
+    "company": "Massed Compute",
+    "phone": null,
+    "allPhones": [],
+    "email": null,
+    "allEmails": [],
+    "title": "Co-Founder & CTO",
+    "linkedin": ""
+  },
+  "CoreWeave|Michael Intrator": {
+    "name": "Michael Intrator",
+    "company": "CoreWeave",
+    "phone": null,
+    "allPhones": [],
+    "email": "david@smarterstorytelling.com",
+    "allEmails": [
+      "david@smarterstorytelling.com"
+    ],
+    "title": "Chief Meaning Officer",
+    "linkedin": "http://www.linkedin.com/in/intrator"
+  },
+  "CoreWeave|Nikhil Naik": {
+    "name": "Nikhil Naik",
+    "company": "CoreWeave",
+    "phone": null,
+    "allPhones": [],
+    "email": "nnaik@amazon.com",
+    "allEmails": [
+      "nnaik@amazon.com"
+    ],
+    "title": "Sr. Manager Software Development",
+    "linkedin": "http://www.linkedin.com/in/nikhilnaik"
+  },
+  "CoreWeave|Brannin McBee": {
+    "name": "Brannin McBee",
+    "company": "CoreWeave",
+    "phone": null,
+    "allPhones": [],
+    "email": null,
+    "allEmails": [],
+    "title": "Chief Strategy Officer",
+    "linkedin": "https://linkedin.com/in/brannin-mcbee"
+  },
+  "Bit Digital|Sam Tabar": {
+    "name": "Sam Tabar",
+    "company": "Bit Digital",
+    "phone": null,
+    "allPhones": [],
+    "email": "stabar@tesla.com",
+    "allEmails": [
+      "stabar@tesla.com"
+    ],
+    "title": "Service Technician",
+    "linkedin": "http://www.linkedin.com/in/samtabar"
+  },
+  "PhoenixNAP|Ian McClarty": {
+    "name": "Ian McClarty",
+    "company": "PhoenixNAP",
+    "phone": null,
+    "allPhones": [],
+    "email": "ian@phoenixnap.com",
+    "allEmails": [
+      "ian@phoenixnap.com"
+    ],
+    "title": "President",
+    "linkedin": "http://www.linkedin.com/in/mcclarty"
+  },
+  "Scaleway (Iliad Group)|Damien Lucas": {
+    "name": "Damien Lucas",
+    "company": "Scaleway (Iliad Group)",
+    "phone": null,
+    "allPhones": [],
+    "email": "dlucas@scaleway.com",
+    "allEmails": [
+      "dlucas@scaleway.com"
+    ],
+    "title": "Chief Executive Officer",
+    "linkedin": "http://www.linkedin.com/in/damien-lucas-8386081"
+  },
+  "Satya Cloud (formerly CtrlS)|Sridhar Pinnapureddy": {
+    "name": "Sridhar Pinnapureddy",
+    "company": "Satya Cloud (formerly CtrlS)",
+    "phone": null,
+    "allPhones": [],
+    "email": null,
+    "allEmails": [],
+    "title": "Founder & CEO",
+    "linkedin": "https://linkedin.com/in/sridharpinnapureddy"
+  },
+  "Denvr Dataworks|David King": {
+    "name": "David King",
+    "company": "Denvr Dataworks",
+    "phone": null,
+    "allPhones": [],
+    "email": "dave@perpetual-intelligence.com",
+    "allEmails": [
+      "dave@perpetual-intelligence.com"
+    ],
+    "title": "Chief Executive Officer",
+    "linkedin": "http://www.linkedin.com/in/david-king-901768b"
+  }
+}

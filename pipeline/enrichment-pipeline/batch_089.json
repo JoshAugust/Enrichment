@@ -1,0 +1,584 @@
+[
+  {
+    "name": "SOFTWARE OUTFITTERS INC",
+    "state": "KS",
+    "year_incorporated": "2003",
+    "nace": "5829",
+    "employees": "17",
+    "revenue_usd": 2040000,
+    "pl_before_tax": null,
+    "total_assets": null,
+    "equity": null,
+    "website": "www.softwareoutfitters.com",
+    "description": null,
+    "contacts": [
+      {
+        "name": "Mr Rob Harsh",
+        "title": "President"
+      }
+    ]
+  },
+  {
+    "name": "NETCHEMIA, LLC",
+    "state": "KS",
+    "year_incorporated": "2001",
+    "nace": "5829",
+    "employees": "50",
+    "revenue_usd": 2040000,
+    "pl_before_tax": null,
+    "total_assets": null,
+    "equity": null,
+    "website": "www.netchemia.com",
+    "description": "Cloud-based teaching talent management and employment software developer",
+    "contacts": [
+      {
+        "name": "Shelby Cowart",
+        "title": "Inside Sales Account Executive"
+      }
+    ]
+  },
+  {
+    "name": "STIMULANT",
+    "state": "CA",
+    "year_incorporated": "2007",
+    "nace": "5829",
+    "employees": "11",
+    "revenue_usd": 2040000,
+    "pl_before_tax": null,
+    "total_assets": null,
+    "equity": null,
+    "website": "www.stimulant.io",
+    "description": "Stimulant was founded in 2007 and is headquartered in San Francisco, CA. It is an event planning and production firm. The company's services include creative direction and strategic development, software development, hardware systems design and integratio",
+    "contacts": [
+      {
+        "name": "Mr Darren David",
+        "title": "Chief Executive Officer"
+      },
+      {
+        "name": "Mr Darren David",
+        "title": "Founder & Chief Executive Officer; Shareholder"
+      },
+      {
+        "name": "Mr Patria Zandi",
+        "title": "Staff Accountant and Office Manager"
+      },
+      {
+        "name": "Mr Mark Stewart Coleran",
+        "title": "Executive Director - Creative"
+      },
+      {
+        "name": "Mr Jules Konig",
+        "title": "Director-ART"
+      }
+    ]
+  },
+  {
+    "name": "SAVEDAILY.COM, INC.",
+    "state": "CA",
+    "year_incorporated": "1999",
+    "nace": "5829",
+    "employees": "19",
+    "revenue_usd": 2037000,
+    "pl_before_tax": null,
+    "total_assets": null,
+    "equity": null,
+    "website": "www.savedaily.com",
+    "description": "Record keeping software developer",
+    "contacts": [
+      {
+        "name": "Mr Jeffrey Wade Mahony",
+        "title": "Chairman & Chief Architect"
+      },
+      {
+        "name": "Mr Stan L Smith",
+        "title": "Chief Executive Officer"
+      },
+      {
+        "name": "Mr Gregory D Vacca",
+        "title": "President"
+      },
+      {
+        "name": "Ms Maritza Montoya",
+        "title": "Customer Support Representative"
+      }
+    ]
+  },
+  {
+    "name": "PROFOUND STRATEGY LLC",
+    "state": "WI",
+    "year_incorporated": "2019",
+    "nace": "5829",
+    "employees": "35",
+    "revenue_usd": 2030000,
+    "pl_before_tax": null,
+    "total_assets": null,
+    "equity": null,
+    "website": "www.profoundstrategy.com",
+    "description": null,
+    "contacts": [
+      {
+        "name": "Mr Nathaniel Dame",
+        "title": "Manager"
+      },
+      {
+        "name": "Mr Nathaniel Dame",
+        "title": "Contact"
+      }
+    ]
+  },
+  {
+    "name": "DOCUMATE, INC.",
+    "state": "CA",
+    "year_incorporated": "2015",
+    "nace": "5829",
+    "employees": "17",
+    "revenue_usd": 2030000,
+    "pl_before_tax": null,
+    "total_assets": null,
+    "equity": null,
+    "website": "www.documate.org",
+    "description": null,
+    "contacts": [
+      {
+        "name": "Dorna Moini",
+        "title": "No specific function"
+      }
+    ]
+  },
+  {
+    "name": "AMBITION SOLUTIONS, INC.",
+    "state": "TN",
+    "year_incorporated": "2013",
+    "nace": "5829",
+    "employees": "90",
+    "revenue_usd": 2030000,
+    "pl_before_tax": null,
+    "total_assets": null,
+    "equity": null,
+    "website": "www.ambition.com",
+    "description": "Online sales team management Software-as-a-Service (SaaS) provider",
+    "contacts": [
+      {
+        "name": "Mr Jared Houghton",
+        "title": "Shareholder; Co-Founder"
+      },
+      {
+        "name": "Mr Brian Trautschold",
+        "title": "Shareholder; Co-Founder"
+      },
+      {
+        "name": "Mr Travis Truett",
+        "title": "Shareholder; Co-Founder"
+      }
+    ]
+  },
+  {
+    "name": "MAGNA SYSTEMS INTERNATIONAL INC.",
+    "state": "MI",
+    "year_incorporated": "1996",
+    "nace": "5829",
+    "employees": "50",
+    "revenue_usd": 2030000,
+    "pl_before_tax": null,
+    "total_assets": null,
+    "equity": null,
+    "website": "www.magna-systems.com",
+    "description": null,
+    "contacts": []
+  },
+  {
+    "name": "MARKETBRIGHT, INC.",
+    "state": "CA",
+    "year_incorporated": "2008",
+    "nace": "5829",
+    "employees": "25",
+    "revenue_usd": 2000000,
+    "pl_before_tax": null,
+    "total_assets": null,
+    "equity": null,
+    "website": "www.marketbright.com",
+    "description": null,
+    "contacts": []
+  },
+  {
+    "name": "INNOV8 COMPUTER SOLUTIONS LLC",
+    "state": "NJ",
+    "year_incorporated": "1995",
+    "nace": "5829",
+    "employees": "20",
+    "revenue_usd": 2000000,
+    "pl_before_tax": null,
+    "total_assets": null,
+    "equity": null,
+    "website": "www.processwareerp.com",
+    "description": null,
+    "contacts": []
+  },
+  {
+    "name": "BIZNESS APPS INC",
+    "state": "CA",
+    "year_incorporated": "2013",
+    "nace": "5829",
+    "employees": "70",
+    "revenue_usd": 2000000,
+    "pl_before_tax": null,
+    "total_assets": null,
+    "equity": null,
+    "website": "buildfire.com",
+    "description": "Mobile applications creation and management online platform operator",
+    "contacts": [
+      {
+        "name": "Mr Larry Blair",
+        "title": "Chief Executive Officer"
+      },
+      {
+        "name": "Mr Ian Cameron Blair",
+        "title": "Secretary"
+      },
+      {
+        "name": "Mr Steve Moore",
+        "title": "Secretary"
+      },
+      {
+        "name": "Ms Ann Mccabe",
+        "title": "Agent"
+      },
+      {
+        "name": "Mr Nic Hughart",
+        "title": "Vice President Sales"
+      },
+      {
+        "name": "Mr Brian Cross",
+        "title": "Consultant"
+      },
+      {
+        "name": "Mr Daniel Hindi",
+        "title": "Other"
+      },
+      {
+        "name": "Mr Andrew Gazdecki",
+        "title": "President"
+      }
+    ]
+  },
+  {
+    "name": "NORLABS INC",
+    "state": "MD",
+    "year_incorporated": "2018",
+    "nace": "5829",
+    "employees": "55",
+    "revenue_usd": 2000000,
+    "pl_before_tax": null,
+    "total_assets": null,
+    "equity": null,
+    "website": "www.cloudtamer.io",
+    "description": null,
+    "contacts": [
+      {
+        "name": "Mr Brian Price",
+        "title": "Chief Executive Officer"
+      }
+    ]
+  },
+  {
+    "name": "FORIO BUSINESS SIMULATIONS",
+    "state": "CA",
+    "year_incorporated": "2008",
+    "nace": "5829",
+    "employees": "15",
+    "revenue_usd": 2000000,
+    "pl_before_tax": null,
+    "total_assets": null,
+    "equity": null,
+    "website": "forio.com",
+    "description": null,
+    "contacts": []
+  },
+  {
+    "name": "LIVEKIT INCORPORATED",
+    "state": "CA",
+    "year_incorporated": "2021",
+    "nace": "5829",
+    "employees": "14",
+    "revenue_usd": 1990000,
+    "pl_before_tax": null,
+    "total_assets": null,
+    "equity": null,
+    "website": "livekit.io",
+    "description": "Voice AI agents creation, deployment and scaling platform operator",
+    "contacts": [
+      {
+        "name": "Russell D Sa",
+        "title": "Chief Financial Officer"
+      }
+    ]
+  },
+  {
+    "name": "CAPITAL TECHNOLOGY SOLUTIONS INC.",
+    "state": "TX",
+    "year_incorporated": "2019",
+    "nace": "5829",
+    "employees": "20",
+    "revenue_usd": 1990000,
+    "pl_before_tax": null,
+    "total_assets": null,
+    "equity": null,
+    "website": "www.capitaltechnologysolutions.com",
+    "description": null,
+    "contacts": [
+      {
+        "name": "Mr Stephen Blair Silverberg",
+        "title": "President"
+      }
+    ]
+  },
+  {
+    "name": "BRIGHT PLANET CORP",
+    "state": "SD",
+    "year_incorporated": null,
+    "nace": "5829",
+    "employees": "14",
+    "revenue_usd": 1980000,
+    "pl_before_tax": null,
+    "total_assets": null,
+    "equity": null,
+    "website": "www.brightplanet.com",
+    "description": null,
+    "contacts": []
+  },
+  {
+    "name": "EUCLID TECHNOLOGY LLC",
+    "state": "MD",
+    "year_incorporated": "1997",
+    "nace": "5829",
+    "employees": "25",
+    "revenue_usd": 1980000,
+    "pl_before_tax": null,
+    "total_assets": null,
+    "equity": null,
+    "website": "www.euclidtechnology.com",
+    "description": "Online association management Software-as-a-Service (SaaS) platform operator",
+    "contacts": [
+      {
+        "name": "Mr Dan Antonoff",
+        "title": "Vice President of Sales"
+      },
+      {
+        "name": "Ms Emma Barnett",
+        "title": "Technical Trainer"
+      },
+      {
+        "name": "Jude Nyuydzefe",
+        "title": "Senior Technical Analyst"
+      },
+      {
+        "name": "Mr Mark Anderson",
+        "title": "Vice President, Web Services Group"
+      },
+      {
+        "name": "Mr Rohan Kothari",
+        "title": "Front End Web Developer"
+      },
+      {
+        "name": "Ms Michelle Mahre",
+        "title": "Senior Analyst"
+      }
+    ]
+  },
+  {
+    "name": "DOOZER SOFTWARE INC",
+    "state": "AL",
+    "year_incorporated": "1997",
+    "nace": "5829",
+    "employees": "50",
+    "revenue_usd": 1980000,
+    "pl_before_tax": null,
+    "total_assets": null,
+    "equity": null,
+    "website": "www.doozer.com",
+    "description": "Custom software developer ; IT staffing services ; Enterprise data services",
+    "contacts": [
+      {
+        "name": "Sandy Syx",
+        "title": "President"
+      },
+      {
+        "name": "Mr Barry Sykes",
+        "title": "Co-Founder; Shareholder"
+      },
+      {
+        "name": "Mr Ron Perkins",
+        "title": "Vice President"
+      },
+      {
+        "name": "Mr Heath Wade",
+        "title": "Director-Business Development"
+      },
+      {
+        "name": "Michele King",
+        "title": "No specific function"
+      },
+      {
+        "name": "Mr Barry Sykes",
+        "title": "Principal"
+      }
+    ]
+  },
+  {
+    "name": "UAV CORP",
+    "state": "SC",
+    "year_incorporated": null,
+    "nace": "5829",
+    "employees": "400",
+    "revenue_usd": 1960000,
+    "pl_before_tax": null,
+    "total_assets": null,
+    "equity": null,
+    "website": "www.uavco.com",
+    "description": "Engaged in the provision of computer programming services",
+    "contacts": []
+  },
+  {
+    "name": "FORCEBRAIN.COM, INC.",
+    "state": "GA",
+    "year_incorporated": "2016",
+    "nace": "5829",
+    "employees": "12",
+    "revenue_usd": 1960000,
+    "pl_before_tax": null,
+    "total_assets": null,
+    "equity": null,
+    "website": "sumoscheduler.com",
+    "description": null,
+    "contacts": [
+      {
+        "name": "Mr Jason North",
+        "title": "Secretary"
+      }
+    ]
+  },
+  {
+    "name": "VERADY, INC.",
+    "state": "GA",
+    "year_incorporated": "2016",
+    "nace": "5829",
+    "employees": "15",
+    "revenue_usd": 1960000,
+    "pl_before_tax": null,
+    "total_assets": null,
+    "equity": null,
+    "website": "www.verady.com",
+    "description": "Online audit and accounting platform operator",
+    "contacts": [
+      {
+        "name": "Mr James Canty",
+        "title": "Chief Executive Officer"
+      },
+      {
+        "name": "Mr Nathan Eppinger",
+        "title": "Secretary"
+      }
+    ]
+  },
+  {
+    "name": "PROLIFIQ SOFTWARE INC",
+    "state": "OR",
+    "year_incorporated": "2006",
+    "nace": "5829",
+    "employees": "18",
+    "revenue_usd": 1960000,
+    "pl_before_tax": null,
+    "total_assets": null,
+    "equity": null,
+    "website": "www.prolifiq.com",
+    "description": "Engaged in the provision of the most advanced mobile engagement softwareand CRM solution",
+    "contacts": [
+      {
+        "name": "Mr Jeff Farnsworth",
+        "title": "Founder"
+      },
+      {
+        "name": "Ms Susan Senf",
+        "title": "Chief Financial Officer"
+      },
+      {
+        "name": "Tuan Nguyen",
+        "title": "Director of Finance and Accounting"
+      },
+      {
+        "name": "Ms Mindy Chin",
+        "title": "Accountant & Human Resources Administrator"
+      },
+      {
+        "name": "Ms Marisa Levin",
+        "title": "Account Director"
+      },
+      {
+        "name": "Mr Brandon Coston",
+        "title": "Development Manager"
+      },
+      {
+        "name": "Ms Isabella Wong",
+        "title": "Product Manager"
+      },
+      {
+        "name": "Mr Dai Tran",
+        "title": "Producer"
+      },
+      {
+        "name": "Mr William Spriggs",
+        "title": "System Administrator"
+      },
+      {
+        "name": "Mr Jesse Grimm",
+        "title": "Salesforce Administrator"
+      },
+      {
+        "name": "Mr David Robert Joyce",
+        "title": "Vice President"
+      }
+    ]
+  },
+  {
+    "name": "SHIFT",
+    "state": "CA",
+    "year_incorporated": "2007",
+    "nace": "5829",
+    "employees": "25",
+    "revenue_usd": 1950000,
+    "pl_before_tax": null,
+    "total_assets": null,
+    "equity": null,
+    "website": "shift.com",
+    "description": "Engaged in the provision of emergency care, critical care transport services and other related services",
+    "contacts": []
+  },
+  {
+    "name": "SOCRADAR CYBER INTELLIGENCE INC",
+    "state": "VA",
+    "year_incorporated": null,
+    "nace": "5829",
+    "employees": "40",
+    "revenue_usd": 1950000,
+    "pl_before_tax": null,
+    "total_assets": null,
+    "equity": null,
+    "website": "socradar.io",
+    "description": null,
+    "contacts": []
+  },
+  {
+    "name": "SPATIALINFO INC",
+    "state": "CO",
+    "year_incorporated": "2011",
+    "nace": "5829",
+    "employees": "20",
+    "revenue_usd": 1949000,
+    "pl_before_tax": null,
+    "total_assets": null,
+    "equity": null,
+    "website": "www.spatialinfo.com",
+    "description": null,
+    "contacts": []
+  }
+]

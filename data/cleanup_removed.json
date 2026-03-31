@@ -1,0 +1,177 @@
+[
+  {
+    "company_name": "FIRST JUDICIAL PUBLIC DEFENDER",
+    "reason": "Government entity - not a business",
+    "original_status": "Unverified"
+  },
+  {
+    "company_name": "PINERIDGE APARTMENTS",
+    "reason": "Website is Walker, Michigan property - state and website mismatch unresolvable",
+    "original_status": "Discrepancy"
+  },
+  {
+    "company_name": "RIVER BANK",
+    "reason": "Source lists FL but company is Wisconsin bank - state mismatch, wrong lead",
+    "original_status": "Discrepancy"
+  },
+  {
+    "company_name": "MASTERWORKS CONSTRUCTION",
+    "reason": "masterworksconstructionmt.com is Montana company - state/website mismatch",
+    "original_status": "Discrepancy"
+  },
+  {
+    "company_name": "INSIGHTLY INC",
+    "reason": "Acquired/merged - absorbed into Unbounce July 2024 under Crest Rock Capital",
+    "original_status": "Discrepancy"
+  },
+  {
+    "company_name": "WWI CONTRACTING CORP (DUPLICATE ENTRY)",
+    "reason": "Duplicate entry",
+    "original_status": "Unverified"
+  },
+  {
+    "company_name": "GEORGIA GOVERNOR'S MANSION (MANSION.GEORGIA.GOV)",
+    "reason": "Data artifact - government building not a business",
+    "original_status": "Unverified"
+  },
+  {
+    "company_name": "PERSONALIZED AIR CONDITIONING, INC.",
+    "reason": "Acquired by Air Pros USA June 2022 - no longer independent",
+    "original_status": "Discrepancy"
+  },
+  {
+    "company_name": "PERSONALIZED AIR CONDITIONING, INC. (DUPLICATE ENTRY)",
+    "reason": "Duplicate entry",
+    "original_status": "Unverified"
+  },
+  {
+    "company_name": "NROTCU GEORGIA INSTITUTE OF TECHNOLOGY",
+    "reason": "Military ROTC unit - not a business",
+    "original_status": "Unverified"
+  },
+  {
+    "company_name": "WAGNER HIGH SCHOOL (KAREN WAGNER HIGH SCHOOL / JUDSON ISD)",
+    "reason": "Public school - not a private business",
+    "original_status": "Unverified"
+  },
+  {
+    "company_name": "WAGNER COMMUNITY SCHOOL DISTRICT",
+    "reason": "Public school district - not a private business",
+    "original_status": "Unverified"
+  },
+  {
+    "company_name": "BATAVIA CITY SCHOOL DISTRICT",
+    "reason": "Public school district - not a private business",
+    "original_status": "Unverified"
+  },
+  {
+    "company_name": "COUNTY OF JOHNSON (JOHNSON COUNTY, KY \u2014 PVA OFFICE)",
+    "reason": "Government office - not a business",
+    "original_status": "Discrepancy"
+  },
+  {
+    "company_name": "JOHNSON COUNTY, INDIANA (CO.JOHNSON.IN.US)",
+    "reason": "Government entity - not a business",
+    "original_status": "Unverified"
+  },
+  {
+    "company_name": "EASTGROUP PROPERTIES INC",
+    "reason": "Duplicate entry",
+    "original_status": "Unverified"
+  },
+  {
+    "company_name": "EASTGROUP PROPERTIES INC",
+    "reason": "Duplicate entry",
+    "original_status": "Unverified"
+  },
+  {
+    "company_name": "MARATHON MAIL SERVICE, INC.",
+    "reason": "Duplicate entry",
+    "original_status": "Unverified"
+  },
+  {
+    "company_name": "MARATHON MAIL SERVICE, INC.",
+    "reason": "Duplicate entry",
+    "original_status": "Unverified"
+  },
+  {
+    "company_name": "SOUTH BIG HORN COUNTY HOSPITAL DISTRICT",
+    "reason": "Duplicate entry",
+    "original_status": "Discrepancy"
+  },
+  {
+    "company_name": "SOUTH BIG HORN COUNTY HOSPITAL DISTRICT",
+    "reason": "Duplicate entry",
+    "original_status": "Unverified"
+  },
+  {
+    "company_name": "MONTPELIER SCHOOL DISTRICT 45",
+    "reason": "Public school district - not a private business",
+    "original_status": "Unverified"
+  },
+  {
+    "company_name": "CENTERSTONE HEALTH SERVICES, INC.",
+    "reason": "Duplicate entry",
+    "original_status": "Unverified"
+  },
+  {
+    "company_name": "CROSWELL OF WILLIAMSBURG LLC (CROSWELL BUS LINE INC) \u2014 SECONDARY CONTACT ENTRY",
+    "reason": "Duplicate entry",
+    "original_status": "Unverified"
+  },
+  {
+    "company_name": "GALLO-SCHWEGMANN PARTNERSHIP",
+    "reason": "Website gallo.com is E&J Gallo Winery - unresolvable mismatch, no alternative website found",
+    "original_status": "Discrepancy"
+  },
+  {
+    "company_name": "THE SYSTEMS DEPOT INC \u2014 SECONDARY ENTRY (NO CONTACT)",
+    "reason": "Duplicate entry",
+    "original_status": "Unverified"
+  },
+  {
+    "company_name": "LARRY METHVIN INSTALLATIONS INC (LMI)",
+    "reason": "Subsidiary of Patrick Industries (NASDAQ: PATK) since 2017 - no independent entity",
+    "original_status": "Discrepancy"
+  },
+  {
+    "company_name": "STEVEN W. SMITH DDS PLLC (SMITH FAMILY AND COSMETIC DENTISTRY) \u2014 SECONDARY ENTRY (NO CONTACT)",
+    "reason": "Duplicate entry",
+    "original_status": "Unverified"
+  },
+  {
+    "company_name": "WSI OF FL LAKE COUNTY HAULING (PROGRESSIVE WASTE SOLUTIONS OF FL / WASTE CONNECTIONS)",
+    "reason": "Defunct - absorbed into Waste Connections 2016",
+    "original_status": "Discrepancy"
+  },
+  {
+    "company_name": "ISCI HOLDINGS INC (DBA: BEAUTIFY SPA BY INTERNATIONAL SKIN CARE)",
+    "reason": "Website ckzholdings.com is wrong company - unresolvable mismatch",
+    "original_status": "Discrepancy"
+  },
+  {
+    "company_name": "CONCORDIA UNIVERSITY PORTLAND (CLOSED 2020)",
+    "reason": "Institution permanently closed July 2020",
+    "original_status": "Discrepancy"
+  },
+  {
+    "company_name": "GEORGIA PUBLIC SAFETY TRAINING CENTER",
+    "reason": "State government agency (Georgia Dept of Public Safety) \u2014 not a private business",
+    "original_status": "Discrepancy"
+  },
+  {
+    "company_name": "ELM CREST SENIOR LIVING COMMUNITY (elmcrest.net)",
+    "reason": "Duplicate of Elm Crest Retirement Community (same entity, different URL entry)",
+    "original_status": "Discrepancy"
+  },
+  {
+    "company_name": "Centerstone Health Services",
+    "reason": "Duplicate of Centerstone Health Services, Inc. (secondary entry without company name/state)",
+    "original_status": "Discrepancy"
+  },
+  {
+    "company_name": "Boardwalk Louisiana Midstream LLC",
+    "reason": "Wholly-owned subsidiary of Loews Corp \u2014 not an independent decision-making entity",
+    "original_status": "Unverified"
+  }
+]

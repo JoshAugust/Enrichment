@@ -1,0 +1,793 @@
+[
+  {
+    "name": "PERMABIT INC",
+    "state": "MA",
+    "year_incorporated": "2001",
+    "nace": "5829",
+    "employees": "50",
+    "revenue_usd": 2720000,
+    "pl_before_tax": null,
+    "total_assets": null,
+    "equity": null,
+    "website": "www.permabit.com",
+    "description": "Archive intelligence developer",
+    "contacts": []
+  },
+  {
+    "name": "APOLLO ENTERPRISE IMAGING CORP.",
+    "state": "VA",
+    "year_incorporated": "1993",
+    "nace": "5829",
+    "employees": "17",
+    "revenue_usd": 2720000,
+    "pl_before_tax": null,
+    "total_assets": null,
+    "equity": null,
+    "website": "www.apolloei.com",
+    "description": null,
+    "contacts": [
+      {
+        "name": "Mr Mark Newburger",
+        "title": "President & Chief Executive Officer"
+      },
+      {
+        "name": "Mr Roni Krause",
+        "title": "Regional Director of Sales"
+      },
+      {
+        "name": "Mr Jeffrey Mabus",
+        "title": "Chief Technology Officer"
+      },
+      {
+        "name": "Mr Rick Fry",
+        "title": "Development Program Manager"
+      },
+      {
+        "name": "Ms Katie Parten",
+        "title": "Technical Writer"
+      },
+      {
+        "name": "Ms Lisa Olivas",
+        "title": "Implementation Project Manager"
+      },
+      {
+        "name": "Mr Thomas Campbell",
+        "title": "Chief Clinical Information Officer"
+      },
+      {
+        "name": "Mr Brian Cole",
+        "title": "Director Clinical Solutions"
+      },
+      {
+        "name": "Mr Todd Freedman",
+        "title": "Regional Director of Enterprise Solutions"
+      },
+      {
+        "name": "Mr Jeffrey Buehler",
+        "title": "Software Developer"
+      },
+      {
+        "name": "Mr James Corbin",
+        "title": "Implementation Specialist"
+      },
+      {
+        "name": "Mr Paul Kelly",
+        "title": "Implementation Engineer"
+      }
+    ]
+  },
+  {
+    "name": "DISRUPTOR BEAM LLC",
+    "state": "MA",
+    "year_incorporated": "2010",
+    "nace": "5829",
+    "employees": "11",
+    "revenue_usd": 2720000,
+    "pl_before_tax": null,
+    "total_assets": null,
+    "equity": null,
+    "website": "www.disruptorbeam.com",
+    "description": "Online social network game platform operator ; Games developer",
+    "contacts": []
+  },
+  {
+    "name": "ADVANTAGE SOFTWARE",
+    "state": "MA",
+    "year_incorporated": "1984",
+    "nace": "5829",
+    "employees": "10",
+    "revenue_usd": 2720000,
+    "pl_before_tax": null,
+    "total_assets": null,
+    "equity": null,
+    "website": "www.advantagesoftware.com",
+    "description": null,
+    "contacts": []
+  },
+  {
+    "name": "HD ASSOCIATES, INC.",
+    "state": "MA",
+    "year_incorporated": "1993",
+    "nace": "5829",
+    "employees": "11",
+    "revenue_usd": 2720000,
+    "pl_before_tax": null,
+    "total_assets": null,
+    "equity": null,
+    "website": "www.hda.com",
+    "description": null,
+    "contacts": [
+      {
+        "name": "Peter J Dufault",
+        "title": "President"
+      },
+      {
+        "name": "Mr Gregory R Hirshan",
+        "title": "Clerk"
+      }
+    ]
+  },
+  {
+    "name": "PROXY NETWORKS, INC.",
+    "state": "MA",
+    "year_incorporated": "2006",
+    "nace": "5829",
+    "employees": "13",
+    "revenue_usd": 2720000,
+    "pl_before_tax": null,
+    "total_assets": null,
+    "equity": null,
+    "website": "www.proxynetworks.com",
+    "description": null,
+    "contacts": [
+      {
+        "name": "Mr Andrew H Kim",
+        "title": "Chief Executive Officer"
+      },
+      {
+        "name": "Mr Michael Deanda",
+        "title": "Secretary"
+      },
+      {
+        "name": "Mr Ross Cusack",
+        "title": "Business Development Representative"
+      },
+      {
+        "name": "Ms Amy E Carlo",
+        "title": "Controller"
+      },
+      {
+        "name": "Ms Brooke Baker",
+        "title": "Sales Manager - Us Direct"
+      },
+      {
+        "name": "Ms Milana Marsiano",
+        "title": "Sales Manager"
+      },
+      {
+        "name": "Mr Daniel Benoit",
+        "title": "Account Executive"
+      },
+      {
+        "name": "Mr Robert Bushinsky",
+        "title": "Account Executive"
+      },
+      {
+        "name": "Mr Robert Paul",
+        "title": "CTO"
+      },
+      {
+        "name": "Mr David Franklin",
+        "title": "Director Technical Support and Product Manager"
+      },
+      {
+        "name": "Mr Manuel Debettencourt",
+        "title": "Technical Support Engineer"
+      },
+      {
+        "name": "Mr Marcel Parnas",
+        "title": "Principal Engineer"
+      },
+      {
+        "name": "Mr Ryan Gallager",
+        "title": "Level 3 Product Support Technician / Implementations Wizard"
+      }
+    ]
+  },
+  {
+    "name": "PACTOLUS COMMUNICATIONS SOFTWARE CORPORATION",
+    "state": "MA",
+    "year_incorporated": "2000",
+    "nace": "5829",
+    "employees": "40",
+    "revenue_usd": 2720000,
+    "pl_before_tax": null,
+    "total_assets": null,
+    "equity": null,
+    "website": "www.pactolus.com",
+    "description": "Telecommunications network software developer",
+    "contacts": [
+      {
+        "name": "Mr Luis Miguel Yrivarren Celi",
+        "title": "Senior Investment Analyst"
+      }
+    ]
+  },
+  {
+    "name": "LABORSOFT, INC.",
+    "state": "MA",
+    "year_incorporated": "1997",
+    "nace": "5829",
+    "employees": "10",
+    "revenue_usd": 2720000,
+    "pl_before_tax": null,
+    "total_assets": null,
+    "equity": null,
+    "website": "www.laborsoft.com",
+    "description": null,
+    "contacts": [
+      {
+        "name": "Judd Lowe",
+        "title": "Vice President, Sales"
+      }
+    ]
+  },
+  {
+    "name": "MS TECHNOLOGIES CORP",
+    "state": "MD",
+    "year_incorporated": "2006",
+    "nace": "5829",
+    "employees": "12",
+    "revenue_usd": 2720000,
+    "pl_before_tax": null,
+    "total_assets": null,
+    "equity": null,
+    "website": "www.mstechnologies.com",
+    "description": null,
+    "contacts": [
+      {
+        "name": "Meiling L Cheng",
+        "title": "President"
+      },
+      {
+        "name": "Ms Mei Ling Cheng",
+        "title": "President"
+      },
+      {
+        "name": "Mr Shu Chuan Cheng",
+        "title": "Vice-President"
+      }
+    ]
+  },
+  {
+    "name": "AMERICAN FINANCIAL SYSTEMS",
+    "state": "MA",
+    "year_incorporated": "1993",
+    "nace": "5829",
+    "employees": "40",
+    "revenue_usd": 2720000,
+    "pl_before_tax": null,
+    "total_assets": null,
+    "equity": null,
+    "website": "www.afs-link.com",
+    "description": null,
+    "contacts": []
+  },
+  {
+    "name": "INCIPIENT INC",
+    "state": "MA",
+    "year_incorporated": "2001",
+    "nace": "5829",
+    "employees": "65",
+    "revenue_usd": 2720000,
+    "pl_before_tax": null,
+    "total_assets": null,
+    "equity": null,
+    "website": "www.incipient.com",
+    "description": "Enterprise storage and automated data migration software developer",
+    "contacts": []
+  },
+  {
+    "name": "INSTATRAC, INC.",
+    "state": "MA",
+    "year_incorporated": "2002",
+    "nace": "5829",
+    "employees": "15",
+    "revenue_usd": 2720000,
+    "pl_before_tax": null,
+    "total_assets": null,
+    "equity": null,
+    "website": "www.instatrac.com",
+    "description": null,
+    "contacts": [
+      {
+        "name": "Mr Michael H Segal",
+        "title": "Secretary"
+      },
+      {
+        "name": "Mr Steven Halpern",
+        "title": "Clerk"
+      },
+      {
+        "name": "Ms Kathleen Corrigan",
+        "title": "Legislative Researcher"
+      }
+    ]
+  },
+  {
+    "name": "REIFY HEALTH",
+    "state": "MA",
+    "year_incorporated": "2014",
+    "nace": "5829",
+    "employees": "1800",
+    "revenue_usd": 2720000,
+    "pl_before_tax": null,
+    "total_assets": null,
+    "equity": null,
+    "website": "www.reifyhealth.com",
+    "description": "Engaged in providing healthcare technology and clinical trial services",
+    "contacts": []
+  },
+  {
+    "name": "SPIRAL ENGINE COMPANY, LLC",
+    "state": "MA",
+    "year_incorporated": null,
+    "nace": "5829",
+    "employees": "50",
+    "revenue_usd": 2720000,
+    "pl_before_tax": null,
+    "total_assets": null,
+    "equity": null,
+    "website": "www.highroads.com",
+    "description": null,
+    "contacts": []
+  },
+  {
+    "name": "EIQNETWORKS, INC",
+    "state": "MA",
+    "year_incorporated": "2001",
+    "nace": "5829",
+    "employees": "85",
+    "revenue_usd": 2720000,
+    "pl_before_tax": null,
+    "total_assets": null,
+    "equity": null,
+    "website": "www.eiqnetworks.com",
+    "description": "Online security monitoring Software-as-a-Service (SaaS) provider",
+    "contacts": [
+      {
+        "name": "Mr Vijay Basani",
+        "title": "Co-Founder, President & Chief Executive Officer; Shareholder"
+      },
+      {
+        "name": "Mr Jay Reddy",
+        "title": "Co-Founder & General Manager; Shareholder"
+      }
+    ]
+  },
+  {
+    "name": "WELLABLE, LLC",
+    "state": "MA",
+    "year_incorporated": "2018",
+    "nace": "5829",
+    "employees": "35",
+    "revenue_usd": 2720000,
+    "pl_before_tax": null,
+    "total_assets": null,
+    "equity": null,
+    "website": "www.wellable.co",
+    "description": "Employees wellness technology platform operator",
+    "contacts": [
+      {
+        "name": "Mr Nick Patel",
+        "title": "President"
+      },
+      {
+        "name": "Ms Anna Siradze",
+        "title": "Director, Sales & Marketing"
+      },
+      {
+        "name": "Ms Chloe Dinh",
+        "title": "Content Marketing Intern"
+      },
+      {
+        "name": "Ms Kelsey Ferullo",
+        "title": "Senior Account Manager"
+      },
+      {
+        "name": "Ashley Hopkins",
+        "title": "Director of Wellness Program Success"
+      },
+      {
+        "name": "Ms Melissa Dupuis",
+        "title": "Director of Wellness Services"
+      },
+      {
+        "name": "Patel Nikur",
+        "title": "Manager"
+      }
+    ]
+  },
+  {
+    "name": "SEMATREE INC.",
+    "state": "MA",
+    "year_incorporated": "2001",
+    "nace": "5829",
+    "employees": "25",
+    "revenue_usd": 2720000,
+    "pl_before_tax": null,
+    "total_assets": null,
+    "equity": null,
+    "website": "www.sematree.com",
+    "description": null,
+    "contacts": [
+      {
+        "name": "Mr Michael Hills",
+        "title": "President"
+      },
+      {
+        "name": "Mr Anthony Devoe",
+        "title": "Secretary"
+      },
+      {
+        "name": "Mr Kenneth Chenis",
+        "title": "Treasurer"
+      },
+      {
+        "name": "Ms Kathy Hills",
+        "title": "Clerk"
+      },
+      {
+        "name": "Mr Sean Smyth",
+        "title": "Software Engineer"
+      }
+    ]
+  },
+  {
+    "name": "SIENA ANALYTICS, INC",
+    "state": "MA",
+    "year_incorporated": "2018",
+    "nace": "5829",
+    "employees": "15",
+    "revenue_usd": 2720000,
+    "pl_before_tax": null,
+    "total_assets": null,
+    "equity": null,
+    "website": "www.peaktech.com",
+    "description": "Supply chain and logistics analytics Software-as-a-Service (SaaS) provider",
+    "contacts": [
+      {
+        "name": "Mr John Dwinell",
+        "title": "President"
+      },
+      {
+        "name": "Ms Pamela Gianetti",
+        "title": "Chief Financial Officer"
+      },
+      {
+        "name": "Mr Richard Schaffer",
+        "title": "Data Scientist"
+      }
+    ]
+  },
+  {
+    "name": "STAYNTOUCH, INC.",
+    "state": "MD",
+    "year_incorporated": "2016",
+    "nace": "5829",
+    "employees": "65",
+    "revenue_usd": 2720000,
+    "pl_before_tax": null,
+    "total_assets": null,
+    "equity": null,
+    "website": "www.stayntouch.com",
+    "description": "Online cloud-based hotel management Software-as-a-Service (SaaS) provider",
+    "contacts": [
+      {
+        "name": "Mr Geerhard Jos Schaap",
+        "title": "President"
+      },
+      {
+        "name": "Ms Karen M Neill",
+        "title": "Vice President"
+      },
+      {
+        "name": "Gopkumar Sarangdharan",
+        "title": "Secretary"
+      },
+      {
+        "name": "Gopkumar Sarangdharan",
+        "title": "Chief Technology Officer"
+      },
+      {
+        "name": "Ms Danielle L Metzler",
+        "title": "Chief Financial Officer"
+      },
+      {
+        "name": "Ms Danielle L Metzler",
+        "title": "Treasurer"
+      },
+      {
+        "name": "Ms Nisha Singh",
+        "title": "Vice President, Sales"
+      },
+      {
+        "name": "Hayet Adhanom",
+        "title": "Director Sales"
+      },
+      {
+        "name": "Mr Ryan King",
+        "title": "Sales Director"
+      },
+      {
+        "name": "Mr Frewoini Golla",
+        "title": "Digital Marketing Manager"
+      },
+      {
+        "name": "Mr Richard Lujan",
+        "title": "Client Service Manager"
+      },
+      {
+        "name": "Ms Sarah Manaf",
+        "title": "Manager, Client Success"
+      },
+      {
+        "name": "Ms Nicole Dehler",
+        "title": "Vice President, Product Management"
+      },
+      {
+        "name": "Motti Tadmor",
+        "title": "Director Product Integrations"
+      },
+      {
+        "name": "Ms Angelique Aviles",
+        "title": "Project Coordinator"
+      },
+      {
+        "name": "Ms Amanda Trinity",
+        "title": "Project Coordinator"
+      },
+      {
+        "name": "Mr Sridhar Mudhagouni",
+        "title": "Dev Operations Manager"
+      },
+      {
+        "name": "Shihabudheen Kozhikoden",
+        "title": "Senior Software Engineer"
+      },
+      {
+        "name": "Mr Akshai Raj",
+        "title": "Software Engineer"
+      },
+      {
+        "name": "Peddrick Paul",
+        "title": "Corporate Recruiter"
+      },
+      {
+        "name": "Mr Aldrick Sholtz",
+        "title": "Implementation Consultant"
+      }
+    ]
+  },
+  {
+    "name": "CHARTER SOLUTIONS, INC.",
+    "state": "MN",
+    "year_incorporated": "1997",
+    "nace": "5829",
+    "employees": "51",
+    "revenue_usd": 2710000,
+    "pl_before_tax": null,
+    "total_assets": null,
+    "equity": null,
+    "website": "www.chartersolutions.com",
+    "description": "An innovative information technology solutions company specializing in management consulting, integration, application development, and experienced consultant professionals",
+    "contacts": [
+      {
+        "name": "Mr William John Leonard",
+        "title": "Co-Chief Executive Officer and Co-Founder"
+      },
+      {
+        "name": "Ms Grattan Rowland",
+        "title": "Chief Financial Officer"
+      },
+      {
+        "name": "Ms Susan Terres",
+        "title": "Accountant"
+      },
+      {
+        "name": "Puvana Reddy",
+        "title": "Director of Recruiting"
+      },
+      {
+        "name": "Mr Nick Fischer",
+        "title": "Senior Recruiter"
+      },
+      {
+        "name": "Mr Chad Holton",
+        "title": "Senior Recruiter"
+      },
+      {
+        "name": "Ms Suprita Rajguru",
+        "title": "Technical Recruiter"
+      },
+      {
+        "name": "Ms Stacy George",
+        "title": "Senior Director-Sales"
+      },
+      {
+        "name": "Ms Megan Grace",
+        "title": "Account Executive"
+      },
+      {
+        "name": "Krouze Michael",
+        "title": "Chief Technology Officer"
+      },
+      {
+        "name": "Mr Mark Baumbach",
+        "title": "Chief Operations Officer"
+      },
+      {
+        "name": "Mr Thomas Pfeffer",
+        "title": "Chief Information Officer"
+      },
+      {
+        "name": "Ms Diane Thibodeau",
+        "title": "Officer"
+      },
+      {
+        "name": "Dee Thibodeau",
+        "title": "No specific function"
+      }
+    ]
+  },
+  {
+    "name": "GCI LIVE LLC",
+    "state": "IL",
+    "year_incorporated": "2005",
+    "nace": "5829",
+    "employees": "11",
+    "revenue_usd": 2710000,
+    "pl_before_tax": null,
+    "total_assets": null,
+    "equity": null,
+    "website": "www.globalcents.com",
+    "description": null,
+    "contacts": []
+  },
+  {
+    "name": "PROPERTY SOLUTIONS",
+    "state": "UT",
+    "year_incorporated": "2003",
+    "nace": "5829",
+    "employees": "52",
+    "revenue_usd": 2710000,
+    "pl_before_tax": null,
+    "total_assets": null,
+    "equity": null,
+    "website": "www.propertysolutions.com",
+    "description": "Property Solutions International, Inc. was founded in 2003 and is headquartered in Provo, UT. It is a developer of apartment software platform. The company's products include ProspectPortal, ResidentPay, LeaseExecution, and more. It also offers marketing,",
+    "contacts": [
+      {
+        "name": "Mr David Jonathan Bateman",
+        "title": "Chief Executive Officer"
+      },
+      {
+        "name": "Mr Benjamin W Zimmer",
+        "title": "President"
+      },
+      {
+        "name": "Ms Chase Harrington",
+        "title": "Executive Vice President"
+      },
+      {
+        "name": "Mr John T Hanna",
+        "title": "Director, Sales"
+      },
+      {
+        "name": "Ms Dharmesh Schroff",
+        "title": "Chief Information Officer"
+      }
+    ]
+  },
+  {
+    "name": "BPO SYSTEMS",
+    "state": "CA",
+    "year_incorporated": "2004",
+    "nace": "5829",
+    "employees": "50",
+    "revenue_usd": 2700000,
+    "pl_before_tax": null,
+    "total_assets": null,
+    "equity": null,
+    "website": "www.bposystems.com",
+    "description": null,
+    "contacts": [
+      {
+        "name": "Mr David Martinez",
+        "title": "Board of Dirs"
+      },
+      {
+        "name": "Mr Bobby Yarlagadda",
+        "title": "Chief Executive Officer"
+      },
+      {
+        "name": "Mr Rambabu Yarlagadda",
+        "title": "President & Chief Executive Officer"
+      },
+      {
+        "name": "Mr Harold Rhineberger",
+        "title": "Vice President - Management"
+      },
+      {
+        "name": "Mr Bill Brown",
+        "title": "Director - Staffing Services"
+      }
+    ]
+  },
+  {
+    "name": "CURVO LABS, INC.",
+    "state": "IN",
+    "year_incorporated": "2012",
+    "nace": "5829",
+    "employees": "25",
+    "revenue_usd": 2700000,
+    "pl_before_tax": null,
+    "total_assets": null,
+    "equity": null,
+    "website": "www.curvolabs.com",
+    "description": "Online clinical spend management platform operator",
+    "contacts": [
+      {
+        "name": "Mr Andrew S Perry",
+        "title": "Chief Executive Officer & Co-Founder"
+      },
+      {
+        "name": "Mr Andrew S Perry",
+        "title": "Officer"
+      },
+      {
+        "name": "Mr Steve Suhrheinrich",
+        "title": "Co-Founder"
+      },
+      {
+        "name": "Mr Dave Mehta",
+        "title": "Business Development"
+      },
+      {
+        "name": "Mr Nic Sagez",
+        "title": "Chief Technology Officer"
+      },
+      {
+        "name": "Ms Jenny Vance",
+        "title": "Chief Revenue Officer"
+      }
+    ]
+  },
+  {
+    "name": "PRODUCTABLE INC.",
+    "state": "TX",
+    "year_incorporated": "2020",
+    "nace": "5829",
+    "employees": "15",
+    "revenue_usd": 2700000,
+    "pl_before_tax": null,
+    "total_assets": null,
+    "equity": null,
+    "website": "www.beproductable.com",
+    "description": null,
+    "contacts": [
+      {
+        "name": "Ms Rachel Conn",
+        "title": "Officer"
+      },
+      {
+        "name": "Mr Andrew Conn",
+        "title": "No specific function"
+      },
+      {
+        "name": "Ms Rachel Kuhr",
+        "title": "President"
+      }
+    ]
+  }
+]

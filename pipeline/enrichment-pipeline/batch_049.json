@@ -1,0 +1,1176 @@
+[
+  {
+    "name": "ARCHEMEDX INC",
+    "state": "VA",
+    "year_incorporated": "2013",
+    "nace": "5829",
+    "employees": "14",
+    "revenue_usd": 4670000,
+    "pl_before_tax": null,
+    "total_assets": null,
+    "equity": null,
+    "website": "www.archemedx.com",
+    "description": null,
+    "contacts": [
+      {
+        "name": "Mr Joel Selzer",
+        "title": "Chairman"
+      }
+    ]
+  },
+  {
+    "name": "PROXIMITY CORP",
+    "state": "CA",
+    "year_incorporated": null,
+    "nace": "5829",
+    "employees": "30",
+    "revenue_usd": 4660000,
+    "pl_before_tax": null,
+    "total_assets": null,
+    "equity": null,
+    "website": "www.proximitygroup.com",
+    "description": "Creative media asset management and production workflow software provider",
+    "contacts": []
+  },
+  {
+    "name": "RIGHT REZ INC",
+    "state": "IN",
+    "year_incorporated": "2003",
+    "nace": "5829",
+    "employees": "10",
+    "revenue_usd": 4650000,
+    "pl_before_tax": null,
+    "total_assets": null,
+    "equity": null,
+    "website": "www.rightrez.com",
+    "description": null,
+    "contacts": [
+      {
+        "name": "Mr James Quinn",
+        "title": "President"
+      }
+    ]
+  },
+  {
+    "name": "BRADFORD SOFTWARE & LICENSIN",
+    "state": "NC",
+    "year_incorporated": null,
+    "nace": "5829",
+    "employees": "12",
+    "revenue_usd": 4640000,
+    "pl_before_tax": null,
+    "total_assets": null,
+    "equity": null,
+    "website": "www.bradfordsoftwarelicensing.com",
+    "description": null,
+    "contacts": []
+  },
+  {
+    "name": "DOUBLE DOG COMMUNICATIONS, INC.",
+    "state": "PA",
+    "year_incorporated": "1997",
+    "nace": "5829",
+    "employees": "11",
+    "revenue_usd": 4630000,
+    "pl_before_tax": null,
+    "total_assets": null,
+    "equity": null,
+    "website": "www.doubledogcommunications.com",
+    "description": null,
+    "contacts": [
+      {
+        "name": "Mr Glenn C Rexroth",
+        "title": "Vice President"
+      },
+      {
+        "name": "Mr David H Hagan JR",
+        "title": "Officer"
+      },
+      {
+        "name": "Mr Ernest L Preston JR",
+        "title": "Officer"
+      }
+    ]
+  },
+  {
+    "name": "ACCUREV, INC.",
+    "state": "MA",
+    "year_incorporated": "1998",
+    "nace": "5829",
+    "employees": "45",
+    "revenue_usd": 4612000,
+    "pl_before_tax": null,
+    "total_assets": null,
+    "equity": null,
+    "website": "www.accurev.com",
+    "description": "Software configuration management (SCM) technology developer",
+    "contacts": []
+  },
+  {
+    "name": "CRELATE, INC",
+    "state": "WA",
+    "year_incorporated": "2019",
+    "nace": "5829",
+    "employees": "55",
+    "revenue_usd": 4610000,
+    "pl_before_tax": null,
+    "total_assets": null,
+    "equity": null,
+    "website": "www.crelate.com",
+    "description": null,
+    "contacts": [
+      {
+        "name": "Mr Jason Hoback",
+        "title": "President"
+      },
+      {
+        "name": "Mr Robert Mahy",
+        "title": "Secretary"
+      },
+      {
+        "name": "Ms Katie Stiles",
+        "title": "Secretary"
+      },
+      {
+        "name": "Ms Katie Stiles",
+        "title": "Vice President, Finance & Operations"
+      },
+      {
+        "name": "Ms Liz Townsend",
+        "title": "Account Executive"
+      },
+      {
+        "name": "Ms Bryanna Garza",
+        "title": "Customer Success Specialist"
+      },
+      {
+        "name": "Ms Chelsie Pettit",
+        "title": "Customer Success Specialist"
+      },
+      {
+        "name": "Brittanie Sanders",
+        "title": "Customer Success Specialist"
+      },
+      {
+        "name": "Mr Erik Pool",
+        "title": "Lead Software Developer"
+      },
+      {
+        "name": "Mr Aaron Elder",
+        "title": "Chief Executive"
+      },
+      {
+        "name": "Ms Stephanie Norwood",
+        "title": "Manager, On-Boarding & Custom Services"
+      }
+    ]
+  },
+  {
+    "name": "COLLAGES NET INC",
+    "state": "PA",
+    "year_incorporated": "2001",
+    "nace": "5829",
+    "employees": "42",
+    "revenue_usd": 4600000,
+    "pl_before_tax": null,
+    "total_assets": null,
+    "equity": null,
+    "website": "www.collages.net",
+    "description": "Professional photographic internet services",
+    "contacts": [
+      {
+        "name": "Mr Kevin Casey",
+        "title": "President & Chief Executive Officer"
+      },
+      {
+        "name": "Mr Corey Palmer",
+        "title": "Software Developer"
+      }
+    ]
+  },
+  {
+    "name": "RAPTOR TECHNOLOGIES, LLC",
+    "state": "TX",
+    "year_incorporated": "2003",
+    "nace": "5829",
+    "employees": "15",
+    "revenue_usd": 4600000,
+    "pl_before_tax": null,
+    "total_assets": null,
+    "equity": null,
+    "website": "www.raptorware.com",
+    "description": "Engaged in the provision of school safety technologies",
+    "contacts": [
+      {
+        "name": "Mr Robert Gray Hall",
+        "title": "Chief Executive Officer"
+      },
+      {
+        "name": "Mr Robert Gray Hall",
+        "title": "Manager"
+      },
+      {
+        "name": "Mr Lauri Wray",
+        "title": "Controller"
+      },
+      {
+        "name": "Mr Dan Trepanier",
+        "title": "Vice President, Sales and Marketing"
+      },
+      {
+        "name": "Mr David Rogers",
+        "title": "Chief Marketing Officer"
+      },
+      {
+        "name": "Mr Schad Donald",
+        "title": "Manager"
+      },
+      {
+        "name": "Mr James Vesterman",
+        "title": "Manager"
+      },
+      {
+        "name": "Mr James Vesterman",
+        "title": "Member"
+      },
+      {
+        "name": "Mr James Vesterman",
+        "title": "Real Property"
+      }
+    ]
+  },
+  {
+    "name": "TRICERAT, INC.",
+    "state": "MD",
+    "year_incorporated": "1997",
+    "nace": "5829",
+    "employees": "30",
+    "revenue_usd": 4600000,
+    "pl_before_tax": null,
+    "total_assets": null,
+    "equity": null,
+    "website": "www.tricerat.com",
+    "description": "Sales Office",
+    "contacts": [
+      {
+        "name": "Mr Murphy Baker",
+        "title": "Assistant Vice President Human Resources"
+      },
+      {
+        "name": "Mr Andrew Parlette",
+        "title": "Vice President Product Development"
+      },
+      {
+        "name": "Mr Paul David",
+        "title": "Technical Support Manager"
+      },
+      {
+        "name": "Mr Alan Auman",
+        "title": "Assistant Vice President Information Systems / Futurist"
+      }
+    ]
+  },
+  {
+    "name": "JET ENTERPRISE LLC",
+    "state": "LA",
+    "year_incorporated": "2015",
+    "nace": "5829",
+    "employees": "15",
+    "revenue_usd": 4590000,
+    "pl_before_tax": null,
+    "total_assets": null,
+    "equity": null,
+    "website": "pelicanstatetreating.com",
+    "description": null,
+    "contacts": [
+      {
+        "name": "Mr Whitney Brooke Robinson",
+        "title": "Member, Manager"
+      },
+      {
+        "name": "Mr Edward Colvin Robinson III",
+        "title": "Member"
+      }
+    ]
+  },
+  {
+    "name": "INDIGO BIOSYSTEMS INC",
+    "state": "IN",
+    "year_incorporated": "2006",
+    "nace": "5829",
+    "employees": "38",
+    "revenue_usd": 4579000,
+    "pl_before_tax": null,
+    "total_assets": null,
+    "equity": null,
+    "website": "www.indigobio.com",
+    "description": "Automated data review software publisher ; Data management services",
+    "contacts": [
+      {
+        "name": "Kelsey A Vance",
+        "title": "Secretary"
+      },
+      {
+        "name": "Mr Bill Stewart",
+        "title": "Chief Financial Officer"
+      },
+      {
+        "name": "Mr David Vissing",
+        "title": "Director Sales"
+      },
+      {
+        "name": "Mr Tim Lancaster",
+        "title": "Vice President of Product Development"
+      },
+      {
+        "name": "Mr Adam Zabell",
+        "title": "Product Manager / Scientist"
+      },
+      {
+        "name": "Mr Jim Edwards",
+        "title": "Vice President - Product Management"
+      },
+      {
+        "name": "Mr Brian Huff",
+        "title": "Director of Quality and Regulatory Affairs"
+      },
+      {
+        "name": "Mr Peter Winton",
+        "title": "Software Developer"
+      }
+    ]
+  },
+  {
+    "name": "PLANSIGHT, INC.",
+    "state": "UT",
+    "year_incorporated": "2020",
+    "nace": "5829",
+    "employees": "30",
+    "revenue_usd": 4570000,
+    "pl_before_tax": null,
+    "total_assets": null,
+    "equity": null,
+    "website": "www.plansight.com",
+    "description": null,
+    "contacts": [
+      {
+        "name": "Mr Steven Overton",
+        "title": "President"
+      },
+      {
+        "name": "Mr Steven Overton",
+        "title": "Secretary"
+      },
+      {
+        "name": "Mr Christopher Toyn",
+        "title": "Chief Financial Officer"
+      },
+      {
+        "name": "Mr James A Horton",
+        "title": "Officer"
+      },
+      {
+        "name": "Mr James A Horton",
+        "title": "Director"
+      },
+      {
+        "name": "Mr David Sitterud",
+        "title": "Officer"
+      },
+      {
+        "name": "Mr David Sitterud",
+        "title": "Director"
+      }
+    ]
+  },
+  {
+    "name": "T STAMP INC. (DE)",
+    "state": "GA",
+    "year_incorporated": "2016",
+    "nace": "5829",
+    "employees": "10",
+    "revenue_usd": 4560000,
+    "pl_before_tax": null,
+    "total_assets": null,
+    "equity": null,
+    "website": "www.truststamp.ai",
+    "description": "AI-based identity and photo verification Software-as-a-Service (SaaS) provider",
+    "contacts": [
+      {
+        "name": "Mr David Story",
+        "title": "Chairman"
+      },
+      {
+        "name": "Ms Kristin Stafford",
+        "title": "Board of Dirs"
+      },
+      {
+        "name": "Mr Gareth N Genner",
+        "title": "Chief Executive Officer"
+      },
+      {
+        "name": "Mr Andrew Carl Gowasack",
+        "title": "President"
+      },
+      {
+        "name": "Mr Alexander Valdes",
+        "title": "Chief Financial Officer & Executive Vice President"
+      },
+      {
+        "name": "Mr Lance Wilson",
+        "title": "Chief Financial Officer"
+      },
+      {
+        "name": "Mr Andrew Scott Francis",
+        "title": "CTO"
+      },
+      {
+        "name": "Mr Norman Poh",
+        "title": "Chief Science Officer"
+      },
+      {
+        "name": "Mr Joshua Allen",
+        "title": "Director"
+      },
+      {
+        "name": "Ms Barbara Genner",
+        "title": "Organizer"
+      }
+    ]
+  },
+  {
+    "name": "VERITAS NL INTERMEDIATE HOLDINGS BV",
+    "state": "CA",
+    "year_incorporated": null,
+    "nace": "5829",
+    "employees": "11",
+    "revenue_usd": 4560000,
+    "pl_before_tax": null,
+    "total_assets": null,
+    "equity": null,
+    "website": "www.veritas.com",
+    "description": null,
+    "contacts": []
+  },
+  {
+    "name": "WANCLOUDS, INC.",
+    "state": "CA",
+    "year_incorporated": "2013",
+    "nace": "5829",
+    "employees": "13",
+    "revenue_usd": 4550000,
+    "pl_before_tax": null,
+    "total_assets": null,
+    "equity": null,
+    "website": "www.wanclouds.net",
+    "description": null,
+    "contacts": [
+      {
+        "name": "Mr Faiz Khan",
+        "title": "Chief Executive Officer"
+      },
+      {
+        "name": "Mr Amit Ajit Parikh",
+        "title": "Secretary"
+      }
+    ]
+  },
+  {
+    "name": "SPIDEROAK, INC.",
+    "state": "KS",
+    "year_incorporated": "2016",
+    "nace": "5829",
+    "employees": "40",
+    "revenue_usd": 4550000,
+    "pl_before_tax": null,
+    "total_assets": null,
+    "equity": null,
+    "website": "spideroak.com",
+    "description": null,
+    "contacts": [
+      {
+        "name": "Mr George 'Kip W. Gering IV",
+        "title": "Chief Executive Officer"
+      },
+      {
+        "name": "Mr Dave Pearah Pearah",
+        "title": "President"
+      },
+      {
+        "name": "Mr Dave Pearah Pearah",
+        "title": "Secretary"
+      },
+      {
+        "name": "Mr Michael Madden",
+        "title": "Secretary"
+      },
+      {
+        "name": "Mr Michael Madden",
+        "title": "Vice President of Finance"
+      },
+      {
+        "name": "Ms Christina Trakas",
+        "title": "Human Resources Assistant"
+      },
+      {
+        "name": "Ms Elizabeth Stoops",
+        "title": "Compliance Analyst"
+      }
+    ]
+  },
+  {
+    "name": "BANZAI INTERNATIONAL, INC.",
+    "state": "WA",
+    "year_incorporated": "2016",
+    "nace": "5829",
+    "employees": "28",
+    "revenue_usd": 4528000,
+    "pl_before_tax": null,
+    "total_assets": null,
+    "equity": null,
+    "website": "www.banzai.io",
+    "description": "Marketing Software-as-a-Service (SaaS) provider",
+    "contacts": [
+      {
+        "name": "Mr Jack Michael Leeney",
+        "title": "President, CEO, PARTNER-7GC & CO SARL & Chairman"
+      },
+      {
+        "name": "Mr M. Joseph Beck",
+        "title": "Board of Dirs"
+      },
+      {
+        "name": "Mr Patrick Eggen",
+        "title": "Board of Dirs"
+      },
+      {
+        "name": "Mr Thomas D Hennessy",
+        "title": "Board of Dirs"
+      },
+      {
+        "name": "Mr Tripp Jones",
+        "title": "Board of Dirs"
+      },
+      {
+        "name": "Ms Courtney Robinson",
+        "title": "Board of Dirs"
+      },
+      {
+        "name": "Mr Kent S. Schofield",
+        "title": "Board of Dirs"
+      },
+      {
+        "name": "Mr Joseph Patrick Davy",
+        "title": "Chief Executive Officer"
+      },
+      {
+        "name": "Mr Christopher Walsh",
+        "title": "CFO, COO & Sec"
+      },
+      {
+        "name": "Mr Alvin Siu Kau Yip",
+        "title": "Chief Financial Officer"
+      },
+      {
+        "name": "Ms Paula D Boggs",
+        "title": "Director"
+      }
+    ]
+  },
+  {
+    "name": "DESTINY MEDIA TECHNOLOGIES INC.",
+    "state": "NV",
+    "year_incorporated": "2014",
+    "nace": "5829",
+    "employees": "30",
+    "revenue_usd": 4524450,
+    "pl_before_tax": -637880,
+    "total_assets": 2966840,
+    "equity": 2422590,
+    "website": "www.dsny.com",
+    "description": "Destiny Media Technologies, Inc. provides software as service (SaaS) solutions to businesses in the music industry solving critical problems in distribution and promotion. The core service, Caster +, is the provider of music promotional delivery services. The Company develops technologies that allow for the distribution over the Internet of digital media files in either a streaming or digital download format. Caster platform is a comprehensive campaign management software-offering end-to-end music marketing functionality. Its other products and services are Caster, Quickshare, Player, MTR (Music Tracking Radar), and Clipstream.",
+    "contacts": [
+      {
+        "name": "Mr Hyonmyong Cho",
+        "title": "Chairman of the Board, Interim Chief Executive Officer"
+      },
+      {
+        "name": "S. Jay Graber",
+        "title": "Independent Director"
+      },
+      {
+        "name": "Mr David Mossberg",
+        "title": "Independent Director"
+      },
+      {
+        "name": "Mr David Summers",
+        "title": "Independent Director"
+      },
+      {
+        "name": "Ms Andrea Mundie",
+        "title": "General Manager"
+      },
+      {
+        "name": "Ms Andrea Mundie",
+        "title": "Chief Operating Officer"
+      },
+      {
+        "name": "Mr Frederick Vandenberg",
+        "title": "President & Chief Executive Officer"
+      },
+      {
+        "name": "Mr Frederick Vandenberg",
+        "title": "Director"
+      },
+      {
+        "name": "Mr Glenn Mattern",
+        "title": "Director-Business Development"
+      },
+      {
+        "name": "Ms Lisa Embree",
+        "title": "Chief Financial Officer & Treasurer"
+      },
+      {
+        "name": "Ms Olya Massalitina",
+        "title": "Chief Financial Officer"
+      },
+      {
+        "name": "Assel Mendesh",
+        "title": "Chief Financial Officer"
+      },
+      {
+        "name": "Mr Samuel Ritchie",
+        "title": "Chief Financial Officer & Treasurer"
+      },
+      {
+        "name": "Mr Sergei Berenson",
+        "title": "Director of Engineering"
+      },
+      {
+        "name": "Mr Darren Martz",
+        "title": "Director - Software Development"
+      },
+      {
+        "name": "Mr Pete Aganon",
+        "title": "Senior Manager Technical Support"
+      },
+      {
+        "name": "Mr Pete Aganon",
+        "title": "Senior Manager"
+      },
+      {
+        "name": "Ms Ro Fernandez",
+        "title": "Director of Product Development"
+      },
+      {
+        "name": "Mr Rick Ramsay",
+        "title": "Director - Product Management"
+      },
+      {
+        "name": "Ms Faina Shpund",
+        "title": "Director - Product Management"
+      },
+      {
+        "name": "Mr Alen Vitasovic",
+        "title": "Director - Operations"
+      },
+      {
+        "name": "Ms Rebecca Collins",
+        "title": "Operations Manager"
+      },
+      {
+        "name": "Mr Allan Benedict",
+        "title": "Director"
+      },
+      {
+        "name": "Mr Brett Gilmour",
+        "title": "Director"
+      },
+      {
+        "name": "Mr Hyonmyong Cho",
+        "title": "Independent Chairman of the Board"
+      },
+      {
+        "name": "Mr Frederick Vandenberg",
+        "title": "President, Chief Executive Officer, Corporate Secretary, Director"
+      }
+    ]
+  },
+  {
+    "name": "ROUGH STONE SOFTWARE, LLC",
+    "state": "PA",
+    "year_incorporated": "2009",
+    "nace": "5829",
+    "employees": "16",
+    "revenue_usd": 4520000,
+    "pl_before_tax": null,
+    "total_assets": null,
+    "equity": null,
+    "website": "www.roughstone.com",
+    "description": null,
+    "contacts": []
+  },
+  {
+    "name": "CULINARY SOFTWARE SERVICES INC",
+    "state": "CO",
+    "year_incorporated": "1991",
+    "nace": "5829",
+    "employees": "15",
+    "revenue_usd": 4520000,
+    "pl_before_tax": null,
+    "total_assets": null,
+    "equity": null,
+    "website": "www.culinarysoftware.com",
+    "description": "Engaged in the provision of restaurant and foodservice software to chefs, owners, operators, caterers, and other foodservice professionals in the foodservice industry",
+    "contacts": [
+      {
+        "name": "Mr Kevin Paider",
+        "title": "Manager, Training"
+      },
+      {
+        "name": "Mr Bryan Counts",
+        "title": "Vice President, Operations & Sales"
+      }
+    ]
+  },
+  {
+    "name": "REALPHA TECH CORPORATION",
+    "state": "OH",
+    "year_incorporated": "2020",
+    "nace": "5829",
+    "employees": "113",
+    "revenue_usd": 4518500,
+    "pl_before_tax": -17590390,
+    "total_assets": 21717330,
+    "equity": 12510590,
+    "website": "www.realpha.com",
+    "description": "reAlpha Tech Corp. is a real estate technology company developing an end-to-end commission-free home buying platform, namely, the reAlpha platform. The reAlpha platform integrates artificial intelligence (AI)-driven tools to offer tailored property recommendations, an intuitive visual interface, mortgage brokering, digital title and escrow services within the platform. The reAlpha platform assists homebuyers with tasks such as mortgage pre-approval, booking tours, sending offer letters and completing property acquisitions. The reAlpha platform also provides market insights, detailed property data, and uses large language models to answer queries and facilitate the homebuying process via a user-friendly, 24/7 Web platform and iOS application. It operates in the Technology services segment, which offers and develops AI-based products and services to customers in various industries, including, but not limited to, the real estate, retail, hospitality and education industries.",
+    "contacts": [
+      {
+        "name": "Mr Giri Devanur",
+        "title": "Chief Executive Officer"
+      },
+      {
+        "name": "Mr Giri Devanur",
+        "title": "Founder; Shareholder (Ultimate owner)"
+      },
+      {
+        "name": "Mr Dimitrios Angelis",
+        "title": "Chairman (Corporate Governance Committee)"
+      },
+      {
+        "name": "Mr Dimitrios Angelis",
+        "title": "Co Founder of Several Startups, Including Sparta Biomedical"
+      },
+      {
+        "name": "Mr Brian Cole",
+        "title": "Member (Board of Directors)"
+      },
+      {
+        "name": "Mr Brian Cole",
+        "title": "Chairman (Compensation Committee)"
+      },
+      {
+        "name": "Mr Calvin Cooper",
+        "title": "Advisor (Board of Directors)"
+      },
+      {
+        "name": "Ms Monaz Karkaria",
+        "title": "Director (Board of Directors)"
+      },
+      {
+        "name": "Mr Balaji Viswanathan Swaminathan",
+        "title": "Member (Board of Directors)"
+      },
+      {
+        "name": "Mr Balaji Viswanathan Swaminathan",
+        "title": "Chairman (Audit Committee)"
+      },
+      {
+        "name": "Mr Ramesh Pathak",
+        "title": "Chief Executive Officer"
+      },
+      {
+        "name": "Mr Kester Poh",
+        "title": "Chief Executive Officer"
+      },
+      {
+        "name": "Ms Supriya Rayamajhi",
+        "title": "IR Manager and PR Executive"
+      },
+      {
+        "name": "Mr Gajendra Basnet",
+        "title": "Head of Finance"
+      },
+      {
+        "name": "Mr Piyush Phadke",
+        "title": "Chief Financial Officer"
+      },
+      {
+        "name": "Mr Hosur Rama Prasad Rakesh Prasad",
+        "title": "Vice President of Finance"
+      },
+      {
+        "name": "Mr C A Tejas Gupta",
+        "title": "Senior Finance Associate"
+      },
+      {
+        "name": "Mr Nikhil Besta",
+        "title": "Financial Reporting Manager"
+      },
+      {
+        "name": "Mr Shaishab Paudel",
+        "title": "Senior Financial Analyst"
+      },
+      {
+        "name": "Ms Archana R",
+        "title": "Senior Human Resources Associate"
+      },
+      {
+        "name": "Ms Valerie Cheng",
+        "title": "Vice President of Sales and Marketing"
+      },
+      {
+        "name": "Mr Barun Pandey",
+        "title": "Chief Marketing Officer"
+      },
+      {
+        "name": "Mr Sashank Khaling Rai",
+        "title": "Head of Marketing"
+      },
+      {
+        "name": "Mr Pramit Dabadi",
+        "title": "Investor Communications Manager"
+      },
+      {
+        "name": "Mr Prem Kumar",
+        "title": "Digital Marketing Manager"
+      },
+      {
+        "name": "Mr Shenang Rai",
+        "title": "Performance Marketing Manager"
+      },
+      {
+        "name": "Ms Archana Rakesh Prasad",
+        "title": "Customer Success Manager"
+      },
+      {
+        "name": "Mr Saramsha Dotel",
+        "title": "Chief Technology Officer"
+      },
+      {
+        "name": "Mr Aakrit Subedi",
+        "title": "Engineering Manager"
+      },
+      {
+        "name": "Mr Dave Chuang",
+        "title": "Chief Product Officer"
+      },
+      {
+        "name": "Mr Plato Ghinos",
+        "title": "Managing Director of Shaner Italia"
+      },
+      {
+        "name": "Mr Plato Ghinos",
+        "title": "President of Shaner Hotels"
+      },
+      {
+        "name": "Mr Nathan Knottingham",
+        "title": "Chief Operating Officer"
+      },
+      {
+        "name": "Mr Sureet Pabbi",
+        "title": "Vice President of Mergers and Acquisitions"
+      },
+      {
+        "name": "Mr Vinayak Grover",
+        "title": "Assistant Vice President of International Mergers and Acquisitions"
+      },
+      {
+        "name": "Mr Dru Rai",
+        "title": "Chief Information Officer of the State of New York"
+      },
+      {
+        "name": "Mr Anusandhan Pokhrel",
+        "title": "Head of Design"
+      },
+      {
+        "name": "Mr Avishekh Shrestha",
+        "title": "Head of AI"
+      },
+      {
+        "name": "Ms Malorie Hamner",
+        "title": "Pipeline Manager"
+      },
+      {
+        "name": "Ms Steph Wright",
+        "title": "Pipeline Manager"
+      },
+      {
+        "name": "Mr Pranjal Pokharel",
+        "title": "Senior Software Engineer"
+      },
+      {
+        "name": "Mr Sabin Subedi",
+        "title": "Senior Software Engineer"
+      },
+      {
+        "name": "Ms Kritika Baral",
+        "title": "Senior Product Designer"
+      },
+      {
+        "name": "Mr Paul Cecil",
+        "title": "Vice President of Strategy"
+      },
+      {
+        "name": "Mr Ashraf Jilani Shaikh",
+        "title": "Senior Content Writer"
+      },
+      {
+        "name": "Mr Bibek Shrestha",
+        "title": "Senior Product Designer"
+      },
+      {
+        "name": "Mr Giri Devanur",
+        "title": "Chairman of the Board, President, Chief Executive Officer"
+      },
+      {
+        "name": "Mr Dimitrios Angelis",
+        "title": "Independent Director"
+      },
+      {
+        "name": "Mr Brian Cole",
+        "title": "Independent Director"
+      },
+      {
+        "name": "Ms Monaz Karkaria",
+        "title": "Director"
+      },
+      {
+        "name": "Mr Balaji Viswanathan Swaminathan",
+        "title": "Independent Director"
+      },
+      {
+        "name": "Mr Michael J. Logozzo",
+        "title": "President, Interim Chief Financial Officer, Chief Operating Officer; Chief Executive Officer, Interim Chief Operating Officer"
+      },
+      {
+        "name": "Mr Michael J. Logozzo",
+        "title": "President, Chief Operating Officer"
+      },
+      {
+        "name": "Mr Michael J. Logozzo",
+        "title": "Chief Financial Officer"
+      },
+      {
+        "name": "Mr Michael C Frenz",
+        "title": "Chief Financial Officer"
+      },
+      {
+        "name": "Mr William Brent Miller",
+        "title": "Chief Financial Officer, (Principal Financial and Accounting Officer)"
+      },
+      {
+        "name": "Mr Piyush Phadke",
+        "title": "Chief Financial Officer, Principal Financial and Accounting Officer"
+      },
+      {
+        "name": "Mr Hosur Rama Prasad Rakesh Prasad",
+        "title": "Interim Chief Financial Officer, (Principal Financial and Accounting Officer); Vice President - Finance"
+      },
+      {
+        "name": "Ms Christie Currie",
+        "title": "Chief Marketing Officer"
+      },
+      {
+        "name": "Mr Cristol Rippe",
+        "title": "Chief Marketing Officer"
+      },
+      {
+        "name": "Mr Jorge Aldecoa",
+        "title": "Chief Product Officer"
+      },
+      {
+        "name": "Mr Jorge Aldecoa",
+        "title": "Chief Operating Officer"
+      },
+      {
+        "name": "Mr Vijay Rathna",
+        "title": "Chief Crypto Officer"
+      },
+      {
+        "name": "Mr Brent D Crawford",
+        "title": "Director"
+      },
+      {
+        "name": "Mr Art Langer",
+        "title": "Director"
+      }
+    ]
+  },
+  {
+    "name": "PAIRAPHRASE LLC",
+    "state": "MI",
+    "year_incorporated": "2017",
+    "nace": "5829",
+    "employees": "10",
+    "revenue_usd": 4510000,
+    "pl_before_tax": null,
+    "total_assets": null,
+    "equity": null,
+    "website": "www.pairaphrase.com",
+    "description": null,
+    "contacts": [
+      {
+        "name": "Mr Laurent R Bresson",
+        "title": "Chief Executive Officer"
+      }
+    ]
+  },
+  {
+    "name": "VISUAL LOGIC GROUP",
+    "state": "IA",
+    "year_incorporated": "2002",
+    "nace": "5829",
+    "employees": "13",
+    "revenue_usd": 4500000,
+    "pl_before_tax": null,
+    "total_assets": null,
+    "equity": null,
+    "website": "www.vlgux.com",
+    "description": null,
+    "contacts": [
+      {
+        "name": "Mr Andrew Van Fleet",
+        "title": "Partner"
+      },
+      {
+        "name": "Mr Andrew Van Fleet",
+        "title": "Mr"
+      },
+      {
+        "name": "Mr Andrew Van Fleet",
+        "title": "No specific function"
+      },
+      {
+        "name": "Mr Kurtis Vander Wiel",
+        "title": "Partner"
+      },
+      {
+        "name": "Mr Kurtis Vander Wiel",
+        "title": "Secretary"
+      },
+      {
+        "name": "Mr Kurtis Vander Wiel",
+        "title": "Founding Partner"
+      },
+      {
+        "name": "Ms Carolyn Herman",
+        "title": "Director of Ux Research"
+      },
+      {
+        "name": "Ms Kayla Byington",
+        "title": "Director of UX Engagement"
+      },
+      {
+        "name": "Mr Jason Thompson",
+        "title": "Senior Ux Designer"
+      }
+    ]
+  },
+  {
+    "name": "AXIS CLINICAL SOFTWARE, INC.",
+    "state": "OR",
+    "year_incorporated": "1980",
+    "nace": "5829",
+    "employees": "20",
+    "revenue_usd": 4500000,
+    "pl_before_tax": null,
+    "total_assets": null,
+    "equity": null,
+    "website": "www.axisclinical.com",
+    "description": null,
+    "contacts": [
+      {
+        "name": "Ginger Harlan",
+        "title": "General Manager"
+      },
+      {
+        "name": "Mr Scott U Page",
+        "title": "President / Chief Executive Officer"
+      },
+      {
+        "name": "Mr Scott U Page",
+        "title": "Officer"
+      },
+      {
+        "name": "Ms Barbara Page",
+        "title": "Secretary"
+      },
+      {
+        "name": "Ms Traci L Page",
+        "title": "Secretary"
+      },
+      {
+        "name": "Ms Rita Jenks",
+        "title": "Director, Implementation & Customer Service"
+      },
+      {
+        "name": "Mr Scott Archer",
+        "title": "Account Manager"
+      },
+      {
+        "name": "Mr Larry Chu",
+        "title": "Customer Support Engineer"
+      },
+      {
+        "name": "Mr Mike Jacoby",
+        "title": "Customer Support Technician"
+      },
+      {
+        "name": "Mr Will Ferguson",
+        "title": "Senior Technical Writer"
+      },
+      {
+        "name": "Ms Amber Imes",
+        "title": "Project Coordinator"
+      },
+      {
+        "name": "Ms Lauren Jablonski",
+        "title": "Product Manager, Clinical Registry"
+      },
+      {
+        "name": "Mr Madden Revell",
+        "title": "Project Coordinator"
+      },
+      {
+        "name": "Mr Bassem Karam",
+        "title": "Software Quality Assurance Manager"
+      },
+      {
+        "name": "Mr Don Huffman",
+        "title": "Vice President Systems"
+      },
+      {
+        "name": "Mr Matthew Lowry",
+        "title": "Information Technology Director"
+      },
+      {
+        "name": "Mr Phil Anderson",
+        "title": "Application Specialist / Trainer"
+      },
+      {
+        "name": "Mr Rocky Buckham",
+        "title": "Senior Application Specialist"
+      },
+      {
+        "name": "Mr Charles Wallace",
+        "title": "Software Engineer"
+      },
+      {
+        "name": "Ms Linda Stokes",
+        "title": "Analyst"
+      }
+    ]
+  }
+]

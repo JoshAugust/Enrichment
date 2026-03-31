@@ -1,0 +1,705 @@
+[
+  {
+    "name": "ENFORSYS INC",
+    "state": "NJ",
+    "year_incorporated": null,
+    "nace": "5829",
+    "employees": "12",
+    "revenue_usd": 3800000,
+    "pl_before_tax": null,
+    "total_assets": null,
+    "equity": null,
+    "website": "enforsys.com",
+    "description": "Public safety software developer",
+    "contacts": []
+  },
+  {
+    "name": "RT VISION INC",
+    "state": "MN",
+    "year_incorporated": "1992",
+    "nace": "5829",
+    "employees": "14",
+    "revenue_usd": 3800000,
+    "pl_before_tax": null,
+    "total_assets": null,
+    "equity": null,
+    "website": "www.rtvision.com",
+    "description": null,
+    "contacts": []
+  },
+  {
+    "name": "OUTSTART INC",
+    "state": "MA",
+    "year_incorporated": "1999",
+    "nace": "5829",
+    "employees": "130",
+    "revenue_usd": 3800000,
+    "pl_before_tax": null,
+    "total_assets": null,
+    "equity": null,
+    "website": "www.outstart.com",
+    "description": "Engaged in the provision of a complete, integrated suite of SaaS-based talent management solutions",
+    "contacts": []
+  },
+  {
+    "name": "THETUS CORP",
+    "state": "OR",
+    "year_incorporated": "2002",
+    "nace": "5829",
+    "employees": "10",
+    "revenue_usd": 3800000,
+    "pl_before_tax": null,
+    "total_assets": null,
+    "equity": null,
+    "website": "www.thetus.com",
+    "description": "Data classification software developer",
+    "contacts": []
+  },
+  {
+    "name": "METATOMIX, INC.",
+    "state": "MA",
+    "year_incorporated": "2001",
+    "nace": "5829",
+    "employees": "50",
+    "revenue_usd": 3800000,
+    "pl_before_tax": null,
+    "total_assets": null,
+    "equity": null,
+    "website": "www.metatomix.com",
+    "description": null,
+    "contacts": []
+  },
+  {
+    "name": "PERISCOPEIQ, INC.",
+    "state": "PA",
+    "year_incorporated": "1999",
+    "nace": "5829",
+    "employees": "100",
+    "revenue_usd": 3800000,
+    "pl_before_tax": null,
+    "total_assets": null,
+    "equity": null,
+    "website": "www.periscopeiq.com",
+    "description": "Engaged in the provision of computer programming, data processing, and other computer related services",
+    "contacts": [
+      {
+        "name": "Mr K Paul Singh",
+        "title": "Chairman"
+      },
+      {
+        "name": "Mr Pawan Singh",
+        "title": "Co-Founder & Chief Executive Officer; Shareholder"
+      },
+      {
+        "name": "Mr Mohamed Latib",
+        "title": "Co-Founder & Chief Customer Officer; Shareholder"
+      },
+      {
+        "name": "Mr Mohamed Latib",
+        "title": "Executive Vice President and Co-Founder"
+      },
+      {
+        "name": "Mr James P Murphy",
+        "title": "Director - Marketing Res; Director Marketing Research"
+      },
+      {
+        "name": "Mr Joel Tolbert",
+        "title": "Director-Technical; Director, Technology"
+      },
+      {
+        "name": "Sri Nalajala",
+        "title": "Engineer Software Quality Assurance Lead"
+      },
+      {
+        "name": "Mr Matthew J. White",
+        "title": "Director - Projects"
+      }
+    ]
+  },
+  {
+    "name": "SORCERO, INC.",
+    "state": "DC",
+    "year_incorporated": "2017",
+    "nace": "5829",
+    "employees": "25",
+    "revenue_usd": 3800000,
+    "pl_before_tax": null,
+    "total_assets": null,
+    "equity": null,
+    "website": "www.sorcero.com",
+    "description": "Enterprise workflow automation and knowledge base software development services",
+    "contacts": [
+      {
+        "name": "Mr Sean Smith",
+        "title": "Chief Marketing Officer"
+      },
+      {
+        "name": "Mr Srinivas Teja",
+        "title": "Engineering Principal"
+      },
+      {
+        "name": "Mr Gonzalo Odiard",
+        "title": "Lead Engineer"
+      },
+      {
+        "name": "Mr Johnson Chetty",
+        "title": "Senior Technical Architect"
+      },
+      {
+        "name": "Ms Aimee Gallagher",
+        "title": "Chief Product Officer"
+      },
+      {
+        "name": "Mr Richard Graves",
+        "title": "Chief Operating Officer"
+      }
+    ]
+  },
+  {
+    "name": "AVENU LLC",
+    "state": "UT",
+    "year_incorporated": "2018",
+    "nace": "5829",
+    "employees": "12",
+    "revenue_usd": 3800000,
+    "pl_before_tax": null,
+    "total_assets": null,
+    "equity": null,
+    "website": "www.myavenu.com",
+    "description": null,
+    "contacts": [
+      {
+        "name": "Ms Victoria Atack",
+        "title": "Executive Assistant"
+      },
+      {
+        "name": "Mr Steven R Chapman",
+        "title": "Chief Financial Officer"
+      },
+      {
+        "name": "Mr Steven R Chapman",
+        "title": "Manager"
+      },
+      {
+        "name": "Mr Mike Tidwell",
+        "title": "Senior Vice President, National Sales"
+      },
+      {
+        "name": "Mr Mark Sidhom",
+        "title": "Lender Account Executive"
+      },
+      {
+        "name": "Mr Brent R Iverson",
+        "title": "Executive Vice President, Enterprise Development"
+      },
+      {
+        "name": "Mr Brent R Iverson",
+        "title": "Manager"
+      },
+      {
+        "name": "Mr Dave Zitting",
+        "title": "Co-Chief Executive Officer"
+      },
+      {
+        "name": "Mr Jason Egan",
+        "title": "Director, Implementation"
+      },
+      {
+        "name": "Ms Autumn Baskins",
+        "title": "Processing Manager"
+      },
+      {
+        "name": "Mr Jason Cragun",
+        "title": "Manager"
+      }
+    ]
+  },
+  {
+    "name": "BOTTOM LINE SOFTWARE INC",
+    "state": "CA",
+    "year_incorporated": "1998",
+    "nace": "5829",
+    "employees": "10",
+    "revenue_usd": 3800000,
+    "pl_before_tax": null,
+    "total_assets": null,
+    "equity": null,
+    "website": "www.accountek.com",
+    "description": null,
+    "contacts": []
+  },
+  {
+    "name": "AKIVA",
+    "state": "CA",
+    "year_incorporated": null,
+    "nace": "5829",
+    "employees": "30",
+    "revenue_usd": 3800000,
+    "pl_before_tax": null,
+    "total_assets": null,
+    "equity": null,
+    "website": "www.akiva.com",
+    "description": null,
+    "contacts": []
+  },
+  {
+    "name": "AWAREPOINT CORP",
+    "state": "CA",
+    "year_incorporated": null,
+    "nace": "5829",
+    "employees": "20",
+    "revenue_usd": 3800000,
+    "pl_before_tax": null,
+    "total_assets": null,
+    "equity": null,
+    "website": "www.awarepoint.com",
+    "description": null,
+    "contacts": [
+      {
+        "name": "Mr Brandon Hull",
+        "title": "Board of Dirs"
+      },
+      {
+        "name": "Mr Vijay Lathi",
+        "title": "Board of Dirs"
+      },
+      {
+        "name": "Mr Terry Linn",
+        "title": "Board of Dirs"
+      },
+      {
+        "name": "Mr Thomas Mawhinney",
+        "title": "Board of Dirs"
+      },
+      {
+        "name": "Dana Mead",
+        "title": "Board of Dirs"
+      },
+      {
+        "name": "Mr Timothy Roche",
+        "title": "President & Chief Executive Officer"
+      },
+      {
+        "name": "Mr Karl Riesen",
+        "title": "Director-Business Development"
+      },
+      {
+        "name": "Ms Emily Wilson",
+        "title": "Vice President, Finance"
+      },
+      {
+        "name": "Mr Bernard Lee",
+        "title": "Director - Product Marketing"
+      },
+      {
+        "name": "Mr Gary Jorgensen",
+        "title": "Senior Vice President - Hardware Engineering"
+      },
+      {
+        "name": "Mr Thomas Warlan",
+        "title": "Senior Vice President - Software Engineering"
+      },
+      {
+        "name": "Ms Karolina Wolf",
+        "title": "Vice President-PRO Services & Support"
+      }
+    ]
+  },
+  {
+    "name": "BYTEBLOC SOFTWARE",
+    "state": "CA",
+    "year_incorporated": "2004",
+    "nace": "5829",
+    "employees": "12",
+    "revenue_usd": 3800000,
+    "pl_before_tax": null,
+    "total_assets": null,
+    "equity": null,
+    "website": "www.bytebloc.com",
+    "description": null,
+    "contacts": [
+      {
+        "name": "Mr Leonard Kolinsky",
+        "title": "Agent"
+      }
+    ]
+  },
+  {
+    "name": "R TECH INC",
+    "state": "NY",
+    "year_incorporated": "1987",
+    "nace": "5829",
+    "employees": "10",
+    "revenue_usd": 3800000,
+    "pl_before_tax": null,
+    "total_assets": null,
+    "equity": null,
+    "website": "r-techsolutions.net",
+    "description": null,
+    "contacts": []
+  },
+  {
+    "name": "META DATA SOFTWARE INC",
+    "state": "CA",
+    "year_incorporated": "2021",
+    "nace": "5829",
+    "employees": "100",
+    "revenue_usd": 3800000,
+    "pl_before_tax": null,
+    "total_assets": null,
+    "equity": null,
+    "website": "www.fabricdata.com",
+    "description": "Media and entertainment data management services ; Media and entertainment software developer",
+    "contacts": [
+      {
+        "name": "Mr Robert Delf",
+        "title": "Chief Executive Officer"
+      }
+    ]
+  },
+  {
+    "name": "COGNYTE SOFTWARE LP",
+    "state": "NY",
+    "year_incorporated": "2021",
+    "nace": "5829",
+    "employees": "10",
+    "revenue_usd": 3800000,
+    "pl_before_tax": null,
+    "total_assets": null,
+    "equity": null,
+    "website": "www.cognyte.com",
+    "description": null,
+    "contacts": []
+  },
+  {
+    "name": "VERTEXONE SOFTWARE, LLC",
+    "state": "TX",
+    "year_incorporated": "2019",
+    "nace": "5829",
+    "employees": "10",
+    "revenue_usd": 3800000,
+    "pl_before_tax": null,
+    "total_assets": null,
+    "equity": null,
+    "website": "www.vertexone.ai/home",
+    "description": "Business process management Software-as-a-Service (SaaS) provider",
+    "contacts": [
+      {
+        "name": "Mr Todd Buchardt",
+        "title": "Manager"
+      }
+    ]
+  },
+  {
+    "name": "DRAWBRIDGE PARTNERS LLC",
+    "state": "FL",
+    "year_incorporated": "2019",
+    "nace": "5829",
+    "employees": "75",
+    "revenue_usd": 3800000,
+    "pl_before_tax": null,
+    "total_assets": null,
+    "equity": null,
+    "website": "drawbridgeco.com",
+    "description": "Alternative investment cybersecurity platform operator ; Software developer",
+    "contacts": [
+      {
+        "name": "Mr Haney William SR",
+        "title": "Chief Executive Officer"
+      },
+      {
+        "name": "Mr Eric Bernstein",
+        "title": "Manager"
+      },
+      {
+        "name": "Mr Jason George Elmer",
+        "title": "Contact; Real Property"
+      },
+      {
+        "name": "Mr Jeff Hoffman",
+        "title": "Real Property"
+      }
+    ]
+  },
+  {
+    "name": "SOLO GLOBAL INC",
+    "state": "DE",
+    "year_incorporated": "2014",
+    "nace": "5829",
+    "employees": "75",
+    "revenue_usd": 3800000,
+    "pl_before_tax": null,
+    "total_assets": null,
+    "equity": null,
+    "website": "www.solo.global",
+    "description": null,
+    "contacts": [
+      {
+        "name": "Mr Scammell Toby",
+        "title": "Chief Executive Officer"
+      },
+      {
+        "name": "Mr Scammell Toby",
+        "title": "Chief Executive Officer (Chief Executive Officer)"
+      }
+    ]
+  },
+  {
+    "name": "JANUS SOFTWARE INC",
+    "state": "CT",
+    "year_incorporated": "1988",
+    "nace": "5829",
+    "employees": "12",
+    "revenue_usd": 3800000,
+    "pl_before_tax": null,
+    "total_assets": null,
+    "equity": null,
+    "website": "www.janusassociates.com",
+    "description": null,
+    "contacts": []
+  },
+  {
+    "name": "BI CONSULTING GROUP LLC",
+    "state": "MN",
+    "year_incorporated": "2005",
+    "nace": "5829",
+    "employees": "56",
+    "revenue_usd": 3800000,
+    "pl_before_tax": null,
+    "total_assets": null,
+    "equity": null,
+    "website": "www.biconsultinggroup.com",
+    "description": "Engaged in the provision of Oracle business intelligence (BI) and enterprise performance management (EPM) solutions",
+    "contacts": [
+      {
+        "name": "Ms Amy Mayer",
+        "title": "Shareholder; Founder & President"
+      },
+      {
+        "name": "Mr Mike Zajec",
+        "title": "Vice President, Sales & Marketing"
+      },
+      {
+        "name": "Mr Brent Kardell",
+        "title": "Director - Sales - West"
+      },
+      {
+        "name": "Mr Randy Rankin",
+        "title": "Senior Principal Consultant"
+      }
+    ]
+  },
+  {
+    "name": "HEALTHLAND INC",
+    "state": "MN",
+    "year_incorporated": "1989",
+    "nace": "5829",
+    "employees": "10",
+    "revenue_usd": 3800000,
+    "pl_before_tax": null,
+    "total_assets": null,
+    "equity": null,
+    "website": "www.healthland.com",
+    "description": "Engaged in the provision of integrated healthcare information technology solutions",
+    "contacts": [
+      {
+        "name": "Ms Cheryl Turkpeterson",
+        "title": "Director - Marketing Comm"
+      },
+      {
+        "name": "Ms Julie Weber Kramer",
+        "title": "Senior Vice President - Client Experience"
+      }
+    ]
+  },
+  {
+    "name": "WAVE TECHNOLOGY SOLUTIONS GROUP",
+    "state": "CA",
+    "year_incorporated": "1998",
+    "nace": "5829",
+    "employees": "12",
+    "revenue_usd": 3800000,
+    "pl_before_tax": null,
+    "total_assets": null,
+    "equity": null,
+    "website": "www.waveimaging.com",
+    "description": "Engaged in the provision of enterprise content management and document management solutions in the United States",
+    "contacts": [
+      {
+        "name": "Mr Ed Ginty",
+        "title": "Vice President and General Manager"
+      },
+      {
+        "name": "Mr Adam Torab",
+        "title": "President"
+      },
+      {
+        "name": "Mr Amir Afzali",
+        "title": "Vice President"
+      },
+      {
+        "name": "Mr Fredric Woitt",
+        "title": "Director-Sales Operations"
+      },
+      {
+        "name": "Mr Howard Miyakawa",
+        "title": "Engineering - Software"
+      }
+    ]
+  },
+  {
+    "name": "DIALED IN, INC.",
+    "state": "CA",
+    "year_incorporated": "2006",
+    "nace": "5829",
+    "employees": "10",
+    "revenue_usd": 3800000,
+    "pl_before_tax": null,
+    "total_assets": null,
+    "equity": null,
+    "website": "www.dialedin.com",
+    "description": null,
+    "contacts": []
+  },
+  {
+    "name": "CALIFORNIA SOFTWARE CORPORATION, WHICH WILL DO BUSINESS IN CALIFORNIA AS NEVADA CALIFORNIA SOFTWARE",
+    "state": "CA",
+    "year_incorporated": "2012",
+    "nace": "5829",
+    "employees": "10",
+    "revenue_usd": 3800000,
+    "pl_before_tax": null,
+    "total_assets": null,
+    "equity": null,
+    "website": "www.infinitecorporation.com",
+    "description": "Non classifiable establishment",
+    "contacts": []
+  },
+  {
+    "name": "METRICSTREAM INC",
+    "state": "CA",
+    "year_incorporated": "2000",
+    "nace": "5829",
+    "employees": "70000",
+    "revenue_usd": 3800000,
+    "pl_before_tax": null,
+    "total_assets": null,
+    "equity": null,
+    "website": "www.metricstream.com",
+    "description": "Engaged in the provision of governance, risk, compliance, and quality management solutions",
+    "contacts": [
+      {
+        "name": "Gunjan Sinha",
+        "title": "Executive Chairman"
+      },
+      {
+        "name": "Mr Scott J Arnold",
+        "title": "Board of Dirs"
+      },
+      {
+        "name": "Mr David Campbell",
+        "title": "Board of Dirs"
+      },
+      {
+        "name": "Mr Kenneth T Latz",
+        "title": "Board of Dirs"
+      },
+      {
+        "name": "Mr Prashant Mehrotra",
+        "title": "Board of Dirs"
+      },
+      {
+        "name": "Mr Scott Ogur",
+        "title": "Board of Dirs"
+      },
+      {
+        "name": "Mr Randy Pond",
+        "title": "Board of Dirs"
+      },
+      {
+        "name": "Mr Bruce Dahlgren",
+        "title": "Chief Executive Officer"
+      },
+      {
+        "name": "Mr Mikael Hagstroem",
+        "title": "President"
+      },
+      {
+        "name": "Mr Gaurav Kapoor",
+        "title": "Founder & Co-Chief Executive Officer; Shareholder"
+      },
+      {
+        "name": "Mr Prasad Sabbineni",
+        "title": "Co-Chief Executive Officer"
+      },
+      {
+        "name": "Ms Margaret Costella",
+        "title": "Vice President & Deputy General Counsel"
+      },
+      {
+        "name": "Yo Delmar",
+        "title": "Vice President"
+      },
+      {
+        "name": "Mr Bill Williams",
+        "title": "Director of Corporate Affairs"
+      },
+      {
+        "name": "Mr Mark W Johnston",
+        "title": "Vice President - Internal Audit"
+      },
+      {
+        "name": "Mr Steven Richard Springsteel",
+        "title": "Chief Financial Officer"
+      },
+      {
+        "name": "Ms Maya Prabhu",
+        "title": "Human Resources Business Partner"
+      },
+      {
+        "name": "Mr Thomas Arthur Ludwig",
+        "title": "Vice President of Customer Advocacy"
+      },
+      {
+        "name": "Mr Peter Brooks",
+        "title": "Vice President - Risk Management & Corporate Audit"
+      },
+      {
+        "name": "Ms Jessica Zhou",
+        "title": "Chief Legal Officer"
+      },
+      {
+        "name": "Anindo Banerjea",
+        "title": "Senior Vice President, Engineering"
+      },
+      {
+        "name": "Mr Andreas Diggelmann",
+        "title": "CTO"
+      },
+      {
+        "name": "Ms Brenda L Boultwood",
+        "title": "Senior Vice President - Industry Solutions"
+      },
+      {
+        "name": "Kristen Gantt",
+        "title": "Regional Vice President, GRC Solutions"
+      },
+      {
+        "name": "Ms Carol Spartz",
+        "title": "Director of Solutions"
+      },
+      {
+        "name": "Mr Rohit Bedi",
+        "title": "Executive Vice President - Partnerships & Alliances"
+      },
+      {
+        "name": "Mr Srdjan Kovacevic",
+        "title": "Vice President of Professional Services"
+      },
+      {
+        "name": "Mr Tim Hensley",
+        "title": "Director of Revenue"
+      }
+    ]
+  }
+]

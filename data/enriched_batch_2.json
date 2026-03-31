@@ -1,0 +1,821 @@
+[
+  {
+    "company_name": "MASTERWORKS CONSTRUCTION SERVICES, INC.",
+    "state": "CA",
+    "industry": "Residential & Commercial Construction",
+    "founded": "1992",
+    "employees": null,
+    "revenue_usd_000s": null,
+    "website": "https://mworksconstruction.com",
+    "website_verified": true,
+    "website_note": "Site is active and live (Yelp shows updated February 2026). Company confirmed as Masterworks Construction Services Inc. from URL.",
+    "description": "Masterworks Construction Services Inc. is a Southern California general contractor based in Long Beach, CA, providing residential and commercial remodeling, new construction, architectural design, landscape design and installation services. Founded in 1992 by Bill Leisy; ownership transferred to Carlos Perez in 2022.",
+    "description_source": "https://mworksconstruction.com/profile/about-us/",
+    "contacts": [
+      {
+        "name": "Carlos Perez",
+        "title": "President / Owner (since 2022)",
+        "source_url": "https://mworksconstruction.com/profile/about-us/",
+        "linkedin_url": null,
+        "is_original": false
+      },
+      {
+        "name": "Bill Leisy",
+        "title": "Founder (retired 2022)",
+        "source_url": "https://mworksconstruction.com/profile/about-us/",
+        "linkedin_url": null,
+        "is_original": false
+      },
+      {
+        "name": "Carlos Perez Jr.",
+        "title": "Project Staff",
+        "source_url": "https://mworksconstruction.com/profile/the-team/",
+        "linkedin_url": null,
+        "is_original": false
+      },
+      {
+        "name": "Elizabeth Perez",
+        "title": "Office Operations Manager",
+        "source_url": "https://mworksconstruction.com/profile/the-team/",
+        "linkedin_url": null,
+        "is_original": false
+      }
+    ],
+    "recent_news": "No significant news in 2024-2025. Ownership transition occurred in 2022 when Bill Leisy retired after 30 years and handed the company to Carlos Perez.",
+    "news_source_url": "https://mworksconstruction.com/profile/about-us/",
+    "verification_status": "Unverified",
+    "verification_notes": "Original data had null company name and null contact. Company identified as Masterworks Construction Services Inc. from the website URL mworksconstruction.com. No original contact to verify against.",
+    "data_quality_score": 4,
+    "enrichment_notes": "Company name was null in original data. Identified from website URL mworksconstruction.com. Located at 1376-B Coronado Ave, Long Beach, CA 90804. 34 permitted projects per BuildZoom. Serves Los Angeles, Long Beach, Manhattan Beach, Santa Monica areas."
+  },
+  {
+    "company_name": "MATHIS CONSTRUCTION, LLC",
+    "state": "LA",
+    "industry": "Building Finishing / General Construction",
+    "founded": "2023",
+    "employees": 7,
+    "revenue_usd_000s": 26400,
+    "website": "https://www.mathisconst.com",
+    "website_verified": false,
+    "website_note": "mathisconst.com not prominently surfaced in search results. Related website perrymathis.com and mathisroofing.net appear connected. Website status unconfirmed.",
+    "description": "Mathis Construction & Roofing is a Louisiana-based small general contractor providing home building, remodeling, roofing, siding, windows, gutters, additions, and foundation work, primarily serving the Ruston/Dubach area of northern Louisiana.",
+    "description_source": "https://www.buildzoom.com/contractor/perry-mathis",
+    "contacts": [
+      {
+        "name": "Perry Lynn Mathis",
+        "title": "Owner / Manager",
+        "source_url": "https://www.buildzoom.com/contractor/perry-mathis",
+        "linkedin_url": null,
+        "is_original": true
+      }
+    ],
+    "recent_news": "No significant recent news for 2024-2025. Company is a small local contractor in northern Louisiana.",
+    "news_source_url": null,
+    "verification_status": "Verified",
+    "verification_notes": "Perry Lynn Mathis confirmed as owner of Mathis Construction in Louisiana. BuildZoom score 91 indicates active contractor. Founded date '2023' in original data may reflect LLC registration rather than start of business operations.",
+    "data_quality_score": 2,
+    "enrichment_notes": "Very small local contractor with limited public data. Located at 198 Cooper Rd, Dubach, LA 71235. Louisiana contractor license verified. Note: 2023 founding date may be LLC registration year; the Mathis roofing/construction operation has existed longer per local sources."
+  },
+  {
+    "company_name": "INSIGHTLY INC",
+    "state": "CA",
+    "industry": "Software Development / CRM SaaS",
+    "founded": "2009",
+    "employees": 200,
+    "revenue_usd_000s": 26400,
+    "website": "https://www.insightly.com",
+    "website_verified": true,
+    "website_note": "Site is active. Insightly continues as a distinct brand under Unbounce (parent company post-July 2024 merger). The product is now called 'Insightly CRM by Unbounce.'",
+    "description": "Insightly is a cloud-based CRM, marketing automation, and customer service platform serving small and mid-market businesses. Founded in 2009 in Perth, Australia; HQ moved to San Francisco, CA. As of July 2024, Insightly merged with Vancouver-based Unbounce under Crest Rock Capital private equity.",
+    "description_source": "https://www.insightly.com/blog/press-releases/unbounce-insightly-merger/",
+    "contacts": [
+      {
+        "name": "Anthony Charles Smith",
+        "title": "Founder & Former CEO (departed July 2024)",
+        "source_url": "https://www.crunchbase.com/person/anthony-smith-7e32",
+        "linkedin_url": "https://www.linkedin.com/in/anthonycharlessmith/",
+        "is_original": true
+      },
+      {
+        "name": "Steve Oriola",
+        "title": "CEO of Unbounce (parent company, post-merger)",
+        "source_url": "https://betakit.com/unbounce-to-merge-with-california-based-insightly-following-ceo-change/",
+        "linkedin_url": null,
+        "is_original": false
+      },
+      {
+        "name": "Valerie Riley",
+        "title": "VP Marketing & Strategy (post-merger leadership)",
+        "source_url": "https://www.prnewswire.com/news-releases/unbounce-joins-forces-with-insightly-to-align-sales-and-marketing-functions-302198526.html",
+        "linkedin_url": null,
+        "is_original": false
+      },
+      {
+        "name": "Patrick Kaldawy",
+        "title": "SVP Engineering (post-merger leadership)",
+        "source_url": "https://www.prnewswire.com/news-releases/unbounce-joins-forces-with-insightly-to-align-sales-and-marketing-functions-302198526.html",
+        "linkedin_url": null,
+        "is_original": false
+      },
+      {
+        "name": "Mark Ripley",
+        "title": "VP Sales (pre-merger leadership)",
+        "source_url": "https://www.cbinsights.com/company/insightly/people",
+        "linkedin_url": null,
+        "is_original": false
+      }
+    ],
+    "recent_news": "In July 2024, Insightly merged with Unbounce under PE firm Crest Rock Capital; Anthony Smith departed as CEO. In December 2025, Insightly launched an AI Copilot feature. Company released its 2025 CRM Research Report in May 2025. Combined entity has 200+ employees across Europe and North America.",
+    "news_source_url": "https://betakit.com/unbounce-to-merge-with-california-based-insightly-following-ceo-change/",
+    "verification_status": "Discrepancy",
+    "verification_notes": "Anthony Charles Smith is listed as CEO but departed in July 2024 when Insightly merged with Unbounce. The current CEO of the combined entity is Steve Oriola. The original contact title 'Chief Executive Officer' was accurate at time of original record but is now outdated.",
+    "data_quality_score": 5,
+    "enrichment_notes": "Major corporate event: merged with Unbounce in July 2024 under Crest Rock Capital. Now operates as 'Insightly, an Unbounce Company.' 200+ employees post-merger. Insightly was originally founded in Perth, Australia; HQ in San Francisco. Well-documented with excellent public data."
+  },
+  {
+    "company_name": "IDAHO SCIENCE AND TECHNOLOGY CHARTER SCHOOL, INC.",
+    "state": "ID",
+    "industry": "Pre-primary / K-8 Charter Education",
+    "founded": "2008",
+    "employees": 13,
+    "revenue_usd_000s": 26400,
+    "website": "https://www.idahoscience.com",
+    "website_verified": true,
+    "website_note": "Site is active. School also operates under alternate domain idahoscience.com. Charter commission profile at chartercommission.idaho.gov is current.",
+    "description": "Idaho Science & Technology Charter School (ISTCS) is a public K-8 charter school in Blackfoot, Idaho, focused on project-based learning in science and technology. The school serves 343 students with a 14:1 student-teacher ratio and holds a Performance Certificate valid through 2028.",
+    "description_source": "https://chartercommission.idaho.gov/schools/idaho-science-and-technology-charter-school/",
+    "contacts": [
+      {
+        "name": "Tami Dortch",
+        "title": "Charter Director / Principal Officer",
+        "source_url": "https://www.idahoscience.com/District/Staff/",
+        "linkedin_url": null,
+        "is_original": true
+      },
+      {
+        "name": "Trisha Despain",
+        "title": "Business Manager",
+        "source_url": "https://www.idahoscience.com/District/Staff/",
+        "linkedin_url": null,
+        "is_original": false
+      },
+      {
+        "name": "Becki Adams",
+        "title": "Staff Representative",
+        "source_url": "https://chartercommission.idaho.gov/wp-content/uploads/2023/04/IPCSC-Meeting-Minutes-Feb-23-24-2023-Signed.pdf",
+        "linkedin_url": null,
+        "is_original": false
+      }
+    ],
+    "recent_news": "Charter renewed 2023-2028 by Idaho Public Charter School Commission. Student enrollment is 343 for 2024-25. Chronic absenteeism improved from 28% (2022) to 17.1% (2023). School offers a Gifted & Talented program. 2024 Annual Report published.",
+    "news_source_url": "https://chartercommission.idaho.gov/schools/idaho-science-and-technology-charter-school/",
+    "verification_status": "Verified",
+    "verification_notes": "Tami Dortch confirmed as Charter Director/Principal Officer. Original title 'Mrs.' is a salutation rather than a functional title; actual role is Charter Director. Founded date in original data was 39527 — this is an Excel date serial number converting to approximately March 30, 2008.",
+    "data_quality_score": 4,
+    "enrichment_notes": "Founded date in raw data is 39527 (Excel serial) = approximately March 30, 2008. Located at 21 N 550 W, Blackfoot, ID 83221. Serves grades K-8 (some sources say K-9). 24 full-time equivalent teachers. Academic performance: 35% proficient in math, 44% proficient in reading."
+  },
+  {
+    "company_name": "WWI CONTRACTING CORP",
+    "state": "NY",
+    "industry": "Specialised Construction / Carpentry & Drywall",
+    "founded": "2008",
+    "employees": 7,
+    "revenue_usd_000s": 26400,
+    "website": "https://wwinyc.com",
+    "website_verified": true,
+    "website_note": "Primary and active website is wwinyc.com. Original data listed www.inyc.com which may be an alternate/redirect. Company HQ is Queens, NY — not NJ as listed in original data.",
+    "description": "WWI Contracting Corp. is a leading Northeast-region carpentry and drywall company founded in 2008, specializing in general contracting, structural heavy gauge framing, interior framing, insulation, gypsum wallboard, construction management, and residential high-rise and hotel construction in NY and NJ.",
+    "description_source": "https://wwinyc.com/about/",
+    "contacts": [
+      {
+        "name": "Veinmann Torres",
+        "title": "President / Co-Founder",
+        "source_url": "https://www.thebluebook.com/iProView/925831/wwi-contracting-corp/subcontractors/locations-contacts/",
+        "linkedin_url": null,
+        "is_original": false
+      },
+      {
+        "name": "Angelo Amen",
+        "title": "Principal / Co-Founder",
+        "source_url": "https://wwinyc.com/about/",
+        "linkedin_url": "https://www.linkedin.com/in/angelo-amen-9574991a2/",
+        "is_original": false
+      },
+      {
+        "name": "Danly Yepes",
+        "title": "Office Executive Manager / Bookkeeping",
+        "source_url": "https://www.linkedin.com/in/danly-yepes-b518461b/",
+        "linkedin_url": "https://www.linkedin.com/in/danly-yepes-b518461b/",
+        "is_original": false
+      }
+    ],
+    "recent_news": "No significant news in 2024-2025. Company continues to operate in residential high-rises, hotels, and affordable housing projects across NY and NJ.",
+    "news_source_url": "https://wwinyc.com/",
+    "verification_status": "Discrepancy",
+    "verification_notes": "Original data lists state as NJ but company is headquartered in Astoria/Queens, NY. Primary website is wwinyc.com (not www.inyc.com as listed). No contact was in original record. State is corrected to NY in this enrichment.",
+    "data_quality_score": 3,
+    "enrichment_notes": "Original data had null contact name, null contact title, state NJ, and website www.inyc.com. Company is NY-based. Founded by Angelo Amen and Veinmann Torres in 2008. Located in Astoria/Long Island City, Queens, NY. Works NY/NJ metro area. Also listed on TheBluebook as Long Island City, NY."
+  },
+  {
+    "company_name": "WWI CONTRACTING CORP (DUPLICATE ENTRY)",
+    "state": "NY",
+    "industry": "Specialised Construction / Carpentry & Drywall",
+    "founded": "2008",
+    "employees": 7,
+    "revenue_usd_000s": null,
+    "website": "https://wwinyc.com",
+    "website_verified": true,
+    "website_note": "Duplicate entry in original data. Website wwinyc.com is active. This entry (original URL: wwinyc.com) is the same company as the prior entry (original URL: www.inyc.com), both referring to WWI Contracting Corp.",
+    "description": "This is a duplicate entry for WWI Contracting Corp. See prior entry for full company description. WWI Contracting Corp. is a NYC-area carpentry and drywall contractor specializing in general contracting, framing, insulation, drywall, and construction management.",
+    "description_source": "https://wwinyc.com/about/",
+    "contacts": [
+      {
+        "name": "Veinmann Torres",
+        "title": "President / Co-Founder",
+        "source_url": "https://www.thebluebook.com/iProView/925831/wwi-contracting-corp/subcontractors/locations-contacts/",
+        "linkedin_url": null,
+        "is_original": false
+      },
+      {
+        "name": "Angelo Amen",
+        "title": "Principal / Co-Founder",
+        "source_url": "https://wwinyc.com/about/",
+        "linkedin_url": "https://www.linkedin.com/in/angelo-amen-9574991a2/",
+        "is_original": false
+      },
+      {
+        "name": "Danly Yepes",
+        "title": "Office Executive Manager",
+        "source_url": "https://www.linkedin.com/in/danly-yepes-b518461b/",
+        "linkedin_url": "https://www.linkedin.com/in/danly-yepes-b518461b/",
+        "is_original": false
+      }
+    ],
+    "recent_news": "No significant news in 2024-2025. See prior entry for full details.",
+    "news_source_url": "https://wwinyc.com/",
+    "verification_status": "Unverified",
+    "verification_notes": "This entry had null company name and null contact. Identified as WWI Contracting Corp from website URL wwinyc.com. Duplicate of the prior entry (www.inyc.com / WWI Contracting Corp). Recommend merging these two rows.",
+    "data_quality_score": 2,
+    "enrichment_notes": "DUPLICATE ENTRY: This is the same company as the prior WWI CONTRACTING CORP entry. Original data row had null company name, null state, null contact — just the URL wwinyc.com. Both entries appear to be scraped from the same company source with different URL formats."
+  },
+  {
+    "company_name": "TWISTED MECHANICAL",
+    "state": "MN",
+    "industry": "Plumbing / HVAC",
+    "founded": null,
+    "employees": 8,
+    "revenue_usd_000s": 26400,
+    "website": "https://twistedmechanical.com",
+    "website_verified": true,
+    "website_note": "Website twistedmechanical.com is active (Yelp shows updated July 2025). HVAC contractor license #MB770330 was reported as expired June 2024 per BuildZoom — current license status should be verified directly.",
+    "description": "Twisted Mechanical is a family-owned HVAC company in Farmington, MN (south of Minneapolis), specializing in commercial and residential heating, cooling, and refrigeration repair, replacement, and service. Also provides building automation solutions to optimize efficiency for businesses.",
+    "description_source": "https://www.twistedmechanical.com/",
+    "contacts": [
+      {
+        "name": "Scott Danielson",
+        "title": "Owner",
+        "source_url": "https://www.buildzoom.com/contractor/twisted-mechanical-llc",
+        "linkedin_url": null,
+        "is_original": false
+      }
+    ],
+    "recent_news": "HVAC/Mechanical Contractor license (#MB770330) expired June 25, 2024 per BuildZoom (verified expired August 2024). Recommend verifying active license status with the Minnesota Department of Labor & Industry.",
+    "news_source_url": "https://www.buildzoom.com/contractor/twisted-mechanical-llc",
+    "verification_status": "Unverified",
+    "verification_notes": "Original data had null contact name and null contact title. Scott Danielson identified as owner from BuildZoom. No founding year found in public sources. License expiration flagged as a concern.",
+    "data_quality_score": 3,
+    "enrichment_notes": "Located at 21690 Blaine Ave, Farmington, MN 55024. Listed in Lakeville Chamber of Commerce directory. No contact was in original data. License #MB770330 expired June 2024 — potential compliance issue. Company may have renewed license; verify with MN DOL&I."
+  },
+  {
+    "company_name": "3070 TEXAS ST. BOSSIER CITY HOLDINGS LLC",
+    "state": "NV",
+    "industry": "Holding Companies / Extended-Stay Real Estate",
+    "founded": "2018",
+    "employees": 17,
+    "revenue_usd_000s": 26400,
+    "website": "https://www.siegelselect.com",
+    "website_verified": true,
+    "website_note": "siegelselect.com is the active website for Siegel Select extended-stay brand. This holding LLC owns the property at 3070 E. Texas St., Bossier City, LA — a Siegel Select property with 99-120 units.",
+    "description": "3070 Texas St. Bossier City Holdings LLC is a Nevada holding company associated with The Siegel Group (headquartered in Las Vegas, NV), which owns and operates the Siegel Select extended-stay apartment/hotel property at 3070 E. Texas St., Bossier City, Louisiana. The Siegel Group was founded in 2001 by Steve Siegel.",
+    "description_source": "https://siegelcompanies.com/siegel-group-continues-southern-expansion/",
+    "contacts": [
+      {
+        "name": "Sean Thueson",
+        "title": "Registered Agent",
+        "source_url": "https://www.dnb.com/business-directory/company-profiles.3070_texas_st_bossier_city_holdings_llc.html",
+        "linkedin_url": null,
+        "is_original": true
+      },
+      {
+        "name": "Steve Siegel",
+        "title": "CEO & President, The Siegel Group (parent company)",
+        "source_url": "https://en.wikipedia.org/wiki/The_Siegel_Group",
+        "linkedin_url": null,
+        "is_original": false
+      },
+      {
+        "name": "Cathie Griffiths",
+        "title": "COO, The Siegel Group (parent company)",
+        "source_url": "https://www.zoominfo.com/c/the-siegel-group-inc/369163047",
+        "linkedin_url": null,
+        "is_original": false
+      }
+    ],
+    "recent_news": "The Siegel Group (parent) acquired downtown Las Vegas properties in February 2024 for $11 million. In October 2024, the group completed a $19 million land sale to KB Home for residential development in Las Vegas. The Bossier City Siegel Select property was part of a 4-property portfolio acquired in 2018.",
+    "news_source_url": "https://www.businesswire.com/news/home/20240226755301/en/The-Siegel-Group-Acquires-Downtown-Las-Vegas-Trophy-Property",
+    "verification_status": "Verified",
+    "verification_notes": "Sean Thueson listed as Registered Agent, consistent with a Nevada holding company structure. Title 'Agent' in original data is consistent with registered agent role. Property at 3070 E. Texas St., Bossier City is confirmed as an active Siegel Select property.",
+    "data_quality_score": 4,
+    "enrichment_notes": "Founded date in original data is 43146 (Excel serial) = approximately February 27, 2018. This aligns with The Siegel Group's 2018 four-property Southern expansion. The property at 3070 E. Texas St. is an extended-stay apartment complex with 99-120 units built in 1997. LLC registered in Nevada though property is in Louisiana."
+  },
+  {
+    "company_name": "BLACKROCK FLOATING RATE INCOME TRUST",
+    "state": "DE",
+    "industry": "Investment Trusts / Closed-End Fund",
+    "founded": "2004",
+    "employees": 7,
+    "revenue_usd_000s": 26400,
+    "website": "https://www.blackrock.com/us/individual/products/240195/blackrock-floating-rate-income-trust-usd-fund",
+    "website_verified": true,
+    "website_note": "BlackRock's fund page for BGT is active and regularly updated. Fund trades on NYSE under ticker BGT.",
+    "description": "BlackRock Floating Rate Income Trust (NYSE: BGT) is a closed-end fund registered in Delaware, managed by BlackRock Advisors, LLC. The fund invests primarily in floating and variable rate instruments including senior secured floating rate loans to corporate and business entities, with the primary objective of providing high current income.",
+    "description_source": "https://www.blackrock.com/us/individual/products/240195/blackrock-floating-rate-income-trust-usd-fund",
+    "contacts": [
+      {
+        "name": "James E. Keenan",
+        "title": "Portfolio Manager / CIO Global Head of Private Debt, BlackRock",
+        "source_url": "https://www.blackrock.com/us/individual/biographies/james-keenan",
+        "linkedin_url": "https://www.linkedin.com/in/jim-keenan-0a512aa/",
+        "is_original": true
+      },
+      {
+        "name": "David Delbos",
+        "title": "Co-Portfolio Manager, BGT",
+        "source_url": "https://www.blackrock.com/us/individual/products/240195/blackrock-floating-rate-income-trust-usd-fund",
+        "linkedin_url": null,
+        "is_original": false
+      },
+      {
+        "name": "Mitchell Garfin",
+        "title": "Co-Portfolio Manager, BGT",
+        "source_url": "https://www.blackrock.com/us/individual/products/240195/blackrock-floating-rate-income-trust-usd-fund",
+        "linkedin_url": null,
+        "is_original": false
+      },
+      {
+        "name": "Joshua Tarnow",
+        "title": "Co-Portfolio Manager, BGT",
+        "source_url": "https://www.blackrock.com/us/individual/products/240195/blackrock-floating-rate-income-trust-usd-fund",
+        "linkedin_url": null,
+        "is_original": false
+      },
+      {
+        "name": "Carly Wilson",
+        "title": "Co-Portfolio Manager, BGT",
+        "source_url": "https://www.blackrock.com/us/individual/products/240195/blackrock-floating-rate-income-trust-usd-fund",
+        "linkedin_url": null,
+        "is_original": false
+      }
+    ],
+    "recent_news": "BGT completed a rights offering in June 2025 raising $166 million. Total return in 2024 was 18.64%. Monthly dividend of $0.1203/share maintained through 2024-2025. Morningstar rated 5 stars for 5-year and 10-year periods. Annual distribution yield of 12.74% as of end-2025.",
+    "news_source_url": "https://stockanalysis.com/stocks/bgt/",
+    "verification_status": "Verified",
+    "verification_notes": "James Edward Keenan confirmed as a Portfolio Manager for BGT. His broader title at BlackRock is CIO and Global Head of Private Debt. Original title 'Manager - Fund' is consistent. Fund is registered in Delaware as a closed-end fund.",
+    "data_quality_score": 5,
+    "enrichment_notes": "This is a publicly-traded closed-end fund (NYSE: BGT), not a traditional operating company. Founded/IPO year: 2004 (first dividend paid 2004). Has 7 co-portfolio managers. BlackRock Advisors LLC is the investment manager. Strong public data from SEC filings, BlackRock.com, and financial data providers."
+  },
+  {
+    "company_name": "STANLEY HEATING AND AIR CONDITIONING, INC",
+    "state": "NC",
+    "industry": "Plumbing / HVAC",
+    "founded": "1999",
+    "employees": 30,
+    "revenue_usd_000s": 26400,
+    "website": "https://stanleyhvac.com",
+    "website_verified": true,
+    "website_note": "stanleyhvac.com is active and regularly updated. BBB profile and Carrier dealer listing confirm active business.",
+    "description": "Stanley Heating & Air Conditioning, Inc. is a family-owned and operated HVAC, plumbing, electrical, and compressed air company located in Elkin, NC. Founded in 1999 by Tommy Stanley, the company serves residential, commercial, and industrial customers in NC, VA, and SC.",
+    "description_source": "https://stanleyhvac.com/about",
+    "contacts": [
+      {
+        "name": "Tommy Dale Stanley",
+        "title": "Owner & President",
+        "source_url": "https://stanleyhvac.com/meettheteam",
+        "linkedin_url": "https://www.linkedin.com/in/tommy-stanley-b36968148/",
+        "is_original": true
+      },
+      {
+        "name": "David Lee Stanley",
+        "title": "Vice President",
+        "source_url": "https://stanleyhvac.com/meettheteam",
+        "linkedin_url": null,
+        "is_original": false
+      }
+    ],
+    "recent_news": "No significant news found for 2024-2025. Company continues to serve the Elkin, NC area as a Carrier authorized dealer. Located at 1002 Dobbins Mill Rd, Elkin, NC 27023.",
+    "news_source_url": "https://stanleyhvac.com/",
+    "verification_status": "Verified",
+    "verification_notes": "Tommy Dale Stanley confirmed as Owner and President. Original contact listed as 'Mr Stanley Tommy Dale' with title 'President' — verified and consistent. David Lee Stanley is listed as VP on the company's Meet the Team page.",
+    "data_quality_score": 4,
+    "enrichment_notes": "Family business in Elkin, NC (Surry County). Carrier authorized dealer. Fully insured and licensed plumbing and mechanical contractor. Also offers complete compressed air sales and service. Founded 1999, ~30 employees per original data, consistent with company profile."
+  },
+  {
+    "company_name": "STANLEY HEATING AND AIR CONDITIONING, INC (DUPLICATE ENTRY — DAVID LEE STANLEY)",
+    "state": "NC",
+    "industry": "Plumbing / HVAC",
+    "founded": "1999",
+    "employees": 30,
+    "revenue_usd_000s": null,
+    "website": "https://stanleyhvac.com",
+    "website_verified": true,
+    "website_note": "www.stanleyhvac.com is active. This is a duplicate entry for the same company (Stanley Heating & Air Conditioning Inc.), with David Lee Stanley as the contact rather than Tommy Stanley.",
+    "description": "Duplicate entry for Stanley Heating & Air Conditioning, Inc. See prior entry for full description. David Lee Stanley (Vice President) is listed as the contact in this row.",
+    "description_source": "https://stanleyhvac.com/about",
+    "contacts": [
+      {
+        "name": "David Lee Stanley",
+        "title": "Vice President",
+        "source_url": "https://stanleyhvac.com/meettheteam",
+        "linkedin_url": null,
+        "is_original": true
+      },
+      {
+        "name": "Tommy Dale Stanley",
+        "title": "Owner & President",
+        "source_url": "https://stanleyhvac.com/meettheteam",
+        "linkedin_url": "https://www.linkedin.com/in/tommy-stanley-b36968148/",
+        "is_original": false
+      }
+    ],
+    "recent_news": "No significant news 2024-2025. See prior entry for details.",
+    "news_source_url": "https://stanleyhvac.com/",
+    "verification_status": "Verified",
+    "verification_notes": "David Lee Stanley confirmed as Vice President of Stanley Heating & Air Conditioning. Original title 'Vice President' is consistent with the Meet the Team page listing. Duplicate entry — company name was null in original data but company identified from stanleyhvac.com website.",
+    "data_quality_score": 3,
+    "enrichment_notes": "DUPLICATE ENTRY: Same company as the prior Stanley Heating and Air Conditioning entry. Original data had null company name and null state. Contact name was 'Mr David Lee Stanley' with title 'Vice President.' Company identified from stanleyhvac.com. Recommend merging with the prior row."
+  },
+  {
+    "company_name": "KENTUCKY COUNTRY DAY SCHOOL, INC.",
+    "state": "KY",
+    "industry": "Pre-primary / K-12 Education (Independent Day School)",
+    "founded": "1972",
+    "employees": 20,
+    "revenue_usd_000s": 26400,
+    "website": "https://www.kcd.org",
+    "website_verified": true,
+    "website_note": "kcd.org is active and current. Kentucky Country Day School's primary online presence.",
+    "description": "Kentucky Country Day School (KCD) is a private, coeducational JK-12 independent day school located on an 80+ acre campus in Louisville, KY. The school emphasizes the values in its motto: Citizen, Scholar, Steward. It is accredited and serves students from Junior Kindergarten through 12th grade.",
+    "description_source": "https://www.kcd.org/",
+    "contacts": [
+      {
+        "name": "Peter Huestis",
+        "title": "Former Head of School (served July 2019 - 2024)",
+        "source_url": "https://www.kcd.org/announcement-detail?pk=525007",
+        "linkedin_url": null,
+        "is_original": true
+      },
+      {
+        "name": "Jonathan (Jon) M. Kellam",
+        "title": "Interim Head of School (2024-25 academic year)",
+        "source_url": "https://www.kcd.org/news-detail?pk=1336894",
+        "linkedin_url": null,
+        "is_original": false
+      },
+      {
+        "name": "Deena J. Carey",
+        "title": "Head of School (appointed, effective July 1, 2025)",
+        "source_url": "https://www.kcd.org/news-detail?pk=1350287",
+        "linkedin_url": null,
+        "is_original": false
+      }
+    ],
+    "recent_news": "In May 2024, the Board appointed Jon Kellam as Interim Head of School for 2024-25 following Peter Huestis's departure. In October 2024, Deena J. Carey (formerly Associate Head of School at Isidore Newman School, New Orleans) was appointed as new Head of School, effective July 1, 2025. New daily schedule introduced Fall 2024.",
+    "news_source_url": "https://www.kcd.org/news-detail?pk=1350287",
+    "verification_status": "Discrepancy",
+    "verification_notes": "Peter Huestis is listed as 'President' in the original data but his actual title was 'Head of School' — a common distinction at independent schools. Additionally, Huestis departed in 2024 and is no longer in this role. Title 'President' vs 'Head of School' is a discrepancy; the rest of the record is accurate for the period when the data was collected.",
+    "data_quality_score": 5,
+    "enrichment_notes": "Founded date in original data is 26477 (Excel serial) = approximately June 12, 1972. School is accredited. Located at 4100 Springdale Road, Louisville, KY 40241. Peter Huestis served as Head of School from July 2019 to 2024. ProPublica Nonprofit Explorer has tax filings available."
+  },
+  {
+    "company_name": "GEORGIA PUBLIC SAFETY TRAINING CENTER",
+    "state": "GA",
+    "industry": "Other Training / Public Safety Training",
+    "founded": "1980",
+    "employees": 15,
+    "revenue_usd_000s": 26400,
+    "website": "https://www.gpstc.org",
+    "website_verified": true,
+    "website_note": "gpstc.org is active and current. GPSTC is a division of Georgia's Department of Public Safety.",
+    "description": "Georgia Public Safety Training Center (GPSTC) is a state agency providing comprehensive law enforcement, firefighting, emergency medical services, and public safety training to Georgia's public safety officers. Located in Forsyth, GA, it serves as the state's central training facility for POST-certified programs.",
+    "description_source": "https://www.gpstc.org/about-gpstc/",
+    "contacts": [
+      {
+        "name": "Tony Hightower",
+        "title": "General Manager (listed in original data — role not confirmed in current GPSTC leadership)",
+        "source_url": null,
+        "linkedin_url": null,
+        "is_original": true
+      },
+      {
+        "name": "Chris Wigginton (C.G. Wigginton)",
+        "title": "GPSTC Director",
+        "source_url": "https://www.gpstc.org/about-gpstc/leadership/",
+        "linkedin_url": null,
+        "is_original": false
+      },
+      {
+        "name": "Cindy Jones",
+        "title": "Comptroller",
+        "source_url": "https://www.linkedin.com/in/cindy-jones-680432a7/",
+        "linkedin_url": "https://www.linkedin.com/in/cindy-jones-680432a7/",
+        "is_original": false
+      }
+    ],
+    "recent_news": "In 2024: Hosted the 2024 Georgia Impaired Driving Summit with 170+ attendees; participated in 7th Annual Appling County Law Enforcement EXPO (3/20/2024); Governor Kemp held a Board of Public Safety meeting at GPSTC (5/1/2024); hosted graduation of 63rd Basic Community Supervision Officer Training class (October 2024). Hosted 2024 GPSTC Public Safety Conference (November 6-8, 2024).",
+    "news_source_url": "https://www.gsffa.org/2024-gpstc-public-safety-conference",
+    "verification_status": "Discrepancy",
+    "verification_notes": "Tony Hightower listed as 'General Manager' in original data but could not be confirmed as current GPSTC leadership. The confirmed GPSTC Director is Chris Wigginton. Cindy Jones (Comptroller) is confirmed via LinkedIn as a GPSTC employee. It's possible Tony Hightower held a department manager role not prominently listed online.",
+    "data_quality_score": 4,
+    "enrichment_notes": "State agency under Georgia Department of Public Safety. Located at 1000 Indian Springs Drive, Forsyth, GA 31029. Active and busy in 2024 with multiple conferences and training events. Cindy Jones (Comptroller) also appears in a separate row in the original data associated with mansion.georgia.gov — likely a data scraping artifact."
+  },
+  {
+    "company_name": "GEORGIA GOVERNOR'S MANSION (mansion.georgia.gov)",
+    "state": "GA",
+    "industry": "State Government / Historic Property",
+    "founded": "1967",
+    "employees": null,
+    "revenue_usd_000s": null,
+    "website": "https://gov.georgia.gov/governors-mansion",
+    "website_verified": false,
+    "website_note": "mansion.georgia.gov (as listed in original data) may be a non-standard URL or redirect. The official Governor's Mansion website is gov.georgia.gov/governors-mansion. mansion.georgia.gov itself does not appear to be a distinct standalone site per search results.",
+    "description": "The Georgia Governor's Mansion is a 30-room, three-story Greek Revival home built in 1967, situated on 18 acres in northeast Atlanta, GA. It serves as the official residence of Georgia's Governor and First Lady and is managed by the Georgia Building Authority. Public tours available.",
+    "description_source": "https://gov.georgia.gov/governors-mansion",
+    "contacts": [
+      {
+        "name": "Cindy Jones",
+        "title": "Comptroller (confirmed at Georgia Public Safety Training Center; connection to Mansion unclear)",
+        "source_url": "https://www.linkedin.com/in/cindy-jones-680432a7/",
+        "linkedin_url": "https://www.linkedin.com/in/cindy-jones-680432a7/",
+        "is_original": true
+      },
+      {
+        "name": "Brian P. Kemp",
+        "title": "Governor of Georgia (resident of mansion)",
+        "source_url": "https://gov.georgia.gov/",
+        "linkedin_url": null,
+        "is_original": false
+      }
+    ],
+    "recent_news": "No specific news about the mansion itself in 2024-2025 beyond routine holiday tour announcements. Governor Kemp held a Board of Public Safety meeting at GPSTC in May 2024.",
+    "news_source_url": "https://gov.georgia.gov/governors-mansion",
+    "verification_status": "Unverified",
+    "verification_notes": "This entry had null company name and null state in original data. Identified from mansion.georgia.gov URL as the Georgia Governor's Mansion. Cindy Jones (Comptroller) is confirmed at GPSTC via LinkedIn — her connection to the Mansion website is unclear. May be a data scraping error combining GPSTC contact with the Mansion URL.",
+    "data_quality_score": 2,
+    "enrichment_notes": "This is likely a data artifact — Cindy Jones is confirmed as Comptroller at GPSTC, not the Governor's Mansion. These may have been associated in the source database due to proximity. The Governor's Mansion is managed by the Georgia Building Authority and is a state government facility, not a typical corporate lead. mansion.georgia.gov URL may be a subdomain redirect to gov.georgia.gov/governors-mansion."
+  },
+  {
+    "company_name": "PERSONALIZED AIR CONDITIONING, INC.",
+    "state": "FL",
+    "industry": "Plumbing / HVAC",
+    "founded": "1970",
+    "employees": 30,
+    "revenue_usd_000s": 26400,
+    "website": "https://airprosusa.com",
+    "website_verified": true,
+    "website_note": "airprosusa.com is the active website for the parent company Air Pros USA, which acquired Personalized Air Conditioning in June 2022. The original Personalized Air website personalizedair.com may also still be active as a redirect or sub-brand.",
+    "description": "Personalized Air Conditioning, Inc. is a South Florida HVAC, generator, electrical, and home services company founded in 1970, located in Boca Raton, FL. In June 2022, the company was acquired by Fort Lauderdale-based Air Pros USA. The company had 20+ trucks and 30 employees at time of acquisition, serving Broward and Palm Beach Counties.",
+    "description_source": "https://www.prnewswire.com/news-releases/air-pros-usa-expands-services-with-acquisition-of-personalized-air-conditioning-301565568.html",
+    "contacts": [
+      {
+        "name": "Theresa Marie Deutsch",
+        "title": "Manager (listed in original data — role post-acquisition unclear)",
+        "source_url": null,
+        "linkedin_url": null,
+        "is_original": true
+      },
+      {
+        "name": "Susan Frank",
+        "title": "President (at time of Air Pros USA acquisition in June 2022)",
+        "source_url": "https://www.prnewswire.com/news-releases/air-pros-usa-expands-services-with-acquisition-of-personalized-air-conditioning-301565568.html",
+        "linkedin_url": null,
+        "is_original": false
+      },
+      {
+        "name": "Anthony Perera",
+        "title": "CEO, Air Pros USA (parent company)",
+        "source_url": "https://airprosusa.com/press-release/air-pros-usa-expands-services-with-acquisition-of-personalized-air-conditioning/",
+        "linkedin_url": null,
+        "is_original": false
+      }
+    ],
+    "recent_news": "In June 2022, Personalized Air Conditioning was acquired by Air Pros USA, a Fort Lauderdale-based HVAC consolidator. The acquisition added electrical, indoor/outdoor lighting, pool heating, and generator services to Air Pros USA's portfolio. Founded date in original data is 2020 but actual founding was 1970.",
+    "news_source_url": "https://www.prnewswire.com/news-releases/air-pros-usa-expands-services-with-acquisition-of-personalized-air-conditioning-301565568.html",
+    "verification_status": "Discrepancy",
+    "verification_notes": "Theresa Marie Deutsch listed as Manager could not be confirmed as a senior officer. The confirmed president at time of acquisition was Susan Frank. Founded date in original data is 2020 — but company actually founded in 1970 (50 years old at time of 2022 acquisition). Significant discrepancy in founding year.",
+    "data_quality_score": 4,
+    "enrichment_notes": "Acquired by Air Pros USA in June 2022. Company located at 159 NW 11th Street, Boca Raton, FL 33432. Phone: (561) 391-8190. The original data shows founded year of 2020, but multiple sources confirm the company was founded in 1970. Theresa Deutsch's specific role could not be confirmed — the name does not appear in press or Sunbiz corporate records for this company."
+  },
+  {
+    "company_name": "PERSONALIZED AIR CONDITIONING, INC. (DUPLICATE ENTRY)",
+    "state": "FL",
+    "industry": "Plumbing / HVAC",
+    "founded": "1970",
+    "employees": null,
+    "revenue_usd_000s": null,
+    "website": "https://www.personalizedair.com",
+    "website_verified": false,
+    "website_note": "personalizedair.com is listed as the original URL. Post-acquisition by Air Pros USA in June 2022, the primary site may redirect to airprosusa.com. Status of personalizedair.com as a standalone site unclear.",
+    "description": "Duplicate entry for Personalized Air Conditioning, Inc. See prior entry for full description. This row lists the original company website (personalizedair.com) and Theresa Marie Deutsch as 'Auth' (authorized contact).",
+    "description_source": "https://www.prnewswire.com/news-releases/air-pros-usa-expands-services-with-acquisition-of-personalized-air-conditioning-301565568.html",
+    "contacts": [
+      {
+        "name": "Theresa Marie Deutsch",
+        "title": "Authorized Contact / Auth (role unconfirmed post-acquisition)",
+        "source_url": null,
+        "linkedin_url": null,
+        "is_original": true
+      },
+      {
+        "name": "Susan Frank",
+        "title": "Former President (pre-acquisition)",
+        "source_url": "https://www.prnewswire.com/news-releases/air-pros-usa-expands-services-with-acquisition-of-personalized-air-conditioning-301565568.html",
+        "linkedin_url": null,
+        "is_original": false
+      }
+    ],
+    "recent_news": "Personalized Air Conditioning acquired by Air Pros USA in June 2022. See prior entry for full details.",
+    "news_source_url": "https://www.prnewswire.com/news-releases/air-pros-usa-expands-services-with-acquisition-of-personalized-air-conditioning-301565568.html",
+    "verification_status": "Unverified",
+    "verification_notes": "Null company name and null state in original data. Company identified from personalizedair.com URL. This is a duplicate of the prior Personalized Air Conditioning entry. Theresa Deutsch's 'Auth' title may mean authorized representative in a state corporate filing context. Could not verify her current role post-acquisition.",
+    "data_quality_score": 2,
+    "enrichment_notes": "DUPLICATE ENTRY: Same company as prior Personalized Air Conditioning, Inc. entry. Original data row had null company name, null state, contact Theresa Marie Deutsch with title 'Auth.' Personalizedair.com was the original company website pre-acquisition. Recommend merging with prior row."
+  },
+  {
+    "company_name": "NROTCU GEORGIA INSTITUTE OF TECHNOLOGY",
+    "state": "GA",
+    "industry": "Post-secondary Education / Military Officer Training",
+    "founded": "1926",
+    "employees": 11,
+    "revenue_usd_000s": 26400,
+    "website": "https://nrotc.gatech.edu",
+    "website_verified": true,
+    "website_note": "nrotc.gatech.edu is active and current. The original data listed www.gatech.edu (the main Georgia Tech website). The specific NROTC unit website is nrotc.gatech.edu.",
+    "description": "The Naval Reserve Officer Training Corps Unit (NROTCU) at Georgia Institute of Technology is part of the Atlanta Region NROTC Consortium, which includes units at Georgia Tech, Morehouse College, Georgia State University, and Kennesaw State University. The program has trained Naval and Marine Corps officers since 1926.",
+    "description_source": "https://nrotc.gatech.edu/",
+    "contacts": [
+      {
+        "name": "Dana Simpson",
+        "title": "Staff (title unspecified in original data — role at NROTC unit unclear)",
+        "source_url": null,
+        "linkedin_url": null,
+        "is_original": true
+      },
+      {
+        "name": "Commander McNeil (T-Mac)",
+        "title": "Deputy Commander, Atlanta Region NROTC Consortium / Deputy Professor of Naval Science",
+        "source_url": "https://nrotc.gatech.edu/staff/",
+        "linkedin_url": null,
+        "is_original": false
+      }
+    ],
+    "recent_news": "In April 2024, Georgia Tech featured its graduating midshipmen in a news piece ('Grad Caps and Commissions'). Commander McNeil (T-Mac) assumed duties in August 2022 as Deputy Commander of the Atlanta NROTC Consortium. The program operates across 4 Atlanta-area universities.",
+    "news_source_url": "https://news.gatech.edu/features/2024/04/grad-caps-and-commissions",
+    "verification_status": "Unverified",
+    "verification_notes": "Dana Simpson listed as contact with 'No specific function' as title. Dana Simpson could not be found in NROTC staff listings for Georgia Tech. The current commanding officer is (or was) CDR McNeil as of August 2022. Dana Simpson's role at this unit remains unverified.",
+    "data_quality_score": 3,
+    "enrichment_notes": "This is a U.S. Navy ROTC unit, not a standalone company. It is a unit of the U.S. Navy operating within Georgia Tech. Founded date in original data is 1898 (likely incorrect for the NROTC unit; Georgia Tech was founded 1888 and the NROTC program started in 1926). The '1898' may reflect a general GT date. NROTC Atlanta Consortium covers GT, Morehouse, GSU, and Kennesaw State."
+  },
+  {
+    "company_name": "CHARLES F BRUCKNER & SON INC",
+    "state": "IL",
+    "industry": "Plumbing / HVAC",
+    "founded": "1890",
+    "employees": 2,
+    "revenue_usd_000s": 26400,
+    "website": "https://www.cfbruckner.com",
+    "website_verified": true,
+    "website_note": "cfbruckner.com is active. Company moved from the original West 26th St Chicago location late 2019. Currently operating out of Broadview, IL and Chicago.",
+    "description": "Charles F. Bruckner & Son Inc. (also known as Chas F. Bruckner and Son Plumbing) is a fifth-generation, family-owned commercial plumbing company founded in Chicago in 1890 by German immigrant Charles F. Bruckner. The company has served Chicago and surrounding areas for over 130 years, including projects at the 1933 World's Fair and Walgreens store expansions.",
+    "description_source": "http://www.cfbruckner.com/history.htm",
+    "contacts": [
+      {
+        "name": "James F. Bruckner",
+        "title": "4th Generation Co-Owner (James 'Jim' Bruckner)",
+        "source_url": "https://www.licensed.contractors/illinois/chicago/charles-f-bruckner-son-inc-361423.html",
+        "linkedin_url": null,
+        "is_original": true
+      },
+      {
+        "name": "Tom Bruckner",
+        "title": "4th Generation Co-Owner",
+        "source_url": "http://www.cfbruckner.com/history.htm",
+        "linkedin_url": null,
+        "is_original": false
+      },
+      {
+        "name": "Cliff Bruckner",
+        "title": "5th Generation / Plumber",
+        "source_url": "https://chicago.suntimes.com/voices-labor/2019/10/21/20922716/cliff-chas-f-bruckner-son-plumbing-plumbers-local-130",
+        "linkedin_url": null,
+        "is_original": false
+      }
+    ],
+    "recent_news": "In 2019, the Chicago Sun-Times profiled Cliff Bruckner and the company's 130-year history. The company relocated its Chicago office from W. 26th Street (where it had been since founding) in late 2019. No major news found for 2024-2025.",
+    "news_source_url": "https://chicago.suntimes.com/voices-labor/2019/10/21/20922716/cliff-chas-f-bruckner-son-plumbing-plumbers-local-130",
+    "verification_status": "Discrepancy",
+    "verification_notes": "James F. Bruckner confirmed as 4th generation co-owner (listed in contractor records as 'Jim Bruckner'). Original data listed him with 'No specific function' as title, but he is effectively a co-owner/principal. Founded year in original data is 1955 — this is incorrect; the company was founded in 1890. The '1955' may reflect a state incorporation date rather than the founding year.",
+    "data_quality_score": 4,
+    "enrichment_notes": "One of the oldest continuously operating family plumbing businesses in the US. Founded 1890 (original data says 1955 — discrepancy, likely reflecting an incorporation date rather than founding). Offices at 503 W 26th St, Chicago, IL 60616 (historic) and 2535 S. 25th Ave, Broadview, IL 60558. Typical permit size ~$2.4M. Plumbers Local 130 union shop. PHCPPros named them among 'America's Oldest Family Owned' companies in 2020."
+  },
+  {
+    "company_name": "JOSWIG CONSTRUCTION, INC.",
+    "state": "FL",
+    "industry": "Specialised Construction / Structural Concrete",
+    "founded": "1978",
+    "employees": 50,
+    "revenue_usd_000s": 26400,
+    "website": "https://www.joswigconstruction.com",
+    "website_verified": true,
+    "website_note": "joswigconstruction.com is active. Company also listed on Yelp as updated August 2025. Multiple address listings: 12150 34th St N, Clearwater and 2150 Lake Ave SE, Largo, FL.",
+    "description": "Joswig Construction, Inc. is a structural concrete contracting company headquartered in Clearwater, FL that has been the premier structural concrete contractor in the Tampa Bay Area since 1978. Services include commercial, industrial, and residential concrete work, cast-in-place concrete structures, and repairs. Certified as an MBE business with a LEED AP on staff.",
+    "description_source": "https://www.joswigconstruction.com/",
+    "contacts": [
+      {
+        "name": "James Keys (Jimmy Keys)",
+        "title": "President & Registered Agent",
+        "source_url": "https://www.zoominfo.com/p/Jimmy-Keys/15330205723",
+        "linkedin_url": null,
+        "is_original": true
+      },
+      {
+        "name": "Ryan DeHahn",
+        "title": "Vice President",
+        "source_url": "https://leadiq.com/c/joswig-construction-inc/5a1d9fba2300005e00906f24",
+        "linkedin_url": null,
+        "is_original": false
+      },
+      {
+        "name": "Karen Lynn Flores",
+        "title": "CFO",
+        "source_url": "https://search.sunbiz.org/Inquiry/CorporationSearch/SearchResultDetail?inquirytype=EntityName&directionType=ForwardList&searchNameOrder=JOSWIG",
+        "linkedin_url": null,
+        "is_original": false
+      },
+      {
+        "name": "Enrique Flores",
+        "title": "Director",
+        "source_url": "https://search.sunbiz.org/Inquiry/CorporationSearch/SearchResultDetail?inquirytype=EntityName&directionType=ForwardList&searchNameOrder=JOSWIG",
+        "linkedin_url": null,
+        "is_original": false
+      }
+    ],
+    "recent_news": "Joswig Construction worked on a commercial construction project at 3205 E 4th Ave, Tampa, FL (last event: May 2024), plus projects in Riverview and Brooksville, FL. Company holds Certified General Contractor License: CGC1528220.",
+    "news_source_url": "https://www.buildzoom.com/contractor/joswig-construction-inc-fl",
+    "verification_status": "Verified",
+    "verification_notes": "Original contact 'Ms Keys James' with title 'President' has a formatting inversion — the contact is James Keys (Jimmy Keys), male, with title President. Confirmed as President and Registered Agent via Florida SunBiz corporate records and ZoomInfo. Founded date in original data was 28776 (Excel serial) = October 13, 1978, matching the Florida corporate filing date.",
+    "data_quality_score": 5,
+    "enrichment_notes": "Founded date in original data is 28776 (Excel serial) = October 13, 1978 — matches Florida SunBiz filing date. Contact name in original data appears to be inverted ('Ms Keys James' should be 'Mr. James Keys'). The 'Ms.' salutation is likely incorrect. Located at 12150 34th St N, Clearwater, FL 33762. Florida Profit Corporation, active. MBE certified, LEED AP on staff. 8+ permitted projects in past 3 years."
+  },
+  {
+    "company_name": "CRIDER & CRIDER, INC.",
+    "state": "IN",
+    "industry": "Other Civil Engineering / Highway Contracting",
+    "founded": "1954",
+    "employees": 70,
+    "revenue_usd_000s": 26400,
+    "website": "https://criderandcrider.com",
+    "website_verified": true,
+    "website_note": "criderandcrider.com is active and current. LinkedIn company page also active.",
+    "description": "Crider & Crider, Inc. is a family-owned, Bloomington, Indiana-based civil and highway contractor founded in 1954 by John E. Crider and incorporated in 1979. The company specializes in utility system construction, highway and bridge construction, excavation and grading, underground utilities, site development, and related civil engineering work.",
+    "description_source": "https://criderandcrider.com/about-us/our-company/",
+    "contacts": [
+      {
+        "name": "Robert E. Crider",
+        "title": "Former Principal (deceased February 17, 2018)",
+        "source_url": "https://thefuneralchapel.net/book-of-memories/3430751/crider-robert-e-bob/obituary.php",
+        "linkedin_url": null,
+        "is_original": true
+      },
+      {
+        "name": "Steve Crider",
+        "title": "Owner (current)",
+        "source_url": "https://www.dnb.com/business-directory/company-profiles.crider__crider_inc.badc7558bbf6c2d4cdc1c0c791e0bd17.html",
+        "linkedin_url": null,
+        "is_original": false
+      },
+      {
+        "name": "Laura Terry",
+        "title": "Office Manager",
+        "source_url": "https://www.thebluebook.com/iProView/335153/crider-crider-inc/general-contractors/locations-contacts/",
+        "linkedin_url": null,
+        "is_original": false
+      }
+    ],
+    "recent_news": "In February 2024, INDOT awarded Crider & Crider a $9.5 million contract for State Road 45/46 intersection improvements in Bloomington, with completion scheduled for Fall 2025. Work resumed in February 2025. Company was also a joint contractor with Reith-Riley on a major $345 million I-69 corridor contract.",
+    "news_source_url": "https://www.wbiw.com/2025/01/30/work-to-resume-on-state-road-45-46-in-bloomington/",
+    "verification_status": "Discrepancy",
+    "verification_notes": "Robert E. Crider was listed as President but he is deceased as of February 2018. Current owner appears to be Steve (Steven) Crider. Robert E. 'Bob' Crider (born 1930) was son of founder John E. Crider and was a key principal historically. Original data may be outdated by several years.",
+    "data_quality_score": 5,
+    "enrichment_notes": "Family-owned contractor since 1954. Founded by John E. Crider; Robert E. Crider (2nd generation) deceased February 2018. Current owner/operator is Steve Crider. Located at 1900 S Liberty Drive, Bloomington, IN 47403. Also has Indianapolis location. Incorporated in Indiana 1979. Union contractor. Major recent project: $9.5M SR 45/46 INDOT contract (2024-2025). Previously part of $345M I-69 construction joint contract."
+  }
+]

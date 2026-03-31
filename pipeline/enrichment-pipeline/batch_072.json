@@ -1,0 +1,834 @@
+[
+  {
+    "name": "QUANTIFACTS INC",
+    "state": "RI",
+    "year_incorporated": "2001",
+    "nace": "5829",
+    "employees": "12",
+    "revenue_usd": 2690000,
+    "pl_before_tax": null,
+    "total_assets": null,
+    "equity": null,
+    "website": "www.quantifacts.com",
+    "description": null,
+    "contacts": [
+      {
+        "name": "Mr Jack Nichols",
+        "title": "President"
+      },
+      {
+        "name": "Mr Chris Nichols",
+        "title": "Vice President of Client Services and New Product Development"
+      },
+      {
+        "name": "Mr Bob Michienzi",
+        "title": "Vice President of Engineering"
+      },
+      {
+        "name": "Mr Dan Marion",
+        "title": "Software Developer"
+      },
+      {
+        "name": "Mr Mark Trottier",
+        "title": "Senior Analyst"
+      }
+    ]
+  },
+  {
+    "name": "NANIGANS, INC.",
+    "state": "MA",
+    "year_incorporated": "2011",
+    "nace": "5829",
+    "employees": "160",
+    "revenue_usd": 2690000,
+    "pl_before_tax": null,
+    "total_assets": null,
+    "equity": null,
+    "website": "www.nanigans.com",
+    "description": "Engaged in the provision of computer programming services",
+    "contacts": [
+      {
+        "name": "Mr Jim Payne",
+        "title": "Board of Dirs"
+      },
+      {
+        "name": "Mr Ric Calvillo",
+        "title": "Co-Founder, President & Chief Executive Officer; Shareholder"
+      },
+      {
+        "name": "Mr Ricardo Calvillo Jr",
+        "title": "Chief Executive Officer & Founder"
+      },
+      {
+        "name": "Mr Claude Denton",
+        "title": "Shareholder; Co-Founder & CTO"
+      },
+      {
+        "name": "Mr Claude Denton",
+        "title": "Chief Technology Officer"
+      },
+      {
+        "name": "Mr Nick Gianos",
+        "title": "Vice President Business Development"
+      },
+      {
+        "name": "Mr Eric Puterbaugh",
+        "title": "Vice President, Strategic Accounts"
+      },
+      {
+        "name": "Mr Benjamin Bainbridge Tregoe III",
+        "title": "Senior Vice President Business Development and Corporate Development"
+      },
+      {
+        "name": "Mr Scott Ward",
+        "title": "Senior Vice President Finance"
+      },
+      {
+        "name": "Mr Mark Loring",
+        "title": "Controller"
+      },
+      {
+        "name": "Alysa Shea",
+        "title": "Human Resources & Administrative Coordinator"
+      },
+      {
+        "name": "Ms Ruth Fradenburg",
+        "title": "Global Director of Training"
+      },
+      {
+        "name": "Ms Katherine Bove",
+        "title": "Manager, Human Resources"
+      },
+      {
+        "name": "Mr Richard Connolly",
+        "title": "Manager, Human Resources (Contract)"
+      },
+      {
+        "name": "Mr David Paquette",
+        "title": "Vice President US Sales"
+      },
+      {
+        "name": "Mr Saad Munir",
+        "title": "Senior Director, Sales"
+      },
+      {
+        "name": "Ms Tessa Rudd",
+        "title": "Director Sales"
+      },
+      {
+        "name": "Mr Ryan Kelly",
+        "title": "Growth Marketing Manager"
+      },
+      {
+        "name": "Ms Suzanne Wong",
+        "title": "Vice President, Customer Success - East"
+      },
+      {
+        "name": "Loni Poon",
+        "title": "Account Director"
+      },
+      {
+        "name": "Mr John Finnigan",
+        "title": "Customer Success Manager / Technical Account Manager"
+      },
+      {
+        "name": "Justine Homsi",
+        "title": "Senior Customer Success Manager"
+      },
+      {
+        "name": "Ms Bethany Klose",
+        "title": "Team Lead, East Coast Customer Success"
+      },
+      {
+        "name": "Ms Dana Popkave",
+        "title": "General Counsel"
+      },
+      {
+        "name": "Mr Derek Yimoyines",
+        "title": "Vice President Engineering"
+      },
+      {
+        "name": "Mr Richard Jose",
+        "title": "Director, Engineering"
+      },
+      {
+        "name": "Ms Katherine Ingalls",
+        "title": "Senior Product Specialist in Campaign Optimization"
+      },
+      {
+        "name": "Ms Ankita Singh",
+        "title": "Product Specialist"
+      },
+      {
+        "name": "Mr Dave Carroll",
+        "title": "Vice President, Information Technology Operations, Solutions Architect"
+      },
+      {
+        "name": "Ms Sandy De",
+        "title": "Ad Operations Campaign Manager"
+      },
+      {
+        "name": "Mr Ethan Langer",
+        "title": "Junior Quality Assurance Engineer"
+      },
+      {
+        "name": "Mr Sean Maguire",
+        "title": "Software Engineer"
+      },
+      {
+        "name": "Mr Deep Singh",
+        "title": "Senior Software Developer"
+      },
+      {
+        "name": "Mr Dan West",
+        "title": "Software Architect"
+      },
+      {
+        "name": "Ms Kristy Daykin",
+        "title": "Executive Assistant to the Chief Executive Officer"
+      },
+      {
+        "name": "Mr Brian Scannell",
+        "title": "Optimization Engineer"
+      },
+      {
+        "name": "Mr Otto Mader",
+        "title": "Postmaster"
+      }
+    ]
+  },
+  {
+    "name": "RAMP HOLDINGS INC.",
+    "state": "MA",
+    "year_incorporated": "2008",
+    "nace": "5829",
+    "employees": "10",
+    "revenue_usd": 2690000,
+    "pl_before_tax": null,
+    "total_assets": null,
+    "equity": null,
+    "website": "www.ramp.com",
+    "description": "Content optimisation software-as-a-service (SaaS) operator holding company",
+    "contacts": [
+      {
+        "name": "Mr Thomas Racca",
+        "title": "Chief Executive Officer"
+      },
+      {
+        "name": "Ms Beverly Osborne",
+        "title": "Sales Director"
+      },
+      {
+        "name": "Ms Denise Iverson",
+        "title": "Vice President, Marketing"
+      },
+      {
+        "name": "Mr Alan Macleod",
+        "title": "Vice President Product"
+      },
+      {
+        "name": "Mr Anthony D'Amore",
+        "title": "No specific function"
+      },
+      {
+        "name": "Ms Liza Boyd",
+        "title": "Directory"
+      }
+    ]
+  },
+  {
+    "name": "OMNISPEECH LLC",
+    "state": "MD",
+    "year_incorporated": "2009",
+    "nace": "5829",
+    "employees": "11",
+    "revenue_usd": 2680000,
+    "pl_before_tax": null,
+    "total_assets": null,
+    "equity": null,
+    "website": "www.omni-speech.com",
+    "description": null,
+    "contacts": [
+      {
+        "name": "Mr John Bartusek",
+        "title": "Senior Research Engineer"
+      }
+    ]
+  },
+  {
+    "name": "CONTINENTAL COMPUTERS INC",
+    "state": "AR",
+    "year_incorporated": "2007",
+    "nace": "5829",
+    "employees": "19",
+    "revenue_usd": 2680000,
+    "pl_before_tax": null,
+    "total_assets": null,
+    "equity": null,
+    "website": "continentalcomputers.com",
+    "description": null,
+    "contacts": []
+  },
+  {
+    "name": "EMPRESS SOFTWARE INCORPORATED",
+    "state": "MD",
+    "year_incorporated": "1987",
+    "nace": "5829",
+    "employees": "20",
+    "revenue_usd": 2680000,
+    "pl_before_tax": null,
+    "total_assets": null,
+    "equity": null,
+    "website": "www.empress.com",
+    "description": null,
+    "contacts": [
+      {
+        "name": "Mr John Kornatowski",
+        "title": "President"
+      },
+      {
+        "name": "Ms Channa Watson",
+        "title": "No specific function"
+      }
+    ]
+  },
+  {
+    "name": "ZTECH CORP",
+    "state": "MD",
+    "year_incorporated": "1999",
+    "nace": "5829",
+    "employees": "10",
+    "revenue_usd": 2680000,
+    "pl_before_tax": null,
+    "total_assets": null,
+    "equity": null,
+    "website": "www.z-techcorp.com",
+    "description": "Engaged in the software publishing activities in the United States",
+    "contacts": []
+  },
+  {
+    "name": "BANQU INC.",
+    "state": "MN",
+    "year_incorporated": "2016",
+    "nace": "5829",
+    "employees": "12",
+    "revenue_usd": 2680000,
+    "pl_before_tax": null,
+    "total_assets": null,
+    "equity": null,
+    "website": "www.banqu.co",
+    "description": "Online financial economic identity blockchain platform operator",
+    "contacts": [
+      {
+        "name": "Mr Ashish Anant Gadnis",
+        "title": "Co-Founder & Chief Executive Officer"
+      },
+      {
+        "name": "Mr Hamse Warfa",
+        "title": "Co-Founder"
+      },
+      {
+        "name": "Mr Brady Bizal",
+        "title": "Vice President, Business Development"
+      },
+      {
+        "name": "Mr Chris Schaaf",
+        "title": "Sales and Implementation"
+      },
+      {
+        "name": "Mr Tyler Campbell",
+        "title": "Implementation Consultant"
+      },
+      {
+        "name": "Mr Jeffrey A Keiser",
+        "title": "No specific function"
+      }
+    ]
+  },
+  {
+    "name": "VNTG, INC.",
+    "state": "NY",
+    "year_incorporated": "2021",
+    "nace": "5829",
+    "employees": "30",
+    "revenue_usd": 2670000,
+    "pl_before_tax": null,
+    "total_assets": null,
+    "equity": null,
+    "website": "www.vntg.com",
+    "description": null,
+    "contacts": [
+      {
+        "name": "Ben Schaechter",
+        "title": "Executive Officer"
+      }
+    ]
+  },
+  {
+    "name": "TECH NOVATION SOFTWARE",
+    "state": "CA",
+    "year_incorporated": "1991",
+    "nace": "5829",
+    "employees": "20",
+    "revenue_usd": 2670000,
+    "pl_before_tax": null,
+    "total_assets": null,
+    "equity": null,
+    "website": "www.technovation.com",
+    "description": null,
+    "contacts": []
+  },
+  {
+    "name": "SESAME SOFTWARE",
+    "state": "CA",
+    "year_incorporated": "1988",
+    "nace": "5829",
+    "employees": "20",
+    "revenue_usd": 2670000,
+    "pl_before_tax": null,
+    "total_assets": null,
+    "equity": null,
+    "website": "www.sesamesoftware.com",
+    "description": null,
+    "contacts": [
+      {
+        "name": "Mr Michael Hoydic",
+        "title": "Accounts Receivable Manager"
+      },
+      {
+        "name": "Mr Robert Janicki",
+        "title": "Sales Operations Manager"
+      },
+      {
+        "name": "Mr Robert Janicki",
+        "title": "Customer Advocate"
+      },
+      {
+        "name": "Ms Monica Olmsted",
+        "title": "Inside Sales"
+      },
+      {
+        "name": "Ms Crystal Duarte",
+        "title": "Director of Marketing"
+      },
+      {
+        "name": "Ms Martha Austin",
+        "title": "Information Technology Director"
+      },
+      {
+        "name": "Mr Keith Smith",
+        "title": "Senior Software Engineer"
+      },
+      {
+        "name": "Mr Louis Linfoot",
+        "title": "Telesales Manager"
+      },
+      {
+        "name": "Mr Joshua Demumbreum",
+        "title": "Support Analyst"
+      },
+      {
+        "name": "Ms Rebecca Wyatt",
+        "title": "Ux / Ui Designer"
+      }
+    ]
+  },
+  {
+    "name": "HER INTERACTIVE, INC.",
+    "state": "WA",
+    "year_incorporated": "1988",
+    "nace": "5829",
+    "employees": "25",
+    "revenue_usd": 2670000,
+    "pl_before_tax": null,
+    "total_assets": null,
+    "equity": null,
+    "website": "www.herinteractive.com",
+    "description": "Engaged in the design, development, publishing, and distribution of mystery adventure games for girls",
+    "contacts": [
+      {
+        "name": "Ms Penny Milliken",
+        "title": "Chief Executive Officer"
+      },
+      {
+        "name": "Ms Penny Milliken",
+        "title": "Executive"
+      },
+      {
+        "name": "Ms Jeanne Avis",
+        "title": "Administrative Support Specialist"
+      },
+      {
+        "name": "Mr Jared Nieuwenhuis",
+        "title": "Director, Marketing"
+      },
+      {
+        "name": "Ms Patricia Bertero",
+        "title": "Executive"
+      },
+      {
+        "name": "Mr Franklin Johnson",
+        "title": "Executive"
+      },
+      {
+        "name": "Mr Leslie Johnson Evers",
+        "title": "Executive"
+      },
+      {
+        "name": "Mr Robert Klee JR",
+        "title": "Executive"
+      },
+      {
+        "name": "Mr Robert Wallace",
+        "title": "Executive"
+      }
+    ]
+  },
+  {
+    "name": "SATORI GROUP INC",
+    "state": "PA",
+    "year_incorporated": "2001",
+    "nace": "5829",
+    "employees": "25",
+    "revenue_usd": 2670000,
+    "pl_before_tax": null,
+    "total_assets": null,
+    "equity": null,
+    "website": "www.satorigroupinc.com",
+    "description": null,
+    "contacts": []
+  },
+  {
+    "name": "CINDER TECHNOLOGIES, INC.",
+    "state": "DC",
+    "year_incorporated": "2022",
+    "nace": "5829",
+    "employees": "16",
+    "revenue_usd": 2670000,
+    "pl_before_tax": null,
+    "total_assets": null,
+    "equity": null,
+    "website": "www.cinder.co",
+    "description": null,
+    "contacts": []
+  },
+  {
+    "name": "FALCONSTOR, INC.",
+    "state": "TX",
+    "year_incorporated": "2000",
+    "nace": "5829",
+    "employees": "19",
+    "revenue_usd": 2660000,
+    "pl_before_tax": null,
+    "total_assets": null,
+    "equity": null,
+    "website": "www.falconstor.com",
+    "description": "Non classifiable establishment",
+    "contacts": [
+      {
+        "name": "Mr Robert Todd Brooks",
+        "title": "President & Chief Executive Officer"
+      },
+      {
+        "name": "Mr Robert Todd Brooks",
+        "title": "Officer"
+      },
+      {
+        "name": "Mr Rei Jane Huai",
+        "title": "Executive Officer"
+      },
+      {
+        "name": "Mr Gary Thomas Quinn",
+        "title": "Executive Officer"
+      },
+      {
+        "name": "Mr Alan Komet",
+        "title": "Vice President"
+      },
+      {
+        "name": "Mr Charles Bradford Wolfe",
+        "title": "Vice President"
+      },
+      {
+        "name": "Mr Wayne Lam",
+        "title": "Secretary"
+      },
+      {
+        "name": "Mr Vincent Sita",
+        "title": "Secretary"
+      },
+      {
+        "name": "Mr Patrick Sean McClain",
+        "title": "Chief Financial Officer"
+      },
+      {
+        "name": "Mr Daniel Gennaro Murale",
+        "title": "Treasurer"
+      },
+      {
+        "name": "Mr Miller William D",
+        "title": "Officer"
+      },
+      {
+        "name": "Mr Miller William D",
+        "title": "Director"
+      },
+      {
+        "name": "Mr Barry A. Rudolph",
+        "title": "Officer"
+      },
+      {
+        "name": "Mr Martin M. Hale JR",
+        "title": "Director"
+      },
+      {
+        "name": "Mr Kelly Michael",
+        "title": "Director"
+      }
+    ]
+  },
+  {
+    "name": "DEFENDX SOFTWARE",
+    "state": "MA",
+    "year_incorporated": "1994",
+    "nace": "5829",
+    "employees": "54",
+    "revenue_usd": 2660000,
+    "pl_before_tax": null,
+    "total_assets": null,
+    "equity": null,
+    "website": "www.defendx.com",
+    "description": null,
+    "contacts": [
+      {
+        "name": "Mr Michael Brooks",
+        "title": "Vice President, Sales"
+      },
+      {
+        "name": "Mr Eric Raymond",
+        "title": "Global Sales Director"
+      },
+      {
+        "name": "Ms Vanessa Colon",
+        "title": "Manager, Sales Operations"
+      },
+      {
+        "name": "Ms Natalie Glynn",
+        "title": "Client Relationship Manager"
+      }
+    ]
+  },
+  {
+    "name": "DATACAPABLE INC",
+    "state": "CA",
+    "year_incorporated": "2015",
+    "nace": "5829",
+    "employees": "19",
+    "revenue_usd": 2660000,
+    "pl_before_tax": null,
+    "total_assets": null,
+    "equity": null,
+    "website": "www.datacapable.com",
+    "description": "Situational awareness, real-time threat and outage mapping Software-as-a-Service (SaaS) provider",
+    "contacts": [
+      {
+        "name": "Mr Zac Canders",
+        "title": "Cofounder; Shareholder"
+      }
+    ]
+  },
+  {
+    "name": "APPLIED SOFTWARE, INC.",
+    "state": "MD",
+    "year_incorporated": "1990",
+    "nace": "5829",
+    "employees": "80",
+    "revenue_usd": 2650000,
+    "pl_before_tax": null,
+    "total_assets": null,
+    "equity": null,
+    "website": "www.magview.com",
+    "description": null,
+    "contacts": [
+      {
+        "name": "Kendall J Monson",
+        "title": "Owner"
+      }
+    ]
+  },
+  {
+    "name": "UNABRIDGED SOFTWARE LLC",
+    "state": "NE",
+    "year_incorporated": "2010",
+    "nace": "5829",
+    "employees": "16",
+    "revenue_usd": 2650000,
+    "pl_before_tax": null,
+    "total_assets": null,
+    "equity": null,
+    "website": "www.unabridgedsoftware.com",
+    "description": null,
+    "contacts": [
+      {
+        "name": "Mr Drew Ulmer",
+        "title": "Founder"
+      },
+      {
+        "name": "Mr Nicholas Zielinski",
+        "title": "Founder"
+      },
+      {
+        "name": "Ms Melinda Deinert",
+        "title": "Web Developer"
+      },
+      {
+        "name": "Mr Drew Ulmer",
+        "title": "Officer"
+      }
+    ]
+  },
+  {
+    "name": "LOATS ASSOCIATES INC",
+    "state": "MD",
+    "year_incorporated": null,
+    "nace": "5829",
+    "employees": "10",
+    "revenue_usd": 2650000,
+    "pl_before_tax": null,
+    "total_assets": null,
+    "equity": null,
+    "website": "www.loats.com",
+    "description": null,
+    "contacts": []
+  },
+  {
+    "name": "SKILLSMART, INC.",
+    "state": "MD",
+    "year_incorporated": "2019",
+    "nace": "5829",
+    "employees": "15",
+    "revenue_usd": 2650000,
+    "pl_before_tax": null,
+    "total_assets": null,
+    "equity": null,
+    "website": "www.skillsmart.us",
+    "description": null,
+    "contacts": [
+      {
+        "name": "Mr Jason Green",
+        "title": "Co-Founder & Senior Vice President & General Counsel"
+      },
+      {
+        "name": "Ms Karen Bertrand",
+        "title": "Bookkeeper"
+      },
+      {
+        "name": "Mr Steven Bountress",
+        "title": "Director of Client Services"
+      },
+      {
+        "name": "Mr John Dillow",
+        "title": "Director of Client Services"
+      },
+      {
+        "name": "Ms Lisa Farias",
+        "title": "Client Success Champion"
+      },
+      {
+        "name": "Ms Fawne Matthai",
+        "title": "Client Service Specialist"
+      },
+      {
+        "name": "Mr Kyle Friis",
+        "title": "Product Manager"
+      }
+    ]
+  },
+  {
+    "name": "CONTINUOUS COMPLIANCE, LLC",
+    "state": "MD",
+    "year_incorporated": "2011",
+    "nace": "5829",
+    "employees": "10",
+    "revenue_usd": 2650000,
+    "pl_before_tax": null,
+    "total_assets": null,
+    "equity": null,
+    "website": "futurefeed.co",
+    "description": null,
+    "contacts": [
+      {
+        "name": "Mr Mark Berman",
+        "title": "Chief Executive Officer"
+      },
+      {
+        "name": "Ms Tetyana Berman",
+        "title": "No specific function"
+      }
+    ]
+  },
+  {
+    "name": "CONDOR SOFTWARE, INC.",
+    "state": "CA",
+    "year_incorporated": "2020",
+    "nace": "5829",
+    "employees": "12",
+    "revenue_usd": 2640000,
+    "pl_before_tax": null,
+    "total_assets": null,
+    "equity": null,
+    "website": "www.condorsoftware.com",
+    "description": "Corporate, Subsidiary, and Regional Managing Offices",
+    "contacts": [
+      {
+        "name": "Ms Jennifer Alexis Kyle",
+        "title": "Agent"
+      },
+      {
+        "name": "Mr John Yang Sammataro",
+        "title": "Other"
+      }
+    ]
+  },
+  {
+    "name": "PROFOUND NETWORKS, LLC",
+    "state": "PA",
+    "year_incorporated": "2002",
+    "nace": "5829",
+    "employees": "14",
+    "revenue_usd": 2640000,
+    "pl_before_tax": null,
+    "total_assets": null,
+    "equity": null,
+    "website": "www.profound.net",
+    "description": null,
+    "contacts": []
+  },
+  {
+    "name": "365 LABS LLC",
+    "state": "LA",
+    "year_incorporated": "2016",
+    "nace": "5829",
+    "employees": "18",
+    "revenue_usd": 2630000,
+    "pl_before_tax": null,
+    "total_assets": null,
+    "equity": null,
+    "website": "365labs.com",
+    "description": null,
+    "contacts": [
+      {
+        "name": "Mr Mohit Vij",
+        "title": "Officer"
+      },
+      {
+        "name": "Mr Mohit Vij",
+        "title": "Manager"
+      },
+      {
+        "name": "Raeleigh J Narro",
+        "title": "No specific function"
+      }
+    ]
+  }
+]

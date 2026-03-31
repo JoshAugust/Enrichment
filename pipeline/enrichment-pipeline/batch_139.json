@@ -1,0 +1,407 @@
+[
+  {
+    "name": "CENTEREDGE SOFTWARE",
+    "state": "NC",
+    "year_incorporated": "2013",
+    "nace": "5829",
+    "employees": "20",
+    "revenue_usd": 600000,
+    "pl_before_tax": null,
+    "total_assets": null,
+    "equity": null,
+    "website": "www.centeredgesoftware.com",
+    "description": null,
+    "contacts": [
+      {
+        "name": "Mr Marcus Mayer",
+        "title": "President"
+      },
+      {
+        "name": "Merrik Keller",
+        "title": "Director of Business Development"
+      },
+      {
+        "name": "Greyson M Burnett",
+        "title": "Chief Financial Officer"
+      },
+      {
+        "name": "Ms Vicki Carr",
+        "title": "Accounting / Bookkeeper"
+      },
+      {
+        "name": "Ms Audrey Parker",
+        "title": "Director of Human Resources"
+      },
+      {
+        "name": "Ms Rosie Salas",
+        "title": "Director of Training and Education"
+      },
+      {
+        "name": "Mr John Loftin",
+        "title": "Sales / Technical Support"
+      },
+      {
+        "name": "Mr Rick Smith",
+        "title": "Product Sales Specialist"
+      },
+      {
+        "name": "Mr Kevin Mckiernan",
+        "title": "Chief Technology Officer"
+      },
+      {
+        "name": "Mr Thomas Crozier",
+        "title": "Development Operations Engineer"
+      },
+      {
+        "name": "Mr Evan Hicks",
+        "title": "Tier 2 Technical Support/Beta Team"
+      },
+      {
+        "name": "Ms Lena Plaut",
+        "title": "Technical Writer"
+      },
+      {
+        "name": "Mr Joseph Siler",
+        "title": "Project Leader"
+      },
+      {
+        "name": "Mr Steve Rochefort",
+        "title": "Dev Operations Manager"
+      },
+      {
+        "name": "Ms Kate Friedl",
+        "title": "Manager, Quality Assurance"
+      },
+      {
+        "name": "Ms Lily Powell",
+        "title": "Quality Assurance Analyst"
+      },
+      {
+        "name": "Mr Dan Mcandrews",
+        "title": "System Administrator"
+      },
+      {
+        "name": "Mr Brantley Thomas Burnett JR",
+        "title": "Programmer"
+      },
+      {
+        "name": "Mr Daniel Grim",
+        "title": "Software Engineer"
+      },
+      {
+        "name": "Mr Steven Reilly",
+        "title": "Data Analyst"
+      },
+      {
+        "name": "Mr Rob Roberts",
+        "title": "Software Developer"
+      },
+      {
+        "name": "Mr Justin Shillock",
+        "title": "Software Developer"
+      },
+      {
+        "name": "Mr Kevin Sutton",
+        "title": "Programmer"
+      },
+      {
+        "name": "Mr Mickey Drumwright",
+        "title": "Support Technician"
+      },
+      {
+        "name": "Leroy Kelley",
+        "title": "Tier 3 Installation Technician Specialist"
+      },
+      {
+        "name": "Vern Phelps",
+        "title": "Support Technician"
+      }
+    ]
+  },
+  {
+    "name": "ZEVEZ INC",
+    "state": "NV",
+    "year_incorporated": "2016",
+    "nace": "5829",
+    "employees": "10",
+    "revenue_usd": 590000,
+    "pl_before_tax": null,
+    "total_assets": null,
+    "equity": null,
+    "website": "reward.works",
+    "description": null,
+    "contacts": []
+  },
+  {
+    "name": "MAYANALYTICS INC",
+    "state": "NV",
+    "year_incorporated": "2021",
+    "nace": "5829",
+    "employees": "20",
+    "revenue_usd": 590000,
+    "pl_before_tax": null,
+    "total_assets": null,
+    "equity": null,
+    "website": "www.mayanalytics.com",
+    "description": null,
+    "contacts": []
+  },
+  {
+    "name": "GAMING TECHNOLOGY GROUP",
+    "state": "NV",
+    "year_incorporated": "2012",
+    "nace": "5829",
+    "employees": "10",
+    "revenue_usd": 590000,
+    "pl_before_tax": null,
+    "total_assets": null,
+    "equity": null,
+    "website": "www.gamelinx.com",
+    "description": "Engaged in the design and development of gaming systems offered to smaller gaming operators",
+    "contacts": [
+      {
+        "name": "Mr Scott Cox",
+        "title": "Vice President, Operations"
+      },
+      {
+        "name": "Mr Dimitar Ivanov",
+        "title": "Service Engineer"
+      }
+    ]
+  },
+  {
+    "name": "SYNAPSIS LLC",
+    "state": "NV",
+    "year_incorporated": "1996",
+    "nace": "5829",
+    "employees": "15",
+    "revenue_usd": 590000,
+    "pl_before_tax": null,
+    "total_assets": null,
+    "equity": null,
+    "website": "www.synapsis.com",
+    "description": null,
+    "contacts": []
+  },
+  {
+    "name": "VEST, INC.",
+    "state": "MI",
+    "year_incorporated": "1997",
+    "nace": "5829",
+    "employees": "11",
+    "revenue_usd": 590000,
+    "pl_before_tax": null,
+    "total_assets": null,
+    "equity": null,
+    "website": "www.vestusa.com",
+    "description": null,
+    "contacts": [
+      {
+        "name": "Mr Mark Massey",
+        "title": "Senior Business Development Manager"
+      },
+      {
+        "name": "Mr Esha Thakur",
+        "title": "Business Development Manager"
+      },
+      {
+        "name": "Ms Shruti Raina",
+        "title": "Sales"
+      },
+      {
+        "name": "Yudhishthira Raina",
+        "title": "Product Strategist"
+      },
+      {
+        "name": "Ms Chanakya Bhogaraj",
+        "title": "Web Services"
+      }
+    ]
+  },
+  {
+    "name": "COOK ROSS PRODUCTS, INC.",
+    "state": "MD",
+    "year_incorporated": "1989",
+    "nace": "5829",
+    "employees": "25",
+    "revenue_usd": 580000,
+    "pl_before_tax": null,
+    "total_assets": null,
+    "equity": null,
+    "website": "www.cookross.com",
+    "description": null,
+    "contacts": [
+      {
+        "name": "Mr Michael Amilcar",
+        "title": "Chief Executive Officer"
+      }
+    ]
+  },
+  {
+    "name": "PRIVY OPERATIONS LLC",
+    "state": "MA",
+    "year_incorporated": "2023",
+    "nace": "5829",
+    "employees": "25",
+    "revenue_usd": 580000,
+    "pl_before_tax": null,
+    "total_assets": null,
+    "equity": null,
+    "website": "www.privy.com",
+    "description": "E commerce marketing automation services",
+    "contacts": []
+  },
+  {
+    "name": "BEICIP INC.",
+    "state": "TX",
+    "year_incorporated": "1992",
+    "nace": "5829",
+    "employees": "13",
+    "revenue_usd": 580000,
+    "pl_before_tax": null,
+    "total_assets": null,
+    "equity": null,
+    "website": "www.beicip-inc.com",
+    "description": null,
+    "contacts": [
+      {
+        "name": "Mr Xavier Patrick Jean Baptiste Burucoa",
+        "title": "Chairman"
+      },
+      {
+        "name": "Mr Jean Luc Gadon",
+        "title": "Chairman"
+      },
+      {
+        "name": "Mr Thierry Le Maux",
+        "title": "Chairman"
+      },
+      {
+        "name": "Mr Jean Burrus",
+        "title": "President"
+      },
+      {
+        "name": "Mr Pierre Yves Chenet",
+        "title": "President"
+      },
+      {
+        "name": "Emerson Marfisi",
+        "title": "President"
+      },
+      {
+        "name": "M F Zabala",
+        "title": "Chief Executive Officer"
+      },
+      {
+        "name": "Mf Medellin Zabala",
+        "title": "Chief Executive Officer"
+      },
+      {
+        "name": "Jean Marie Laigle",
+        "title": "Vice President"
+      },
+      {
+        "name": "Mr Samuel A Loree",
+        "title": "Vice President"
+      },
+      {
+        "name": "Ms Debra Jatzlau",
+        "title": "Treasurer"
+      },
+      {
+        "name": "Mr Roger Gibson",
+        "title": "Customer Care Technician"
+      },
+      {
+        "name": "Garfield Bloomfield",
+        "title": "Information Technology Administrator III"
+      },
+      {
+        "name": "Niki Daguerre",
+        "title": "Hris Manager"
+      }
+    ]
+  },
+  {
+    "name": "EPLANS INC.",
+    "state": "PA",
+    "year_incorporated": "1993",
+    "nace": "5829",
+    "employees": "13",
+    "revenue_usd": 580000,
+    "pl_before_tax": null,
+    "total_assets": null,
+    "equity": null,
+    "website": "www.eplansinc.com",
+    "description": null,
+    "contacts": [
+      {
+        "name": "Mr Raymond C Hedger JR",
+        "title": "President"
+      },
+      {
+        "name": "Ms Kelly A Smith",
+        "title": "Vice President"
+      },
+      {
+        "name": "Ms Joan M Hedger",
+        "title": "Treasurer"
+      }
+    ]
+  },
+  {
+    "name": "SMARTOPS CORP",
+    "state": "PA",
+    "year_incorporated": null,
+    "nace": "5829",
+    "employees": "13",
+    "revenue_usd": 580000,
+    "pl_before_tax": null,
+    "total_assets": null,
+    "equity": null,
+    "website": "www.smartops.us",
+    "description": null,
+    "contacts": []
+  },
+  {
+    "name": "PRIMER LABS INC.",
+    "state": "CA",
+    "year_incorporated": null,
+    "nace": "5829",
+    "employees": "10",
+    "revenue_usd": 580000,
+    "pl_before_tax": null,
+    "total_assets": null,
+    "equity": null,
+    "website": "www.sayprimer.com",
+    "description": null,
+    "contacts": []
+  },
+  {
+    "name": "EMPLOYUS, INC.",
+    "state": "NC",
+    "year_incorporated": "2014",
+    "nace": "5829",
+    "employees": "18",
+    "revenue_usd": 570000,
+    "pl_before_tax": null,
+    "total_assets": null,
+    "equity": null,
+    "website": "www.employus.com",
+    "description": "Online employee referral Software-as-a-Service (SaaS) provider",
+    "contacts": [
+      {
+        "name": "Mr Ryan O'Donnell",
+        "title": "Chief Executive Officer & Co-Founder; President"
+      },
+      {
+        "name": "O Donnell Ryan",
+        "title": "President"
+      },
+      {
+        "name": "Mr Kevin Miller",
+        "title": "Chief Operating Officer"
+      }
+    ]
+  }
+]

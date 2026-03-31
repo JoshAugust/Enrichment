@@ -1,0 +1,81 @@
+
+## Phase 1 (Resumed) — Thu Mar 26 18:51:09 PDT 2026
+Collecting unenriched lead IDs...
+Total leads: 1961
+Unenriched leads found: 727
+### Unenriched leads to process: 727
+  Batch 1: 20 leads → succeeded=? failed=?
+- Batch 1 (i=0): 20 leads — succeeded=? failed=?
+  Batch 2: 20 leads → succeeded=? failed=?
+- Batch 2 (i=20): 20 leads — succeeded=? failed=?
+  Batch 3: 20 leads → succeeded=? failed=?
+- Batch 3 (i=40): 20 leads — succeeded=? failed=?
+  Batch 4: 20 leads → succeeded=? failed=?
+- Batch 4 (i=60): 20 leads — succeeded=? failed=?
+  Batch 5: 20 leads → succeeded=? failed=?
+- Batch 5 (i=80): 20 leads — succeeded=? failed=?
+  Batch 6: 20 leads → succeeded=? failed=?
+- Batch 6 (i=100): 20 leads — succeeded=? failed=?
+  Batch 7: 20 leads → succeeded=20 failed=0
+- Batch 7 (i=120): 20 leads — succeeded=20 failed=0
+  Batch 8: 20 leads → succeeded=20 failed=0
+- Batch 8 (i=140): 20 leads — succeeded=20 failed=0
+  Batch 9: 20 leads → succeeded=20 failed=0
+- Batch 9 (i=160): 20 leads — succeeded=20 failed=0
+  Batch 10: 20 leads → succeeded=20 failed=0
+- Batch 10 (i=180): 20 leads — succeeded=20 failed=0
+  Batch 11: 20 leads → succeeded=20 failed=0
+- Batch 11 (i=200): 20 leads — succeeded=20 failed=0
+  Batch 12: 20 leads → succeeded=20 failed=0
+- Batch 12 (i=220): 20 leads — succeeded=20 failed=0
+  Batch 13: 20 leads → succeeded=20 failed=0
+- Batch 13 (i=240): 20 leads — succeeded=20 failed=0
+  Batch 14: 20 leads → succeeded=20 failed=0
+- Batch 14 (i=260): 20 leads — succeeded=20 failed=0
+  Batch 15: 20 leads → succeeded=20 failed=0
+- Batch 15 (i=280): 20 leads — succeeded=20 failed=0
+  Batch 16: 20 leads → succeeded=20 failed=0
+- Batch 16 (i=300): 20 leads — succeeded=20 failed=0
+  Batch 17: 20 leads → succeeded=20 failed=0
+- Batch 17 (i=320): 20 leads — succeeded=20 failed=0
+  Batch 18: 20 leads → succeeded=20 failed=0
+- Batch 18 (i=340): 20 leads — succeeded=20 failed=0
+  Batch 19: 20 leads → succeeded=20 failed=0
+- Batch 19 (i=360): 20 leads — succeeded=20 failed=0
+  Batch 20: 20 leads → succeeded=20 failed=0
+- Batch 20 (i=380): 20 leads — succeeded=20 failed=0
+  Batch 21: 20 leads → succeeded=20 failed=0
+- Batch 21 (i=400): 20 leads — succeeded=20 failed=0
+  Batch 22: 20 leads → succeeded=20 failed=0
+- Batch 22 (i=420): 20 leads — succeeded=20 failed=0
+  Batch 23: 20 leads → succeeded=20 failed=0
+- Batch 23 (i=440): 20 leads — succeeded=20 failed=0
+  Batch 24: 20 leads → succeeded=20 failed=0
+- Batch 24 (i=460): 20 leads — succeeded=20 failed=0
+  Batch 25: 20 leads → succeeded=20 failed=0
+- Batch 25 (i=480): 20 leads — succeeded=20 failed=0
+  Batch 26: 20 leads → succeeded=20 failed=0
+- Batch 26 (i=500): 20 leads — succeeded=20 failed=0
+  Batch 27: 20 leads → succeeded=20 failed=0
+- Batch 27 (i=520): 20 leads — succeeded=20 failed=0
+  Batch 28: 20 leads → succeeded=20 failed=0
+- Batch 28 (i=540): 20 leads — succeeded=20 failed=0
+  Batch 29: 20 leads → succeeded=20 failed=0
+- Batch 29 (i=560): 20 leads — succeeded=20 failed=0
+  Batch 30: 20 leads → succeeded=20 failed=0
+- Batch 30 (i=580): 20 leads — succeeded=20 failed=0
+  Batch 31: 20 leads → succeeded=20 failed=0
+- Batch 31 (i=600): 20 leads — succeeded=20 failed=0
+  Batch 32: 20 leads → succeeded=20 failed=0
+- Batch 32 (i=620): 20 leads — succeeded=20 failed=0
+  Batch 33: 20 leads → succeeded=20 failed=0
+- Batch 33 (i=640): 20 leads — succeeded=20 failed=0
+  Batch 34: 20 leads → succeeded=20 failed=0
+- Batch 34 (i=660): 20 leads — succeeded=20 failed=0
+  Batch 35: 20 leads → succeeded=20 failed=0
+- Batch 35 (i=680): 20 leads — succeeded=20 failed=0
+  Batch 36: 20 leads → succeeded=20 failed=0
+- Batch 36 (i=700): 20 leads — succeeded=20 failed=0
+  Batch 37: 7 leads → succeeded=7 failed=0
+- Batch 37 (i=720): 7 leads — succeeded=7 failed=0
+### Phase 1 done: 37 batches, 727 leads submitted

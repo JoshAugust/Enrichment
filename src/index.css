@@ -1,0 +1,32 @@
+@import "tailwindcss";
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  font-family: 'Inter', -apple-system, BlinkMacSystemFont, sans-serif;
+  background-color: #F6F9FC;
+  color: #0A2540;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+::selection {
+  background-color: rgba(99, 91, 255, 0.15);
+}
+
+::-webkit-scrollbar {
+  width: 6px;
+}
+
+::-webkit-scrollbar-track {
+  background: #F6F9FC;
+}
+
+::-webkit-scrollbar-thumb {
+  background: #E3E8EE;
+  border-radius: 3px;
+}

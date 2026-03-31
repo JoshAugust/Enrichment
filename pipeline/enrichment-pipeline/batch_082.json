@@ -1,0 +1,459 @@
+[
+  {
+    "name": "BIRDLY, INC.",
+    "state": "CA",
+    "year_incorporated": "2021",
+    "nace": "5829",
+    "employees": "20",
+    "revenue_usd": 2170000,
+    "pl_before_tax": null,
+    "total_assets": null,
+    "equity": null,
+    "website": "bethesdayouth.org/en",
+    "description": null,
+    "contacts": []
+  },
+  {
+    "name": "HIVEWATCH, INC.",
+    "state": "CA",
+    "year_incorporated": "2021",
+    "nace": "5829",
+    "employees": "60",
+    "revenue_usd": 2170000,
+    "pl_before_tax": null,
+    "total_assets": null,
+    "equity": null,
+    "website": "www.hivewatch.com",
+    "description": "Intelligent security fusion platform operator",
+    "contacts": []
+  },
+  {
+    "name": "AETHEROS INC.",
+    "state": "CA",
+    "year_incorporated": "2020",
+    "nace": "5829",
+    "employees": "14",
+    "revenue_usd": 2170000,
+    "pl_before_tax": null,
+    "total_assets": null,
+    "equity": null,
+    "website": "www.aetheros.com",
+    "description": null,
+    "contacts": []
+  },
+  {
+    "name": "AIERA INC",
+    "state": "MA",
+    "year_incorporated": "2018",
+    "nace": "5829",
+    "employees": "20",
+    "revenue_usd": 2170000,
+    "pl_before_tax": null,
+    "total_assets": null,
+    "equity": null,
+    "website": "www.aiera.com",
+    "description": null,
+    "contacts": []
+  },
+  {
+    "name": "INNOVATIONS HEALTH MANAGEMENT LLC",
+    "state": "CA",
+    "year_incorporated": "2019",
+    "nace": "5829",
+    "employees": "180",
+    "revenue_usd": 2170000,
+    "pl_before_tax": null,
+    "total_assets": null,
+    "equity": null,
+    "website": "www.linkedin.com/company/innovations-health-systems",
+    "description": "Engaged in providing health care services",
+    "contacts": [
+      {
+        "name": "Mr Kenneth Shawn Mcguire",
+        "title": "No specific function"
+      }
+    ]
+  },
+  {
+    "name": "INTEGRAL SOFTWARE INC.",
+    "state": "MI",
+    "year_incorporated": "2018",
+    "nace": "5829",
+    "employees": "35",
+    "revenue_usd": 2170000,
+    "pl_before_tax": null,
+    "total_assets": null,
+    "equity": null,
+    "website": "integral.io",
+    "description": "Information technology service provider",
+    "contacts": [
+      {
+        "name": "Mr Ashok Sivanand",
+        "title": "Executive Officer"
+      },
+      {
+        "name": "Mr David Mackley",
+        "title": "Officer"
+      }
+    ]
+  },
+  {
+    "name": "TEAMPORT INC.",
+    "state": "CA",
+    "year_incorporated": null,
+    "nace": "5829",
+    "employees": "15",
+    "revenue_usd": 2170000,
+    "pl_before_tax": null,
+    "total_assets": null,
+    "equity": null,
+    "website": "www.teamport.com",
+    "description": "Online high impact video call Software-as-a-Service (SaaS) provider",
+    "contacts": []
+  },
+  {
+    "name": "EVEREST SYSTEMS, INC.",
+    "state": "CA",
+    "year_incorporated": "2020",
+    "nace": "5829",
+    "employees": "12",
+    "revenue_usd": 2170000,
+    "pl_before_tax": null,
+    "total_assets": null,
+    "equity": null,
+    "website": "everestsystemsco.com",
+    "description": null,
+    "contacts": [
+      {
+        "name": "Sandeep Chopra",
+        "title": "President"
+      },
+      {
+        "name": "Mr Franz Xaver Faerber",
+        "title": "Co-Chief Executive Officer"
+      },
+      {
+        "name": "Mr Michael Lawrence Speiser",
+        "title": "Chief Executive Officer"
+      }
+    ]
+  },
+  {
+    "name": "GOCIOUS LLC",
+    "state": "CA",
+    "year_incorporated": "2018",
+    "nace": "5829",
+    "employees": "12",
+    "revenue_usd": 2170000,
+    "pl_before_tax": null,
+    "total_assets": null,
+    "equity": null,
+    "website": "www.gocious.com",
+    "description": null,
+    "contacts": [
+      {
+        "name": "Mr Jake Shafran",
+        "title": "General Partner; Shareholder"
+      }
+    ]
+  },
+  {
+    "name": "SWITCHBOARD SOFTWARE, INC.",
+    "state": "CA",
+    "year_incorporated": "2019",
+    "nace": "5829",
+    "employees": "19",
+    "revenue_usd": 2170000,
+    "pl_before_tax": null,
+    "total_assets": null,
+    "equity": null,
+    "website": "www.switchboard-software.com",
+    "description": "Data engineering automation Software-as-a-Service (SaaS) provider",
+    "contacts": [
+      {
+        "name": "Jukay Kwek",
+        "title": "Chief Executive Officer"
+      }
+    ]
+  },
+  {
+    "name": "AGORA INTELLIGENCE, INC.",
+    "state": "CA",
+    "year_incorporated": "2019",
+    "nace": "5829",
+    "employees": "25",
+    "revenue_usd": 2170000,
+    "pl_before_tax": null,
+    "total_assets": null,
+    "equity": null,
+    "website": "crowdz.io",
+    "description": "Small and mid-sized enterprise (SME) receivables marketplace and supply chain finance Software-as-a-Service (SaaS) provider",
+    "contacts": []
+  },
+  {
+    "name": "AQUAOSO TECHNOLOGIES, PBC WHICH WILL DO BUSINESS IN CALIFORNIA AS AQUAOSO TECHNOLOGIES, INC.",
+    "state": "CA",
+    "year_incorporated": "2018",
+    "nace": "5829",
+    "employees": "15",
+    "revenue_usd": 2170000,
+    "pl_before_tax": null,
+    "total_assets": null,
+    "equity": null,
+    "website": "www.aquaoso.com",
+    "description": null,
+    "contacts": [
+      {
+        "name": "Mr Christopher J Peacock",
+        "title": "Chief Executive Officer"
+      }
+    ]
+  },
+  {
+    "name": "ONYMOS INC",
+    "state": "CA",
+    "year_incorporated": "2016",
+    "nace": "5829",
+    "employees": "16",
+    "revenue_usd": 2170000,
+    "pl_before_tax": null,
+    "total_assets": null,
+    "equity": null,
+    "website": "www.onymos.com",
+    "description": "End-to-end software creation Features-as-a-Service (FaaS) provider",
+    "contacts": [
+      {
+        "name": "Ms Shivaguru Nathan",
+        "title": "Founder and Chief Executive Officer"
+      },
+      {
+        "name": "Mr Rick Belgarde",
+        "title": "Chief Financial Officer"
+      }
+    ]
+  },
+  {
+    "name": "DPS SOFTWARE SYSTEMS, INC.",
+    "state": "CA",
+    "year_incorporated": "1996",
+    "nace": "5829",
+    "employees": "12",
+    "revenue_usd": 2170000,
+    "pl_before_tax": null,
+    "total_assets": null,
+    "equity": null,
+    "website": "www.dpssoft.com",
+    "description": null,
+    "contacts": [
+      {
+        "name": "Mr David P Scheidler",
+        "title": "President"
+      }
+    ]
+  },
+  {
+    "name": "DOMICO",
+    "state": "CA",
+    "year_incorporated": "1992",
+    "nace": "5829",
+    "employees": "15",
+    "revenue_usd": 2170000,
+    "pl_before_tax": null,
+    "total_assets": null,
+    "equity": null,
+    "website": "www.domico.com",
+    "description": null,
+    "contacts": []
+  },
+  {
+    "name": "CLOVERSOFT",
+    "state": "CA",
+    "year_incorporated": "1993",
+    "nace": "5829",
+    "employees": "10",
+    "revenue_usd": 2170000,
+    "pl_before_tax": null,
+    "total_assets": null,
+    "equity": null,
+    "website": "www.pricepnt.com",
+    "description": null,
+    "contacts": []
+  },
+  {
+    "name": "IPRESSROOM CORP",
+    "state": "CA",
+    "year_incorporated": "2001",
+    "nace": "5829",
+    "employees": "38",
+    "revenue_usd": 2170000,
+    "pl_before_tax": null,
+    "total_assets": null,
+    "equity": null,
+    "website": "www.ipressroom.com",
+    "description": null,
+    "contacts": []
+  },
+  {
+    "name": "PORT 80 SOFTWARE INC",
+    "state": "CA",
+    "year_incorporated": null,
+    "nace": "5829",
+    "employees": "20",
+    "revenue_usd": 2170000,
+    "pl_before_tax": null,
+    "total_assets": null,
+    "equity": null,
+    "website": "www.port80software.com",
+    "description": null,
+    "contacts": []
+  },
+  {
+    "name": "TITLE 21 SOFTWARE INC",
+    "state": "CA",
+    "year_incorporated": null,
+    "nace": "5829",
+    "employees": "13",
+    "revenue_usd": 2170000,
+    "pl_before_tax": null,
+    "total_assets": null,
+    "equity": null,
+    "website": "www.title21.com",
+    "description": null,
+    "contacts": []
+  },
+  {
+    "name": "SECURENT INC",
+    "state": "CA",
+    "year_incorporated": "2004",
+    "nace": "5829",
+    "employees": "26",
+    "revenue_usd": 2170000,
+    "pl_before_tax": null,
+    "total_assets": null,
+    "equity": null,
+    "website": "www.cisco.com",
+    "description": null,
+    "contacts": []
+  },
+  {
+    "name": "MELLMO INC.",
+    "state": "CA",
+    "year_incorporated": "2008",
+    "nace": "5829",
+    "employees": "70",
+    "revenue_usd": 2170000,
+    "pl_before_tax": null,
+    "total_assets": null,
+    "equity": null,
+    "website": "www.roambi.com",
+    "description": "Online cloud-based data visualization and analytical software developer",
+    "contacts": []
+  },
+  {
+    "name": "STANDAV CORP",
+    "state": "CA",
+    "year_incorporated": "2009",
+    "nace": "5829",
+    "employees": "10",
+    "revenue_usd": 2170000,
+    "pl_before_tax": null,
+    "total_assets": null,
+    "equity": null,
+    "website": "www.bimarian.com",
+    "description": null,
+    "contacts": [
+      {
+        "name": "Protik M.S",
+        "title": "Chief Delivery Officer & Managing Partner"
+      },
+      {
+        "name": "Kauser Ali",
+        "title": "Business Development Manager"
+      },
+      {
+        "name": "Ms Linica Sancheti",
+        "title": "Recruiting Manager"
+      },
+      {
+        "name": "Ms Bhavika Shah",
+        "title": "Human Resources and Account Manager"
+      },
+      {
+        "name": "Mr Ambrish Damani",
+        "title": "Senior Director Sales"
+      },
+      {
+        "name": "Satya Karri",
+        "title": "Bench Sales"
+      },
+      {
+        "name": "Ms Jennifer Coutinho",
+        "title": "Senior Account Manager"
+      },
+      {
+        "name": "Ms Payal Mohapatra",
+        "title": "Head of Legal (Business Immigration)"
+      },
+      {
+        "name": "Mr Vihari Pola",
+        "title": "Storage Administrator"
+      }
+    ]
+  },
+  {
+    "name": "BINTI INC",
+    "state": "CA",
+    "year_incorporated": "2018",
+    "nace": "5829",
+    "employees": "110",
+    "revenue_usd": 2170000,
+    "pl_before_tax": null,
+    "total_assets": null,
+    "equity": null,
+    "website": "www.binti.com",
+    "description": null,
+    "contacts": [
+      {
+        "name": "Ms Felicia Curcuru",
+        "title": "Chief Executive Officer"
+      }
+    ]
+  },
+  {
+    "name": "POWERHOUSE ACCELERATOR LLC",
+    "state": "CA",
+    "year_incorporated": "2013",
+    "nace": "5829",
+    "employees": "17",
+    "revenue_usd": 2170000,
+    "pl_before_tax": null,
+    "total_assets": null,
+    "equity": null,
+    "website": "www.powerhouse.fund",
+    "description": null,
+    "contacts": [
+      {
+        "name": "Ms Emily Sarah Kirsch",
+        "title": "Founder and Chief Executive Officer"
+      },
+      {
+        "name": "Ms Marie Thompson",
+        "title": "Director of Programs & Senior Venture Associate"
+      }
+    ]
+  },
+  {
+    "name": "CODEFIED INC.",
+    "state": "CA",
+    "year_incorporated": "2019",
+    "nace": "5829",
+    "employees": "690",
+    "revenue_usd": 2170000,
+    "pl_before_tax": null,
+    "total_assets": null,
+    "equity": null,
+    "website": "www.housecallpro.com",
+    "description": null,
+    "contacts": []
+  }
+]

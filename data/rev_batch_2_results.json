@@ -1,0 +1,162 @@
+[
+  {
+    "company_name": "ELM CREST RETIREMENT COMMUNITY",
+    "revenue_usd_000s": 32946,
+    "revenue_source": "Apollo (domain: abhomes.net)",
+    "revenue_confidence": "Medium",
+    "revenue_year": "estimated",
+    "revenue_notes": "Apollo matched 'American Baptist Homes of the Midwest' (the parent org operating abhomes.net) with $32.9M annual revenue. Elm Crest Retirement Community is one property under that umbrella — figure likely reflects the full parent entity, not Elm Crest alone.",
+    "employee_count_verified": 74,
+    "employee_source": "Apollo"
+  },
+  {
+    "company_name": "SUNSHINE AIR CONDITIONING, INC.",
+    "revenue_usd_000s": 32476,
+    "revenue_source": "Apollo (domain: sunshineac.com)",
+    "revenue_confidence": "High",
+    "revenue_year": "estimated",
+    "revenue_notes": "Apollo returned 'Sunshine Air Conditioning, Inc.' with $32.5M annual revenue and 24 employees. Direct match on company name and domain.",
+    "employee_count_verified": 24,
+    "employee_source": "Apollo"
+  },
+  {
+    "company_name": "MCINTOSH CLINIC, P.C.",
+    "revenue_usd_000s": null,
+    "revenue_source": null,
+    "revenue_confidence": "Unknown",
+    "revenue_year": null,
+    "revenue_notes": "Apollo returned no data for mcintoshclinic.com. Web searches found D&B and ZoomInfo listings but revenue requires paid subscription. No publicly available revenue figure found.",
+    "employee_count_verified": 33,
+    "employee_source": "LinkedIn (via web search)"
+  },
+  {
+    "company_name": "CARLISLE COUNTY BOARD OF EDUCATION",
+    "revenue_usd_000s": 12948,
+    "revenue_source": "Web search (USNews Education / Kentucky Open House Education portal)",
+    "revenue_confidence": "High",
+    "revenue_year": "2023",
+    "revenue_notes": "USNews Education citing Kentucky's Open House Education data reports annual revenue of $12,948,000. District serves 738 students across 3 schools. Spending is $13,084 per student. Apollo returned no data for carlisle.kyschools.us.",
+    "employee_count_verified": null,
+    "employee_source": null
+  },
+  {
+    "company_name": "R. UDELSON, INC.",
+    "revenue_usd_000s": null,
+    "revenue_source": null,
+    "revenue_confidence": "Unknown",
+    "revenue_year": null,
+    "revenue_notes": "Apollo (domain: powertrac.com) returned 'PowerTrac Machinery' with 40 employees but no revenue. Web searches found only conflicting statistical estimates across third-party tools (RocketReach: $7M; IncFact: $10-100M range; VisualVisitor: $1-10M range). Per research rules, no estimate used — all sources explicitly acknowledge these are modeled figures, not reported data.",
+    "employee_count_verified": 40,
+    "employee_source": "Apollo"
+  },
+  {
+    "company_name": "DAVID BEAR, INC.",
+    "revenue_usd_000s": null,
+    "revenue_source": null,
+    "revenue_confidence": "Unknown",
+    "revenue_year": null,
+    "revenue_notes": "Apollo returned no data for davidbearinc.com. Web searches found company profile (AISC-certified steel fabricator, Urbandale IA) but no publicly available revenue figures on Manta, D&B, ZoomInfo, or news sources. D&B listing exists but requires paid subscription.",
+    "employee_count_verified": null,
+    "employee_source": null
+  },
+  {
+    "company_name": "CEDAR COVE, INC.",
+    "revenue_usd_000s": 3657,
+    "revenue_source": "Web search (Manta.com listing)",
+    "revenue_confidence": "Medium",
+    "revenue_year": "estimated",
+    "revenue_notes": "Manta.com lists Cedar Cove Inc at 3448 N Citrus Ave, Crystal River FL 34428 (roofing contractor, est. 1998, incorporated in Florida) with annual revenue of approximately $3,657,035 and ~44 employees. Apollo returned no data for cedarcoveroofing.com. Manta figures are sourced from D&B models.",
+    "employee_count_verified": 44,
+    "employee_source": "Manta.com"
+  },
+  {
+    "company_name": "LA FOLLETTE MEDICAL CENTER",
+    "revenue_usd_000s": null,
+    "revenue_source": null,
+    "revenue_confidence": "Unknown",
+    "revenue_year": null,
+    "revenue_notes": "Apollo (domain: tennovalafollette.com) returned 'Tennova Healthcare - LaFollette Medical Center' with 55 employees but no revenue. Hospital is part of Tennova Healthcare system (CMS #440033, 66-bed acute care, La Follette TN). AHD.com profile blocked by CAPTCHA. Medicare/HCRIS cost report data not accessible via web search. Community benefit report cites $46M impact in 2024 and $26M payroll — but these are not revenue figures. No direct revenue figure found.",
+    "employee_count_verified": 55,
+    "employee_source": "Apollo"
+  },
+  {
+    "company_name": "JPI CALIFORNIA CONSTRUCTION SERVICES, L.P.",
+    "revenue_usd_000s": 228500,
+    "revenue_source": "Apollo (domain: jpi.com)",
+    "revenue_confidence": "Medium",
+    "revenue_year": "estimated",
+    "revenue_notes": "Apollo returned 'JPI' (parent company, Irving TX) with $228.5M annual revenue and 680 employees. The named entity 'JPI California Construction Services, L.P.' is a subsidiary LP; Apollo matched the parent. Actual LP-level revenue is not separately disclosed. Figure reflects the consolidated JPI enterprise.",
+    "employee_count_verified": 680,
+    "employee_source": "Apollo"
+  },
+  {
+    "company_name": "Croswell of Williamsburg LLC (Croswell Bus Line Inc)",
+    "revenue_usd_000s": 12893,
+    "revenue_source": "Apollo (domain: gocroswell.com)",
+    "revenue_confidence": "High",
+    "revenue_year": "estimated",
+    "revenue_notes": "Apollo returned 'Croswell Bus Line Inc' with $12.9M annual revenue and 11 employees. Domain matched the operating entity. Note: state listed as OH in input but Croswell Bus Line operates in Ohio/Virginia region.",
+    "employee_count_verified": 11,
+    "employee_source": "Apollo"
+  },
+  {
+    "company_name": "Dynojet Research Inc",
+    "revenue_usd_000s": 7467,
+    "revenue_source": "Apollo (domain: dynojet.com)",
+    "revenue_confidence": "High",
+    "revenue_year": "estimated",
+    "revenue_notes": "Apollo returned 'Dynojet Research, Inc.' with $7.5M annual revenue and 84 employees. Direct company name and domain match. Dynojet makes dynamometers and power commanders for motorsports — NV-based manufacturer.",
+    "employee_count_verified": 84,
+    "employee_source": "Apollo"
+  },
+  {
+    "company_name": "The Systems Depot Inc",
+    "revenue_usd_000s": 9059,
+    "revenue_source": "Apollo (domain: sdepot.com)",
+    "revenue_confidence": "High",
+    "revenue_year": "estimated",
+    "revenue_notes": "Apollo returned 'The Systems Depot' with $9.1M annual revenue and 56 employees. Direct domain match.",
+    "employee_count_verified": 56,
+    "employee_source": "Apollo"
+  },
+  {
+    "company_name": "SOWELA Technical Community College Foundation",
+    "revenue_usd_000s": 30016,
+    "revenue_source": "Apollo (domain: sowela.edu)",
+    "revenue_confidence": "Medium",
+    "revenue_year": "estimated",
+    "revenue_notes": "Apollo returned 'SOWELA Technical Community College' (the institution itself) with $30M annual revenue and 320 employees. The named entity in this dataset is the Foundation (a separate nonprofit fundraising arm), not the college. Revenue likely reflects the college's operating budget, not the foundation's fundraising receipts. The foundation would typically have much lower revenue.",
+    "employee_count_verified": 320,
+    "employee_source": "Apollo"
+  },
+  {
+    "company_name": "Dennett Construction Inc",
+    "revenue_usd_000s": 15276,
+    "revenue_source": "Apollo (domain: dennettconstruction.com)",
+    "revenue_confidence": "High",
+    "revenue_year": "estimated",
+    "revenue_notes": "Apollo returned 'Dennett Construction' with $15.3M annual revenue and 37 employees. Direct company name and domain match. Utah-based contractor.",
+    "employee_count_verified": 37,
+    "employee_source": "Apollo"
+  },
+  {
+    "company_name": "InfoAxis Inc (Infoaxis)",
+    "revenue_usd_000s": 10134,
+    "revenue_source": "Apollo (domain: infoaxis.com)",
+    "revenue_confidence": "High",
+    "revenue_year": "estimated",
+    "revenue_notes": "Apollo returned 'Infoaxis, Inc.' with $10.1M annual revenue and 18 employees. Direct company name and domain match. NJ-based IT services firm.",
+    "employee_count_verified": 18,
+    "employee_source": "Apollo"
+  },
+  {
+    "company_name": "Steven W. Smith DDS PLLC (Smith Family and Cosmetic Dentistry)",
+    "revenue_usd_000s": null,
+    "revenue_source": null,
+    "revenue_confidence": "Unknown",
+    "revenue_year": null,
+    "revenue_notes": "Apollo returned 'Smith Family and Cosmetic Dentistry' with 17 employees but no revenue for yourcarolinadentist.com. Web searches found ZoomInfo lists revenue as '<$5M' for a KY practice with a similar name (different entity). No publicly disclosed revenue found for the NC practice. ZoomInfo's '<$5M' is a range estimate for a different entity — not used per no-estimate rule.",
+    "employee_count_verified": 17,
+    "employee_source": "Apollo"
+  }
+]

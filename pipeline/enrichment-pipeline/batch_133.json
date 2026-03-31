@@ -1,0 +1,498 @@
+[
+  {
+    "name": "NURSENAV INC",
+    "state": "SC",
+    "year_incorporated": "2007",
+    "nace": "5829",
+    "employees": "14",
+    "revenue_usd": 790000,
+    "pl_before_tax": null,
+    "total_assets": null,
+    "equity": null,
+    "website": "www.nursenav.com",
+    "description": null,
+    "contacts": [
+      {
+        "name": "Ms Melanie Infinger",
+        "title": "Chief Executive Officer"
+      },
+      {
+        "name": "Mr Dean Infinger",
+        "title": "Vice President and Co-Founder"
+      }
+    ]
+  },
+  {
+    "name": "PRIMETIME MEDICAL SOFTWARE",
+    "state": "SC",
+    "year_incorporated": "1992",
+    "nace": "5829",
+    "employees": "14",
+    "revenue_usd": 790000,
+    "pl_before_tax": null,
+    "total_assets": null,
+    "equity": null,
+    "website": "www.medicalhistory.com",
+    "description": "Patient interview and medical history software developer",
+    "contacts": [
+      {
+        "name": "Mr Matthew Ferrante",
+        "title": "No specific function"
+      }
+    ]
+  },
+  {
+    "name": "CAMBAR SOFTWARE INC",
+    "state": "SC",
+    "year_incorporated": "2000",
+    "nace": "5829",
+    "employees": "14",
+    "revenue_usd": 790000,
+    "pl_before_tax": null,
+    "total_assets": null,
+    "equity": null,
+    "website": "www.cambarsoftware.com",
+    "description": null,
+    "contacts": [
+      {
+        "name": "Mr Rick Register",
+        "title": "Industry Veteran and President"
+      }
+    ]
+  },
+  {
+    "name": "JBL SOFTWARE",
+    "state": "SC",
+    "year_incorporated": "1993",
+    "nace": "5829",
+    "employees": "14",
+    "revenue_usd": 790000,
+    "pl_before_tax": null,
+    "total_assets": null,
+    "equity": null,
+    "website": "www.jblsoftware.com",
+    "description": null,
+    "contacts": [
+      {
+        "name": "Mr James B Lestwich",
+        "title": "President"
+      }
+    ]
+  },
+  {
+    "name": "BRAVE INC",
+    "state": "CO",
+    "year_incorporated": "2016",
+    "nace": "5829",
+    "employees": "14",
+    "revenue_usd": 790000,
+    "pl_before_tax": null,
+    "total_assets": null,
+    "equity": null,
+    "website": "brave.com",
+    "description": null,
+    "contacts": [
+      {
+        "name": "Ms Lisa Amerine",
+        "title": "Agent"
+      }
+    ]
+  },
+  {
+    "name": "WELLTRACKONE CORPORATION",
+    "state": "SC",
+    "year_incorporated": "2014",
+    "nace": "5829",
+    "employees": "14",
+    "revenue_usd": 790000,
+    "pl_before_tax": null,
+    "total_assets": null,
+    "equity": null,
+    "website": "www.welltrackone.co",
+    "description": null,
+    "contacts": [
+      {
+        "name": "Mr Peter A Bechtel",
+        "title": "Chief Executive Officer"
+      },
+      {
+        "name": "Mr Carey Babcock",
+        "title": "Business Development Manager"
+      },
+      {
+        "name": "Mr Bill Archer",
+        "title": "National Sales Manager"
+      },
+      {
+        "name": "Ms Suzanne McNally",
+        "title": "Account Manager"
+      },
+      {
+        "name": "Mr George Massey",
+        "title": "Regional Representative"
+      }
+    ]
+  },
+  {
+    "name": "CHARGERBACK INC",
+    "state": "NV",
+    "year_incorporated": "2008",
+    "nace": "5829",
+    "employees": "12",
+    "revenue_usd": 790000,
+    "pl_before_tax": null,
+    "total_assets": null,
+    "equity": null,
+    "website": "www.chargerback.com",
+    "description": null,
+    "contacts": [
+      {
+        "name": "Ms Lisa Pohll",
+        "title": "Vice President, Business Development Chargerback Lost & Found Solutions"
+      },
+      {
+        "name": "Ms Claire Christopher",
+        "title": "Customer Service Specialist"
+      }
+    ]
+  },
+  {
+    "name": "CIMX LLC",
+    "state": "OH",
+    "year_incorporated": "1996",
+    "nace": "5829",
+    "employees": "30",
+    "revenue_usd": 790000,
+    "pl_before_tax": null,
+    "total_assets": null,
+    "equity": null,
+    "website": "www.cimx.com",
+    "description": null,
+    "contacts": [
+      {
+        "name": "Ms Kristin Mclane",
+        "title": "Owner"
+      },
+      {
+        "name": "Ms Liz Hamedi",
+        "title": "Account Manager"
+      },
+      {
+        "name": "Mr Bradley Dennison",
+        "title": "Product Team Lead"
+      },
+      {
+        "name": "Mr Mark Hershey",
+        "title": "Software Engineer"
+      },
+      {
+        "name": "Mr Nick Stonebraker",
+        "title": "Software Engineer"
+      }
+    ]
+  },
+  {
+    "name": "COMPLIANCE SOLUTIONS INC",
+    "state": "TX",
+    "year_incorporated": null,
+    "nace": "5829",
+    "employees": "10",
+    "revenue_usd": 790000,
+    "pl_before_tax": null,
+    "total_assets": null,
+    "equity": null,
+    "website": "www.compliancesolutions.com",
+    "description": null,
+    "contacts": []
+  },
+  {
+    "name": "BALANCED FLOW SUPPLY CHAIN SOLUTIONS LLC",
+    "state": "SC",
+    "year_incorporated": "2002",
+    "nace": "5829",
+    "employees": "14",
+    "revenue_usd": 790000,
+    "pl_before_tax": null,
+    "total_assets": null,
+    "equity": null,
+    "website": "www.balancedflow.com",
+    "description": null,
+    "contacts": []
+  },
+  {
+    "name": "COMPACT 2 TECHNOLOGIES",
+    "state": "SC",
+    "year_incorporated": "1987",
+    "nace": "5829",
+    "employees": "14",
+    "revenue_usd": 790000,
+    "pl_before_tax": null,
+    "total_assets": null,
+    "equity": null,
+    "website": "www.compact2.com",
+    "description": null,
+    "contacts": []
+  },
+  {
+    "name": "DYAD SOFTWARE LLC",
+    "state": "SC",
+    "year_incorporated": "2009",
+    "nace": "5829",
+    "employees": "14",
+    "revenue_usd": 790000,
+    "pl_before_tax": null,
+    "total_assets": null,
+    "equity": null,
+    "website": "www.dyadsoftware.com",
+    "description": null,
+    "contacts": [
+      {
+        "name": "Mr Brian Carroll",
+        "title": "Co-Founder; Shareholder"
+      }
+    ]
+  },
+  {
+    "name": "QUOTE SOFTWARE",
+    "state": "SC",
+    "year_incorporated": "2013",
+    "nace": "5829",
+    "employees": "14",
+    "revenue_usd": 790000,
+    "pl_before_tax": null,
+    "total_assets": null,
+    "equity": null,
+    "website": "quotesoft.com",
+    "description": null,
+    "contacts": []
+  },
+  {
+    "name": "XTENZA SOLUTIONS INC",
+    "state": "SC",
+    "year_incorporated": "2000",
+    "nace": "5829",
+    "employees": "14",
+    "revenue_usd": 790000,
+    "pl_before_tax": null,
+    "total_assets": null,
+    "equity": null,
+    "website": "www.xtenzasolutions.com",
+    "description": "R&D Centre",
+    "contacts": []
+  },
+  {
+    "name": "QUESTIS",
+    "state": "SC",
+    "year_incorporated": "2017",
+    "nace": "5829",
+    "employees": "19",
+    "revenue_usd": 790000,
+    "pl_before_tax": null,
+    "total_assets": null,
+    "equity": null,
+    "website": "www.questis.co",
+    "description": null,
+    "contacts": [
+      {
+        "name": "Mr John Tabb",
+        "title": "President and Head of Product"
+      },
+      {
+        "name": "Mr Steve Wilbourne",
+        "title": "Founder & Chief Executive Officer"
+      },
+      {
+        "name": "Mr Rob Madore",
+        "title": "Executive Vice President - Financial Services"
+      },
+      {
+        "name": "Mr Adrian Pereira",
+        "title": "Financial Technology Intern"
+      },
+      {
+        "name": "Mr Ed Meltzer",
+        "title": "Senior Vice President - Worksite Sales"
+      },
+      {
+        "name": "Ms Nicole Fletcher",
+        "title": "Head of Marketing"
+      },
+      {
+        "name": "Britt Foster",
+        "title": "Director, Customer Success"
+      },
+      {
+        "name": "Ms Kasen Wysong",
+        "title": "Customer Success Manager"
+      },
+      {
+        "name": "Ms Natalie Tucker",
+        "title": "Director of Business Operations"
+      },
+      {
+        "name": "Mr Jonathan Fann",
+        "title": "Software Engineer"
+      }
+    ]
+  },
+  {
+    "name": "HOOK SECURITY INC",
+    "state": "SC",
+    "year_incorporated": "2019",
+    "nace": "5829",
+    "employees": "14",
+    "revenue_usd": 790000,
+    "pl_before_tax": null,
+    "total_assets": null,
+    "equity": null,
+    "website": "hooksecurity.co",
+    "description": "Cyber security awareness training service provider",
+    "contacts": [
+      {
+        "name": "Mr Zachary Bryce Eikenberry",
+        "title": "Chief Executive Officer"
+      }
+    ]
+  },
+  {
+    "name": "RANT SOLUTIONS LLC",
+    "state": "SC",
+    "year_incorporated": "2018",
+    "nace": "5829",
+    "employees": "14",
+    "revenue_usd": 790000,
+    "pl_before_tax": null,
+    "total_assets": null,
+    "equity": null,
+    "website": "www.rantsolutions.com",
+    "description": null,
+    "contacts": [
+      {
+        "name": "Mr Robert Constantinou",
+        "title": "Chief Executive Officer"
+      }
+    ]
+  },
+  {
+    "name": "IMAGEQUIX",
+    "state": "SC",
+    "year_incorporated": "2018",
+    "nace": "5829",
+    "employees": "14",
+    "revenue_usd": 790000,
+    "pl_before_tax": null,
+    "total_assets": null,
+    "equity": null,
+    "website": "www.imagequix.com",
+    "description": "Engaged in the provision of eCommerce solution for professional photographers",
+    "contacts": [
+      {
+        "name": "Mr Alex Kovacevic",
+        "title": "Manager"
+      }
+    ]
+  },
+  {
+    "name": "RAPPTOR STUDIOS",
+    "state": "SC",
+    "year_incorporated": "2012",
+    "nace": "5829",
+    "employees": "14",
+    "revenue_usd": 790000,
+    "pl_before_tax": null,
+    "total_assets": null,
+    "equity": null,
+    "website": "www.rapptorstudios.com",
+    "description": null,
+    "contacts": []
+  },
+  {
+    "name": "SOFTWARE TRAINING CONSULTANTS",
+    "state": "SC",
+    "year_incorporated": "1997",
+    "nace": "5829",
+    "employees": "14",
+    "revenue_usd": 790000,
+    "pl_before_tax": null,
+    "total_assets": null,
+    "equity": null,
+    "website": "www.stctrain.com",
+    "description": null,
+    "contacts": []
+  },
+  {
+    "name": "COLUMBIA SOFTWARE CORP",
+    "state": "SC",
+    "year_incorporated": null,
+    "nace": "5829",
+    "employees": "14",
+    "revenue_usd": 790000,
+    "pl_before_tax": null,
+    "total_assets": null,
+    "equity": null,
+    "website": "columbiaokura.com",
+    "description": null,
+    "contacts": [
+      {
+        "name": "Mr David Yon",
+        "title": "Owner"
+      }
+    ]
+  },
+  {
+    "name": "COMPUTER BUSINESS SYSTEMS INC",
+    "state": "SC",
+    "year_incorporated": "1981",
+    "nace": "5829",
+    "employees": "14",
+    "revenue_usd": 790000,
+    "pl_before_tax": null,
+    "total_assets": null,
+    "equity": null,
+    "website": "www.acu-track.com",
+    "description": null,
+    "contacts": []
+  },
+  {
+    "name": "OPTIMUM RESOURCE INC",
+    "state": "SC",
+    "year_incorporated": "2000",
+    "nace": "5829",
+    "employees": "14",
+    "revenue_usd": 790000,
+    "pl_before_tax": null,
+    "total_assets": null,
+    "equity": null,
+    "website": "www.optimumsafetyresources.com",
+    "description": null,
+    "contacts": []
+  },
+  {
+    "name": "NVIZIONSOFT INC",
+    "state": "SC",
+    "year_incorporated": "2003",
+    "nace": "5829",
+    "employees": "14",
+    "revenue_usd": 790000,
+    "pl_before_tax": null,
+    "total_assets": null,
+    "equity": null,
+    "website": "www.columbia-real-estate-for-sale.com",
+    "description": null,
+    "contacts": []
+  },
+  {
+    "name": "THOMAS SYSTEMS INC",
+    "state": "SC",
+    "year_incorporated": "2002",
+    "nace": "5829",
+    "employees": "14",
+    "revenue_usd": 790000,
+    "pl_before_tax": null,
+    "total_assets": null,
+    "equity": null,
+    "website": "www.winwithtms.com",
+    "description": null,
+    "contacts": []
+  }
+]

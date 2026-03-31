@@ -1,0 +1,1307 @@
+[
+  {
+    "company_name": "11RESIDENTIAL",
+    "website": "https://www.11residential.com",
+    "page_scraped": "https://www.11residential.com/team",
+    "contacts_found": [
+      {
+        "name": "Ms Natalie Caranci",
+        "extension": null,
+        "direct_phone": null,
+        "email": null,
+        "source_page": null
+      }
+    ],
+    "notes": "No extensions/phones found for named contacts. Pages tried: 13, succeeded: 0."
+  },
+  {
+    "company_name": "1460 CAPITAL CORP INC",
+    "website": "https://www.pacificcoastcommercial.com",
+    "page_scraped": "https://www.pacificcoastcommercial.com/contact-us",
+    "contacts_found": [],
+    "notes": "Page https://www.pacificcoastcommercial.com/contact-us: exts=[], phones=['(619) 469-3600', '619-469-3600']. Page https://www.pacificcoastcommercial.com/meet-our-team: exts=[], phones=['(619) 469-3600']. No contacts found. Pages tried: 13, succeeded: 2."
+  },
+  {
+    "company_name": "3070 TEXAS ST. BOSSIER CITY HOLDINGS LLC",
+    "website": "https://www.siegelselect.com",
+    "page_scraped": "https://www.siegelselect.com/staff",
+    "contacts_found": [
+      {
+        "name": "Mr Sean Thueson Thueson",
+        "extension": null,
+        "direct_phone": null,
+        "email": null,
+        "source_page": "https://www.siegelselect.com/staff"
+      }
+    ],
+    "notes": "No extensions/phones found for named contacts. Pages tried: 13, succeeded: 4."
+  },
+  {
+    "company_name": "AIRTEC SERVICE INC",
+    "website": "https://www.airtecserviceinc.com",
+    "page_scraped": "https://www.airtecserviceinc.com/about-us",
+    "contacts_found": [
+      {
+        "name": "Mr David Andrew Olson",
+        "extension": null,
+        "direct_phone": null,
+        "email": null,
+        "source_page": "https://www.airtecserviceinc.com/about-us"
+      }
+    ],
+    "notes": "No extensions/phones found for named contacts. Pages tried: 13, succeeded: 5."
+  },
+  {
+    "company_name": "AIRTECSERVICEINC",
+    "website": "https://airtecserviceinc.com",
+    "page_scraped": "https://airtecserviceinc.com/about-us",
+    "contacts_found": [
+      {
+        "name": "Mr David Andrew Olson",
+        "extension": null,
+        "direct_phone": null,
+        "email": null,
+        "source_page": "https://airtecserviceinc.com/about-us"
+      }
+    ],
+    "notes": "No extensions/phones found for named contacts. Pages tried: 13, succeeded: 5."
+  },
+  {
+    "company_name": "ALIGNED ENERGY DATA CENTER",
+    "website": "https://aligneddc.com",
+    "page_scraped": "https://aligneddc.com/team",
+    "contacts_found": [],
+    "notes": "Page https://aligneddc.com/contact: exts=[], phones=['+1.469.213.6697']. No contacts found. Pages tried: 13, succeeded: 4."
+  },
+  {
+    "company_name": "ALLEN COUNTY SCHOOLS",
+    "website": "https://www.allen.kyschools.us",
+    "page_scraped": "https://www.allen.kyschools.us/staff",
+    "contacts_found": [
+      {
+        "name": "Ms Marla Carnes",
+        "extension": null,
+        "direct_phone": null,
+        "email": null,
+        "source_page": "https://www.allen.kyschools.us/staff"
+      }
+    ],
+    "notes": "No extensions/phones found for named contacts. Pages tried: 13, succeeded: 1."
+  },
+  {
+    "company_name": "AMERICAN FREIGHT SOLUTIONS, INC.",
+    "website": "https://www.americanfreightsolutions.com",
+    "page_scraped": "https://www.americanfreightsolutions.com/team",
+    "contacts_found": [
+      {
+        "name": "Mr John A Murnane",
+        "extension": null,
+        "direct_phone": null,
+        "email": null,
+        "source_page": null
+      }
+    ],
+    "notes": "No extensions/phones found for named contacts. Pages tried: 13, succeeded: 0."
+  },
+  {
+    "company_name": "BATAVIA CITY SCHOOL DISTRICT",
+    "website": "https://www.bataviacsd.org",
+    "page_scraped": "https://www.bataviacsd.org/about/team",
+    "contacts_found": [],
+    "notes": "Page https://www.bataviacsd.org/about/team: exts=['1000'], phones=['585-343-2480']. Page https://www.bataviacsd.org/about/contact: exts=['1000'], phones=['585-343-2480']. Page https://www.bataviacsd.org/about: exts=['1000'], phones=['585-343-2480']. No contacts found. Pages tried: 13, succeeded: 3."
+  },
+  {
+    "company_name": "BLACKROCK FLOATING RATE INCOME TRUST",
+    "website": "https://www.blackrock.com/us/individual/products/240195/blackrock-floating-rate-income-trust-usd-fund",
+    "page_scraped": "https://www.blackrock.com/us/individual/products/240195/blackrock-floating-rate-income-trust-usd-fund/team",
+    "contacts_found": [
+      {
+        "name": "Mr James Edward Keenan",
+        "extension": null,
+        "direct_phone": null,
+        "email": null,
+        "source_page": "https://www.blackrock.com/us/individual/products/240195/blackrock-floating-rate-income-trust-usd-fund/team"
+      }
+    ],
+    "notes": "No extensions/phones found for named contacts. Pages tried: 13, succeeded: 13."
+  },
+  {
+    "company_name": "BOARDWALK LOUISIANA MIDSTREAM LLC",
+    "website": "https://www.bwlamidstream.com",
+    "page_scraped": "https://www.bwlamidstream.com/team",
+    "contacts_found": [],
+    "notes": "Page https://www.bwlamidstream.com/team: exts=[], phones=['1-866-574-4483']. Page https://www.bwlamidstream.com/our-team: exts=[], phones=['1-866-574-4483']. Page https://www.bwlamidstream.com/staff: exts=[], phones=['1-866-574-4483']. Page https://www.bwlamidstream.com/leadership: exts=[], phones=['1-866-574-4483']. Page https://www.bwlamidstream.com/about/team: exts=[], phones=['1-866-574-4483']. Page https://www.bwlamidstream.com/about-us: exts=[], phones=['1-866-574-4483']. Page https://www.bwlamidstream.com/people: exts=[], phones=['1-866-574-4483']. Page https://www.bwlamidstream.com/contact: exts=[], phones=['1-866-574-4483']. Page https://www.bwlamidstream.com/contact-us: exts=[], phones=['1-866-574-4483']. Page https://www.bwlamidstream.com/about/contact: exts=[], phones=['1-866-574-4483']. Page https://www.bwlamidstream.com/about: exts=[], phones=['1-866-574-4483']. Page https://www.bwlamidstream.com/meet-the-team: exts=[], phones=['1-866-574-4483']. Page https://www.bwlamidstream.com/meet-our-team: exts=[], phones=['1-866-574-4483']. No contacts found. Pages tried: 13, succeeded: 13."
+  },
+  {
+    "company_name": "CARLISLE",
+    "website": "https://www.carlisle.kyschools.us",
+    "page_scraped": "https://www.carlisle.kyschools.us/team",
+    "contacts_found": [
+      {
+        "name": "Ms Rachel Bowles",
+        "extension": null,
+        "direct_phone": null,
+        "email": null,
+        "source_page": "https://www.carlisle.kyschools.us/team"
+      }
+    ],
+    "notes": "No extensions/phones found for named contacts. Pages tried: 13, succeeded: 13."
+  },
+  {
+    "company_name": "CARLISLE COUNTY BOARD OF EDUCATION",
+    "website": "https://www.carlisle.k12.ky.us",
+    "page_scraped": "https://www.carlisle.k12.ky.us/team",
+    "contacts_found": [
+      {
+        "name": "Ms Margaret Wilson",
+        "extension": null,
+        "direct_phone": null,
+        "email": null,
+        "source_page": null
+      }
+    ],
+    "notes": "No extensions/phones found for named contacts. Pages tried: 13, succeeded: 0."
+  },
+  {
+    "company_name": "CEDAR COVE, INC.",
+    "website": "https://www.cedarcoveroofing.com",
+    "page_scraped": "https://www.cedarcoveroofing.com/team",
+    "contacts_found": [
+      {
+        "name": "Mr Robert S Bishop",
+        "extension": null,
+        "direct_phone": null,
+        "email": null,
+        "source_page": null
+      }
+    ],
+    "notes": "No extensions/phones found for named contacts. Pages tried: 13, succeeded: 0."
+  },
+  {
+    "company_name": "CEDARCOVEINC",
+    "website": "https://cedarcoveinc.com",
+    "page_scraped": "https://cedarcoveinc.com/team",
+    "contacts_found": [
+      {
+        "name": "Mr Robert S Bishop",
+        "extension": null,
+        "direct_phone": null,
+        "email": null,
+        "source_page": null
+      }
+    ],
+    "notes": "No extensions/phones found for named contacts. Pages tried: 13, succeeded: 0."
+  },
+  {
+    "company_name": "CENTERSTONE HEALTH SERVICES, INC.",
+    "website": "https://www.centerstonehealthservices.org",
+    "page_scraped": "https://www.centerstonehealthservices.org/about-us",
+    "contacts_found": [
+      {
+        "name": "Mr Richard Smock",
+        "extension": null,
+        "direct_phone": null,
+        "email": null,
+        "source_page": "https://www.centerstonehealthservices.org/about-us"
+      }
+    ],
+    "notes": "No extensions/phones found for named contacts. Pages tried: 13, succeeded: 2."
+  },
+  {
+    "company_name": "CENTERSTONEHEALTHSERVICES",
+    "website": "https://centerstonehealthservices.org",
+    "page_scraped": "https://centerstonehealthservices.org/about-us",
+    "contacts_found": [
+      {
+        "name": "Casey Brewster",
+        "extension": null,
+        "direct_phone": null,
+        "email": null,
+        "source_page": "https://centerstonehealthservices.org/about-us"
+      }
+    ],
+    "notes": "No extensions/phones found for named contacts. Pages tried: 13, succeeded: 2."
+  },
+  {
+    "company_name": "CHARLES F BRUCKNER & SON INC",
+    "website": "https://www.cfbruckner.com",
+    "page_scraped": "https://www.cfbruckner.com/team",
+    "contacts_found": [
+      {
+        "name": "Mr James F. Bruckner",
+        "extension": null,
+        "direct_phone": null,
+        "email": null,
+        "source_page": null
+      }
+    ],
+    "notes": "No extensions/phones found for named contacts. Pages tried: 13, succeeded: 0."
+  },
+  {
+    "company_name": "CO",
+    "website": "https://co.johnson.in.us",
+    "page_scraped": "https://co.johnson.in.us/team",
+    "contacts_found": [],
+    "notes": "No contacts found. Pages tried: 13, succeeded: 0."
+  },
+  {
+    "company_name": "CONCORDIA UNIVERSITY",
+    "website": "https://www.cu-portland.edu",
+    "page_scraped": "https://www.cu-portland.edu/team",
+    "contacts_found": [
+      {
+        "name": "Mr Michael Greenlee",
+        "extension": null,
+        "direct_phone": null,
+        "email": null,
+        "source_page": null
+      }
+    ],
+    "notes": "No extensions/phones found for named contacts. Pages tried: 13, succeeded: 0."
+  },
+  {
+    "company_name": "COUNTY OF JOHNSON",
+    "website": "https://www.johnsoncountypva.com",
+    "page_scraped": "https://www.johnsoncountypva.com/team",
+    "contacts_found": [
+      {
+        "name": "Mr Mark Mckenzie",
+        "extension": null,
+        "direct_phone": null,
+        "email": null,
+        "source_page": "https://www.johnsoncountypva.com/team"
+      }
+    ],
+    "notes": "No extensions/phones found for named contacts. Pages tried: 13, succeeded: 13."
+  },
+  {
+    "company_name": "CRIDER & CRIDER, INC.",
+    "website": "https://criderandcrider.com",
+    "page_scraped": "https://criderandcrider.com/about-us",
+    "contacts_found": [
+      {
+        "name": "Mr Robert E Crider",
+        "extension": null,
+        "direct_phone": "317.334.0758",
+        "email": null,
+        "source_page": "https://criderandcrider.com/about-us"
+      }
+    ],
+    "notes": "Found data for 1 contacts. Pages tried: 13, succeeded: 5."
+  },
+  {
+    "company_name": "CRIDERANDCRIDER",
+    "website": "https://www.criderandcrider.com",
+    "page_scraped": "https://www.criderandcrider.com/about-us",
+    "contacts_found": [
+      {
+        "name": "Mr Steven R. Crider",
+        "extension": null,
+        "direct_phone": "317.334.0758",
+        "email": null,
+        "source_page": "https://www.criderandcrider.com/about-us"
+      }
+    ],
+    "notes": "Found data for 1 contacts. Pages tried: 13, succeeded: 5."
+  },
+  {
+    "company_name": "CROSWELL OF WILLIAMSBURG LLC",
+    "website": "https://www.croswell-bus.com",
+    "page_scraped": "https://www.croswell-bus.com/team",
+    "contacts_found": [
+      {
+        "name": "Mr John Croswell",
+        "extension": null,
+        "direct_phone": null,
+        "email": null,
+        "source_page": null
+      }
+    ],
+    "notes": "No extensions/phones found for named contacts. Pages tried: 13, succeeded: 0."
+  },
+  {
+    "company_name": "Civo",
+    "website": "https://civo.com",
+    "page_scraped": "https://civo.com/contact",
+    "contacts_found": [
+      {
+        "name": "Mark Boost",
+        "extension": null,
+        "direct_phone": null,
+        "email": null,
+        "source_page": "https://civo.com/contact"
+      }
+    ],
+    "notes": "No extensions/phones found for named contacts. Pages tried: 13, succeeded: 2."
+  },
+  {
+    "company_name": "DAVID BEAR, INC.",
+    "website": "https://www.davidbearinc.com",
+    "page_scraped": "https://www.davidbearinc.com/contact",
+    "contacts_found": [
+      {
+        "name": "Mr Michael J Verdon",
+        "extension": null,
+        "direct_phone": null,
+        "email": null,
+        "source_page": "https://www.davidbearinc.com/contact"
+      }
+    ],
+    "notes": "No extensions/phones found for named contacts. Pages tried: 13, succeeded: 3."
+  },
+  {
+    "company_name": "DENNETT",
+    "website": "https://www.dennett.net",
+    "page_scraped": "https://www.dennett.net/team",
+    "contacts_found": [
+      {
+        "name": "Brett C Dennett",
+        "extension": null,
+        "direct_phone": null,
+        "email": null,
+        "source_page": null
+      }
+    ],
+    "notes": "No extensions/phones found for named contacts. Pages tried: 13, succeeded: 0."
+  },
+  {
+    "company_name": "DENNETT CONSTRUCTION, INC.",
+    "website": "https://www.dennettconstruction.com",
+    "page_scraped": "https://www.dennettconstruction.com/team",
+    "contacts_found": [
+      {
+        "name": "Mr Douglas T Dennett",
+        "extension": null,
+        "direct_phone": null,
+        "email": null,
+        "source_page": null
+      }
+    ],
+    "notes": "No extensions/phones found for named contacts. Pages tried: 13, succeeded: 0."
+  },
+  {
+    "company_name": "DENNETTCONSTRUCTION",
+    "website": "https://dennettconstruction.com",
+    "page_scraped": "https://dennettconstruction.com/team",
+    "contacts_found": [
+      {
+        "name": "Mr Robert C Dennett",
+        "extension": null,
+        "direct_phone": null,
+        "email": null,
+        "source_page": null
+      }
+    ],
+    "notes": "No extensions/phones found for named contacts. Pages tried: 13, succeeded: 0."
+  },
+  {
+    "company_name": "DEPENDABLE HOME HEALTH CARE INC.",
+    "website": "https://www.dependable-care.com",
+    "page_scraped": "https://www.dependable-care.com/team",
+    "contacts_found": [
+      {
+        "name": "Mr Isaac Mensah",
+        "extension": null,
+        "direct_phone": null,
+        "email": null,
+        "source_page": null
+      }
+    ],
+    "notes": "No extensions/phones found for named contacts. Pages tried: 13, succeeded: 0."
+  },
+  {
+    "company_name": "DEPENDABLE-CARE",
+    "website": "https://dependable-care.com",
+    "page_scraped": "https://dependable-care.com/team",
+    "contacts_found": [
+      {
+        "name": "Ms Staci Gyekis",
+        "extension": null,
+        "direct_phone": null,
+        "email": null,
+        "source_page": null
+      }
+    ],
+    "notes": "No extensions/phones found for named contacts. Pages tried: 13, succeeded: 0."
+  },
+  {
+    "company_name": "DEPENDABLEHOMEHEALTH",
+    "website": "https://www.dependablehomehealth.com",
+    "page_scraped": "https://www.dependablehomehealth.com/team",
+    "contacts_found": [
+      {
+        "name": "Ms Sarah Mensah",
+        "extension": null,
+        "direct_phone": null,
+        "email": null,
+        "source_page": null
+      }
+    ],
+    "notes": "No extensions/phones found for named contacts. Pages tried: 13, succeeded: 0."
+  },
+  {
+    "company_name": "DONNELLY CONCRETE INC.",
+    "website": "https://www.donnellyconcrete.com/lander",
+    "page_scraped": "https://www.donnellyconcrete.com/lander/team",
+    "contacts_found": [
+      {
+        "name": "Ms Sheila M Donnelly",
+        "extension": null,
+        "direct_phone": null,
+        "email": null,
+        "source_page": "https://www.donnellyconcrete.com/lander/team"
+      }
+    ],
+    "notes": "No extensions/phones found for named contacts. Pages tried: 13, succeeded: 13."
+  },
+  {
+    "company_name": "DRIVEMARATHONMAIL",
+    "website": "https://www.drivemarathonmail.com",
+    "page_scraped": "https://www.drivemarathonmail.com/contact",
+    "contacts_found": [],
+    "notes": "Page https://www.drivemarathonmail.com/contact: exts=['146', '146'], phones=['715.842.2511', '715-848-5183', '715-842-2511']. Page https://www.drivemarathonmail.com/about/contact: exts=['146', '146'], phones=['715.842.2511', '715-848-5183', '715-842-2511']. Page https://www.drivemarathonmail.com/about: exts=[], phones=['715.842.2511']. No contacts found. Pages tried: 13, succeeded: 3."
+  },
+  {
+    "company_name": "DYNO JET RESEARCH",
+    "website": "https://www.dynojet.com",
+    "page_scraped": "https://www.dynojet.com/about-us",
+    "contacts_found": [
+      {
+        "name": "Mr Shawn Arnold",
+        "extension": null,
+        "direct_phone": null,
+        "email": null,
+        "source_page": "https://www.dynojet.com/about-us"
+      }
+    ],
+    "notes": "No extensions/phones found for named contacts. Pages tried: 13, succeeded: 3."
+  },
+  {
+    "company_name": "EASTGROUP",
+    "website": "https://eastgroup.net",
+    "page_scraped": "https://eastgroup.net/contact",
+    "contacts_found": [
+      {
+        "name": "Ms Edna Range",
+        "extension": null,
+        "direct_phone": "601.354.3555",
+        "email": null,
+        "source_page": "https://eastgroup.net/contact"
+      }
+    ],
+    "notes": "Found data for 1 contacts. Pages tried: 13, succeeded: 3."
+  },
+  {
+    "company_name": "EASTGROUP PROPERTIES INC",
+    "website": "https://www.eastgroup.net",
+    "page_scraped": "https://www.eastgroup.net/contact",
+    "contacts_found": [
+      {
+        "name": "Christopher Joseph Barre",
+        "extension": null,
+        "direct_phone": null,
+        "email": null,
+        "source_page": "https://www.eastgroup.net/contact"
+      }
+    ],
+    "notes": "No extensions/phones found for named contacts. Pages tried: 13, succeeded: 3."
+  },
+  {
+    "company_name": "ELM CREST RETIREMENT COMM",
+    "website": "https://www.abhomes.net",
+    "page_scraped": "https://www.abhomes.net/contact",
+    "contacts_found": [
+      {
+        "name": "Ms Jayne Christenson",
+        "extension": null,
+        "direct_phone": null,
+        "email": null,
+        "source_page": "https://www.abhomes.net/contact"
+      }
+    ],
+    "notes": "No extensions/phones found for named contacts. Pages tried: 13, succeeded: 3."
+  },
+  {
+    "company_name": "ELMCREST",
+    "website": "https://elmcrest.net",
+    "page_scraped": "https://elmcrest.net/contact",
+    "contacts_found": [
+      {
+        "name": "Ms Dawn Patten",
+        "extension": null,
+        "direct_phone": null,
+        "email": null,
+        "source_page": "https://elmcrest.net/contact"
+      }
+    ],
+    "notes": "No extensions/phones found for named contacts. Pages tried: 13, succeeded: 3."
+  },
+  {
+    "company_name": "FIRST JUDICIAL PUBLIC DEFENDER",
+    "website": "https://www.pubdef.state.mn.us",
+    "page_scraped": "https://www.pubdef.state.mn.us/team",
+    "contacts_found": [],
+    "notes": "No contacts found. Pages tried: 13, succeeded: 13."
+  },
+  {
+    "company_name": "GALAX-ESYSTEMS CORPORATION",
+    "website": "https://www.galaxesystems.com",
+    "page_scraped": "https://www.galaxesystems.com/leadership",
+    "contacts_found": [
+      {
+        "name": "Mr Revathi Annamreddy",
+        "extension": null,
+        "direct_phone": null,
+        "email": null,
+        "source_page": "https://www.galaxesystems.com/leadership"
+      }
+    ],
+    "notes": "No extensions/phones found for named contacts. Pages tried: 13, succeeded: 6."
+  },
+  {
+    "company_name": "GALLO-SCHWEGMANN PARTNERSHIP",
+    "website": "https://www.gallo.com",
+    "page_scraped": "https://www.gallo.com/contact",
+    "contacts_found": [
+      {
+        "name": "Mr August R Gallo JR",
+        "extension": null,
+        "direct_phone": null,
+        "email": null,
+        "source_page": "https://www.gallo.com/contact"
+      }
+    ],
+    "notes": "No extensions/phones found for named contacts. Pages tried: 13, succeeded: 1."
+  },
+  {
+    "company_name": "GEORGIA PUBLIC SAFETY TRAINING CENTER",
+    "website": "https://www.gpstc.org",
+    "page_scraped": "https://www.gpstc.org/contact",
+    "contacts_found": [
+      {
+        "name": "Mr Tony Hightower",
+        "extension": null,
+        "direct_phone": null,
+        "email": null,
+        "source_page": "https://www.gpstc.org/contact"
+      }
+    ],
+    "notes": "No extensions/phones found for named contacts. Pages tried: 13, succeeded: 2."
+  },
+  {
+    "company_name": "GOCROSWELL",
+    "website": "https://gocroswell.com",
+    "page_scraped": "https://gocroswell.com/contact",
+    "contacts_found": [
+      {
+        "name": "Ms Anne Werring",
+        "extension": null,
+        "direct_phone": null,
+        "email": null,
+        "source_page": "https://gocroswell.com/contact"
+      }
+    ],
+    "notes": "No extensions/phones found for named contacts. Pages tried: 13, succeeded: 1."
+  },
+  {
+    "company_name": "HCBMN",
+    "website": "https://www.hcbmn.com",
+    "page_scraped": "https://www.hcbmn.com/team",
+    "contacts_found": [],
+    "notes": "No contacts found. Pages tried: 13, succeeded: 13."
+  },
+  {
+    "company_name": "HEALTHY MOTHERS/HEALTHY BABIES COALITION OF PALM BEACH COUNTY, INC.",
+    "website": "https://www.hmhbpbc.org",
+    "page_scraped": "https://www.hmhbpbc.org/leadership",
+    "contacts_found": [],
+    "notes": "Page https://www.hmhbpbc.org/leadership: exts=[], phones=['561-665-4500', '1-800-435-7352']. Page https://www.hmhbpbc.org/contact: exts=[], phones=['561-665-4500', '1-800-435-7352']. Page https://www.hmhbpbc.org/about: exts=[], phones=['561-665-4500', '1-800-435-7352']. No contacts found. Pages tried: 13, succeeded: 3."
+  },
+  {
+    "company_name": "HOMETOWN COMMUNITY BANK",
+    "website": "https://www.secure.hcbmn.com",
+    "page_scraped": "https://www.secure.hcbmn.com/team",
+    "contacts_found": [
+      {
+        "name": "Mr John Stellner",
+        "extension": null,
+        "direct_phone": null,
+        "email": null,
+        "source_page": null
+      }
+    ],
+    "notes": "No extensions/phones found for named contacts. Pages tried: 13, succeeded: 0."
+  },
+  {
+    "company_name": "IDAHO SCIENCE AND TECHNOLOGY CHARTER SCHOOL, INC.",
+    "website": "https://www.idahoscience.com",
+    "page_scraped": "https://www.idahoscience.com/team",
+    "contacts_found": [
+      {
+        "name": "Tami Dortch",
+        "extension": null,
+        "direct_phone": null,
+        "email": null,
+        "source_page": "https://www.idahoscience.com/team"
+      }
+    ],
+    "notes": "No extensions/phones found for named contacts. Pages tried: 13, succeeded: 13."
+  },
+  {
+    "company_name": "INFOAXIS INC",
+    "website": "https://www.infoaxis.com",
+    "page_scraped": "https://www.infoaxis.com/team",
+    "contacts_found": [
+      {
+        "name": "Mr Mickey Mcgraw",
+        "extension": null,
+        "direct_phone": null,
+        "email": null,
+        "source_page": null
+      }
+    ],
+    "notes": "No extensions/phones found for named contacts. Pages tried: 13, succeeded: 0."
+  },
+  {
+    "company_name": "INSIGHTLY INC",
+    "website": "https://www.insightly.com",
+    "page_scraped": "https://www.insightly.com/leadership",
+    "contacts_found": [
+      {
+        "name": "Mr Anthony Charles Smith",
+        "extension": null,
+        "direct_phone": null,
+        "email": null,
+        "source_page": "https://www.insightly.com/leadership"
+      }
+    ],
+    "notes": "No extensions/phones found for named contacts. Pages tried: 13, succeeded: 4."
+  },
+  {
+    "company_name": "ISCI HOLDINGS INC",
+    "website": "https://ckzholdings.com",
+    "page_scraped": "https://ckzholdings.com/team",
+    "contacts_found": [],
+    "notes": "No contacts found. Pages tried: 13, succeeded: 0."
+  },
+  {
+    "company_name": "JAMES DEAN CONSTRUCTION INC",
+    "website": "https://www.jamesdeanconstruction.com",
+    "page_scraped": "https://www.jamesdeanconstruction.com/team",
+    "contacts_found": [],
+    "notes": "No contacts found. Pages tried: 13, succeeded: 0."
+  },
+  {
+    "company_name": "JLW TRUCKING",
+    "website": "https://www.jlwtruckingco.com",
+    "page_scraped": "https://www.jlwtruckingco.com/about-us",
+    "contacts_found": [],
+    "notes": "Page https://www.jlwtruckingco.com/about-us: exts=[], phones=['706-816-1215', '706-485-2800', '706-318-9439']. Page https://www.jlwtruckingco.com/contact: exts=[], phones=['706-485-2080', '706-485-2800']. No contacts found. Pages tried: 13, succeeded: 2."
+  },
+  {
+    "company_name": "JOSEPH H. ROBERTS INC.",
+    "website": "https://jhrobertsinc.com",
+    "page_scraped": "https://jhrobertsinc.com/team",
+    "contacts_found": [],
+    "notes": "Page https://jhrobertsinc.com/team: exts=[], phones=['1\\n(609) 541-7387', '(609) 541-7387']. Page https://jhrobertsinc.com/our-team: exts=[], phones=['1\\n(609) 541-7387', '(609) 541-7387']. Page https://jhrobertsinc.com/staff: exts=[], phones=['1\\n(609) 541-7387', '(609) 541-7387']. Page https://jhrobertsinc.com/leadership: exts=[], phones=['1\\n(609) 541-7387', '(609) 541-7387']. Page https://jhrobertsinc.com/about/team: exts=[], phones=['1\\n(609) 541-7387', '(609) 541-7387']. Page https://jhrobertsinc.com/about-us: exts=[], phones=['1\\n(609) 541-7387', '(609) 541-7387']. Page https://jhrobertsinc.com/people: exts=[], phones=['1\\n(609) 541-7387', '(609) 541-7387']. Page https://jhrobertsinc.com/contact: exts=[], phones=['1\\n(609) 541-7387', '(609) 541-7387']. Page https://jhrobertsinc.com/contact-us: exts=[], phones=['1\\n(609) 541-7387', '(609) 541-7387']. Page https://jhrobertsinc.com/about/contact: exts=[], phones=['1\\n(609) 541-7387', '(609) 541-7387']. Page https://jhrobertsinc.com/about: exts=[], phones=['1\\n(609) 541-7387', '(609) 541-7387']. Page https://jhrobertsinc.com/meet-the-team: exts=[], phones=['1\\n(609) 541-7387', '(609) 541-7387']. Page https://jhrobertsinc.com/meet-our-team: exts=[], phones=['1\\n(609) 541-7387', '(609) 541-7387']. No contacts found. Pages tried: 13, succeeded: 13."
+  },
+  {
+    "company_name": "JOSWIG CONSTRUCTION, INC.",
+    "website": "https://www.joswigconstruction.com",
+    "page_scraped": "https://www.joswigconstruction.com/about-us",
+    "contacts_found": [
+      {
+        "name": "Ms Keys James",
+        "extension": null,
+        "direct_phone": null,
+        "email": null,
+        "source_page": "https://www.joswigconstruction.com/about-us"
+      }
+    ],
+    "notes": "No extensions/phones found for named contacts. Pages tried: 13, succeeded: 2."
+  },
+  {
+    "company_name": "JPI CALIFORNIA CONSTRUCTION SERVICES, L.P.",
+    "website": "https://www.jpi.com",
+    "page_scraped": "https://www.jpi.com/leadership",
+    "contacts_found": [
+      {
+        "name": "Mr Paytoin Mayes",
+        "extension": null,
+        "direct_phone": null,
+        "email": null,
+        "source_page": "https://www.jpi.com/leadership"
+      }
+    ],
+    "notes": "No extensions/phones found for named contacts. Pages tried: 13, succeeded: 3."
+  },
+  {
+    "company_name": "KENTUCKY COUNTRY DAY SCHOOL, INC.",
+    "website": "https://www.kcd.org",
+    "page_scraped": "https://www.kcd.org/about",
+    "contacts_found": [
+      {
+        "name": "Mr Peter Huestis",
+        "extension": null,
+        "direct_phone": null,
+        "email": null,
+        "source_page": "https://www.kcd.org/about"
+      }
+    ],
+    "notes": "No extensions/phones found for named contacts. Pages tried: 13, succeeded: 1."
+  },
+  {
+    "company_name": "LA FOLLETTE MEDICAL CENTER",
+    "website": "https://www.tennovahealthcare.com",
+    "page_scraped": "https://www.tennovahealthcare.com/team",
+    "contacts_found": [
+      {
+        "name": "Ms Rhonda Maynard",
+        "extension": null,
+        "direct_phone": null,
+        "email": null,
+        "source_page": null
+      }
+    ],
+    "notes": "No extensions/phones found for named contacts. Pages tried: 13, succeeded: 0."
+  },
+  {
+    "company_name": "LARRY METHVIN INSTALLATIONS INC",
+    "website": "https://www.larrymethvin.com",
+    "page_scraped": "https://www.larrymethvin.com/team",
+    "contacts_found": [
+      {
+        "name": "Mr Andrew L. Nemeth",
+        "extension": null,
+        "direct_phone": null,
+        "email": null,
+        "source_page": null
+      }
+    ],
+    "notes": "No extensions/phones found for named contacts. Pages tried: 13, succeeded: 0."
+  },
+  {
+    "company_name": "MANSION",
+    "website": "https://www.mansion.georgia.gov",
+    "page_scraped": "https://www.mansion.georgia.gov/team",
+    "contacts_found": [
+      {
+        "name": "Ms Cindy Jones",
+        "extension": null,
+        "direct_phone": null,
+        "email": null,
+        "source_page": null
+      }
+    ],
+    "notes": "No extensions/phones found for named contacts. Pages tried: 13, succeeded: 0."
+  },
+  {
+    "company_name": "MARATHON MAIL SERVICE, INC.",
+    "website": "https://drivemarathonmail.com",
+    "page_scraped": "https://drivemarathonmail.com/contact",
+    "contacts_found": [
+      {
+        "name": "Mr Tim Plautz",
+        "extension": null,
+        "direct_phone": null,
+        "email": null,
+        "source_page": "https://drivemarathonmail.com/contact"
+      }
+    ],
+    "notes": "No extensions/phones found for named contacts. Pages tried: 13, succeeded: 3."
+  },
+  {
+    "company_name": "MASTERWORKS CONSTRUCTION",
+    "website": "https://www.masterworksconstructionmt.com",
+    "page_scraped": "https://www.masterworksconstructionmt.com/team",
+    "contacts_found": [],
+    "notes": "No contacts found. Pages tried: 13, succeeded: 0."
+  },
+  {
+    "company_name": "MATHIS CONSTRUCTION, LLC",
+    "website": "https://www.mathisconst.com",
+    "page_scraped": "https://www.mathisconst.com/team",
+    "contacts_found": [
+      {
+        "name": "Mr Mathis Perry Lynn",
+        "extension": null,
+        "direct_phone": null,
+        "email": null,
+        "source_page": null
+      }
+    ],
+    "notes": "No extensions/phones found for named contacts. Pages tried: 13, succeeded: 0."
+  },
+  {
+    "company_name": "MCINTOSH CLINIC, P.C.",
+    "website": "https://www.mcintoshclinic.com",
+    "page_scraped": "https://www.mcintoshclinic.com/about-us",
+    "contacts_found": [
+      {
+        "name": "Mr James Falconer",
+        "extension": null,
+        "direct_phone": null,
+        "email": null,
+        "source_page": "https://www.mcintoshclinic.com/about-us"
+      }
+    ],
+    "notes": "No extensions/phones found for named contacts. Pages tried: 13, succeeded: 2."
+  },
+  {
+    "company_name": "MONTPELIER SCHOOL DISTRICT 45",
+    "website": "https://www.mrpsvt.org",
+    "page_scraped": "https://www.mrpsvt.org/team",
+    "contacts_found": [],
+    "notes": "No contacts found. Pages tried: 13, succeeded: 0."
+  },
+  {
+    "company_name": "MWORKSCONSTRUCTION",
+    "website": "https://mworksconstruction.com",
+    "page_scraped": "https://mworksconstruction.com/about/team",
+    "contacts_found": [],
+    "notes": "Page https://mworksconstruction.com/about/team: exts=[], phones=['(562) 961-0607']. Page https://mworksconstruction.com/about-us: exts=[], phones=['(562) 961-0607']. Page https://mworksconstruction.com/contact: exts=[], phones=['(562) 961-0607']. Page https://mworksconstruction.com/contact-us: exts=[], phones=['(562) 961-0607']. Page https://mworksconstruction.com/about/contact: exts=[], phones=['(562) 961-0607']. Page https://mworksconstruction.com/about: exts=[], phones=['(562) 961-0607']. No contacts found. Pages tried: 13, succeeded: 6."
+  },
+  {
+    "company_name": "MYPRIVIA",
+    "website": "https://www.myprivia.com/mcintoshclinic",
+    "page_scraped": "https://www.myprivia.com/mcintoshclinic/about-us",
+    "contacts_found": [
+      {
+        "name": "Mr Michael L Gee",
+        "extension": null,
+        "direct_phone": null,
+        "email": null,
+        "source_page": "https://www.myprivia.com/mcintoshclinic/about-us"
+      }
+    ],
+    "notes": "No extensions/phones found for named contacts. Pages tried: 13, succeeded: 1."
+  },
+  {
+    "company_name": "NORTHWEST CONTROLS SYSTEMS, INC.",
+    "website": "https://www.nwcontrols.com",
+    "page_scraped": "https://www.nwcontrols.com/team",
+    "contacts_found": [
+      {
+        "name": "Mr Andy Lyons",
+        "extension": null,
+        "direct_phone": null,
+        "email": null,
+        "source_page": null
+      }
+    ],
+    "notes": "No extensions/phones found for named contacts. Pages tried: 13, succeeded: 0."
+  },
+  {
+    "company_name": "NOVA HEALTHCARE GROUP",
+    "website": "https://novahealthcaregroup.com",
+    "page_scraped": "https://novahealthcaregroup.com/team",
+    "contacts_found": [],
+    "notes": "No contacts found. Pages tried: 13, succeeded: 0."
+  },
+  {
+    "company_name": "NROTCU GEORGIA INSTITUTE OF TECH",
+    "website": "https://www.gatech.edu",
+    "page_scraped": "https://www.gatech.edu/about",
+    "contacts_found": [
+      {
+        "name": "Ms Dana Simpson",
+        "extension": null,
+        "direct_phone": null,
+        "email": null,
+        "source_page": "https://www.gatech.edu/about"
+      }
+    ],
+    "notes": "No extensions/phones found for named contacts. Pages tried: 13, succeeded: 1."
+  },
+  {
+    "company_name": "NWCONTROLS",
+    "website": "https://nwcontrols.com",
+    "page_scraped": "https://nwcontrols.com/team",
+    "contacts_found": [
+      {
+        "name": "Mr Andy Lyons",
+        "extension": null,
+        "direct_phone": null,
+        "email": null,
+        "source_page": null
+      }
+    ],
+    "notes": "No extensions/phones found for named contacts. Pages tried: 13, succeeded: 0."
+  },
+  {
+    "company_name": "PACIFIC LIVING PROPERTIES, INC.",
+    "website": "https://www.pacificliving.com",
+    "page_scraped": "https://www.pacificliving.com/team",
+    "contacts_found": [
+      {
+        "name": "Ms Susie LaVallie",
+        "extension": null,
+        "direct_phone": null,
+        "email": null,
+        "source_page": null
+      }
+    ],
+    "notes": "No extensions/phones found for named contacts. Pages tried: 13, succeeded: 0."
+  },
+  {
+    "company_name": "PERSONALIZED AIR CONDITIONING, INC.",
+    "website": "https://airprosusa.com",
+    "page_scraped": "https://airprosusa.com/contact",
+    "contacts_found": [
+      {
+        "name": "Ms Theresa Marie Deutsch",
+        "extension": null,
+        "direct_phone": null,
+        "email": null,
+        "source_page": "https://airprosusa.com/contact"
+      }
+    ],
+    "notes": "No extensions/phones found for named contacts. Pages tried: 13, succeeded: 4."
+  },
+  {
+    "company_name": "PERSONALIZEDAIR",
+    "website": "https://www.personalizedair.com",
+    "page_scraped": "https://www.personalizedair.com/contact-us",
+    "contacts_found": [
+      {
+        "name": "Ms Theresa Marie Deutsch",
+        "extension": null,
+        "direct_phone": null,
+        "email": null,
+        "source_page": "https://www.personalizedair.com/contact-us"
+      }
+    ],
+    "notes": "No extensions/phones found for named contacts. Pages tried: 13, succeeded: 2."
+  },
+  {
+    "company_name": "PHEIFER BROTHERS CONSTRUCTION COMPANY, INC.",
+    "website": "https://www.pheifer.com",
+    "page_scraped": "https://www.pheifer.com/contact",
+    "contacts_found": [
+      {
+        "name": "Mr Tyler Volkmann",
+        "extension": null,
+        "direct_phone": null,
+        "email": null,
+        "source_page": "https://www.pheifer.com/contact"
+      }
+    ],
+    "notes": "No extensions/phones found for named contacts. Pages tried: 13, succeeded: 1."
+  },
+  {
+    "company_name": "PINE BEND PAVING, INC.",
+    "website": "https://www.pinebendpaving.com",
+    "page_scraped": "https://www.pinebendpaving.com/about/team",
+    "contacts_found": [
+      {
+        "name": "Mr Joel A Jacoby",
+        "extension": null,
+        "direct_phone": null,
+        "email": null,
+        "source_page": "https://www.pinebendpaving.com/about/team"
+      }
+    ],
+    "notes": "No extensions/phones found for named contacts. Pages tried: 13, succeeded: 4."
+  },
+  {
+    "company_name": "PINERIDGE APARTMENTS",
+    "website": "https://www.pineridge-apartments.com",
+    "page_scraped": "https://www.pineridge-apartments.com/team",
+    "contacts_found": [],
+    "notes": "No contacts found. Pages tried: 13, succeeded: 0."
+  },
+  {
+    "company_name": "R. UDELSON, INC.",
+    "website": "https://www.powertrac.com",
+    "page_scraped": "https://www.powertrac.com/team",
+    "contacts_found": [
+      {
+        "name": "Irrevocable Udelson",
+        "extension": null,
+        "direct_phone": null,
+        "email": null,
+        "source_page": "https://www.powertrac.com/team"
+      }
+    ],
+    "notes": "No extensions/phones found for named contacts. Pages tried: 13, succeeded: 13."
+  },
+  {
+    "company_name": "RIVER BANK",
+    "website": "https://riverbank.biz",
+    "page_scraped": "https://riverbank.biz/team",
+    "contacts_found": [],
+    "notes": "No contacts found. Pages tried: 13, succeeded: 0."
+  },
+  {
+    "company_name": "SDEPOT",
+    "website": "https://www.sdepot.com",
+    "page_scraped": "https://www.sdepot.com/about-us",
+    "contacts_found": [],
+    "notes": "Page https://www.sdepot.com/about-us: exts=[], phones=['(800) 786-2627', '(888) 442-6276', '(877)-254-2172']. Page https://www.sdepot.com/contact-us: exts=[], phones=['1-877-254-2172']. Page https://www.sdepot.com/meet-our-team: exts=[], phones=['1-877-254-2172']. No contacts found. Pages tried: 13, succeeded: 3."
+  },
+  {
+    "company_name": "SECURE",
+    "website": "https://secure.hcbmn.com/Pages/Default.html",
+    "page_scraped": "https://secure.hcbmn.com/Pages/Default.html/team",
+    "contacts_found": [],
+    "notes": "No contacts found. Pages tried: 13, succeeded: 13."
+  },
+  {
+    "company_name": "SMBC Leasing (SMFL)",
+    "website": "https://smfl.co.jp",
+    "page_scraped": "https://smfl.co.jp/team",
+    "contacts_found": [
+      {
+        "name": "Makoto Iijima",
+        "extension": null,
+        "direct_phone": null,
+        "email": null,
+        "source_page": null
+      },
+      {
+        "name": "Masahiro Kotake",
+        "extension": null,
+        "direct_phone": null,
+        "email": null,
+        "source_page": null
+      }
+    ],
+    "notes": "No extensions/phones found for named contacts. Pages tried: 13, succeeded: 0."
+  },
+  {
+    "company_name": "SOUTH BIG HORN COUNTY HOSPITAL DISTRICT",
+    "website": "https://www.trhealth.com",
+    "page_scraped": "https://www.trhealth.com/team",
+    "contacts_found": [
+      {
+        "name": "Mr Joel Jackson",
+        "extension": null,
+        "direct_phone": "307-568-3311",
+        "email": null,
+        "source_page": "https://www.trhealth.com/team"
+      }
+    ],
+    "notes": "Found data for 1 contacts. Pages tried: 13, succeeded: 4."
+  },
+  {
+    "company_name": "SOUTHBIGHORNHOSPITAL",
+    "website": "https://www.southbighornhospital.com",
+    "page_scraped": "https://www.southbighornhospital.com/team",
+    "contacts_found": [
+      {
+        "name": "Jackie Claudson",
+        "extension": null,
+        "direct_phone": null,
+        "email": null,
+        "source_page": null
+      }
+    ],
+    "notes": "No extensions/phones found for named contacts. Pages tried: 13, succeeded: 0."
+  },
+  {
+    "company_name": "SOWELA TECHNICAL COMMUNITY COLLEGE FOUNDATION",
+    "website": "https://www.sowela.edu",
+    "page_scraped": "https://www.sowela.edu/team",
+    "contacts_found": [
+      {
+        "name": "Mr Tim Broussard",
+        "extension": null,
+        "direct_phone": null,
+        "email": null,
+        "source_page": null
+      }
+    ],
+    "notes": "No extensions/phones found for named contacts. Pages tried: 13, succeeded: 0."
+  },
+  {
+    "company_name": "STANLEY HEATING AND AIR CONDITIONING, INC",
+    "website": "https://stanleyhvac.com",
+    "page_scraped": "https://stanleyhvac.com/contact-us",
+    "contacts_found": [
+      {
+        "name": "Mr Stanley Tommy Dale",
+        "extension": null,
+        "direct_phone": null,
+        "email": null,
+        "source_page": "https://stanleyhvac.com/contact-us"
+      }
+    ],
+    "notes": "No extensions/phones found for named contacts. Pages tried: 13, succeeded: 2."
+  },
+  {
+    "company_name": "STANLEYHVAC",
+    "website": "https://www.stanleyhvac.com",
+    "page_scraped": "https://www.stanleyhvac.com/contact-us",
+    "contacts_found": [
+      {
+        "name": "Mr David Lee Stanley",
+        "extension": null,
+        "direct_phone": null,
+        "email": null,
+        "source_page": "https://www.stanleyhvac.com/contact-us"
+      }
+    ],
+    "notes": "No extensions/phones found for named contacts. Pages tried: 13, succeeded: 2."
+  },
+  {
+    "company_name": "STEVEN W SMITH DDS PLLC",
+    "website": "https://www.yourcarolinadentist.com",
+    "page_scraped": "https://www.yourcarolinadentist.com/contact",
+    "contacts_found": [
+      {
+        "name": "Ms Kenna Smith",
+        "extension": null,
+        "direct_phone": null,
+        "email": null,
+        "source_page": "https://www.yourcarolinadentist.com/contact"
+      }
+    ],
+    "notes": "No extensions/phones found for named contacts. Pages tried: 13, succeeded: 3."
+  },
+  {
+    "company_name": "SUNSHINE AIR CONDITIONING, INC.",
+    "website": "https://www.sunshineac.co",
+    "page_scraped": "https://www.sunshineac.co/team",
+    "contacts_found": [
+      {
+        "name": "Mr Paul A Hoffman",
+        "extension": null,
+        "direct_phone": null,
+        "email": null,
+        "source_page": null
+      }
+    ],
+    "notes": "No extensions/phones found for named contacts. Pages tried: 13, succeeded: 0."
+  },
+  {
+    "company_name": "SUNSHINEAC",
+    "website": "https://sunshineac.com",
+    "page_scraped": "https://sunshineac.com/contact",
+    "contacts_found": [
+      {
+        "name": "Ms Candy C Hoffman",
+        "extension": null,
+        "direct_phone": null,
+        "email": null,
+        "source_page": "https://sunshineac.com/contact"
+      }
+    ],
+    "notes": "No extensions/phones found for named contacts. Pages tried: 13, succeeded: 2."
+  },
+  {
+    "company_name": "SYSTEMS DEPOT INC",
+    "website": "https://sdepot.com",
+    "page_scraped": "https://sdepot.com/about-us",
+    "contacts_found": [
+      {
+        "name": "Mr Brent Weldy",
+        "extension": null,
+        "direct_phone": null,
+        "email": null,
+        "source_page": "https://sdepot.com/about-us"
+      }
+    ],
+    "notes": "No extensions/phones found for named contacts. Pages tried: 13, succeeded: 3."
+  },
+  {
+    "company_name": "TENNOVALAFOLLETTE",
+    "website": "https://www.tennovalafollette.com",
+    "page_scraped": "https://www.tennovalafollette.com/team",
+    "contacts_found": [],
+    "notes": "No contacts found. Pages tried: 13, succeeded: 0."
+  },
+  {
+    "company_name": "TWISTED MECHANICAL",
+    "website": "https://twistedmechanical.com",
+    "page_scraped": "https://twistedmechanical.com/team",
+    "contacts_found": [],
+    "notes": "No contacts found. Pages tried: 13, succeeded: 0."
+  },
+  {
+    "company_name": "UCLAHEALTH",
+    "website": "https://www.uclahealth.org/hospitals/west-valley",
+    "page_scraped": "https://www.uclahealth.org/hospitals/west-valley/contact-us",
+    "contacts_found": [],
+    "notes": "Page https://www.uclahealth.org/hospitals/west-valley/contact-us: exts=[], phones=['818-676-4266', '818-676-4700', '818-676-4999']. Page https://www.uclahealth.org/hospitals/west-valley/about: exts=[], phones=['818-676-4000']. No contacts found. Pages tried: 13, succeeded: 2."
+  },
+  {
+    "company_name": "VILLAGE TRUCK SALES INC",
+    "website": "https://www.villagetrucksales.com",
+    "page_scraped": "https://www.villagetrucksales.com/contact",
+    "contacts_found": [],
+    "notes": "Page https://www.villagetrucksales.com/contact: exts=[], phones=['(413) 217-0116', '(413) 442-0407']. Page https://www.villagetrucksales.com/contact-us: exts=[], phones=['(413) 217-0116', '(413) 442-0407']. Page https://www.villagetrucksales.com/about: exts=[], phones=['(413) 217-0116']. No contacts found. Pages tried: 13, succeeded: 3."
+  },
+  {
+    "company_name": "WAGNER",
+    "website": "https://www.wagner.k12.sd.us",
+    "page_scraped": "https://www.wagner.k12.sd.us/team",
+    "contacts_found": [
+      {
+        "name": "Kortney Carter",
+        "extension": null,
+        "direct_phone": null,
+        "email": null,
+        "source_page": "https://www.wagner.k12.sd.us/team"
+      }
+    ],
+    "notes": "No extensions/phones found for named contacts. Pages tried: 13, succeeded: 13."
+  },
+  {
+    "company_name": "WAGNER HIGH SCHOOL",
+    "website": "https://www.judsonisd.org",
+    "page_scraped": "https://www.judsonisd.org/staff",
+    "contacts_found": [
+      {
+        "name": "Ms Lauren Bush",
+        "extension": null,
+        "direct_phone": null,
+        "email": null,
+        "source_page": "https://www.judsonisd.org/staff"
+      }
+    ],
+    "notes": "No extensions/phones found for named contacts. Pages tried: 13, succeeded: 1."
+  },
+  {
+    "company_name": "WEST HILLS REG MEDICAL CENTER",
+    "website": "https://www.westhillshospital.com",
+    "page_scraped": "https://www.westhillshospital.com/team",
+    "contacts_found": [
+      {
+        "name": "Mr Doug Hawkins",
+        "extension": null,
+        "direct_phone": null,
+        "email": null,
+        "source_page": "https://www.westhillshospital.com/team"
+      }
+    ],
+    "notes": "No extensions/phones found for named contacts. Pages tried: 13, succeeded: 13."
+  },
+  {
+    "company_name": "WSI OF FL LAKE COUNTY HAULING",
+    "website": "https://www.progressivewaste.com",
+    "page_scraped": "https://www.progressivewaste.com/team",
+    "contacts_found": [],
+    "notes": "No contacts found. Pages tried: 13, succeeded: 0."
+  },
+  {
+    "company_name": "WWI CONTRACTING CORP",
+    "website": "https://www.inyc.com",
+    "page_scraped": "https://www.inyc.com/team",
+    "contacts_found": [],
+    "notes": "No contacts found. Pages tried: 13, succeeded: 0."
+  },
+  {
+    "company_name": "WWINYC",
+    "website": "https://wwinyc.com",
+    "page_scraped": "https://wwinyc.com/contact",
+    "contacts_found": [],
+    "notes": "Page https://wwinyc.com/contact: exts=[], phones=['(201) 849-5728']. Page https://wwinyc.com/about/contact: exts=[], phones=['(201) 849-5728']. Page https://wwinyc.com/about: exts=[], phones=['(201) 849-5728']. No contacts found. Pages tried: 13, succeeded: 3."
+  },
+  {
+    "company_name": "YOURCAROLINADENTIST",
+    "website": "https://yourcarolinadentist.com",
+    "page_scraped": "https://yourcarolinadentist.com/contact",
+    "contacts_found": [],
+    "notes": "Page https://yourcarolinadentist.com/contact: exts=[], phones=['910-741-1555', '919-230-0305', '910-212-1456']. Page https://yourcarolinadentist.com/about/contact: exts=[], phones=['910-741-1555', '919-230-0305', '910-212-1456']. Page https://yourcarolinadentist.com/about: exts=['18', '18'], phones=['910-741-1555', '919-230-0305', '910-212-1456']. No contacts found. Pages tried: 13, succeeded: 3."
+  }
+]

@@ -1,0 +1,694 @@
+[
+  {
+    "name": "AMCS GROUP INC",
+    "state": "PA",
+    "year_incorporated": null,
+    "nace": "5829",
+    "employees": "10",
+    "revenue_usd": 2540000,
+    "pl_before_tax": null,
+    "total_assets": null,
+    "equity": null,
+    "website": "www.amcsgroup.com",
+    "description": null,
+    "contacts": []
+  },
+  {
+    "name": "WORKWISE, LLC",
+    "state": "WI",
+    "year_incorporated": "2001",
+    "nace": "5829",
+    "employees": "80",
+    "revenue_usd": 2537000,
+    "pl_before_tax": null,
+    "total_assets": null,
+    "equity": null,
+    "website": "www.workwisellc.com",
+    "description": "Online enterprise resource planning (ERP) Software-as-a-Service (SaaS) provider",
+    "contacts": [
+      {
+        "name": "Mr Wayne T Wedell",
+        "title": "President & Chief Executive Officer"
+      },
+      {
+        "name": "Ms Teresa Velk",
+        "title": "Executive Director, Strategic Programs"
+      },
+      {
+        "name": "Mr James Wright",
+        "title": "Vice President, Tax"
+      },
+      {
+        "name": "Bivins Mitch",
+        "title": "Treasurer"
+      },
+      {
+        "name": "Ms Cynthia Becker",
+        "title": "Accounting Secialist"
+      },
+      {
+        "name": "Ms Vicki Dylan",
+        "title": "Training"
+      },
+      {
+        "name": "Mr Patrick Jankowski",
+        "title": "Technical Support and Training"
+      },
+      {
+        "name": "Jackie Ziesemer",
+        "title": "Marketing Coordinator"
+      },
+      {
+        "name": "Ms Lora Ehmke",
+        "title": "Internet Marketing Specialist"
+      },
+      {
+        "name": "Mr Kevin Carney",
+        "title": "Crm Account Executive"
+      },
+      {
+        "name": "Mr Sam Vaynshtok",
+        "title": "Director of Research"
+      },
+      {
+        "name": "Mr Carl Wysocki",
+        "title": "Director of Research and Development Technology"
+      },
+      {
+        "name": "Mr Michael Kuenzi",
+        "title": "Research and Development Software Engineer"
+      },
+      {
+        "name": "Ms Wendy Urbaniak",
+        "title": "Technical Writer"
+      },
+      {
+        "name": "Mr Naftali Kalter",
+        "title": "Senior It Project Manager"
+      },
+      {
+        "name": "Mr Russell Kahler",
+        "title": "Product Architect"
+      },
+      {
+        "name": "Ms Samara Kluever",
+        "title": "Application Consultant"
+      },
+      {
+        "name": "Mr Daniel Brunner",
+        "title": "Support Center Director"
+      },
+      {
+        "name": "Mr Jeremy Wedell",
+        "title": "Manager"
+      },
+      {
+        "name": "Mr Fred Remers",
+        "title": "Senior Consultant"
+      },
+      {
+        "name": "Mr Katherine Lavar Dunn",
+        "title": "Auth"
+      }
+    ]
+  },
+  {
+    "name": "DEEPTHINK, LLC",
+    "state": "WA",
+    "year_incorporated": "2020",
+    "nace": "5829",
+    "employees": "25",
+    "revenue_usd": 2520000,
+    "pl_before_tax": null,
+    "total_assets": null,
+    "equity": null,
+    "website": "www.linkedin.com/in/alfred-aday-000684182",
+    "description": null,
+    "contacts": [
+      {
+        "name": "Mr Richard Aday",
+        "title": "Member (OWNER)"
+      },
+      {
+        "name": "Mr Alfred Aday",
+        "title": "Manager"
+      }
+    ]
+  },
+  {
+    "name": "EMAILVISION HOLDINGS LTD",
+    "state": "NY",
+    "year_incorporated": "2008",
+    "nace": "5829",
+    "employees": "600",
+    "revenue_usd": 2515000,
+    "pl_before_tax": null,
+    "total_assets": null,
+    "equity": null,
+    "website": "www.smartfocus.com",
+    "description": "Holding company whose subsidiaries are engaged in the provision of prepackaged software",
+    "contacts": []
+  },
+  {
+    "name": "THRESHER VENTURES, LLC",
+    "state": "VA",
+    "year_incorporated": "2022",
+    "nace": "5829",
+    "employees": "20",
+    "revenue_usd": 2510000,
+    "pl_before_tax": null,
+    "total_assets": null,
+    "equity": null,
+    "website": "www.thresher.io.com",
+    "description": "Media manipulation analyse software developer",
+    "contacts": [
+      {
+        "name": "Ms Rebecca Fair",
+        "title": "Chief Executive Officer & Co-Founder"
+      }
+    ]
+  },
+  {
+    "name": "SOFWARE LLC",
+    "state": "CA",
+    "year_incorporated": "2011",
+    "nace": "5829",
+    "employees": "16",
+    "revenue_usd": 2510000,
+    "pl_before_tax": null,
+    "total_assets": null,
+    "equity": null,
+    "website": "www.sofwarellc.com",
+    "description": null,
+    "contacts": [
+      {
+        "name": "Mr John Dowd",
+        "title": "No specific function"
+      }
+    ]
+  },
+  {
+    "name": "DISTRU CORP",
+    "state": "CA",
+    "year_incorporated": "2020",
+    "nace": "5829",
+    "employees": "25",
+    "revenue_usd": 2510000,
+    "pl_before_tax": null,
+    "total_assets": null,
+    "equity": null,
+    "website": "www.distru.com",
+    "description": null,
+    "contacts": [
+      {
+        "name": "Mr Blaine Hatab",
+        "title": "Chief Executive Officer"
+      },
+      {
+        "name": "Mr Johnny Ji",
+        "title": "Secretary"
+      },
+      {
+        "name": "Ms Ruth Cerdan",
+        "title": "Agent"
+      },
+      {
+        "name": "Mr Mohammad Lodhi",
+        "title": "Chief Financial Officer"
+      }
+    ]
+  },
+  {
+    "name": "MORTGAGETECH",
+    "state": "CO",
+    "year_incorporated": "2014",
+    "nace": "5829",
+    "employees": "18",
+    "revenue_usd": 2500000,
+    "pl_before_tax": null,
+    "total_assets": null,
+    "equity": null,
+    "website": "www.mortgagetech.com",
+    "description": null,
+    "contacts": [
+      {
+        "name": "Mr Steven Paltridge",
+        "title": "Founder & Chief Executive Officer; Shareholder"
+      }
+    ]
+  },
+  {
+    "name": "PACIFIC EDGE SOFTWARE INC",
+    "state": "OR",
+    "year_incorporated": "1991",
+    "nace": "5829",
+    "employees": "21",
+    "revenue_usd": 2500000,
+    "pl_before_tax": null,
+    "total_assets": null,
+    "equity": null,
+    "website": "www.ca.com",
+    "description": null,
+    "contacts": [
+      {
+        "name": "Mr Mark Lazar",
+        "title": "Officer"
+      }
+    ]
+  },
+  {
+    "name": "FOX FIRE TECHNOLOGIES CO INC",
+    "state": "SC",
+    "year_incorporated": null,
+    "nace": "5829",
+    "employees": "11",
+    "revenue_usd": 2500000,
+    "pl_before_tax": null,
+    "total_assets": null,
+    "equity": null,
+    "website": "www.foxfiresoftware.com",
+    "description": null,
+    "contacts": []
+  },
+  {
+    "name": "SERENITY EHS INC.",
+    "state": "CA",
+    "year_incorporated": "2021",
+    "nace": "5829",
+    "employees": "12",
+    "revenue_usd": 2500000,
+    "pl_before_tax": null,
+    "total_assets": null,
+    "equity": null,
+    "website": "www.serenityehs.com",
+    "description": "Web based environmental, health, and safety (EHS) software solutions provider",
+    "contacts": [
+      {
+        "name": "Mr Peter Oneppo",
+        "title": "President"
+      },
+      {
+        "name": "Mr Kris Markham",
+        "title": "Officer"
+      }
+    ]
+  },
+  {
+    "name": "ANSATZ CAPITAL LLC",
+    "state": "NY",
+    "year_incorporated": "2018",
+    "nace": "5829",
+    "employees": "13",
+    "revenue_usd": 2500000,
+    "pl_before_tax": null,
+    "total_assets": null,
+    "equity": null,
+    "website": "www.ansatz.capital",
+    "description": null,
+    "contacts": []
+  },
+  {
+    "name": "CHARLESTON COM",
+    "state": "SC",
+    "year_incorporated": "2008",
+    "nace": "5829",
+    "employees": "14",
+    "revenue_usd": 2490000,
+    "pl_before_tax": null,
+    "total_assets": null,
+    "equity": null,
+    "website": "www.charleston.com",
+    "description": null,
+    "contacts": [
+      {
+        "name": "Mr Will Mcintosh",
+        "title": "Chief Executive Officer"
+      }
+    ]
+  },
+  {
+    "name": "BRIGHTLINK HOLDINGS, LLC",
+    "state": "GA",
+    "year_incorporated": "2016",
+    "nace": "5829",
+    "employees": "25",
+    "revenue_usd": 2490000,
+    "pl_before_tax": null,
+    "total_assets": null,
+    "equity": null,
+    "website": "thebrightlink.com",
+    "description": null,
+    "contacts": [
+      {
+        "name": "Mr Ernest Wayne Looney",
+        "title": "Chief Executive Officer"
+      },
+      {
+        "name": "Mr Matthew Stone",
+        "title": "Vice President, Client Services"
+      },
+      {
+        "name": "Mr Shaun Dishman",
+        "title": "Vice President, Engineering"
+      }
+    ]
+  },
+  {
+    "name": "D1 TECHNOLOGIES LLC",
+    "state": "SC",
+    "year_incorporated": "2007",
+    "nace": "5829",
+    "employees": "12",
+    "revenue_usd": 2490000,
+    "pl_before_tax": null,
+    "total_assets": null,
+    "equity": null,
+    "website": "www.d1tech.net",
+    "description": null,
+    "contacts": []
+  },
+  {
+    "name": "ASEKO INC",
+    "state": "SC",
+    "year_incorporated": "2008",
+    "nace": "5829",
+    "employees": "13",
+    "revenue_usd": 2490000,
+    "pl_before_tax": null,
+    "total_assets": null,
+    "equity": null,
+    "website": "www.glytecsystems.com",
+    "description": "Glycaemic management systems manufacturer holding company ; Glycaemic management research and development services ; Glycaemic management systems wholesaler holding company",
+    "contacts": [
+      {
+        "name": "Mr Stephen Wallack",
+        "title": "Finance Manager"
+      }
+    ]
+  },
+  {
+    "name": "TEDESCO AND AFFILIATES LLC",
+    "state": "MD",
+    "year_incorporated": "2021",
+    "nace": "5829",
+    "employees": "75",
+    "revenue_usd": 2480000,
+    "pl_before_tax": null,
+    "total_assets": null,
+    "equity": null,
+    "website": "www.donorsearch.net",
+    "description": "AI-powered prospect research and philanthropic data management platform operator",
+    "contacts": [
+      {
+        "name": "Mr William Tedesco",
+        "title": "Chief Executive Officer"
+      },
+      {
+        "name": "Ms Rachael Adams",
+        "title": "Vice President of Administration"
+      }
+    ]
+  },
+  {
+    "name": "INFOMETRIX, INC.",
+    "state": "WA",
+    "year_incorporated": "1978",
+    "nace": "5829",
+    "employees": "10",
+    "revenue_usd": 2480000,
+    "pl_before_tax": null,
+    "total_assets": null,
+    "equity": null,
+    "website": "www.infometrix.com",
+    "description": null,
+    "contacts": [
+      {
+        "name": "Mr Brian Rohrback",
+        "title": "President"
+      },
+      {
+        "name": "Meeji Ko",
+        "title": "Office Manager"
+      },
+      {
+        "name": "Meeji Ko",
+        "title": "Web Development, Technical Design, Sales & Marketing Technical Assistant"
+      },
+      {
+        "name": "Mr Paul Bailey",
+        "title": "Sales and Marketing Manager"
+      },
+      {
+        "name": "Mr Paul Bailey",
+        "title": "Marketing Executive"
+      },
+      {
+        "name": "Mr Paul Bailey",
+        "title": "Executive"
+      },
+      {
+        "name": "Mr Scott Ramos",
+        "title": "Chief Scientist"
+      },
+      {
+        "name": "Mr Pedro Tevez",
+        "title": "Senior Manager, Purchasing"
+      },
+      {
+        "name": "Mr Stan Christie",
+        "title": "Database Developer"
+      }
+    ]
+  },
+  {
+    "name": "ALLTHENTICATE, INC.",
+    "state": "CA",
+    "year_incorporated": "2019",
+    "nace": "5829",
+    "employees": "10",
+    "revenue_usd": 2470000,
+    "pl_before_tax": null,
+    "total_assets": null,
+    "equity": null,
+    "website": "www.allthenticate.net",
+    "description": "Unified authentication and access control software developer",
+    "contacts": [
+      {
+        "name": "Mr Chad Samuel Spensky",
+        "title": "Agent"
+      }
+    ]
+  },
+  {
+    "name": "LIGHTBEAM.AI, INC.",
+    "state": "CA",
+    "year_incorporated": "2022",
+    "nace": "5829",
+    "employees": "10",
+    "revenue_usd": 2470000,
+    "pl_before_tax": null,
+    "total_assets": null,
+    "equity": null,
+    "website": "www.lightbeam.ai",
+    "description": "Zero trust data protection platform operator",
+    "contacts": [
+      {
+        "name": "Mr Himanshu Shukla",
+        "title": "President"
+      },
+      {
+        "name": "Mr Himanshu Shukla",
+        "title": "Agent"
+      }
+    ]
+  },
+  {
+    "name": "SEVEN BRIDGES",
+    "state": "PA",
+    "year_incorporated": null,
+    "nace": "5829",
+    "employees": "15",
+    "revenue_usd": 2470000,
+    "pl_before_tax": null,
+    "total_assets": null,
+    "equity": null,
+    "website": "www.sevenbridges.com",
+    "description": null,
+    "contacts": []
+  },
+  {
+    "name": "AM/PM SYSTEMS",
+    "state": "CA",
+    "year_incorporated": "1987",
+    "nace": "5829",
+    "employees": "80",
+    "revenue_usd": 2461000,
+    "pl_before_tax": null,
+    "total_assets": null,
+    "equity": null,
+    "website": "www.ampmservice.com",
+    "description": null,
+    "contacts": [
+      {
+        "name": "Mr John Chan",
+        "title": "Chief Executive Officer"
+      }
+    ]
+  },
+  {
+    "name": "EXPERT SYSTEM ENTERPRISE CORP.",
+    "state": "MD",
+    "year_incorporated": "2007",
+    "nace": "5829",
+    "employees": "25",
+    "revenue_usd": 2460000,
+    "pl_before_tax": null,
+    "total_assets": null,
+    "equity": null,
+    "website": "www.expert.ai",
+    "description": "The premier artificial intelligence platform for language understanding",
+    "contacts": [
+      {
+        "name": "Mr Walter Lloyd Mayo III",
+        "title": "Chief Executive Officer"
+      },
+      {
+        "name": "Mr Walter Lloyd Mayo III",
+        "title": "Officer"
+      },
+      {
+        "name": "Mr Walter Lloyd Mayo III",
+        "title": "Officer; Director"
+      },
+      {
+        "name": "Mr Walter Lloyd Mayo III",
+        "title": "Dirp"
+      },
+      {
+        "name": "Mr Dario Pardi",
+        "title": "Chief Executive Officer"
+      },
+      {
+        "name": "Ms Petra Wetzel",
+        "title": "Office Manager"
+      },
+      {
+        "name": "Mr Christophe Aubry",
+        "title": "Secretary & Treasurer"
+      },
+      {
+        "name": "Mr Christophe Aubry",
+        "title": "Head of Business"
+      },
+      {
+        "name": "Mr Daniel Mayer",
+        "title": "Secretary"
+      },
+      {
+        "name": "Ms Neeyata Hairston",
+        "title": "Business Development Executive"
+      },
+      {
+        "name": "Mr Gilles Pouzenc",
+        "title": "Treasurer"
+      },
+      {
+        "name": "Ms Alicia Harapko",
+        "title": "Head of Us Marketing"
+      },
+      {
+        "name": "Ms Ramona Pauna",
+        "title": "PhD, Director, Customer Success"
+      },
+      {
+        "name": "Mr Louis Bono",
+        "title": "Software Engineering Consultant"
+      },
+      {
+        "name": "Mr Michael Watt",
+        "title": "Vice President, Insurance - North America"
+      },
+      {
+        "name": "Ms Archna Bhandari",
+        "title": "Executive Vice President, Data and Analytics"
+      },
+      {
+        "name": "Mr Michael Bresnahan",
+        "title": "Officer"
+      },
+      {
+        "name": "Mr Paolo Gallo",
+        "title": "Chief Architect"
+      },
+      {
+        "name": "Mr Christopher M Hughes",
+        "title": "Officer"
+      },
+      {
+        "name": "Courtney Smith",
+        "title": "Officer"
+      },
+      {
+        "name": "Ms Stacey Fearheiley",
+        "title": "Senior Office Administrator"
+      },
+      {
+        "name": "Ms Elidia Aschero",
+        "title": "Assistant Secre"
+      },
+      {
+        "name": "Ms Elidia Aschero",
+        "title": "Knowledge Engineer, Linguist"
+      },
+      {
+        "name": "Mr Heriberto Martinez",
+        "title": "CloudOps Engineer"
+      }
+    ]
+  },
+  {
+    "name": "AVOCHATO INC.",
+    "state": "CA",
+    "year_incorporated": "2015",
+    "nace": "5829",
+    "employees": "18",
+    "revenue_usd": 2460000,
+    "pl_before_tax": null,
+    "total_assets": null,
+    "equity": null,
+    "website": "www.avochato.com",
+    "description": null,
+    "contacts": [
+      {
+        "name": "Mr Brandon Castillo",
+        "title": "Account Executive"
+      },
+      {
+        "name": "Mr Joseph Sanders",
+        "title": "Manager, Customer Success"
+      },
+      {
+        "name": "Mr Christopher Neale",
+        "title": "Chief Technology Officer"
+      },
+      {
+        "name": "Mr Alejandro De Simone",
+        "title": "Chief Executive OFFICER*"
+      }
+    ]
+  },
+  {
+    "name": "SMG",
+    "state": "PA",
+    "year_incorporated": null,
+    "nace": "5829",
+    "employees": "12",
+    "revenue_usd": 2460000,
+    "pl_before_tax": null,
+    "total_assets": null,
+    "equity": null,
+    "website": "smg.com",
+    "description": null,
+    "contacts": []
+  }
+]

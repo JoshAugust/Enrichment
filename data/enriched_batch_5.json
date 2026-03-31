@@ -1,0 +1,729 @@
+[
+  {
+    "company_name": "Centerstone Health Services",
+    "state": "IN",
+    "industry": "Healthcare / Federally Qualified Health Center",
+    "founded": "2019",
+    "employees": null,
+    "revenue_usd_000s": null,
+    "website": "https://centerstonehealthservices.org",
+    "website_verified": true,
+    "website_note": "Site active and confirmed as Centerstone Health Services, an Indiana FQHC Look-Alike nonprofit. Note: separate from Centerstone (centerstone.org), the larger national behavioral health org.",
+    "description": "Centerstone Health Services is a nonprofit Federally Qualified Health Center (FQHC) Look-Alike in Indiana providing accessible primary care, behavioral health, addiction recovery, and pediatric services to underserved communities, with clinics in Connersville, Bloomington, Columbus, and Richmond, IN.",
+    "description_source": "https://centerstonehealthservices.org/about-us/",
+    "contacts": [
+      {
+        "name": "Casey Brewster",
+        "title": "Vice President / Board Member",
+        "source_url": "https://centerstonehealthservices.org/about-us/",
+        "linkedin_url": null,
+        "is_original": true
+      }
+    ],
+    "recent_news": "Centerstone Health Services expanded to Columbus and Richmond, IN, using state and federal opioid settlement funding. In January 2026, SAMHSA restored $14.3M in federal grants to Centerstone programs across multiple states including Indiana. CCBHC Improvement and Advancement Grant active through 2026.",
+    "news_source_url": "https://www.nashvillepost.com/business/health-care-notes-centerstone-responds-to-restoration-of-14m-in-federal-grants/article_fe8dab97-28fb-4e9c-b793-af51b3c9554e.html",
+    "verification_status": "Discrepancy",
+    "verification_notes": "Original record had no company name or state — both inferred from website URL. Casey Brewster's title is listed as 'Vice President'; ZoomInfo indicates Board Member role. Also holds position at Scott County Community Foundation. This company (centerstonehealthservices.org) is distinct from Centerstone (centerstone.org).",
+    "data_quality_score": 3,
+    "enrichment_notes": "Original record missing company name and state. Founded 2019 per first clinic in Connersville. FQHC Look-Alike designation confirmed. Limited public exec data for this smaller nonprofit affiliate."
+  },
+  {
+    "company_name": "Croswell of Williamsburg LLC (Croswell Bus Line Inc)",
+    "state": "OH",
+    "industry": "Charter Bus / Passenger Land Transport (NACE 4939)",
+    "founded": "1921",
+    "employees": 35,
+    "revenue_usd_000s": 26400,
+    "website": "https://gocroswell.com",
+    "website_verified": true,
+    "website_note": "gocroswell.com confirmed active as primary site for Croswell VIP Motorcoach / Croswell Bus Line (Williamsburg, OH). Original record also lists croswell-bus.com which may be a secondary/legacy domain.",
+    "description": "Croswell Bus Lines is a century-old, fourth-generation family-owned charter bus company based in Williamsburg, Ohio (Greater Cincinnati area), providing motorcoach charter services for schools, corporations, weddings, sporting events, and group travel, as well as organized retail tours throughout the US and Canada.",
+    "description_source": "https://gocroswell.com/travel-blog/croswell-bus-line-since-1921",
+    "contacts": [
+      {
+        "name": "John Croswell",
+        "title": "Member / President / Owner",
+        "source_url": "https://gocroswell.com/travel-blog/croswell-bus-line-since-1921",
+        "linkedin_url": null,
+        "is_original": true
+      },
+      {
+        "name": "Anne Werring",
+        "title": "Staff (role not specified in public data)",
+        "source_url": "https://gocroswell.com/contact",
+        "linkedin_url": null,
+        "is_original": false
+      }
+    ],
+    "recent_news": "Croswell released its 2025 tour schedule covering destinations across Florida, Arizona, Missouri, South Carolina, Georgia, New York, South Dakota, Michigan, Tennessee, and more. Company continues to celebrate 100+ years as a family-owned business in the Cincinnati motorcoach market.",
+    "news_source_url": "https://gocroswell.com/",
+    "verification_status": "Verified",
+    "verification_notes": "John Croswell confirmed as President/Owner/Member of fourth-generation family business. LLC formation date ~2007 likely explains original 'founded' field; company history dates to 1921. Operating brand is 'Croswell Bus Line' / 'Croswell VIP Motorcoach'.",
+    "data_quality_score": 4,
+    "enrichment_notes": "Company founded 1921 — original record likely shows LLC registration date (2007). Two separate entries in source batch for Croswell (this entry and entry 3). Anne Werring is listed as a contact in the source but has no publicly confirmed title."
+  },
+  {
+    "company_name": "Croswell of Williamsburg LLC (Croswell Bus Line Inc) — Secondary Contact Entry",
+    "state": "OH",
+    "industry": "Charter Bus / Passenger Land Transport",
+    "founded": "1921",
+    "employees": 35,
+    "revenue_usd_000s": null,
+    "website": "https://gocroswell.com",
+    "website_verified": true,
+    "website_note": "gocroswell.com is the primary website; this is a duplicate batch entry for the same company as entry 2.",
+    "description": "Croswell Bus Lines is a century-old, fourth-generation family-owned charter bus company based in Williamsburg, Ohio, providing motorcoach charter and group tour services throughout the US and Canada.",
+    "description_source": "https://gocroswell.com/travel-blog/croswell-bus-line-since-1921",
+    "contacts": [
+      {
+        "name": "Anne Werring",
+        "title": "Staff (no specific function listed in original record)",
+        "source_url": "https://gocroswell.com/contact",
+        "linkedin_url": null,
+        "is_original": true
+      },
+      {
+        "name": "John Croswell",
+        "title": "President / Owner",
+        "source_url": "https://gocroswell.com/travel-blog/croswell-bus-line-since-1921",
+        "linkedin_url": null,
+        "is_original": false
+      }
+    ],
+    "recent_news": "See entry 2 (same company). 2025 tour schedule released; family business 100+ years in operation.",
+    "news_source_url": "https://gocroswell.com/",
+    "verification_status": "Unverified",
+    "verification_notes": "Original record has no company name or state; identified as Croswell Bus Line from website domain. Anne Werring's specific role not confirmed in public sources. This entry is a near-duplicate of entry 2.",
+    "data_quality_score": 2,
+    "enrichment_notes": "Duplicate/secondary batch entry for Croswell of Williamsburg LLC. No company name in original record; derived from gocroswell.com URL. Anne Werring's role unknown — could be administrative staff or co-owner family member."
+  },
+  {
+    "company_name": "Dynojet Research Inc",
+    "state": "MT",
+    "industry": "Powersports Performance Products / Manufacturing",
+    "founded": "1972",
+    "employees": 92,
+    "revenue_usd_000s": 26400,
+    "website": "https://www.dynojet.com",
+    "website_verified": true,
+    "website_note": "dynojet.com is the confirmed official website. Company is formally headquartered in Las Vegas, NV; manufacturing facility is in Belgrade, MT. The batch entry state of MT likely reflects the Belgrade manufacturing site.",
+    "description": "Dynojet Research is a world leader in development and manufacturing of performance enhancement products for powersports vehicles, including chassis dynamometers, Power Commander fuel management systems, Power Vision ECU tuners, clutch kits, and ignition products for motorcycles, ATVs, UTVs, and snowmobiles.",
+    "description_source": "https://www.dynojet.com/about-us/",
+    "contacts": [
+      {
+        "name": "Shawn Arnold",
+        "title": "Executive (specific role unverified)",
+        "source_url": "https://www.dynojet.com/about-us/",
+        "linkedin_url": null,
+        "is_original": true
+      },
+      {
+        "name": "Dave Martinez",
+        "title": "Chief Executive Officer",
+        "source_url": "https://www.cbinsights.com/company/dynojet-research/people",
+        "linkedin_url": null,
+        "is_original": false
+      },
+      {
+        "name": "Brad Brown",
+        "title": "Chief Financial Officer",
+        "source_url": "https://www.zippia.com/dynojet-research-careers-1147121/executives/",
+        "linkedin_url": null,
+        "is_original": false
+      }
+    ],
+    "recent_news": "In January 2022, CARB settled with Dynojet Research and Dynatek Ignitions for $2.1M over emissions violations for non-exempted aftermarket parts sold in California. Previously acquired by Irving Place Capital and New Value Capital in November 2015; Radial Equity Partners also listed as owner. No major news specific to 2024-2025.",
+    "news_source_url": "https://ww2.arb.ca.gov/news/carb-settles-dynojet-research-inc-and-dynatek-ignitions-inc-2-1-million-aftermarket-parts",
+    "verification_status": "Discrepancy",
+    "verification_notes": "Multiple data discrepancies: (1) State listed as MT but HQ is Las Vegas, NV; MT is the manufacturing location. (2) Founded listed as 2007 in original — incorrect; all sources confirm 1972. (3) Employees listed as 7 — incorrect; LinkedIn and other sources indicate ~92 employees. (4) Industry listed as 'Holding Companies' — inaccurate; company manufactures powersports products. (5) Shawn Arnold listed as 'Executive' but not found in current public leadership data.",
+    "data_quality_score": 4,
+    "enrichment_notes": "Original record appears to reflect a holding company entity rather than the operating company. Dynojet Research is a well-established manufacturer. Company website active and product range well-documented. Founded 1972 verified from company's own About Us page."
+  },
+  {
+    "company_name": "Gallo-Schwegmann Partnership",
+    "state": "LA",
+    "industry": "Building Finishing",
+    "founded": "1983",
+    "employees": 26,
+    "revenue_usd_000s": 26400,
+    "website": "https://www.gallo.com",
+    "website_verified": false,
+    "website_note": "CRITICAL DISCREPANCY: gallo.com is the website for E&J Gallo Winery, a major California wine company — this is NOT the Gallo-Schwegmann Partnership. The listed website is incorrect for this Louisiana building finishing company.",
+    "description": "Gallo-Schwegmann Partnership is a small Louisiana-based building finishing partnership with very limited public data. The Gallo name in Louisiana construction is associated with the Gallo family (Gallo Mechanical LLC), and the Schwegmann name with the New Orleans grocery family. The specific operations of this partnership as an entity could not be independently confirmed.",
+    "description_source": "https://www.gallomechanical.com/about/history/",
+    "contacts": [
+      {
+        "name": "August R. Gallo Jr.",
+        "title": "Chief Executive Officer",
+        "source_url": "https://www.linkedin.com/in/august-gallo-3b697630/",
+        "linkedin_url": "https://www.linkedin.com/in/august-gallo-3b697630/",
+        "is_original": true
+      }
+    ],
+    "recent_news": "No recent news found for this specific entity. The broader Gallo Mechanical LLC was acquired by a Dallas private equity firm (reported ca. 2020-2023). Schwegmann grocery chain closed in 1997.",
+    "news_source_url": null,
+    "verification_status": "Discrepancy",
+    "verification_notes": "Website (gallo.com) is E&J Gallo Winery — clearly incorrect for a small Louisiana building partnership. August Gallo Jr. is confirmed on LinkedIn as Chairman of the Board at Gallo Mechanical LLC (a separate/related entity). The 'Gallo-Schwegmann Partnership' as a distinct entity was not found in public business databases under that exact name.",
+    "data_quality_score": 1,
+    "enrichment_notes": "Very limited public data. Website discrepancy is a critical data quality issue. Small, privately-held partnership with minimal online presence. Recommend manual verification of correct website URL and company details. The listed website (gallo.com) belongs to an entirely different and unrelated company."
+  },
+  {
+    "company_name": "The Systems Depot Inc",
+    "state": "NC",
+    "industry": "Security Products Distribution / Low Voltage Electronics Wholesale",
+    "founded": "1996",
+    "employees": null,
+    "revenue_usd_000s": null,
+    "website": "https://sdepot.com",
+    "website_verified": true,
+    "website_note": "sdepot.com confirmed active as The Systems Depot B2B wholesale store. Original industry classification ('Plumbing/HVAC') is incorrect — company distributes security and low-voltage products.",
+    "description": "The Systems Depot is a national B2B wholesale distributor of security and low-voltage products including burglar alarms, fire systems, CCTV, access control, and related equipment, serving security dealers and integrators across the US from headquarters in Hickory, NC, with distribution locations in Georgia, Florida, and California.",
+    "description_source": "https://sdepot.com/about-us/",
+    "contacts": [
+      {
+        "name": "Brent Weldy",
+        "title": "Former CFO (Jan 1998 – Mar 2008; no longer in role)",
+        "source_url": "https://radaris.com/p/Brent/Weldy/",
+        "linkedin_url": null,
+        "is_original": true
+      },
+      {
+        "name": "Wade Moose",
+        "title": "Founder / Owner / CEO",
+        "source_url": "https://wademooseweb.wordpress.com/",
+        "linkedin_url": "https://www.linkedin.com/in/wade-moose-27184810/",
+        "is_original": false
+      },
+      {
+        "name": "Kevin Gaylord",
+        "title": "President (appointed ca. 2021-2022)",
+        "source_url": "https://www.securitysystemsnews.com/article/the-systems-depot-names-kevin-gaylord-as-new-president",
+        "linkedin_url": "https://www.linkedin.com/in/kevingaylord/",
+        "is_original": false
+      },
+      {
+        "name": "Jeff Smyre",
+        "title": "Chief Financial Officer (current per Datanyze)",
+        "source_url": "https://www.datanyze.com/people/Jeff-Smyre/107760685",
+        "linkedin_url": null,
+        "is_original": false
+      }
+    ],
+    "recent_news": "The Systems Depot held a Customer Appreciation Day in May 2024 and exhibited at ISC West 2024. Company was founded in Winter Park, FL in 1996; HQ moved to Hickory, NC in 2000 and has since expanded to GA, FL, and CA. No major acquisition or restructuring news in 2024-2025.",
+    "news_source_url": "https://www.linkedin.com/company/the-systems-depot",
+    "verification_status": "Discrepancy",
+    "verification_notes": "Original industry classification 'Plumbing/HVAC' is incorrect — company is a security/low-voltage products wholesale distributor. Brent Weldy listed as CFO is outdated (held role 1998-2008); current CFO is Jeff Smyre. Original record contact data is stale by ~16+ years.",
+    "data_quality_score": 4,
+    "enrichment_notes": "Original NACE/industry classification is wrong. Contact (Brent Weldy as CFO) is historical, not current. Company is well-established in the security distribution industry. Founded Winter Park FL 1996; moved HQ to Hickory NC 2000."
+  },
+  {
+    "company_name": "The Systems Depot Inc — Secondary Entry (No Contact)",
+    "state": "NC",
+    "industry": "Security Products Distribution / Low Voltage Electronics Wholesale",
+    "founded": "1996",
+    "employees": null,
+    "revenue_usd_000s": null,
+    "website": "https://sdepot.com",
+    "website_verified": true,
+    "website_note": "sdepot.com confirmed as The Systems Depot B2B store. This is a duplicate batch entry for the same company as entry 6.",
+    "description": "The Systems Depot is a national B2B wholesale distributor of security and low-voltage products including burglar alarms, fire systems, CCTV, and access control, headquartered in Hickory, NC.",
+    "description_source": "https://sdepot.com/about-us/",
+    "contacts": [
+      {
+        "name": "Wade Moose",
+        "title": "Founder / Owner / CEO",
+        "source_url": "https://wademooseweb.wordpress.com/",
+        "linkedin_url": "https://www.linkedin.com/in/wade-moose-27184810/",
+        "is_original": false
+      },
+      {
+        "name": "Kevin Gaylord",
+        "title": "President",
+        "source_url": "https://www.securitysystemsnews.com/article/the-systems-depot-names-kevin-gaylord-as-new-president",
+        "linkedin_url": "https://www.linkedin.com/in/kevingaylord/",
+        "is_original": false
+      }
+    ],
+    "recent_news": "See entry 6 (same company). Customer Appreciation Day 2024; ISC West 2024 participation.",
+    "news_source_url": "https://sdepot.com/about-us/",
+    "verification_status": "Unverified",
+    "verification_notes": "Original record has no company name or contact person; identified as The Systems Depot from the website domain (sdepot.com). This is a near-duplicate of entry 6.",
+    "data_quality_score": 2,
+    "enrichment_notes": "Duplicate/secondary batch entry for The Systems Depot Inc. No company name or contact in original record; derived from sdepot.com domain."
+  },
+  {
+    "company_name": "SOWELA Technical Community College Foundation",
+    "state": "LA",
+    "industry": "Nonprofit Educational Foundation / Workforce Development Support",
+    "founded": "circa 1991",
+    "employees": null,
+    "revenue_usd_000s": null,
+    "website": "https://www.sowela.edu/give/foundation/",
+    "website_verified": true,
+    "website_note": "sowela.edu/give/foundation/ is the confirmed active page for the SOWELA Foundation. The original batch website sowela.edu is the parent institution's homepage, which is correct.",
+    "description": "The SOWELA Technical Community College Foundation is a 501(c)(3) nonprofit dedicated to supporting student access and success at SOWELA Technical Community College in Lake Charles, Louisiana, by providing scholarships, funding innovative programs, enhancing technology and equipment, and meeting regional workforce needs in southwest Louisiana.",
+    "description_source": "https://www.sowela.edu/give/foundation/",
+    "contacts": [
+      {
+        "name": "Tim Broussard",
+        "title": "Former Foundation President (previous term; outdated contact)",
+        "source_url": "https://www.sowela.edu/give/foundation-board-of-directors/",
+        "linkedin_url": null,
+        "is_original": true
+      },
+      {
+        "name": "Todd Clemmons",
+        "title": "Foundation President (2024)",
+        "source_url": "https://www.sowela.edu/sowela-foundation-announces-2026-executive-officers/",
+        "linkedin_url": null,
+        "is_original": false
+      },
+      {
+        "name": "Ron Richard",
+        "title": "Foundation President (2026) – Richard Law Firm",
+        "source_url": "https://www.sowela.edu/sowela-foundation-announces-2026-executive-officers/",
+        "linkedin_url": null,
+        "is_original": false
+      },
+      {
+        "name": "Dr. Daniel Hall",
+        "title": "Foundation Vice President (2026) – Louisiana Foot and Ankle Specialists",
+        "source_url": "https://www.sowela.edu/sowela-foundation-announces-2026-executive-officers/",
+        "linkedin_url": null,
+        "is_original": false
+      },
+      {
+        "name": "Michelle Guidry",
+        "title": "Foundation Secretary (2026) – Louisiana Bridge Builders",
+        "source_url": "https://www.sowela.edu/sowela-foundation-announces-2026-executive-officers/",
+        "linkedin_url": null,
+        "is_original": false
+      }
+    ],
+    "recent_news": "In 2024, the SOWELA Foundation raised $2.5M for student scholarships and program enhancements. Phillips 66 donated $1M in March 2024 to expand the region's only Process Technology Center. Cheniere Energy donated $50,000 for Machine Tool Technology; Northrop Grumman donated $35,000 for five aviation/industrial scholarships. Gene Haas Foundation donated $12,500 for CNC training scholarships.",
+    "news_source_url": "https://www.sowela.edu/sowela-foundation-honors-2024-outstanding-donors-and-community-partners-at-special-reception/",
+    "verification_status": "Discrepancy",
+    "verification_notes": "Tim Broussard listed as President in original record but is no longer serving in that role — 2024 President was Todd Clemmons; 2026 President is Ron Richard. Original contact data appears outdated. Institution (sowela.edu) is correct. Note: original 'founded' field in batch appears to be an Excel date serial number (33368 ≈ November 1991).",
+    "data_quality_score": 4,
+    "enrichment_notes": "Original 'founded' field appears to be an unformatted Excel date serial. Foundation is a well-documented 501(c)(3) with ProPublica filings (EIN 58-1973743). Leadership rotates annually. Multiple major industry donors confirmed for 2024."
+  },
+  {
+    "company_name": "Larry Methvin Installations Inc (LMI)",
+    "state": "CA",
+    "industry": "Building Finishing / Bath and Closet Products Fabrication & Installation",
+    "founded": "1974",
+    "employees": null,
+    "revenue_usd_000s": null,
+    "website": "https://larrymethvin.com",
+    "website_verified": true,
+    "website_note": "larrymethvin.com confirmed active as the Larry Methvin Installations brand website. Company is now a wholly-owned subsidiary of Patrick Industries Inc (PATK) since 2017.",
+    "description": "Larry Methvin Installations Inc. is a leading designer, fabricator, and installer of specialty bath and closet building products including glass and mirror solutions, bath/shower enclosures, wardrobe doors, vanity mirrors, closet organizers, and bathroom accessories, serving the residential new construction market in California and Nevada since 1974.",
+    "description_source": "https://larrymethvin.com/about-us/",
+    "contacts": [
+      {
+        "name": "Andrew L. (Andy) Nemeth",
+        "title": "Listed as CEO in original record; ACTUALLY Chairman & CEO of Patrick Industries Inc (parent company), not LMI specifically",
+        "source_url": "https://ir.patrickind.com/company-information/executive-team",
+        "linkedin_url": "https://www.linkedin.com/in/andy-nemeth-7a609423/",
+        "is_original": true
+      },
+      {
+        "name": "Larry Methvin",
+        "title": "Founder / former President (at time of 2017 acquisition)",
+        "source_url": "https://ir.patrickind.com/investor-news-events/press-releases/detail/53/patrick-industries-inc-completes-acquisition-of-lmi-inc",
+        "linkedin_url": null,
+        "is_original": false
+      }
+    ],
+    "recent_news": "Patrick Industries (parent) reported Q1 2025 net sales increase of 7% ($70M) to $1.0B. LMI was acquired by Patrick Industries in November 2017 for $81M and continues to operate as a standalone brand. No specific LMI news in 2024-2025; financial results reported under Patrick Industries (NASDAQ: PATK).",
+    "news_source_url": "https://ir.patrickind.com/investor-news-events/press-releases/detail/53/patrick-industries-inc-completes-acquisition-of-lmi-inc",
+    "verification_status": "Discrepancy",
+    "verification_notes": "Critical discrepancy: Andrew L. Nemeth is listed as CEO of Larry Methvin Installations in original record, but he is Chairman & CEO of Patrick Industries Inc (the parent company that acquired LMI in 2017). He was President of Patrick Industries at the time of the LMI acquisition and is on LMI's California contractor license. He does not run LMI operations directly.",
+    "data_quality_score": 4,
+    "enrichment_notes": "LMI is a subsidiary of Patrick Industries Inc (NASDAQ: PATK) since 2017. Company founded 1974 by Larry and Eileen Methvin. Operates six fabrication/manufacturing/distribution facilities in the US plus one in China. Active website and brand maintained post-acquisition."
+  },
+  {
+    "company_name": "Dennett Construction Inc",
+    "state": "UT",
+    "industry": "Commercial & Industrial General Contracting / Excavation / Real Estate Development",
+    "founded": "circa 2005",
+    "employees": null,
+    "revenue_usd_000s": null,
+    "website": "https://dennettconstruction.com",
+    "website_verified": true,
+    "website_note": "dennettconstruction.com confirmed active as Dennett Construction Inc's official website (Washington, UT).",
+    "description": "Dennett Construction Inc is a Washington, Utah-based commercial and industrial general contractor specializing in interior finish-outs, medical facility and residential remodeling, excavation, and government construction projects, with active projects across Utah and Texas.",
+    "description_source": "https://www.buildzoom.com/contractor/dennett-construction-inc-ut",
+    "contacts": [
+      {
+        "name": "Douglas T. Dennett",
+        "title": "President / Qualified Individual",
+        "source_url": "https://www.buildzoom.com/contractor/dennett-construction-inc-ut",
+        "linkedin_url": null,
+        "is_original": true
+      },
+      {
+        "name": "Brett Arnold Dennett",
+        "title": "Vice President",
+        "source_url": "https://www.buildzoom.com/contractor/dennett-construction-inc-ut",
+        "linkedin_url": null,
+        "is_original": false
+      },
+      {
+        "name": "Robert C. Dennett",
+        "title": "Secretary",
+        "source_url": "https://www.dnb.com/business-directory/company-profiles.dennett_construction_inc.27d07c1a0113c380c42225ca871f5f23.html",
+        "linkedin_url": null,
+        "is_original": false
+      }
+    ],
+    "recent_news": "Dennett Construction filed 6 permits in 2024 and 6 in 2025; 9 permits in the last 18 months valued at ~$2.5M. Recent commercial projects in Hurricane, UT (April 2025), Washington, UT (January–December 2024), and Fort Worth, TX (July 2024). Contractor license expired November 2023 per last verification (may have been renewed).",
+    "news_source_url": "https://www.buildzoom.com/contractor/dennett-construction-inc-ut",
+    "verification_status": "Verified",
+    "verification_notes": "Douglas T. Dennett confirmed as President and Qualified Individual. Brett Arnold Dennett confirmed as VP. All three key contacts (Douglas, Brett, Robert) verified in public contractor/corporate records. Company actively pulling commercial building permits in 2024-2025. Note: license status expired Nov 2023 per BuildZoom — confirm if renewed.",
+    "data_quality_score": 4,
+    "enrichment_notes": "Founded circa 2005 based on '19 years in business' from BuildZoom (checked ~2024). Multiple related entities: Dennett Construction Inc and Scott Dennett Construction LLC both appear in permit records. Active both in Utah and Texas markets. Family-run business with three Dennett family members in leadership roles."
+  },
+  {
+    "company_name": "Dennett Construction Inc — Secondary Contact Entry (Brett Dennett)",
+    "state": "UT",
+    "industry": "Commercial & Industrial General Contracting",
+    "founded": "circa 2005",
+    "employees": null,
+    "revenue_usd_000s": null,
+    "website": "https://dennett.net",
+    "website_verified": false,
+    "website_note": "dennett.net may not be the official company website (dennettconstruction.com is the confirmed site). dennett.net status unverified; original record lists this URL for the secondary contact.",
+    "description": "Same company as entry 10 — Dennett Construction Inc, Washington, UT commercial general contractor. This is a secondary contact entry for Brett C. Dennett.",
+    "description_source": "https://dennettconstruction.com/",
+    "contacts": [
+      {
+        "name": "Brett C. Dennett",
+        "title": "Vice President",
+        "source_url": "https://www.buildzoom.com/contractor/dennett-construction-inc-ut",
+        "linkedin_url": null,
+        "is_original": true
+      },
+      {
+        "name": "Douglas T. Dennett",
+        "title": "President",
+        "source_url": "https://www.buildzoom.com/contractor/dennett-construction-inc-ut",
+        "linkedin_url": null,
+        "is_original": false
+      }
+    ],
+    "recent_news": "See entry 10 — same company. Active commercial projects in UT and TX in 2024-2025.",
+    "news_source_url": "https://www.buildzoom.com/contractor/dennett-construction-inc-ut",
+    "verification_status": "Verified",
+    "verification_notes": "Brett C. Dennett confirmed as Vice President of Dennett Construction Inc. Original record has no company name but lists dennett.net — the confirmed primary site is dennettconstruction.com. This is a secondary batch entry for the same company as entry 10.",
+    "data_quality_score": 3,
+    "enrichment_notes": "Duplicate/secondary batch entry. Website dennett.net listed in original record — different from confirmed dennettconstruction.com. Recommend clarifying which is the correct/active domain."
+  },
+  {
+    "company_name": "Dennett Construction Inc — Secondary Contact Entry (Robert Dennett)",
+    "state": "UT",
+    "industry": "Commercial & Industrial General Contracting",
+    "founded": "circa 2005",
+    "employees": null,
+    "revenue_usd_000s": null,
+    "website": "https://dennettconstruction.com",
+    "website_verified": true,
+    "website_note": "dennettconstruction.com confirmed as the official website. This is a third batch entry for the same company as entries 10 and 11.",
+    "description": "Same company as entry 10 — Dennett Construction Inc, Washington, UT commercial general contractor. This is a secondary contact entry for Robert C. Dennett.",
+    "description_source": "https://dennettconstruction.com/",
+    "contacts": [
+      {
+        "name": "Robert C. Dennett",
+        "title": "Secretary",
+        "source_url": "https://www.dnb.com/business-directory/company-profiles.dennett_construction_inc.27d07c1a0113c380c42225ca871f5f23.html",
+        "linkedin_url": null,
+        "is_original": true
+      },
+      {
+        "name": "Douglas T. Dennett",
+        "title": "President",
+        "source_url": "https://www.buildzoom.com/contractor/dennett-construction-inc-ut",
+        "linkedin_url": null,
+        "is_original": false
+      },
+      {
+        "name": "Brett C. Dennett",
+        "title": "Vice President",
+        "source_url": "https://www.buildzoom.com/contractor/dennett-construction-inc-ut",
+        "linkedin_url": null,
+        "is_original": false
+      }
+    ],
+    "recent_news": "See entry 10 — same company. Active commercial projects in UT and TX in 2024-2025.",
+    "news_source_url": "https://www.buildzoom.com/contractor/dennett-construction-inc-ut",
+    "verification_status": "Verified",
+    "verification_notes": "Robert C. Dennett confirmed as Secretary of Dennett Construction Inc per D&B. This is the third batch entry for the same company. Family-owned business with Douglas (President), Brett (VP), and Robert (Secretary) all in leadership.",
+    "data_quality_score": 3,
+    "enrichment_notes": "Third duplicate/secondary batch entry for Dennett Construction Inc. All three Dennett family members (Douglas, Brett, Robert) confirmed in corporate roles."
+  },
+  {
+    "company_name": "InfoAxis Inc (Infoaxis)",
+    "state": "NJ",
+    "industry": "Managed IT Services / Cloud Transformation / Cybersecurity",
+    "founded": "1999",
+    "employees": null,
+    "revenue_usd_000s": null,
+    "website": "https://infoaxis.com",
+    "website_verified": true,
+    "website_note": "infoaxis.com remains accessible; company was acquired by Atlantic, Tomorrow's Office in September 2024. Site may redirect to Atlantic's website going forward.",
+    "description": "InfoAxis Inc. was a managed services, cloud transformation, and cybersecurity provider based in Mahwah, NJ, serving large and small healthcare, financial services, legal, manufacturing, and construction firms in Bergen County, NJ for over 25 years — until its acquisition by Atlantic, Tomorrow's Office in September 2024.",
+    "description_source": "https://tomorrowsoffice.com/blog/atlantic-tomorrows-office-acquires-infoaxis-inc/",
+    "contacts": [
+      {
+        "name": "Richard (Mickey) McGraw",
+        "title": "Co-founder & CEO (prior to September 2024 acquisition)",
+        "source_url": "https://tomorrowsoffice.com/blog/atlantic-tomorrows-office-acquires-infoaxis-inc/",
+        "linkedin_url": "https://www.linkedin.com/company/infoaxis",
+        "is_original": true
+      },
+      {
+        "name": "Larry Weiss",
+        "title": "Chairman, Atlantic Tomorrow's Office (acquirer)",
+        "source_url": "https://tomorrowsoffice.com/leadership/",
+        "linkedin_url": null,
+        "is_original": false
+      },
+      {
+        "name": "Jason Weiss",
+        "title": "CEO, Atlantic Tomorrow's Office (July 2025 succession)",
+        "source_url": "http://www.prnewswire.com/news-releases/jason-weiss-named-ceo-amid-atlantic-leadership-transition-302499973.html",
+        "linkedin_url": "https://www.linkedin.com/in/jason-weiss-atlantic/",
+        "is_original": false
+      }
+    ],
+    "recent_news": "On September 12, 2024, Atlantic, Tomorrow's Office acquired InfoAxis Inc. — the 15th acquisition for Atlantic. Mickey McGraw's team was noted for organic growth and client-centered service philosophy. In July 2025, Atlantic announced executive succession with Jason Weiss as CEO and Adam Weiss as President, with Larry Weiss moving to Chairman.",
+    "news_source_url": "https://tomorrowsoffice.com/blog/atlantic-tomorrows-office-acquires-infoaxis-inc/",
+    "verification_status": "Verified",
+    "verification_notes": "Mickey McGraw confirmed as Co-founder and CEO of InfoAxis. Company founded in 1999; operated for 25 years before acquisition. Contact and title verified through acquisition press release and multiple sources.",
+    "data_quality_score": 5,
+    "enrichment_notes": "Major news: Company was acquired in September 2024 — significant event for any lead data. InfoAxis is now part of Atlantic, Tomorrow's Office. Original contact (McGraw) likely transitioned post-acquisition. Lead data should be updated to reflect acquired status."
+  },
+  {
+    "company_name": "Steven W. Smith DDS PLLC (Smith Family and Cosmetic Dentistry)",
+    "state": "NC",
+    "industry": "Dental Practice",
+    "founded": "circa 2013",
+    "employees": null,
+    "revenue_usd_000s": null,
+    "website": "https://yourcarolinadentist.com",
+    "website_verified": true,
+    "website_note": "yourcarolinadentist.com confirmed active as Smith Family and Cosmetic Dentistry, Dr. Steven W. Smith DDS PLLC. Operating brand is 'Smith Family and Cosmetic Dentistry'.",
+    "description": "Steven W. Smith DDS PLLC, operating as Smith Family and Cosmetic Dentistry, is a multi-location dental practice in coastal North Carolina offering comprehensive family and cosmetic dentistry including dental implants, orthodontics, cosmetic dentistry, TMD treatment, and sleep apnea services, with locations in Sneads Ferry, Jacksonville, Hampstead, Surf City, Goldsboro, and Wilmington.",
+    "description_source": "https://yourcarolinadentist.com/about/",
+    "contacts": [
+      {
+        "name": "Kenna Smith",
+        "title": "Partner (wife of Dr. Steven W. Smith; listed as partner in practice directories)",
+        "source_url": "https://yourcarolinadentist.com/about/",
+        "linkedin_url": null,
+        "is_original": true
+      },
+      {
+        "name": "Dr. Steven W. Smith",
+        "title": "Owner / DDS",
+        "source_url": "https://yourcarolinadentist.com/about/",
+        "linkedin_url": null,
+        "is_original": false
+      }
+    ],
+    "recent_news": "Practice has expanded to 7 locations across coastal NC including Sneads Ferry, Jacksonville, Hampstead, Surf City, Wilmington (Market Street), Wilmington (Carolina Beach Rd), and Goldsboro. No specific 2024-2025 expansion announcements found; the multi-location network is established and active.",
+    "news_source_url": "https://yourcarolinadentist.com/locations/",
+    "verification_status": "Verified",
+    "verification_notes": "Kenna Smith confirmed as Dr. Smith's wife and practice partner per about page and Yahoo Local directory. Dr. Steven W. Smith confirmed: DDS from University of Michigan 2009, 4 years as Navy dentist, practice opened in Sneads Ferry, NC. Both contacts verified. Note: 'partner' is a business partnership role, not dental partner.",
+    "data_quality_score": 4,
+    "enrichment_notes": "Practice operating brand is 'Smith Family and Cosmetic Dentistry'. DDS education from Univ of Michigan, class of 2009. Navy dentist background. 7 active NC locations. Second entry in batch (entry 15) is a duplicate with no contact listed."
+  },
+  {
+    "company_name": "Steven W. Smith DDS PLLC (Smith Family and Cosmetic Dentistry) — Secondary Entry (No Contact)",
+    "state": "NC",
+    "industry": "Dental Practice",
+    "founded": "circa 2013",
+    "employees": null,
+    "revenue_usd_000s": null,
+    "website": "https://yourcarolinadentist.com",
+    "website_verified": true,
+    "website_note": "yourcarolinadentist.com confirmed as the active website. This is a duplicate batch entry for the same company as entry 14.",
+    "description": "Same company as entry 14 — Steven W. Smith DDS PLLC / Smith Family and Cosmetic Dentistry, multi-location dental practice in coastal North Carolina.",
+    "description_source": "https://yourcarolinadentist.com/about/",
+    "contacts": [
+      {
+        "name": "Dr. Steven W. Smith",
+        "title": "Owner / DDS",
+        "source_url": "https://yourcarolinadentist.com/about/",
+        "linkedin_url": null,
+        "is_original": false
+      },
+      {
+        "name": "Kenna Smith",
+        "title": "Partner",
+        "source_url": "https://yourcarolinadentist.com/about/",
+        "linkedin_url": null,
+        "is_original": false
+      }
+    ],
+    "recent_news": "See entry 14 — same company. 7 locations active in NC as of 2025-2026.",
+    "news_source_url": "https://yourcarolinadentist.com/locations/",
+    "verification_status": "Unverified",
+    "verification_notes": "Original record has no company name or contact; identified from yourcarolinadentist.com domain. Duplicate of entry 14.",
+    "data_quality_score": 2,
+    "enrichment_notes": "Duplicate/secondary batch entry with no original contact. Company identified from website URL. See entry 14 for full enrichment."
+  },
+  {
+    "company_name": "WSI of FL Lake County Hauling (Progressive Waste Solutions of FL / Waste Connections)",
+    "state": "FL",
+    "industry": "Road Freight / Solid Waste Collection & Hauling",
+    "founded": null,
+    "employees": null,
+    "revenue_usd_000s": null,
+    "website": "https://www.progressivewaste.com",
+    "website_verified": false,
+    "website_note": "progressivewaste.com is no longer active as a standalone website. Progressive Waste Solutions merged with Waste Connections Inc in June 2016; operations now fall under Waste Connections (wasteconnections.com). This entity is effectively absorbed.",
+    "description": "WSI of FL Lake County Hauling was a solid waste collection and hauling operation in Lake County, Florida, operating under the WSI (Waste Services Inc) brand. Progressive Waste Solutions acquired WSI's Florida operations in 2010. In June 2016, Progressive Waste Solutions merged with Waste Connections Inc (NYSE: WCN), and WSI/Progressive FL operations are now part of Waste Connections.",
+    "description_source": "https://www.prnewswire.com/news-releases/waste-connections-inc-and-progressive-waste-solutions-ltd-announce-successful-completion-of-combination-300277762.html",
+    "contacts": [],
+    "recent_news": "Waste Connections completed its merger with Progressive Waste Solutions on June 1, 2016, forming one of North America's largest solid waste services companies. Former Progressive Waste Solutions of FL Inc (Lake County / Altamonte Springs, FL) now operates as part of Waste Connections. No contacts were provided in the original record.",
+    "news_source_url": "https://www.prnewswire.com/news-releases/waste-connections-inc-and-progressive-waste-solutions-ltd-announce-successful-completion-of-combination-300277762.html",
+    "verification_status": "Discrepancy",
+    "verification_notes": "Company effectively no longer exists as a standalone entity — absorbed by Waste Connections in 2016. Website (progressivewaste.com) no longer active. No contacts listed in original record. This lead data is outdated and the entity is defunct as originally listed.",
+    "data_quality_score": 2,
+    "enrichment_notes": "WSI/Progressive Waste FL is now Waste Connections. Lead is outdated. Recommend removing from active prospect list or updating to Waste Connections as the parent entity. No original contacts to verify. Original record had no founded year data."
+  },
+  {
+    "company_name": "Boardwalk Louisiana Midstream LLC",
+    "state": "KY",
+    "industry": "Pipeline Transport / NGL and Petrochemical Midstream",
+    "founded": null,
+    "employees": null,
+    "revenue_usd_000s": null,
+    "website": "https://www.bwlamidstream.com",
+    "website_verified": true,
+    "website_note": "bwlamidstream.com is an active Boardwalk Pipelines subsidiary website for Boardwalk Louisiana Midstream, LLC.",
+    "description": "Boardwalk Louisiana Midstream LLC (BLM) is a subsidiary of Boardwalk Pipelines, owning and operating ethylene, ethane, propane, and propylene pipeline and distribution systems throughout southern Louisiana, with over 300 miles of pipeline and 11 active salt-dome caverns across two strategic hubs (Choctaw and Sulphur), serving the Gulf Coast's refining and chemical manufacturing sectors.",
+    "description_source": "https://bwpipelines.com/subsidiaries/boardwalk-louisiana-midstream/home",
+    "contacts": [
+      {
+        "name": "Kevin M.",
+        "title": "President, Boardwalk Louisiana Midstream LLC",
+        "source_url": "https://www.linkedin.com/in/kevin-m-a9343130/",
+        "linkedin_url": "https://www.linkedin.com/in/kevin-m-a9343130/",
+        "is_original": false
+      },
+      {
+        "name": "Brent Rook",
+        "title": "SVP and Chief Commercial Officer, Boardwalk Louisiana Midstream LLC",
+        "source_url": "https://rocketreach.co/boardwalk-louisiana-midstream-llc-management_b4786939fc36c943",
+        "linkedin_url": null,
+        "is_original": false
+      },
+      {
+        "name": "Scott Hallam",
+        "title": "President & CEO, Boardwalk Pipelines (parent company, since June 2024)",
+        "source_url": "https://bwpipelines.com/press/boardwalk-names-scott-hallam-president-and-ceo",
+        "linkedin_url": null,
+        "is_original": false
+      },
+      {
+        "name": "Shawn Smith",
+        "title": "Director, Business Development",
+        "source_url": "https://rocketreach.co/boardwalk-louisiana-midstream-llc-management_b4786939fc36c943",
+        "linkedin_url": null,
+        "is_original": false
+      }
+    ],
+    "recent_news": "In March 2024, Boardwalk Pipeline Partners announced CEO Stan Horton's retirement effective June 24, 2024. Scott Hallam, President and COO, succeeded him as CEO and joined the Board of Directors. Steven Tramonte joined in 2024 to lead commercial operations. Boardwalk has been named a Best Places to Work in Kentucky for 2 consecutive years. Parent company operates ~14,310 miles of pipeline across the US.",
+    "news_source_url": "https://bwpipelines.com/press/boardwalk-names-scott-hallam-president-and-ceo",
+    "verification_status": "Unverified",
+    "verification_notes": "Original record lists no contacts — no verification possible for original contact data. State listed as KY reflects parent company Boardwalk Pipelines' Kentucky office (Owensboro, KY); the subsidiary BLM itself operates in Louisiana and is HQ'd in Houston, TX. Website bwlamidstream.com verified as active.",
+    "data_quality_score": 4,
+    "enrichment_notes": "BLM is a wholly-owned subsidiary of Boardwalk Pipelines (privately held by Loews Corporation). Original record had no contact data. State KY likely reflects Boardwalk Pipelines' Owensboro, KY operations office. BLM's primary operations are in southern Louisiana. Major leadership change in 2024 (CEO succession at parent company)."
+  },
+  {
+    "company_name": "Galax-eSystems Corporation",
+    "state": "PA",
+    "industry": "IT Staffing / Software Development / IT Consulting",
+    "founded": null,
+    "employees": 20,
+    "revenue_usd_000s": 9000,
+    "website": "https://www.galaxesystems.com",
+    "website_verified": true,
+    "website_note": "galaxesystems.com confirmed active as the Galax-eSystems Corporation website (Pittsburgh, PA).",
+    "description": "Galax-eSystems Corporation (GES) is a full-service IT consulting and staffing firm based in Pittsburgh, PA, specializing in IT staffing, enterprise application development, system integration, ERP solutions, business process re-engineering, business intelligence, and infrastructure support for clients in healthcare, education, government, energy, and commercial sectors across the United States.",
+    "description_source": "https://www.bbb.org/us/pa/pittsburgh/profile/computer-software-developers/galax-esystems-corp-0141-71015637",
+    "contacts": [
+      {
+        "name": "Revathi Annamreddy",
+        "title": "President / CEO",
+        "source_url": "https://www.crunchbase.com/person/revathi-annamreddy",
+        "linkedin_url": null,
+        "is_original": true
+      }
+    ],
+    "recent_news": "Annual revenue was $9M in 2025. In FY2025, GalaxEsystems filed 22 Form I-129 H-1B petitions (22 approved, 0 denied), indicating active IT staffing operations. Company continues to focus on IT staffing and consulting across multiple US industries. No major acquisitions or expansions found in 2024-2025.",
+    "news_source_url": "https://www.myvisajobs.com/employer/galaxesystems/",
+    "verification_status": "Verified",
+    "verification_notes": "Revathi Annamreddy confirmed as CEO/President of Galax-eSystems on Crunchbase and ZoomInfo. Company address confirmed as One Oxford Centre, 301 Grant Street, Pittsburgh PA 15219. Title listed as 'President' in original record; confirmed she holds both President and CEO titles.",
+    "data_quality_score": 3,
+    "enrichment_notes": "Small IT staffing firm (~20 employees, ~$9M revenue). Primarily an H-1B employer for IT staffing placements. Has India subsidiary (Galax-Esystems Corp India Private Limited). Limited public executive data beyond the founder/CEO."
+  },
+  {
+    "company_name": "ISCI Holdings Inc (DBA: Beautify Spa by International Skin Care)",
+    "state": "AZ",
+    "industry": "Medical Spa / Dermatology / Pharmaceutical (skincare)",
+    "founded": "2011",
+    "employees": null,
+    "revenue_usd_000s": null,
+    "website": "https://lovebeautify.com",
+    "website_verified": true,
+    "website_note": "CRITICAL DISCREPANCY: Original record lists ckzholdings.com as the website, but that is CKZ Holdings LLC — a completely different company (commercial construction in Scottsdale, AZ). ISCI Holdings Inc DBA Beautify Spa operates at lovebeautify.com. The original website is incorrect.",
+    "description": "ISCI Holdings Inc., operating as Beautify Spa by International Skin Care, is a medical spa and skincare company in Scottsdale, Arizona, offering aesthetic treatments and skincare services. The company claims over 9,000 five-star reviews and markets itself as a top medspa, having grown from a handful of clients since its 2011 founding.",
+    "description_source": "https://lovebeautify.com/",
+    "contacts": [
+      {
+        "name": "John Murphy",
+        "title": "President (per BBB profile)",
+        "source_url": "https://www.bbb.org/us/az/scottsdale/profile/skin-care/beautify-spa-by-international-skin-care-1126-1000028482",
+        "linkedin_url": null,
+        "is_original": false
+      }
+    ],
+    "recent_news": "No notable business news found in 2024-2025. Company received PPP loan during COVID (reported as 'Paid in Full' by SBA). Facility at 8180 N Hayden Rd, Suite D-200, Scottsdale, AZ 85258.",
+    "news_source_url": "https://www.federalpay.org/paycheck-protection-program/isci-holdings-inc-dba-beautify-spa-by-international-skin-c-scottsdale-az",
+    "verification_status": "Discrepancy",
+    "verification_notes": "Critical discrepancy: listed website ckzholdings.com is CKZ Holdings LLC (commercial construction company), NOT ISCI Holdings Inc. No contact was listed in the original record. ISCI Holdings is incorporated in Arizona (File ID 17084956, incorporated September 19, 2011). Listed industry 'Holding Companies' in original — actual operations are medical spa/skincare.",
+    "data_quality_score": 2,
+    "enrichment_notes": "Website is critically wrong in source data. CKZ Holdings LLC (ckzholdings.com) is a completely different Scottsdale-based company. ISCI Holdings Inc. is a medspa, not a holding company. No original contacts to verify. Recommend correcting website URL to lovebeautify.com and verifying contacts through updated sources."
+  },
+  {
+    "company_name": "Concordia University Portland (CLOSED 2020)",
+    "state": "OR",
+    "industry": "Post-Secondary Education (defunct — closed July 2020)",
+    "founded": "1905",
+    "employees": null,
+    "revenue_usd_000s": null,
+    "website": "https://cu-portland.edu",
+    "website_verified": false,
+    "website_note": "cu-portland.edu remains live as a closure information page only. The institution permanently ceased operations after the Spring 2020 semester. The campus was purchased by the University of Oregon in June 2022. This is no longer an active institution.",
+    "description": "Concordia University Portland was a private, Lutheran Church-Missouri Synod liberal arts university in Portland, Oregon, founded in 1905. It closed in July 2020 following mounting financial challenges and the withdrawal of support from its parent organization, the Lutheran Church–Missouri Synod. At closure, it had approximately 5,000 students and 1,500 employees. The campus is now UO Portland.",
+    "description_source": "https://en.wikipedia.org/wiki/Concordia_University_(Oregon)",
+    "contacts": [
+      {
+        "name": "Michael Greenlee",
+        "title": "Former Library Director, Concordia University School of Law (school closed 2015; Greenlee now at Notre Dame Law School)",
+        "source_url": "https://law.nd.edu/directory/michael-greenlee/",
+        "linkedin_url": "https://www.linkedin.com/in/michael-greenlee-b3991317/",
+        "is_original": true
+      }
+    ],
+    "recent_news": "Concordia University Portland voted to close February 7, 2020; final day of instruction July 11, 2020. In June 2022, the University of Oregon finalized purchase of the campus for The Ballmer Institute for Children's Behavioral Health. Michael Greenlee, the listed contact, left before closure: he became Associate Law Librarian at University of Idaho College of Law, and then joined Notre Dame Law School in July 2023 as Associate Director of Kresge Law Library.",
+    "news_source_url": "https://www.opb.org/news/article/concordia-university-close-lutheran-church-missouri-synod/",
+    "verification_status": "Discrepancy",
+    "verification_notes": "Multiple critical discrepancies: (1) Institution is CLOSED (since 2020) — this lead is defunct. (2) State listed as ID in original record but institution was in Portland, OR. (3) Michael Greenlee was library director at Concordia School of Law which closed in 2015, 5 years before the broader university closure. He is now Associate Director at Notre Dame Law School. This entire lead record is outdated and the entity no longer exists.",
+    "data_quality_score": 1,
+    "enrichment_notes": "DEFUNCT LEAD — institution closed July 2020. Should be removed from active prospecting. State in original record (ID) is incorrect; institution was in Portland, OR. Michael Greenlee is no longer affiliated with any Concordia entity; currently at Notre Dame Law School (as of July 2023). Original data likely pre-2015 vintage."
+  }
+]

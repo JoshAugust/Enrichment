@@ -1,0 +1,476 @@
+[
+  {
+    "company_name": "PINE BEND PAVING, INC.",
+    "state": "MN",
+    "industry": "Civil Engineering",
+    "founded": "1973",
+    "employees": 50,
+    "revenue_usd_000s": 26400,
+    "website": "https://www.pinebendpaving.com",
+    "website_verified": true,
+    "website_note": "Website active and confirmed via BBB, ZoomInfo, and direct search results.",
+    "description": "Pine Bend Paving is a family-owned asphalt paving company headquartered in Hastings, Minnesota, offering paving, milling, aggregate production, and asphalt plant operations. Founded in 1973 by Lyle Jacoby and George Passe, it has operated for over 50 years across three generations of the Jacoby family.",
+    "description_source": "https://www.pinebendpaving.com/about",
+    "contacts": [
+      {
+        "name": "Joel A Jacoby",
+        "title": "President / Chief Executive Officer",
+        "source_url": "https://www.zoominfo.com/p/Joe-Jacoby/1988014112",
+        "linkedin_url": null,
+        "is_original": true
+      },
+      {
+        "name": "Rich (Richard) Jacoby",
+        "title": "Vice President",
+        "source_url": "https://www.zoominfo.com/c/pine-bend-paving-inc/30507332",
+        "linkedin_url": "https://www.linkedin.com/in/richard-jacoby-a45015127/",
+        "is_original": false
+      },
+      {
+        "name": "Alissa Carlson",
+        "title": "Office Manager",
+        "source_url": "https://www.linkedin.com/in/alissa-carlson-06b58280/",
+        "linkedin_url": "https://www.linkedin.com/in/alissa-carlson-06b58280/",
+        "is_original": false
+      }
+    ],
+    "recent_news": "No specific news announcements found for 2024-2025. Company continues to operate as a union contractor and member of the Minnesota Asphalt Pavement Association, maintaining its own asphalt plant and aggregate pit.",
+    "news_source_url": "https://www.pinebendpaving.com/",
+    "verification_status": "Verified",
+    "verification_notes": "Joel A Jacoby confirmed as President/CEO via ZoomInfo, BBB, and company website. Website pinebendpaving.com is active and confirmed. Original 'Founded' value of 26666 appears to be a corrupted Excel serial date — actual founding year is 1973, confirmed by multiple sources. Company website states ~50 employees vs 37 in source data.",
+    "data_quality_score": 4,
+    "enrichment_notes": "Founded year 1973 confirmed; original data showed corrupted Excel date 26666. Employee count ~50 per company website vs 37 in source. Three-generation family business. Union contractor. Member of Minnesota Asphalt Pavement Association."
+  },
+  {
+    "company_name": "1460 CAPITAL CORP INC",
+    "state": "CA",
+    "industry": "Real Estate Agencies",
+    "founded": "1994",
+    "employees": 50,
+    "revenue_usd_000s": 26400,
+    "website": "https://www.pacificcoastcommercial.com",
+    "website_verified": true,
+    "website_note": "Pacific Coast Commercial (pacificcoastcommercial.com) confirmed as the operating name/brand for 1460 Capital Corp Inc via BBB and company website.",
+    "description": "1460 Capital Corp Inc, operating as Pacific Coast Commercial, is a full-service commercial real estate company based in San Diego, California, providing sales, leasing, property management, and asset management across all property types including retail, office/medical, industrial, self-storage, and land development. The company manages over 6.7 million square feet of commercial property in the San Diego region.",
+    "description_source": "https://www.pacificcoastcommercial.com/about-us",
+    "contacts": [
+      {
+        "name": "Robert Phillips",
+        "title": "Chief Executive Officer / President",
+        "source_url": "https://www.pacificcoastcommercial.com/about-us",
+        "linkedin_url": "https://www.linkedin.com/in/robert-phillips-aab64614/",
+        "is_original": false
+      },
+      {
+        "name": "Vince Provenzano",
+        "title": "President of Brokerage / Executive Director of Brokerage",
+        "source_url": "https://www.pacificcoastcommercial.com/about-us",
+        "linkedin_url": "https://www.linkedin.com/in/vinceprovenzano/",
+        "is_original": false
+      }
+    ],
+    "recent_news": "Pacific Coast Commercial expanded its team with Rick Chatham and Zarina Jackson joining as brokerage associates (announced within 2024). Company continues growing its commercial real estate portfolio across San Diego County.",
+    "news_source_url": "https://www.pacificcoastcommercial.com/post/pacific-coast-commercial-is-growing-rick-chatham-and-zarina-jackson-join-our-team",
+    "verification_status": "Unverified",
+    "verification_notes": "No contact name or title was provided in the original data for this company. Website pacificcoastcommercial.com confirmed active. CEO Robert Phillips and President of Brokerage Vince Provenzano identified from company website and LinkedIn. Founded 1994 confirmed.",
+    "data_quality_score": 4,
+    "enrichment_notes": "Original record had no contact name. Company operates publicly as Pacific Coast Commercial. Robert Phillips has 40+ years of commercial real estate experience. Employee count in source (30) is lower than 50+ brokers/staff found publicly. BBB profile confirms 1460 Capital Corp Inc is the legal entity."
+  },
+  {
+    "company_name": "VILLAGE TRUCK SALES INC",
+    "state": "MA",
+    "industry": "Used Truck & Equipment Sales / Towing",
+    "founded": "1967",
+    "employees": 13,
+    "revenue_usd_000s": 26400,
+    "website": "https://www.villagetrucksales.com",
+    "website_verified": true,
+    "website_note": "Website confirmed active via Yelp, FindTruckService, and BBB listings.",
+    "description": "Village Truck Sales Inc is a third-generation, family-owned used truck and heavy equipment dealer based in Lanesborough, Massachusetts, operating at 800 Cheshire Rd. The company sells used municipal equipment, provides vehicle repair services, and offers 24-hour light and heavy-duty towing services.",
+    "description_source": "https://www.bbb.org/us/ma/lanesboro/profile/towing-company/village-truck-sales-inc-0261-317488",
+    "contacts": [
+      {
+        "name": "Joe Sczepaniak",
+        "title": "Manager / Principal (JSSJR Enterprises, Inc.)",
+        "source_url": "https://www.bbb.org/us/ma/lanesboro/profile/towing-company/village-truck-sales-inc-0261-317488",
+        "linkedin_url": null,
+        "is_original": false
+      }
+    ],
+    "recent_news": "No specific company news found for 2024-2025. Massachusetts truck dealerships broadly impacted by the state's Advanced Clean Trucks (ACT) EV mandate in 2025, which froze heavy-duty diesel truck sales statewide.",
+    "news_source_url": "https://www.bostonglobe.com/2025/02/19/business/trucks-diesel-electric-vehicles-massachusetts-regulations/",
+    "verification_status": "Unverified",
+    "verification_notes": "No contact name was provided in the original data. Industry listed as 'Plumbing/HVAC' in source data appears to be a data error — the company is a truck/equipment sales and towing business. Website confirmed active. Joe Sczepaniak identified as manager from BBB records. Founded 1967 not independently confirmed.",
+    "data_quality_score": 3,
+    "enrichment_notes": "Industry classification 'Plumbing/HVAC' in source data appears incorrect; this is a used truck and equipment business. Limited public executive data for this small family-owned operation. Massachusetts ACT EV regulations may impact their sales in 2025."
+  },
+  {
+    "company_name": "NORTHWEST CONTROLS SYSTEMS, INC.",
+    "state": "AR",
+    "industry": "Plumbing/HVAC",
+    "founded": "1982",
+    "employees": 51,
+    "revenue_usd_000s": 5000,
+    "website": "https://nwcontrols.com",
+    "website_verified": true,
+    "website_note": "Website nwcontrols.com confirmed active. Both nwcontrols.com and https://nwcontrols.com resolve to the same site.",
+    "description": "Northwest Controls Systems, Inc. is a full-service building automation and HVAC controls contractor headquartered in Springdale, Arkansas, with offices in Little Rock, AR and Tulsa, OK. Founded in 1982, the company provides building automation, temperature control, process control, engineering, installation, and service for commercial, industrial, healthcare, and educational facilities across Arkansas and Oklahoma.",
+    "description_source": "https://nwcontrols.com/",
+    "contacts": [
+      {
+        "name": "Andy Lyons",
+        "title": "President / Owner",
+        "source_url": "https://www.linkedin.com/in/andy-lyons-1b9b187/",
+        "linkedin_url": "https://www.linkedin.com/in/andy-lyons-1b9b187/",
+        "is_original": true
+      },
+      {
+        "name": "John Oliver",
+        "title": "Vice President",
+        "source_url": "https://arkansas.wholesale-durable.org/17511-northwest_controls_systems_inc.htm",
+        "linkedin_url": null,
+        "is_original": false
+      },
+      {
+        "name": "David Martin",
+        "title": "Sales Representative",
+        "source_url": "https://www.linkedin.com/company/northwest-controls-systems",
+        "linkedin_url": null,
+        "is_original": false
+      },
+      {
+        "name": "Cameron Phillips",
+        "title": "Branch Manager",
+        "source_url": "https://www.linkedin.com/company/northwest-controls-systems",
+        "linkedin_url": null,
+        "is_original": false
+      }
+    ],
+    "recent_news": "Company expanded team in 2025: Cameron Phillips joined as Branch Manager (August 2025) and David Martin joined in Sales (November 2025). Company is actively growing and described as transitioning to a midsize multi-state provider of HVAC controls and mechanical solutions.",
+    "news_source_url": "https://www.linkedin.com/company/northwest-controls-systems",
+    "verification_status": "Verified",
+    "verification_notes": "Andy Lyons confirmed as President/Owner via LinkedIn and RocketReach. Website nwcontrols.com confirmed active and matched to company. Original 'Founded' value of 30306 is a corrupted Excel serial date — actual founding is April 1982. Two source rows (rows 4 and 5) consolidated into this record.",
+    "data_quality_score": 5,
+    "enrichment_notes": "Two supplementary batch rows consolidated. Founded April 1982, originally in Fayetteville AR (now Springdale). Became Arkansas/Oklahoma Alerton Inc. representative in 1990. Employee count updated from 14 (source) to ~51 (2025 estimate). Revenue estimated at ~$5M per third-party sources."
+  },
+  {
+    "company_name": "WEST HILLS REGIONAL MEDICAL CENTER",
+    "state": "CA",
+    "industry": "Hospital Activities",
+    "founded": "1973",
+    "employees": 1000,
+    "revenue_usd_000s": 26400,
+    "website": "https://www.uclahealth.org/hospitals/west-valley",
+    "website_verified": true,
+    "website_note": "Original website westhillshospital.com now redirects to UCLA Health. Current official URL is uclahealth.org/hospitals/west-valley following March 2024 acquisition by UCLA Health.",
+    "description": "West Hills Hospital and Medical Center (formerly West Hills Regional Medical Center) is a 260-bed acute care hospital in West Hills, California. Acquired by UCLA Health from HCA Healthcare in March 2024, it was renamed UCLA West Valley Medical Center and now operates as part of the UCLA Health system serving the San Fernando Valley.",
+    "description_source": "https://newsroom.ucla.edu/releases/ucla-health-acquires-west-hills-hospital-and-medical-center",
+    "contacts": [
+      {
+        "name": "Doug Hawkins",
+        "title": "Unknown / unverified role",
+        "source_url": null,
+        "linkedin_url": null,
+        "is_original": true
+      },
+      {
+        "name": "Saba Habis, MD, MHA, CPE, FACP",
+        "title": "Chief Executive Officer (current, post-UCLA acquisition 2024)",
+        "source_url": "https://westhillshospital.com/about/newsroom/saba-habis-md-mha-cpe-facp-new-west-hills-hospital-ceo",
+        "linkedin_url": null,
+        "is_original": false
+      },
+      {
+        "name": "Mark Miller",
+        "title": "Former President & CEO (HCA era, through early 2024)",
+        "source_url": "https://hcafarwest.com/about/newsroom/detail.dot?id=2ca248ca-d3c5-4f0f-9ed3-b27becc1bfdc",
+        "linkedin_url": null,
+        "is_original": false
+      },
+      {
+        "name": "Donald S. David, MD, DHA",
+        "title": "Chief Medical Officer",
+        "source_url": "https://hcafarwest.com/about/newsroom/detail.dot?id=b0e38fce-7fcb-4374-a9e9-20ce735a3308",
+        "linkedin_url": null,
+        "is_original": false
+      }
+    ],
+    "recent_news": "UCLA Health acquired West Hills Hospital and Medical Center from HCA Healthcare on March 28, 2024, renaming it UCLA West Valley Medical Center. Saba Habis, MD was named new CEO. This is a major ownership change affecting the hospital's operations and branding.",
+    "news_source_url": "https://newsroom.ucla.edu/releases/ucla-health-acquires-west-hills-hospital-and-medical-center",
+    "verification_status": "Discrepancy",
+    "verification_notes": "Contact 'Doug Hawkins' with 'No specific function' could not be verified in any current or prior executive capacity at this hospital. Original 'Founded: 2024' appears to be data error referencing the UCLA acquisition date; hospital originally founded ~1973. Website changed to UCLA Health domain post-acquisition. Two batch rows (rows 6 and 7) consolidated.",
+    "data_quality_score": 4,
+    "enrichment_notes": "Major 2024 news: hospital acquired by UCLA Health. Doug Hawkins unverified. Founded 2024 in source is misleading; hospital has existed since ~1973. Employee count of 19 in source data appears severely understated for a 260-bed hospital; actual headcount likely 1,000+."
+  },
+  {
+    "company_name": "DEPENDABLE HOME HEALTH CARE INC.",
+    "state": "MN",
+    "industry": "Other Health",
+    "founded": "1991",
+    "employees": 406,
+    "revenue_usd_000s": 26400,
+    "website": "https://dependable-care.com",
+    "website_verified": true,
+    "website_note": "Both dependable-care.com and dependablehomehealth.com appear to be associated with the company. Primary site is dependable-care.com.",
+    "description": "Dependable Home Health Care Inc. (also known as Dependable Home Healthcare) is a Saint Paul, Minnesota-based provider of home and community-based services for individuals with developmental disabilities. The company provides 24-hour emergency assistance, adult companion services, homemaker services, night supervision, respite care, and individualized home supports, serving over 400 individuals.",
+    "description_source": "https://dependable-care.com/about-us.html",
+    "contacts": [
+      {
+        "name": "Isaac Mensah",
+        "title": "Chief Executive Officer / Co-founder",
+        "source_url": "https://www.dsb-cpa.com/testimonial/isaac-mensah-ceo-dependable-home-health-care/",
+        "linkedin_url": null,
+        "is_original": true
+      },
+      {
+        "name": "Sarah Mensah",
+        "title": "President & Chief Executive Officer / Co-founder",
+        "source_url": "https://www.zoominfo.com/p/Sarah-Mensah/13280685535",
+        "linkedin_url": null,
+        "is_original": true
+      },
+      {
+        "name": "Staci Gyekis",
+        "title": "Administrative and Human Resources Support",
+        "source_url": "https://dependable-care.com",
+        "linkedin_url": null,
+        "is_original": true
+      }
+    ],
+    "recent_news": "Critical 2025 news: Dependable Home Healthcare announced in November 2025 that it will wind down all operations by end of January 2026, laying off 406 employees in six phases (January 3 – March 13, 2026). Reasons cited include increasing operational costs, regulatory changes, difficulty recruiting staff, and reduced service hours and overnight care rates. Governor Tim Walz's Medicaid fraud audit program was announced around the same time.",
+    "news_source_url": "https://kstp.com/kstp-news/local-news/st-paul-home-care-company-to-shut-down-in-early-2026-laying-off-more-than-400/",
+    "verification_status": "Verified",
+    "verification_notes": "Isaac Mensah (CEO) and Sarah Mensah (President/CEO) both verified as co-founders and current leaders via multiple sources. Staci Gyekis confirmed via source data. Three batch rows (rows 8, 9, 10) consolidated. Founded year in source is 2002 but actual founding is 1991, confirmed by BBB and news sources.",
+    "data_quality_score": 5,
+    "enrichment_notes": "Three supplementary batch rows consolidated. CRITICAL: Company announced closure Nov 2025, ceasing operations Jan-Feb 2026. Founded 1991, not 2002 as listed. Isaac Mensah assumed full-time CEO role in 2001 after leaving Pillsbury. Employee count updated to 406 (from WARN notice). Located at 23 Empire Dr Ste 100, Saint Paul, MN 55103."
+  },
+  {
+    "company_name": "AIRTEC SERVICE INC",
+    "state": "CA",
+    "industry": "Plumbing/HVAC",
+    "founded": "1979",
+    "employees": 19,
+    "revenue_usd_000s": 26400,
+    "website": "https://www.airtecserviceinc.com",
+    "website_verified": true,
+    "website_note": "Website airtecservice.com also appears active (alternate URL). airtecserviceinc.com confirmed via license and business records.",
+    "description": "Airtec Service Inc is a residential and commercial HVAC contractor based in Watsonville, California, serving the Monterey Bay Area including Watsonville, Monterey, and Pebble Beach. The company offers AC repair, heater replacement, heat pump installation, custom ductwork fabrication, and routine maintenance, and holds Bryant Factory Authorized Dealer status.",
+    "description_source": "https://airtecservice.com/",
+    "contacts": [
+      {
+        "name": "David Andrew Olson",
+        "title": "Chief Executive Officer / President / Responsible Managing Officer (RMO)",
+        "source_url": "https://homeflock.com/contractor/13049579",
+        "linkedin_url": "https://www.linkedin.com/in/david-olson-39096639/",
+        "is_original": true
+      },
+      {
+        "name": "Michelle Collazo Olson",
+        "title": "Officer",
+        "source_url": "https://homeflock.com/contractor/13049579",
+        "linkedin_url": null,
+        "is_original": false
+      }
+    ],
+    "recent_news": "In March 2025, Airtec Service earned the highest composite score in a comparative analysis of HVAC providers in the Monterey area. The company's heat pump installation program received recognition from the U.S. Department of Energy. Currently holds a 4.99-star Google rating.",
+    "news_source_url": "https://indystar.xpr-gannett.com/press-release/story/44126/new-study-identifies-best-hvac-company-in-monterey-ca-for-2025/",
+    "verification_status": "Verified",
+    "verification_notes": "David Andrew Olson confirmed as CEO/President/RMO via California contractor license #661643 (legal entity: DAVID OLSON INC), HomeFlock, LinkedIn, and RocketReach. Two batch rows (rows 11 and 12) consolidated. Founded 1979 per source data, not independently verified but consistent with company descriptions.",
+    "data_quality_score": 4,
+    "enrichment_notes": "Two supplementary batch rows consolidated. Licensed for: Boiler, Hot Water Heating, Steam Fitting, Sheet Metal, HVAC. Located at 175 Aviation Way, Watsonville, CA 95076. Bryant Factory Authorized Dealer. DOE-recognized heat pump program. 4.99-star Google rating."
+  },
+  {
+    "company_name": "HOMETOWN COMMUNITY BANK",
+    "state": "MN",
+    "industry": "Credit Granting",
+    "founded": "1901",
+    "employees": 7,
+    "revenue_usd_000s": 26400,
+    "website": "https://www.hcbmn.com",
+    "website_verified": true,
+    "website_note": "hcbmn.com is the confirmed main website. The 'secure.hcbmn.com' subdomain hosts the online banking portal. Both are legitimate.",
+    "description": "Hometown Community Bank is a community bank headquartered in Cyrus, Minnesota, founded in 1901 as the State Bank of Cyrus and renamed Hometown Community Bank in 2000. The bank operates branches in Cyrus (main office) and Forada, Minnesota, serving Pope and Douglas counties. As of March 2025, the bank holds approximately $93.9M in assets.",
+    "description_source": "https://secure.hcbmn.com/Pages/history.html",
+    "contacts": [
+      {
+        "name": "John Stellner",
+        "title": "President",
+        "source_url": "https://secure.hcbmn.com/Pages/history.html",
+        "linkedin_url": null,
+        "is_original": true
+      },
+      {
+        "name": "Paul Martinek",
+        "title": "Staff (role unspecified)",
+        "source_url": "https://www.linkedin.com/in/paul-martinek-641b502b/",
+        "linkedin_url": "https://www.linkedin.com/in/paul-martinek-641b502b/",
+        "is_original": false
+      }
+    ],
+    "recent_news": "As of Q1 2025, Hometown Community Bank reported $93.97M in assets, $77.9M in loans, and $84M in deposits. No major news events found for 2024-2025. Bank continues operating as a stable community bank serving central Minnesota.",
+    "news_source_url": "https://www.bestcashcow.com/banks/hometown-community-bank-10197",
+    "verification_status": "Verified",
+    "verification_notes": "John Stellner confirmed as President via bank history page. His family (A.H. Stellner) has owned/led the bank since 1957. Founded 1901 confirmed (originally State Bank of Cyrus). Three batch rows (rows 13, 14, 15) consolidated. Website hcbmn.com confirmed active.",
+    "data_quality_score": 4,
+    "enrichment_notes": "Three supplementary batch rows consolidated. Founded 1901 (renamed 2000). FDIC insured. Assets ~$93.9M (Q1 2025). Stellner family ownership since 1957. Located at 100 East Main Street, Cyrus, MN 56323. Source data 'Founded: 2000' refers to name change, not actual founding."
+  },
+  {
+    "company_name": "FIRST JUDICIAL PUBLIC DEFENDER",
+    "state": "MN",
+    "industry": "Legal Services",
+    "founded": "1995",
+    "employees": 9,
+    "revenue_usd_000s": 26400,
+    "website": "https://www.pubdef.state.mn.us",
+    "website_verified": true,
+    "website_note": "pubdef.state.mn.us is the official Minnesota Board of Public Defense website. Active and confirmed.",
+    "description": "The First Judicial District Public Defender is the public defender office for Minnesota's First Judicial District, headquartered in Hastings, Minnesota. The office provides constitutionally mandated criminal defense services to indigent defendants, representing clients in felony, gross misdemeanor, probation violation, misdemeanor, juvenile delinquency, and child protection cases.",
+    "description_source": "https://www.pubdef.state.mn.us/",
+    "contacts": [
+      {
+        "name": "Lindsay Siolka",
+        "title": "Chief Public Defender, 1st Judicial District",
+        "source_url": "https://www.linkedin.com/in/lindsay-siolka-7311a120/",
+        "linkedin_url": "https://www.linkedin.com/in/lindsay-siolka-7311a120/",
+        "is_original": false
+      }
+    ],
+    "recent_news": "No specific news events found for 2024-2025. The Minnesota Board of Public Defense oversees all 10 judicial district offices, with Lindsay Siolka serving as Chief Public Defender for the 1st District. The state legislature continues to fund public defense operations.",
+    "news_source_url": "https://www.pubdef.state.mn.us/",
+    "verification_status": "Unverified",
+    "verification_notes": "No contact name was provided in the original data. Lindsay Siolka identified as current Chief Public Defender for the 1st Judicial District via LinkedIn and MN Secretary of State judiciary document. This is a government entity, not a private company — revenue and employee figures in source data are approximate. Founded year 1995 could not be specifically verified.",
+    "data_quality_score": 3,
+    "enrichment_notes": "Government entity — revenue and employee figures may reflect budget/staff for this specific district office. The MN Board of Public Defense was established in 1989; the First District office has operated in Hastings. Chief Public Defender is appointed by the State Board of Public Defense."
+  },
+  {
+    "company_name": "PINERIDGE APARTMENTS",
+    "state": "MN",
+    "industry": "Real Estate (leased)",
+    "founded": null,
+    "employees": 7,
+    "revenue_usd_000s": 26400,
+    "website": "https://www.pineridge-apartments.com",
+    "website_verified": false,
+    "website_note": "DISCREPANCY: pineridge-apartments.com resolves to an apartment complex in Walker, MICHIGAN (managed by Eenhoorn LLC), not Minnesota. The state in the source data is listed as MN, but the website is for a MI property.",
+    "description": "Pineridge Apartments at the URL pineridge-apartments.com is an apartment community located in Walker, Michigan (not Minnesota as listed), managed by Eenhoorn LLC. It offers studio through 2-bedroom units at 2790 Pineridge Dr. NW, Walker, MI 49534. If a separate Pineridge Apartments entity exists in Minnesota, it could not be verified from this URL.",
+    "description_source": "https://www.pineridge-apartments.com/",
+    "contacts": [],
+    "recent_news": "No news found. If the MN entity is a different property, limited public data is available.",
+    "news_source_url": null,
+    "verification_status": "Discrepancy",
+    "verification_notes": "MAJOR DISCREPANCY: The website pineridge-apartments.com is confirmed to be for Pineridge Apartments in Walker, Michigan, managed by Eenhoorn LLC. The source data lists state as MN (Minnesota). Either the state is wrong or the website is wrong. No contact name was provided in the source data. Cannot verify any MN-based entity with this name and URL.",
+    "data_quality_score": 1,
+    "enrichment_notes": "State/website mismatch. pineridge-apartments.com = Walker, MI property (Eenhoorn LLC). If there is a separate MN Pineridge Apartments, it was not findable via this URL. Recommend manual verification of state and URL accuracy. Limited public data."
+  },
+  {
+    "company_name": "ALLEN COUNTY SCHOOLS",
+    "state": "KY",
+    "industry": "Pre-primary Education",
+    "founded": "1900s",
+    "employees": 500,
+    "revenue_usd_000s": 26400,
+    "website": "https://www.allen.kyschools.us",
+    "website_verified": true,
+    "website_note": "Website allen.kyschools.us confirmed active as the official Allen County Schools district website.",
+    "description": "Allen County Schools is a public school district based in Scottsville, Kentucky, serving Allen County with 6 schools and approximately 3,086 students. The district provides pre-K through 12th grade education and operates a Level 5 Kentucky All Stars certified preschool program, among other community programs.",
+    "description_source": "https://www.allen.kyschools.us/",
+    "contacts": [
+      {
+        "name": "Marla Carnes",
+        "title": "Director, Business Operations (listed in source data)",
+        "source_url": null,
+        "linkedin_url": null,
+        "is_original": true
+      },
+      {
+        "name": "Travis Hamby",
+        "title": "Superintendent (verified, current as of 2024)",
+        "source_url": "https://www.kysupts.org/kass-members",
+        "linkedin_url": null,
+        "is_original": false
+      },
+      {
+        "name": "Kristie McDuffee",
+        "title": "Director of Finance",
+        "source_url": "https://www.zoominfo.com/pic/allen-county-schools/411046270",
+        "linkedin_url": null,
+        "is_original": false
+      }
+    ],
+    "recent_news": "Allen County Primary Center received a $75,900 Federal Fresh Fruit and Vegetable Program grant. The district launched a Grow Your Own Teacher Apprenticeship Program in partnership with Western Kentucky University. Preschool program is a certified Level 5 Kentucky All Stars program.",
+    "news_source_url": "https://www.allen.kyschools.us/news",
+    "verification_status": "Discrepancy",
+    "verification_notes": "DISCREPANCY: Marla Carnes listed as Director of Business Operations for Allen County Schools in source data; however, searches indicate Marla Carnes is actually the Director of Business Operations at Russell County Schools, Kentucky — not Allen County Schools. Allen County Schools' Director of Finance is Kristie McDuffee. Superintendent is Travis Hamby (confirmed July 2024). Source data 'Founded: 2017' appears incorrect for an established school district.",
+    "data_quality_score": 4,
+    "enrichment_notes": "Contact name discrepancy: Marla Carnes appears to be misattributed — she works at Russell County Schools, not Allen County. Founded 2017 in source data is incorrect; Allen County Schools is a long-established district. District serves ~3,086 students across 6 schools. 48.6% economically disadvantaged students."
+  },
+  {
+    "company_name": "RIVER BANK",
+    "state": "WI",
+    "industry": "Credit Granting",
+    "founded": "1991",
+    "employees": 72,
+    "revenue_usd_000s": 15000,
+    "website": "https://riverbank.biz",
+    "website_verified": true,
+    "website_note": "riverbank.biz confirmed as active and belonging to River Bank, but located in Wisconsin (La Crosse area), NOT Florida as listed in source data.",
+    "description": "River Bank is the largest locally-owned community bank in the La Crosse, Wisconsin area, formed in 1991 when three banks along the Mississippi River (in Stoddard, Ferryville, and De Soto, WI) merged. The bank now operates 14 locations serving Crawford, Vernon, Monroe, La Crosse, and Trempealeau counties in Wisconsin.",
+    "description_source": "https://riverbank.biz/about-us.html",
+    "contacts": [
+      {
+        "name": "Brian Voelker",
+        "title": "President & Chief Executive Officer",
+        "source_url": "https://www.zoominfo.com/p/Brian-Voelker/1267415150",
+        "linkedin_url": null,
+        "is_original": false
+      },
+      {
+        "name": "Damian Levandoski",
+        "title": "President (also listed; may reflect a title change)",
+        "source_url": "https://www.zoominfo.com/p/Damian-Levandoski/1645953600",
+        "linkedin_url": null,
+        "is_original": false
+      },
+      {
+        "name": "Jim Thompson",
+        "title": "Executive Vice President",
+        "source_url": "https://leadiq.com/c/river-bank/5e4c5ee6626d3b6fe02a7f99",
+        "linkedin_url": null,
+        "is_original": false
+      },
+      {
+        "name": "Allen Brewer",
+        "title": "Retail Banking Manager",
+        "source_url": "https://www.wisbank.com/brewer-named-retail-banking-manager-at-river-bank/",
+        "linkedin_url": null,
+        "is_original": false
+      }
+    ],
+    "recent_news": "Allen Brewer joined River Bank as Retail Banking Manager in January 2024. Bank posted a Chief Credit Officer position in January 2025. No contact name was provided in the original source data.",
+    "news_source_url": "https://www.wisbank.com/brewer-named-retail-banking-manager-at-river-bank/",
+    "verification_status": "Discrepancy",
+    "verification_notes": "MAJOR DISCREPANCY: Source data lists state as FL (Florida), but riverbank.biz is definitively located in Wisconsin (La Crosse area, serving WI counties). Either the state assignment is incorrect or this is a different 'River Bank' entity. No original contact was provided. Founded 1991 confirmed for the WI entity.",
+    "data_quality_score": 3,
+    "enrichment_notes": "State mismatch: source says FL but riverbank.biz is a Wisconsin bank. Revenue of ~$15M (2025 estimate) and ~72 employees per public data. 14 branch locations in WI. Largest locally-owned bank in La Crosse area. Recommend verifying if this is the intended company or if a Florida 'River Bank' was intended."
+  },
+  {
+    "company_name": "MASTERWORKS CONSTRUCTION",
+    "state": "MN",
+    "industry": "Building Finishing",
+    "founded": "1978",
+    "employees": 6,
+    "revenue_usd_000s": 26400,
+    "website": "https://www.masterworksconstructionmt.com",
+    "website_verified": false,
+    "website_note": "DISCREPANCY: masterworksconstructionmt.com belongs to Masterworks Construction Inc. in Emigrant/Livingston, MONTANA — not Minnesota. The source data lists state as MN.",
+    "description": "Masterworks Construction Inc. (at masterworksconstructionmt.com) is a family-owned construction company located in Emigrant, Montana (near Livingston), founded in 1978. The company specializes in custom homes, remodeling, home additions, commercial projects, and green building throughout the Park County / Bozeman, Montana area — not Minnesota.",
+    "description_source": "https://www.masterworksconstructionmt.com/",
+    "contacts": [],
+    "recent_news": "No news found for 2024-2025. Company appears to be an active Montana contractor serving the Emigrant/Livingston/Bozeman area.",
+    "news_source_url": null,
+    "verification_status": "Discrepancy",
+    "verification_notes": "MAJOR DISCREPANCY: Website masterworksconstructionmt.com is for a Montana-based company (Emigrant, MT), not a Minnesota company. The 'MT' in the URL stands for Montana. No Minnesota-based 'Masterworks Construction' could be found. If a MN entity exists with this name, it does not appear to use this website. No contact name was provided in source data.",
+    "data_quality_score": 2,
+    "enrichment_notes": "State/website mismatch. masterworksconstructionmt.com = Montana company founded 1978 (note: source says MN, founded 2001 — inconsistent). MN-based Masterworks Construction not found in public databases. Recommend manual verification of state, website, and company identity. Limited public data on the potential MN entity."
+  }
+]

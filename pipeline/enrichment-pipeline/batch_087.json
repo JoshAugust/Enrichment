@@ -1,0 +1,759 @@
+[
+  {
+    "name": "D2IQ, INC.",
+    "state": "CA",
+    "year_incorporated": "2013",
+    "nace": "5829",
+    "employees": "110",
+    "revenue_usd": 2070000,
+    "pl_before_tax": null,
+    "total_assets": null,
+    "equity": null,
+    "website": "www.d2iq.com",
+    "description": "Enterprise cloud Software-as-a-Service (SaaS) provider",
+    "contacts": [
+      {
+        "name": "Mr William Freiberg",
+        "title": "President"
+      },
+      {
+        "name": "Aj Narula",
+        "title": "Partner"
+      },
+      {
+        "name": "Mr Patrick Brennan",
+        "title": "Tech. Lead, Strategic Partnerships & Business Development"
+      },
+      {
+        "name": "Mr Dean Zumach",
+        "title": "Strategic Account Executive"
+      },
+      {
+        "name": "Ms Joelle Bailey",
+        "title": "Executive Assistant"
+      },
+      {
+        "name": "Sandy Mac",
+        "title": "Manager, Payroll, Mesosphere"
+      },
+      {
+        "name": "Mr Jarrod Wells",
+        "title": "Senior Manager, Accounting"
+      },
+      {
+        "name": "Ms Amelia Cellar",
+        "title": "Senior Recruiter"
+      },
+      {
+        "name": "Ms Ann Nethery-Jakka",
+        "title": "Senior Recruiting Consultant"
+      },
+      {
+        "name": "Mr James Hollinger",
+        "title": "Head of President Sales Services"
+      },
+      {
+        "name": "Ms Sara Davila",
+        "title": "Community Marketing Partner"
+      },
+      {
+        "name": "Mr Alex Hisaka",
+        "title": "Director, Content Marketing"
+      },
+      {
+        "name": "Mr Amr Abdelrazik",
+        "title": "Manager, Product Marketing"
+      },
+      {
+        "name": "Ms Brittany Berry",
+        "title": "Manager, Field Marketing"
+      },
+      {
+        "name": "Ms Halyna O'Sullivan",
+        "title": "Enterprise Account Executive"
+      },
+      {
+        "name": "Mr Zackiye M Tembi",
+        "title": "Enterprise Account Director (West)"
+      },
+      {
+        "name": "Mr Nicholas Kane",
+        "title": "Territory Account Manager"
+      },
+      {
+        "name": "Sullivan Parker",
+        "title": "Team Lead, Account Development"
+      },
+      {
+        "name": "Mr Emilio Mendoza",
+        "title": "Account Development"
+      },
+      {
+        "name": "Mr David Murray",
+        "title": "Enterprise Account Development Representative"
+      },
+      {
+        "name": "Mr Sonny Round",
+        "title": "Account Development Representative"
+      },
+      {
+        "name": "Mr Ben Lin",
+        "title": "Director, Technical Services"
+      },
+      {
+        "name": "Mr Chris Gaun",
+        "title": "Product Manager"
+      },
+      {
+        "name": "Mr Joe Nestor",
+        "title": "Senior Director"
+      }
+    ]
+  },
+  {
+    "name": "ARTIE, INC.",
+    "state": "CA",
+    "year_incorporated": "2019",
+    "nace": "5829",
+    "employees": "40",
+    "revenue_usd": 2070000,
+    "pl_before_tax": null,
+    "total_assets": null,
+    "equity": null,
+    "website": "www.artie.com",
+    "description": "Mobile games sharing and playing on social media application developer",
+    "contacts": []
+  },
+  {
+    "name": "LORE IO, INC.",
+    "state": "CA",
+    "year_incorporated": "2015",
+    "nace": "5829",
+    "employees": "10",
+    "revenue_usd": 2070000,
+    "pl_before_tax": null,
+    "total_assets": null,
+    "equity": null,
+    "website": "www.getlore.io",
+    "description": "Data management platform developer",
+    "contacts": [
+      {
+        "name": "Mr Digvijay S Lamba",
+        "title": "Founder and Chief Executive Officer"
+      },
+      {
+        "name": "Mr Richard Steinhart",
+        "title": "Vice President Sales"
+      },
+      {
+        "name": "Mr Samuel Ling",
+        "title": "Sales Development Manager"
+      },
+      {
+        "name": "Mr Samuel Ling",
+        "title": "Enterprise Solutions"
+      },
+      {
+        "name": "Mr Janardan Prasad",
+        "title": "Chief Customer Experience Officer"
+      },
+      {
+        "name": "Mr Herman Chiu",
+        "title": "Enterprise Solutions"
+      },
+      {
+        "name": "Mr Ashok Krishnamoorthy",
+        "title": "Growth Strategies and Partner Ecosystems"
+      }
+    ]
+  },
+  {
+    "name": "LIVEOFFICE HOLDINGS LLC",
+    "state": "CA",
+    "year_incorporated": "1998",
+    "nace": "5829",
+    "employees": "90",
+    "revenue_usd": 2070000,
+    "pl_before_tax": null,
+    "total_assets": null,
+    "equity": null,
+    "website": "www.summitia.com",
+    "description": "Provision of information archiving solutions",
+    "contacts": []
+  },
+  {
+    "name": "GLOBAL EDGE SOFTWARE INC",
+    "state": "CA",
+    "year_incorporated": "1999",
+    "nace": "5829",
+    "employees": "12",
+    "revenue_usd": 2070000,
+    "pl_before_tax": null,
+    "total_assets": null,
+    "equity": null,
+    "website": "www.globaledgesoft.com",
+    "description": null,
+    "contacts": []
+  },
+  {
+    "name": "TALLY TECHNOLOGIES, INC.",
+    "state": "CA",
+    "year_incorporated": "2015",
+    "nace": "5829",
+    "employees": "50",
+    "revenue_usd": 2070000,
+    "pl_before_tax": null,
+    "total_assets": null,
+    "equity": null,
+    "website": "www.meettally.com",
+    "description": "Mobile debt management application provider",
+    "contacts": [
+      {
+        "name": "Mr Jason Brown",
+        "title": "Founder & Chief Executive Officer"
+      },
+      {
+        "name": "Mr Jason Brown",
+        "title": "Chief Financial Officer"
+      },
+      {
+        "name": "Mr Jasper Platz",
+        "title": "Secretary"
+      },
+      {
+        "name": "Ms Genessa Stout",
+        "title": "Secretary"
+      },
+      {
+        "name": "Ms Genessa Stout",
+        "title": "Head of Legal & Compliance"
+      },
+      {
+        "name": "Ms Genessa Stout",
+        "title": "Officer"
+      },
+      {
+        "name": "Ms Vanessa Santiago",
+        "title": "People Operations Manager"
+      },
+      {
+        "name": "Ms Christina Luk",
+        "title": "Senior Manager, Compliance"
+      },
+      {
+        "name": "Brandea Bunnag",
+        "title": "Product Manager"
+      },
+      {
+        "name": "Ms Kelly Shinoda",
+        "title": "Manager, Employee Operations"
+      },
+      {
+        "name": "Mr Neel Patel",
+        "title": "Data Head"
+      },
+      {
+        "name": "Mr Bryan Musial",
+        "title": "Senior Software Engineer"
+      },
+      {
+        "name": "Ms Sumaiya Balbale",
+        "title": "Officer"
+      },
+      {
+        "name": "Mr Nikhil Basu Trivedi",
+        "title": "Officer"
+      },
+      {
+        "name": "Mr Gregory Andersen",
+        "title": "Managing Editor"
+      },
+      {
+        "name": "Mr Matias Honorato",
+        "title": "Growth Manager"
+      },
+      {
+        "name": "Mr Mamoon Hamid",
+        "title": "Other"
+      },
+      {
+        "name": "Ms Aileen Lee",
+        "title": "Other"
+      },
+      {
+        "name": "Ms Angela Strange",
+        "title": "Other"
+      }
+    ]
+  },
+  {
+    "name": "HEALTH LEVEL INC",
+    "state": "CA",
+    "year_incorporated": "2010",
+    "nace": "5829",
+    "employees": "16",
+    "revenue_usd": 2070000,
+    "pl_before_tax": null,
+    "total_assets": null,
+    "equity": null,
+    "website": "www.healthlevel.com",
+    "description": null,
+    "contacts": [
+      {
+        "name": "Mr Parag Paranjpe",
+        "title": "No specific function"
+      }
+    ]
+  },
+  {
+    "name": "JUDO BABY INC",
+    "state": "CA",
+    "year_incorporated": "2009",
+    "nace": "5829",
+    "employees": "10",
+    "revenue_usd": 2070000,
+    "pl_before_tax": null,
+    "total_assets": null,
+    "equity": null,
+    "website": "www.judobaby.com",
+    "description": null,
+    "contacts": []
+  },
+  {
+    "name": "TECMO",
+    "state": "CA",
+    "year_incorporated": "2005",
+    "nace": "5829",
+    "employees": "14",
+    "revenue_usd": 2070000,
+    "pl_before_tax": null,
+    "total_assets": null,
+    "equity": null,
+    "website": "www.tecmoinc.com",
+    "description": "Engaged in the wholesale distribution of computers, computer peripheral equipment, and software",
+    "contacts": []
+  },
+  {
+    "name": "FAMSOFT CORP",
+    "state": "CA",
+    "year_incorporated": null,
+    "nace": "5829",
+    "employees": "20",
+    "revenue_usd": 2070000,
+    "pl_before_tax": null,
+    "total_assets": null,
+    "equity": null,
+    "website": "www.famsoft.com",
+    "description": null,
+    "contacts": []
+  },
+  {
+    "name": "PACKET DESIGN LLC",
+    "state": "CA",
+    "year_incorporated": "2003",
+    "nace": "5829",
+    "employees": "11",
+    "revenue_usd": 2070000,
+    "pl_before_tax": null,
+    "total_assets": null,
+    "equity": null,
+    "website": "www.packetdesign.com",
+    "description": null,
+    "contacts": []
+  },
+  {
+    "name": "REALIZATION TECHNOLOGIES, INC.",
+    "state": "CA",
+    "year_incorporated": "2009",
+    "nace": "5829",
+    "employees": "40",
+    "revenue_usd": 2070000,
+    "pl_before_tax": null,
+    "total_assets": null,
+    "equity": null,
+    "website": "www.realization.com",
+    "description": "Engaged in the provision of planning and execution software for engineering and project applications",
+    "contacts": []
+  },
+  {
+    "name": "AXIOM TECHNOLOGIES INTERNATIONAL, LLC",
+    "state": "CA",
+    "year_incorporated": "2001",
+    "nace": "5829",
+    "employees": "40",
+    "revenue_usd": 2070000,
+    "pl_before_tax": null,
+    "total_assets": null,
+    "equity": null,
+    "website": "www.axiomtech.net",
+    "description": "Engaged in the provision of computer programming, data processing and other computer software related services",
+    "contacts": [
+      {
+        "name": "Mr Mark D Reader",
+        "title": "Agent"
+      }
+    ]
+  },
+  {
+    "name": "XPORTA INC",
+    "state": "CA",
+    "year_incorporated": null,
+    "nace": "5829",
+    "employees": "31",
+    "revenue_usd": 2070000,
+    "pl_before_tax": null,
+    "total_assets": null,
+    "equity": null,
+    "website": "www.xporta.us",
+    "description": null,
+    "contacts": []
+  },
+  {
+    "name": "MOTION GROUP INC",
+    "state": "CA",
+    "year_incorporated": "1993",
+    "nace": "5829",
+    "employees": "12",
+    "revenue_usd": 2070000,
+    "pl_before_tax": null,
+    "total_assets": null,
+    "equity": null,
+    "website": "www.motiongroup.com",
+    "description": null,
+    "contacts": []
+  },
+  {
+    "name": "GUARDIAN EDGE TECHNOLOGY INC",
+    "state": "CA",
+    "year_incorporated": "2002",
+    "nace": "5829",
+    "employees": "40",
+    "revenue_usd": 2070000,
+    "pl_before_tax": null,
+    "total_assets": null,
+    "equity": null,
+    "website": "www.guardianedge.com",
+    "description": "Engaged in computer programming activities and computer systems design services",
+    "contacts": []
+  },
+  {
+    "name": "EXPANDABLE SOFTWARE, INC.",
+    "state": "CA",
+    "year_incorporated": "1997",
+    "nace": "5829",
+    "employees": "50",
+    "revenue_usd": 2070000,
+    "pl_before_tax": null,
+    "total_assets": null,
+    "equity": null,
+    "website": "www.expandable.com",
+    "description": null,
+    "contacts": [
+      {
+        "name": "Marshall E Guile III",
+        "title": "President"
+      },
+      {
+        "name": "Mr Robert M Swedroe",
+        "title": "Chief Executive Officer"
+      },
+      {
+        "name": "Mr Corbin Tognoni",
+        "title": "Chief Executive Officer"
+      },
+      {
+        "name": "Mr Patti Hales",
+        "title": "Executive Officer"
+      },
+      {
+        "name": "Mr Gerald G Lass",
+        "title": "Vice President & Co-Founder"
+      },
+      {
+        "name": "Mr Gerald G Lass",
+        "title": "Executive Vice President"
+      },
+      {
+        "name": "Ms Eva Jean Fitzgerald",
+        "title": "Vice President"
+      },
+      {
+        "name": "Mr Clint S Taylor",
+        "title": "Vice President"
+      },
+      {
+        "name": "Mr Clint S Taylor",
+        "title": "Vice President Sales"
+      },
+      {
+        "name": "Mr David M Kearney",
+        "title": "Chief Financial Officer"
+      },
+      {
+        "name": "Mr David M Kearney",
+        "title": "Officer"
+      },
+      {
+        "name": "Mr John Buller",
+        "title": "Director, Sales Engineering"
+      },
+      {
+        "name": "Mr Derek Kottke",
+        "title": "Midwest Regional Sales Manager"
+      },
+      {
+        "name": "Mr Rooty Van Overen",
+        "title": "Manager, Marketing"
+      },
+      {
+        "name": "Mr Fred Rowen",
+        "title": "Regional Account Manager"
+      },
+      {
+        "name": "Ms Gina Banderas",
+        "title": "ERP Customer Support and Implementation Specialist"
+      },
+      {
+        "name": "Mr Roy Cindi",
+        "title": "Customer Solutions"
+      },
+      {
+        "name": "Mr Ed Graham",
+        "title": "Customer Support"
+      },
+      {
+        "name": "Ms Cindy Hayden",
+        "title": "Customer Solutions"
+      },
+      {
+        "name": "Mr John Anthony Nevshemal",
+        "title": "Customer Support"
+      },
+      {
+        "name": "Mr Walter Saleme",
+        "title": "Customer Support"
+      },
+      {
+        "name": "Mr John Yarbrough",
+        "title": "Customer Service Representative"
+      },
+      {
+        "name": "Shaheen Husain",
+        "title": "Senior Quality Assurance Analyst"
+      },
+      {
+        "name": "Manasa Sudhakara",
+        "title": "Erp System Administrator"
+      },
+      {
+        "name": "Mr Stephen Braddy",
+        "title": "Senior Software Engineer"
+      },
+      {
+        "name": "Mr Kent Dewolf",
+        "title": "Senior Solutions Engineer"
+      },
+      {
+        "name": "Ms Marie Thomas",
+        "title": "Software Engineer"
+      },
+      {
+        "name": "Vern R Marschke",
+        "title": "Officer"
+      },
+      {
+        "name": "Mr Wes Williams",
+        "title": "Director of R & D"
+      }
+    ]
+  },
+  {
+    "name": "LYNUXWORKS, INCORPORATED",
+    "state": "CA",
+    "year_incorporated": "2001",
+    "nace": "5829",
+    "employees": "75",
+    "revenue_usd": 2070000,
+    "pl_before_tax": null,
+    "total_assets": null,
+    "equity": null,
+    "website": "www.lynuxworks.com",
+    "description": "Engaged in the design and development of real-time operating systems (RTOS) and virtualization systems for safety and security applications",
+    "contacts": [
+      {
+        "name": "Ms Inder Mohan Singh",
+        "title": "Chairman"
+      },
+      {
+        "name": "Mr Gurjot Singh",
+        "title": "President & Chief Executive Officer"
+      },
+      {
+        "name": "Ms Sophia Markin",
+        "title": "Accountant"
+      },
+      {
+        "name": "Mr Mark Baker",
+        "title": "Vice President - WW Sales"
+      },
+      {
+        "name": "Day Robert",
+        "title": "Vice President - Marketing"
+      },
+      {
+        "name": "Mr Arun Subbarao",
+        "title": "Vice President - Engineering"
+      },
+      {
+        "name": "Mr Yuri Bakalov",
+        "title": "Software Engineer"
+      },
+      {
+        "name": "Mr Steve Bartolomei",
+        "title": "Architect"
+      }
+    ]
+  },
+  {
+    "name": "MICROVISION DEVELOPMENT INC",
+    "state": "CA",
+    "year_incorporated": "1992",
+    "nace": "5829",
+    "employees": "23",
+    "revenue_usd": 2070000,
+    "pl_before_tax": null,
+    "total_assets": null,
+    "equity": null,
+    "website": "www.mvd.com",
+    "description": "Engaged in computer software publishing, and publishing and reproduction; Operates as a software publisher",
+    "contacts": [
+      {
+        "name": "Mr Pete Calkins",
+        "title": "Software Developer / Quality Assurance Manager"
+      }
+    ]
+  },
+  {
+    "name": "PICTRONICS CORPORATION",
+    "state": "CA",
+    "year_incorporated": "1999",
+    "nace": "5829",
+    "employees": "12",
+    "revenue_usd": 2070000,
+    "pl_before_tax": null,
+    "total_assets": null,
+    "equity": null,
+    "website": "www.pictron.com",
+    "description": null,
+    "contacts": []
+  },
+  {
+    "name": "SWTCH ENERGY INC.",
+    "state": "NY",
+    "year_incorporated": "2022",
+    "nace": "5829",
+    "employees": "16",
+    "revenue_usd": 2070000,
+    "pl_before_tax": null,
+    "total_assets": null,
+    "equity": null,
+    "website": "swtchenergy.com",
+    "description": null,
+    "contacts": [
+      {
+        "name": "Ms Jenny Kang",
+        "title": "Agent"
+      }
+    ]
+  },
+  {
+    "name": "KABIRA TECHNOLOGIES INC",
+    "state": "CA",
+    "year_incorporated": "2001",
+    "nace": "5829",
+    "employees": "140",
+    "revenue_usd": 2070000,
+    "pl_before_tax": null,
+    "total_assets": null,
+    "equity": null,
+    "website": "kairostech.com",
+    "description": "Engaged in the provision of transaction processing software for enterprises",
+    "contacts": [
+      {
+        "name": "Mr Vivek Yeshwant Ranadive",
+        "title": "President"
+      },
+      {
+        "name": "Mr Paul Sutton",
+        "title": "President"
+      },
+      {
+        "name": "Mr Dirk Epperson",
+        "title": "Vice President"
+      },
+      {
+        "name": "Mr William Robert Hughes",
+        "title": "Secretary"
+      },
+      {
+        "name": "Mr Gregory Loren Straughn",
+        "title": "Secretary"
+      },
+      {
+        "name": "Ms Laura Ann Malinasky",
+        "title": "Assistant Secretary"
+      },
+      {
+        "name": "Mr Sydney Lisa Carey",
+        "title": "Treasurer"
+      }
+    ]
+  },
+  {
+    "name": "OPEN SOURCE APPLICATIONS FOUNDATION",
+    "state": "CA",
+    "year_incorporated": "2001",
+    "nace": "5829",
+    "employees": "40",
+    "revenue_usd": 2070000,
+    "pl_before_tax": null,
+    "total_assets": null,
+    "equity": null,
+    "website": "aosabook.org",
+    "description": null,
+    "contacts": []
+  },
+  {
+    "name": "THINKFREE INC",
+    "state": "CA",
+    "year_incorporated": "2005",
+    "nace": "5829",
+    "employees": "100",
+    "revenue_usd": 2070000,
+    "pl_before_tax": null,
+    "total_assets": null,
+    "equity": null,
+    "website": "www.office.hancom.com",
+    "description": "Engaged in offering professional-grade desktop productivity tools",
+    "contacts": [
+      {
+        "name": "Mr Edward Coloma",
+        "title": "Business Development"
+      }
+    ]
+  },
+  {
+    "name": "RECOMMIND, INC.",
+    "state": "CA",
+    "year_incorporated": "2002",
+    "nace": "5829",
+    "employees": "110",
+    "revenue_usd": 2070000,
+    "pl_before_tax": null,
+    "total_assets": null,
+    "equity": null,
+    "website": "www.recommind.com",
+    "description": "Engaged in the development and provision of end-to-end eDiscovery, enterprise search and automatic categorization software",
+    "contacts": []
+  }
+]

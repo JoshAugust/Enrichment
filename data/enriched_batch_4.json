@@ -1,0 +1,777 @@
+[
+  {
+    "company_name": "EASTGROUP PROPERTIES INC",
+    "state": "TX",
+    "industry": "Real Estate (Industrial REIT)",
+    "founded": "1969",
+    "employees": 18,
+    "revenue_usd_000s": 26400,
+    "website": "https://www.eastgroup.net",
+    "website_verified": true,
+    "website_note": "Active site confirmed. Note: original record lists TX; EastGroup is headquartered in Ridgeland, MS with major TX operations. Founded year in source was '2010' which appears incorrect — company history traces to 1969.",
+    "description": "EastGroup Properties, Inc. (NYSE: EGP) is a self-administered equity real estate investment trust (REIT) focused on the development, acquisition and operation of industrial/distribution properties in high-growth Sunbelt markets across the United States, emphasizing Texas, Florida, California, Arizona and North Carolina. Portfolio includes approximately 65.1 million square feet.",
+    "description_source": "https://eastgroup.net/about/",
+    "contacts": [
+      {
+        "name": "Christopher Joseph Barre",
+        "title": "General Partner",
+        "source_url": "https://www.eastgroup.net",
+        "linkedin_url": null,
+        "is_original": true
+      },
+      {
+        "name": "Marshall Loeb",
+        "title": "Chief Executive Officer",
+        "source_url": "https://www.prnewswire.com/news-releases/eastgroup-properties-announces-leadership-promotions-302643889.html",
+        "linkedin_url": null,
+        "is_original": false
+      },
+      {
+        "name": "Reid Dunbar",
+        "title": "President",
+        "source_url": "https://www.prnewswire.com/news-releases/eastgroup-properties-announces-leadership-promotions-302643889.html",
+        "linkedin_url": null,
+        "is_original": false
+      },
+      {
+        "name": "Staci Tyler",
+        "title": "Chief Financial Officer and Treasurer",
+        "source_url": "https://www.prnewswire.com/news-releases/eastgroup-properties-announces-leadership-promotions-302643889.html",
+        "linkedin_url": null,
+        "is_original": false
+      },
+      {
+        "name": "Brent Wood",
+        "title": "Chief Operating Officer",
+        "source_url": "https://www.prnewswire.com/news-releases/eastgroup-properties-announces-leadership-promotions-302643889.html",
+        "linkedin_url": null,
+        "is_original": false
+      }
+    ],
+    "recent_news": "December 2025: Major leadership promotions effective Jan 1, 2026 — new President (Reid Dunbar), CFO (Staci Tyler), COO (Brent Wood). In 2024, acquired six properties totaling 2.47M sq ft for ~$404M including assets in Atlanta and Dallas. In 2025, acquired 4 properties for ~$262M and started construction on 7 new development projects. Raised quarterly dividend 10.7% to $1.55/share. Portfolio at 95.9% average occupancy.",
+    "news_source_url": "https://www.prnewswire.com/news-releases/eastgroup-properties-announces-fourth-quarter-and-full-year-2025-results-302679312.html",
+    "verification_status": "Unverified",
+    "verification_notes": "Original contact 'Christopher Joseph Barre' listed as 'General Partner' — this title does not match EastGroup's REIT corporate structure (C-suite executives, not general partners). Could not find this name in publicly available executive data for EastGroup. Founded year '2010' in source is incorrect; company traces to 1969. Employee count of 18 seems low for a mid-cap REIT.",
+    "data_quality_score": 5,
+    "enrichment_notes": "EastGroup Properties is a publicly traded REIT (NYSE: EGP), S&P Mid-Cap 400 member. Extensive public data available. The 'TX' state likely refers to a Texas subsidiary or regional office. The original contact name/title warrant scrutiny."
+  },
+  {
+    "company_name": "EASTGROUP PROPERTIES INC",
+    "state": null,
+    "industry": "Unknown",
+    "founded": null,
+    "employees": null,
+    "revenue_usd_000s": null,
+    "website": "https://eastgroup.net",
+    "website_verified": true,
+    "website_note": "Alternate URL (non-www) for EastGroup Properties — same active site.",
+    "description": "Duplicate/alternate URL record for EastGroup Properties, Inc. EastGroup is a self-administered equity REIT focused on industrial property development and operation in Sunbelt markets (NYSE: EGP).",
+    "description_source": "https://eastgroup.net/about/",
+    "contacts": [
+      {
+        "name": "Ms Edna Range",
+        "title": "Accounts Payable Specialist",
+        "source_url": "https://eastgroup.net",
+        "linkedin_url": null,
+        "is_original": true
+      }
+    ],
+    "recent_news": "See primary EastGroup Properties record. Same company — alternate URL entry.",
+    "news_source_url": "https://eastgroup.net/",
+    "verification_status": "Unverified",
+    "verification_notes": "Blank Company Name entry — alternate URL for EastGroup Properties. Contact 'Edna Range, Accounts Payable Specialist' not independently verifiable from public sources but plausible as an internal finance contact.",
+    "data_quality_score": 2,
+    "enrichment_notes": "Secondary record for eastgroup.net vs www.eastgroup.net — same company. No standalone enrichment data available beyond what's in the primary record."
+  },
+  {
+    "company_name": "MARATHON MAIL SERVICE, INC.",
+    "state": "WI",
+    "industry": "Road Freight / Postal Transportation",
+    "founded": "1969",
+    "employees": 41,
+    "revenue_usd_000s": 26400,
+    "website": "https://drivemarathonmail.com",
+    "website_verified": true,
+    "website_note": "Active site confirmed at drivemarathonmail.com; About and Contact pages indexed in multiple databases.",
+    "description": "Marathon Mail Service, Inc. is an active interstate freight carrier based in Wausau, Wisconsin, providing superior mail transportation and delivery services to the United States Postal Service, with terminals centrally located in Wausau and Madison, Wisconsin. Founded in 1969 by Gary and Louise Neidert.",
+    "description_source": "https://drivemarathonmail.com/about/",
+    "contacts": [
+      {
+        "name": "Mr Tim Plautz",
+        "title": "No specific function",
+        "source_url": "https://drivemarathonmail.com",
+        "linkedin_url": null,
+        "is_original": true
+      },
+      {
+        "name": "Gary J. Neidert",
+        "title": "President / Founder",
+        "source_url": "https://drivemarathonmail.com/about/",
+        "linkedin_url": "https://www.linkedin.com/company/marathon-mail-service-inc",
+        "is_original": false
+      }
+    ],
+    "recent_news": "No significant news found for 2024-2025. Company continues to operate as an active USPS mail transportation contractor in Wisconsin (USDOT# 184033). Actively recruiting local truck drivers with competitive benefits.",
+    "news_source_url": "https://drivemarathonmail.com/",
+    "verification_status": "Unverified",
+    "verification_notes": "Original contact 'Tim Plautz' has no title, making verification difficult. Publicly identified president/founder is Gary J. Neidert. Founded year 1969 confirmed. Website confirmed active.",
+    "data_quality_score": 3,
+    "enrichment_notes": "Privately held small carrier company. Limited public executive data. Company address: 1205 West St, Wausau, WI 54401. USDOT# 184033 confirms active carrier. Started in 1969 by Gary and Louise Neidert."
+  },
+  {
+    "company_name": "MARATHON MAIL SERVICE, INC.",
+    "state": null,
+    "industry": "Unknown",
+    "founded": null,
+    "employees": null,
+    "revenue_usd_000s": null,
+    "website": "https://www.drivemarathonmail.com",
+    "website_verified": true,
+    "website_note": "Alternate URL (www subdomain) for Marathon Mail Service — confirmed active, same site.",
+    "description": "Duplicate/alternate URL record for Marathon Mail Service, Inc. See primary record. Marathon Mail Service is a USPS freight carrier based in Wausau, Wisconsin.",
+    "description_source": "https://drivemarathonmail.com/about/",
+    "contacts": [],
+    "recent_news": "See primary Marathon Mail Service record.",
+    "news_source_url": null,
+    "verification_status": "Unverified",
+    "verification_notes": "Blank Company Name entry — this is an alternate URL entry for Marathon Mail Service. No independent data.",
+    "data_quality_score": 1,
+    "enrichment_notes": "Secondary record for www.drivemarathonmail.com vs drivemarathonmail.com — same company. No additional standalone data available."
+  },
+  {
+    "company_name": "CARLISLE COUNTY BOARD OF EDUCATION",
+    "state": "KY",
+    "industry": "Pre-primary / K-12 Education",
+    "founded": "1900",
+    "employees": 20,
+    "revenue_usd_000s": 26400,
+    "website": "https://www.carlisle.kyschools.us",
+    "website_verified": true,
+    "website_note": "Active site confirmed. Current primary URL is www.carlisle.kyschools.us. Older URL www.carlisle.k12.ky.us also active but secondary.",
+    "description": "Carlisle County Board of Education (Carlisle County Schools) is a public K-12 school district in Bardwell, Kentucky, serving approximately 738 students across three schools (elementary, middle, and high school) from pre-K through 12th grade. Address: 4557 State Route 1377, Bardwell, KY 42023.",
+    "description_source": "https://www.carlisle.kyschools.us/about-our-district/about-our-district",
+    "contacts": [
+      {
+        "name": "Ms Margaret Wilson",
+        "title": "Technology Director",
+        "source_url": "http://www.carlisle.k12.ky.us/districtboardEd.aspx",
+        "linkedin_url": null,
+        "is_original": true
+      },
+      {
+        "name": "Tom Radivonyk",
+        "title": "Superintendent",
+        "source_url": "https://www.kentuckyteacher.org/features/2024/10/carlisle-county-superintendent-hopes-to-create-a-premier-culture-in-the-district/",
+        "linkedin_url": null,
+        "is_original": false
+      },
+      {
+        "name": "Ms Rachel Bowles",
+        "title": "Health Insurance Coordinator",
+        "source_url": "https://www.carlisle.kyschools.us",
+        "linkedin_url": null,
+        "is_original": false
+      }
+    ],
+    "recent_news": "July 2024: Tom Radivonyk appointed new Superintendent (previously principal of Lyon County High School). 2024-2025 school year serving 738 students with 28% reading proficiency at elementary level. District implementing 2024-2025 Comprehensive District Improvement Plan.",
+    "news_source_url": "https://www.kentuckyteacher.org/features/2024/10/carlisle-county-superintendent-hopes-to-create-a-premier-culture-in-the-district/",
+    "verification_status": "Verified",
+    "verification_notes": "Margaret Wilson as Technology Director is consistent with a small school district structure. Website confirmed active. Rachel Bowles as Health Insurance Coordinator from second record is plausible for district HR staff. New superintendent Tom Radivonyk verified via Kentucky Teacher news.",
+    "data_quality_score": 4,
+    "enrichment_notes": "Small rural school district with ~738 students. The dataset also had a separate entry for Rachel Bowles (Health Insurance Coordinator) at the alternate URL carlisle.kyschools.us — merged into this record. New superintendent appointment in July 2024 is key news."
+  },
+  {
+    "company_name": "CARLISLE COUNTY BOARD OF EDUCATION",
+    "state": null,
+    "industry": "Unknown",
+    "founded": null,
+    "employees": null,
+    "revenue_usd_000s": null,
+    "website": "https://www.carlisle.kyschools.us",
+    "website_verified": true,
+    "website_note": "Alternate URL entry for Carlisle County Schools — this is the current primary active website for the district.",
+    "description": "Duplicate/alternate URL record for Carlisle County Board of Education. The district serves ~738 students in Bardwell, KY across three schools. See primary record.",
+    "description_source": "https://www.carlisle.kyschools.us/about-our-district/about-our-district",
+    "contacts": [
+      {
+        "name": "Ms Rachel Bowles",
+        "title": "Health Insurance Coordinator",
+        "source_url": "https://www.carlisle.kyschools.us",
+        "linkedin_url": null,
+        "is_original": true
+      }
+    ],
+    "recent_news": "See primary Carlisle County Board of Education record.",
+    "news_source_url": "https://www.carlisle.kyschools.us/",
+    "verification_status": "Verified",
+    "verification_notes": "Second entry in dataset for Carlisle County Schools with alternate URL. Rachel Bowles as Health Insurance Coordinator is consistent with district HR staff. Website active and confirmed.",
+    "data_quality_score": 2,
+    "enrichment_notes": "This secondary entry uses the current district URL (carlisle.kyschools.us) while the primary entry used the older URL (carlisle.k12.ky.us). Both point to the same institution."
+  },
+  {
+    "company_name": "SOUTH BIG HORN COUNTY HOSPITAL DISTRICT",
+    "state": "WY",
+    "industry": "Hospital Activities / Critical Access Hospital",
+    "founded": "2021",
+    "employees": 30,
+    "revenue_usd_000s": 26400,
+    "website": "https://www.trhealth.com",
+    "website_verified": true,
+    "website_note": "Active site confirmed at trhealth.com. Note: the hospital has rebranded as 'Three Rivers Health' — trhealth.com is the current active website.",
+    "description": "South Big Horn County Hospital District (rebranded as Three Rivers Health) is a critical access hospital located at 388 South US Highway 20, Basin, WY 82410, providing emergency room services, walk-in clinic, hospital care, and nursing home services to the Big Horn Basin community in Wyoming.",
+    "description_source": "https://www.trhealth.com/",
+    "contacts": [
+      {
+        "name": "Mr Joel Jackson",
+        "title": "Chief Executive Officer",
+        "source_url": "https://www.trhealth.com",
+        "linkedin_url": null,
+        "is_original": true
+      },
+      {
+        "name": "Tadd Greenfield MHA",
+        "title": "Chief Executive Officer",
+        "source_url": "http://www.southbighornhospital.com/getpage.php?name=contact",
+        "linkedin_url": null,
+        "is_original": false
+      },
+      {
+        "name": "Linda Walker BSN RN",
+        "title": "Chief Nursing Officer",
+        "source_url": "http://www.southbighornhospital.com/getpage.php?name=contact",
+        "linkedin_url": null,
+        "is_original": false
+      },
+      {
+        "name": "Susan Novak",
+        "title": "Chief Financial Officer",
+        "source_url": "http://www.southbighornhospital.com/getpage.php?name=contact",
+        "linkedin_url": null,
+        "is_original": false
+      },
+      {
+        "name": "Tamera Sawyer",
+        "title": "Director of Human Resources, Medical Staff Credentialing and Corporate Compliance Officer",
+        "source_url": "http://www.southbighornhospital.com/getpage.php?name=contact",
+        "linkedin_url": null,
+        "is_original": false
+      }
+    ],
+    "recent_news": "November 2024: Three Rivers Health honored as Wyoming's 'Community Star' on the NRHD website PowerOfRural.org. Mobile MRI services now available at the facility. The Big Horn County Community Health Needs Assessment (CHNA) completed and implementation plan underway.",
+    "news_source_url": "https://www.basinrepublican-rustler.com/content/three-rivers-health-honored-wyoming%E2%80%99s-%E2%80%98community-star%E2%80%99",
+    "verification_status": "Discrepancy",
+    "verification_notes": "Discrepancy: Original contact 'Joel Jackson' listed as CEO but publicly available contact info shows 'Tadd Greenfield MHA' as CEO. This may indicate a leadership change. The original website listed was trhealth.com which is correct for the rebranded 'Three Rivers Health'. Founded year '2021' seems incorrect for a hospital district — it may refer to a reorganization year.",
+    "data_quality_score": 5,
+    "enrichment_notes": "Hospital has rebranded from South Big Horn County Hospital District to Three Rivers Health. Located in Basin, WY. Phone: (307) 568-3311. The original listed CEO (Joel Jackson) appears to be outdated — current CEO per contact page appears to be Tadd Greenfield. Founded date of 2021 in the original record is suspect; the hospital has been in operation much longer."
+  },
+  {
+    "company_name": "SOUTH BIG HORN COUNTY HOSPITAL DISTRICT",
+    "state": null,
+    "industry": "Unknown",
+    "founded": null,
+    "employees": null,
+    "revenue_usd_000s": null,
+    "website": "https://www.southbighornhospital.com",
+    "website_verified": true,
+    "website_note": "The old southbighornhospital.com site appears active but the hospital now primarily operates under trhealth.com (Three Rivers Health). Both URLs functional.",
+    "description": "Duplicate/alternate URL entry for South Big Horn County Hospital District (now Three Rivers Health). See primary record. Critical access hospital in Basin, Wyoming.",
+    "description_source": "http://www.southbighornhospital.com/",
+    "contacts": [
+      {
+        "name": "Jackie Claudson",
+        "title": "Administrator",
+        "source_url": "http://www.southbighornhospital.com/getpage.php?name=contact",
+        "linkedin_url": null,
+        "is_original": true
+      }
+    ],
+    "recent_news": "See primary South Big Horn County Hospital District record.",
+    "news_source_url": "https://www.trhealth.com/",
+    "verification_status": "Unverified",
+    "verification_notes": "Second entry in dataset with alternate old URL. Jackie Claudson listed as Administrator could not be independently confirmed from recent sources — may be outdated.",
+    "data_quality_score": 2,
+    "enrichment_notes": "Secondary entry using older southbighornhospital.com URL. Hospital has rebranded to Three Rivers Health (trhealth.com). Administrator contact may be outdated."
+  },
+  {
+    "company_name": "R. UDELSON, INC.",
+    "state": "FL",
+    "industry": "Construction Equipment Rental (NACE 7732)",
+    "founded": "1920",
+    "employees": 20,
+    "revenue_usd_000s": 26400,
+    "website": "https://www.powertrac.com",
+    "website_verified": true,
+    "website_note": "Active site confirmed. R. Udelson, Inc. operates as PowerTrac Machinery, a wholly owned subsidiary. Website www.powertrac.com is the company's active web presence.",
+    "description": "R. Udelson, Inc. (operating as PowerTrac Machinery) is a 4th generation family-owned heavy equipment dealership based in Miami, Florida, established in 1920. The company buys, sells, and rents heavy earthmoving and construction machinery including excavators, dozers, loaders, and compactors, with over 300 machines in stock.",
+    "description_source": "https://www.powertrac.com/about-us.htm",
+    "contacts": [
+      {
+        "name": "Irrevocable Udelson",
+        "title": "President",
+        "source_url": "https://www.powertrac.com",
+        "linkedin_url": null,
+        "is_original": true
+      },
+      {
+        "name": "Ronald Udelson",
+        "title": "President",
+        "source_url": "https://www.zoominfo.com/c/powertrac-machinery/40945199",
+        "linkedin_url": null,
+        "is_original": false
+      },
+      {
+        "name": "Ryan Udelson",
+        "title": "Vice President / Manager",
+        "source_url": "https://www.linkedin.com/in/ryan-udelson-a0a2b081/",
+        "linkedin_url": "https://www.linkedin.com/in/ryan-udelson-a0a2b081/",
+        "is_original": false
+      },
+      {
+        "name": "Robert Udelson",
+        "title": "Vice President",
+        "source_url": "https://www.zoominfo.com/c/powertrac-machinery/40945199",
+        "linkedin_url": null,
+        "is_original": false
+      }
+    ],
+    "recent_news": "No significant news found for 2024-2025. Company is actively operating. In 2021, Ryan Udelson (VP) provided equipment to assist in Surfside/Champlain Towers South collapse response. Annual revenue estimated at approximately $7 million (2025 estimate per ZoomInfo).",
+    "news_source_url": "https://www.forconstructionpros.com/business/article/21821355/national-demolition-association-demolition-contractors-earn-first-responder-title-at-surfside-collapse",
+    "verification_status": "Discrepancy",
+    "verification_notes": "Discrepancy: Original contact name is listed as 'Irrevocable Udelson' with title 'President' — 'Irrevocable' is not a first name; this appears to be a data entry error (possibly from a legal/trust document). The actual family members running the company are Ronald, Ryan, and Robert Udelson. Founded year 1920 confirmed.",
+    "data_quality_score": 4,
+    "enrichment_notes": "The contact name 'Irrevocable Udelson' is almost certainly a data artifact from a trust or legal entity name (e.g., 'Irrevocable Trust'). Family-run heavy equipment business in Miami. Company address: 7181 NW 77 Avenue, Miami, FL 33166. Phone: (305) 819-3700."
+  },
+  {
+    "company_name": "DAVID BEAR, INC.",
+    "state": "IA",
+    "industry": "Building Finishing / Structural Steel Fabrication",
+    "founded": "2009",
+    "employees": 20,
+    "revenue_usd_000s": 26400,
+    "website": "https://www.davidbearinc.com",
+    "website_verified": true,
+    "website_note": "Active site confirmed at davidbearinc.com with About and Team pages indexed.",
+    "description": "David Bear, Inc. is an AISC Certified Fabricator based in Urbandale, Iowa, providing structural steel fabrication and welding services for construction projects. The company draws on over 150 years of combined experience and is affiliated with Trinity Fabricators.",
+    "description_source": "https://www.davidbearinc.com/about",
+    "contacts": [
+      {
+        "name": "Mr Michael J. Verdon",
+        "title": "President",
+        "source_url": "https://www.davidbearinc.com/meet-the-team",
+        "linkedin_url": null,
+        "is_original": true
+      },
+      {
+        "name": "Benjamin Verdon",
+        "title": "Vice President",
+        "source_url": "https://www.davidbearinc.com/meet-the-team",
+        "linkedin_url": null,
+        "is_original": false
+      }
+    ],
+    "recent_news": "No significant news found for 2024-2025. David Bear Inc. operates as part of/affiliated with Trinity Fabricators. The company acquired David Bear Inc. in 2009. Operations continue in Urbandale, IA.",
+    "news_source_url": "https://www.iowamfg.com/features/trinity-fabricators-an-underdog-on-the-rise/",
+    "verification_status": "Verified",
+    "verification_notes": "Original contact 'Michael J. Verdon, President' confirmed on company website meet-the-team page. Founded year in original record was '39882' (likely an Excel date serial — approximately 2009), which aligns with Trinity Fabricators acquiring David Bear Inc. in 2009.",
+    "data_quality_score": 4,
+    "enrichment_notes": "The 'Founded' value of 39882 in the original JSON is an Excel date serial number — converting it: 39882 days from Jan 1, 1900 ≈ September 2009. This aligns with Trinity Fabricators' acquisition. Company address: Urbandale, IA. Phone: (515) 497-4927. AISC certified fabricator."
+  },
+  {
+    "company_name": "CEDAR COVE, INC.",
+    "state": "FL",
+    "industry": "Roofing",
+    "founded": "1998",
+    "employees": 44,
+    "revenue_usd_000s": 26400,
+    "website": "https://www.cedarcoveroofing.com",
+    "website_verified": true,
+    "website_note": "Active site confirmed at cedarcoveroofing.com. Note: There are two related entities — Cedar Cove Inc (commercial) and Cedar Cove Roofing LLC (residential), both at same address in Lecanto, FL.",
+    "description": "Cedar Cove, Inc. is a family-owned roofing company based in Lecanto, Citrus County, Florida, established in 1998. Operating through Cedar Cove Roofing LLC (residential) and Cedar Cove Inc (commercial/low slope), the company provides roofing installation, repair, and related services across Citrus County and surrounding areas. GAF certified contractor and BBB accredited.",
+    "description_source": "https://cedarcoveroofing.com/",
+    "contacts": [
+      {
+        "name": "Mr Robert S. Bishop",
+        "title": "Dp / Officer",
+        "source_url": "https://cedarcoveinc.com",
+        "linkedin_url": null,
+        "is_original": true
+      },
+      {
+        "name": "Bobby Casey",
+        "title": "President (Cedar Cove Roofing LLC)",
+        "source_url": "https://www.bbb.org/us/fl/lecanto/profile/roofing-contractors/cedar-cove-roofing-llc-0733-90413066",
+        "linkedin_url": null,
+        "is_original": false
+      },
+      {
+        "name": "Rebekah Paradiso",
+        "title": "Vice President (Cedar Cove Roofing LLC)",
+        "source_url": "https://www.bbb.org/us/fl/lecanto/profile/roofing-contractors/cedar-cove-roofing-llc-0733-90413066",
+        "linkedin_url": null,
+        "is_original": false
+      },
+      {
+        "name": "Larry L. Bishop",
+        "title": "Vice President/Director (Cedar Cove Inc)",
+        "source_url": "https://www.floridaroof.com/CEDAR-COVE-INC-10-1170.html",
+        "linkedin_url": null,
+        "is_original": false
+      },
+      {
+        "name": "Donna A. Melvin",
+        "title": "Secretary/Treasurer (Cedar Cove Inc)",
+        "source_url": "https://www.floridaroof.com/CEDAR-COVE-INC-10-1170.html",
+        "linkedin_url": null,
+        "is_original": false
+      }
+    ],
+    "recent_news": "2024-2025: Company actively receiving positive customer reviews in Citrus County area. BBB Accredited since 2/8/2023. Recognized as Nextdoor Neighborhood Favorite in 2021, 2022, and 2023. No major news announcements or expansions found.",
+    "news_source_url": "https://www.bbb.org/us/fl/lecanto/profile/roofing-contractors/cedar-cove-roofing-llc-0733-90413066",
+    "verification_status": "Verified",
+    "verification_notes": "Robert S. Bishop listed in Florida roofing directory as VP/Director of Cedar Cove Inc — consistent with original record. 'Dp' title may abbreviate 'Director/Partner'. Founded year 1998 confirmed via multiple sources. Website active.",
+    "data_quality_score": 4,
+    "enrichment_notes": "Two related entities share same address at 221 Gulf to Lake Highway, Lecanto, FL 34461 and phone (352) 564-8319. Cedar Cove Inc handles low slope/commercial; Cedar Cove Roofing LLC handles residential. The original dataset also had a second entry for this company (cedarcoveinc.com URL) — combined here."
+  },
+  {
+    "company_name": "CEDAR COVE, INC.",
+    "state": null,
+    "industry": "Unknown",
+    "founded": null,
+    "employees": null,
+    "revenue_usd_000s": null,
+    "website": "https://cedarcoveinc.com",
+    "website_verified": true,
+    "website_note": "Alternate URL for Cedar Cove Inc — confirmed active at cedarcoveinc.com.",
+    "description": "Duplicate/alternate URL record for Cedar Cove, Inc. Same roofing company in Lecanto, FL. See primary record.",
+    "description_source": "https://cedarcoveinc.com/",
+    "contacts": [
+      {
+        "name": "Mr Robert S. Bishop",
+        "title": "Officer",
+        "source_url": "https://cedarcoveinc.com",
+        "linkedin_url": null,
+        "is_original": true
+      }
+    ],
+    "recent_news": "See primary Cedar Cove Inc record.",
+    "news_source_url": null,
+    "verification_status": "Verified",
+    "verification_notes": "Second entry in dataset for Cedar Cove using the cedarcoveinc.com URL. Contact Robert S. Bishop consistent with primary record (same person, same company).",
+    "data_quality_score": 2,
+    "enrichment_notes": "This entry's website cedarcoveinc.com is the commercial arm's URL; cedarcoveroofing.com is the residential arm. Both operated by the same family."
+  },
+  {
+    "company_name": "MONTPELIER SCHOOL DISTRICT 45",
+    "state": "VT",
+    "industry": "Pre-primary / K-12 Education",
+    "founded": null,
+    "employees": 18,
+    "revenue_usd_000s": 26400,
+    "website": "https://www.mrpsvt.org",
+    "website_verified": true,
+    "website_note": "Active site confirmed. The district is officially named Montpelier Roxbury Public Schools (MRPS) — mrpsvt.org is the current active website.",
+    "description": "Montpelier Roxbury Public Schools (MRPS) is a public K-12 school district in Montpelier, Vermont, comprising Union Elementary School, Main Street Middle School, and Montpelier High School. The district serves students from Montpelier and Roxbury, Vermont, with Montpelier High School enrolling approximately 400 students.",
+    "description_source": "https://www.mrpsvt.org/district",
+    "contacts": [
+      {
+        "name": "Libby Bonesteel",
+        "title": "Superintendent",
+        "source_url": "https://www.mrpsvt.org/departments/superintendent",
+        "linkedin_url": null,
+        "is_original": false
+      },
+      {
+        "name": "Mia Moore",
+        "title": "Board of School Directors Member",
+        "source_url": "https://www.mrpsvt.org/members",
+        "linkedin_url": null,
+        "is_original": false
+      },
+      {
+        "name": "Jill Remick",
+        "title": "Board of School Directors Member",
+        "source_url": "https://www.mrpsvt.org/members",
+        "linkedin_url": null,
+        "is_original": false
+      }
+    ],
+    "recent_news": "2024: Town of Roxbury sued the district over budget election law violation; board voted to close Roxbury Village School and transfer ~40 students to Union Elementary in Montpelier, saving over $1 million. As of September 2024, board considering future uses for the Roxbury Village School building including magnet school, mental health center, or community center.",
+    "news_source_url": "https://vtdigger.org/2024/09/12/board-considers-what-to-do-with-roxbury-village-school-building/",
+    "verification_status": "Unverified",
+    "verification_notes": "No original contact was listed in the source data. The district name 'Montpelier School District 45' appears to be an older/alternate name — the current official name is Montpelier Roxbury Public Schools (MRPS). Website confirmed active.",
+    "data_quality_score": 4,
+    "enrichment_notes": "District contact: (802) 223-9796. Address: 5 High School Drive Unit #1, Montpelier, VT 05602. The name 'School District 45' may be an older administrative designation. Significant 2024 news regarding Roxbury school closure and related lawsuit."
+  },
+  {
+    "company_name": "LA FOLLETTE MEDICAL CENTER",
+    "state": "TN",
+    "industry": "Hospital Activities",
+    "founded": "1956",
+    "employees": 25,
+    "revenue_usd_000s": 26400,
+    "website": "https://www.tennovahealthcare.com",
+    "website_verified": false,
+    "website_note": "The listed website www.tennovahealthcare.com redirects broadly to Tennova system. The specific La Follette Medical Center URL is www.tennovalafollette.com which is confirmed active.",
+    "description": "Tennova Healthcare - LaFollette Medical Center is an acute care hospital located at 923 E Central Ave, LaFollette, TN 37766, operating as part of the Tennova Healthcare system (a Community Health Systems company). The facility serves Campbell County and surrounding areas with emergency, surgical, imaging, and primary care services.",
+    "description_source": "https://www.tennovalafollette.com/hospital-about-us",
+    "contacts": [
+      {
+        "name": "Ms Rhonda Maynard",
+        "title": "Chief Financial Officer",
+        "source_url": "https://www.tennovahealthcare.com",
+        "linkedin_url": null,
+        "is_original": true
+      },
+      {
+        "name": "Mark Cain",
+        "title": "Chief Executive Officer",
+        "source_url": "https://www.tennovalafollette.com/",
+        "linkedin_url": null,
+        "is_original": false
+      },
+      {
+        "name": "Robert Payne",
+        "title": "Assistant Chief Financial Officer",
+        "source_url": "https://www.linkedin.com/in/robert-payne-85983353/",
+        "linkedin_url": "https://www.linkedin.com/in/robert-payne-85983353/",
+        "is_original": false
+      }
+    ],
+    "recent_news": "2024: 87,000+ patient encounters with ~$46M total community impact; ~$16M in charity/uncompensated care; $1M capital projects including parking lot improvements, new ultrasound equipment, pneumatic tube system; added orthopedic service line; new primary care provider Daryn Nichole Hatmaker FNP joined August 2024. 2025: 92,000+ patient encounters, $70M+ community contribution; recognized by Tennessee Hospital Association for Zero Harm achievements (CLABSI, CAUTI, CDI, MRSA).",
+    "news_source_url": "https://www.tennovalafollette.com/",
+    "verification_status": "Unverified",
+    "verification_notes": "Original contact 'Rhonda Maynard, CFO' could not be independently confirmed from public search results. Current CEO is identified as Mark Cain. Website: the listed www.tennovahealthcare.com is the parent system site; specific facility URL is www.tennovalafollette.com.",
+    "data_quality_score": 4,
+    "enrichment_notes": "Part of Tennova Healthcare system (owned by Community Health Systems). CMS four-star rating as of May 2021. The original dataset had a second blank entry for this company with URL www.tennovalafollette.com — that entry is handled separately below."
+  },
+  {
+    "company_name": "LA FOLLETTE MEDICAL CENTER",
+    "state": null,
+    "industry": "Unknown",
+    "founded": null,
+    "employees": null,
+    "revenue_usd_000s": null,
+    "website": "https://www.tennovalafollette.com",
+    "website_verified": true,
+    "website_note": "Confirmed active. This is the primary direct URL for the La Follette Medical Center facility within the Tennova system.",
+    "description": "Duplicate/alternate URL record for La Follette Medical Center (Tennova Healthcare). See primary record. The specific facility website www.tennovalafollette.com is the correct direct URL.",
+    "description_source": "https://www.tennovalafollette.com/",
+    "contacts": [],
+    "recent_news": "See primary La Follette Medical Center record.",
+    "news_source_url": "https://www.tennovalafollette.com/",
+    "verification_status": "Verified",
+    "verification_notes": "Second entry in dataset — blank Company Name entry with the specific facility URL www.tennovalafollette.com. This URL is confirmed as the correct active website for the facility.",
+    "data_quality_score": 1,
+    "enrichment_notes": "Secondary entry for La Follette Medical Center using the specific facility website. No additional data available beyond primary record."
+  },
+  {
+    "company_name": "HEALTHY MOTHERS/HEALTHY BABIES COALITION OF PALM BEACH COUNTY, INC.",
+    "state": "FL",
+    "industry": "Other Health / Nonprofit Maternal Health",
+    "founded": "1986",
+    "employees": 16,
+    "revenue_usd_000s": 26400,
+    "website": "https://www.hmhbpbc.org",
+    "website_verified": true,
+    "website_note": "Active site confirmed at hmhbpbc.org with full service information and leadership pages.",
+    "description": "Healthy Mothers, Healthy Babies Coalition of Palm Beach County, Inc. is a nonprofit organization based in West Palm Beach, Florida, founded in 1986, dedicated to improving birth outcomes through equitable delivery of early prenatal care, education, and support for pregnant women. Services include CenteringPregnancy®, doula services, breastfeeding support, emergency pantry, and educational classes.",
+    "description_source": "https://www.hmhbpbc.org/",
+    "contacts": [
+      {
+        "name": "Michelle Gonzalez",
+        "title": "Chief Executive Officer",
+        "source_url": "https://www.linkedin.com/in/mbgonzalez/",
+        "linkedin_url": "https://www.linkedin.com/in/mbgonzalez/",
+        "is_original": false
+      },
+      {
+        "name": "Katrina Long-Robinson",
+        "title": "Board Chair",
+        "source_url": "https://www.hmhbpbc.org/leadership",
+        "linkedin_url": null,
+        "is_original": false
+      },
+      {
+        "name": "Don W. Chester",
+        "title": "Board Member (St. Mary's Medical Center)",
+        "source_url": "https://www.hmhbpbc.org/leadership",
+        "linkedin_url": null,
+        "is_original": false
+      },
+      {
+        "name": "Dr. Helena De Carvalho",
+        "title": "Board Member (FL Dept of Health, Palm Beach County)",
+        "source_url": "https://www.hmhbpbc.org/leadership",
+        "linkedin_url": null,
+        "is_original": false
+      }
+    ],
+    "recent_news": "2024: Finalist in The Palm Beach Post's 2024 Palm Beach County Community's Choice Awards. Participated in 'Birdies for Children' fundraising campaign at The Classic in The Palm Beaches 2024. The only provider of CenteringPregnancy® in Palm Beach County since 2008.",
+    "news_source_url": "https://www.hmhbpbc.org/",
+    "verification_status": "Unverified",
+    "verification_notes": "No original contact was listed in the source data. CEO Michelle Gonzalez identified via LinkedIn. Website confirmed active and matching. Founded 1986 consistent with 'since 2008' CenteringPregnancy provider claim.",
+    "data_quality_score": 4,
+    "enrichment_notes": "Nonprofit org. Phone: 561-665-4500. EIN: 59-2657051 per ProPublica. Organization provides free services to pregnant women in Palm Beach County. Strong online presence."
+  },
+  {
+    "company_name": "NOVA HEALTHCARE GROUP",
+    "state": "NV",
+    "industry": "General Medical / Home-Based Primary Care",
+    "founded": "2013",
+    "employees": 30,
+    "revenue_usd_000s": 26400,
+    "website": "https://novahealthcaregroup.com",
+    "website_verified": true,
+    "website_note": "Active site confirmed at novahealthcaregroup.com and also novahealth.vip (appears to be same or related entity).",
+    "description": "Nova Healthcare Group, LLC is a home-visiting primary care and pain management practice serving the Las Vegas Valley, Nevada, including Pahrump and Boulder City. The practice employs board-certified nurse practitioners and case management specialists, utilizing a combination of remote patient monitoring technology, telemedicine, and in-home face-to-face visits for homebound patients.",
+    "description_source": "https://novahealth.vip/about",
+    "contacts": [
+      {
+        "name": "Anneleisa Gail McDonald APRN-BC",
+        "title": "Provider / Owner",
+        "source_url": "https://npiprofile.com/npi/1548754690",
+        "linkedin_url": null,
+        "is_original": false
+      },
+      {
+        "name": "Judith L. Trevisano NP",
+        "title": "Adult Health Nurse Practitioner",
+        "source_url": "https://www.healthcare4ppl.com/medical-group/nevada/las-vegas/nova-healthcare-group-llc-2264771013.html",
+        "linkedin_url": null,
+        "is_original": false
+      }
+    ],
+    "recent_news": "No significant news found for 2024-2025. Company continues to operate as a home-visiting medical practice in Las Vegas. No major expansions or funding announcements identified.",
+    "news_source_url": "https://novahealth.vip",
+    "verification_status": "Unverified",
+    "verification_notes": "No original contact was listed in the source data. Founded year not in original record — identified as 2013 via NPI/business records. Website confirmed active. Small LLC practice with limited public executive data.",
+    "data_quality_score": 3,
+    "enrichment_notes": "Small medical practice LLC. NPI: 1548754690. Address: 6655 W Sahara Ave Ste B 200, Las Vegas, NV 89146. Phone: 702-268-8900. The 30-employee headcount from the original record seems high for this small practice — may be inaccurate."
+  },
+  {
+    "company_name": "ALIGNED ENERGY DATA CENTER",
+    "state": "VA",
+    "industry": "Data Center / IT Infrastructure (NACE 6203)",
+    "founded": null,
+    "employees": 8,
+    "revenue_usd_000s": 26400,
+    "website": "https://aligneddc.com",
+    "website_verified": true,
+    "website_note": "Active site confirmed at aligneddc.com. Note: company operates as 'Aligned Data Centers' (formerly 'Aligned Energy'). 'Aligned Energy Data Center' in the original record refers to the company's Virginia operations.",
+    "description": "Aligned Data Centers (formerly Aligned Energy) is a leading provider of hyperscale, colocation, and build-to-scale data center solutions headquartered in Dallas, Texas, with major campuses in Northern Virginia (Ashburn and Sterling). The company provides adaptive AI-ready infrastructure for cloud, enterprise, and hyperscale customers, featuring patented Delta Cube cooling technology.",
+    "description_source": "https://aligneddc.com/",
+    "contacts": [
+      {
+        "name": "Andrew Schaap",
+        "title": "Chief Executive Officer",
+        "source_url": "https://aligneddc.com/leadership/",
+        "linkedin_url": null,
+        "is_original": false
+      },
+      {
+        "name": "Jakob Carnemark",
+        "title": "Founder / Chief Technology Officer",
+        "source_url": "https://aligneddc.com/blog/aligned-energy-builds-for-scale-founder-names-andrew-schaap-ceo/",
+        "linkedin_url": null,
+        "is_original": false
+      },
+      {
+        "name": "Meghan Baivier",
+        "title": "Chief Financial Officer",
+        "source_url": "https://www.dmagazine.com/business-economy/2024/09/aligned-data-centers-makes-two-moves-in-its-c-suite-fort-worth-chamber-names-new-vp-of-marketing/",
+        "linkedin_url": null,
+        "is_original": false
+      },
+      {
+        "name": "Anubhav Raj",
+        "title": "Chief Investment Officer",
+        "source_url": "https://www.dmagazine.com/business-economy/2024/09/aligned-data-centers-makes-two-moves-in-its-c-suite-fort-worth-chamber-names-new-vp-of-marketing/",
+        "linkedin_url": null,
+        "is_original": false
+      }
+    ],
+    "recent_news": "October 2025: AIP, MGX, and BlackRock's GIP announced acquisition of all equity in Aligned Data Centers at ~$40 billion enterprise value. September 2024: Two C-suite changes — Meghan Baivier appointed CFO; Anubhav Raj moved to new Chief Investment Officer role. March 2026: Closed $2.58 billion credit facility to fuel continued U.S. expansion. Won 2024 Northern Virginia Tech Council Data Center Innovation Award.",
+    "news_source_url": "https://aligneddc.com/blog/ai-infrastructure-partnership-aip-mgx-and-blackrocks-global-infrastructure-partners-gip-to-acquire-all-equity-in-aligned-data-centers/",
+    "verification_status": "Unverified",
+    "verification_notes": "No original contact listed in source data. Company name 'Aligned Energy Data Center' appears to be an outdated/alternate name — current branding is 'Aligned Data Centers'. Employee count of 8 seems extremely low for a company with $40B enterprise value — likely refers to a specific Virginia entity/subsidiary only.",
+    "data_quality_score": 4,
+    "enrichment_notes": "Aligned Data Centers is a major hyperscale data center company. The 8-employee count and VA state designation likely refer to a specific legal entity for Virginia operations, not the full company. HQ is in Dallas, TX. Northern Virginia campuses in Ashburn and Sterling. Portfolio: 50 campuses, 5+ GW capacity."
+  },
+  {
+    "company_name": "JPI CALIFORNIA CONSTRUCTION SERVICES, L.P.",
+    "state": "TX",
+    "industry": "Building Finishing / Multifamily Construction",
+    "founded": null,
+    "employees": 15,
+    "revenue_usd_000s": 26400,
+    "website": "https://www.jpi.com",
+    "website_verified": true,
+    "website_note": "Active site confirmed at jpi.com. JPI California Construction Services is a subsidiary of JPI, a national multifamily developer/builder headquartered in Irving, TX.",
+    "description": "JPI California Construction Services, L.P. is a subsidiary of JPI, a national developer, builder, and investment manager of Class A multifamily housing assets, headquartered in Irving, Texas. JPI has delivered over 115,000 homes across 141 cities in 27 states, with active operations in California and Texas markets.",
+    "description_source": "https://www.jpi.com/what-we-do/",
+    "contacts": [
+      {
+        "name": "Mr Paytoin Mayes",
+        "title": "Chief Executive Officer",
+        "source_url": "https://www.jpi.com/our-people/payton-mayes/",
+        "linkedin_url": null,
+        "is_original": true
+      },
+      {
+        "name": "Mollie Fadule",
+        "title": "Chief Financial Officer / Chief Investment Officer",
+        "source_url": "https://www.jpi.com/our-people/",
+        "linkedin_url": null,
+        "is_original": false
+      }
+    ],
+    "recent_news": "December 2023: Sumitomo Forestry America completed acquisition of 90% stake in JPI's operating platform for up to $215M (CEO Mayes and CFO Fadule retain 10%). February 2025: Jay Parsons announced as JPI Economic Advisor. December 2025: JPI and Pinnacle Partners launched $200M Workforce Housing Fund. January 2026: Closed construction financing for Jefferson Southwest Parkway in Grand Prairie, TX. Ranked #1 fastest-growing developer and #2 fastest-growing builder in the U.S. by NMHC in 2023.",
+    "news_source_url": "https://www.prnewswire.com/news-releases/jpi-acquisition-completed-by-sumitomo-forestry-america-inc-302006276.html",
+    "verification_status": "Verified",
+    "verification_notes": "Original contact 'Paytoin Mayes, CEO' confirmed — note the name in original data has a typo ('Paytoin' instead of 'Payton'). Payton Mayes is confirmed as CEO of JPI. Website confirmed active. The entity 'JPI California Construction Services, L.P.' is a California LP registered subsidiary of the main JPI entity.",
+    "data_quality_score": 5,
+    "enrichment_notes": "JPI California Construction Services, L.P. is a subsidiary LP used for California operations. Parent company JPI is HQ'd in Irving, TX with offices in San Diego and Irvine, CA. Acquired by Sumitomo Forestry America Dec 2023. The original contact name has a typo: 'Paytoin' should be 'Payton'."
+  },
+  {
+    "company_name": "CENTERSTONE HEALTH SERVICES, INC.",
+    "state": "IN",
+    "industry": "Other Health / Behavioral Health Services",
+    "founded": "1972",
+    "employees": 3,
+    "revenue_usd_000s": 26400,
+    "website": "https://www.centerstonehealthservices.org",
+    "website_verified": true,
+    "website_note": "Active site confirmed at centerstonehealthservices.org. Note: this is the Indiana subsidiary website. Parent organization centerstone.org is also active.",
+    "description": "Centerstone Health Services, Inc. is a not-for-profit behavioral health organization in Indiana providing comprehensive mental health and substance use disorder treatments, including addiction and psychiatric treatment, children and family counseling, crisis/urgent care services, and specialized residential programs. Part of the national Centerstone organization.",
+    "description_source": "https://centerstonehealthservices.org/about-us/",
+    "contacts": [
+      {
+        "name": "Mr Richard Smock",
+        "title": "President",
+        "source_url": "https://www.centerstonehealthservices.org",
+        "linkedin_url": null,
+        "is_original": true
+      },
+      {
+        "name": "Suzanne Koesel",
+        "title": "Regional Chief Executive Officer - Indiana",
+        "source_url": "https://centerstone.org/leadership/suzanne-koesel-regional-chief-executive-officer/",
+        "linkedin_url": null,
+        "is_original": false
+      },
+      {
+        "name": "David Guth",
+        "title": "Chief Executive Officer (National)",
+        "source_url": "https://centerstone.org/about/leadership/",
+        "linkedin_url": null,
+        "is_original": false
+      }
+    ],
+    "recent_news": "January 2025: Centerstone Indiana locations including Seymour began using the CCBHC (Certified Community Behavioral Health Clinic) model. November 2025: Centerstone completed historic merger with Brightli, creating a $1B annual revenue behavioral health organization with ~10,300 staff across 360 locations — named one of the largest behavioral health transactions of 2025. 2024: Served 971 individuals in Jackson County between July 2024-June 2025.",
+    "news_source_url": "https://bhbusiness.com/2025/11/11/centerstones-ceo-elect-details-how-new-1b-nonprofit-will-lead-change-in-the-field/",
+    "verification_status": "Unverified",
+    "verification_notes": "Original contact 'Richard Smock, President' — could not independently verify this specific individual as current president of the Indiana entity via recent public sources. The founded date in original data was '26304' (an Excel date serial number — converts to approximately January 1972). Centerstone as an organization has roots going back to the 1950s-1960s in Indiana.",
+    "data_quality_score": 4,
+    "enrichment_notes": "The 'Founded' field value of 26304 in original JSON is an Excel date serial: ~January 2, 1972. Indiana operations have deep roots; the broader Centerstone organization has served Indiana since the 1950s. Employee count of 3 in original data is almost certainly wrong for a major behavioral health system. The centerstonehealthservices.org entity may be a small holding/admin entity. National organization has 10,000+ employees."
+  }
+]

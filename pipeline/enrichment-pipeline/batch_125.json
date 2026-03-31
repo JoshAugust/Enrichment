@@ -1,0 +1,944 @@
+[
+  {
+    "name": "CRICHLOW DATA SCIENCES, INC.",
+    "state": "FL",
+    "year_incorporated": "2012",
+    "nace": "5829",
+    "employees": "13",
+    "revenue_usd": 1030000,
+    "pl_before_tax": null,
+    "total_assets": null,
+    "equity": null,
+    "website": "www.thegeneralstore.com",
+    "description": "The General Store started in 1983 as a concept that all retailers could benefit from computerizing their stores. In 1985, The General Store, a complete retail management system, was introduced to the market, and Crichlow Data Sciences was born. Our first",
+    "contacts": [
+      {
+        "name": "Mr Richard H Crichlow",
+        "title": "Chairman"
+      },
+      {
+        "name": "Mr Crichlow Robert Cjr",
+        "title": "Chief Executive Officer"
+      },
+      {
+        "name": "Mr Crichlow Robert Cjr",
+        "title": "Chief Executive"
+      }
+    ]
+  },
+  {
+    "name": "NEURODIMENSION, INCORPORATED",
+    "state": "FL",
+    "year_incorporated": null,
+    "nace": "5829",
+    "employees": "13",
+    "revenue_usd": 1030000,
+    "pl_before_tax": null,
+    "total_assets": null,
+    "equity": null,
+    "website": "www.nd.com",
+    "description": "NeuroDimension, Inc. was founded in 1991 and is headquartered in Gainesville, FL. It is a software development company. The company offers software for interactive book, genetic server and genetic library, neural network, and trading solutions. Its servic",
+    "contacts": [
+      {
+        "name": "Mr Gary Geniesse",
+        "title": "President"
+      },
+      {
+        "name": "Mr Gary Lynn",
+        "title": "Chief Executive Officer"
+      },
+      {
+        "name": "Mr Gary Lynn",
+        "title": "Software Engineer"
+      },
+      {
+        "name": "Mr Steve Thompson",
+        "title": "Engineering-Technical Support"
+      }
+    ]
+  },
+  {
+    "name": "POWERCORD",
+    "state": "FL",
+    "year_incorporated": null,
+    "nace": "5829",
+    "employees": "40",
+    "revenue_usd": 1030000,
+    "pl_before_tax": null,
+    "total_assets": null,
+    "equity": null,
+    "website": "www.powerchordsystem.com",
+    "description": "PowerChord, Inc. is headquartered in Saint Petersburg, FL. The company is a provider of retail networking solutions. It provides e-marketing solutions. The company specializes in the development of online channel management software. It also offers PCI co",
+    "contacts": [
+      {
+        "name": "Mr Patrick Schunk",
+        "title": "Chairman"
+      },
+      {
+        "name": "Mr William A Volmuth",
+        "title": "President"
+      },
+      {
+        "name": "Ms Nikki Vegenski",
+        "title": "Vice President - Marketing & Strategy"
+      },
+      {
+        "name": "Ms Brigitte Hoffstetter",
+        "title": "Director-Account Service"
+      },
+      {
+        "name": "Teague Perry",
+        "title": "Director - Product Implementation"
+      }
+    ]
+  },
+  {
+    "name": "MARKET TECHNOLOGIES CORPORATION",
+    "state": "FL",
+    "year_incorporated": "1979",
+    "nace": "5829",
+    "employees": "50",
+    "revenue_usd": 1030000,
+    "pl_before_tax": null,
+    "total_assets": null,
+    "equity": null,
+    "website": "www.tradertech.com",
+    "description": "Vantagepoint AI, LLC was founded in 1979 and is headquartered in Zephyrhills, FL. It is a developer of trading software. The company offers global intermarket analysis, neural network forecasts, patent pending technology, forex, stocks and ETFs, and futur",
+    "contacts": [
+      {
+        "name": "Mr Mendelsohn Louis B",
+        "title": "Shareholder; Founder & Principal"
+      },
+      {
+        "name": "Mr Mendelsohn Louis B",
+        "title": "Ps"
+      },
+      {
+        "name": "Ms Karen Grow",
+        "title": "Manager - Accounting"
+      }
+    ]
+  },
+  {
+    "name": "DIGNITAS TECHNOLOGIES",
+    "state": "FL",
+    "year_incorporated": "2004",
+    "nace": "5829",
+    "employees": "35",
+    "revenue_usd": 1030000,
+    "pl_before_tax": null,
+    "total_assets": null,
+    "equity": null,
+    "website": "www.dignitastechnologies.com",
+    "description": "Dignitas Technologies, LLC was founded in 2004 and is headquartered in Orlando, FL. The company is a provider of support solutions for live, virtual, constructive, and gaming domains. Its services include software development, SBIR development, new busine",
+    "contacts": [
+      {
+        "name": "Ms Elizabeth Burch",
+        "title": "President & Chief Executive Officer"
+      },
+      {
+        "name": "Ms Elizabeth Burch",
+        "title": "Authorized Representative"
+      },
+      {
+        "name": "Mr Watkins John C II",
+        "title": "Founder, Co-Owner, CTO & Vice President"
+      },
+      {
+        "name": "Mr Watkins John C II",
+        "title": "Co-Owner, Chief Operating Officer, and Founder; Shareholder"
+      },
+      {
+        "name": "Ms Leanne Stanley",
+        "title": "Administrative Assistant"
+      },
+      {
+        "name": "Ms Cristina Bahr",
+        "title": "Human Resources Intern"
+      },
+      {
+        "name": "Mr Burch Bob",
+        "title": "CTO"
+      },
+      {
+        "name": "Mr Paul Dumanoir",
+        "title": "Director of Technology"
+      },
+      {
+        "name": "Mr Justin Foreman",
+        "title": "Lead Information Technology Systems Engineer"
+      },
+      {
+        "name": "Mr Marlo Verdesca",
+        "title": "Program Director"
+      },
+      {
+        "name": "Ms Katherine Dewitt",
+        "title": "Program Control Senior Manager"
+      },
+      {
+        "name": "Mr Jason Chestnut",
+        "title": "Senior Software Engineer"
+      },
+      {
+        "name": "Mr Gregory Dukstein",
+        "title": "Senior Software Engineer"
+      },
+      {
+        "name": "Ms Stephanie Encarnacion",
+        "title": "Systems / Integration & Test Engineer"
+      },
+      {
+        "name": "Mr Michael Gerlach",
+        "title": "Senior Information Technology Specialist"
+      },
+      {
+        "name": "Mr Steven Harrison",
+        "title": "Software Engineer"
+      },
+      {
+        "name": "Mr Omar Hasan",
+        "title": "Senior Software Engineer"
+      },
+      {
+        "name": "Mr Troy Hockenberry",
+        "title": "Senior Database Engineer"
+      },
+      {
+        "name": "Mr Zachary Hoyler",
+        "title": "Junior Software Engineer"
+      },
+      {
+        "name": "Mr Dartangan Jackson",
+        "title": "Software Engineer"
+      },
+      {
+        "name": "Mr David Luman",
+        "title": "Senior System & SW Engineer"
+      },
+      {
+        "name": "Mr Andrew Mendoza",
+        "title": "Junior Software Engineer"
+      },
+      {
+        "name": "Mr Jim Moerk",
+        "title": "Senior Software Engineer"
+      },
+      {
+        "name": "Mr Jeremy Richarde",
+        "title": "Junior Software Engineer"
+      },
+      {
+        "name": "Mr Gregory Lewis",
+        "title": "Cyber Security Specialist"
+      },
+      {
+        "name": "Shannon Baran",
+        "title": "Contracts Manager"
+      },
+      {
+        "name": "Shannon Baran",
+        "title": "Manager, Contracts"
+      },
+      {
+        "name": "Mr Acevedo Robert",
+        "title": "Manager"
+      },
+      {
+        "name": "Ms Kristen Marina Garcia",
+        "title": "GIS Analyst"
+      },
+      {
+        "name": "Ms Jessica Porter",
+        "title": "Junior Gis Engineer"
+      },
+      {
+        "name": "Mr Thomas Rapp",
+        "title": "Geospatial Engineer"
+      },
+      {
+        "name": "Ms Nicole Reynolds",
+        "title": "Senior GIS Analyst"
+      },
+      {
+        "name": "Casey Rogers",
+        "title": "Senior GIS Analyst"
+      },
+      {
+        "name": "Alexis Torres",
+        "title": "Graphic Design Intern"
+      },
+      {
+        "name": "Mr Emil Torres",
+        "title": "Senior Graphic Designer"
+      },
+      {
+        "name": "Mr Alberto Soto",
+        "title": "3D Modeler"
+      }
+    ]
+  },
+  {
+    "name": "CIRCUIT VISION INC.",
+    "state": "FL",
+    "year_incorporated": null,
+    "nace": "5829",
+    "employees": "24",
+    "revenue_usd": 1030000,
+    "pl_before_tax": null,
+    "total_assets": null,
+    "equity": null,
+    "website": "www.circuitvision.com",
+    "description": "Circuit Vision Inc. is headquartered in Tampa, FL. The company is a designer and developer of operation support systems software. It primarily offers CircuitVision, an operation support system featuring network inventory, circuit orders, and workflow mana",
+    "contacts": [
+      {
+        "name": "E Beegle",
+        "title": "President"
+      },
+      {
+        "name": "Mr Felix Hernandez",
+        "title": "CTO & Vice President"
+      },
+      {
+        "name": "Mr Neal Beegle",
+        "title": "Director of Operations"
+      }
+    ]
+  },
+  {
+    "name": "DS MEDIA LABS, INC.",
+    "state": "FL",
+    "year_incorporated": "2009",
+    "nace": "5829",
+    "employees": "20",
+    "revenue_usd": 1030000,
+    "pl_before_tax": null,
+    "total_assets": null,
+    "equity": null,
+    "website": "www.dsmedialabs.com",
+    "description": "DS MediaLabs was founded in 2007 and is headquartered in Ocala, FL. The company is classified as a software publisher.",
+    "contacts": [
+      {
+        "name": "Mr Michael Dasch",
+        "title": "President"
+      },
+      {
+        "name": "Mr Benjamin Sii Stahlhood II",
+        "title": "Co-Founder & Chief Executive Officer; Shareholder"
+      },
+      {
+        "name": "Mr Gary Melendez K",
+        "title": "Secretary"
+      },
+      {
+        "name": "Mr Gary Melendez K",
+        "title": "Senior Vice President, Engineering"
+      },
+      {
+        "name": "Mr Wooten Shane",
+        "title": "Chief Financial Officer"
+      },
+      {
+        "name": "Mr Duane Schor",
+        "title": "Director-ART"
+      }
+    ]
+  },
+  {
+    "name": "VSI NEARSHORE OUTSOURCING",
+    "state": "FL",
+    "year_incorporated": null,
+    "nace": "5829",
+    "employees": "219",
+    "revenue_usd": 1030000,
+    "pl_before_tax": null,
+    "total_assets": null,
+    "equity": null,
+    "website": "www.vsiteam.com",
+    "description": "VSI Nearshore Outsourcing was founded in 2004 and is headquartered in Miami, FL. It is a provider of information technology and outsourcing services. The company specializes in application development, managed services, cloud computing, and data and analy",
+    "contacts": [
+      {
+        "name": "Mr Esteban Reyes",
+        "title": "Managing Partner, Founder & Chief Executive Officer; Shareholder"
+      },
+      {
+        "name": "Mr Juan Carlos Perdomo",
+        "title": "Director-Business Development"
+      }
+    ]
+  },
+  {
+    "name": "KEYWORDS STUDIOS FLORIDA INC.",
+    "state": "FL",
+    "year_incorporated": "2008",
+    "nace": "5829",
+    "employees": "30",
+    "revenue_usd": 1020000,
+    "pl_before_tax": null,
+    "total_assets": null,
+    "equity": null,
+    "website": "www.gamesim.com",
+    "description": "Videogame map design modelling services",
+    "contacts": [
+      {
+        "name": "Jessa Carlson",
+        "title": "Chief Executive Officer"
+      },
+      {
+        "name": "Jessa Carlson",
+        "title": "Director"
+      },
+      {
+        "name": "Kerry Ganofsky",
+        "title": "Chief Executive Officer"
+      },
+      {
+        "name": "Mr Andrew Tosh",
+        "title": "President / Founder"
+      },
+      {
+        "name": "Mr Nicolas Renan Liorzou",
+        "title": "Secretary"
+      },
+      {
+        "name": "Mr Nicolas Renan Liorzou",
+        "title": "Secretary, Director"
+      },
+      {
+        "name": "Mr Walter Maxwell Acree",
+        "title": "Chief Financial Officer"
+      },
+      {
+        "name": "Mr Walter Maxwell Acree",
+        "title": "Studio Head"
+      },
+      {
+        "name": "Shane Zaman",
+        "title": "Chief Financial Officer"
+      },
+      {
+        "name": "Shane Zaman",
+        "title": "Director"
+      },
+      {
+        "name": "Ms Viktoria Krasteva",
+        "title": "Treasurer, Director"
+      },
+      {
+        "name": "Mr Frederic Meraud",
+        "title": "Technical Director"
+      },
+      {
+        "name": "Mr Tony Pelham",
+        "title": "Senior Software Engineer"
+      },
+      {
+        "name": "Mr Trenton Tuggle",
+        "title": "Senior Software Engineer"
+      },
+      {
+        "name": "Mr Kyle Veilleux",
+        "title": "Software Engineer Ii"
+      },
+      {
+        "name": "Mr Aaron Wiginton",
+        "title": "Software Engineer"
+      },
+      {
+        "name": "Mr Walter M Acree",
+        "title": "Director"
+      },
+      {
+        "name": "Ms Amy Chen",
+        "title": "Animator"
+      },
+      {
+        "name": "Mr Michael Goode",
+        "title": "Animator"
+      }
+    ]
+  },
+  {
+    "name": "EXHEDRA SOLUTIONS, INC.",
+    "state": "FL",
+    "year_incorporated": "1998",
+    "nace": "5829",
+    "employees": "10",
+    "revenue_usd": 1020000,
+    "pl_before_tax": null,
+    "total_assets": null,
+    "equity": null,
+    "website": "www.exhedra.com",
+    "description": null,
+    "contacts": [
+      {
+        "name": "Mr Ian A Ippolito",
+        "title": "President"
+      },
+      {
+        "name": "Mr Ian A Ippolito",
+        "title": "Agent"
+      },
+      {
+        "name": "Ms Edgington Zoe O",
+        "title": "Treasurer"
+      }
+    ]
+  },
+  {
+    "name": "PRO-FUSION LLC",
+    "state": "CO",
+    "year_incorporated": null,
+    "nace": "5829",
+    "employees": "16",
+    "revenue_usd": 1020000,
+    "pl_before_tax": null,
+    "total_assets": null,
+    "equity": null,
+    "website": "profusionusa.com",
+    "description": null,
+    "contacts": [
+      {
+        "name": "Mcfarland Pennye",
+        "title": "Administration"
+      }
+    ]
+  },
+  {
+    "name": "DESCO, LLC",
+    "state": "FL",
+    "year_incorporated": "2015",
+    "nace": "5829",
+    "employees": "30",
+    "revenue_usd": 1020000,
+    "pl_before_tax": null,
+    "total_assets": null,
+    "equity": null,
+    "website": "www.desco-soft.com",
+    "description": null,
+    "contacts": [
+      {
+        "name": "Mr Schreiner Schreiner",
+        "title": "President"
+      },
+      {
+        "name": "Mr Eric Rausin",
+        "title": "Vice President"
+      },
+      {
+        "name": "Ms Dawn Forbes",
+        "title": "Sales Administrator"
+      },
+      {
+        "name": "Mr Alexey Sednev",
+        "title": "Engineering - Software"
+      },
+      {
+        "name": "Mr Charles Cubbage",
+        "title": "Manager - Software"
+      },
+      {
+        "name": "Mr Steve Gordon",
+        "title": "Manager-IT & Support"
+      }
+    ]
+  },
+  {
+    "name": "ABACUS",
+    "state": "CO",
+    "year_incorporated": null,
+    "nace": "5829",
+    "employees": "20",
+    "revenue_usd": 1020000,
+    "pl_before_tax": null,
+    "total_assets": null,
+    "equity": null,
+    "website": "www.abacus.com",
+    "description": null,
+    "contacts": [
+      {
+        "name": "Mr Jeffrey Barbetta",
+        "title": "Programmer"
+      }
+    ]
+  },
+  {
+    "name": "GLOBAL E-TRADING, LLC",
+    "state": "FL",
+    "year_incorporated": "2011",
+    "nace": "5829",
+    "employees": "140",
+    "revenue_usd": 1020000,
+    "pl_before_tax": null,
+    "total_assets": null,
+    "equity": null,
+    "website": "chargebacks911.com",
+    "description": null,
+    "contacts": [
+      {
+        "name": "Mr Gary Cardone",
+        "title": "Chief Executive Officer"
+      },
+      {
+        "name": "Ms Monica Marie Eaton",
+        "title": "Founder"
+      },
+      {
+        "name": "Mr Kendall Christensen",
+        "title": "No specific function"
+      }
+    ]
+  },
+  {
+    "name": "EASYLOBBY INC",
+    "state": "MA",
+    "year_incorporated": "1997",
+    "nace": "5829",
+    "employees": "10",
+    "revenue_usd": 1017000,
+    "pl_before_tax": null,
+    "total_assets": null,
+    "equity": null,
+    "website": "www.easylobby.com",
+    "description": "Secure visitor management (SVS) systems software developer ; Secure visitor management (SVS) systems software publisher ; Printing services",
+    "contacts": []
+  },
+  {
+    "name": "IGRAFX, LLC",
+    "state": "OR",
+    "year_incorporated": "2011",
+    "nace": "5829",
+    "employees": "15",
+    "revenue_usd": 1011000,
+    "pl_before_tax": null,
+    "total_assets": null,
+    "equity": null,
+    "website": "www.igrafx.com",
+    "description": null,
+    "contacts": [
+      {
+        "name": "Mr Ryan Tognazzini",
+        "title": "Chief Executive Officer"
+      },
+      {
+        "name": "Mr Christopher Mosch",
+        "title": "Business Development Representative"
+      },
+      {
+        "name": "Mr Joshua Placette",
+        "title": "Global Strategic Accounts Manager"
+      },
+      {
+        "name": "Ms Angela Lowery Smoller",
+        "title": "Director Finance"
+      },
+      {
+        "name": "La Fleming",
+        "title": "Staff Accountant and Order Management"
+      },
+      {
+        "name": "Mr Michael Constantelo",
+        "title": "Vice President, Sales (North America)"
+      },
+      {
+        "name": "Ms Lisa Schoch",
+        "title": "Sales Director"
+      },
+      {
+        "name": "Mr Bob Tenace",
+        "title": "Director, Sales"
+      },
+      {
+        "name": "Jamey Heinze",
+        "title": "Chief Marketing Officer"
+      },
+      {
+        "name": "Ms Christina Dieckmeyer",
+        "title": "Director of Marketing, North America"
+      },
+      {
+        "name": "Ms Donna Burger",
+        "title": "Senior Project Manager, Marketing Operations"
+      },
+      {
+        "name": "Mr Frederick Yu",
+        "title": "Senior Technical Consultant, Customer Success Manager"
+      },
+      {
+        "name": "Ms Tanya Johns",
+        "title": "Legal Group"
+      },
+      {
+        "name": "Ms Tanya Johns",
+        "title": "Chief Counsel"
+      },
+      {
+        "name": "Mr Michael D Nyman",
+        "title": "Director of Development"
+      },
+      {
+        "name": "Mr Nils Peuser",
+        "title": "Dev Operations Engineering Manager"
+      },
+      {
+        "name": "Mr Mark Bednarski",
+        "title": "Vice President Product"
+      },
+      {
+        "name": "Mr Aaron Bozeman",
+        "title": "Regional Vice President"
+      },
+      {
+        "name": "Mr Aaron Bozeman",
+        "title": "No specific function"
+      },
+      {
+        "name": "Hk Ouanesisouk",
+        "title": "Senior Quality Assurance Engineer"
+      },
+      {
+        "name": "Mr Lee Rudd",
+        "title": "Senior Quality Assurance Engineer"
+      },
+      {
+        "name": "Mr Erick Ruiz",
+        "title": "Director of Information Technology"
+      },
+      {
+        "name": "Mr James Berrocales",
+        "title": "Solutions Engineer"
+      },
+      {
+        "name": "Mr Ken Budnik",
+        "title": "Senior Professional Services Consultant and Developer"
+      },
+      {
+        "name": "Mr Jeremy Chartrand",
+        "title": "Software Engineer"
+      },
+      {
+        "name": "Mr William Clem",
+        "title": "Junior Software Developer (Intern)"
+      },
+      {
+        "name": "Mr Aaron Hoyt",
+        "title": "Software Developer"
+      },
+      {
+        "name": "Mr John Barone",
+        "title": "No specific function"
+      },
+      {
+        "name": "Mr Sebastian Mungai",
+        "title": "Senior Consultant"
+      },
+      {
+        "name": "Ms Kimberly Scott",
+        "title": "Senior Consultant"
+      },
+      {
+        "name": "Mr Alexandre Wentzo",
+        "title": "No specific function"
+      }
+    ]
+  },
+  {
+    "name": "EXPEDIENCE SOFTWARE LLC",
+    "state": "NH",
+    "year_incorporated": "2022",
+    "nace": "5829",
+    "employees": "11",
+    "revenue_usd": 1010000,
+    "pl_before_tax": null,
+    "total_assets": null,
+    "equity": null,
+    "website": "expediencesoftware.com",
+    "description": null,
+    "contacts": [
+      {
+        "name": "Ms Brooke Savage",
+        "title": "Manager"
+      },
+      {
+        "name": "Ms Sharon Coddington",
+        "title": "Member"
+      }
+    ]
+  },
+  {
+    "name": "SIMX, INC.",
+    "state": "CA",
+    "year_incorporated": "2020",
+    "nace": "5829",
+    "employees": "50",
+    "revenue_usd": 1010000,
+    "pl_before_tax": null,
+    "total_assets": null,
+    "equity": null,
+    "website": "www.simxvr.com",
+    "description": null,
+    "contacts": [
+      {
+        "name": "Mr Ryan Ribeira",
+        "title": "Chief Executive Officer"
+      },
+      {
+        "name": "Mr Karthik V Sarma",
+        "title": "Secretary"
+      },
+      {
+        "name": "Srihari Namperumal",
+        "title": "Chief Financial Officer"
+      },
+      {
+        "name": "Mr John Smits",
+        "title": "Chief Financial Officer"
+      },
+      {
+        "name": "Allison Olenginski",
+        "title": "Officer"
+      },
+      {
+        "name": "Ms Jennifer Hull",
+        "title": "No specific function"
+      }
+    ]
+  },
+  {
+    "name": "WORKDYNAMICS TECHNOLOGIES INC",
+    "state": "VA",
+    "year_incorporated": "1998",
+    "nace": "5829",
+    "employees": "25",
+    "revenue_usd": 1010000,
+    "pl_before_tax": null,
+    "total_assets": null,
+    "equity": null,
+    "website": "www.workdynamics.com",
+    "description": null,
+    "contacts": [
+      {
+        "name": "Mr Grant A Bifolchi",
+        "title": "Mr."
+      },
+      {
+        "name": "Mr Alex Grant",
+        "title": "Mr."
+      },
+      {
+        "name": "Mr Alain Tremblay",
+        "title": "Mr."
+      }
+    ]
+  },
+  {
+    "name": "INTERAMERICA TECHNOLOGIES",
+    "state": "VA",
+    "year_incorporated": "1978",
+    "nace": "5829",
+    "employees": "50",
+    "revenue_usd": 1010000,
+    "pl_before_tax": null,
+    "total_assets": null,
+    "equity": null,
+    "website": "www.interamerica.com",
+    "description": null,
+    "contacts": []
+  },
+  {
+    "name": "FREDERICKSBURG PC USERS GROUP",
+    "state": "VA",
+    "year_incorporated": "2000",
+    "nace": "5829",
+    "employees": "50",
+    "revenue_usd": 1010000,
+    "pl_before_tax": null,
+    "total_assets": null,
+    "equity": null,
+    "website": "www.fpcug.org",
+    "description": null,
+    "contacts": []
+  },
+  {
+    "name": "INTELIDATA",
+    "state": "VA",
+    "year_incorporated": "1995",
+    "nace": "5829",
+    "employees": "35",
+    "revenue_usd": 1010000,
+    "pl_before_tax": null,
+    "total_assets": null,
+    "equity": null,
+    "website": "www.intelidata.inf.br",
+    "description": null,
+    "contacts": []
+  },
+  {
+    "name": "AVCOMEAST, INC.",
+    "state": "VA",
+    "year_incorporated": "2007",
+    "nace": "5829",
+    "employees": "16",
+    "revenue_usd": 1010000,
+    "pl_before_tax": null,
+    "total_assets": null,
+    "equity": null,
+    "website": "www.avcomeast.com",
+    "description": "Engaged in the implementation and management of smart technology that helps its clients improve how they do business",
+    "contacts": [
+      {
+        "name": "Mr Robert M Wolfe",
+        "title": "Officer"
+      }
+    ]
+  },
+  {
+    "name": "SCIENTIFIC SOFTWARE SOLUTIONS INC.",
+    "state": "VA",
+    "year_incorporated": "1995",
+    "nace": "5829",
+    "employees": "15",
+    "revenue_usd": 1010000,
+    "pl_before_tax": null,
+    "total_assets": null,
+    "equity": null,
+    "website": "www.pedheart.com",
+    "description": null,
+    "contacts": [
+      {
+        "name": "Mr John K Wilson JR",
+        "title": "Chief Executive Officer"
+      },
+      {
+        "name": "Ms Mary Wilkins",
+        "title": "Vice President"
+      },
+      {
+        "name": "Ms Emily Afton Wilson",
+        "title": "Secretary"
+      },
+      {
+        "name": "Mr Jon Moore",
+        "title": "Lead Pedcath Programmer and Chief of Technical Support"
+      },
+      {
+        "name": "Ms Mary A Wilson",
+        "title": "Officer"
+      }
+    ]
+  },
+  {
+    "name": "INTERSECT SOFTWARE CORPORATION",
+    "state": "VA",
+    "year_incorporated": "2006",
+    "nace": "5829",
+    "employees": "30",
+    "revenue_usd": 1010000,
+    "pl_before_tax": null,
+    "total_assets": null,
+    "equity": null,
+    "website": "www.intersection.com",
+    "description": null,
+    "contacts": []
+  }
+]

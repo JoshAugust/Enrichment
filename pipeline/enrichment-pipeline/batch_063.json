@@ -1,0 +1,833 @@
+[
+  {
+    "name": "INTELLIGENT SEARCH TECHNOLOGY LTD.",
+    "state": "NY",
+    "year_incorporated": "1993",
+    "nace": "5829",
+    "employees": "18",
+    "revenue_usd": 3420000,
+    "pl_before_tax": null,
+    "total_assets": null,
+    "equity": null,
+    "website": "www.1.intelligentsearch.co",
+    "description": null,
+    "contacts": [
+      {
+        "name": "Mr Richard Wagner",
+        "title": "Chairman"
+      }
+    ]
+  },
+  {
+    "name": "ARTICULATE GLOBAL, INC.",
+    "state": "NY",
+    "year_incorporated": "2002",
+    "nace": "5829",
+    "employees": "13",
+    "revenue_usd": 3420000,
+    "pl_before_tax": null,
+    "total_assets": null,
+    "equity": null,
+    "website": "www.articulate.com",
+    "description": null,
+    "contacts": [
+      {
+        "name": "Ms Kristin Rattner",
+        "title": "Assistant Controller"
+      },
+      {
+        "name": "Mr Don Freda",
+        "title": "Vice President, International Sales"
+      },
+      {
+        "name": "Ms Vira Inzon",
+        "title": "Team Lead, Customer Support"
+      },
+      {
+        "name": "Mr James Welle",
+        "title": "Director of Engineering"
+      },
+      {
+        "name": "Mr Ryan Walls",
+        "title": "Data Analyst Engineer"
+      },
+      {
+        "name": "Mr Steve Baum",
+        "title": "Software Engineer"
+      },
+      {
+        "name": "Ms Trina Rimmer",
+        "title": "Community Manager"
+      },
+      {
+        "name": "Ms Crystal Horn",
+        "title": "Customer Care Advocate"
+      }
+    ]
+  },
+  {
+    "name": "RICHFX INC",
+    "state": "NY",
+    "year_incorporated": "2005",
+    "nace": "5829",
+    "employees": "60",
+    "revenue_usd": 3420000,
+    "pl_before_tax": null,
+    "total_assets": null,
+    "equity": null,
+    "website": "www.channeladvisor.com",
+    "description": "Rich media solutions for e-commerce",
+    "contacts": []
+  },
+  {
+    "name": "OPTECH SYSTEMS INC",
+    "state": "NY",
+    "year_incorporated": "2015",
+    "nace": "5829",
+    "employees": "40",
+    "revenue_usd": 3420000,
+    "pl_before_tax": null,
+    "total_assets": null,
+    "equity": null,
+    "website": "www.innovestsystems.com",
+    "description": null,
+    "contacts": []
+  },
+  {
+    "name": "BOOTSTRAP SOFTWARE",
+    "state": "NY",
+    "year_incorporated": "1999",
+    "nace": "5829",
+    "employees": "25",
+    "revenue_usd": 3420000,
+    "pl_before_tax": null,
+    "total_assets": null,
+    "equity": null,
+    "website": "www.bootsoft.com",
+    "description": null,
+    "contacts": []
+  },
+  {
+    "name": "ADAPTIVE SOFTWARE INC",
+    "state": "NY",
+    "year_incorporated": "1998",
+    "nace": "5829",
+    "employees": "11",
+    "revenue_usd": 3420000,
+    "pl_before_tax": null,
+    "total_assets": null,
+    "equity": null,
+    "website": "www.adaptiverx.com",
+    "description": "Pharmacy benefit management Software-as-a-Service (SaaS) provider",
+    "contacts": []
+  },
+  {
+    "name": "CONSTRUCTION TECHNOLOGY INC.",
+    "state": "NY",
+    "year_incorporated": "1989",
+    "nace": "5829",
+    "employees": "22",
+    "revenue_usd": 3420000,
+    "pl_before_tax": null,
+    "total_assets": null,
+    "equity": null,
+    "website": "www.constructiontechnology.net",
+    "description": null,
+    "contacts": []
+  },
+  {
+    "name": "NASTEL TECHNOLOGIES, INC.",
+    "state": "NY",
+    "year_incorporated": "2004",
+    "nace": "5829",
+    "employees": "25",
+    "revenue_usd": 3420000,
+    "pl_before_tax": null,
+    "total_assets": null,
+    "equity": null,
+    "website": "www.meshiq.com",
+    "description": "Information technology (IT) monitoring firm that sells software for business transaction management (BTM) and application performance management (APM)",
+    "contacts": [
+      {
+        "name": "Mr David Mavashev",
+        "title": "Chief Executive Officer"
+      },
+      {
+        "name": "Mr David Wavashev",
+        "title": "Executive Officer"
+      },
+      {
+        "name": "Ms Marina Mirsky",
+        "title": "Chief Financial Officer"
+      },
+      {
+        "name": "Mr John Fajardo",
+        "title": "Senior Manager, Consumer Products Finance"
+      },
+      {
+        "name": "Ms Stephanie Pate",
+        "title": "Asset Finaler"
+      },
+      {
+        "name": "Ms Kirsten Milliken",
+        "title": "Administrative Coordinator in Business Affairs"
+      },
+      {
+        "name": "Ms Meg Brown",
+        "title": "Administrative Assistant"
+      },
+      {
+        "name": "Ms Jessica Romo",
+        "title": "Administrative Assistant Global Product Development & Retail Marketing"
+      },
+      {
+        "name": "Mr Dave Cohn",
+        "title": "Account Director, Sales"
+      },
+      {
+        "name": "Mr Guy Desantis",
+        "title": "Sales Director"
+      },
+      {
+        "name": "Mr Peter Ohrenberger",
+        "title": "Director of Sales"
+      },
+      {
+        "name": "Mr Jim Suhy",
+        "title": "Director, Sales, Western Region"
+      },
+      {
+        "name": "Mr Asif Ahsanullah",
+        "title": "Pre-Post Sales Engineer"
+      },
+      {
+        "name": "Ms Laura Boccardo",
+        "title": "Director Marketing"
+      },
+      {
+        "name": "Mr John Geller",
+        "title": "Post Production Media Coordinator"
+      },
+      {
+        "name": "Ms Jennifer Mavashev",
+        "title": "Marketing Specialist"
+      },
+      {
+        "name": "Mr Motohisa Adachi",
+        "title": "Technical Director"
+      },
+      {
+        "name": "Mr Michael Amorozo",
+        "title": "Department Technical Director"
+      },
+      {
+        "name": "Mr Jason Dengler",
+        "title": "Technical Director"
+      },
+      {
+        "name": "Mr Ian Henckel",
+        "title": "Technical Director"
+      },
+      {
+        "name": "Mr Keith Mckay",
+        "title": "Engineering Systems Administrator"
+      },
+      {
+        "name": "Ms Julia Lopez",
+        "title": "Technical Resources Supervisor"
+      },
+      {
+        "name": "Mr Hari Mohanan",
+        "title": "Manager of Software Development"
+      },
+      {
+        "name": "Ms Victoria Campagna",
+        "title": "Technical Writer"
+      },
+      {
+        "name": "Mr Igor Kryzhan",
+        "title": "Technology Services Solution Architect"
+      },
+      {
+        "name": "Ms Isabelle Feintrenie",
+        "title": "Production Coordinator"
+      },
+      {
+        "name": "Ms Killian Gray",
+        "title": "Production Supervisor"
+      },
+      {
+        "name": "Mr Alan Franzenburg",
+        "title": "Post Production A / V Technologist"
+      },
+      {
+        "name": "Mr Oleg Ustoyev",
+        "title": "Systems Engineer / Quality Assurance"
+      },
+      {
+        "name": "Mr Lazar Mosheyev",
+        "title": "Information Technology Manager"
+      },
+      {
+        "name": "Ms Catherine Bernardone",
+        "title": "Software Engineer"
+      },
+      {
+        "name": "Mr Alex Brin",
+        "title": "Programmer"
+      },
+      {
+        "name": "Riva Chang",
+        "title": "Software Engineer"
+      },
+      {
+        "name": "Mr Terry House",
+        "title": "Senior Solutions Architect"
+      },
+      {
+        "name": "Mr Tony Lu",
+        "title": "Software Engineer"
+      },
+      {
+        "name": "Mr Jose Medina",
+        "title": "Software Engineer"
+      },
+      {
+        "name": "Sreenivasa Pydi",
+        "title": "Software Engineer"
+      },
+      {
+        "name": "Mr Alexander Shevtsov",
+        "title": "Apm Software Developer"
+      },
+      {
+        "name": "Mr Mark Scott",
+        "title": "Head of Lighting / Lighting Department Chairman"
+      },
+      {
+        "name": "Ms Amy Clark",
+        "title": "Postproduction Coordinator"
+      },
+      {
+        "name": "Ms Veronica Sotelo",
+        "title": "AR Supervisor"
+      },
+      {
+        "name": "Mr Joel Trager",
+        "title": "Design Coordinator"
+      },
+      {
+        "name": "Mr Bubba Wilson",
+        "title": "Shipping Manager"
+      },
+      {
+        "name": "Mr Venkat Saireddy",
+        "title": "Senior Consultant"
+      },
+      {
+        "name": "Mr Bill Spitzak",
+        "title": "Torch Engineer"
+      },
+      {
+        "name": "Mr Christian Barrett",
+        "title": "Correspondent"
+      },
+      {
+        "name": "Mr Kevan Shorey",
+        "title": "Animator"
+      },
+      {
+        "name": "Ms Sherry Stark",
+        "title": "Adjudicator"
+      }
+    ]
+  },
+  {
+    "name": "KASTOR CONSULTING INC",
+    "state": "NY",
+    "year_incorporated": "1995",
+    "nace": "5829",
+    "employees": "10",
+    "revenue_usd": 3420000,
+    "pl_before_tax": null,
+    "total_assets": null,
+    "equity": null,
+    "website": "www.kastor.com",
+    "description": null,
+    "contacts": []
+  },
+  {
+    "name": "NOTHING ELSE MATTERS SOFTWARE",
+    "state": "NY",
+    "year_incorporated": "1997",
+    "nace": "5829",
+    "employees": "11",
+    "revenue_usd": 3420000,
+    "pl_before_tax": null,
+    "total_assets": null,
+    "equity": null,
+    "website": "www.vtuner.com",
+    "description": "Magnetic and optical recording media manufacturer",
+    "contacts": []
+  },
+  {
+    "name": "SITECOMPLI LLC",
+    "state": "NY",
+    "year_incorporated": "2008",
+    "nace": "5829",
+    "employees": "80",
+    "revenue_usd": 3420000,
+    "pl_before_tax": null,
+    "total_assets": null,
+    "equity": null,
+    "website": "sitecompli.com",
+    "description": "Real estate compliance monitoring, reporting and alerting data platform operator",
+    "contacts": [
+      {
+        "name": "Mr Seth Dotterer",
+        "title": "Chief Executive Officer"
+      }
+    ]
+  },
+  {
+    "name": "CONDECO SOFTWARE INC",
+    "state": "NY",
+    "year_incorporated": null,
+    "nace": "5829",
+    "employees": "11",
+    "revenue_usd": 3420000,
+    "pl_before_tax": null,
+    "total_assets": null,
+    "equity": null,
+    "website": "www.condecosoftware.com",
+    "description": null,
+    "contacts": [
+      {
+        "name": "Mr Sean McDonald",
+        "title": "Business Development Executive"
+      },
+      {
+        "name": "Mr Afonso Pinheiro",
+        "title": "Business Development Executive"
+      },
+      {
+        "name": "Mr Kevin Sullivan",
+        "title": "NY Metropolitan Region Sales Executive"
+      },
+      {
+        "name": "Mr Craig Goldberg",
+        "title": "Sales Account Manager"
+      },
+      {
+        "name": "Mr Eric Hammontree",
+        "title": "Vice President, Customer Success (Americas)"
+      },
+      {
+        "name": "Ms Rachel Clausen",
+        "title": "Manager, Customer Success"
+      },
+      {
+        "name": "Mr Alex Cundy",
+        "title": "Manager, Customer Success"
+      },
+      {
+        "name": "Ms Jill Duncan",
+        "title": "Development Partner & Manager (USA)"
+      },
+      {
+        "name": "Mr Khyber Nazari",
+        "title": "Technical Consultant - Americas"
+      },
+      {
+        "name": "Ms Carla Martinez",
+        "title": "Project Manager"
+      },
+      {
+        "name": "Mr Ankur Shah",
+        "title": "Senior Project Manager"
+      },
+      {
+        "name": "Mr Chirag Patel",
+        "title": "Information Technology Support Administrator"
+      },
+      {
+        "name": "Mr Tom Pham",
+        "title": "Application Consultant"
+      },
+      {
+        "name": "Mr Devin Gardner",
+        "title": "Presales Consultant"
+      },
+      {
+        "name": "Mr Curtis King",
+        "title": "Presales Consultant"
+      }
+    ]
+  },
+  {
+    "name": "INNOPATH SOFTWARE",
+    "state": "CA",
+    "year_incorporated": "2002",
+    "nace": "5829",
+    "employees": "175",
+    "revenue_usd": 3420000,
+    "pl_before_tax": null,
+    "total_assets": null,
+    "equity": null,
+    "website": "www.innopath.com",
+    "description": "Engaged in the provision of computer programming services, specializing in software development",
+    "contacts": [
+      {
+        "name": "Mr John Robert Fazio",
+        "title": "President & Chief Executive Officer"
+      },
+      {
+        "name": "Ms Chantal Rankowicz",
+        "title": "Chief Financial Officer"
+      },
+      {
+        "name": "Mr David Charles McCROSKEY",
+        "title": "Vice President - Global Operations"
+      },
+      {
+        "name": "Mr Shawn Sullivan",
+        "title": "Senior Program Manager"
+      }
+    ]
+  },
+  {
+    "name": "TARGETPROCESS, INC.",
+    "state": "NY",
+    "year_incorporated": "2007",
+    "nace": "5829",
+    "employees": "10",
+    "revenue_usd": 3420000,
+    "pl_before_tax": null,
+    "total_assets": null,
+    "equity": null,
+    "website": "www.targetprocess.com",
+    "description": null,
+    "contacts": [
+      {
+        "name": "Ms Pamela C Mcminn",
+        "title": "Executive Officer"
+      },
+      {
+        "name": "Ms Danielle Maier",
+        "title": "Product Specialist"
+      },
+      {
+        "name": "Mr Steven Mazurkiewicz",
+        "title": "Product Specialist"
+      },
+      {
+        "name": "Ms Nadia Bulynia",
+        "title": "Quality Assurance Engineer"
+      },
+      {
+        "name": "Mr Dmitry Tychko",
+        "title": "Software Engineer"
+      },
+      {
+        "name": "Mr Andrey Mihailenko",
+        "title": "Processor"
+      }
+    ]
+  },
+  {
+    "name": "CONNECTIVA SYSTEMS INC",
+    "state": "NY",
+    "year_incorporated": "2001",
+    "nace": "5829",
+    "employees": "400",
+    "revenue_usd": 3420000,
+    "pl_before_tax": null,
+    "total_assets": null,
+    "equity": null,
+    "website": "www.connectivasystems.com",
+    "description": "Engaged in software development",
+    "contacts": [
+      {
+        "name": "Abhi Chaki",
+        "title": "Board of Dirs"
+      },
+      {
+        "name": "Mr Vinod K Dham",
+        "title": "Board of Dirs"
+      },
+      {
+        "name": "Mr Greg Frank",
+        "title": "Board of Dirs"
+      },
+      {
+        "name": "Mr David Frankel",
+        "title": "Board of Dirs"
+      },
+      {
+        "name": "Mr Pravan Malhotra",
+        "title": "Board of Dirs"
+      },
+      {
+        "name": "Mr Avi Basu",
+        "title": "Founder, President & Chief Executive Officer; Shareholder"
+      },
+      {
+        "name": "Krishnendu Sen Gupta",
+        "title": "Senior Vice President & General Manager - India"
+      },
+      {
+        "name": "Kaustav Ghosh",
+        "title": "Senior Vice President - Business Development & Alliances-India"
+      },
+      {
+        "name": "Mr Adam Maghrouri",
+        "title": "Vice President, Sales"
+      },
+      {
+        "name": "Ram Ramamoorthy",
+        "title": "Vice President - Sales - Asia Pacific"
+      },
+      {
+        "name": "Mr Anandan Jayaraman",
+        "title": "Chief Product & Marketing Officer"
+      },
+      {
+        "name": "Mr Amitava Maulik",
+        "title": "Chief Scientist"
+      },
+      {
+        "name": "Mr Jack Kundamal",
+        "title": "Chief Operating Officer"
+      }
+    ]
+  },
+  {
+    "name": "VIRTUSPHERE INC",
+    "state": "NY",
+    "year_incorporated": "2003",
+    "nace": "5829",
+    "employees": "11",
+    "revenue_usd": 3420000,
+    "pl_before_tax": null,
+    "total_assets": null,
+    "equity": null,
+    "website": "www.virtusphere.com",
+    "description": null,
+    "contacts": []
+  },
+  {
+    "name": "CHRONOSPHERE, INC.",
+    "state": "NY",
+    "year_incorporated": "2019",
+    "nace": "5829",
+    "employees": "250",
+    "revenue_usd": 3420000,
+    "pl_before_tax": null,
+    "total_assets": null,
+    "equity": null,
+    "website": "www.chronosphere.io",
+    "description": "Cloud native data observability Software-as-a-Service (SaaS) provider",
+    "contacts": [
+      {
+        "name": "Mr Martin Mao",
+        "title": "Chief Executive Officer"
+      },
+      {
+        "name": "Mr Martin Mao",
+        "title": "Chief Executive"
+      },
+      {
+        "name": "Mr Rob Skillington",
+        "title": "CTO"
+      },
+      {
+        "name": "Mr Jerry Chen",
+        "title": "Officer"
+      },
+      {
+        "name": "Mr Anton Levy",
+        "title": "Officer"
+      },
+      {
+        "name": "Mr Ryan Mckillen",
+        "title": "Officer"
+      }
+    ]
+  },
+  {
+    "name": "UNDER TECHNOLOGIES INC",
+    "state": "NY",
+    "year_incorporated": "2018",
+    "nace": "5829",
+    "employees": "100",
+    "revenue_usd": 3420000,
+    "pl_before_tax": null,
+    "total_assets": null,
+    "equity": null,
+    "website": "www.rho.co",
+    "description": "Online corporate spend and cash management Software-as-a-Service (SaaS) provider",
+    "contacts": []
+  },
+  {
+    "name": "FRUIT STREET HEALTH PBC",
+    "state": "NY",
+    "year_incorporated": "2020",
+    "nace": "5829",
+    "employees": "35",
+    "revenue_usd": 3420000,
+    "pl_before_tax": null,
+    "total_assets": null,
+    "equity": null,
+    "website": "www.fruitstreet.com",
+    "description": null,
+    "contacts": [
+      {
+        "name": "Laurence F Girard",
+        "title": "Executive Officer"
+      }
+    ]
+  },
+  {
+    "name": "S-DOCS INC.",
+    "state": "NY",
+    "year_incorporated": "2018",
+    "nace": "5829",
+    "employees": "30",
+    "revenue_usd": 3420000,
+    "pl_before_tax": null,
+    "total_assets": null,
+    "equity": null,
+    "website": "www.sdocs.com",
+    "description": null,
+    "contacts": [
+      {
+        "name": "Deni Pejanovic",
+        "title": "Cp"
+      },
+      {
+        "name": "Mr Brian Stimpfl",
+        "title": "Executive Officer"
+      },
+      {
+        "name": "Mr Matthew Lustigman",
+        "title": "Vice-Chancellor"
+      },
+      {
+        "name": "Mr Hugh Mcloughlin",
+        "title": "Ds"
+      },
+      {
+        "name": "Mr Thomas Mcloughlin",
+        "title": "Dvpt"
+      }
+    ]
+  },
+  {
+    "name": "ANIMALZ INCORPORATED",
+    "state": "NY",
+    "year_incorporated": "2017",
+    "nace": "5829",
+    "employees": "45",
+    "revenue_usd": 3420000,
+    "pl_before_tax": null,
+    "total_assets": null,
+    "equity": null,
+    "website": "www.animalz.co",
+    "description": null,
+    "contacts": []
+  },
+  {
+    "name": "BABYFACE SOFTWARE INC",
+    "state": "NY",
+    "year_incorporated": "1999",
+    "nace": "5829",
+    "employees": "10",
+    "revenue_usd": 3420000,
+    "pl_before_tax": null,
+    "total_assets": null,
+    "equity": null,
+    "website": "www.babyfaceinc.com",
+    "description": null,
+    "contacts": []
+  },
+  {
+    "name": "ANALYTICAL FLAVOR SYSTEMS INC",
+    "state": "NY",
+    "year_incorporated": "2019",
+    "nace": "5829",
+    "employees": "10",
+    "revenue_usd": 3420000,
+    "pl_before_tax": null,
+    "total_assets": null,
+    "equity": null,
+    "website": "www.gastrograph.com",
+    "description": "Online food and beverage producers platform operator developer",
+    "contacts": [
+      {
+        "name": "Mr Jason M Cohen",
+        "title": "President"
+      },
+      {
+        "name": "Mr David Purdy",
+        "title": "Chief Executive Officer"
+      }
+    ]
+  },
+  {
+    "name": "SONNET SOFTWARE, INC.",
+    "state": "NY",
+    "year_incorporated": "2002",
+    "nace": "5829",
+    "employees": "17",
+    "revenue_usd": 3420000,
+    "pl_before_tax": null,
+    "total_assets": null,
+    "equity": null,
+    "website": "www.sonnetsoftware.com",
+    "description": "At Sonnet, we've been developing 3D planar EM software since 1983, and our software has earned a solid reputation as the world's most accurate commercial planar EM analysis package for single and multi-layer planar circuits and antennas. Sonnet Software I",
+    "contacts": [
+      {
+        "name": "Mr James C Rautio",
+        "title": "President"
+      },
+      {
+        "name": "Mr Keith R Schroeder",
+        "title": "Vice President"
+      },
+      {
+        "name": "Mr Jean W Rautio",
+        "title": "Secretary"
+      },
+      {
+        "name": "Mr Jason Rudick",
+        "title": "Technical Support"
+      },
+      {
+        "name": "Mr Brian J Rautio",
+        "title": "Vice President Operations"
+      },
+      {
+        "name": "Mr Taylan Yemliha",
+        "title": "Software Engineer"
+      },
+      {
+        "name": "Mr Matt Thelen",
+        "title": "Electrical Engineer"
+      }
+    ]
+  },
+  {
+    "name": "ZONIC",
+    "state": "CA",
+    "year_incorporated": null,
+    "nace": "5829",
+    "employees": "12",
+    "revenue_usd": 3410000,
+    "pl_before_tax": null,
+    "total_assets": null,
+    "equity": null,
+    "website": "zonicdesign.com",
+    "description": null,
+    "contacts": []
+  }
+]

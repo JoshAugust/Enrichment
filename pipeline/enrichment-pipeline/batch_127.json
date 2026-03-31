@@ -1,0 +1,755 @@
+[
+  {
+    "name": "SAS",
+    "state": "TX",
+    "year_incorporated": null,
+    "nace": "5829",
+    "employees": "14",
+    "revenue_usd": 960000,
+    "pl_before_tax": null,
+    "total_assets": null,
+    "equity": null,
+    "website": "www.sas.com",
+    "description": null,
+    "contacts": []
+  },
+  {
+    "name": "CHANGE",
+    "state": "TX",
+    "year_incorporated": null,
+    "nace": "5829",
+    "employees": "14",
+    "revenue_usd": 960000,
+    "pl_before_tax": null,
+    "total_assets": null,
+    "equity": null,
+    "website": "www.change.org",
+    "description": null,
+    "contacts": []
+  },
+  {
+    "name": "FISHBOWL RESTAURANT, LLC, THE",
+    "state": "CA",
+    "year_incorporated": null,
+    "nace": "5829",
+    "employees": "14",
+    "revenue_usd": 960000,
+    "pl_before_tax": null,
+    "total_assets": null,
+    "equity": null,
+    "website": "www.thefishbowlpets.com",
+    "description": null,
+    "contacts": []
+  },
+  {
+    "name": "SUITE",
+    "state": "CA",
+    "year_incorporated": null,
+    "nace": "5829",
+    "employees": "14",
+    "revenue_usd": 960000,
+    "pl_before_tax": null,
+    "total_assets": null,
+    "equity": null,
+    "website": "www.suitellc.com",
+    "description": null,
+    "contacts": []
+  },
+  {
+    "name": "GOLDEN SOFTWARE INC",
+    "state": "CO",
+    "year_incorporated": "2014",
+    "nace": "5829",
+    "employees": "10",
+    "revenue_usd": 953000,
+    "pl_before_tax": null,
+    "total_assets": null,
+    "equity": null,
+    "website": "www.goldensoftware.com",
+    "description": null,
+    "contacts": [
+      {
+        "name": "Mr Andrew Dudley",
+        "title": "Product Manager"
+      },
+      {
+        "name": "Mr Zachary Mills",
+        "title": "Product Manager"
+      },
+      {
+        "name": "Mr Zachary Mills",
+        "title": "Officer"
+      },
+      {
+        "name": "Blakelee Mills",
+        "title": "Manager"
+      }
+    ]
+  },
+  {
+    "name": "THECUT INC.",
+    "state": "DE",
+    "year_incorporated": "2020",
+    "nace": "5829",
+    "employees": "30",
+    "revenue_usd": 950000,
+    "pl_before_tax": null,
+    "total_assets": null,
+    "equity": null,
+    "website": "www.thecut.co",
+    "description": null,
+    "contacts": [
+      {
+        "name": "Obiora Omile",
+        "title": "Chief Executive Officer"
+      },
+      {
+        "name": "Mr Patel Kush",
+        "title": "Chief Technology"
+      }
+    ]
+  },
+  {
+    "name": "GEOGRAPHIC RESOURCE SOLUTIONS",
+    "state": "AK",
+    "year_incorporated": "1989",
+    "nace": "5829",
+    "employees": "12",
+    "revenue_usd": 950000,
+    "pl_before_tax": null,
+    "total_assets": null,
+    "equity": null,
+    "website": "www.grsgis.com",
+    "description": null,
+    "contacts": []
+  },
+  {
+    "name": "STAT-EASE INC",
+    "state": "MN",
+    "year_incorporated": "1985",
+    "nace": "5829",
+    "employees": "14",
+    "revenue_usd": 949000,
+    "pl_before_tax": null,
+    "total_assets": null,
+    "equity": null,
+    "website": "www.statease.com",
+    "description": null,
+    "contacts": [
+      {
+        "name": "Mr Mark Anderson",
+        "title": "Principal"
+      },
+      {
+        "name": "Pat Whitcomb",
+        "title": "President"
+      },
+      {
+        "name": "Ms Cathy Hickman",
+        "title": "Business Manager"
+      },
+      {
+        "name": "Ms Cathy Hickman",
+        "title": "Business Administrator"
+      },
+      {
+        "name": "Mr Greg Campbell",
+        "title": "Marketing Director"
+      },
+      {
+        "name": "Mr Neal Vaughn",
+        "title": "Principal Software Engineer"
+      },
+      {
+        "name": "Mr Joe Carriere",
+        "title": "Software Engineer"
+      },
+      {
+        "name": "Shari Kraber",
+        "title": "Workshop Manager, Statistical Consultant"
+      },
+      {
+        "name": "Mr Martin Bezener",
+        "title": "Consultant"
+      }
+    ]
+  },
+  {
+    "name": "EPCSOLUTIONS, INC.",
+    "state": "VA",
+    "year_incorporated": "2008",
+    "nace": "5829",
+    "employees": "45",
+    "revenue_usd": 948000,
+    "pl_before_tax": null,
+    "total_assets": null,
+    "equity": null,
+    "website": "www.epcsolutions.com",
+    "description": "Radio frequency identification (RFID) compliance software provider ; Online mobile nutrition fact software platform operator",
+    "contacts": [
+      {
+        "name": "Mr Kevin J Kail",
+        "title": "Owner, Chief Executive Officer & President; Shareholder"
+      },
+      {
+        "name": "Mr Mark Wildman",
+        "title": "Vice President & Chief Strategist-Technical"
+      },
+      {
+        "name": "Ms Angela Kail",
+        "title": "Director - Partner Alliances"
+      }
+    ]
+  },
+  {
+    "name": "FINHABITS INC",
+    "state": "NY",
+    "year_incorporated": "2022",
+    "nace": "5829",
+    "employees": "13",
+    "revenue_usd": 940000,
+    "pl_before_tax": null,
+    "total_assets": null,
+    "equity": null,
+    "website": "www.finhabits.com",
+    "description": null,
+    "contacts": [
+      {
+        "name": "Mr Carlos Garcia",
+        "title": "Chief Executive Officer; Dp"
+      },
+      {
+        "name": "Medina Ana",
+        "title": "Chief Financial Officer"
+      },
+      {
+        "name": "Serdaru Julien",
+        "title": "Dcto"
+      }
+    ]
+  },
+  {
+    "name": "PROMO SUITE",
+    "state": "NY",
+    "year_incorporated": "2021",
+    "nace": "5829",
+    "employees": "12",
+    "revenue_usd": 940000,
+    "pl_before_tax": null,
+    "total_assets": null,
+    "equity": null,
+    "website": "banyansoftware.com",
+    "description": null,
+    "contacts": [
+      {
+        "name": "Mr William N Thorndike JR",
+        "title": "Board of Dirs"
+      },
+      {
+        "name": "Mr David Samuel Berkal",
+        "title": "Chief Executive Officer"
+      },
+      {
+        "name": "Mr Christopher W Bungo",
+        "title": "Owner"
+      },
+      {
+        "name": "C.J Knowles",
+        "title": "Business Development Manager"
+      },
+      {
+        "name": "Ms Nia Addison",
+        "title": "Client Relations Specialist"
+      },
+      {
+        "name": "Mr Enrique Casas",
+        "title": "Client Relations"
+      },
+      {
+        "name": "Mr David Cid",
+        "title": "Client Relations Specialist"
+      },
+      {
+        "name": "Mr Michael Malone",
+        "title": "Senior Client Relations Specialist & Information Technology Manager"
+      },
+      {
+        "name": "Mr Rey Mena",
+        "title": "Chief Technology Officer"
+      },
+      {
+        "name": "Mr Peter Elia",
+        "title": "Director of Technology"
+      },
+      {
+        "name": "Mr Peter Elia",
+        "title": "Director of Programming"
+      },
+      {
+        "name": "Mr Benjamin Singer",
+        "title": "Product Analyst"
+      },
+      {
+        "name": "Mr Antonio Garcia",
+        "title": "Director of Business Operations"
+      },
+      {
+        "name": "Mr Brandon Nixon",
+        "title": "Officer"
+      },
+      {
+        "name": "Mr Max Risen",
+        "title": "Head-M&A"
+      }
+    ]
+  },
+  {
+    "name": "SYAM SOFTWARE INCORPORATED",
+    "state": "NH",
+    "year_incorporated": "2003",
+    "nace": "5829",
+    "employees": "12",
+    "revenue_usd": 940000,
+    "pl_before_tax": null,
+    "total_assets": null,
+    "equity": null,
+    "website": "www.syamsoftware.com",
+    "description": null,
+    "contacts": [
+      {
+        "name": "Mr Nicholas Thickins",
+        "title": "Owner"
+      },
+      {
+        "name": "Mr Nicholas Thickins",
+        "title": "Officer"
+      },
+      {
+        "name": "Mr Michael Daniele",
+        "title": "Officer"
+      },
+      {
+        "name": "Mr Jose Gonzalez",
+        "title": "Officer"
+      }
+    ]
+  },
+  {
+    "name": "SDC SOLUTIONS INC",
+    "state": "NH",
+    "year_incorporated": "1984",
+    "nace": "5829",
+    "employees": "40",
+    "revenue_usd": 940000,
+    "pl_before_tax": null,
+    "total_assets": null,
+    "equity": null,
+    "website": "www.sdcsolutions.com",
+    "description": "Communications software developer",
+    "contacts": []
+  },
+  {
+    "name": "DISPLAYMATE TECHNOLOGIES CORPORATION",
+    "state": "NH",
+    "year_incorporated": "1999",
+    "nace": "5829",
+    "employees": "15",
+    "revenue_usd": 940000,
+    "pl_before_tax": null,
+    "total_assets": null,
+    "equity": null,
+    "website": "www.displaymate.com",
+    "description": null,
+    "contacts": [
+      {
+        "name": "Ms Julia Soneira",
+        "title": "Vice President"
+      },
+      {
+        "name": "Ms Julia Soneira",
+        "title": "Officer"
+      },
+      {
+        "name": "Ms Lauren Soneira",
+        "title": "Treasurer"
+      },
+      {
+        "name": "Mr Raymond Soneira",
+        "title": "Officer"
+      }
+    ]
+  },
+  {
+    "name": "INNER MEDIA INC",
+    "state": "NH",
+    "year_incorporated": "1985",
+    "nace": "5829",
+    "employees": "13",
+    "revenue_usd": 940000,
+    "pl_before_tax": null,
+    "total_assets": null,
+    "equity": null,
+    "website": "www.innermedia.com",
+    "description": null,
+    "contacts": []
+  },
+  {
+    "name": "KEY BUSINESS SOLUTIONS INC",
+    "state": "NH",
+    "year_incorporated": null,
+    "nace": "5829",
+    "employees": "45",
+    "revenue_usd": 940000,
+    "pl_before_tax": null,
+    "total_assets": null,
+    "equity": null,
+    "website": "www.key-soft.com",
+    "description": null,
+    "contacts": [
+      {
+        "name": "Mr Naresh Chowdary",
+        "title": "Recruiter"
+      }
+    ]
+  },
+  {
+    "name": "IBIS LLC",
+    "state": "NH",
+    "year_incorporated": "2017",
+    "nace": "5829",
+    "employees": "14",
+    "revenue_usd": 940000,
+    "pl_before_tax": null,
+    "total_assets": null,
+    "equity": null,
+    "website": "www.miedge.biz",
+    "description": "Insurance industry data analytics and insights platform Software-as-a-Service (SaaS) provider",
+    "contacts": [
+      {
+        "name": "Mr Mark Smith",
+        "title": "Founder & Chief Executive Officer"
+      },
+      {
+        "name": "Mr Jeffrey Bozek",
+        "title": "Sales Executive"
+      },
+      {
+        "name": "Mr Andy Cebs",
+        "title": "Vice President of Sales"
+      },
+      {
+        "name": "Ms Ashley Le",
+        "title": "Sales Executive"
+      },
+      {
+        "name": "Ms Suzanne O'Brien",
+        "title": "Customer Support Specialist"
+      },
+      {
+        "name": "Ms Bridget Austin",
+        "title": "Director of Data and Analytics"
+      },
+      {
+        "name": "Mr Bruce Duhamel",
+        "title": "Senior Software Engineer"
+      }
+    ]
+  },
+  {
+    "name": "BOOTSTRAP SOFTWARE PARTNERS, LLC",
+    "state": "NH",
+    "year_incorporated": "2003",
+    "nace": "5829",
+    "employees": "20",
+    "revenue_usd": 940000,
+    "pl_before_tax": null,
+    "total_assets": null,
+    "equity": null,
+    "website": "www.politemail.com",
+    "description": null,
+    "contacts": [
+      {
+        "name": "Mr Michael Desrochers",
+        "title": "Chief Executive Officer"
+      },
+      {
+        "name": "Mr Michael Desrochers",
+        "title": "Manager"
+      },
+      {
+        "name": "Mr Steven Gregoire",
+        "title": "Business Development"
+      },
+      {
+        "name": "Mr Kyle Merkle",
+        "title": "Controller"
+      },
+      {
+        "name": "Ms Beth Sakelarios",
+        "title": "Accounts Receivable"
+      },
+      {
+        "name": "Ashley Varney",
+        "title": "Human Resources Specialist"
+      },
+      {
+        "name": "Mr Martin Joel-Michael",
+        "title": "Sales Executive"
+      },
+      {
+        "name": "Ms Melissa Katski-Berry",
+        "title": "Sales Manager, Enterprise Account"
+      },
+      {
+        "name": "Ms Melissa Katski-Berry",
+        "title": "Enterprise Account / Sales Manager"
+      },
+      {
+        "name": "Ms Kathryn Reynolds",
+        "title": "Sales Assistant"
+      },
+      {
+        "name": "Mr Thomas Stirling",
+        "title": "Director, Marketing"
+      },
+      {
+        "name": "Ms Nicole Gagnon",
+        "title": "Marketing Campaign Coordinator"
+      },
+      {
+        "name": "Mr Mike McNeilly",
+        "title": "Senior Account Executive"
+      },
+      {
+        "name": "Mr Nick Melewski",
+        "title": "Account Executive"
+      },
+      {
+        "name": "Mr Thomas Eytel",
+        "title": "Customer Success Manager"
+      },
+      {
+        "name": "Ms Lillie Hua",
+        "title": "Customer Success Team Lead"
+      },
+      {
+        "name": "Ms Heather Franas",
+        "title": "Customer Success Representative"
+      },
+      {
+        "name": "Ms Chelsea Hoseit",
+        "title": "Customer Success Representative"
+      },
+      {
+        "name": "Ms Cassie Regan",
+        "title": "Customer Service Representative"
+      },
+      {
+        "name": "Mr Ian Meredith",
+        "title": "Chief Technology Officer"
+      },
+      {
+        "name": "Ms Brooke Malo",
+        "title": "Manager, Business Operations"
+      },
+      {
+        "name": "Mr Nikita Shah",
+        "title": "Software Quality Assurance Engineer"
+      },
+      {
+        "name": "Mr Chad Letourneau",
+        "title": "IT Administrator"
+      },
+      {
+        "name": "Mr Patrick Adams",
+        "title": "System Support Engineer"
+      },
+      {
+        "name": "Mr Ian Ball",
+        "title": "HTML Coding Email Designer / Web Designer / Developer"
+      },
+      {
+        "name": "Mr Kenneth Biel",
+        "title": "Senior Solutions Architect"
+      },
+      {
+        "name": "Mr Sean Leighton",
+        "title": "Software Developer"
+      },
+      {
+        "name": "Mr Paul Lovy",
+        "title": "Software Engineer"
+      },
+      {
+        "name": "Mr Connor Melnick",
+        "title": "Software Developer"
+      },
+      {
+        "name": "Mr Dan Metivier",
+        "title": "Systems Support Engineer III"
+      },
+      {
+        "name": "Mr Craig Wason",
+        "title": "Systems Support Engineer Ii"
+      },
+      {
+        "name": "Ms Alisa Carbone",
+        "title": "Documentation and Video Specialist"
+      },
+      {
+        "name": "Mr Carl Levine",
+        "title": "Support Engineer Ii"
+      }
+    ]
+  },
+  {
+    "name": "CONIX SYSTEMS",
+    "state": "KS",
+    "year_incorporated": "2002",
+    "nace": "5829",
+    "employees": "40",
+    "revenue_usd": 932000,
+    "pl_before_tax": null,
+    "total_assets": null,
+    "equity": null,
+    "website": "www.conix.com",
+    "description": null,
+    "contacts": []
+  },
+  {
+    "name": "TANGIBLE GLOBAL, INC",
+    "state": "OR",
+    "year_incorporated": "2017",
+    "nace": "5829",
+    "employees": "10",
+    "revenue_usd": 930000,
+    "pl_before_tax": null,
+    "total_assets": null,
+    "equity": null,
+    "website": "www.tangibleintelligence.ai",
+    "description": null,
+    "contacts": [
+      {
+        "name": "Ms Denise Barnes",
+        "title": "President"
+      },
+      {
+        "name": "Mr Robert Reynolds",
+        "title": "Executive"
+      }
+    ]
+  },
+  {
+    "name": "PATTERN LABS, INC.",
+    "state": "CO",
+    "year_incorporated": "2021",
+    "nace": "5829",
+    "employees": "18",
+    "revenue_usd": 930000,
+    "pl_before_tax": null,
+    "total_assets": null,
+    "equity": null,
+    "website": "www.patternlabs.ai",
+    "description": null,
+    "contacts": []
+  },
+  {
+    "name": "UNITED SAMPLE CORPORATION",
+    "state": "CA",
+    "year_incorporated": "2011",
+    "nace": "5829",
+    "employees": "183",
+    "revenue_usd": 930000,
+    "pl_before_tax": null,
+    "total_assets": null,
+    "equity": null,
+    "website": "www.usamp.com",
+    "description": "Engaged in providing commercial business, marketing, opinion, and other economic research",
+    "contacts": [
+      {
+        "name": "Mr Ian Riner",
+        "title": "Director of Research Solutions"
+      }
+    ]
+  },
+  {
+    "name": "TEMPO",
+    "state": "FL",
+    "year_incorporated": null,
+    "nace": "5829",
+    "employees": "12",
+    "revenue_usd": 930000,
+    "pl_before_tax": null,
+    "total_assets": null,
+    "equity": null,
+    "website": "www.tempo.io",
+    "description": null,
+    "contacts": []
+  },
+  {
+    "name": "RETRIEVE TECHNOLOGIES, INC.",
+    "state": "NH",
+    "year_incorporated": "2018",
+    "nace": "5829",
+    "employees": "30",
+    "revenue_usd": 930000,
+    "pl_before_tax": null,
+    "total_assets": null,
+    "equity": null,
+    "website": "www.retrieve.com",
+    "description": null,
+    "contacts": [
+      {
+        "name": "Mr David C Arnold",
+        "title": "President & Chief Executive Officer"
+      },
+      {
+        "name": "Mr John A Rogers",
+        "title": "Chief Financial Officer"
+      },
+      {
+        "name": "Mr James Otey",
+        "title": "Product Manager"
+      },
+      {
+        "name": "Mr Dan Foody",
+        "title": "Officer"
+      },
+      {
+        "name": "Mr Michael A Ouellette",
+        "title": "Officer"
+      },
+      {
+        "name": "Mr Stephen Bryant",
+        "title": "Java Developer"
+      },
+      {
+        "name": "Ms Susannah Humphrey",
+        "title": "Content Specialist"
+      },
+      {
+        "name": "Mr John McKenna",
+        "title": "Content Producer"
+      }
+    ]
+  },
+  {
+    "name": "AGILEMD, INC.",
+    "state": "CA",
+    "year_incorporated": "2022",
+    "nace": "5829",
+    "employees": "15",
+    "revenue_usd": 920000,
+    "pl_before_tax": null,
+    "total_assets": null,
+    "equity": null,
+    "website": "www.agilemd.com",
+    "description": null,
+    "contacts": [
+      {
+        "name": "Borna Safabakhsh",
+        "title": "Secretary"
+      }
+    ]
+  }
+]

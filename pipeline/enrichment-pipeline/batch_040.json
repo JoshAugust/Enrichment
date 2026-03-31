@@ -1,0 +1,940 @@
+[
+  {
+    "name": "NEXTRUST SOLUTIONS, LLC",
+    "state": "UT",
+    "year_incorporated": "2011",
+    "nace": "5829",
+    "employees": "15",
+    "revenue_usd": 6500000,
+    "pl_before_tax": null,
+    "total_assets": null,
+    "equity": null,
+    "website": "www.nextrust.com",
+    "description": null,
+    "contacts": [
+      {
+        "name": "Mr Tyler W Walton",
+        "title": "Founder & Chief Executive Officer"
+      },
+      {
+        "name": "Mr Tyler W Walton",
+        "title": "Member"
+      },
+      {
+        "name": "Mr Richard Davis",
+        "title": "Customer Success Vice President, Business Development"
+      },
+      {
+        "name": "Mr Joseph Anderson",
+        "title": "Sales Executive"
+      },
+      {
+        "name": "Mr Dave Jensen",
+        "title": "Sales Executive"
+      },
+      {
+        "name": "Mr Tony Peterson",
+        "title": "Director, Var Sales"
+      },
+      {
+        "name": "Ty Sneddon",
+        "title": "Director, Inside Sales & Customer Success"
+      },
+      {
+        "name": "Ms Jennifer Tolman",
+        "title": "Sales Executive"
+      },
+      {
+        "name": "Mr James Easley",
+        "title": "Vice President Marketing"
+      },
+      {
+        "name": "Mr Todd Porter",
+        "title": "Director, Customer Success"
+      },
+      {
+        "name": "Mr Michael Smith",
+        "title": "Director of Client Services"
+      },
+      {
+        "name": "Mr Michael Smith",
+        "title": "BI Director, Product Management"
+      },
+      {
+        "name": "Ms Disola Horst",
+        "title": "Account Manager"
+      },
+      {
+        "name": "Jackie Hsu",
+        "title": "Account Manager"
+      },
+      {
+        "name": "Ms Grace Totten",
+        "title": "Account Manager"
+      },
+      {
+        "name": "Mr Kevin Lloyd",
+        "title": "Product Management BI Analyst"
+      },
+      {
+        "name": "Mr Joe Fisher",
+        "title": "Operations Manager"
+      },
+      {
+        "name": "Mr Blake Jensen",
+        "title": "Director"
+      }
+    ]
+  },
+  {
+    "name": "LIVEHELPNOW, LLC",
+    "state": "PA",
+    "year_incorporated": "2003",
+    "nace": "5829",
+    "employees": "15",
+    "revenue_usd": 6500000,
+    "pl_before_tax": null,
+    "total_assets": null,
+    "equity": null,
+    "website": "www.livehelpnow.net",
+    "description": null,
+    "contacts": [
+      {
+        "name": "Mr Michael Kansky",
+        "title": "Founder & Chief Executive Officer"
+      },
+      {
+        "name": "Mr Michael Kansky",
+        "title": "Founder & Chief Technology Officer"
+      },
+      {
+        "name": "Mr Ben Grinberg",
+        "title": "Director of Marketing and Sales"
+      },
+      {
+        "name": "Mr Jared Brown",
+        "title": "Account Manager / Technical Support Specialist"
+      },
+      {
+        "name": "Mr Jared Brown",
+        "title": "Manager, Technical Support"
+      }
+    ]
+  },
+  {
+    "name": "INTEGRATED INVENTORY TECHNOLOGY INC",
+    "state": "IL",
+    "year_incorporated": "2023",
+    "nace": "5829",
+    "employees": "80",
+    "revenue_usd": 6490000,
+    "pl_before_tax": null,
+    "total_assets": null,
+    "equity": null,
+    "website": "iit-sourcetech.com",
+    "description": null,
+    "contacts": []
+  },
+  {
+    "name": "SHORELINE LABS, INC.",
+    "state": "CA",
+    "year_incorporated": "2019",
+    "nace": "5829",
+    "employees": "55",
+    "revenue_usd": 6490000,
+    "pl_before_tax": null,
+    "total_assets": null,
+    "equity": null,
+    "website": "www.nightfall.ai",
+    "description": "Cloud-native data loss prevention, SaaS and data infrastructure analytics software developer",
+    "contacts": [
+      {
+        "name": "Mr Rohan Sathe",
+        "title": "Agent"
+      }
+    ]
+  },
+  {
+    "name": "SIMPATICO SYSTEMS, LLC",
+    "state": "TX",
+    "year_incorporated": "2013",
+    "nace": "5829",
+    "employees": "50",
+    "revenue_usd": 6490000,
+    "pl_before_tax": null,
+    "total_assets": null,
+    "equity": null,
+    "website": "www.simpatico.com",
+    "description": "Engaged in providing cyber security & IT services",
+    "contacts": [
+      {
+        "name": "Mr Darren Gardner",
+        "title": "President"
+      },
+      {
+        "name": "Mr Stanley Martin",
+        "title": "Partner"
+      },
+      {
+        "name": "Mr Greg Meyet",
+        "title": "Partner"
+      },
+      {
+        "name": "Mr Nathaniel Thomas Hasse",
+        "title": "Executive Vice President of Business Development and Marketing"
+      },
+      {
+        "name": "Mr Nathaniel Thomas Hasse",
+        "title": "Executive Vice President, Sales & Marketing"
+      },
+      {
+        "name": "Ms Sarah Hart",
+        "title": "Executive Assistant"
+      },
+      {
+        "name": "Ms Sarah Hart",
+        "title": "Authorized Person"
+      },
+      {
+        "name": "Mr Pepper Campbell",
+        "title": "Chief Financial Officer"
+      },
+      {
+        "name": "Mr Pepper Campbell",
+        "title": "Manager"
+      },
+      {
+        "name": "Ms Erica Campbell",
+        "title": "Accounts Receivable"
+      },
+      {
+        "name": "Mr Tony Hernandez",
+        "title": "Director, Sales (East)"
+      },
+      {
+        "name": "Ms Stephanie Bell",
+        "title": "Area Sales Manager"
+      },
+      {
+        "name": "Mr Andy White",
+        "title": "Inside Sales Manager"
+      },
+      {
+        "name": "Mr Dylan Ledbetter",
+        "title": "Sales Support"
+      },
+      {
+        "name": "Mr Dereck Radford",
+        "title": "Lead Help Desk Engineer"
+      },
+      {
+        "name": "Mr Jon Campbell",
+        "title": "Project Manager"
+      },
+      {
+        "name": "Mr Josue Macias",
+        "title": "Senior Project Manager"
+      },
+      {
+        "name": "Mr Jeremy Roe",
+        "title": "Project Manager, Systems Technician"
+      },
+      {
+        "name": "Mr Jason Manzanares",
+        "title": "Procurement Manager"
+      },
+      {
+        "name": "Mr Cory Ruthardt",
+        "title": "Executive Vice President Information Technology, Chief Information Officer"
+      },
+      {
+        "name": "Mr Cory Ruthardt",
+        "title": "No specific function"
+      },
+      {
+        "name": "Mr Gavin Carpenter",
+        "title": "Director, Information Technology"
+      },
+      {
+        "name": "Mr Jonathan Fonner",
+        "title": "Tier 2 Systems Administrator"
+      },
+      {
+        "name": "Mr David Leibowitz",
+        "title": "Information Technology Director"
+      },
+      {
+        "name": "Parker Merrill",
+        "title": "Director, Information Technology"
+      },
+      {
+        "name": "Mr Will Averett",
+        "title": "IT California Pod Help Desk Engineer"
+      },
+      {
+        "name": "Mr Gregory M Bazar",
+        "title": "Systems"
+      },
+      {
+        "name": "Mr Gregory M Bazar",
+        "title": "Officer"
+      },
+      {
+        "name": "Mr Gregory M Bazar",
+        "title": "Managing M"
+      },
+      {
+        "name": "Mr Gregory M Bazar",
+        "title": "Manager"
+      },
+      {
+        "name": "Mr Rey Coronado",
+        "title": "Solutions Specialist"
+      },
+      {
+        "name": "Mr Tag Davis",
+        "title": "Solutions Specialist"
+      },
+      {
+        "name": "Mr Cyrus H. Driver",
+        "title": "Officer"
+      },
+      {
+        "name": "Mr Cyrus H. Driver",
+        "title": "Manager"
+      },
+      {
+        "name": "Mr Vaughn Pepper",
+        "title": "Manager"
+      },
+      {
+        "name": "Mr Malachi Bazar",
+        "title": "Tier 2 Help Desk Engineer"
+      },
+      {
+        "name": "Mr Noah Bristol",
+        "title": "Tier 1 Help Desk Engineer"
+      },
+      {
+        "name": "Mr Jeremiah O Dwyer",
+        "title": "Member"
+      },
+      {
+        "name": "Mr Brandon Kerth",
+        "title": "Tier 1 Help Desk Engineer"
+      },
+      {
+        "name": "Mr Kevin Kirkland",
+        "title": "Escalation Support Engineer"
+      },
+      {
+        "name": "Mr Sheldon Slusher",
+        "title": "Tier 2 Help Desk Engineer"
+      },
+      {
+        "name": "Mr Andy Toy",
+        "title": "Tier 3 Help Desk Engineer"
+      },
+      {
+        "name": "Mr Ryan Wyatt",
+        "title": "Tier 1 Help Desk Engineer"
+      },
+      {
+        "name": "Everrett Young",
+        "title": "Tier 1 Help Desk Engineer"
+      },
+      {
+        "name": "Mr Michael C Youngblood",
+        "title": "Tier 2 Help Desk Engineer"
+      },
+      {
+        "name": "Ms Jeramia Cohen",
+        "title": "Ciso Cissp"
+      },
+      {
+        "name": "Pepper Hinkle",
+        "title": "Real Property"
+      }
+    ]
+  },
+  {
+    "name": "LEAFBUYER TECHNOLOGIES, INC.",
+    "state": "CO",
+    "year_incorporated": "2014",
+    "nace": "5829",
+    "employees": "12",
+    "revenue_usd": 6471570,
+    "pl_before_tax": 260670,
+    "total_assets": 1129970,
+    "equity": -1373330,
+    "website": "www.leafbuyer.com",
+    "description": "Leafbuyer Technologies, Inc. provides a comprehensive marketing technology platform. The Company's clients, medical and recreational dispensaries, in legalized cannabis states, along with cannabis product companies subscribe to its technology platform to assist in new customer acquisition. It provides retention tools to those companies that include texting/loyalty and ordering ahead technology. Its Leafbuyer Technology Platform reaches many cannabis consumers every month through its Web-based platform, loyalty platform and smart application technology. The Company's Website's sophisticated vendor dashboard allows its clients to update their menus, deals and create real-time messages to communicate with consumers 24/7. Through its total network program, text messages that are sent are converted into add units that are posted to Leafbuyer.com in real-time. This is part of its Live Deals section and is up to the minute content that is 100% searchable the minute it goes live.",
+    "contacts": [
+      {
+        "name": "Mr Kurt Rossner",
+        "title": "Chairman of the Board, President, Chief Executive Officer"
+      },
+      {
+        "name": "Mr Kurt Rossner",
+        "title": "Officer"
+      },
+      {
+        "name": "Ms Kristin Lea Baca",
+        "title": "Board of Dirs; Independent Director"
+      },
+      {
+        "name": "Mr Jeremy Mark Breen",
+        "title": "Chief Financial Officer, Director"
+      },
+      {
+        "name": "Mr Jeremy Mark Breen",
+        "title": "Co-Founder and Vice President of Business Development"
+      },
+      {
+        "name": "Mr Jeremy Mark Breen",
+        "title": "Chief Operating Officer"
+      },
+      {
+        "name": "Mr Jeremy Mark Breen",
+        "title": "Officer"
+      },
+      {
+        "name": "Mr Jeremy Mark Breen",
+        "title": "Executive"
+      },
+      {
+        "name": "Mr J Jeffrey Rudolph",
+        "title": "Board of Dirs; Independent Director"
+      },
+      {
+        "name": "Mr Michael Goerner",
+        "title": "Chief Technology Officer, Treasurer, Director"
+      },
+      {
+        "name": "Mr Michael Goerner",
+        "title": "Officer"
+      },
+      {
+        "name": "Mr Michael Goerner",
+        "title": "Executive"
+      },
+      {
+        "name": "Ms Tina Lake",
+        "title": "Director, Accounting"
+      },
+      {
+        "name": "Ms Deb Buckley",
+        "title": "Administrative Assistant"
+      },
+      {
+        "name": "Mr Andre Leonard",
+        "title": "Senior Manager, Marketing"
+      },
+      {
+        "name": "Shawn Burke",
+        "title": "Account Executive"
+      },
+      {
+        "name": "Ms Heather Maloney",
+        "title": "Director of Customer Satisfaction"
+      },
+      {
+        "name": "Mr Mason Jones",
+        "title": "Account Manager"
+      },
+      {
+        "name": "Mr Johannes Railsback",
+        "title": "Product Account Manager"
+      },
+      {
+        "name": "Mr John Railsback",
+        "title": "Account Manager, Product"
+      },
+      {
+        "name": "Ms Stephanie Rine",
+        "title": "Account Supervisor"
+      },
+      {
+        "name": "Mr Chris Christian",
+        "title": "National Products Specialist"
+      }
+    ]
+  },
+  {
+    "name": "ARTCLOUD, LLC",
+    "state": "GA",
+    "year_incorporated": "2015",
+    "nace": "5829",
+    "employees": "10",
+    "revenue_usd": 6470000,
+    "pl_before_tax": null,
+    "total_assets": null,
+    "equity": null,
+    "website": "artcloud.com",
+    "description": null,
+    "contacts": [
+      {
+        "name": "Mr Alex West",
+        "title": "Chief Executive Officer"
+      },
+      {
+        "name": "Mr Dennis L. Zakas",
+        "title": "Organizer"
+      }
+    ]
+  },
+  {
+    "name": "REAL INTENT, INC.",
+    "state": "CA",
+    "year_incorporated": "2004",
+    "nace": "5829",
+    "employees": "20",
+    "revenue_usd": 6450000,
+    "pl_before_tax": null,
+    "total_assets": null,
+    "equity": null,
+    "website": "www.realintent.com",
+    "description": null,
+    "contacts": [
+      {
+        "name": "Mr Ramesh Dewangan",
+        "title": "Vice President, Product Strategy and Business Development"
+      },
+      {
+        "name": "Mr Andrew Guyler",
+        "title": "Senior Member of Technical Staff"
+      },
+      {
+        "name": "Mr Rajiv Kumar",
+        "title": "Chief Operating Officer"
+      },
+      {
+        "name": "Mr Rajiv Kumar",
+        "title": "Officer"
+      },
+      {
+        "name": "Mr Robert Barton",
+        "title": "Director of Information Technology"
+      },
+      {
+        "name": "Mr Prakash Narain",
+        "title": "Officer"
+      }
+    ]
+  },
+  {
+    "name": "ENVISIONWARE INC",
+    "state": "OH",
+    "year_incorporated": "2003",
+    "nace": "5829",
+    "employees": "10",
+    "revenue_usd": 6440000,
+    "pl_before_tax": null,
+    "total_assets": null,
+    "equity": null,
+    "website": "www.envisionware.com",
+    "description": null,
+    "contacts": []
+  },
+  {
+    "name": "BRAINOMIX USA INC.",
+    "state": "IL",
+    "year_incorporated": "2022",
+    "nace": "5829",
+    "employees": "10",
+    "revenue_usd": 6440000,
+    "pl_before_tax": null,
+    "total_assets": null,
+    "equity": null,
+    "website": "www.brainomix.com",
+    "description": null,
+    "contacts": [
+      {
+        "name": "Papadakis Michail",
+        "title": "President"
+      },
+      {
+        "name": "Ms Melissa Strange",
+        "title": "Secretary"
+      },
+      {
+        "name": "Ms Melissa Strange",
+        "title": "Setr"
+      },
+      {
+        "name": "Mr Charles Barker Andrew",
+        "title": "Dr"
+      },
+      {
+        "name": "Laura Harris",
+        "title": "Setr"
+      }
+    ]
+  },
+  {
+    "name": "MIGHTYID INC.",
+    "state": "CA",
+    "year_incorporated": "2024",
+    "nace": "5829",
+    "employees": "13",
+    "revenue_usd": 6430000,
+    "pl_before_tax": null,
+    "total_assets": null,
+    "equity": null,
+    "website": "www.mightyid.com",
+    "description": "Identity and access management platform operator",
+    "contacts": [
+      {
+        "name": "Mr Reza Zadjmool",
+        "title": "Chief Executive Officer"
+      },
+      {
+        "name": "Ms Nazanin Fouladirad",
+        "title": "Other"
+      }
+    ]
+  },
+  {
+    "name": "OBJECTBUILDERS INC",
+    "state": "PA",
+    "year_incorporated": null,
+    "nace": "5829",
+    "employees": "11",
+    "revenue_usd": 6430000,
+    "pl_before_tax": null,
+    "total_assets": null,
+    "equity": null,
+    "website": "www.objectbuilders.com",
+    "description": "Engaged in the production and design of prepackaged computer software",
+    "contacts": []
+  },
+  {
+    "name": "SIFT MEDICAL DATA INC",
+    "state": "WI",
+    "year_incorporated": null,
+    "nace": "5829",
+    "employees": "20",
+    "revenue_usd": 6430000,
+    "pl_before_tax": null,
+    "total_assets": null,
+    "equity": null,
+    "website": "www.sifthealthcare.com",
+    "description": "Healthcare revenue data and analytics Software-as-a-Service (SaaS) provider",
+    "contacts": []
+  },
+  {
+    "name": "STEWART TITLE OF MIDLAND, L.L.C.",
+    "state": "TX",
+    "year_incorporated": "1999",
+    "nace": "5829",
+    "employees": "18",
+    "revenue_usd": 6420000,
+    "pl_before_tax": null,
+    "total_assets": null,
+    "equity": null,
+    "website": "www.stewart.com",
+    "description": null,
+    "contacts": []
+  },
+  {
+    "name": "PRICING MINDS, LLC",
+    "state": "IL",
+    "year_incorporated": "2023",
+    "nace": "5829",
+    "employees": "10",
+    "revenue_usd": 6410000,
+    "pl_before_tax": null,
+    "total_assets": null,
+    "equity": null,
+    "website": "www.pricingminds.com",
+    "description": null,
+    "contacts": [
+      {
+        "name": "Bhagavathula Ravi Kiran",
+        "title": "Manager"
+      },
+      {
+        "name": "Bhagavathula Venkata Sailaja",
+        "title": "Contact"
+      }
+    ]
+  },
+  {
+    "name": "KEYO INC",
+    "state": "IL",
+    "year_incorporated": "2019",
+    "nace": "5829",
+    "employees": "18",
+    "revenue_usd": 6400000,
+    "pl_before_tax": null,
+    "total_assets": null,
+    "equity": null,
+    "website": "keyo.com",
+    "description": "Biometric identity software developer ; Biometric identity platform operator",
+    "contacts": []
+  },
+  {
+    "name": "TELEMEDICINE SOLUTIONS LLC",
+    "state": "IL",
+    "year_incorporated": "2005",
+    "nace": "5829",
+    "employees": "14",
+    "revenue_usd": 6400000,
+    "pl_before_tax": null,
+    "total_assets": null,
+    "equity": null,
+    "website": "www.woundrounds.com",
+    "description": null,
+    "contacts": [
+      {
+        "name": "Mr Cory Fosco",
+        "title": "Vice President, Sales"
+      },
+      {
+        "name": "Ms Betty Czowiecki",
+        "title": "Director of Delivery"
+      },
+      {
+        "name": "Ms Diana Easton",
+        "title": "Implementation Specialist"
+      },
+      {
+        "name": "Jayme Smith",
+        "title": "Implementation Specialist"
+      },
+      {
+        "name": "Mr David Devereaux",
+        "title": "Contact"
+      },
+      {
+        "name": "Mr Mike Diamond",
+        "title": "Contact"
+      },
+      {
+        "name": "Mr John Hass",
+        "title": "Contact"
+      },
+      {
+        "name": "Mr David Karr",
+        "title": "Contractor"
+      },
+      {
+        "name": "Mr George Ruhana",
+        "title": "Contact"
+      },
+      {
+        "name": "Mr Philip Sheridan",
+        "title": "Contact"
+      },
+      {
+        "name": "Mr Corey Tobin",
+        "title": "Contact"
+      }
+    ]
+  },
+  {
+    "name": "//SEIBERT/MEDIA CORP",
+    "state": "WY",
+    "year_incorporated": "2021",
+    "nace": "5829",
+    "employees": "10",
+    "revenue_usd": 6400000,
+    "pl_before_tax": null,
+    "total_assets": null,
+    "equity": null,
+    "website": "seibert.group/en",
+    "description": null,
+    "contacts": [
+      {
+        "name": "Mr Martin Seibert",
+        "title": "President"
+      }
+    ]
+  },
+  {
+    "name": "ALLOVUE, INC.",
+    "state": "MD",
+    "year_incorporated": "2015",
+    "nace": "5829",
+    "employees": "55",
+    "revenue_usd": 6400000,
+    "pl_before_tax": null,
+    "total_assets": null,
+    "equity": null,
+    "website": "www.allovue.com",
+    "description": null,
+    "contacts": [
+      {
+        "name": "Mr Jess Gartner",
+        "title": "Chief Executive Officer and Founder"
+      },
+      {
+        "name": "Ms Micaela Ferrero",
+        "title": "Business Development Specialist"
+      },
+      {
+        "name": "Ms Crystal Coache",
+        "title": "Director of Talent"
+      },
+      {
+        "name": "Ms Laura Nord",
+        "title": "Vice President of Sales"
+      },
+      {
+        "name": "Ms Megan Rainbow",
+        "title": "Manager, Megan Rainbow Sales Marketing Operations"
+      },
+      {
+        "name": "Ms Autumn Dorsey",
+        "title": "Marketing Manager"
+      },
+      {
+        "name": "Ms Jessica Garrett",
+        "title": "Communications Manager"
+      },
+      {
+        "name": "Ms Rosalyn Curato",
+        "title": "Chief Customer Officer"
+      },
+      {
+        "name": "Ms Maggie Lubberts",
+        "title": "Senior Product Manager"
+      },
+      {
+        "name": "Mr Brandyn Bennett",
+        "title": "Software Developer"
+      },
+      {
+        "name": "Mr Patrick Duffy",
+        "title": "Data Associate"
+      },
+      {
+        "name": "Mr Paul Ostazeski",
+        "title": "Senior Software Developer"
+      },
+      {
+        "name": "Lolo Zhang",
+        "title": "Designer"
+      }
+    ]
+  },
+  {
+    "name": "AKUPARA GAMES, LLC",
+    "state": "CA",
+    "year_incorporated": "2016",
+    "nace": "5829",
+    "employees": "14",
+    "revenue_usd": 6400000,
+    "pl_before_tax": null,
+    "total_assets": null,
+    "equity": null,
+    "website": "www.akuparagames.com",
+    "description": null,
+    "contacts": [
+      {
+        "name": "Mr David Logan",
+        "title": "Chief Executive Officer"
+      },
+      {
+        "name": "Mr David Logan",
+        "title": "Manager"
+      }
+    ]
+  },
+  {
+    "name": "PERUSE SOFTWARE INC",
+    "state": "NH",
+    "year_incorporated": "2015",
+    "nace": "5829",
+    "employees": "14",
+    "revenue_usd": 6380000,
+    "pl_before_tax": null,
+    "total_assets": null,
+    "equity": null,
+    "website": "www.perusesoftware.com",
+    "description": null,
+    "contacts": []
+  },
+  {
+    "name": "CLEARCOMPANY",
+    "state": "NY",
+    "year_incorporated": null,
+    "nace": "5829",
+    "employees": "13",
+    "revenue_usd": 6380000,
+    "pl_before_tax": null,
+    "total_assets": null,
+    "equity": null,
+    "website": "www.clearcompany.com",
+    "description": null,
+    "contacts": []
+  },
+  {
+    "name": "DESIGN FUSION, INC",
+    "state": "PA",
+    "year_incorporated": "2013",
+    "nace": "5829",
+    "employees": "18",
+    "revenue_usd": 6380000,
+    "pl_before_tax": null,
+    "total_assets": null,
+    "equity": null,
+    "website": "www.designfusion.com",
+    "description": null,
+    "contacts": [
+      {
+        "name": "Mr Kevin Johnstone",
+        "title": "President"
+      },
+      {
+        "name": "Mr Greg Marsh",
+        "title": "Secretary"
+      }
+    ]
+  },
+  {
+    "name": "MANGOMINT, INC.",
+    "state": "CA",
+    "year_incorporated": "2016",
+    "nace": "5829",
+    "employees": "40",
+    "revenue_usd": 6380000,
+    "pl_before_tax": null,
+    "total_assets": null,
+    "equity": null,
+    "website": "www.mangomint.com",
+    "description": "Salon and spa management Software-as-a-Service (SaaS) provider",
+    "contacts": [
+      {
+        "name": "Mr Daniel Lang",
+        "title": "Chief Financial Officer"
+      },
+      {
+        "name": "Mr Daniel Poineau",
+        "title": "Chief Financial Officer"
+      },
+      {
+        "name": "Ms Gabriela Xavier",
+        "title": "Senior Customer Success Manager"
+      },
+      {
+        "name": "Ms Sandra Huber",
+        "title": "Senior Engineer"
+      }
+    ]
+  },
+  {
+    "name": "ENSYTE ENERGY SOFTWARE INTERNATIONAL INC",
+    "state": "TX",
+    "year_incorporated": null,
+    "nace": "5829",
+    "employees": "10",
+    "revenue_usd": 6370000,
+    "pl_before_tax": null,
+    "total_assets": null,
+    "equity": null,
+    "website": "www.ensyte.com",
+    "description": null,
+    "contacts": []
+  }
+]

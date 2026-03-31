@@ -1,0 +1,98 @@
+[
+  {
+    "company_name": "ELM CREST RETIREMENT COMMUNITY",
+    "state": "IA",
+    "website": "https://abhomes.net",
+    "current_revenue": 26400
+  },
+  {
+    "company_name": "SUNSHINE AIR CONDITIONING, INC.",
+    "state": "FL",
+    "website": "https://sunshineac.com",
+    "current_revenue": 26400
+  },
+  {
+    "company_name": "MCINTOSH CLINIC, P.C.",
+    "state": "GA",
+    "website": "https://www.mcintoshclinic.com",
+    "current_revenue": 26400
+  },
+  {
+    "company_name": "CARLISLE COUNTY BOARD OF EDUCATION",
+    "state": "KY",
+    "website": "https://www.carlisle.kyschools.us",
+    "current_revenue": 26400
+  },
+  {
+    "company_name": "R. UDELSON, INC.",
+    "state": "FL",
+    "website": "https://www.powertrac.com",
+    "current_revenue": 26400
+  },
+  {
+    "company_name": "DAVID BEAR, INC.",
+    "state": "IA",
+    "website": "https://www.davidbearinc.com",
+    "current_revenue": 26400
+  },
+  {
+    "company_name": "CEDAR COVE, INC.",
+    "state": "FL",
+    "website": "https://www.cedarcoveroofing.com",
+    "current_revenue": 26400
+  },
+  {
+    "company_name": "LA FOLLETTE MEDICAL CENTER",
+    "state": null,
+    "website": "https://www.tennovalafollette.com",
+    "current_revenue": null
+  },
+  {
+    "company_name": "JPI CALIFORNIA CONSTRUCTION SERVICES, L.P.",
+    "state": "TX",
+    "website": "https://www.jpi.com",
+    "current_revenue": 26400
+  },
+  {
+    "company_name": "Croswell of Williamsburg LLC (Croswell Bus Line Inc)",
+    "state": "OH",
+    "website": "https://gocroswell.com",
+    "current_revenue": 26400
+  },
+  {
+    "company_name": "Dynojet Research Inc",
+    "state": "NV",
+    "website": "https://www.dynojet.com",
+    "current_revenue": 26400
+  },
+  {
+    "company_name": "The Systems Depot Inc",
+    "state": "NC",
+    "website": "https://sdepot.com",
+    "current_revenue": null
+  },
+  {
+    "company_name": "SOWELA Technical Community College Foundation",
+    "state": "LA",
+    "website": "https://www.sowela.edu/give/foundation/",
+    "current_revenue": null
+  },
+  {
+    "company_name": "Dennett Construction Inc",
+    "state": "UT",
+    "website": "https://dennettconstruction.com",
+    "current_revenue": null
+  },
+  {
+    "company_name": "InfoAxis Inc (Infoaxis)",
+    "state": "NJ",
+    "website": "https://infoaxis.com",
+    "current_revenue": null
+  },
+  {
+    "company_name": "Steven W. Smith DDS PLLC (Smith Family and Cosmetic Dentistry)",
+    "state": "NC",
+    "website": "https://yourcarolinadentist.com",
+    "current_revenue": null
+  }
+]

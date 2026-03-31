@@ -1,0 +1,959 @@
+[
+  {
+    "name": "AMAZE SOFTWARE INC",
+    "state": "CA",
+    "year_incorporated": "2011",
+    "nace": "5829",
+    "employees": "35",
+    "revenue_usd": 1040000,
+    "pl_before_tax": null,
+    "total_assets": null,
+    "equity": null,
+    "website": "www.amaze.co",
+    "description": "End-to-end ecommerce platform services provider",
+    "contacts": [
+      {
+        "name": "Mr Bob Braham",
+        "title": "Chief Executive Officer"
+      },
+      {
+        "name": "Mr Aaron Day",
+        "title": "Chief Executive Officer & Secretary"
+      },
+      {
+        "name": "Mr Jed Katz",
+        "title": "Secretary"
+      },
+      {
+        "name": "Mr Jerry Murdoch",
+        "title": "Chief Financial Officer"
+      },
+      {
+        "name": "Ms Laura Haines",
+        "title": "Other"
+      }
+    ]
+  },
+  {
+    "name": "BELLAWATT INC",
+    "state": "IL",
+    "year_incorporated": "2019",
+    "nace": "5829",
+    "employees": "10",
+    "revenue_usd": 1040000,
+    "pl_before_tax": null,
+    "total_assets": null,
+    "equity": null,
+    "website": "www.bellawatt.com",
+    "description": null,
+    "contacts": []
+  },
+  {
+    "name": "FIRSTWATCH SOLUTIONS, INC.",
+    "state": "CA",
+    "year_incorporated": "1998",
+    "nace": "5829",
+    "employees": "70",
+    "revenue_usd": 1040000,
+    "pl_before_tax": null,
+    "total_assets": null,
+    "equity": null,
+    "website": "firstwatch.net",
+    "description": null,
+    "contacts": [
+      {
+        "name": "Mr Todd Stout",
+        "title": "Chief Executive Officer"
+      },
+      {
+        "name": "Mr Todd Stout",
+        "title": "Cpvp"
+      },
+      {
+        "name": "Ms Randy Skomsvold",
+        "title": "Chief Financial Officer"
+      },
+      {
+        "name": "Mr Edward Chiu",
+        "title": "Officer"
+      },
+      {
+        "name": "Mr Baker Marc",
+        "title": "Officer"
+      },
+      {
+        "name": "Mr Baker Marc",
+        "title": "Vice-Chancellor"
+      }
+    ]
+  },
+  {
+    "name": "VANTIQ, INC.",
+    "state": "CA",
+    "year_incorporated": "2014",
+    "nace": "5829",
+    "employees": "14",
+    "revenue_usd": 1040000,
+    "pl_before_tax": null,
+    "total_assets": null,
+    "equity": null,
+    "website": "www.vantiq.com",
+    "description": "Event-driven applications for real-time business creation platform operator",
+    "contacts": [
+      {
+        "name": "Mr Martin Jay Sprinzen",
+        "title": "Chief Executive Officer"
+      },
+      {
+        "name": "Mr William Daniher",
+        "title": "Chief Financial Officer"
+      },
+      {
+        "name": "Mr David Dinerman",
+        "title": "Chief Financial Officer"
+      },
+      {
+        "name": "Mr Paul Ginocchio",
+        "title": "Chief Financial Officer"
+      },
+      {
+        "name": "Mr Andrew Preston",
+        "title": "Chief Financial Officer"
+      },
+      {
+        "name": "Ms Candace Blaylock",
+        "title": "Human Resources Manager"
+      },
+      {
+        "name": "Mr Blaine Mathieu",
+        "title": "Chief Marketing and Product Officer"
+      },
+      {
+        "name": "Ms Diana Rudolph",
+        "title": "Director, Marketing"
+      },
+      {
+        "name": "Mr Neil Kelley",
+        "title": "Senior Account Director, Northeast"
+      },
+      {
+        "name": "Mr Michael Ping",
+        "title": "Senior Director, Alliances"
+      }
+    ]
+  },
+  {
+    "name": "EKRAN SYSTEM INC",
+    "state": "CA",
+    "year_incorporated": "2017",
+    "nace": "5829",
+    "employees": "11",
+    "revenue_usd": 1040000,
+    "pl_before_tax": null,
+    "total_assets": null,
+    "equity": null,
+    "website": "www.ekransystem.com",
+    "description": null,
+    "contacts": [
+      {
+        "name": "Mr Oleg Bogdanovich Shomonko",
+        "title": "No specific function"
+      },
+      {
+        "name": "Mr Neil Butchart",
+        "title": "Senior Vice President"
+      }
+    ]
+  },
+  {
+    "name": "KATRISK LLC",
+    "state": "CA",
+    "year_incorporated": "2012",
+    "nace": "5829",
+    "employees": "12",
+    "revenue_usd": 1040000,
+    "pl_before_tax": null,
+    "total_assets": null,
+    "equity": null,
+    "website": "www.katrisk.com",
+    "description": "Global catastrophe modelling software publisher",
+    "contacts": [
+      {
+        "name": "Mr Jeffrey Chen",
+        "title": "Chief Executive Officer"
+      },
+      {
+        "name": "Mr Jeffrey Chen",
+        "title": "Manager"
+      },
+      {
+        "name": "Mr Dag Lohmann",
+        "title": "Shareholder; Chief Executive Officer & Co-Founder"
+      },
+      {
+        "name": "Mr Brandon Katz",
+        "title": "Executive Vice President"
+      },
+      {
+        "name": "Mr Guy Morrow",
+        "title": "Manager"
+      },
+      {
+        "name": "Mr Eric Nieters",
+        "title": "Manager"
+      }
+    ]
+  },
+  {
+    "name": "STACKWATCH INC",
+    "state": "CA",
+    "year_incorporated": "2019",
+    "nace": "5829",
+    "employees": "55",
+    "revenue_usd": 1040000,
+    "pl_before_tax": null,
+    "total_assets": null,
+    "equity": null,
+    "website": "www.apptio.com/products/kubecost/?src=kc-com",
+    "description": "Kubernetes and cloud native infrastructure Software-as-a-Service (SaaS) provider",
+    "contacts": [
+      {
+        "name": "Mr David Webb Brown",
+        "title": "Chief Executive Officer"
+      },
+      {
+        "name": "Ms Gina Sandon",
+        "title": "Chief Executive Officer"
+      },
+      {
+        "name": "Mr Robert Faraj",
+        "title": "Founding Partner; Shareholder"
+      },
+      {
+        "name": "Ms Catherine Buckley",
+        "title": "Assistant Secretary"
+      },
+      {
+        "name": "Tyvise Churchville",
+        "title": "Assistant Secretary"
+      },
+      {
+        "name": "Mr Brien Wierzchowski",
+        "title": "Chief Financial Officer"
+      },
+      {
+        "name": "Barbosa Michael",
+        "title": "Officer"
+      }
+    ]
+  },
+  {
+    "name": "SENTIEON, INC.",
+    "state": "CA",
+    "year_incorporated": "2014",
+    "nace": "5829",
+    "employees": "13",
+    "revenue_usd": 1040000,
+    "pl_before_tax": null,
+    "total_assets": null,
+    "equity": null,
+    "website": "www.sentieon.com",
+    "description": null,
+    "contacts": [
+      {
+        "name": "Jun Ye",
+        "title": "Chief Executive Officer"
+      },
+      {
+        "name": "Mr Frank Hu",
+        "title": "Senior Bioinformatics Scientist"
+      },
+      {
+        "name": "Mr Brendan Gallagher",
+        "title": "No specific function"
+      }
+    ]
+  },
+  {
+    "name": "SECURITY WEAVER LLC",
+    "state": "CA",
+    "year_incorporated": "2007",
+    "nace": "5829",
+    "employees": "40",
+    "revenue_usd": 1040000,
+    "pl_before_tax": null,
+    "total_assets": null,
+    "equity": null,
+    "website": "www.securityweaver.com",
+    "description": null,
+    "contacts": [
+      {
+        "name": "Mr Sumit Sangha",
+        "title": "Shareholder; Co-Founder, Chairman & Chief Architect"
+      },
+      {
+        "name": "Mr Sumit Sangha",
+        "title": "Founder, Chairman and Chief Architect"
+      },
+      {
+        "name": "Mr Sumit Sangha",
+        "title": "Chairman"
+      },
+      {
+        "name": "Mr Nate Harris",
+        "title": "Principal"
+      },
+      {
+        "name": "Mr Terence Tyler Hirsch",
+        "title": "Chief Executive Officer"
+      },
+      {
+        "name": "Mr Sandeep Gupta",
+        "title": "Co-Founder & CTO; Shareholder"
+      },
+      {
+        "name": "Mr Sean Conyette",
+        "title": "Director of Business Development & Client Services"
+      },
+      {
+        "name": "Mr Shawn Meurer",
+        "title": "Director of Business Development"
+      },
+      {
+        "name": "Mr Brock Tapp",
+        "title": "Business Development - US - West"
+      },
+      {
+        "name": "Ms Gwen Boudreau",
+        "title": "Accounting Manager"
+      },
+      {
+        "name": "Mr Nitin Kansal",
+        "title": "Financial Consultant"
+      },
+      {
+        "name": "Mr Bill Hirsch",
+        "title": "Inside Sales"
+      },
+      {
+        "name": "Mr Stephen Dubravac",
+        "title": "Executive Vice President - Marketing"
+      },
+      {
+        "name": "Ms Katlynn Warner",
+        "title": "Marketing Specialist"
+      },
+      {
+        "name": "Mr Kapish Rathi",
+        "title": "Distribution & Channel Development Head"
+      },
+      {
+        "name": "Mr Isaac Kimmel",
+        "title": "Director, System Engineering"
+      },
+      {
+        "name": "Ms Diane Reisma",
+        "title": "Technology"
+      },
+      {
+        "name": "Mr Dries Rene Horions",
+        "title": "Product Manager"
+      },
+      {
+        "name": "Mr Ashish Sabharwal",
+        "title": "Product Manager"
+      },
+      {
+        "name": "Mr Shailesh Maloo",
+        "title": "Chief Operating Officer"
+      },
+      {
+        "name": "Asok Christian",
+        "title": "Senior Solution Architect"
+      },
+      {
+        "name": "Mr Sirish Gullapalli",
+        "title": "Senior Software Architect"
+      },
+      {
+        "name": "Mr Rahul Jindal",
+        "title": "Software Engineer"
+      },
+      {
+        "name": "Mr Vishesh Neema",
+        "title": "Software Test Engineer"
+      },
+      {
+        "name": "Mr Justin Sotelo",
+        "title": "Information Systems"
+      },
+      {
+        "name": "Mr Akash Jagga",
+        "title": "Assistant Team Lead"
+      },
+      {
+        "name": "Ms Rebecca Callahan",
+        "title": "Press"
+      }
+    ]
+  },
+  {
+    "name": "SILVACO GROUP, INC.",
+    "state": "CA",
+    "year_incorporated": "2009",
+    "nace": "5829",
+    "employees": "279",
+    "revenue_usd": 1040000,
+    "pl_before_tax": null,
+    "total_assets": null,
+    "equity": null,
+    "website": "silvaco.com",
+    "description": "Electronic design automation software and tools developer",
+    "contacts": [
+      {
+        "name": "Ms Katherine S. Ngai-Pesic",
+        "title": "Chairman"
+      },
+      {
+        "name": "Ms Katherine S. Ngai-Pesic",
+        "title": "Secretary"
+      },
+      {
+        "name": "Ms Katherine S. Ngai-Pesic",
+        "title": "Treasurer"
+      },
+      {
+        "name": "Dr. Walden C. Rhines",
+        "title": "Chief Executive Officer"
+      },
+      {
+        "name": "Dr. Babak Alizadeh Taheri",
+        "title": "Chief Executive Officer"
+      },
+      {
+        "name": "Mr Thomas Yih",
+        "title": "Agent"
+      },
+      {
+        "name": "Mr Ryan A. Benton",
+        "title": "Chief Financial Officer"
+      },
+      {
+        "name": "Mr Howard Hideshima",
+        "title": "Chief Financial Officer"
+      },
+      {
+        "name": "Mr Robert Mcmullan",
+        "title": "Chief Financial Officer"
+      }
+    ]
+  },
+  {
+    "name": "HERZUM SOFTWARE",
+    "state": "IL",
+    "year_incorporated": "2000",
+    "nace": "5829",
+    "employees": "12",
+    "revenue_usd": 1040000,
+    "pl_before_tax": null,
+    "total_assets": null,
+    "equity": null,
+    "website": "www.herzum.com",
+    "description": null,
+    "contacts": [
+      {
+        "name": "Mr Gregory Koeberl",
+        "title": "Director, Business Development"
+      },
+      {
+        "name": "Ms Ana Lind",
+        "title": "Marketing Administrator"
+      },
+      {
+        "name": "Mr Adam Betzen",
+        "title": "General Counsel"
+      },
+      {
+        "name": "Mr Marco Mancuso",
+        "title": "Technical Architect"
+      },
+      {
+        "name": "Mr Abdul Raheem",
+        "title": "Software Developer"
+      },
+      {
+        "name": "Mr Philip Beckman",
+        "title": "Director, Atlassian Practice"
+      },
+      {
+        "name": "Mr Ruslan Shlain",
+        "title": "Director, Atlassian Practice"
+      }
+    ]
+  },
+  {
+    "name": "DREAMER TECHNOLAND",
+    "state": "CA",
+    "year_incorporated": null,
+    "nace": "5829",
+    "employees": "50",
+    "revenue_usd": 1040000,
+    "pl_before_tax": null,
+    "total_assets": null,
+    "equity": null,
+    "website": "dreamertechnoland.com",
+    "description": null,
+    "contacts": []
+  },
+  {
+    "name": "CONDUSIV TECHNOLOGIES CORPORATION",
+    "state": "CA",
+    "year_incorporated": "2013",
+    "nace": "5829",
+    "employees": "160",
+    "revenue_usd": 1040000,
+    "pl_before_tax": null,
+    "total_assets": null,
+    "equity": null,
+    "website": "www.condusiv.com",
+    "description": "Engaged in the development of high-performance software that optimizes and maintains application performance and efficiency, extends equipment longevity to make technology, people and businesses more productive",
+    "contacts": [
+      {
+        "name": "Mr James D Darezzo",
+        "title": "Chief Executive Officer"
+      },
+      {
+        "name": "Mr Craig Jensen",
+        "title": "President/Treasurer/Director"
+      },
+      {
+        "name": "Mr Craig Jensen",
+        "title": "Founder and Chairman"
+      },
+      {
+        "name": "Mr John Daniel Chadwell",
+        "title": "Secretary"
+      },
+      {
+        "name": "Mr John Daniel Chadwell",
+        "title": "Director of Corporate Affairs At Condusiv Technologies Corporation"
+      },
+      {
+        "name": "Mr Gary Quan",
+        "title": "Senior Vice President, Technology Strategy; Senior Vice President-Technical Strategy"
+      },
+      {
+        "name": "Mr Gary Quan",
+        "title": "Senior Vice President Product Strategist"
+      },
+      {
+        "name": "Mr Dennis Morrison",
+        "title": "Vice President - Finance"
+      },
+      {
+        "name": "Mr Dan Sullivan",
+        "title": "Regional Vice President of Sales"
+      },
+      {
+        "name": "Mr William Kilmartin",
+        "title": "Senior Director, Commercial Sales"
+      },
+      {
+        "name": "Mr Michael Weber",
+        "title": "Senior Director of Sales Operations"
+      },
+      {
+        "name": "Mr Erol Turker",
+        "title": "Territory Sales Manager"
+      },
+      {
+        "name": "Ms Katherine Gregory",
+        "title": "Inside Sales Representative"
+      },
+      {
+        "name": "Mr Brian Morin",
+        "title": "Senior Vice President, Global Marketing"
+      },
+      {
+        "name": "Ms Dawn Richcreek",
+        "title": "Director, Demand Generation Marketing"
+      },
+      {
+        "name": "Mr Marvin Sims",
+        "title": "Director of Marketing Development"
+      },
+      {
+        "name": "Mr Marvin Sims",
+        "title": "Marketing Development Manager"
+      },
+      {
+        "name": "Ms Kellie Fassnacht",
+        "title": "Marketing Specialist"
+      },
+      {
+        "name": "Ms Kathy Mora",
+        "title": "Channel Account Manager"
+      },
+      {
+        "name": "Mr John Repetto",
+        "title": "Northern US / Eastern Canada Manitenance Account Manager"
+      },
+      {
+        "name": "Mr Bidin Dinesababu",
+        "title": "Principal Software Engineer"
+      },
+      {
+        "name": "Mr Howard Butler",
+        "title": "Senior Director Systems Engineering and Field Support"
+      },
+      {
+        "name": "Mr Rick Cadruvi",
+        "title": "Chief Software Architect"
+      }
+    ]
+  },
+  {
+    "name": "DOCIRCLE, INC.",
+    "state": "CA",
+    "year_incorporated": "2006",
+    "nace": "5829",
+    "employees": "50",
+    "revenue_usd": 1040000,
+    "pl_before_tax": null,
+    "total_assets": null,
+    "equity": null,
+    "website": "www.trumpia.com",
+    "description": "DoCircle Inc. was founded in 2004 and is headquartered in Anaheim, CA. It is a provider of information technology services. The company is engaged in the development of short message service, email, and social marketing automation services. It also provid",
+    "contacts": [
+      {
+        "name": "Kyung Hoon Rhie",
+        "title": "President"
+      },
+      {
+        "name": "Mr Ken Rhie",
+        "title": "Chief Executive Officer"
+      },
+      {
+        "name": "Mr Tim Nguyen",
+        "title": "No specific function"
+      }
+    ]
+  },
+  {
+    "name": "MEDIUS SOFTWARE INC.",
+    "state": "FL",
+    "year_incorporated": "2022",
+    "nace": "5829",
+    "employees": "15",
+    "revenue_usd": 1030000,
+    "pl_before_tax": null,
+    "total_assets": null,
+    "equity": null,
+    "website": "www.medius.com",
+    "description": null,
+    "contacts": [
+      {
+        "name": "Mr James Arthur Lucier",
+        "title": "Chief Executive Officer"
+      },
+      {
+        "name": "Mr James Arthur Lucier",
+        "title": "Director,"
+      },
+      {
+        "name": "Mr Per Nils Akerberg",
+        "title": "Executive Officer"
+      },
+      {
+        "name": "Mr Marc Bandini",
+        "title": "Executive Officer"
+      },
+      {
+        "name": "E Mikael Lindblom",
+        "title": "Executive Officer"
+      },
+      {
+        "name": "Ms Sofia Kristin Widjer",
+        "title": "Senior Vice President"
+      },
+      {
+        "name": "Mr Ulf Erik Hammarberg",
+        "title": "Chief Financial Officer"
+      },
+      {
+        "name": "Mr Dmitri Krasik",
+        "title": "Vice President, Sales (North America)"
+      }
+    ]
+  },
+  {
+    "name": "BLUEWARE INC",
+    "state": "FL",
+    "year_incorporated": "1993",
+    "nace": "5829",
+    "employees": "51",
+    "revenue_usd": 1030000,
+    "pl_before_tax": null,
+    "total_assets": null,
+    "equity": null,
+    "website": "www.blueware.us",
+    "description": "Sales Office",
+    "contacts": [
+      {
+        "name": "Ms Rose Harr",
+        "title": "President & Chief Executive Officer"
+      },
+      {
+        "name": "Ms Sonia Sharma",
+        "title": "No specific function"
+      }
+    ]
+  },
+  {
+    "name": "CARIBBEAN NETWORK GROUP N.V. , LLC",
+    "state": "FL",
+    "year_incorporated": "2014",
+    "nace": "5829",
+    "employees": "10",
+    "revenue_usd": 1030000,
+    "pl_before_tax": null,
+    "total_assets": null,
+    "equity": null,
+    "website": "caribbeanhosting.net",
+    "description": null,
+    "contacts": [
+      {
+        "name": "Serrata Valdez Jhonny",
+        "title": "Authorized Member"
+      }
+    ]
+  },
+  {
+    "name": "UNIONTRACK, INC.",
+    "state": "MD",
+    "year_incorporated": "2013",
+    "nace": "5829",
+    "employees": "12",
+    "revenue_usd": 1030000,
+    "pl_before_tax": null,
+    "total_assets": null,
+    "equity": null,
+    "website": "www.uniontrack.com",
+    "description": null,
+    "contacts": [
+      {
+        "name": "Mr Kenneth L Green",
+        "title": "Chief Executive Officer and Founder"
+      },
+      {
+        "name": "Mr Kenneth L Green",
+        "title": "No specific function"
+      },
+      {
+        "name": "Ms Cindy Busker",
+        "title": "Executive Assistant"
+      },
+      {
+        "name": "Mr Christopher Nee",
+        "title": "Vice President, Engineering & Customer Support"
+      },
+      {
+        "name": "Mr Brad Schmelzer",
+        "title": "Program Manager"
+      }
+    ]
+  },
+  {
+    "name": "ACCUBUILD TEXAS, LLC",
+    "state": "TX",
+    "year_incorporated": "2006",
+    "nace": "5829",
+    "employees": "11",
+    "revenue_usd": 1030000,
+    "pl_before_tax": null,
+    "total_assets": null,
+    "equity": null,
+    "website": "www.accubuild.com",
+    "description": null,
+    "contacts": [
+      {
+        "name": "Mr Mike Stearns",
+        "title": "Manager"
+      },
+      {
+        "name": "Ms Sheryl Stearns",
+        "title": "Manager"
+      },
+      {
+        "name": "Ms Lynn M Stearns",
+        "title": "Member"
+      }
+    ]
+  },
+  {
+    "name": "ENTERPRISE SYSTEM ASSOCIATES, INC.",
+    "state": "FL",
+    "year_incorporated": "2000",
+    "nace": "5829",
+    "employees": "20",
+    "revenue_usd": 1030000,
+    "pl_before_tax": null,
+    "total_assets": null,
+    "equity": null,
+    "website": "www.esaigroup.com",
+    "description": null,
+    "contacts": [
+      {
+        "name": "Ms Rosalie Eckhaus",
+        "title": "Senior Account Representative"
+      },
+      {
+        "name": "Tula Santiago",
+        "title": "Director"
+      }
+    ]
+  },
+  {
+    "name": "ELEARNINGFORCE CORPORATION",
+    "state": "MD",
+    "year_incorporated": "2020",
+    "nace": "5829",
+    "employees": "35",
+    "revenue_usd": 1030000,
+    "pl_before_tax": null,
+    "total_assets": null,
+    "equity": null,
+    "website": "zensai.com",
+    "description": null,
+    "contacts": [
+      {
+        "name": "Mr Christopher Rousset",
+        "title": "Officer"
+      }
+    ]
+  },
+  {
+    "name": "IMMIX SOFTWARE, LLC",
+    "state": "FL",
+    "year_incorporated": "2005",
+    "nace": "5829",
+    "employees": "12",
+    "revenue_usd": 1030000,
+    "pl_before_tax": null,
+    "total_assets": null,
+    "equity": null,
+    "website": "www.sureviewsystems.com",
+    "description": null,
+    "contacts": [
+      {
+        "name": "Ms Brown Chris",
+        "title": "Chief Executive Officer"
+      },
+      {
+        "name": "Mr Scott Haugland",
+        "title": "Manager"
+      },
+      {
+        "name": "Ms Mcclure Mark",
+        "title": "Manager"
+      },
+      {
+        "name": "Stacey Rohrbaugh",
+        "title": "Manager"
+      },
+      {
+        "name": "Stacey Rohrbaugh",
+        "title": "Mana"
+      }
+    ]
+  },
+  {
+    "name": "GRAY HAIR SOFTWARE INC",
+    "state": "FL",
+    "year_incorporated": "2009",
+    "nace": "5829",
+    "employees": "40",
+    "revenue_usd": 1030000,
+    "pl_before_tax": null,
+    "total_assets": null,
+    "equity": null,
+    "website": "www.grayhairsoftware.com",
+    "description": null,
+    "contacts": [
+      {
+        "name": "Mr Thomas Mccaully",
+        "title": "Chief Executive Officer"
+      },
+      {
+        "name": "Mr Thomas Mccaully",
+        "title": "Manager"
+      },
+      {
+        "name": "Mr Angelo Anagnostopoulos",
+        "title": "Vice President"
+      },
+      {
+        "name": "Ms Lillian Miller",
+        "title": "Vice President"
+      },
+      {
+        "name": "Mr Jeffrey J Hummel",
+        "title": "Member"
+      }
+    ]
+  },
+  {
+    "name": "CYGNUS ETRANSACTIONS GROUP INC",
+    "state": "FL",
+    "year_incorporated": null,
+    "nace": "5829",
+    "employees": "20",
+    "revenue_usd": 1030000,
+    "pl_before_tax": null,
+    "total_assets": null,
+    "equity": null,
+    "website": "www.cygnus.com",
+    "description": null,
+    "contacts": [
+      {
+        "name": "Ms Brittney Klaas",
+        "title": "Digital Operations Manager"
+      },
+      {
+        "name": "Mr Dave Odden",
+        "title": "Operations Manager"
+      },
+      {
+        "name": "Ms Tracy Hegg",
+        "title": "Associate Creative Director"
+      },
+      {
+        "name": "Mr Rob Heselbarth",
+        "title": "Editorial Director"
+      }
+    ]
+  },
+  {
+    "name": "NEWCOMBE FAMILY PARTNERSHIP, A NORTH CAROLINA LIMITED PARTNERSHIP",
+    "state": "FL",
+    "year_incorporated": "2007",
+    "nace": "5829",
+    "employees": "200",
+    "revenue_usd": 1030000,
+    "pl_before_tax": null,
+    "total_assets": null,
+    "equity": null,
+    "website": "www.eclarifire.com",
+    "description": "Engaged in the development and distribution of web-based workflow automation software",
+    "contacts": [
+      {
+        "name": "Ms Jane Mason",
+        "title": "President & Chief Executive Officer"
+      },
+      {
+        "name": "Ms Lauren Walling",
+        "title": "Vice President, Sales"
+      }
+    ]
+  }
+]

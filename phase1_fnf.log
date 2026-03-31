@@ -1,0 +1,43 @@
+
+## Phase1-Wave2-FnF — 2026-03-26 19:13:30
+### Submitting 671 IDs in batches of 20 (force=False, timeout=45s)
+
+Submitting 671 leads in 34 batches...
+- Batch 1 (0%, i=0): 20 → TIMEOUT (server still processing)
+- Batch 2 (3%, i=20): 20 → TIMEOUT (server still processing)
+- Batch 3 (6%, i=40): 20 → TIMEOUT (server still processing)
+- Batch 4 (9%, i=60): 20 → TIMEOUT (server still processing)
+- Batch 5 (12%, i=80): 20 → TIMEOUT (server still processing)
+- Batch 6 (15%, i=100): 20 → TIMEOUT (server still processing)
+- Batch 7 (18%, i=120): 20 → TIMEOUT (server still processing)
+- Batch 8 (21%, i=140): 20 → TIMEOUT (server still processing)
+- Batch 9 (24%, i=160): 20 → TIMEOUT (server still processing)
+- Batch 10 (27%, i=180): 20 → TIMEOUT (server still processing)
+- Batch 11 (30%, i=200): 20 → TIMEOUT (server still processing)
+- Batch 12 (33%, i=220): 20 → TIMEOUT (server still processing)
+- Batch 13 (36%, i=240): 20 → TIMEOUT (server still processing)
+- Batch 14 (39%, i=260): 20 → TIMEOUT (server still processing)
+- Batch 15 (42%, i=280): 20 → TIMEOUT (server still processing)
+- Batch 16 (45%, i=300): 20 → TIMEOUT (server still processing)
+- Batch 17 (48%, i=320): 20 → TIMEOUT (server still processing)
+- Batch 18 (51%, i=340): 20 → TIMEOUT (server still processing)
+- Batch 19 (54%, i=360): 20 → TIMEOUT (server still processing)
+- Batch 20 (57%, i=380): 20 → TIMEOUT (server still processing)
+- Batch 21 (60%, i=400): 20 → TIMEOUT (server still processing)
+- Batch 22 (63%, i=420): 20 → TIMEOUT (server still processing)
+- Batch 23 (66%, i=440): 20 → TIMEOUT (server still processing)
+- Batch 24 (69%, i=460): 20 → TIMEOUT (server still processing)
+- Batch 25 (72%, i=480): 20 → TIMEOUT (server still processing)
+- Batch 26 (75%, i=500): 20 → TIMEOUT (server still processing)
+- Batch 27 (77%, i=520): 20 → TIMEOUT (server still processing)
+- Batch 28 (80%, i=540): 20 → TIMEOUT (server still processing)
+- Batch 29 (83%, i=560): 20 → succeeded=20
+- Batch 30 (86%, i=580): 20 → succeeded=20
+- Batch 31 (89%, i=600): 20 → succeeded=20
+- Batch 32 (92%, i=620): 20 → succeeded=20
+- Batch 33 (95%, i=640): 20 → TIMEOUT (server still processing)
+- Batch 34 (98%, i=660): 11 → succeeded=11
+
+### Phase1-Wave2-FnF Complete: 34 batches submitted, 91 confirmed, 29 timeouts (server processing)
+
+Done: 34 batches submitted. 91 confirmed, 29 timed out (server still processes them)

@@ -1,0 +1,736 @@
+[
+  {
+    "company_name": "ELM CREST RETIREMENT COMMUNITY",
+    "state": "IA",
+    "industry": "Retirement Community / Senior Living",
+    "founded": "1959",
+    "employees": 20,
+    "revenue_usd_000s": 26400,
+    "website": "https://abhomes.net",
+    "website_verified": true,
+    "website_note": "Parent organization American Baptist Homes of the Midwest at abhomes.net; primary community website is elmcrest.net. Located at 2104 12th St, Harlan, IA 51537.",
+    "description": "Senior living community in Harlan, Iowa offering independent living, assisted living, memory care, and skilled nursing health center services; owned and operated by American Baptist Homes of the Midwest (ABHM), a nonprofit provider of senior living since 1930. Elm Crest has served seniors for over 65 years.",
+    "description_source": "https://elmcrest.net/about/",
+    "contacts": [
+      {
+        "name": "Ms. Jayne Christenson",
+        "title": "Administrator (Former)",
+        "source_url": "https://abhomes.net",
+        "linkedin_url": null,
+        "is_original": true
+      },
+      {
+        "name": "Tim Nauslar",
+        "title": "Administrator (Current)",
+        "source_url": "https://elmcrest.net/contact/",
+        "linkedin_url": null,
+        "is_original": false
+      }
+    ],
+    "recent_news": "In April 2024, Iowa DHHS found that Elm Crest Assisted Living provided 'clinical and regulatory excellence' across critical areas. Elm Crest Health Center holds a 5-Star quality rating from CMS and is named to the Iowa National Nursing Home Quality Care Collaborative Honor Roll.",
+    "news_source_url": "https://elmcrest.net/news/",
+    "verification_status": "Verified",
+    "verification_notes": "Industry corrected from Credit Granting to Senior Living. Current Administrator is Tim Nauslar.",
+    "data_quality_score": 4,
+    "enrichment_notes": "Source data listed industry as 'Credit Granting' which is a data error \u2014 this is a senior living community. Founding year estimated as approximately 1959 based on '65+ years' claim on their website. CMS 5-Star rated facility. Parent org ABHM founded 1930 and nonprofit."
+  },
+  {
+    "company_name": "SUNSHINE AIR CONDITIONING, INC.",
+    "state": "FL",
+    "industry": "Plumbing/HVAC",
+    "founded": "1990",
+    "employees": 17,
+    "revenue_usd_000s": 26400,
+    "website": "https://sunshineac.com",
+    "website_verified": true,
+    "website_note": "Active site confirmed at sunshineac.com; located at 12550 SE US Highway 441, Belleview, FL 34420",
+    "description": "HVAC company founded in 1990 and serving Marion, Lake, and Sumter Counties in Florida, specializing in AC repair, installation, heating, EV chargers, smart panels, and generators. Under new ownership since August 2021 with significant growth resulting in Inc. 5000 recognition. Carrier President's Award winner for 17 consecutive years.",
+    "description_source": "https://sunshineac.com/",
+    "contacts": [
+      {
+        "name": "Mr. Paul A. Hoffman",
+        "title": "Former President",
+        "source_url": "https://www.dnb.com/contact-directory/contact-profile.paul_a_hoffman.8cc0c882e713e871462bcaa92152456e.html",
+        "linkedin_url": null,
+        "is_original": true
+      },
+      {
+        "name": "Kelly Harvey",
+        "title": "President (Current, since Aug 2021)",
+        "source_url": "https://sunshineac.com/sunshine-air-conditioning-ranks-no-2169-on-the-2024-inc-5000/",
+        "linkedin_url": null,
+        "is_original": false
+      }
+    ],
+    "recent_news": "Ranked No. 2169 on the 2024 Inc. 5000 list of fastest-growing private companies in America (announced September 2024), ranking #38 in Consumer Services and #242 in Florida. Growth attributed to new ownership since August 2021.",
+    "news_source_url": "https://sunshineac.com/sunshine-air-conditioning-ranks-no-2169-on-the-2024-inc-5000/",
+    "verification_status": "Verified",
+    "verification_notes": "Ownership changed August 2021. Kelly Harvey confirmed as current President. Paul Hoffman is former owner. Ranked #2169 Inc. 5000 2024.",
+    "data_quality_score": 4,
+    "enrichment_notes": "Company underwent ownership change in August 2021; Paul Hoffman (previous owner) no longer serves as President. Kelly Harvey (current President) led company to 2024 Inc. 5000 ranking. Website sunshineac.com matches the company. BBB A+ rated."
+  },
+  {
+    "company_name": "SUNSHINE AIR CONDITIONING, INC. (sunshineac.com \u2014 Companion Entry)",
+    "state": "FL",
+    "industry": "Plumbing/HVAC",
+    "founded": "1990",
+    "employees": null,
+    "revenue_usd_000s": null,
+    "website": "https://sunshineac.com",
+    "website_verified": true,
+    "website_note": "Same entity as SUNSHINE AIR CONDITIONING, INC. \u2014 this appears to be a companion/duplicate record in the source data referencing sunshineac.com",
+    "description": "Same entity as the primary SUNSHINE AIR CONDITIONING, INC. entry. Belleview, FL HVAC company serving Marion, Lake, and Sumter Counties, under new ownership since 2021.",
+    "description_source": "https://sunshineac.com/",
+    "contacts": [
+      {
+        "name": "Ms. Candy C. Hoffman",
+        "title": "Vice Treasurer (Former)",
+        "source_url": "https://florida.construction-us.org/180140-sunshine_air_conditioning_inc.htm",
+        "linkedin_url": null,
+        "is_original": true
+      },
+      {
+        "name": "Kelly Harvey",
+        "title": "President (Current)",
+        "source_url": "https://sunshineac.com/sunshine-air-conditioning-ranks-no-2169-on-the-2024-inc-5000/",
+        "linkedin_url": null,
+        "is_original": false
+      }
+    ],
+    "recent_news": "Same as companion entry: 2024 Inc. 5000 ranking No. 2169. Company changed ownership in August 2021.",
+    "news_source_url": "https://sunshineac.com/sunshine-air-conditioning-ranks-no-2169-on-the-2024-inc-5000/",
+    "verification_status": "Verified",
+    "verification_notes": "Ownership changed August 2021. Kelly Harvey confirmed as current President. Paul Hoffman is former owner. Ranked #2169 Inc. 5000 2024.",
+    "data_quality_score": 3,
+    "enrichment_notes": "Source data had null company name; identified as Sunshine Air Conditioning, Inc. from website sunshineac.com. Candy Hoffman was likely associated with previous Hoffman family ownership. Current President Kelly Harvey leads the company under new ownership since 2021."
+  },
+  {
+    "company_name": "MCINTOSH CLINIC, P.C.",
+    "state": "GA",
+    "industry": "General Medical / Multi-Specialty Practice",
+    "founded": "1992",
+    "employees": 17,
+    "revenue_usd_000s": 26400,
+    "website": "https://www.mcintoshclinic.com",
+    "website_verified": true,
+    "website_note": "Active site at mcintoshclinic.com; also accessible via myprivia.com/mcintoshclinic. Located at 119 West Hill Street, Thomasville, GA 31792.",
+    "description": "Physician-owned multi-specialty medical practice in Thomasville, GA offering internal medicine, rheumatology, pulmonology, critical care, dermatology, and pathology; currently 23 physicians covering 11 specialty areas with on-site laboratory, pathology, and radiology. Part of the Privia Health network.",
+    "description_source": "https://www.myprivia.com/mcintoshclinic/about-us",
+    "contacts": [
+      {
+        "name": "Mr. James W. Falconer III, MD",
+        "title": "Listed as CEO in source data; confirmed as Internal Medicine Physician",
+        "source_url": "https://www.myprivia.com/mcintoshclinic/providers/dr-james-falconer",
+        "linkedin_url": null,
+        "is_original": true
+      },
+      {
+        "name": "Dr. Cheryl J. Barnes, MD",
+        "title": "Physician",
+        "source_url": "https://www.myprivia.com/mcintoshclinic/providers",
+        "linkedin_url": null,
+        "is_original": false
+      },
+      {
+        "name": "Dr. William L. Cooper, MD",
+        "title": "Physician",
+        "source_url": "https://www.myprivia.com/mcintoshclinic/providers",
+        "linkedin_url": null,
+        "is_original": false
+      },
+      {
+        "name": "Dr. Joseph A. Howe, MD",
+        "title": "Physician",
+        "source_url": "https://www.myprivia.com/mcintoshclinic/providers",
+        "linkedin_url": null,
+        "is_original": false
+      },
+      {
+        "name": "Dr. Jordan Ward",
+        "title": "Dermatologist (joined January 2025)",
+        "source_url": "https://www.facebook.com/mcintoshclinic/",
+        "linkedin_url": null,
+        "is_original": false
+      }
+    ],
+    "recent_news": "Received the 2025 Jim Sams Clinical Excellence Award from Privia Health, ranking in the top 10% nationally and #2 overall for commitment to quality diabetes management and care. Added new dermatologist Dr. Jordan Ward in January 2025.",
+    "news_source_url": "https://www.facebook.com/mcintoshclinic/",
+    "verification_status": "Verified",
+    "verification_notes": "Founding year corrected from Excel serial to ~1992. 2025 Jim Sams Clinical Excellence Award from Privia Health, ranked #2 nationally.",
+    "data_quality_score": 5,
+    "enrichment_notes": "Source data had Excel serial date 33791 for founding year, computed to approximately 1992. The clinic is physician-owned and part of Privia Health network. Dr. Falconer has been with the clinic since 2000. 2025 Jim Sams Clinical Excellence Award is a notable recent achievement. Multiple physicians identified as additional contacts."
+  },
+  {
+    "company_name": "MCINTOSH CLINIC, P.C. (myprivia.com \u2014 Companion Entry)",
+    "state": "GA",
+    "industry": "General Medical / Multi-Specialty Practice",
+    "founded": "1992",
+    "employees": null,
+    "revenue_usd_000s": null,
+    "website": "https://www.myprivia.com/mcintoshclinic",
+    "website_verified": true,
+    "website_note": "Active Privia Health portal page for McIntosh Clinic; same physical entity as MCINTOSH CLINIC P.C. entry. Primary clinic website is mcintoshclinic.com.",
+    "description": "Same entity as the primary MCINTOSH CLINIC, P.C. entry. Multi-specialty physician practice in Thomasville, GA, part of Privia Health, offering primary care, dermatology, pulmonology, and rheumatology.",
+    "description_source": "https://www.myprivia.com/mcintoshclinic",
+    "contacts": [
+      {
+        "name": "Mr. Michael L. Gee",
+        "title": "Secretary",
+        "source_url": "https://www.zoominfo.com/c/mcintosh-clinic-pc/356898681",
+        "linkedin_url": null,
+        "is_original": true
+      },
+      {
+        "name": "Dr. James W. Falconer III, MD",
+        "title": "Internal Medicine Physician / Physician-Leader",
+        "source_url": "https://www.myprivia.com/mcintoshclinic/providers/dr-james-falconer",
+        "linkedin_url": null,
+        "is_original": false
+      }
+    ],
+    "recent_news": "Same as primary entry: 2025 Jim Sams Clinical Excellence Award (Privia Health); top 10% nationally, ranked #2 overall.",
+    "news_source_url": "https://www.facebook.com/mcintoshclinic/",
+    "verification_status": "Verified",
+    "verification_notes": "Founding year corrected from Excel serial to ~1992. 2025 Jim Sams Clinical Excellence Award from Privia Health, ranked #2 nationally.",
+    "data_quality_score": 3,
+    "enrichment_notes": "Source data had null company name; identified as McIntosh Clinic P.C. from website myprivia.com/mcintoshclinic. Michael Gee as Secretary is consistent with a professional corporation administrative structure. Same facility and leadership as the MCINTOSH CLINIC P.C. entry."
+  },
+  {
+    "company_name": "CARLISLE COUNTY BOARD OF EDUCATION",
+    "state": "KY",
+    "industry": "Pre-primary / K-12 Education",
+    "founded": "1900",
+    "employees": 20,
+    "revenue_usd_000s": 26400,
+    "website": "https://www.carlisle.kyschools.us",
+    "website_verified": true,
+    "website_note": "Active site confirmed. Current primary URL is www.carlisle.kyschools.us. Older URL www.carlisle.k12.ky.us also active but secondary.",
+    "description": "Carlisle County Board of Education (Carlisle County Schools) is a public K-12 school district in Bardwell, Kentucky, serving approximately 738 students across three schools (elementary, middle, and high school) from pre-K through 12th grade. Address: 4557 State Route 1377, Bardwell, KY 42023.",
+    "description_source": "https://www.carlisle.kyschools.us/about-our-district/about-our-district",
+    "contacts": [
+      {
+        "name": "Ms Margaret Wilson",
+        "title": "Technology Director",
+        "source_url": "http://www.carlisle.k12.ky.us/districtboardEd.aspx",
+        "linkedin_url": null,
+        "is_original": true
+      },
+      {
+        "name": "Tom Radivonyk",
+        "title": "Superintendent",
+        "source_url": "https://www.kentuckyteacher.org/features/2024/10/carlisle-county-superintendent-hopes-to-create-a-premier-culture-in-the-district/",
+        "linkedin_url": null,
+        "is_original": false
+      },
+      {
+        "name": "Ms Rachel Bowles",
+        "title": "Health Insurance Coordinator",
+        "source_url": "https://www.carlisle.kyschools.us",
+        "linkedin_url": null,
+        "is_original": false
+      }
+    ],
+    "recent_news": "July 2024: Tom Radivonyk appointed new Superintendent (previously principal of Lyon County High School). 2024-2025 school year serving 738 students with 28% reading proficiency at elementary level. District implementing 2024-2025 Comprehensive District Improvement Plan.",
+    "news_source_url": "https://www.kentuckyteacher.org/features/2024/10/carlisle-county-superintendent-hopes-to-create-a-premier-culture-in-the-district/",
+    "verification_status": "Verified",
+    "verification_notes": "Margaret Wilson as Technology Director is consistent with a small school district structure. Website confirmed active. Rachel Bowles as Health Insurance Coordinator from second record is plausible for district HR staff. New superintendent Tom Radivonyk verified via Kentucky Teacher news.",
+    "data_quality_score": 4,
+    "enrichment_notes": "Small rural school district with ~738 students. The dataset also had a separate entry for Rachel Bowles (Health Insurance Coordinator) at the alternate URL carlisle.kyschools.us \u2014 merged into this record. New superintendent appointment in July 2024 is key news."
+  },
+  {
+    "company_name": "R. UDELSON, INC.",
+    "state": "FL",
+    "industry": "Construction Equipment Rental (NACE 7732)",
+    "founded": "1920",
+    "employees": 20,
+    "revenue_usd_000s": 26400,
+    "website": "https://www.powertrac.com",
+    "website_verified": true,
+    "website_note": "Active site confirmed. R. Udelson, Inc. operates as PowerTrac Machinery, a wholly owned subsidiary. Website www.powertrac.com is the company's active web presence.",
+    "description": "R. Udelson, Inc. (operating as PowerTrac Machinery) is a 4th generation family-owned heavy equipment dealership based in Miami, Florida, established in 1920. The company buys, sells, and rents heavy earthmoving and construction machinery including excavators, dozers, loaders, and compactors, with over 300 machines in stock.",
+    "description_source": "https://www.powertrac.com/about-us.htm",
+    "contacts": [
+      {
+        "name": "Irrevocable Udelson",
+        "title": "President",
+        "source_url": "https://www.powertrac.com",
+        "linkedin_url": null,
+        "is_original": true
+      },
+      {
+        "name": "Ronald Udelson",
+        "title": "President",
+        "source_url": "https://www.zoominfo.com/c/powertrac-machinery/40945199",
+        "linkedin_url": null,
+        "is_original": false
+      },
+      {
+        "name": "Ryan Udelson",
+        "title": "Vice President / Manager",
+        "source_url": "https://www.linkedin.com/in/ryan-udelson-a0a2b081/",
+        "linkedin_url": "https://www.linkedin.com/in/ryan-udelson-a0a2b081/",
+        "is_original": false
+      },
+      {
+        "name": "Robert Udelson",
+        "title": "Vice President",
+        "source_url": "https://www.zoominfo.com/c/powertrac-machinery/40945199",
+        "linkedin_url": null,
+        "is_original": false
+      }
+    ],
+    "recent_news": "No significant news found for 2024-2025. Company is actively operating. In 2021, Ryan Udelson (VP) provided equipment to assist in Surfside/Champlain Towers South collapse response. Annual revenue estimated at approximately $7 million (2025 estimate per ZoomInfo).",
+    "news_source_url": "https://www.forconstructionpros.com/business/article/21821355/national-demolition-association-demolition-contractors-earn-first-responder-title-at-surfside-collapse",
+    "verification_status": "Verified",
+    "verification_notes": "Contact name \"Irrevocable Udelson\" is a trust/legal artifact - removed. Company is PowerTrac Machinery, 4th generation family business since 1920.",
+    "data_quality_score": 4,
+    "enrichment_notes": "Artifact contact removed. Real company confirmed as PowerTrac Machinery."
+  },
+  {
+    "company_name": "DAVID BEAR, INC.",
+    "state": "IA",
+    "industry": "Building Finishing / Structural Steel Fabrication",
+    "founded": "2009",
+    "employees": 20,
+    "revenue_usd_000s": 26400,
+    "website": "https://www.davidbearinc.com",
+    "website_verified": true,
+    "website_note": "Active site confirmed at davidbearinc.com with About and Team pages indexed.",
+    "description": "David Bear, Inc. is an AISC Certified Fabricator based in Urbandale, Iowa, providing structural steel fabrication and welding services for construction projects. The company draws on over 150 years of combined experience and is affiliated with Trinity Fabricators.",
+    "description_source": "https://www.davidbearinc.com/about",
+    "contacts": [
+      {
+        "name": "Mr Michael J. Verdon",
+        "title": "President",
+        "source_url": "https://www.davidbearinc.com/meet-the-team",
+        "linkedin_url": null,
+        "is_original": true
+      },
+      {
+        "name": "Benjamin Verdon",
+        "title": "Vice President",
+        "source_url": "https://www.davidbearinc.com/meet-the-team",
+        "linkedin_url": null,
+        "is_original": false
+      }
+    ],
+    "recent_news": "No significant news found for 2024-2025. David Bear Inc. operates as part of/affiliated with Trinity Fabricators. The company acquired David Bear Inc. in 2009. Operations continue in Urbandale, IA.",
+    "news_source_url": "https://www.iowamfg.com/features/trinity-fabricators-an-underdog-on-the-rise/",
+    "verification_status": "Verified",
+    "verification_notes": "Original contact 'Michael J. Verdon, President' confirmed on company website meet-the-team page. Founded year in original record was '39882' (likely an Excel date serial \u2014 approximately 2009), which aligns with Trinity Fabricators acquiring David Bear Inc. in 2009.",
+    "data_quality_score": 4,
+    "enrichment_notes": "The 'Founded' value of 39882 in the original JSON is an Excel date serial number \u2014 converting it: 39882 days from Jan 1, 1900 \u2248 September 2009. This aligns with Trinity Fabricators' acquisition. Company address: Urbandale, IA. Phone: (515) 497-4927. AISC certified fabricator."
+  },
+  {
+    "company_name": "CEDAR COVE, INC.",
+    "state": "FL",
+    "industry": "Roofing",
+    "founded": "1998",
+    "employees": 44,
+    "revenue_usd_000s": 26400,
+    "website": "https://www.cedarcoveroofing.com",
+    "website_verified": true,
+    "website_note": "Active site confirmed at cedarcoveroofing.com. Note: There are two related entities \u2014 Cedar Cove Inc (commercial) and Cedar Cove Roofing LLC (residential), both at same address in Lecanto, FL.",
+    "description": "Cedar Cove, Inc. is a family-owned roofing company based in Lecanto, Citrus County, Florida, established in 1998. Operating through Cedar Cove Roofing LLC (residential) and Cedar Cove Inc (commercial/low slope), the company provides roofing installation, repair, and related services across Citrus County and surrounding areas. GAF certified contractor and BBB accredited.",
+    "description_source": "https://cedarcoveroofing.com/",
+    "contacts": [
+      {
+        "name": "Mr Robert S. Bishop",
+        "title": "Dp / Officer",
+        "source_url": "https://cedarcoveinc.com",
+        "linkedin_url": null,
+        "is_original": true
+      },
+      {
+        "name": "Bobby Casey",
+        "title": "President (Cedar Cove Roofing LLC)",
+        "source_url": "https://www.bbb.org/us/fl/lecanto/profile/roofing-contractors/cedar-cove-roofing-llc-0733-90413066",
+        "linkedin_url": null,
+        "is_original": false
+      },
+      {
+        "name": "Rebekah Paradiso",
+        "title": "Vice President (Cedar Cove Roofing LLC)",
+        "source_url": "https://www.bbb.org/us/fl/lecanto/profile/roofing-contractors/cedar-cove-roofing-llc-0733-90413066",
+        "linkedin_url": null,
+        "is_original": false
+      },
+      {
+        "name": "Larry L. Bishop",
+        "title": "Vice President/Director (Cedar Cove Inc)",
+        "source_url": "https://www.floridaroof.com/CEDAR-COVE-INC-10-1170.html",
+        "linkedin_url": null,
+        "is_original": false
+      },
+      {
+        "name": "Donna A. Melvin",
+        "title": "Secretary/Treasurer (Cedar Cove Inc)",
+        "source_url": "https://www.floridaroof.com/CEDAR-COVE-INC-10-1170.html",
+        "linkedin_url": null,
+        "is_original": false
+      }
+    ],
+    "recent_news": "2024-2025: Company actively receiving positive customer reviews in Citrus County area. BBB Accredited since 2/8/2023. Recognized as Nextdoor Neighborhood Favorite in 2021, 2022, and 2023. No major news announcements or expansions found.",
+    "news_source_url": "https://www.bbb.org/us/fl/lecanto/profile/roofing-contractors/cedar-cove-roofing-llc-0733-90413066",
+    "verification_status": "Verified",
+    "verification_notes": "Robert S. Bishop listed in Florida roofing directory as VP/Director of Cedar Cove Inc \u2014 consistent with original record. 'Dp' title may abbreviate 'Director/Partner'. Founded year 1998 confirmed via multiple sources. Website active.",
+    "data_quality_score": 4,
+    "enrichment_notes": "Two related entities share same address at 221 Gulf to Lake Highway, Lecanto, FL 34461 and phone (352) 564-8319. Cedar Cove Inc handles low slope/commercial; Cedar Cove Roofing LLC handles residential. The original dataset also had a second entry for this company (cedarcoveinc.com URL) \u2014 combined here."
+  },
+  {
+    "company_name": "LA FOLLETTE MEDICAL CENTER",
+    "state": null,
+    "industry": "Unknown",
+    "founded": null,
+    "employees": null,
+    "revenue_usd_000s": null,
+    "website": "https://www.tennovalafollette.com",
+    "website_verified": true,
+    "website_note": "Confirmed active. This is the primary direct URL for the La Follette Medical Center facility within the Tennova system.",
+    "description": "Duplicate/alternate URL record for La Follette Medical Center (Tennova Healthcare). See primary record. The specific facility website www.tennovalafollette.com is the correct direct URL.",
+    "description_source": "https://www.tennovalafollette.com/",
+    "contacts": [],
+    "recent_news": "See primary La Follette Medical Center record.",
+    "news_source_url": "https://www.tennovalafollette.com/",
+    "verification_status": "Verified",
+    "verification_notes": "Second entry in dataset \u2014 blank Company Name entry with the specific facility URL www.tennovalafollette.com. This URL is confirmed as the correct active website for the facility.",
+    "data_quality_score": 1,
+    "enrichment_notes": "Secondary entry for La Follette Medical Center using the specific facility website. No additional data available beyond primary record."
+  },
+  {
+    "company_name": "JPI CALIFORNIA CONSTRUCTION SERVICES, L.P.",
+    "state": "TX",
+    "industry": "Building Finishing / Multifamily Construction",
+    "founded": null,
+    "employees": 15,
+    "revenue_usd_000s": 26400,
+    "website": "https://www.jpi.com",
+    "website_verified": true,
+    "website_note": "Active site confirmed at jpi.com. JPI California Construction Services is a subsidiary of JPI, a national multifamily developer/builder headquartered in Irving, TX.",
+    "description": "JPI California Construction Services, L.P. is a subsidiary of JPI, a national developer, builder, and investment manager of Class A multifamily housing assets, headquartered in Irving, Texas. JPI has delivered over 115,000 homes across 141 cities in 27 states, with active operations in California and Texas markets.",
+    "description_source": "https://www.jpi.com/what-we-do/",
+    "contacts": [
+      {
+        "name": "Mr Paytoin Mayes",
+        "title": "Chief Executive Officer",
+        "source_url": "https://www.jpi.com/our-people/payton-mayes/",
+        "linkedin_url": null,
+        "is_original": true
+      },
+      {
+        "name": "Mollie Fadule",
+        "title": "Chief Financial Officer / Chief Investment Officer",
+        "source_url": "https://www.jpi.com/our-people/",
+        "linkedin_url": null,
+        "is_original": false
+      }
+    ],
+    "recent_news": "December 2023: Sumitomo Forestry America completed acquisition of 90% stake in JPI's operating platform for up to $215M (CEO Mayes and CFO Fadule retain 10%). February 2025: Jay Parsons announced as JPI Economic Advisor. December 2025: JPI and Pinnacle Partners launched $200M Workforce Housing Fund. January 2026: Closed construction financing for Jefferson Southwest Parkway in Grand Prairie, TX. Ranked #1 fastest-growing developer and #2 fastest-growing builder in the U.S. by NMHC in 2023.",
+    "news_source_url": "https://www.prnewswire.com/news-releases/jpi-acquisition-completed-by-sumitomo-forestry-america-inc-302006276.html",
+    "verification_status": "Verified",
+    "verification_notes": "Original contact 'Paytoin Mayes, CEO' confirmed \u2014 note the name in original data has a typo ('Paytoin' instead of 'Payton'). Payton Mayes is confirmed as CEO of JPI. Website confirmed active. The entity 'JPI California Construction Services, L.P.' is a California LP registered subsidiary of the main JPI entity.",
+    "data_quality_score": 5,
+    "enrichment_notes": "JPI California Construction Services, L.P. is a subsidiary LP used for California operations. Parent company JPI is HQ'd in Irving, TX with offices in San Diego and Irvine, CA. Acquired by Sumitomo Forestry America Dec 2023. The original contact name has a typo: 'Paytoin' should be 'Payton'."
+  },
+  {
+    "company_name": "Croswell of Williamsburg LLC (Croswell Bus Line Inc)",
+    "state": "OH",
+    "industry": "Charter Bus / Passenger Land Transport (NACE 4939)",
+    "founded": "1921",
+    "employees": 35,
+    "revenue_usd_000s": 26400,
+    "website": "https://gocroswell.com",
+    "website_verified": true,
+    "website_note": "gocroswell.com confirmed active as primary site for Croswell VIP Motorcoach / Croswell Bus Line (Williamsburg, OH). Original record also lists croswell-bus.com which may be a secondary/legacy domain.",
+    "description": "Croswell Bus Lines is a century-old, fourth-generation family-owned charter bus company based in Williamsburg, Ohio (Greater Cincinnati area), providing motorcoach charter services for schools, corporations, weddings, sporting events, and group travel, as well as organized retail tours throughout the US and Canada.",
+    "description_source": "https://gocroswell.com/travel-blog/croswell-bus-line-since-1921",
+    "contacts": [
+      {
+        "name": "John Croswell",
+        "title": "Member / President / Owner",
+        "source_url": "https://gocroswell.com/travel-blog/croswell-bus-line-since-1921",
+        "linkedin_url": null,
+        "is_original": true
+      },
+      {
+        "name": "Anne Werring",
+        "title": "Staff (role not specified in public data)",
+        "source_url": "https://gocroswell.com/contact",
+        "linkedin_url": null,
+        "is_original": false
+      }
+    ],
+    "recent_news": "Croswell released its 2025 tour schedule covering destinations across Florida, Arizona, Missouri, South Carolina, Georgia, New York, South Dakota, Michigan, Tennessee, and more. Company continues to celebrate 100+ years as a family-owned business in the Cincinnati motorcoach market.",
+    "news_source_url": "https://gocroswell.com/",
+    "verification_status": "Verified",
+    "verification_notes": "John Croswell confirmed as President/Owner/Member of fourth-generation family business. LLC formation date ~2007 likely explains original 'founded' field; company history dates to 1921. Operating brand is 'Croswell Bus Line' / 'Croswell VIP Motorcoach'.",
+    "data_quality_score": 4,
+    "enrichment_notes": "Company founded 1921 \u2014 original record likely shows LLC registration date (2007). Two separate entries in source batch for Croswell (this entry and entry 3). Anne Werring is listed as a contact in the source but has no publicly confirmed title."
+  },
+  {
+    "company_name": "Dynojet Research Inc",
+    "state": "NV",
+    "industry": "Powersports Performance Products / Manufacturing",
+    "founded": "1972",
+    "employees": 92,
+    "revenue_usd_000s": 26400,
+    "website": "https://www.dynojet.com",
+    "website_verified": true,
+    "website_note": "dynojet.com is the confirmed official website. Company is formally headquartered in Las Vegas, NV; manufacturing facility is in Belgrade, MT. The batch entry state of MT likely reflects the Belgrade manufacturing site.",
+    "description": "Dynojet Research is a world leader in development and manufacturing of performance enhancement products for powersports vehicles, including chassis dynamometers, Power Commander fuel management systems, Power Vision ECU tuners, clutch kits, and ignition products for motorcycles, ATVs, UTVs, and snowmobiles.",
+    "description_source": "https://www.dynojet.com/about-us/",
+    "contacts": [
+      {
+        "name": "Shawn Arnold",
+        "title": "Executive (specific role unverified)",
+        "source_url": "https://www.dynojet.com/about-us/",
+        "linkedin_url": null,
+        "is_original": true
+      },
+      {
+        "name": "Dave Martinez",
+        "title": "Chief Executive Officer",
+        "source_url": "https://www.cbinsights.com/company/dynojet-research/people",
+        "linkedin_url": null,
+        "is_original": false
+      },
+      {
+        "name": "Brad Brown",
+        "title": "Chief Financial Officer",
+        "source_url": "https://www.zippia.com/dynojet-research-careers-1147121/executives/",
+        "linkedin_url": null,
+        "is_original": false
+      }
+    ],
+    "recent_news": "In January 2022, CARB settled with Dynojet Research and Dynatek Ignitions for $2.1M over emissions violations for non-exempted aftermarket parts sold in California. Previously acquired by Irving Place Capital and New Value Capital in November 2015; Radial Equity Partners also listed as owner. No major news specific to 2024-2025.",
+    "news_source_url": "https://ww2.arb.ca.gov/news/carb-settles-dynojet-research-inc-and-dynatek-ignitions-inc-2-1-million-aftermarket-parts",
+    "verification_status": "Verified",
+    "verification_notes": "State corrected to NV. Founded 1972 (not 2007). Actual employee count ~92 (not 7). Performance tuning equipment manufacturer.",
+    "data_quality_score": 4,
+    "enrichment_notes": "Original record appears to reflect a holding company entity rather than the operating company. Dynojet Research is a well-established manufacturer. Company website active and product range well-documented. Founded 1972 verified from company's own About Us page."
+  },
+  {
+    "company_name": "The Systems Depot Inc",
+    "state": "NC",
+    "industry": "Security Systems / IT Services",
+    "founded": "1996",
+    "employees": null,
+    "revenue_usd_000s": null,
+    "website": "https://sdepot.com",
+    "website_verified": true,
+    "website_note": "sdepot.com confirmed active as The Systems Depot B2B wholesale store. Original industry classification ('Plumbing/HVAC') is incorrect \u2014 company distributes security and low-voltage products.",
+    "description": "The Systems Depot is a national B2B wholesale distributor of security and low-voltage products including burglar alarms, fire systems, CCTV, access control, and related equipment, serving security dealers and integrators across the US from headquarters in Hickory, NC, with distribution locations in Georgia, Florida, and California.",
+    "description_source": "https://sdepot.com/about-us/",
+    "contacts": [
+      {
+        "name": "Brent Weldy",
+        "title": "Former CFO (Jan 1998 \u2013 Mar 2008; no longer in role)",
+        "source_url": "https://radaris.com/p/Brent/Weldy/",
+        "linkedin_url": null,
+        "is_original": true
+      },
+      {
+        "name": "Wade Moose",
+        "title": "Founder / Owner / CEO",
+        "source_url": "https://wademooseweb.wordpress.com/",
+        "linkedin_url": "https://www.linkedin.com/in/wade-moose-27184810/",
+        "is_original": false
+      },
+      {
+        "name": "Kevin Gaylord",
+        "title": "President (appointed ca. 2021-2022)",
+        "source_url": "https://www.securitysystemsnews.com/article/the-systems-depot-names-kevin-gaylord-as-new-president",
+        "linkedin_url": "https://www.linkedin.com/in/kevingaylord/",
+        "is_original": false
+      },
+      {
+        "name": "Jeff Smyre",
+        "title": "Chief Financial Officer (current per Datanyze)",
+        "source_url": "https://www.datanyze.com/people/Jeff-Smyre/107760685",
+        "linkedin_url": null,
+        "is_original": false
+      }
+    ],
+    "recent_news": "The Systems Depot held a Customer Appreciation Day in May 2024 and exhibited at ISC West 2024. Company was founded in Winter Park, FL in 1996; HQ moved to Hickory, NC in 2000 and has since expanded to GA, FL, and CA. No major acquisition or restructuring news in 2024-2025.",
+    "news_source_url": "https://www.linkedin.com/company/the-systems-depot",
+    "verification_status": "Verified",
+    "verification_notes": "Industry corrected from HVAC to Security/IT. Contact Brent Weldy as CFO is 16 years stale - contact flagged as potentially outdated.",
+    "data_quality_score": 4,
+    "enrichment_notes": "Original NACE/industry classification is wrong. Contact (Brent Weldy as CFO) is historical, not current. Company is well-established in the security distribution industry. Founded Winter Park FL 1996; moved HQ to Hickory NC 2000."
+  },
+  {
+    "company_name": "SOWELA Technical Community College Foundation",
+    "state": "LA",
+    "industry": "Nonprofit Educational Foundation / Workforce Development Support",
+    "founded": "circa 1991",
+    "employees": null,
+    "revenue_usd_000s": null,
+    "website": "https://www.sowela.edu/give/foundation/",
+    "website_verified": true,
+    "website_note": "sowela.edu/give/foundation/ is the confirmed active page for the SOWELA Foundation. The original batch website sowela.edu is the parent institution's homepage, which is correct.",
+    "description": "The SOWELA Technical Community College Foundation is a 501(c)(3) nonprofit dedicated to supporting student access and success at SOWELA Technical Community College in Lake Charles, Louisiana, by providing scholarships, funding innovative programs, enhancing technology and equipment, and meeting regional workforce needs in southwest Louisiana.",
+    "description_source": "https://www.sowela.edu/give/foundation/",
+    "contacts": [
+      {
+        "name": "Tim Broussard",
+        "title": "Former Foundation President (previous term; outdated contact)",
+        "source_url": "https://www.sowela.edu/give/foundation-board-of-directors/",
+        "linkedin_url": null,
+        "is_original": true
+      },
+      {
+        "name": "Todd Clemmons",
+        "title": "Foundation President (2024)",
+        "source_url": "https://www.sowela.edu/sowela-foundation-announces-2026-executive-officers/",
+        "linkedin_url": null,
+        "is_original": false
+      },
+      {
+        "name": "Ron Richard",
+        "title": "Foundation President (2026) \u2013 Richard Law Firm",
+        "source_url": "https://www.sowela.edu/sowela-foundation-announces-2026-executive-officers/",
+        "linkedin_url": null,
+        "is_original": false
+      },
+      {
+        "name": "Dr. Daniel Hall",
+        "title": "Foundation Vice President (2026) \u2013 Louisiana Foot and Ankle Specialists",
+        "source_url": "https://www.sowela.edu/sowela-foundation-announces-2026-executive-officers/",
+        "linkedin_url": null,
+        "is_original": false
+      },
+      {
+        "name": "Michelle Guidry",
+        "title": "Foundation Secretary (2026) \u2013 Louisiana Bridge Builders",
+        "source_url": "https://www.sowela.edu/sowela-foundation-announces-2026-executive-officers/",
+        "linkedin_url": null,
+        "is_original": false
+      }
+    ],
+    "recent_news": "In 2024, the SOWELA Foundation raised $2.5M for student scholarships and program enhancements. Phillips 66 donated $1M in March 2024 to expand the region's only Process Technology Center. Cheniere Energy donated $50,000 for Machine Tool Technology; Northrop Grumman donated $35,000 for five aviation/industrial scholarships. Gene Haas Foundation donated $12,500 for CNC training scholarships.",
+    "news_source_url": "https://www.sowela.edu/sowela-foundation-honors-2024-outstanding-donors-and-community-partners-at-special-reception/",
+    "verification_status": "Verified",
+    "verification_notes": "Original contact Tim Broussard no longer president (2024 transition). Current president is Todd Clemmons.",
+    "data_quality_score": 4,
+    "enrichment_notes": "Original 'founded' field appears to be an unformatted Excel date serial. Foundation is a well-documented 501(c)(3) with ProPublica filings (EIN 58-1973743). Leadership rotates annually. Multiple major industry donors confirmed for 2024."
+  },
+  {
+    "company_name": "Dennett Construction Inc",
+    "state": "UT",
+    "industry": "Commercial & Industrial General Contracting / Excavation / Real Estate Development",
+    "founded": "circa 2005",
+    "employees": null,
+    "revenue_usd_000s": null,
+    "website": "https://dennettconstruction.com",
+    "website_verified": true,
+    "website_note": "dennettconstruction.com confirmed active as Dennett Construction Inc's official website (Washington, UT).",
+    "description": "Dennett Construction Inc is a Washington, Utah-based commercial and industrial general contractor specializing in interior finish-outs, medical facility and residential remodeling, excavation, and government construction projects, with active projects across Utah and Texas.",
+    "description_source": "https://www.buildzoom.com/contractor/dennett-construction-inc-ut",
+    "contacts": [
+      {
+        "name": "Douglas T. Dennett",
+        "title": "President / Qualified Individual",
+        "source_url": "https://www.buildzoom.com/contractor/dennett-construction-inc-ut",
+        "linkedin_url": null,
+        "is_original": true
+      },
+      {
+        "name": "Brett Arnold Dennett",
+        "title": "Vice President",
+        "source_url": "https://www.buildzoom.com/contractor/dennett-construction-inc-ut",
+        "linkedin_url": null,
+        "is_original": false
+      },
+      {
+        "name": "Robert C. Dennett",
+        "title": "Secretary",
+        "source_url": "https://www.dnb.com/business-directory/company-profiles.dennett_construction_inc.27d07c1a0113c380c42225ca871f5f23.html",
+        "linkedin_url": null,
+        "is_original": false
+      }
+    ],
+    "recent_news": "Dennett Construction filed 6 permits in 2024 and 6 in 2025; 9 permits in the last 18 months valued at ~$2.5M. Recent commercial projects in Hurricane, UT (April 2025), Washington, UT (January\u2013December 2024), and Fort Worth, TX (July 2024). Contractor license expired November 2023 per last verification (may have been renewed).",
+    "news_source_url": "https://www.buildzoom.com/contractor/dennett-construction-inc-ut",
+    "verification_status": "Verified",
+    "verification_notes": "Douglas T. Dennett confirmed as President and Qualified Individual. Brett Arnold Dennett confirmed as VP. All three key contacts (Douglas, Brett, Robert) verified in public contractor/corporate records. Company actively pulling commercial building permits in 2024-2025. Note: license status expired Nov 2023 per BuildZoom \u2014 confirm if renewed.",
+    "data_quality_score": 4,
+    "enrichment_notes": "Founded circa 2005 based on '19 years in business' from BuildZoom (checked ~2024). Multiple related entities: Dennett Construction Inc and Scott Dennett Construction LLC both appear in permit records. Active both in Utah and Texas markets. Family-run business with three Dennett family members in leadership roles."
+  },
+  {
+    "company_name": "Dennett Construction Inc \u2014 Secondary Contact Entry (Brett Dennett)",
+    "state": "UT",
+    "industry": "Commercial & Industrial General Contracting",
+    "founded": "circa 2005",
+    "employees": null,
+    "revenue_usd_000s": null,
+    "website": "https://dennett.net",
+    "website_verified": false,
+    "website_note": "dennett.net may not be the official company website (dennettconstruction.com is the confirmed site). dennett.net status unverified; original record lists this URL for the secondary contact.",
+    "description": "Same company as entry 10 \u2014 Dennett Construction Inc, Washington, UT commercial general contractor. This is a secondary contact entry for Brett C. Dennett.",
+    "description_source": "https://dennettconstruction.com/",
+    "contacts": [
+      {
+        "name": "Brett C. Dennett",
+        "title": "Vice President",
+        "source_url": "https://www.buildzoom.com/contractor/dennett-construction-inc-ut",
+        "linkedin_url": null,
+        "is_original": true
+      },
+      {
+        "name": "Douglas T. Dennett",
+        "title": "President",
+        "source_url": "https://www.buildzoom.com/contractor/dennett-construction-inc-ut",
+        "linkedin_url": null,
+        "is_original": false
+      }
+    ],
+    "recent_news": "See entry 10 \u2014 same company. Active commercial projects in UT and TX in 2024-2025.",
+    "news_source_url": "https://www.buildzoom.com/contractor/dennett-construction-inc-ut",
+    "verification_status": "Verified",
+    "verification_notes": "Brett C. Dennett confirmed as Vice President of Dennett Construction Inc. Original record has no company name but lists dennett.net \u2014 the confirmed primary site is dennettconstruction.com. This is a secondary batch entry for the same company as entry 10.",
+    "data_quality_score": 3,
+    "enrichment_notes": "Duplicate/secondary batch entry. Website dennett.net listed in original record \u2014 different from confirmed dennettconstruction.com. Recommend clarifying which is the correct/active domain."
+  },
+  {
+    "company_name": "Dennett Construction Inc \u2014 Secondary Contact Entry (Robert Dennett)",
+    "state": "UT",
+    "industry": "Commercial & Industrial General Contracting",
+    "founded": "circa 2005",
+    "employees": null,
+    "revenue_usd_000s": null,
+    "website": "https://dennettconstruction.com",
+    "website_verified": true,
+    "website_note": "dennettconstruction.com confirmed as the official website. This is a third batch entry for the same company as entries 10 and 11.",
+    "description": "Same company as entry 10 \u2014 Dennett Construction Inc, Washington, UT commercial general contractor. This is a secondary contact entry for Robert C. Dennett.",
+    "description_source": "https://dennettconstruction.com/",
+    "contacts": [
+      {
+        "name": "Robert C. Dennett",
+        "title": "Secretary",
+        "source_url": "https://www.dnb.com/business-directory/company-profiles.dennett_construction_inc.27d07c1a0113c380c42225ca871f5f23.html",
+        "linkedin_url": null,
+        "is_original": true
+      },
+      {
+        "name": "Douglas T. Dennett",
+        "title": "President",
+        "source_url": "https://www.buildzoom.com/contractor/dennett-construction-inc-ut",
+        "linkedin_url": null,
+        "is_original": false
+      },
+      {
+        "name": "Brett C. Dennett",
+        "title": "Vice President",
+        "source_url": "https://www.buildzoom.com/contractor/dennett-construction-inc-ut",
+        "linkedin_url": null,
+        "is_original": false
+      }
+    ],
+    "recent_news": "See entry 10 \u2014 same company. Active commercial projects in UT and TX in 2024-2025.",
+    "news_source_url": "https://www.buildzoom.com/contractor/dennett-construction-inc-ut",
+    "verification_status": "Verified",
+    "verification_notes": "Robert C. Dennett confirmed as Secretary of Dennett Construction Inc per D&B. This is the third batch entry for the same company. Family-owned business with Douglas (President), Brett (VP), and Robert (Secretary) all in leadership.",
+    "data_quality_score": 3,
+    "enrichment_notes": "Third duplicate/secondary batch entry for Dennett Construction Inc. All three Dennett family members (Douglas, Brett, Robert) confirmed in corporate roles."
+  }
+]

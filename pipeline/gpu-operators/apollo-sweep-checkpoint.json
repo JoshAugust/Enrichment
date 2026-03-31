@@ -1,0 +1,1104 @@
+{
+  "sent": {
+    "Lambda Labs|Stephen Balaban": {
+      "apolloId": "69cbbbb93fa30c000d01c4eb",
+      "email": "s@lambda.ai"
+    },
+    "Lambda Labs|Michael Balaban": {
+      "apolloId": "69cbbbbb74e4460021b20a20",
+      "email": "m@lambda.ai"
+    },
+    "Lambda Labs|Robert Brooks IV": {
+      "apolloId": "67cfd11c5115e2000112938a",
+      "email": "robert@lambdal.com"
+    },
+    "Lambda Labs|Peter Seibold": {
+      "apolloId": "69cbbbbe43b24e00218afe55",
+      "email": null
+    },
+    "Crusoe Energy Systems|Chase Lochmiller": {
+      "apolloId": "695f00aec694320001548e0b",
+      "email": "chase@crusoe.ai"
+    },
+    "Crusoe Energy Systems|Cully Cavness": {
+      "apolloId": "66f5601160d35e0001f2e721",
+      "email": "cully@crusoe.ai"
+    },
+    "Crusoe Energy Systems|Nadav Eiron": {
+      "apolloId": "656627ecc4942a0001a061e0",
+      "email": null
+    },
+    "Applied Digital (APLD)|Wes Cummins": {
+      "apolloId": "6094e09177cdd200013428dc",
+      "email": "wes@applieddigital.com"
+    },
+    "Verda (formerly DataCrunch)|Leena Kassinen": {
+      "apolloId": "54a7af2b7468696de74f984b",
+      "email": "leena@datacrunch.io"
+    },
+    "Voltage Park / Lightning AI|Ozan Kaya": {
+      "apolloId": "607c488a6f97ea0001df158b",
+      "email": "ozan@newhealth.media"
+    },
+    "Voltage Park / Lightning AI|Saurabh Giri": {
+      "apolloId": "5ccc5cd680f93ee7c6c919ef",
+      "email": "saurabh@voltagepark.com"
+    },
+    "Vultr|J.J. Kardwell": {
+      "apolloId": "69cbbdce625ede001d900d22",
+      "email": null
+    },
+    "Vultr|Matt Short": {
+      "apolloId": "659663e55337990001ef457e",
+      "email": "mshort@vultr.com"
+    },
+    "Nscale|Josh Payne": {
+      "apolloId": "5d54003c80f93ef04e473d81",
+      "email": "josh@nscale.com"
+    },
+    "TeraWulf|Sean Farrell": {
+      "apolloId": "66ed1c40cdcf930001e09ffb",
+      "email": "farrell@terawulf.com"
+    },
+    "TeraWulf|Paul Prager": {
+      "apolloId": "5d101ad280f93e95b6654330",
+      "email": "prager@terawulf.com"
+    },
+    "IREN (formerly Iris Energy)|Daniel Roberts": {
+      "apolloId": "60bf1de912aef6000147f183",
+      "email": "daniel@joltcharge.com"
+    },
+    "IREN (formerly Iris Energy)|William Roberts": {
+      "apolloId": "69cbbdd5930197000dc6243a",
+      "email": null
+    },
+    "FluidStack|David King": {
+      "apolloId": "69cbbdd684828d0021201fc2",
+      "email": null
+    },
+    "GMI Cloud|Geoff Gordon": {
+      "apolloId": "69cbbdd784828d0021201fcb",
+      "email": null
+    },
+    "Hut 8|Asher Genoot": {
+      "apolloId": "66f2dff035ac810001cebe1a",
+      "email": "asher@hut8.com"
+    },
+    "QScale|Martin Bouchard": {
+      "apolloId": "66ed752e22860a00018baf2e",
+      "email": "mbouchard@qscale.com"
+    },
+    "Salad Cloud|Michael Intrator": {
+      "apolloId": "5fdab7d8da02320001380d0c",
+      "email": "david@smarterstorytelling.com"
+    },
+    "RunPod|Zhen Qian": {
+      "apolloId": "54a5819174686938accf5399",
+      "email": "zhen.qian@motiva.com"
+    },
+    "Northern Data Group|Aroosh Thillainadarajah": {
+      "apolloId": "57d96902a6da98728afe66ac",
+      "email": "aroosh.purushothaman@amadeus.com"
+    },
+    "Northern Data Group|Rosanne Kincaid-Smith": {
+      "apolloId": "60defdbb086aa90001b235a5",
+      "email": "vol@nebius.com"
+    },
+    "E2E Networks|Tarun Dua": {
+      "apolloId": "66ec239a35509f0001c11ea8",
+      "email": "tarundua@e2enetworks.com"
+    },
+    "Together AI|Vipul Ved Prakash": {
+      "apolloId": "66f297d70e2722000129c011",
+      "email": "vipul@together.ai"
+    },
+    "Together AI|Ce Zhang": {
+      "apolloId": "68da0e2837c31a0001c68013",
+      "email": "ce@together.ai"
+    },
+    "Gcore|Andre Reitenbach": {
+      "apolloId": "61095a688c37c50001a9f610",
+      "email": "andre.reitenbach@gcore.com"
+    },
+    "Yotta Infrastructure|Sunil Gupta": {
+      "apolloId": "60ffb11aad71510001121712",
+      "email": "sgupta@yotta.com"
+    },
+    "TensorWave|Piotr Tomasik": {
+      "apolloId": "66fa2bb5d1c6fd00019721d2",
+      "email": "piotr@tensorwave.com"
+    },
+    "Baseten|Tuhin Srivastava": {
+      "apolloId": "54a28ad47468693cdd66942a",
+      "email": "tuhin.samaddar@ifrc.org"
+    },
+    "Baseten|Amir Haghighat": {
+      "apolloId": "66f11557f34c5e00019b376a",
+      "email": "amir@baseten.co"
+    },
+    "Foundry / Mithril|Asher Genoot": {
+      "apolloId": "66f2dff035ac810001cebe1a",
+      "email": "asher@hut8.com"
+    },
+    "Nebius Group|Arkady Volozh": {
+      "apolloId": "60defdbb086aa90001b235a5",
+      "email": "vol@nebius.com"
+    },
+    "Nebius Group|Oleg Gorobets": {
+      "apolloId": "69cbbdeae8d1d5001d3bf86e",
+      "email": null
+    },
+    "OVHcloud|Michel Paulin": {
+      "apolloId": "60db32c0f69e10000188e5f5",
+      "email": null
+    },
+    "Fireworks AI|Lin Qiao": {
+      "apolloId": "54a609717468693b8cc884bd",
+      "email": "lin_qiao@manulife.com"
+    },
+    "Cirrascale Cloud Services|Chris Weiss": {
+      "apolloId": "69cbbdee12db11001d783ad4",
+      "email": null
+    },
+    "DataBank|Raul Martynek": {
+      "apolloId": "69380098c09d160001b33768",
+      "email": "rmartynek@databank.com"
+    },
+    "Massed Compute|Amir Haghighat": {
+      "apolloId": "69cbbdf0dfff9400152956f8",
+      "email": null
+    },
+    "CoreWeave|Michael Intrator": {
+      "apolloId": "5fdab7d8da02320001380d0c",
+      "email": "david@smarterstorytelling.com"
+    },
+    "CoreWeave|Nikhil Naik": {
+      "apolloId": "6810c842b8516c00013cb6a7",
+      "email": "nnaik@amazon.com"
+    },
+    "CoreWeave|Brannin McBee": {
+      "apolloId": "69cbbbfa6fea74001977671e",
+      "email": null
+    },
+    "Bit Digital|Sam Tabar": {
+      "apolloId": "614d7bf920fa840001fedae8",
+      "email": "stabar@tesla.com"
+    },
+    "PhoenixNAP|Ian McClarty": {
+      "apolloId": "66f5ff3da1fe000001400089",
+      "email": "ian@phoenixnap.com"
+    },
+    "Scaleway (Iliad Group)|Damien Lucas": {
+      "apolloId": "60ed3d748d0607000159ff6c",
+      "email": "dlucas@scaleway.com"
+    },
+    "Satya Cloud (formerly CtrlS)|Sridhar Pinnapureddy": {
+      "apolloId": "69cbbdf7e8998e00151264b1",
+      "email": null
+    },
+    "Denvr Dataworks|David King": {
+      "apolloId": "5b3f00bea6da98d347d82ead",
+      "email": "dave@perpetual-intelligence.com"
+    },
+    "Denvr Dataworks|Geoff Gordon": {
+      "apolloId": "66f8fc1a0c96aa0001207e5a",
+      "email": "geoff@denvrdata.com"
+    },
+    "Modal Labs|Erik Bernhardsson": {
+      "apolloId": "67a12807fab0a10001bbb8e4",
+      "email": "erik@modal.com"
+    },
+    "Anyscale|Robert Nishihara": {
+      "apolloId": "66fc04546212740001ecb195",
+      "email": "rkn@anyscale.com"
+    },
+    "Genesis Cloud|Karl Bruins": {
+      "apolloId": "69cbbdfcdfff9400152957a4",
+      "email": null
+    },
+    "Penguin Solutions (SGH)|Thierry Pellegrino": {
+      "apolloId": "69cbbdfdf89efd001536cc3f",
+      "email": "tpellegrino@penguincomputing.com"
+    },
+    "G42 Cloud (Core42)|Peng Xiao": {
+      "apolloId": "66fac0c378dcdd0001022d8d",
+      "email": "peng_xiao@apple.com"
+    },
+    "Hetzner (GPU Cloud)|Martin Hetzner": {
+      "apolloId": "69cbbe00e8d1d5001d3bfa47",
+      "email": "martin.hetzner@hetzner.de"
+    },
+    "TierPoint|Jerry Kent": {
+      "apolloId": "63ef574dbfc32c00015084be",
+      "email": "jerry.kent@tierpoint.com"
+    },
+    "Fly.io|Kurt Mackey": {
+      "apolloId": "69cbbe05c1a7860021530c2e",
+      "email": "kurt@fly.io"
+    },
+    "SambaNova Systems|Rodrigo Liang": {
+      "apolloId": "684705cc982dfd0001607988",
+      "email": "rodrigo.liang@sambanova.ai"
+    },
+    "Paperspace (DigitalOcean)|Dillon Erb": {
+      "apolloId": "611d0ac9a95e90000140320b",
+      "email": "dillon@atg.science"
+    },
+    "Latitude.sh|Vince Guerra": {
+      "apolloId": "69cbbe0ce8998e00151264df",
+      "email": null
+    },
+    "Cipher Mining|Tyler Page": {
+      "apolloId": "621db8f9d43d92000195da41",
+      "email": "tyler.page@ciphermining.com"
+    },
+    "Ori Global|Mahdi Yahya": {
+      "apolloId": "54a21f247468692e71209f0e",
+      "email": "mahdi_b@wsib.ca"
+    },
+    "Cudo Compute|Matt Hawkins": {
+      "apolloId": "6883511c933c7a0001ef14fe",
+      "email": "matt@cudocompute.com"
+    },
+    "CleanSpark|Zach Bradford": {
+      "apolloId": "6681f9b83b61aa0001556e94",
+      "email": "zbradford@bestbigteam.com"
+    },
+    "SF Compute|Evan Conrad": {
+      "apolloId": "639d41f21210f40001462fcf",
+      "email": "evan.conrad@dexian.com"
+    },
+    "Aethir|Mark Rydon": {
+      "apolloId": "66ed4afc75f2a000016398d8",
+      "email": "markrydon@fluxcapital.co"
+    },
+    "Replicate|Ben Firshman": {
+      "apolloId": "69cb71c334e3fd001d7f7c4d",
+      "email": null
+    },
+    "US Signal|Dan Irwin": {
+      "apolloId": "61784a091ba0a60001420f0f",
+      "email": "dirwin@95percentgroup.com"
+    },
+    "io.net|Ahmad Shadid": {
+      "apolloId": "54a29f1f74686935be708530",
+      "email": "ahmad.shadid@cra-arc.gc.ca"
+    },
+    "Exabits|Hoansoo Lee": {
+      "apolloId": "66f54b1c5b9c010001669b5c",
+      "email": "hoansoo@exabits.xyz"
+    },
+    "Hyperbolic Labs|Jasper Zhang": {
+      "apolloId": "6115121e6d44f800018888bb",
+      "email": "jasper_zhang@intaspharma.com"
+    },
+    "Prime Intellect|Saurabh Garg": {
+      "apolloId": "5ab898bca6da9814a8ba1468",
+      "email": "saurabh@merulife.com"
+    },
+    "Evocative (formerly Cyxtera)|Nelson Fonseca": {
+      "apolloId": "66f6ae6e72027000016c3e90",
+      "email": "nelson.fonseca@ciriontechnologies.com"
+    },
+    "BitNile Holdings (Ault Alliance)|Milton Ault III": {
+      "apolloId": "69cbbe1adfff940015295804",
+      "email": null
+    },
+    "Cerebras Systems|Andrew Feldman": {
+      "apolloId": "66f38e2a6c530c0001ff4967",
+      "email": "andrew@cerebras.net"
+    },
+    "Render Network|Jules Urbach": {
+      "apolloId": "69cbbe1ce8998e00151264fa",
+      "email": null
+    },
+    "Vast.ai|Ben Kahle": {
+      "apolloId": "606b0287040ccb0001a97012",
+      "email": "ben.kahle@lioinsurance.com"
+    },
+    "Hosted.ai|Andrew Schaap": {
+      "apolloId": "54a236157468693825a96616",
+      "email": null
+    },
+    "Shadeform|Hoansoo Lee": {
+      "apolloId": "66f2b405baa3770001fcdbc5",
+      "email": "liran@weka.io"
+    },
+    "Akash Network|Greg Osuri": {
+      "apolloId": "69ca4edd436a310019d102dc",
+      "email": "greg@akash.network"
+    },
+    "Beam Cloud|Luke Lombardi": {
+      "apolloId": "61f3158eca3ab200015e16da",
+      "email": "luke.lombardi@procore.com"
+    },
+    "Tenstorrent|Jim Keller": {
+      "apolloId": "65095348c8e209000127b7c1",
+      "email": "j.keller@quantiphi.com"
+    },
+    "Brev.dev|Nader Khalil": {
+      "apolloId": "54a56a377468693209787895",
+      "email": "nkhalil@aspeneg.com"
+    },
+    "Aligned Data Centers|Andrew Schaap": {
+      "apolloId": "54a236157468693825a96616",
+      "email": null
+    },
+    "Cherry Servers|Jonas Karklys": {
+      "apolloId": "69cbbe25f3de43000dc7f5c0",
+      "email": null
+    },
+    "NetraDyne|Avneesh Agrawal": {
+      "apolloId": "66eee86399a87f0001737694",
+      "email": "avneesh.agrawal@netradyne.com"
+    },
+    "Vantage Data Centers (GPU)|Sureel Choksi": {
+      "apolloId": "66f41a2a7364e9000185c4b2",
+      "email": "sureel@vantage-dc.com"
+    },
+    "Groq|Jonathan Ross": {
+      "apolloId": "687e0631fefaa700011432b7",
+      "email": null
+    },
+    "WEKA|Liran Zvibel": {
+      "apolloId": "66f2b405baa3770001fcdbc5",
+      "email": "liran@weka.io"
+    },
+    "Jarvis Labs|Vishnu Subramanian": {
+      "apolloId": "66f3b301aa15c80001b48d9f",
+      "email": "vishnu.s@e2enetworks.com"
+    },
+    "d-Matrix|Sid Sheth": {
+      "apolloId": "54a999947468692d1cf70d15",
+      "email": "sidhdharth.sheth@ubs.com"
+    },
+    "Supermicro|Charles Liang": {
+      "apolloId": "56d0b24ef3e5bb23b40002cc",
+      "email": "charles.liang@secondadvisories.com"
+    },
+    "CoreSite Realty (GPU Colocation)|Juan Font": {
+      "apolloId": "55bf015573696435417a5700",
+      "email": null
+    },
+    "Stack Infrastructure|Brian Cox": {
+      "apolloId": "66f51194f85c9100016563f4",
+      "email": "bcox@stackinfra.com"
+    },
+    "QTS Realty Trust|Chad Williams": {
+      "apolloId": "687163d7ece6c20001dd6ce9",
+      "email": "chad.williams@qualitygc.com"
+    },
+    "CloudHQ|Hossein Fateh": {
+      "apolloId": "60d1dd3b13cd8300015bbfea",
+      "email": "h@cloudhq.com"
+    },
+    "FuriosaAI|June Paik": {
+      "apolloId": "54a709b474686965d9c76a0f",
+      "email": "jupaik@deloitte.com"
+    },
+    "Graphcore|Nigel Toon": {
+      "apolloId": "6816e097c0153d000179afd3",
+      "email": "nigel@blankpage.capital"
+    }
+  },
+  "phones": {
+    "Lambda Labs|Robert Brooks IV": {
+      "phone": "+12162158300",
+      "type": "mobile",
+      "confidence": "high",
+      "allPhones": [
+        "+12162158300"
+      ]
+    },
+    "Crusoe Energy Systems|Chase Lochmiller": {
+      "phone": "+13032296261",
+      "type": "mobile",
+      "confidence": "high",
+      "allPhones": [
+        "+13032296261"
+      ]
+    },
+    "Crusoe Energy Systems|Cully Cavness": {
+      "phone": "+17208375099",
+      "type": "mobile",
+      "confidence": "high",
+      "allPhones": [
+        "+17208375099"
+      ]
+    },
+    "Crusoe Energy Systems|Nadav Eiron": {
+      "phone": "+14082097664",
+      "type": "mobile",
+      "confidence": "high",
+      "allPhones": [
+        "+14082097664"
+      ]
+    },
+    "Applied Digital (APLD)|Wes Cummins": {
+      "phone": "+13109037971",
+      "type": "mobile",
+      "confidence": "high",
+      "allPhones": [
+        "+13109037971"
+      ]
+    },
+    "Verda (formerly DataCrunch)|Leena Kassinen": {
+      "phone": "+358504109232",
+      "type": "mobile",
+      "confidence": "high",
+      "allPhones": [
+        "+358504109232"
+      ]
+    },
+    "Voltage Park / Lightning AI|Ozan Kaya": {
+      "phone": "+905327670070",
+      "type": "mobile",
+      "confidence": "high",
+      "allPhones": [
+        "+905327670070"
+      ]
+    },
+    "Voltage Park / Lightning AI|Saurabh Giri": {
+      "phone": "+12016764682",
+      "type": "mobile",
+      "confidence": "high",
+      "allPhones": [
+        "+12016764682"
+      ]
+    },
+    "Lambda Labs|Peter Seibold": {
+      "phone": "+17162395453",
+      "type": "mobile",
+      "confidence": "high",
+      "allPhones": [
+        "+17162395453"
+      ]
+    },
+    "Vultr|Matt Short": {
+      "phone": "+19547600177",
+      "type": "mobile",
+      "confidence": "high",
+      "allPhones": [
+        "+19547600177"
+      ]
+    },
+    "Nscale|Josh Payne": {
+      "phone": "+61460545788",
+      "type": "mobile",
+      "confidence": "high",
+      "allPhones": [
+        "+61460545788"
+      ]
+    },
+    "TeraWulf|Sean Farrell": {
+      "phone": "+16122225291",
+      "type": "mobile",
+      "confidence": "high",
+      "allPhones": [
+        "+16122225291"
+      ]
+    },
+    "IREN (formerly Iris Energy)|Daniel Roberts": {
+      "phone": "+61434107936",
+      "type": "mobile",
+      "confidence": "high",
+      "allPhones": [
+        "+61434107936"
+      ]
+    },
+    "Hut 8|Asher Genoot": {
+      "phone": "+19493315881",
+      "type": "mobile",
+      "confidence": "high",
+      "allPhones": [
+        "+19493315881"
+      ]
+    },
+    "QScale|Martin Bouchard": {
+      "phone": "+14182640994",
+      "type": "mobile",
+      "confidence": "high",
+      "allPhones": [
+        "+14182640994"
+      ]
+    },
+    "TeraWulf|Paul Prager": {
+      "phone": "+16464205355",
+      "type": "mobile",
+      "confidence": "high",
+      "allPhones": [
+        "+16464205355"
+      ]
+    },
+    "RunPod|Zhen Qian": {
+      "phone": "+17139821347",
+      "type": "other",
+      "confidence": "high",
+      "allPhones": [
+        "+17139821347"
+      ]
+    },
+    "Salad Cloud|Michael Intrator": {
+      "phone": "+19176121442",
+      "type": "mobile",
+      "confidence": "high",
+      "allPhones": [
+        "+19176121442"
+      ]
+    },
+    "Northern Data Group|Rosanne Kincaid-Smith": {
+      "phone": "+79857848983",
+      "type": "other",
+      "confidence": "high",
+      "allPhones": [
+        "+79857848983"
+      ]
+    },
+    "E2E Networks|Tarun Dua": {
+      "phone": "+918510021970",
+      "type": "mobile",
+      "confidence": "high",
+      "allPhones": [
+        "+918510021970"
+      ]
+    },
+    "Together AI|Vipul Ved Prakash": {
+      "phone": "+14157220613",
+      "type": "mobile",
+      "confidence": "high",
+      "allPhones": [
+        "+14157220613"
+      ]
+    },
+    "Northern Data Group|Aroosh Thillainadarajah": {
+      "phone": "+15022950293",
+      "type": "mobile",
+      "confidence": "high",
+      "allPhones": [
+        "+15022950293"
+      ]
+    },
+    "Yotta Infrastructure|Sunil Gupta": {
+      "phone": "+917738148787",
+      "type": "mobile",
+      "confidence": "high",
+      "allPhones": [
+        "+917738148787"
+      ]
+    },
+    "TensorWave|Piotr Tomasik": {
+      "phone": "+17023501745",
+      "type": "mobile",
+      "confidence": "high",
+      "allPhones": [
+        "+17023501745"
+      ]
+    },
+    "Baseten|Tuhin Srivastava": {
+      "phone": "+8801712747449",
+      "type": "mobile",
+      "confidence": "high",
+      "allPhones": [
+        "+8801712747449"
+      ]
+    },
+    "Baseten|Amir Haghighat": {
+      "phone": "+18313323822",
+      "type": "mobile",
+      "confidence": "high",
+      "allPhones": [
+        "+18313323822"
+      ]
+    },
+    "Foundry / Mithril|Asher Genoot": {
+      "phone": "+19493315881",
+      "type": "mobile",
+      "confidence": "high",
+      "allPhones": [
+        "+19493315881"
+      ]
+    },
+    "Gcore|Andre Reitenbach": {
+      "phone": "+352691210240",
+      "type": "mobile",
+      "confidence": "high",
+      "allPhones": [
+        "+352691210240"
+      ]
+    },
+    "Nebius Group|Arkady Volozh": {
+      "phone": "+79857848983",
+      "type": "other",
+      "confidence": "high",
+      "allPhones": [
+        "+79857848983"
+      ]
+    },
+    "DataBank|Raul Martynek": {
+      "phone": "+19173317051",
+      "type": "mobile",
+      "confidence": "high",
+      "allPhones": [
+        "+19173317051",
+        "+12123442065"
+      ]
+    },
+    "CoreWeave|Michael Intrator": {
+      "phone": "+19176121442",
+      "type": "mobile",
+      "confidence": "high",
+      "allPhones": [
+        "+19176121442"
+      ]
+    },
+    "Bit Digital|Sam Tabar": {
+      "phone": "+12489346567",
+      "type": "mobile",
+      "confidence": "high",
+      "allPhones": [
+        "+12489346567"
+      ]
+    },
+    "PhoenixNAP|Ian McClarty": {
+      "phone": "+14804497768",
+      "type": "mobile",
+      "confidence": "high",
+      "allPhones": [
+        "+14804497768"
+      ]
+    },
+    "Scaleway (Iliad Group)|Damien Lucas": {
+      "phone": "+33762920378",
+      "type": "mobile",
+      "confidence": "high",
+      "allPhones": [
+        "+33762920378"
+      ]
+    },
+    "Denvr Dataworks|David King": {
+      "phone": "+14038191995",
+      "type": "other",
+      "confidence": "high",
+      "allPhones": [
+        "+14038191995"
+      ]
+    },
+    "Denvr Dataworks|Geoff Gordon": {
+      "phone": "+14038076934",
+      "type": "other",
+      "confidence": "high",
+      "allPhones": [
+        "+14038076934"
+      ]
+    },
+    "Modal Labs|Erik Bernhardsson": {
+      "phone": "+19179408790",
+      "type": "mobile",
+      "confidence": "high",
+      "allPhones": [
+        "+19179408790"
+      ]
+    },
+    "Anyscale|Robert Nishihara": {
+      "phone": "+16502488086",
+      "type": "mobile",
+      "confidence": "high",
+      "allPhones": [
+        "+16502488086"
+      ]
+    },
+    "Fireworks AI|Lin Qiao": {
+      "phone": "+14377761080",
+      "type": "other",
+      "confidence": "high",
+      "allPhones": [
+        "+14377761080"
+      ]
+    },
+    "OVHcloud|Michel Paulin": {
+      "phone": "+19175629105",
+      "type": "mobile",
+      "confidence": "high",
+      "allPhones": [
+        "+19175629105"
+      ]
+    },
+    "G42 Cloud (Core42)|Peng Xiao": {
+      "phone": "+14842018070",
+      "type": "mobile",
+      "confidence": "high",
+      "allPhones": [
+        "+14842018070"
+      ]
+    },
+    "TierPoint|Jerry Kent": {
+      "phone": "+13143159300",
+      "type": "work_direct",
+      "confidence": "high",
+      "allPhones": [
+        "+13143159300"
+      ]
+    },
+    "SambaNova Systems|Rodrigo Liang": {
+      "phone": "+14088580505",
+      "type": "mobile",
+      "confidence": "high",
+      "allPhones": [
+        "+14088580505"
+      ]
+    },
+    "Paperspace (DigitalOcean)|Dillon Erb": {
+      "phone": "+13134040983",
+      "type": "mobile",
+      "confidence": "high",
+      "allPhones": [
+        "+13134040983"
+      ]
+    },
+    "Cipher Mining|Tyler Page": {
+      "phone": "+16462296060",
+      "type": "mobile",
+      "confidence": "high",
+      "allPhones": [
+        "+16462296060"
+      ]
+    },
+    "Cudo Compute|Matt Hawkins": {
+      "phone": "+447956000727",
+      "type": "mobile",
+      "confidence": "high",
+      "allPhones": [
+        "+447956000727"
+      ]
+    },
+    "CleanSpark|Zach Bradford": {
+      "phone": "+13212006683",
+      "type": "mobile",
+      "confidence": "high",
+      "allPhones": [
+        "+13212006683"
+      ]
+    },
+    "Aethir|Mark Rydon": {
+      "phone": "+61424275704",
+      "type": "mobile",
+      "confidence": "high",
+      "allPhones": [
+        "+61424275704"
+      ]
+    },
+    "SF Compute|Evan Conrad": {
+      "phone": "+19727653352",
+      "type": "mobile",
+      "confidence": "high",
+      "allPhones": [
+        "+19727653352"
+      ]
+    },
+    "Ori Global|Mahdi Yahya": {
+      "phone": "+16479198444",
+      "type": "mobile",
+      "confidence": "high",
+      "allPhones": [
+        "+16479198444"
+      ]
+    },
+    "US Signal|Dan Irwin": {
+      "phone": "+12246454702",
+      "type": "mobile",
+      "confidence": "high",
+      "allPhones": [
+        "+12246454702"
+      ]
+    },
+    "io.net|Ahmad Shadid": {
+      "phone": "+14154299557",
+      "type": "mobile",
+      "confidence": "high",
+      "allPhones": [
+        "+14154299557"
+      ]
+    },
+    "Exabits|Hoansoo Lee": {
+      "phone": "+16179020530",
+      "type": "mobile",
+      "confidence": "high",
+      "allPhones": [
+        "+16179020530"
+      ]
+    },
+    "Prime Intellect|Saurabh Garg": {
+      "phone": "+919819981337",
+      "type": "mobile",
+      "confidence": "high",
+      "allPhones": [
+        "+919819981337"
+      ]
+    },
+    "Cerebras Systems|Andrew Feldman": {
+      "phone": "+14085756325",
+      "type": "work_direct",
+      "confidence": "high",
+      "allPhones": [
+        "+14085756325"
+      ]
+    },
+    "Hyperbolic Labs|Jasper Zhang": {
+      "phone": "+8613917690266",
+      "type": "mobile",
+      "confidence": "high",
+      "allPhones": [
+        "+8613917690266"
+      ]
+    },
+    "Shadeform|Hoansoo Lee": {
+      "phone": "+14086568264",
+      "type": "mobile",
+      "confidence": "high",
+      "allPhones": [
+        "+14086568264"
+      ]
+    },
+    "Vast.ai|Ben Kahle": {
+      "phone": "+12069540551",
+      "type": "mobile",
+      "confidence": "high",
+      "allPhones": [
+        "+12069540551"
+      ]
+    },
+    "Hosted.ai|Andrew Schaap": {
+      "phone": "+15619728681",
+      "type": "mobile",
+      "confidence": "high",
+      "allPhones": [
+        "+15619728681"
+      ]
+    },
+    "Evocative (formerly Cyxtera)|Nelson Fonseca": {
+      "phone": "+13055379503",
+      "type": "work_direct",
+      "confidence": "high",
+      "allPhones": [
+        "+13055379503"
+      ]
+    },
+    "Beam Cloud|Luke Lombardi": {
+      "phone": "+16103109512",
+      "type": "mobile",
+      "confidence": "high",
+      "allPhones": [
+        "+16103109512"
+      ]
+    },
+    "Tenstorrent|Jim Keller": {
+      "phone": "+16178555620",
+      "type": "other",
+      "confidence": "high",
+      "allPhones": [
+        "+16178555620"
+      ]
+    },
+    "Brev.dev|Nader Khalil": {
+      "phone": "+18184825642",
+      "type": "mobile",
+      "confidence": "high",
+      "allPhones": [
+        "+18184825642"
+      ]
+    },
+    "Aligned Data Centers|Andrew Schaap": {
+      "phone": "+15619728681",
+      "type": "mobile",
+      "confidence": "high",
+      "allPhones": [
+        "+15619728681"
+      ]
+    },
+    "NetraDyne|Avneesh Agrawal": {
+      "phone": "+919980890000",
+      "type": "mobile",
+      "confidence": "high",
+      "allPhones": [
+        "+919980890000"
+      ]
+    },
+    "Vantage Data Centers (GPU)|Sureel Choksi": {
+      "phone": "+13032502450",
+      "type": "other",
+      "confidence": "high",
+      "allPhones": [
+        "+13032502450"
+      ]
+    },
+    "Groq|Jonathan Ross": {
+      "phone": "+12124753005",
+      "type": "work_direct",
+      "confidence": "high",
+      "allPhones": [
+        "+12124753005"
+      ]
+    },
+    "WEKA|Liran Zvibel": {
+      "phone": "+14086568264",
+      "type": "mobile",
+      "confidence": "high",
+      "allPhones": [
+        "+14086568264"
+      ]
+    },
+    "Jarvis Labs|Vishnu Subramanian": {
+      "phone": "+919003271410",
+      "type": "mobile",
+      "confidence": "high",
+      "allPhones": [
+        "+919003271410"
+      ]
+    },
+    "d-Matrix|Sid Sheth": {
+      "phone": "+12487554302",
+      "type": "mobile",
+      "confidence": "high",
+      "allPhones": [
+        "+12487554302"
+      ]
+    },
+    "Supermicro|Charles Liang": {
+      "phone": "+85226786632",
+      "type": "other",
+      "confidence": "high",
+      "allPhones": [
+        "+85226786632"
+      ]
+    },
+    "CoreSite Realty (GPU Colocation)|Juan Font": {
+      "phone": "+15712778922",
+      "type": "mobile",
+      "confidence": "high",
+      "allPhones": [
+        "+15712778922"
+      ]
+    },
+    "Stack Infrastructure|Brian Cox": {
+      "phone": "+17202011512",
+      "type": "mobile",
+      "confidence": "high",
+      "allPhones": [
+        "+17202011512",
+        "+13033827842"
+      ]
+    },
+    "QTS Realty Trust|Chad Williams": {
+      "phone": "+19133125500",
+      "type": "other",
+      "confidence": "high",
+      "allPhones": [
+        "+19133125500"
+      ]
+    },
+    "CloudHQ|Hossein Fateh": {
+      "phone": "+12028886355",
+      "type": "mobile",
+      "confidence": "high",
+      "allPhones": [
+        "+12028886355"
+      ]
+    },
+    "Graphcore|Nigel Toon": {
+      "phone": "+447785921999",
+      "type": "mobile",
+      "confidence": "high",
+      "allPhones": [
+        "+447785921999"
+      ]
+    },
+    "FuriosaAI|June Paik": {
+      "phone": "+17138515745",
+      "type": "mobile",
+      "confidence": "high",
+      "allPhones": [
+        "+17138515745"
+      ]
+    }
+  },
+  "emails": {
+    "Lambda Labs|Stephen Balaban": "s@lambda.ai",
+    "Lambda Labs|Michael Balaban": "m@lambda.ai",
+    "Lambda Labs|Robert Brooks IV": "robert@lambdal.com",
+    "Crusoe Energy Systems|Chase Lochmiller": "chase@crusoe.ai",
+    "Crusoe Energy Systems|Cully Cavness": "cully@crusoe.ai",
+    "Applied Digital (APLD)|Wes Cummins": "wes@applieddigital.com",
+    "Verda (formerly DataCrunch)|Leena Kassinen": "leena@datacrunch.io",
+    "Voltage Park / Lightning AI|Ozan Kaya": "ozan@newhealth.media",
+    "Voltage Park / Lightning AI|Saurabh Giri": "saurabh@voltagepark.com",
+    "Vultr|Matt Short": "mshort@vultr.com",
+    "Nscale|Josh Payne": "josh@nscale.com",
+    "TeraWulf|Sean Farrell": "farrell@terawulf.com",
+    "TeraWulf|Paul Prager": "prager@terawulf.com",
+    "IREN (formerly Iris Energy)|Daniel Roberts": "daniel@joltcharge.com",
+    "Hut 8|Asher Genoot": "asher@hut8.com",
+    "QScale|Martin Bouchard": "mbouchard@qscale.com",
+    "Salad Cloud|Michael Intrator": "david@smarterstorytelling.com",
+    "RunPod|Zhen Qian": "zhen.qian@motiva.com",
+    "Northern Data Group|Aroosh Thillainadarajah": "aroosh.purushothaman@amadeus.com",
+    "Northern Data Group|Rosanne Kincaid-Smith": "vol@nebius.com",
+    "E2E Networks|Tarun Dua": "tarundua@e2enetworks.com",
+    "Together AI|Vipul Ved Prakash": "vipul@together.ai",
+    "Together AI|Ce Zhang": "ce@together.ai",
+    "Gcore|Andre Reitenbach": "andre.reitenbach@gcore.com",
+    "Yotta Infrastructure|Sunil Gupta": "sgupta@yotta.com",
+    "TensorWave|Piotr Tomasik": "piotr@tensorwave.com",
+    "Baseten|Tuhin Srivastava": "tuhin.samaddar@ifrc.org",
+    "Baseten|Amir Haghighat": "amir@baseten.co",
+    "Foundry / Mithril|Asher Genoot": "asher@hut8.com",
+    "Nebius Group|Arkady Volozh": "vol@nebius.com",
+    "Fireworks AI|Lin Qiao": "lin_qiao@manulife.com",
+    "DataBank|Raul Martynek": "rmartynek@databank.com",
+    "CoreWeave|Michael Intrator": "david@smarterstorytelling.com",
+    "CoreWeave|Nikhil Naik": "nnaik@amazon.com",
+    "Bit Digital|Sam Tabar": "stabar@tesla.com",
+    "PhoenixNAP|Ian McClarty": "ian@phoenixnap.com",
+    "Scaleway (Iliad Group)|Damien Lucas": "dlucas@scaleway.com",
+    "Denvr Dataworks|David King": "dave@perpetual-intelligence.com",
+    "Denvr Dataworks|Geoff Gordon": "geoff@denvrdata.com",
+    "Modal Labs|Erik Bernhardsson": "erik@modal.com",
+    "Anyscale|Robert Nishihara": "rkn@anyscale.com",
+    "Penguin Solutions (SGH)|Thierry Pellegrino": "tpellegrino@penguincomputing.com",
+    "G42 Cloud (Core42)|Peng Xiao": "peng_xiao@apple.com",
+    "Hetzner (GPU Cloud)|Martin Hetzner": "martin.hetzner@hetzner.de",
+    "TierPoint|Jerry Kent": "jerry.kent@tierpoint.com",
+    "Fly.io|Kurt Mackey": "kurt@fly.io",
+    "SambaNova Systems|Rodrigo Liang": "rodrigo.liang@sambanova.ai",
+    "Paperspace (DigitalOcean)|Dillon Erb": "dillon@atg.science",
+    "Cipher Mining|Tyler Page": "tyler.page@ciphermining.com",
+    "Ori Global|Mahdi Yahya": "mahdi_b@wsib.ca",
+    "Cudo Compute|Matt Hawkins": "matt@cudocompute.com",
+    "CleanSpark|Zach Bradford": "zbradford@bestbigteam.com",
+    "SF Compute|Evan Conrad": "evan.conrad@dexian.com",
+    "Aethir|Mark Rydon": "markrydon@fluxcapital.co",
+    "US Signal|Dan Irwin": "dirwin@95percentgroup.com",
+    "io.net|Ahmad Shadid": "ahmad.shadid@cra-arc.gc.ca",
+    "Exabits|Hoansoo Lee": "hoansoo@exabits.xyz",
+    "Hyperbolic Labs|Jasper Zhang": "jasper_zhang@intaspharma.com",
+    "Prime Intellect|Saurabh Garg": "saurabh@merulife.com",
+    "Evocative (formerly Cyxtera)|Nelson Fonseca": "nelson.fonseca@ciriontechnologies.com",
+    "Cerebras Systems|Andrew Feldman": "andrew@cerebras.net",
+    "Vast.ai|Ben Kahle": "ben.kahle@lioinsurance.com",
+    "Shadeform|Hoansoo Lee": "liran@weka.io",
+    "Akash Network|Greg Osuri": "greg@akash.network",
+    "Beam Cloud|Luke Lombardi": "luke.lombardi@procore.com",
+    "Tenstorrent|Jim Keller": "j.keller@quantiphi.com",
+    "Brev.dev|Nader Khalil": "nkhalil@aspeneg.com",
+    "NetraDyne|Avneesh Agrawal": "avneesh.agrawal@netradyne.com",
+    "Vantage Data Centers (GPU)|Sureel Choksi": "sureel@vantage-dc.com",
+    "WEKA|Liran Zvibel": "liran@weka.io",
+    "Jarvis Labs|Vishnu Subramanian": "vishnu.s@e2enetworks.com",
+    "d-Matrix|Sid Sheth": "sidhdharth.sheth@ubs.com",
+    "Supermicro|Charles Liang": "charles.liang@secondadvisories.com",
+    "Stack Infrastructure|Brian Cox": "bcox@stackinfra.com",
+    "QTS Realty Trust|Chad Williams": "chad.williams@qualitygc.com",
+    "CloudHQ|Hossein Fateh": "h@cloudhq.com",
+    "FuriosaAI|June Paik": "jupaik@deloitte.com",
+    "Graphcore|Nigel Toon": "nigel@blankpage.capital"
+  }
+}

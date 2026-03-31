@@ -1,0 +1,661 @@
+[
+  {
+    "name": "ADVISOR360 LLC",
+    "state": "MA",
+    "year_incorporated": "2022",
+    "nace": "5829",
+    "employees": "450",
+    "revenue_usd": 1120000,
+    "pl_before_tax": null,
+    "total_assets": null,
+    "equity": null,
+    "website": "www.advisor360.com",
+    "description": "Engaged in providing an end-to-end wealth management platform",
+    "contacts": []
+  },
+  {
+    "name": "VNC LLC",
+    "state": "MA",
+    "year_incorporated": "2021",
+    "nace": "5829",
+    "employees": "160",
+    "revenue_usd": 1120000,
+    "pl_before_tax": null,
+    "total_assets": null,
+    "equity": null,
+    "website": "www.agencyd7.com",
+    "description": null,
+    "contacts": [
+      {
+        "name": "Kerry Unflat",
+        "title": "No specific function"
+      },
+      {
+        "name": "Mr John Dimitrios Veson",
+        "title": "Real Property"
+      }
+    ]
+  },
+  {
+    "name": "ADVALENT INC.",
+    "state": "MA",
+    "year_incorporated": "2019",
+    "nace": "5829",
+    "employees": "50",
+    "revenue_usd": 1120000,
+    "pl_before_tax": null,
+    "total_assets": null,
+    "equity": null,
+    "website": "usthealthproof.com",
+    "description": null,
+    "contacts": [
+      {
+        "name": "Mr Brian Lichtlin",
+        "title": "Chief Executive Officer"
+      },
+      {
+        "name": "Sasidhar Parvatham",
+        "title": "President"
+      }
+    ]
+  },
+  {
+    "name": "OTHERSIDE ENTERTAINMENT, INC.",
+    "state": "MA",
+    "year_incorporated": "2018",
+    "nace": "5829",
+    "employees": "25",
+    "revenue_usd": 1120000,
+    "pl_before_tax": null,
+    "total_assets": null,
+    "equity": null,
+    "website": "www.otherside-e.com",
+    "description": null,
+    "contacts": [
+      {
+        "name": "Mr Paul Neurath",
+        "title": "President"
+      },
+      {
+        "name": "Mr Skye Poole",
+        "title": "Manager, People & Operations"
+      }
+    ]
+  },
+  {
+    "name": "PURE INCUBATION MANAGEMENT LLC",
+    "state": "MA",
+    "year_incorporated": null,
+    "nace": "5829",
+    "employees": "10",
+    "revenue_usd": 1120000,
+    "pl_before_tax": null,
+    "total_assets": null,
+    "equity": null,
+    "website": "pureincubation.com",
+    "description": null,
+    "contacts": []
+  },
+  {
+    "name": "CREATIO AMERICAS INC",
+    "state": "MA",
+    "year_incorporated": "2022",
+    "nace": "5829",
+    "employees": "12",
+    "revenue_usd": 1120000,
+    "pl_before_tax": null,
+    "total_assets": null,
+    "equity": null,
+    "website": "www.bpmonline.com",
+    "description": "Workflows and CRM automate related no-code platform operator",
+    "contacts": [
+      {
+        "name": "Mr Andie Dovgan",
+        "title": "President Secretary"
+      },
+      {
+        "name": "Katherine Kostereva",
+        "title": "Chief Executive"
+      },
+      {
+        "name": "Ms Kateryna Kostereva",
+        "title": "Officer"
+      },
+      {
+        "name": "Mr Andrii Dovgan",
+        "title": "COB/P/T/S"
+      }
+    ]
+  },
+  {
+    "name": "ARTIFACT HEALTH, INC.",
+    "state": "MA",
+    "year_incorporated": "2021",
+    "nace": "5829",
+    "employees": "10",
+    "revenue_usd": 1120000,
+    "pl_before_tax": null,
+    "total_assets": null,
+    "equity": null,
+    "website": "www.artifacthealth.com",
+    "description": "Online cloud-based physician engagement mobile platform operator",
+    "contacts": [
+      {
+        "name": "Mr William Chan",
+        "title": "President"
+      },
+      {
+        "name": "Mr Jeffrey Crisan",
+        "title": "Vice President"
+      },
+      {
+        "name": "Mr Yumin Choi",
+        "title": "Secretary"
+      },
+      {
+        "name": "Mr Meir Gottlieb",
+        "title": "Secretary"
+      },
+      {
+        "name": "Mr John Michael Lovell",
+        "title": "Chief Financial Officer"
+      },
+      {
+        "name": "Ms Marisa Macclary",
+        "title": "Treasurer"
+      },
+      {
+        "name": "Mr Joshua Toub",
+        "title": "Chief Operating Officer"
+      }
+    ]
+  },
+  {
+    "name": "CHECKBOX SURVEY, INC.",
+    "state": "MA",
+    "year_incorporated": "2003",
+    "nace": "5829",
+    "employees": "11",
+    "revenue_usd": 1120000,
+    "pl_before_tax": null,
+    "total_assets": null,
+    "equity": null,
+    "website": "www.checkbox.com",
+    "description": null,
+    "contacts": [
+      {
+        "name": "Mr John Craven",
+        "title": "Clerk"
+      },
+      {
+        "name": "Mr Andy Smith",
+        "title": "Director of Sales"
+      },
+      {
+        "name": "Mr Kevin Fisher",
+        "title": "Project Manager / Senior Software Engineer"
+      },
+      {
+        "name": "Ms Carolyn Craven",
+        "title": "Other Officer"
+      }
+    ]
+  },
+  {
+    "name": "OMS SAFEHARBOR INC",
+    "state": "MA",
+    "year_incorporated": "2000",
+    "nace": "5829",
+    "employees": "15",
+    "revenue_usd": 1120000,
+    "pl_before_tax": null,
+    "total_assets": null,
+    "equity": null,
+    "website": "www.o-ms.com",
+    "description": null,
+    "contacts": [
+      {
+        "name": "Mr Chris Mangan",
+        "title": "Vice President Business Development"
+      },
+      {
+        "name": "Darci Dormitzer",
+        "title": "Sales and Marketing Coordinator"
+      },
+      {
+        "name": "Ms Charissa Maher",
+        "title": "Sales and Marketing"
+      },
+      {
+        "name": "Mr Peter Campbell",
+        "title": "Chief Operating Officer"
+      }
+    ]
+  },
+  {
+    "name": "VISIBLEGAINS, INC.",
+    "state": "MA",
+    "year_incorporated": "2013",
+    "nace": "5829",
+    "employees": "10",
+    "revenue_usd": 1120000,
+    "pl_before_tax": null,
+    "total_assets": null,
+    "equity": null,
+    "website": "www.postwire.com",
+    "description": null,
+    "contacts": [
+      {
+        "name": "Mr Cliff Pollan",
+        "title": "Co-Founder, President & Chief Executive Officer; Shareholder"
+      },
+      {
+        "name": "Ms Carrie Kuempel",
+        "title": "Manager, Marketing"
+      }
+    ]
+  },
+  {
+    "name": "ASTARO CORP",
+    "state": "MA",
+    "year_incorporated": "1999",
+    "nace": "5829",
+    "employees": "160",
+    "revenue_usd": 1120000,
+    "pl_before_tax": null,
+    "total_assets": null,
+    "equity": null,
+    "website": "www.astaro.com",
+    "description": "Engaged in the provision of configurationless Remote Ethernet Device RED which connects branch offices, as well as Wireless Security solution which enables secure W-LAN traffic, Log Management stores and evaluates logs from all systems while Mail Archiving provides compliant retention of corporate e-mails guaranteeing immediate discovery during audits",
+    "contacts": [
+      {
+        "name": "Ms Anttila Helena",
+        "title": "Channel Sales Manager, South Central"
+      }
+    ]
+  },
+  {
+    "name": "BCC USA",
+    "state": "MA",
+    "year_incorporated": "2006",
+    "nace": "5829",
+    "employees": "45",
+    "revenue_usd": 1120000,
+    "pl_before_tax": null,
+    "total_assets": null,
+    "equity": null,
+    "website": "www.bccusa-ma.com",
+    "description": null,
+    "contacts": []
+  },
+  {
+    "name": "PARA RESEARCH, INC.",
+    "state": "MA",
+    "year_incorporated": "1972",
+    "nace": "5829",
+    "employees": "20",
+    "revenue_usd": 1120000,
+    "pl_before_tax": null,
+    "total_assets": null,
+    "equity": null,
+    "website": "www.pararesearch.com",
+    "description": null,
+    "contacts": [
+      {
+        "name": "Toni Molinski",
+        "title": "President & Chief Executive Officer"
+      },
+      {
+        "name": "Ms Tonia Noell Molinski",
+        "title": "Secretary"
+      },
+      {
+        "name": "Mr Frank D Molinski JR",
+        "title": "Clerk"
+      },
+      {
+        "name": "Mr Walter Weizenauer",
+        "title": "Product Manager"
+      }
+    ]
+  },
+  {
+    "name": "TRINITY CONSULTING INC.",
+    "state": "MA",
+    "year_incorporated": "2001",
+    "nace": "5829",
+    "employees": "10",
+    "revenue_usd": 1120000,
+    "pl_before_tax": null,
+    "total_assets": null,
+    "equity": null,
+    "website": "www.trinity-inc.net",
+    "description": null,
+    "contacts": [
+      {
+        "name": "Ms Kathleen Mckinney",
+        "title": "Vice President"
+      },
+      {
+        "name": "Ms Susan Romanelli",
+        "title": "Clerk"
+      },
+      {
+        "name": "Mr George Laventure",
+        "title": "Chief Operating Officer"
+      }
+    ]
+  },
+  {
+    "name": "ESTATEWORKS INC",
+    "state": "MA",
+    "year_incorporated": "2001",
+    "nace": "5829",
+    "employees": "11",
+    "revenue_usd": 1120000,
+    "pl_before_tax": null,
+    "total_assets": null,
+    "equity": null,
+    "website": "www.estateworks.com",
+    "description": null,
+    "contacts": []
+  },
+  {
+    "name": "MICROCAD TRAINING & CONSULTING",
+    "state": "MA",
+    "year_incorporated": "2006",
+    "nace": "5829",
+    "employees": "15",
+    "revenue_usd": 1120000,
+    "pl_before_tax": null,
+    "total_assets": null,
+    "equity": null,
+    "website": "www.microcad3d.com",
+    "description": null,
+    "contacts": [
+      {
+        "name": "Mr Agustin Fernandez",
+        "title": "President/Treasurer; Executive Officer"
+      },
+      {
+        "name": "Ms Monica Bustillo",
+        "title": "Office Manager"
+      },
+      {
+        "name": "Ms Sarah Redick",
+        "title": "Vice President /Secretary"
+      },
+      {
+        "name": "Ms Sarah Redick",
+        "title": "Vice President, Marketing"
+      },
+      {
+        "name": "Mr Michael Wagner",
+        "title": "Operations Chief Financial Officer & Vice President"
+      },
+      {
+        "name": "Mr Bill Mccart",
+        "title": "Chief Financial Officer"
+      },
+      {
+        "name": "Ms Florence Bronstein",
+        "title": "Training"
+      },
+      {
+        "name": "Mr Thomas Gagliardi",
+        "title": "Sales Manager"
+      },
+      {
+        "name": "Mr Rex Thaxton",
+        "title": "Account Executive"
+      },
+      {
+        "name": "Ms Christina Yamarik",
+        "title": "Senior Account Executive"
+      },
+      {
+        "name": "Mr Bruce Hegstrom",
+        "title": "Senior Account Manager"
+      },
+      {
+        "name": "Ms Rebecca Shahverdian",
+        "title": "Purchasing Manager"
+      },
+      {
+        "name": "Mr Thomas Cassell",
+        "title": "Applications Specialist"
+      },
+      {
+        "name": "Mr James Dumont",
+        "title": "Application Engineer"
+      },
+      {
+        "name": "Mr Samir Rezk",
+        "title": "AEC Applications Specialist"
+      },
+      {
+        "name": "Ms Sheila Salvucci",
+        "title": "Manager, Help Desk"
+      },
+      {
+        "name": "Mr Jesse Battaglia",
+        "title": "No specific function"
+      }
+    ]
+  },
+  {
+    "name": "CLEARFOREST CORP.",
+    "state": "MA",
+    "year_incorporated": "2002",
+    "nace": "5829",
+    "employees": "55",
+    "revenue_usd": 1120000,
+    "pl_before_tax": null,
+    "total_assets": null,
+    "equity": null,
+    "website": "www.clearforest.com",
+    "description": null,
+    "contacts": [
+      {
+        "name": "Mr Barak Pridor",
+        "title": "Chief Executive Officer"
+      }
+    ]
+  },
+  {
+    "name": "SUPPLYSCAPE CORPORATION",
+    "state": "MA",
+    "year_incorporated": "2003",
+    "nace": "5829",
+    "employees": "55",
+    "revenue_usd": 1120000,
+    "pl_before_tax": null,
+    "total_assets": null,
+    "equity": null,
+    "website": "www.tracelink.com",
+    "description": "Pharmaceutical supply chain tracking technology developer",
+    "contacts": []
+  },
+  {
+    "name": "VOLT ACTIVE DATA, INC.",
+    "state": "MA",
+    "year_incorporated": "2010",
+    "nace": "5829",
+    "employees": "30",
+    "revenue_usd": 1120000,
+    "pl_before_tax": null,
+    "total_assets": null,
+    "equity": null,
+    "website": "www.voltactivedata.com",
+    "description": null,
+    "contacts": [
+      {
+        "name": "Mr Scott Jarr",
+        "title": "President"
+      },
+      {
+        "name": "Mr Bruce Reading",
+        "title": "President"
+      },
+      {
+        "name": "Mr Marc F Dupre",
+        "title": "Secretary"
+      },
+      {
+        "name": "Mr Scott Powers",
+        "title": "Chief Financial Officer"
+      },
+      {
+        "name": "Ms Tina Bento",
+        "title": "Treasurer"
+      },
+      {
+        "name": "Ms Sarah Dunleavy",
+        "title": "Treasurer"
+      },
+      {
+        "name": "Ms Stephanie Levetin",
+        "title": "Treasurer"
+      }
+    ]
+  },
+  {
+    "name": "DISPENSE SOFTWARE INC",
+    "state": "MA",
+    "year_incorporated": "2021",
+    "nace": "5829",
+    "employees": "15",
+    "revenue_usd": 1120000,
+    "pl_before_tax": null,
+    "total_assets": null,
+    "equity": null,
+    "website": "www.dispenseapp.com",
+    "description": "Cannabis technology software operator",
+    "contacts": []
+  },
+  {
+    "name": "FIRST LINE SOFTWARE, INC.",
+    "state": "MA",
+    "year_incorporated": "2020",
+    "nace": "5829",
+    "employees": "20",
+    "revenue_usd": 1120000,
+    "pl_before_tax": null,
+    "total_assets": null,
+    "equity": null,
+    "website": "www.firstlinesoftware.com",
+    "description": null,
+    "contacts": [
+      {
+        "name": "Mr Nikolai Igoryevich Puntikov",
+        "title": "Chief Executive Officer"
+      },
+      {
+        "name": "Mr Leonid Kabakov",
+        "title": "Officer"
+      },
+      {
+        "name": "Mr Alexander Pozdnyakov",
+        "title": "Officer"
+      },
+      {
+        "name": "Mr George W Preston III",
+        "title": "Officer"
+      }
+    ]
+  },
+  {
+    "name": "TEN PERCENT HAPPIER INC",
+    "state": "MA",
+    "year_incorporated": "2020",
+    "nace": "5829",
+    "employees": "65",
+    "revenue_usd": 1120000,
+    "pl_before_tax": null,
+    "total_assets": null,
+    "equity": null,
+    "website": "www.meditatehappier.com",
+    "description": null,
+    "contacts": []
+  },
+  {
+    "name": "ACUITYMD, INC.",
+    "state": "MA",
+    "year_incorporated": "2022",
+    "nace": "5829",
+    "employees": "50",
+    "revenue_usd": 1120000,
+    "pl_before_tax": null,
+    "total_assets": null,
+    "equity": null,
+    "website": "www.acuitymd.com",
+    "description": null,
+    "contacts": [
+      {
+        "name": "Mr Mike Monovoukas",
+        "title": "Officer"
+      }
+    ]
+  },
+  {
+    "name": "BD SOFTWARE",
+    "state": "MA",
+    "year_incorporated": "1979",
+    "nace": "5829",
+    "employees": "10",
+    "revenue_usd": 1120000,
+    "pl_before_tax": null,
+    "total_assets": null,
+    "equity": null,
+    "website": "www.bdsoft.com",
+    "description": null,
+    "contacts": []
+  },
+  {
+    "name": "CADD EDGE INC",
+    "state": "MA",
+    "year_incorporated": "1996",
+    "nace": "5829",
+    "employees": "49",
+    "revenue_usd": 1120000,
+    "pl_before_tax": null,
+    "total_assets": null,
+    "equity": null,
+    "website": "www.caddedge.com",
+    "description": "CADD Edge Inc. is headquartered in Marlborough, MA. It is a provider of software and engineering business solutions. The company offers 3D design software, validation and analysis, product data management, product documentation, and 3D printing and protot",
+    "contacts": [
+      {
+        "name": "Mr Tim Preston",
+        "title": "Founder & Chief Executive Officer; Shareholder"
+      },
+      {
+        "name": "Ms Donna Beedham",
+        "title": "Office Manager / Training Coordinator"
+      },
+      {
+        "name": "Ms Jodi Smith",
+        "title": "Business Development Manager"
+      },
+      {
+        "name": "Mr Satnam Kandola",
+        "title": "Human Resources Generalist"
+      },
+      {
+        "name": "Mr William Phelps",
+        "title": "Regional Manager, Greater New York"
+      },
+      {
+        "name": "Ms Tammy Pleasent",
+        "title": "Territory Manager Connecticut North"
+      },
+      {
+        "name": "Mr Gary Mac",
+        "title": "Application Engineer"
+      },
+      {
+        "name": "Mr Maryjo Palermo",
+        "title": "It Support Analyst"
+      }
+    ]
+  }
+]

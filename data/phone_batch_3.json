@@ -1,0 +1,669 @@
+[
+  {
+    "company_name": "InfoAxis Inc (Infoaxis)",
+    "state": "NJ",
+    "industry": "Managed IT Services / Cloud Transformation / Cybersecurity",
+    "founded": "1999",
+    "employees": null,
+    "revenue_usd_000s": null,
+    "website": "https://infoaxis.com",
+    "website_verified": true,
+    "website_note": "infoaxis.com remains accessible; company was acquired by Atlantic, Tomorrow's Office in September 2024. Site may redirect to Atlantic's website going forward.",
+    "description": "InfoAxis Inc. was a managed services, cloud transformation, and cybersecurity provider based in Mahwah, NJ, serving large and small healthcare, financial services, legal, manufacturing, and construction firms in Bergen County, NJ for over 25 years \u2014 until its acquisition by Atlantic, Tomorrow's Office in September 2024.",
+    "description_source": "https://tomorrowsoffice.com/blog/atlantic-tomorrows-office-acquires-infoaxis-inc/",
+    "contacts": [
+      {
+        "name": "Richard (Mickey) McGraw",
+        "title": "Co-founder & CEO (prior to September 2024 acquisition)",
+        "source_url": "https://tomorrowsoffice.com/blog/atlantic-tomorrows-office-acquires-infoaxis-inc/",
+        "linkedin_url": "https://www.linkedin.com/company/infoaxis",
+        "is_original": true
+      },
+      {
+        "name": "Larry Weiss",
+        "title": "Chairman, Atlantic Tomorrow's Office (acquirer)",
+        "source_url": "https://tomorrowsoffice.com/leadership/",
+        "linkedin_url": null,
+        "is_original": false
+      },
+      {
+        "name": "Jason Weiss",
+        "title": "CEO, Atlantic Tomorrow's Office (July 2025 succession)",
+        "source_url": "http://www.prnewswire.com/news-releases/jason-weiss-named-ceo-amid-atlantic-leadership-transition-302499973.html",
+        "linkedin_url": "https://www.linkedin.com/in/jason-weiss-atlantic/",
+        "is_original": false
+      }
+    ],
+    "recent_news": "On September 12, 2024, Atlantic, Tomorrow's Office acquired InfoAxis Inc. \u2014 the 15th acquisition for Atlantic. Mickey McGraw's team was noted for organic growth and client-centered service philosophy. In July 2025, Atlantic announced executive succession with Jason Weiss as CEO and Adam Weiss as President, with Larry Weiss moving to Chairman.",
+    "news_source_url": "https://tomorrowsoffice.com/blog/atlantic-tomorrows-office-acquires-infoaxis-inc/",
+    "verification_status": "Verified",
+    "verification_notes": "Mickey McGraw confirmed as Co-founder and CEO of InfoAxis. Company founded in 1999; operated for 25 years before acquisition. Contact and title verified through acquisition press release and multiple sources.",
+    "data_quality_score": 5,
+    "enrichment_notes": "Major news: Company was acquired in September 2024 \u2014 significant event for any lead data. InfoAxis is now part of Atlantic, Tomorrow's Office. Original contact (McGraw) likely transitioned post-acquisition. Lead data should be updated to reflect acquired status."
+  },
+  {
+    "company_name": "Steven W. Smith DDS PLLC (Smith Family and Cosmetic Dentistry)",
+    "state": "NC",
+    "industry": "Dental Practice",
+    "founded": "circa 2013",
+    "employees": null,
+    "revenue_usd_000s": null,
+    "website": "https://yourcarolinadentist.com",
+    "website_verified": true,
+    "website_note": "yourcarolinadentist.com confirmed active as Smith Family and Cosmetic Dentistry, Dr. Steven W. Smith DDS PLLC. Operating brand is 'Smith Family and Cosmetic Dentistry'.",
+    "description": "Steven W. Smith DDS PLLC, operating as Smith Family and Cosmetic Dentistry, is a multi-location dental practice in coastal North Carolina offering comprehensive family and cosmetic dentistry including dental implants, orthodontics, cosmetic dentistry, TMD treatment, and sleep apnea services, with locations in Sneads Ferry, Jacksonville, Hampstead, Surf City, Goldsboro, and Wilmington.",
+    "description_source": "https://yourcarolinadentist.com/about/",
+    "contacts": [
+      {
+        "name": "Kenna Smith",
+        "title": "Partner (wife of Dr. Steven W. Smith; listed as partner in practice directories)",
+        "source_url": "https://yourcarolinadentist.com/about/",
+        "linkedin_url": null,
+        "is_original": true
+      },
+      {
+        "name": "Dr. Steven W. Smith",
+        "title": "Owner / DDS",
+        "source_url": "https://yourcarolinadentist.com/about/",
+        "linkedin_url": null,
+        "is_original": false
+      }
+    ],
+    "recent_news": "Practice has expanded to 7 locations across coastal NC including Sneads Ferry, Jacksonville, Hampstead, Surf City, Wilmington (Market Street), Wilmington (Carolina Beach Rd), and Goldsboro. No specific 2024-2025 expansion announcements found; the multi-location network is established and active.",
+    "news_source_url": "https://yourcarolinadentist.com/locations/",
+    "verification_status": "Verified",
+    "verification_notes": "Kenna Smith confirmed as Dr. Smith's wife and practice partner per about page and Yahoo Local directory. Dr. Steven W. Smith confirmed: DDS from University of Michigan 2009, 4 years as Navy dentist, practice opened in Sneads Ferry, NC. Both contacts verified. Note: 'partner' is a business partnership role, not dental partner.",
+    "data_quality_score": 4,
+    "enrichment_notes": "Practice operating brand is 'Smith Family and Cosmetic Dentistry'. DDS education from Univ of Michigan, class of 2009. Navy dentist background. 7 active NC locations. Second entry in batch (entry 15) is a duplicate with no contact listed."
+  },
+  {
+    "company_name": "Galax-eSystems Corporation",
+    "state": "PA",
+    "industry": "IT Staffing / Software Development / IT Consulting",
+    "founded": null,
+    "employees": 20,
+    "revenue_usd_000s": 9000,
+    "website": "https://www.galaxesystems.com",
+    "website_verified": true,
+    "website_note": "galaxesystems.com confirmed active as the Galax-eSystems Corporation website (Pittsburgh, PA).",
+    "description": "Galax-eSystems Corporation (GES) is a full-service IT consulting and staffing firm based in Pittsburgh, PA, specializing in IT staffing, enterprise application development, system integration, ERP solutions, business process re-engineering, business intelligence, and infrastructure support for clients in healthcare, education, government, energy, and commercial sectors across the United States.",
+    "description_source": "https://www.bbb.org/us/pa/pittsburgh/profile/computer-software-developers/galax-esystems-corp-0141-71015637",
+    "contacts": [
+      {
+        "name": "Revathi Annamreddy",
+        "title": "President / CEO",
+        "source_url": "https://www.crunchbase.com/person/revathi-annamreddy",
+        "linkedin_url": null,
+        "is_original": true
+      }
+    ],
+    "recent_news": "Annual revenue was $9M in 2025. In FY2025, GalaxEsystems filed 22 Form I-129 H-1B petitions (22 approved, 0 denied), indicating active IT staffing operations. Company continues to focus on IT staffing and consulting across multiple US industries. No major acquisitions or expansions found in 2024-2025.",
+    "news_source_url": "https://www.myvisajobs.com/employer/galaxesystems/",
+    "verification_status": "Verified",
+    "verification_notes": "Revathi Annamreddy confirmed as CEO/President of Galax-eSystems on Crunchbase and ZoomInfo. Company address confirmed as One Oxford Centre, 301 Grant Street, Pittsburgh PA 15219. Title listed as 'President' in original record; confirmed she holds both President and CEO titles.",
+    "data_quality_score": 3,
+    "enrichment_notes": "Small IT staffing firm (~20 employees, ~$9M revenue). Primarily an H-1B employer for IT staffing placements. Has India subsidiary (Galax-Esystems Corp India Private Limited). Limited public executive data beyond the founder/CEO."
+  },
+  {
+    "company_name": "1460 CAPITAL CORP INC",
+    "state": "CA",
+    "industry": "Real Estate Agencies",
+    "founded": "1994",
+    "employees": 50,
+    "revenue_usd_000s": 26400,
+    "website": "https://www.pacificcoastcommercial.com",
+    "website_verified": true,
+    "website_note": "Pacific Coast Commercial (pacificcoastcommercial.com) confirmed as the operating name/brand for 1460 Capital Corp Inc via BBB and company website.",
+    "description": "1460 Capital Corp Inc, operating as Pacific Coast Commercial, is a full-service commercial real estate company based in San Diego, California, providing sales, leasing, property management, and asset management across all property types including retail, office/medical, industrial, self-storage, and land development. The company manages over 6.7 million square feet of commercial property in the San Diego region.",
+    "description_source": "https://www.pacificcoastcommercial.com/about-us",
+    "contacts": [
+      {
+        "name": "Robert Phillips",
+        "title": "Chief Executive Officer / President",
+        "source_url": "https://www.pacificcoastcommercial.com/about-us",
+        "linkedin_url": "https://www.linkedin.com/in/robert-phillips-aab64614/",
+        "is_original": false,
+        "is_primary": true
+      },
+      {
+        "name": "Vince Provenzano",
+        "title": "President of Brokerage / Executive Director of Brokerage",
+        "source_url": "https://www.pacificcoastcommercial.com/about-us",
+        "linkedin_url": "https://www.linkedin.com/in/vinceprovenzano/",
+        "is_original": false
+      }
+    ],
+    "recent_news": "Pacific Coast Commercial expanded its team with Rick Chatham and Zarina Jackson joining as brokerage associates (announced within 2024). Company continues growing its commercial real estate portfolio across San Diego County.",
+    "news_source_url": "https://www.pacificcoastcommercial.com/post/pacific-coast-commercial-is-growing-rick-chatham-and-zarina-jackson-join-our-team",
+    "verification_status": "Verified",
+    "verification_notes": "Robert Phillips confirmed as CEO/President from company website pacificcoastcommercial.com/about-us and LinkedIn profile. Company website active, recent 2024 team expansion news confirms ongoing operations. Vince Provenzano confirmed as President of Brokerage via same source.",
+    "data_quality_score": 5,
+    "enrichment_notes": "Original record had no contact name. Company operates publicly as Pacific Coast Commercial. Robert Phillips has 40+ years of commercial real estate experience. BBB profile confirms 1460 Capital Corp Inc is the legal entity.",
+    "action": "UPGRADE"
+  },
+  {
+    "company_name": "VILLAGE TRUCK SALES INC",
+    "state": "MA",
+    "industry": "Used Truck & Equipment Sales / Towing",
+    "founded": "1967",
+    "employees": 13,
+    "revenue_usd_000s": 26400,
+    "website": "https://www.villagetrucksales.com",
+    "website_verified": true,
+    "website_note": "Website confirmed active. North Country Auctions conducted a major inventory reduction auction for Village Truck Sales in August 2025 (per Berkshire Eagle) \u2014 confirmed still operating as of 2025.",
+    "description": "Village Truck Sales Inc is a third-generation, family-owned used truck and heavy equipment dealer based in Lanesborough, Massachusetts, operating at 800 Cheshire Rd. The company sells used municipal equipment, provides vehicle repair services, and offers 24-hour light and heavy-duty towing services.",
+    "description_source": "https://www.bbb.org/us/ma/lanesboro/profile/towing-company/village-truck-sales-inc-0261-317488",
+    "contacts": [
+      {
+        "name": "Joe Sczepaniak",
+        "title": "Manager / Principal (JSSJR Enterprises, Inc.)",
+        "source_url": "https://www.bbb.org/us/ma/lanesboro/profile/towing-company/village-truck-sales-inc-0261-317488",
+        "linkedin_url": null,
+        "is_original": false,
+        "is_primary": true
+      }
+    ],
+    "recent_news": "North Country Auctions conducted an inventory reduction auction for Village Truck Sales in August 2025 in Stephentown, NY \u2014 standard inventory management, not a closure. Business listings and website remain active through 2025.",
+    "news_source_url": "https://www.berkshireeagle.com/bizbrief/village-truck-sales-auction-stephentown-ny/article_98662530-0c74-4fc1-819a-a4ebfc5b5902.html",
+    "verification_status": "Unverified",
+    "verification_notes": "Business confirmed active through 2025. Inventory reduction auction August 2025 is routine, not a closure signal. Joe Sczepaniak identified as manager from BBB \u2014 no owner/principal name found in public sources. Contact is best available for this small family-owned dealership.",
+    "data_quality_score": 3,
+    "enrichment_notes": "Industry classification 'Plumbing/HVAC' in source data appears incorrect; this is a used truck and equipment business. Owner identity not surfaced publicly \u2014 Sczepaniak is manager-level. Phone: (413) 217-0116.",
+    "action": "KEEP_IMPROVED"
+  },
+  {
+    "company_name": "MASTERWORKS CONSTRUCTION SERVICES, INC.",
+    "state": "CA",
+    "industry": "Residential & Commercial Construction",
+    "founded": "1992",
+    "employees": null,
+    "revenue_usd_000s": null,
+    "website": "https://mworksconstruction.com",
+    "website_verified": true,
+    "website_note": "Site active and live \u2014 Yelp listing updated February 2026, confirming ongoing operations.",
+    "description": "Masterworks Construction Services Inc. is a Southern California general contractor based in Long Beach, CA, providing residential and commercial remodeling, new construction, architectural design, landscape design and installation services. Founded in 1992 by Bill Leisy; ownership transferred to Carlos Perez in 2022.",
+    "description_source": "https://mworksconstruction.com/profile/about-us/",
+    "contacts": [
+      {
+        "name": "Carlos Perez",
+        "title": "President / Owner (since 2022)",
+        "source_url": "https://mworksconstruction.com/profile/about-us/",
+        "linkedin_url": null,
+        "is_original": false,
+        "is_primary": true
+      },
+      {
+        "name": "Elizabeth Perez",
+        "title": "Office Operations Manager",
+        "source_url": "https://mworksconstruction.com/profile/the-team/",
+        "linkedin_url": null,
+        "is_original": false
+      }
+    ],
+    "recent_news": "Yelp listing updated February 2026 confirms active operations. Ownership transferred from founder Bill Leisy to Carlos Perez in 2022. 34 permitted projects per BuildZoom.",
+    "news_source_url": "https://mworksconstruction.com/profile/about-us/",
+    "verification_status": "Verified",
+    "verification_notes": "Carlos Perez confirmed as President/Owner since 2022 from company website mworksconstruction.com/profile/about-us/. Yelp listing updated February 2026 confirms active business. Location: 1376-B Coronado Ave, Long Beach, CA 90804.",
+    "data_quality_score": 4,
+    "enrichment_notes": "Company name was null in original data. Identified from website URL mworksconstruction.com. Located at 1376-B Coronado Ave, Long Beach, CA 90804. 34 permitted projects per BuildZoom. Serves Los Angeles, Long Beach, Manhattan Beach, Santa Monica areas.",
+    "action": "UPGRADE"
+  },
+  {
+    "company_name": "WWI CONTRACTING CORP",
+    "state": "NY",
+    "industry": "Specialised Construction / Carpentry & Drywall",
+    "founded": "2008",
+    "employees": 7,
+    "revenue_usd_000s": 26400,
+    "website": "https://wwinyc.com",
+    "website_verified": true,
+    "website_note": "Primary and active website is wwinyc.com. Company HQ is Queens (Astoria/Long Island City), NY \u2014 not NJ as listed in original data.",
+    "description": "WWI Contracting Corp. is a leading Northeast-region carpentry and drywall company founded in 2008, specializing in general contracting, structural heavy gauge framing, interior framing, insulation, gypsum wallboard, construction management, and residential high-rise and hotel construction in NY and NJ.",
+    "description_source": "https://wwinyc.com/about/",
+    "contacts": [
+      {
+        "name": "Angelo Amen",
+        "title": "Principal / Co-Founder",
+        "source_url": "https://wwinyc.com/about/",
+        "linkedin_url": "https://www.linkedin.com/in/angelo-amen-9574991a2/",
+        "is_original": false,
+        "is_primary": true
+      },
+      {
+        "name": "Veinmann Torres",
+        "title": "President / Co-Founder",
+        "source_url": "https://www.thebluebook.com/iProView/925831/wwi-contracting-corp/subcontractors/locations-contacts/",
+        "linkedin_url": null,
+        "is_original": false
+      }
+    ],
+    "recent_news": "Company continues to operate in residential high-rises, hotels, and affordable housing projects across NY and NJ. Active on NY/NJ metro market.",
+    "news_source_url": "https://wwinyc.com/",
+    "verification_status": "Verified",
+    "verification_notes": "Angelo Amen confirmed as Principal/Co-Founder from company website wwinyc.com/about/ with LinkedIn profile. Veinmann Torres confirmed as President/Co-Founder from TheBluebook contractor directory. Company website active. State corrected from NJ to NY (Queens/Long Island City).",
+    "data_quality_score": 4,
+    "enrichment_notes": "Original data had null contact name, null contact title, state NJ, and website www.inyc.com. Company is NY-based. Founded by Angelo Amen and Veinmann Torres in 2008. Located in Astoria/Long Island City, Queens, NY.",
+    "action": "UPGRADE"
+  },
+  {
+    "company_name": "KENTUCKY COUNTRY DAY SCHOOL, INC.",
+    "state": "KY",
+    "industry": "Pre-primary / K-12 Education (Independent Day School)",
+    "founded": "1972",
+    "employees": 20,
+    "revenue_usd_000s": 26400,
+    "website": "https://www.kcd.org",
+    "website_verified": true,
+    "website_note": "kcd.org is active and current. Kentucky Country Day School's primary online presence.",
+    "description": "Kentucky Country Day School (KCD) is a private, coeducational JK-12 independent day school located on an 80+ acre campus in Louisville, KY. The school emphasizes the values in its motto: Citizen, Scholar, Steward. It is accredited and serves students from Junior Kindergarten through 12th grade.",
+    "description_source": "https://www.kcd.org/",
+    "contacts": [
+      {
+        "name": "Deena J. Carey",
+        "title": "Head of School (effective July 1, 2025)",
+        "source_url": "https://www.kcd.org/news-detail?pk=1350287",
+        "linkedin_url": "https://www.linkedin.com/in/deena-j-carey-44190336/",
+        "is_original": false,
+        "is_primary": true
+      },
+      {
+        "name": "Peter Huestis",
+        "title": "Former Head of School (served July 2019 \u2013 2024; DEPARTED)",
+        "source_url": "https://www.kcd.org/announcement-detail?pk=525007",
+        "linkedin_url": null,
+        "is_original": true,
+        "is_primary": false
+      }
+    ],
+    "recent_news": "Deena J. Carey (formerly Associate Head of School at Isidore Newman School, New Orleans) appointed as Head of School effective July 1, 2025 \u2014 Board voted unanimously. Jon Kellam served as Interim Head of School for 2024-25. New daily schedule introduced Fall 2024.",
+    "news_source_url": "https://www.kcd.org/news-detail?pk=1350287",
+    "verification_status": "Verified",
+    "verification_notes": "Deena J. Carey confirmed as current Head of School (effective July 1, 2025) from KCD official announcement (kcd.org/news-detail?pk=1350287) and LinkedIn profile. Board voted unanimously. Previously Associate Head at Isidore Newman School, New Orleans. MA in Educational Leadership from GWU.",
+    "data_quality_score": 5,
+    "enrichment_notes": "Original contact Peter Huestis departed 2024. Updated to Deena J. Carey as current Head of School. Located at 4100 Springdale Road, Louisville, KY 40241.",
+    "action": "UPGRADE"
+  },
+  {
+    "company_name": "PHEIFER BROTHERS CONSTRUCTION COMPANY, INC.",
+    "state": "WI",
+    "industry": "Civil Engineering / Bridge Construction",
+    "founded": "1952",
+    "employees": 14,
+    "revenue_usd_000s": 26400,
+    "website": "https://www.pheifer.com",
+    "website_verified": true,
+    "website_note": "Active site confirmed at pheifer.com; company based in Neenah, WI.",
+    "description": "Third-generation family-owned bridge construction company based in Neenah, Wisconsin, founded in 1952 by brothers Robert and Alan Pheifer, now led by Ryan Pheifer as sole owner and President, specializing in bridge construction throughout Wisconsin for the Wisconsin DOT and other clients.",
+    "description_source": "https://www.pheifer.com/",
+    "contacts": [
+      {
+        "name": "Ryan Pheifer",
+        "title": "President / Owner",
+        "source_url": "https://www.linkedin.com/in/ryanpheifer/",
+        "linkedin_url": "https://www.linkedin.com/in/ryanpheifer/",
+        "is_original": false,
+        "is_primary": true
+      },
+      {
+        "name": "Tyler Volkmann",
+        "title": "Project Manager",
+        "source_url": "https://www.zoominfo.com/c/pheifer-brothers-construction-company-inc/92275920",
+        "linkedin_url": null,
+        "is_original": true
+      }
+    ],
+    "recent_news": "Awarded $846,790 WisDOT contract in May 2024 for rehabilitation of bridge on WIS 35 over Big River in Pierce County. Active bidder on multiple WisDOT 2024-2026 projects including 2026 Walworth County bridge award.",
+    "news_source_url": "https://www.piercecountyjournal.news/stories/bridge-rehabilitation-project-on-wis-35-in-pierce-county-to-start,90225",
+    "verification_status": "Verified",
+    "verification_notes": "Ryan Pheifer confirmed as President/Owner from company website pheifer.com and LinkedIn profile. Active WisDOT contractor with May 2024 contract award of $846K \u2014 strong confirmation of current business activity.",
+    "data_quality_score": 5,
+    "enrichment_notes": "Third-generation family business. Founded 1952 (corrected from 1950 in source data). Ryan Pheifer is sole owner and President. WisDOT Structure of the Year award recipient. Located in Neenah, WI.",
+    "action": "UPGRADE"
+  },
+  {
+    "company_name": "JOSEPH H. ROBERTS INC.",
+    "state": "NJ",
+    "industry": "Plumbing/HVAC",
+    "founded": "1979",
+    "employees": 7,
+    "revenue_usd_000s": 26400,
+    "website": "https://jhrobertsinc.com",
+    "website_verified": true,
+    "website_note": "Active site confirmed; company located at 711 Old Shore Rd STE 1, Forked River, NJ 08731. Carrier Factory Authorized Dealer status confirms active licensed operation.",
+    "description": "Family-owned HVAC contractor based in Forked River, NJ, founded in 1979 by Joseph H. Roberts Jr. and passed to his son Joseph H. Roberts III in 2020, providing residential and light commercial heating, air conditioning, duct cleaning, water heater services, and indoor air quality solutions as a Carrier Factory Authorized Dealer.",
+    "description_source": "https://jhrobertsinc.com",
+    "contacts": [
+      {
+        "name": "Joseph H. Roberts III",
+        "title": "President / Owner",
+        "source_url": "https://jhrobertsinc.com",
+        "linkedin_url": null,
+        "is_original": false,
+        "is_primary": true
+      }
+    ],
+    "recent_news": "Company maintains A+ BBB rating and Carrier Factory Authorized Dealer status, with NATE- and EPA-certified technicians. Business passed from founder to Joseph H. Roberts III in 2020.",
+    "news_source_url": "https://jhrobertsinc.com",
+    "verification_status": "Verified",
+    "verification_notes": "Joseph H. Roberts III confirmed as President/Owner from company website jhrobertsinc.com and Carrier Factory Authorized Dealer listings. A+ BBB rating. Founded 1979 confirmed from company website (source data had corrupted Excel date 31520).",
+    "data_quality_score": 4,
+    "enrichment_notes": "Source data had null contact name/title and corrupted Excel serial date. Actual founding year 1979. Small 7-person HVAC firm serving Ocean County, NJ. Phone: (609) 693-8500.",
+    "action": "UPGRADE"
+  },
+  {
+    "company_name": "JAMES DEAN CONSTRUCTION INC.",
+    "state": "WA",
+    "industry": "Civil Engineering / Road Building",
+    "founded": "1988",
+    "employees": 30,
+    "revenue_usd_000s": 26400,
+    "website": "http://www.jamesdeanconstruction.com",
+    "website_verified": true,
+    "website_note": "Active site confirmed; company located at 579 Highway 141, White Salmon, WA 98672. WA L&I contractor license JAMESDC121J7 confirmed active as of July 2025.",
+    "description": "Civil engineering and construction firm founded in 1988 in White Salmon, WA, specializing in road building, infrastructure development, portable rock crushing, excavation, bridges, concrete, earthwork, and structural steel, with over 100 miles of road construction completed.",
+    "description_source": "http://www.jamesdeanconstruction.com/about-us-1.html",
+    "contacts": [
+      {
+        "name": "James Dean",
+        "title": "Owner / Principal Contact",
+        "source_url": "http://www.jamesdeanconstruction.com/contact-us-1.html",
+        "linkedin_url": null,
+        "is_original": false,
+        "is_primary": true
+      },
+      {
+        "name": "Jeffrey Dean",
+        "title": "Licensed Employee",
+        "source_url": "https://secure.lni.wa.gov/verify/Detail.aspx?UBI=601067776&LIC=JAMESDC121J7",
+        "linkedin_url": null,
+        "is_original": false
+      },
+      {
+        "name": "Lavanda Dean",
+        "title": "Licensed Employee",
+        "source_url": "https://secure.lni.wa.gov/verify/Detail.aspx?UBI=601067776&LIC=JAMESDC121J7",
+        "linkedin_url": null,
+        "is_original": false
+      }
+    ],
+    "recent_news": "Washington State L&I contractor license JAMESDC121J7 confirmed active as of July 2025. BuildZoom score 94 \u2014 top 24% of 128,670 WA licensed contractors. Family-run business with owner James Dean (Civil Engineering degree, Washington State University).",
+    "news_source_url": "https://secure.lni.wa.gov/verify/Detail.aspx?UBI=601067776&LIC=JAMESDC121J7",
+    "verification_status": "Verified",
+    "verification_notes": "James Dean confirmed as owner from company website jamesdeanconstruction.com/contact-us-1.html. WA L&I license JAMESDC121J7 confirmed active as of July 2025 \u2014 strongest possible confirmation of current legal operation.",
+    "data_quality_score": 4,
+    "enrichment_notes": "Source data had null contact name and title. Owner James Dean has Civil Engineering degree from Washington State University. Small family business serving White Salmon, WA area.",
+    "action": "UPGRADE"
+  },
+  {
+    "company_name": "J.L.W. TRUCKING, INC.",
+    "state": "GA",
+    "industry": "Road Freight / Hauling",
+    "founded": "1996",
+    "employees": 12,
+    "revenue_usd_000s": 26400,
+    "website": "https://www.jlwtruckingco.com",
+    "website_verified": true,
+    "website_note": "Active site confirmed. Yelp listing updated February 2026, confirming ongoing active operations.",
+    "description": "Family-owned and operated hauling company based in Eatonton, Georgia, founded in 1996, operating for three generations as Middle Georgia's trusted hauling service using refrigerated vans, milk tanks, and water tanks for interstate freight.",
+    "description_source": "https://www.jlwtruckingco.com/about-us",
+    "contacts": [
+      {
+        "name": "Warren Camp",
+        "title": "President",
+        "source_url": "https://www.dnb.com/business-directory/company-profiles.jlw_trucking_inc.25a34a9afd65ae1eb7e0e85c84691613.html",
+        "linkedin_url": null,
+        "is_original": false,
+        "is_primary": true
+      }
+    ],
+    "recent_news": "Yelp listing updated February 2026, confirming active operations. Company continues to serve Middle Georgia as a three-generation family hauling business. USDOT No. 650110 \u2014 FMCSA licensed interstate carrier.",
+    "news_source_url": "https://www.yelp.com/biz/j-l-w-trucking-eatonton",
+    "verification_status": "Verified",
+    "verification_notes": "Warren Camp confirmed as President from D&B profile and whereorg.com. Company website active. Yelp updated February 2026 confirms active operations. FMCSA carrier snapshot (USDOT 650110) confirms licensed interstate operation. Phone: (706) 485-2800.",
+    "data_quality_score": 4,
+    "enrichment_notes": "Source data had null contact name; founding year discrepancy (1991 in source vs 1996 on company website \u2014 1996 used as confirmed). Three-generation family business in Eatonton, GA.",
+    "action": "UPGRADE"
+  },
+  {
+    "company_name": "PACIFIC LIVING PROPERTIES, INC.",
+    "state": "CA",
+    "industry": "Real Estate / Multifamily Property Management",
+    "founded": "2003",
+    "employees": 15,
+    "revenue_usd_000s": 91000,
+    "website": "https://www.pacificliving.com",
+    "website_verified": true,
+    "website_note": "Company operates at 4660 La Jolla Village Dr, Suite 660, San Diego, CA 92122. Active filing status as of 2025. Revenue of $91M per 2025 data aggregators.",
+    "description": "Multifamily property management company founded by Jeff Miller, based in San Diego, CA, with over 20 years of experience managing apartment communities in California, Montana, Washington, and Idaho. Company focuses exclusively on maximizing performance of multifamily properties, with total managed deal value exceeding $1 billion.",
+    "description_source": "https://www.linkedin.com/in/jeff-miller-3302467/",
+    "contacts": [
+      {
+        "name": "Jeff Miller",
+        "title": "CEO / Owner / Partner",
+        "source_url": "https://www.linkedin.com/in/jeff-miller-3302467/",
+        "linkedin_url": "https://www.linkedin.com/in/jeff-miller-3302467/",
+        "is_original": false,
+        "is_primary": true
+      },
+      {
+        "name": "Tom Daniels",
+        "title": "Partner / Executive Vice President of Operations",
+        "source_url": "https://www.zoominfo.com/p/Thomas-Daniels/1211778352",
+        "linkedin_url": "https://www.linkedin.com/in/todaniels/",
+        "is_original": false
+      },
+      {
+        "name": "Marty Wilson",
+        "title": "Vice President of Construction and Safety",
+        "source_url": "https://rocketreach.co/pacific-living-properties-management_b5f08e6ff6a27f6e",
+        "linkedin_url": null,
+        "is_original": false
+      },
+      {
+        "name": "Ms. Susie M. LaVallie",
+        "title": "FORMER SVP Accounting & Finance \u2014 REMOVED 2021 (do not contact)",
+        "source_url": "https://opencorporates.com/companies/us_ca/C2476676",
+        "linkedin_url": "https://www.linkedin.com/in/susie-lavallie-aa286434",
+        "is_original": true,
+        "is_primary": false
+      }
+    ],
+    "recent_news": "Active filing status confirmed as of 2025. Annual revenue estimated at $91M (2025). Jeff Miller also a principal at 11 Capital with over $1 billion in managed real estate deals.",
+    "news_source_url": "https://www.bizprofile.net/ca/san-diego/pacific-living-properties-inc",
+    "verification_status": "Verified",
+    "verification_notes": "Jeff Miller confirmed as CEO/Owner from LinkedIn (https://www.linkedin.com/in/jeff-miller-3302467/) and multiple sources. Active CA corporate filing as of 2025. Susie LaVallie removed from all officer positions 2021 \u2014 flagged as former contact only. Revenue corrected to $91M per 2025 aggregator data.",
+    "data_quality_score": 5,
+    "enrichment_notes": "Original contact Susie LaVallie was removed from all officer positions in 2021. Jeff Miller is current CEO. Also principal at 11 Capital. Total deal value managed exceeds $1B.",
+    "action": "UPGRADE"
+  },
+  {
+    "company_name": "11RESIDENTIAL (11residential.com)",
+    "state": "WA",
+    "industry": "Real Estate / Multifamily Property Management",
+    "founded": null,
+    "employees": null,
+    "revenue_usd_000s": null,
+    "website": "https://www.11residential.com",
+    "website_verified": true,
+    "website_note": "Active site confirmed at 11residential.com. Active Apartments.com, LinkedIn, and Facebook presence. Based in Kirkland, WA. Properties across Washington, Montana, Idaho, and California.",
+    "description": "Property management company based in Kirkland, WA, managing apartment communities across Washington, Montana, Idaho, and California, committed to offering an exceptional living environment through excellent customer service and state-of-the-art technology. Affiliated with Pacific Living Properties and Jeff Miller / 11 Capital investment platform.",
+    "description_source": "https://www.11residential.com/",
+    "contacts": [
+      {
+        "name": "Tom Daniels",
+        "title": "Partner / Executive Vice President of Operations (joined Nov 2022)",
+        "source_url": "https://www.linkedin.com/in/todaniels/",
+        "linkedin_url": "https://www.linkedin.com/in/todaniels/",
+        "is_original": false,
+        "is_primary": true
+      },
+      {
+        "name": "Shannon Reed",
+        "title": "Executive VP, Accounting",
+        "source_url": "https://www.zoominfo.com/p/Shannon-Reed/13249035196",
+        "linkedin_url": null,
+        "is_original": false
+      }
+    ],
+    "recent_news": "Tom Daniels confirmed participating in Marcus & Millichap Pacific Northwest Multifamily Forum panel as Director of Asset Management. 11Residential active with Apartments.com listings and active recruiting (Indeed careers page). Closely affiliated with Pacific Living Properties under Jeff Miller / 11 Capital platform.",
+    "news_source_url": "https://www.linkedin.com/in/todaniels/",
+    "verification_status": "Verified",
+    "verification_notes": "Tom Daniels confirmed as EVP Operations / Partner at 11Residential from LinkedIn profile. Active Apartments.com property management listing confirms ongoing operations. Company is active and distinct from (though related to) Pacific Living Properties. Natalie Caranci (original contact) could not be confirmed \u2014 removed as primary, replaced with Tom Daniels.",
+    "data_quality_score": 4,
+    "enrichment_notes": "Source data had null company name. Identified from website 11residential.com. Affiliated with Pacific Living Properties and Jeff Miller / 11 Capital. Tom Daniels is the most senior verifiable contact.",
+    "action": "UPGRADE"
+  },
+  {
+    "company_name": "HEALTHY MOTHERS/HEALTHY BABIES COALITION OF PALM BEACH COUNTY, INC.",
+    "state": "FL",
+    "industry": "Other Health / Nonprofit Maternal Health",
+    "founded": "1986",
+    "employees": 16,
+    "revenue_usd_000s": 26400,
+    "website": "https://www.hmhbpbc.org",
+    "website_verified": true,
+    "website_note": "Active site confirmed at hmhbpbc.org with full service information and leadership pages.",
+    "description": "Healthy Mothers, Healthy Babies Coalition of Palm Beach County, Inc. is a nonprofit organization based in West Palm Beach, Florida, founded in 1986, dedicated to improving birth outcomes through equitable delivery of early prenatal care, education, and support for pregnant women. Services include CenteringPregnancy\u00ae, doula services, breastfeeding support, emergency pantry, and educational classes. Annual budget exceeds $4M; team of 60.",
+    "description_source": "https://www.hmhbpbc.org/",
+    "contacts": [
+      {
+        "name": "Michelle Gonzalez",
+        "title": "Chief Executive Officer (since 2016)",
+        "source_url": "https://www.linkedin.com/in/mbgonzalez/",
+        "linkedin_url": "https://www.linkedin.com/in/mbgonzalez/",
+        "is_original": false,
+        "is_primary": true
+      },
+      {
+        "name": "Katrina Long-Robinson",
+        "title": "Board Chair",
+        "source_url": "https://www.hmhbpbc.org/leadership",
+        "linkedin_url": null,
+        "is_original": false
+      }
+    ],
+    "recent_news": "March 2026: Michelle Gonzalez commented on organization's sixth annual Baskets4Babies crowdfunding campaign. August 2025: Gonzalez named finalist for 34th Annual ATHENA Leadership Awards. 2024: Finalist in Palm Beach Post Community's Choice Awards.",
+    "news_source_url": "https://www.bocaratontribune.com/bocaratonnews/2026/03/healthy-mothers-healthy-babies-engages-community-leaders-for-sixth-annual-crowdfunding-campaign/",
+    "verification_status": "Verified",
+    "verification_notes": "Michelle Gonzalez confirmed as CEO since 2016 from LinkedIn, organization website, Nonprofit Chamber of Palm Beach County, and ZoomInfo. Activity confirmed as recently as March 2026. Phone: 561-665-4500. EIN: 59-2657051.",
+    "data_quality_score": 5,
+    "enrichment_notes": "Strong nonprofit with clear public leadership. Michelle Gonzalez has 25+ years nonprofit experience. Annual budget $4M+, team of 60. Only CenteringPregnancy\u00ae provider in Palm Beach County since 2008.",
+    "action": "UPGRADE"
+  },
+  {
+    "company_name": "NOVA HEALTHCARE GROUP",
+    "state": "NV",
+    "industry": "General Medical / Home-Based Primary Care",
+    "founded": "2013",
+    "employees": 30,
+    "revenue_usd_000s": 26400,
+    "website": "https://novahealthcaregroup.com",
+    "website_verified": true,
+    "website_note": "Active site confirmed at novahealthcaregroup.com and novahealth.vip (same or related entity). Las Vegas-based home-visiting primary care practice.",
+    "description": "Nova Healthcare Group, LLC is a home-visiting primary care and pain management practice serving the Las Vegas Valley, Nevada, including Pahrump and Boulder City. The practice employs board-certified nurse practitioners and case management specialists, utilizing a combination of remote patient monitoring technology, telemedicine, and in-home face-to-face visits for homebound patients.",
+    "description_source": "https://novahealth.vip/about",
+    "contacts": [
+      {
+        "name": "Anneleisa Gail McDonald APRN-BC",
+        "title": "Provider / Owner",
+        "source_url": "https://npiprofile.com/npi/1548754690",
+        "linkedin_url": null,
+        "is_original": false,
+        "is_primary": true
+      },
+      {
+        "name": "Judith L. Trevisano NP",
+        "title": "Adult Health Nurse Practitioner",
+        "source_url": "https://www.healthcare4ppl.com/medical-group/nevada/nova-healthcare-group-llc-2264771013.html",
+        "linkedin_url": null,
+        "is_original": false
+      }
+    ],
+    "recent_news": "No significant news found for 2024-2025. Company continues to operate as a home-visiting medical practice in Las Vegas. Website active.",
+    "news_source_url": "https://novahealth.vip",
+    "verification_status": "Unverified",
+    "verification_notes": "Anneleisa McDonald APRN-BC confirmed as provider/owner from NPI profile (NPI: 1548754690). Website active. Small LLC medical practice with limited public executive data beyond NPI records. No external news or press to independently corroborate current operation. Keep as best-available data.",
+    "data_quality_score": 3,
+    "enrichment_notes": "Small medical practice LLC. NPI: 1548754690. Address: 6655 W Sahara Ave Ste B 200, Las Vegas, NV 89146. Phone: 702-268-8900. The 30-employee headcount likely inaccurate for this small practice. Founded 2013 per NPI/business records.",
+    "action": "KEEP_IMPROVED"
+  },
+  {
+    "company_name": "ALIGNED ENERGY DATA CENTER",
+    "state": "VA",
+    "industry": "Data Center / IT Infrastructure",
+    "founded": null,
+    "employees": 450,
+    "revenue_usd_000s": 26400,
+    "website": "https://aligneddc.com",
+    "website_verified": true,
+    "website_note": "Active site confirmed at aligneddc.com. Company brand is 'Aligned Data Centers' (formerly 'Aligned Energy'). VA designation refers to Northern Virginia campus operations (Ashburn and Sterling). HQ is Dallas, TX.",
+    "description": "Aligned Data Centers (formerly Aligned Energy) is a leading provider of hyperscale, colocation, and build-to-scale data center solutions headquartered in Dallas, Texas, with major campuses in Northern Virginia (Ashburn and Sterling). Acquired by AIP, MGX, and BlackRock's GIP at ~$40 billion enterprise value (announced October 2025, expected close H1 2026). Provides adaptive AI-ready infrastructure featuring patented Delta Cube cooling technology. Portfolio: 50 campuses, 5+ GW capacity.",
+    "description_source": "https://aligneddc.com/",
+    "contacts": [
+      {
+        "name": "Andrew Schaap",
+        "title": "Chief Executive Officer",
+        "source_url": "https://aligneddc.com/blog/team/andrew-schaap/",
+        "linkedin_url": "https://www.linkedin.com/in/andrewschaap1",
+        "is_original": false,
+        "is_primary": true
+      },
+      {
+        "name": "Meghan Baivier",
+        "title": "Chief Financial Officer (appointed September 2024)",
+        "source_url": "https://www.dmagazine.com/business-economy/2024/09/aligned-data-centers-makes-two-moves-in-its-c-suite-fort-worth-chamber-names-new-vp-of-marketing/",
+        "linkedin_url": null,
+        "is_original": false
+      },
+      {
+        "name": "Anubhav Raj",
+        "title": "Chief Investment Officer (appointed September 2024)",
+        "source_url": "https://www.dmagazine.com/business-economy/2024/09/aligned-data-centers-makes-two-moves-in-its-c-suite-fort-worth-chamber-names-new-vp-of-marketing/",
+        "linkedin_url": null,
+        "is_original": false
+      },
+      {
+        "name": "Michael Morris",
+        "title": "Chief Development Officer (appointed February 2025)",
+        "source_url": "https://aligneddc.com/blog/aligned-data-centers-bolsters-leadership-team-with-four-key-executive-appointments/",
+        "linkedin_url": null,
+        "is_original": false
+      },
+      {
+        "name": "Michael Welch",
+        "title": "Chief Technology Officer (appointed February 2025)",
+        "source_url": "https://aligneddc.com/blog/aligned-data-centers-bolsters-leadership-team-with-four-key-executive-appointments/",
+        "linkedin_url": null,
+        "is_original": false
+      },
+      {
+        "name": "Shelby Clark",
+        "title": "Chief People Officer (appointed February 2025)",
+        "source_url": "https://aligneddc.com/blog/aligned-data-centers-bolsters-leadership-team-with-four-key-executive-appointments/",
+        "linkedin_url": null,
+        "is_original": false
+      },
+      {
+        "name": "Matthew Chambliss",
+        "title": "EVP, Commercial Strategy and Energy (appointed February 2025)",
+        "source_url": "https://aligneddc.com/blog/aligned-data-centers-bolsters-leadership-team-with-four-key-executive-appointments/",
+        "linkedin_url": null,
+        "is_original": false
+      },
+      {
+        "name": "Jakob Carnemark",
+        "title": "Founder / Chief Technology Officer (original CTO)",
+        "source_url": "https://aligneddc.com/blog/aligned-energy-builds-for-scale-founder-names-andrew-schaap-ceo/",
+        "linkedin_url": null,
+        "is_original": false
+      }
+    ],
+    "recent_news": "March 2026: Closed $2.58 billion credit facility to fuel U.S. expansion. October 2025: AIP, MGX, and BlackRock's GIP announced acquisition at ~$40 billion enterprise value (close expected H1 2026). February 2025: Four new C-suite appointments (Morris, Welch, Clark, Chambliss). September 2024: Meghan Baivier appointed CFO; Anubhav Raj moved to CIO. 2024: Won Northern Virginia Tech Council Data Center Innovation Award.",
+    "news_source_url": "https://aligneddc.com/blog/ai-infrastructure-partnership-aip-mgx-and-blackrocks-global-infrastructure-partners-gip-to-acquire-all-equity-in-aligned-data-centers/",
+    "verification_status": "Verified",
+    "verification_notes": "Andrew Schaap confirmed as CEO from company website aligneddc.com/blog/team/andrew-schaap/, LinkedIn (linkedin.com/in/andrewschaap1), and multiple press sources. Confirmed continuing as CEO post-acquisition. February 2025 leadership team additions confirmed from company press release and GlobeNewswire. Employee count corrected from 8 (VA legal entity artifact) to ~450 (realistic for $40B enterprise). HQ is Dallas, TX \u2014 not VA.",
+    "data_quality_score": 5,
+    "enrichment_notes": "Original employee count of 8 referred to the VA legal entity only; full company is ~450 employees. 'Aligned Energy Data Center' is the outdated name \u2014 current brand is 'Aligned Data Centers'. HQ: Dallas, TX. Northern Virginia campuses in Ashburn and Sterling.",
+    "action": "UPGRADE"
+  }
+]

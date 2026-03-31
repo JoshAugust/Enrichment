@@ -1,0 +1,1050 @@
+[
+  {
+    "name": "CREEK POINTE COMPUTERS, INC.",
+    "state": "SC",
+    "year_incorporated": "2015",
+    "nace": "5829",
+    "employees": "50",
+    "revenue_usd": 5310000,
+    "pl_before_tax": null,
+    "total_assets": null,
+    "equity": null,
+    "website": "www.creekpointe.com",
+    "description": null,
+    "contacts": [
+      {
+        "name": "Mr Steven B Monteith",
+        "title": "President"
+      },
+      {
+        "name": "Mr Robert Michael Clarke",
+        "title": "Vice President"
+      },
+      {
+        "name": "Ms Beverly K Waters",
+        "title": "Secretary"
+      }
+    ]
+  },
+  {
+    "name": "OPSHUB, INC.",
+    "state": "CA",
+    "year_incorporated": "2004",
+    "nace": "5829",
+    "employees": "80",
+    "revenue_usd": 5300000,
+    "pl_before_tax": null,
+    "total_assets": null,
+    "equity": null,
+    "website": "www.opshub.com",
+    "description": null,
+    "contacts": [
+      {
+        "name": "Mr Sandeep Jain",
+        "title": "Chief Executive Officer"
+      },
+      {
+        "name": "Mr Nimish Gopal",
+        "title": "Manager and Engagement and Business Development Partner"
+      },
+      {
+        "name": "Mr Vishal Thakker",
+        "title": "Sales Manager"
+      },
+      {
+        "name": "Mr Parth Dineshchandra Shah",
+        "title": "Engineering Manager"
+      },
+      {
+        "name": "Mr Vibhuti Bhushan",
+        "title": "Vice President Products"
+      }
+    ]
+  },
+  {
+    "name": "SIMBA CHAIN INC",
+    "state": "IN",
+    "year_incorporated": "2017",
+    "nace": "5829",
+    "employees": "12",
+    "revenue_usd": 5300000,
+    "pl_before_tax": null,
+    "total_assets": null,
+    "equity": null,
+    "website": "www.simbachain.com",
+    "description": "Cloud-based decentralized applications for blockchain services platform provider",
+    "contacts": [
+      {
+        "name": "Mr Joel David Neidig",
+        "title": "Chief Executive Officer & Co-Founder"
+      },
+      {
+        "name": "Mr Matthew Shroyer",
+        "title": "Head of Legal, Operations"
+      }
+    ]
+  },
+  {
+    "name": "NUVVE HOLDING CORP.",
+    "state": "CA",
+    "year_incorporated": "2020",
+    "nace": "5829",
+    "employees": "36",
+    "revenue_usd": 5286230,
+    "pl_before_tax": -17424810,
+    "total_assets": 16797810,
+    "equity": -1260840,
+    "website": "nuvve.com",
+    "description": "Nuvve Holding Corp. is a green energy technology company. The Company provides a commercial vehicle-to-grid (V2G) technology platform that enables electric vehicle (EV) and stationary batteries to store and resell unused energy back to the local electric grid and provide other grid services. Its proprietary vehicle to grid (V2G) technology, including the Company's Grid Integrated Vehicle (GIVe) cloud-based software platform that enables it to link multiple electric vehicle (EV) batteries into a virtual power plant (VPP) to provide bi-directional energy to the electrical grid in a qualified and secure manner. It offers networked charging stations, infrastructure, software, professional services, support, monitoring and parts and labor warranties required to run electric vehicle fleets, as well as low or free energy costs. It also operates a small number of company owned charging stations, serving as demonstration projects funded by government grants.",
+    "contacts": [
+      {
+        "name": "Mr Jon M. Montgomery",
+        "title": "Independent Director (Board of Directors); Chairman (Board of Directors)"
+      },
+      {
+        "name": "Mr Jon M. Montgomery",
+        "title": "Member (Audit Committee)"
+      },
+      {
+        "name": "Mr Jon M. Montgomery",
+        "title": "Member (Compensation Committee)"
+      },
+      {
+        "name": "Mr Jon M. Montgomery",
+        "title": "Chairman (Nominating and Corporate Governance Committee)"
+      },
+      {
+        "name": "Mr Jon M. Montgomery",
+        "title": "Interim Independent Chairman of the Board"
+      },
+      {
+        "name": "Mr Gregory Felix Abel Poilasne",
+        "title": "Chief Executive Officer, Director"
+      },
+      {
+        "name": "Mr Gregory Felix Abel Poilasne",
+        "title": "Shareholder (Minority); Co-Founder"
+      },
+      {
+        "name": "Ms Laura Huang",
+        "title": "Independent Director"
+      },
+      {
+        "name": "Mr Brian Johnson",
+        "title": "Independent Director"
+      },
+      {
+        "name": "Mr H. David Sherman",
+        "title": "Independent Director (Board of Directors)"
+      },
+      {
+        "name": "Mr H. David Sherman",
+        "title": "Chairperson (Audit Committee)"
+      },
+      {
+        "name": "Mr H. David Sherman",
+        "title": "Member (Compensation Committee)"
+      },
+      {
+        "name": "Mr H. David Sherman",
+        "title": "Member (Nominating and Corporate Governance Committee)"
+      },
+      {
+        "name": "Mr Ted Smith",
+        "title": "President, Chief Operating Officer, Director"
+      },
+      {
+        "name": "Mr Ted Smith",
+        "title": "President"
+      },
+      {
+        "name": "Mr Willett Kempton",
+        "title": "Chairman (Technical Advisory Board)"
+      },
+      {
+        "name": "Mr Willett Kempton",
+        "title": "Co-Founder"
+      },
+      {
+        "name": "Mr Patrick Enunwaonye",
+        "title": "Vice President of SEC Reporting and Compliance"
+      },
+      {
+        "name": "Mr Xavier Moreau",
+        "title": "Executive Vice President of Strategy and Business Development"
+      },
+      {
+        "name": "Mr David G. Robson",
+        "title": "Chief Financial Officer"
+      },
+      {
+        "name": "Mr Denis Borzunov",
+        "title": "Vice President of Customer Experience"
+      },
+      {
+        "name": "Mr Hamza Lemsaddek",
+        "title": "Vice President of Technology and Astrea AI"
+      },
+      {
+        "name": "Mr Jeff Venegas",
+        "title": "Vice President of Operations and Project Management"
+      },
+      {
+        "name": "Ms Rashida La Lande",
+        "title": "Independent Chairman of the Board"
+      },
+      {
+        "name": "Ms Rashida La Lande",
+        "title": "Independent Director"
+      },
+      {
+        "name": "Mr Jon M. Montgomery",
+        "title": "Independent Director"
+      },
+      {
+        "name": "Mr Jon M. Montgomery",
+        "title": "Interim Chairperson of the Board"
+      },
+      {
+        "name": "Mr Gregory Felix Abel Poilasne",
+        "title": "Chairman of the Board, Chief Executive Officer"
+      },
+      {
+        "name": "Mr James Altucher",
+        "title": "Independent Director"
+      },
+      {
+        "name": "Mr Richard A Ashby",
+        "title": "Independent Director"
+      },
+      {
+        "name": "Mr H. David Sherman",
+        "title": "Director"
+      },
+      {
+        "name": "Mr Ted Smith",
+        "title": "Director (Board of Directors)"
+      },
+      {
+        "name": "Mr Ted Smith",
+        "title": "President"
+      },
+      {
+        "name": "Mr Ted Smith",
+        "title": "Chief Operating Officer"
+      },
+      {
+        "name": "Ms Angela Strand",
+        "title": "Independent Director"
+      },
+      {
+        "name": "Mr Kenji Yodose",
+        "title": "Independent Director"
+      },
+      {
+        "name": "Mr David G. Robson",
+        "title": "Chief Financial Officer"
+      }
+    ]
+  },
+  {
+    "name": "GMT",
+    "state": "CA",
+    "year_incorporated": null,
+    "nace": "5829",
+    "employees": "20",
+    "revenue_usd": 5280000,
+    "pl_before_tax": null,
+    "total_assets": null,
+    "equity": null,
+    "website": "gmt.com",
+    "description": null,
+    "contacts": []
+  },
+  {
+    "name": "PHOENIX TECHNOLOGIES INC.",
+    "state": "OR",
+    "year_incorporated": "2021",
+    "nace": "5829",
+    "employees": "13",
+    "revenue_usd": 5270000,
+    "pl_before_tax": null,
+    "total_assets": null,
+    "equity": null,
+    "website": "www.phoenix.com",
+    "description": null,
+    "contacts": [
+      {
+        "name": "Mr Gerard Moore",
+        "title": "President"
+      },
+      {
+        "name": "Mr Jonathan Oa Connell",
+        "title": "Chief Financial Officer"
+      },
+      {
+        "name": "Mr Jonathon White",
+        "title": "Director, Customer Engineering US / EMEA"
+      },
+      {
+        "name": "Ms Michelle Lu",
+        "title": "Officer"
+      }
+    ]
+  },
+  {
+    "name": "CAPTIRA ANALYTICAL, LLC",
+    "state": "NY",
+    "year_incorporated": "2018",
+    "nace": "5829",
+    "employees": "20",
+    "revenue_usd": 5250000,
+    "pl_before_tax": null,
+    "total_assets": null,
+    "equity": null,
+    "website": "www.captira.com",
+    "description": "Bail bond software developer",
+    "contacts": [
+      {
+        "name": "Mr Steven Alan Sjoblad",
+        "title": "Chairman & Chief Executive Officer"
+      },
+      {
+        "name": "Mr John Lourie",
+        "title": "Customer Care"
+      },
+      {
+        "name": "Ms Maria Gorman",
+        "title": "Director of Operations"
+      }
+    ]
+  },
+  {
+    "name": "MACKINNEY SYSTEMS, INC",
+    "state": "MO",
+    "year_incorporated": "1980",
+    "nace": "5829",
+    "employees": "12",
+    "revenue_usd": 5250000,
+    "pl_before_tax": null,
+    "total_assets": null,
+    "equity": null,
+    "website": "www.mackinney.com",
+    "description": null,
+    "contacts": [
+      {
+        "name": "Mr Mike Marler",
+        "title": "Secretary"
+      },
+      {
+        "name": "Mr Steve Mackinney",
+        "title": "No specific function"
+      }
+    ]
+  },
+  {
+    "name": "PALLADYNE AI CORP",
+    "state": "UT",
+    "year_incorporated": "2020",
+    "nace": "5829",
+    "employees": "161",
+    "revenue_usd": 5246000,
+    "pl_before_tax": 7501000,
+    "total_assets": 95712000,
+    "equity": 74675000,
+    "website": "www.palladyneai.com",
+    "description": "Palladyne AI Corp. is a developer of artificial intelligence software for robotic platforms in the industrial and defense sectors. The Company s advanced artificial intelligence (AI) and machine learning (ML) software seeks to revolutionize the capabilities of robots, enabling them to observe, learn, reason, and act in a manner akin to human intelligence. Its AI and ML software platform empowers robots to perceive variations or changes in the real-world environment, enabling them to autonomously maneuver and manipulate objects accurately in response. The Palladyne AI software solution operates on the edge and reduces the significant effort required to program and deploy robots, enabling industrial robots and collaborative robots (cobots) to achieve autonomous capabilities even in dynamic or complex environments. Its software has various applications, including in industries, such as automotive, aviation, construction, defense, general manufacturing, and others.",
+    "contacts": [
+      {
+        "name": "Mr Stefan M Selig",
+        "title": "Chairman"
+      },
+      {
+        "name": "Mr Dennis M. Weibling",
+        "title": "Independent Chairman of the Board; Member (Board of Directors)"
+      },
+      {
+        "name": "Mr Dennis M. Weibling",
+        "title": "Chairman (Audit Committee)"
+      },
+      {
+        "name": "Mr Dennis M. Weibling",
+        "title": "Member (Nominating and Corporate Governance Committee)"
+      },
+      {
+        "name": "Mr Dennis M. Weibling",
+        "title": "Member (Strategic Transaction Committee)"
+      },
+      {
+        "name": "Mr Benjamin G. Wolff",
+        "title": "President, Chief Executive Officer, Director"
+      },
+      {
+        "name": "Mr Benjamin G. Wolff",
+        "title": "Co-Founder; Shareholder (Minority)"
+      },
+      {
+        "name": "Mr Benjamin G. Wolff",
+        "title": "Chairman (Strategic Transaction Committee)"
+      },
+      {
+        "name": "Ms Kiva A. Allgood",
+        "title": "President"
+      },
+      {
+        "name": "Mr David J Berkman",
+        "title": "Board of Dirs"
+      },
+      {
+        "name": "Mr Brian D. Finn",
+        "title": "Member (Board of Directors); Independent Director"
+      },
+      {
+        "name": "Mr Brian D. Finn",
+        "title": "Member (Audit Committee)"
+      },
+      {
+        "name": "Mr Brian D. Finn",
+        "title": "Chairman (Nominating and Corporate Governance Committee)"
+      },
+      {
+        "name": "Mr Brian D. Finn",
+        "title": "Director"
+      },
+      {
+        "name": "Mr Brian D. Finn",
+        "title": "Member (Strategic Transaction Committee)"
+      },
+      {
+        "name": "Mr Matthew Shigenobu Muta",
+        "title": "Member (Board of Directors); Independent Director"
+      },
+      {
+        "name": "Mr Matthew Shigenobu Muta",
+        "title": "Member (Audit Committee)"
+      },
+      {
+        "name": "Mr Matthew Shigenobu Muta",
+        "title": "Member (Compensation Committee)"
+      },
+      {
+        "name": "Mr Matthew Shigenobu Muta",
+        "title": "Director"
+      },
+      {
+        "name": "Adm Eric Thor Olson",
+        "title": "Independent Director; Member (Board of Directors); Board of Dirs"
+      },
+      {
+        "name": "Adm Eric Thor Olson",
+        "title": "Chairman (Compensation Committee)"
+      },
+      {
+        "name": "Adm Eric Thor Olson",
+        "title": "Member (Nominating and Corporate Governance Committee)"
+      },
+      {
+        "name": "Mr Michael T. Young",
+        "title": "Independent Director; Member (Board of Directors)"
+      },
+      {
+        "name": "Mr Michael T. Young",
+        "title": "Member (Compensation Committee)"
+      },
+      {
+        "name": "Mr Michael T. Young",
+        "title": "Member (Strategic Transaction Committee)"
+      },
+      {
+        "name": "Dr. Fraser Matthew Smith",
+        "title": "President"
+      },
+      {
+        "name": "Dr. Fraser Matthew Smith",
+        "title": "Chief Innovation Officer"
+      },
+      {
+        "name": "Dr. Fraser Matthew Smith",
+        "title": "Chief Innovation Officer"
+      },
+      {
+        "name": "Dr. Denis Garagic",
+        "title": "Co-Founder; Shareholder (Minority)"
+      },
+      {
+        "name": "Dr. Denis Garagic",
+        "title": "Chief Technology Officer"
+      },
+      {
+        "name": "Mr Steven Q Hansen",
+        "title": "Officer"
+      },
+      {
+        "name": "Ms Kristi Martindale",
+        "title": "Chief Commercial Officer"
+      },
+      {
+        "name": "Mr Marc Olivier",
+        "title": "Vice President"
+      },
+      {
+        "name": "Mr Stephen Sonne",
+        "title": "Chief Legal Officer and Corporate Secretary"
+      },
+      {
+        "name": "Ms Julie Wolff",
+        "title": "Secretary"
+      },
+      {
+        "name": "Ms Amy Huntington Salerno",
+        "title": "Chief Financial Officer"
+      },
+      {
+        "name": "Mr Trevor Thatcher",
+        "title": "Chief Financial Officer"
+      },
+      {
+        "name": "Mr Trevor Thatcher",
+        "title": "Treasurer"
+      },
+      {
+        "name": "Mr Matthew Vogt",
+        "title": "Chief Revenue Officer"
+      },
+      {
+        "name": "Mr Stephen Twitty",
+        "title": "Director"
+      },
+      {
+        "name": "Mr Dennis M. Weibling",
+        "title": "Chairman of the Board"
+      },
+      {
+        "name": "Mr Dennis M. Weibling",
+        "title": "Independent Director"
+      },
+      {
+        "name": "Mr Benjamin G. Wolff",
+        "title": "Non-Executive Director; Executive Vice Chairman of the Board"
+      },
+      {
+        "name": "Mr Benjamin G. Wolff",
+        "title": "Member (Board of Directors)"
+      },
+      {
+        "name": "Mr Benjamin G. Wolff",
+        "title": "President, Chief Executive Officer, Executive Director"
+      },
+      {
+        "name": "Ms Kiva A. Allgood",
+        "title": "President, Chief Executive Officer, Director"
+      },
+      {
+        "name": "Ms Priya Balasubramaniam",
+        "title": "Independent Director"
+      },
+      {
+        "name": "Mr Brian D. Finn",
+        "title": "Independent Director"
+      },
+      {
+        "name": "Mr Brian D. Finn",
+        "title": "Chief Executive Officer"
+      },
+      {
+        "name": "Mr Brian D. Finn",
+        "title": "Secretary"
+      },
+      {
+        "name": "Mr Brian D. Finn",
+        "title": "Treasurer"
+      },
+      {
+        "name": "Mr Peter Klein",
+        "title": "Independent Director"
+      },
+      {
+        "name": "Mr Matthew Shigenobu Muta",
+        "title": "Independent Director"
+      },
+      {
+        "name": "Ms Laura J. Peterson",
+        "title": "President, Chief Executive Officer, Director"
+      },
+      {
+        "name": "Ms Laura J. Peterson",
+        "title": "Independent Director"
+      },
+      {
+        "name": "Ms Laura J. Peterson",
+        "title": "Executive Vice Chairwoman of the Board"
+      },
+      {
+        "name": "Ms Laura J. Peterson",
+        "title": "Interim President and Chief Executive Officer, Director"
+      },
+      {
+        "name": "Mr Michael T. Young",
+        "title": "Director"
+      },
+      {
+        "name": "Dr. Denis Garagic",
+        "title": "Chief Technology Officer"
+      },
+      {
+        "name": "Mr Steven Q Hansen",
+        "title": "Chief Financial Officer, Executive Vice President"
+      },
+      {
+        "name": "Ms Kristi Martindale",
+        "title": "Executive Vice President, Chief Marketing Officer"
+      },
+      {
+        "name": "Ms Kristi Martindale",
+        "title": "Executive Vice Chief Product & Marketing Officer"
+      },
+      {
+        "name": "Mr Andrew Hamer",
+        "title": "Chief Financial Officer"
+      },
+      {
+        "name": "Ms Amy Huntington Salerno",
+        "title": "Chief Financial Officer"
+      },
+      {
+        "name": "Mr Jorgen Pedersen",
+        "title": "Chief Operating Officer"
+      }
+    ]
+  },
+  {
+    "name": "DEALERWARE, LLC",
+    "state": "TX",
+    "year_incorporated": "2016",
+    "nace": "5829",
+    "employees": "110",
+    "revenue_usd": 5240000,
+    "pl_before_tax": null,
+    "total_assets": null,
+    "equity": null,
+    "website": "www.dealerware.com",
+    "description": "Automotive retailer and fleet management platform operator",
+    "contacts": [
+      {
+        "name": "Mr Matthew Carpenter",
+        "title": "Chief Executive Officer"
+      },
+      {
+        "name": "Mr Matthew Carpenter",
+        "title": "Manager"
+      },
+      {
+        "name": "Mr Russell Lemmer",
+        "title": "President & COO"
+      },
+      {
+        "name": "Mr Jonathan Zeitler",
+        "title": "Secretary"
+      },
+      {
+        "name": "Mr Jonathan Zeitler",
+        "title": "Manager"
+      },
+      {
+        "name": "Mr Jefferson Macks",
+        "title": "Chief Financial Officer"
+      },
+      {
+        "name": "Mr Lucas Schneider",
+        "title": "Manager"
+      },
+      {
+        "name": "Mr Christopher Donus",
+        "title": "Governing Person"
+      },
+      {
+        "name": "Mr Luke Schneider",
+        "title": "Governing Person"
+      }
+    ]
+  },
+  {
+    "name": "FOCAL SYSTEMS, INC.",
+    "state": "CA",
+    "year_incorporated": "2015",
+    "nace": "5829",
+    "employees": "35",
+    "revenue_usd": 5240000,
+    "pl_before_tax": null,
+    "total_assets": null,
+    "equity": null,
+    "website": "www.focal.systems",
+    "description": "Retail automation services provider",
+    "contacts": [
+      {
+        "name": "Mr Jonathan Burke",
+        "title": "Officer"
+      },
+      {
+        "name": "Mr Francois Chaubard",
+        "title": "Chief Executive Officer (Chief Executive Officer)"
+      },
+      {
+        "name": "Mr Kevin Johnson",
+        "title": "Chief Executive Officer (Chief Executive Officer)"
+      }
+    ]
+  },
+  {
+    "name": "ACROMETIS LLC",
+    "state": "PA",
+    "year_incorporated": "2012",
+    "nace": "5829",
+    "employees": "35",
+    "revenue_usd": 5240000,
+    "pl_before_tax": null,
+    "total_assets": null,
+    "equity": null,
+    "website": "www.acrometis.com",
+    "description": null,
+    "contacts": [
+      {
+        "name": "Mr Terry Beidelman",
+        "title": "Pre-Sales, Training, and Project Management"
+      },
+      {
+        "name": "Ms Karen Houck",
+        "title": "Director of Medical Bill Review and Corporate Compliance"
+      },
+      {
+        "name": "Mr Will Kabrich",
+        "title": "Security Analyst"
+      },
+      {
+        "name": "Mr Chuck Battle",
+        "title": "Senior Developer / Analyst"
+      }
+    ]
+  },
+  {
+    "name": "DELTA MEDIA GROUP INC",
+    "state": "OH",
+    "year_incorporated": "2008",
+    "nace": "5829",
+    "employees": "12",
+    "revenue_usd": 5240000,
+    "pl_before_tax": null,
+    "total_assets": null,
+    "equity": null,
+    "website": "www.deltagroup.com",
+    "description": null,
+    "contacts": [
+      {
+        "name": "Ms Rachel Kraft",
+        "title": "Closing Coordinator / Administrative Assistant"
+      }
+    ]
+  },
+  {
+    "name": "OBJECTWAY SPA",
+    "state": "MI",
+    "year_incorporated": null,
+    "nace": "5829",
+    "employees": "13",
+    "revenue_usd": 5240000,
+    "pl_before_tax": null,
+    "total_assets": null,
+    "equity": null,
+    "website": "www.objectway.com",
+    "description": null,
+    "contacts": []
+  },
+  {
+    "name": "CLOSINGLOCK, LLC",
+    "state": "TX",
+    "year_incorporated": "2025",
+    "nace": "5829",
+    "employees": "35",
+    "revenue_usd": 5230000,
+    "pl_before_tax": null,
+    "total_assets": null,
+    "equity": null,
+    "website": "www.closinglock.com",
+    "description": null,
+    "contacts": [
+      {
+        "name": "Goh Goh",
+        "title": "Board Member"
+      },
+      {
+        "name": "Mr Mike Marcantonio",
+        "title": "Board Member"
+      },
+      {
+        "name": "Mr Andrew White",
+        "title": "Chief Executive Officer"
+      }
+    ]
+  },
+  {
+    "name": "UBER ENTERTAINMENT INC",
+    "state": "WA",
+    "year_incorporated": "2009",
+    "nace": "5829",
+    "employees": "16",
+    "revenue_usd": 5230000,
+    "pl_before_tax": null,
+    "total_assets": null,
+    "equity": null,
+    "website": "www.uberent.com",
+    "description": null,
+    "contacts": [
+      {
+        "name": "Mr Jonathan Mavor",
+        "title": "Chief Technology Officer"
+      }
+    ]
+  },
+  {
+    "name": "COM2US USA, INC.",
+    "state": "CA",
+    "year_incorporated": "2016",
+    "nace": "5829",
+    "employees": "55",
+    "revenue_usd": 5210000,
+    "pl_before_tax": null,
+    "total_assets": null,
+    "equity": null,
+    "website": "www.withhive.com",
+    "description": null,
+    "contacts": [
+      {
+        "name": "Mr Seongjun Kim",
+        "title": "Chief Executive Officer"
+      },
+      {
+        "name": "Kyu C Lee",
+        "title": "Chief Executive Officer"
+      },
+      {
+        "name": "Yong Kuk Lee",
+        "title": "Chief Financial Officer"
+      },
+      {
+        "name": "Mr Sehoon Park",
+        "title": "Chief Financial Officer"
+      },
+      {
+        "name": "Ms Joy Lee",
+        "title": "Director, Finance"
+      },
+      {
+        "name": "Dongjun Kim",
+        "title": "Head of Creative Design"
+      },
+      {
+        "name": "Ms Marcella Ziccarelli",
+        "title": "Brand Manager"
+      }
+    ]
+  },
+  {
+    "name": "LOOP 45 VIDEO COMMUNICATIONS, INC.",
+    "state": "MA",
+    "year_incorporated": "2022",
+    "nace": "5829",
+    "employees": "12",
+    "revenue_usd": 5180000,
+    "pl_before_tax": null,
+    "total_assets": null,
+    "equity": null,
+    "website": "www.loop45.com",
+    "description": null,
+    "contacts": [
+      {
+        "name": "Mr Timothy Demello",
+        "title": "Secretary"
+      }
+    ]
+  },
+  {
+    "name": "SOURCECODE NORTH AMERICA, INC.",
+    "state": "WA",
+    "year_incorporated": "2013",
+    "nace": "5829",
+    "employees": "160",
+    "revenue_usd": 5174000,
+    "pl_before_tax": null,
+    "total_assets": null,
+    "equity": null,
+    "website": "www.k2.com",
+    "description": null,
+    "contacts": [
+      {
+        "name": "Mr Lloyd Evan Ellis JR",
+        "title": "President"
+      },
+      {
+        "name": "Mr Adriaan Van Wyk",
+        "title": "President"
+      },
+      {
+        "name": "Mr Warren Bingham",
+        "title": "Secretary"
+      },
+      {
+        "name": "Mr Hubert Cheng",
+        "title": "Secretary"
+      },
+      {
+        "name": "Koos Du Preez",
+        "title": "CTO"
+      },
+      {
+        "name": "Mr Olaf Wagner",
+        "title": "Officer"
+      }
+    ]
+  },
+  {
+    "name": "ADVISYS INC",
+    "state": "CA",
+    "year_incorporated": "1998",
+    "nace": "5829",
+    "employees": "17",
+    "revenue_usd": 5170000,
+    "pl_before_tax": null,
+    "total_assets": null,
+    "equity": null,
+    "website": "www.advisys.com",
+    "description": null,
+    "contacts": [
+      {
+        "name": "Mr George Ronald Smith",
+        "title": "Agent"
+      },
+      {
+        "name": "Mr George Ronald Smith",
+        "title": "Vice President, Product"
+      },
+      {
+        "name": "Mr Kevin Atamaniuk",
+        "title": "Vice President, Sales"
+      }
+    ]
+  },
+  {
+    "name": "TRIANGLE SYSTEMS, INC.",
+    "state": "NC",
+    "year_incorporated": "1981",
+    "nace": "5829",
+    "employees": "11",
+    "revenue_usd": 5170000,
+    "pl_before_tax": null,
+    "total_assets": null,
+    "equity": null,
+    "website": "www.triangle-systems.com",
+    "description": null,
+    "contacts": [
+      {
+        "name": "Ott James W",
+        "title": "President"
+      },
+      {
+        "name": "Ott Sara",
+        "title": "Secretary"
+      }
+    ]
+  },
+  {
+    "name": "GIGGSTER, INC.",
+    "state": "CA",
+    "year_incorporated": "2016",
+    "nace": "5829",
+    "employees": "11",
+    "revenue_usd": 5150000,
+    "pl_before_tax": null,
+    "total_assets": null,
+    "equity": null,
+    "website": "www.giggster.com",
+    "description": null,
+    "contacts": [
+      {
+        "name": "Mr Yuriy Baranov",
+        "title": "Chief Executive Officer & Founder"
+      },
+      {
+        "name": "Tyler Quiel",
+        "title": "Chief Executive Officer"
+      },
+      {
+        "name": "Mr Carl Segal",
+        "title": "Business Development Manager"
+      },
+      {
+        "name": "Mr Denis Shvetsov",
+        "title": "Business Development Manager"
+      },
+      {
+        "name": "Mr Kelsii Dyer",
+        "title": "Accounts Head"
+      },
+      {
+        "name": "Mr Adrian Ramos",
+        "title": "Accounts Executive"
+      }
+    ]
+  },
+  {
+    "name": "DISTINCT CORP",
+    "state": "CA",
+    "year_incorporated": "1984",
+    "nace": "5829",
+    "employees": "30",
+    "revenue_usd": 5150000,
+    "pl_before_tax": null,
+    "total_assets": null,
+    "equity": null,
+    "website": "www.distinct.com",
+    "description": null,
+    "contacts": []
+  },
+  {
+    "name": "DELEGATE SOFTWARE INC",
+    "state": "OH",
+    "year_incorporated": "2014",
+    "nace": "5829",
+    "employees": "10",
+    "revenue_usd": 5140000,
+    "pl_before_tax": null,
+    "total_assets": null,
+    "equity": null,
+    "website": "delegatesoftware.net",
+    "description": null,
+    "contacts": [
+      {
+        "name": "Ms Chenna Kesava Ramakkagari",
+        "title": "Officer"
+      }
+    ]
+  },
+  {
+    "name": "DECISIONS UNLIMITED INC",
+    "state": "WA",
+    "year_incorporated": "1998",
+    "nace": "5829",
+    "employees": "12",
+    "revenue_usd": 5140000,
+    "pl_before_tax": null,
+    "total_assets": null,
+    "equity": null,
+    "website": "www.technitrader.com",
+    "description": null,
+    "contacts": [
+      {
+        "name": "Ms Martha Stokes",
+        "title": "President"
+      }
+    ]
+  }
+]

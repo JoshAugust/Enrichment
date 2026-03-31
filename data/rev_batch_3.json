@@ -1,0 +1,86 @@
+[
+  {
+    "company_name": "Galax-eSystems Corporation",
+    "state": "PA",
+    "website": "https://www.galaxesystems.com",
+    "current_revenue": 9000
+  },
+  {
+    "company_name": "1460 CAPITAL CORP INC",
+    "state": "CA",
+    "website": "https://www.pacificcoastcommercial.com",
+    "current_revenue": 26400
+  },
+  {
+    "company_name": "VILLAGE TRUCK SALES INC",
+    "state": "MA",
+    "website": "https://www.villagetrucksales.com",
+    "current_revenue": 26400
+  },
+  {
+    "company_name": "MASTERWORKS CONSTRUCTION SERVICES, INC.",
+    "state": "CA",
+    "website": "https://mworksconstruction.com",
+    "current_revenue": null
+  },
+  {
+    "company_name": "KENTUCKY COUNTRY DAY SCHOOL, INC.",
+    "state": "KY",
+    "website": "https://www.kcd.org",
+    "current_revenue": 26400
+  },
+  {
+    "company_name": "PHEIFER BROTHERS CONSTRUCTION COMPANY, INC.",
+    "state": "WI",
+    "website": "https://www.pheifer.com",
+    "current_revenue": 26400
+  },
+  {
+    "company_name": "JOSEPH H. ROBERTS INC.",
+    "state": "NJ",
+    "website": "https://jhrobertsinc.com",
+    "current_revenue": 26400
+  },
+  {
+    "company_name": "JAMES DEAN CONSTRUCTION INC.",
+    "state": "WA",
+    "website": "http://www.jamesdeanconstruction.com",
+    "current_revenue": 26400
+  },
+  {
+    "company_name": "J.L.W. TRUCKING, INC.",
+    "state": "GA",
+    "website": "https://www.jlwtruckingco.com",
+    "current_revenue": 26400
+  },
+  {
+    "company_name": "PACIFIC LIVING PROPERTIES, INC.",
+    "state": "CA",
+    "website": "https://www.pacificliving.com",
+    "current_revenue": 91000
+  },
+  {
+    "company_name": "11RESIDENTIAL (11residential.com)",
+    "state": "WA",
+    "website": "https://www.11residential.com",
+    "current_revenue": null
+  },
+  {
+    "company_name": "HEALTHY MOTHERS/HEALTHY BABIES COALITION OF PALM BEACH COUNTY, INC.",
+    "state": "FL",
+    "website": "https://www.hmhbpbc.org",
+    "current_revenue": 26400
+  },
+  {
+    "company_name": "NOVA HEALTHCARE GROUP",
+    "state": "NV",
+    "website": "https://novahealthcaregroup.com",
+    "current_revenue": 26400
+  },
+  {
+    "company_name": "ALIGNED ENERGY DATA CENTER",
+    "state": "VA",
+    "website": "https://aligneddc.com",
+    "current_revenue": 26400
+  }
+]

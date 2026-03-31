@@ -1,0 +1,912 @@
+[
+  {
+    "name": "ONE SIX NINE, INC.",
+    "state": "CA",
+    "year_incorporated": "2018",
+    "nace": "5829",
+    "employees": "12",
+    "revenue_usd": 3090000,
+    "pl_before_tax": null,
+    "total_assets": null,
+    "equity": null,
+    "website": "coastapp.com",
+    "description": null,
+    "contacts": [
+      {
+        "name": "Mr Rohit Prakash",
+        "title": "Chief Financial Officer"
+      }
+    ]
+  },
+  {
+    "name": "SKYFOUNDRY, LLC",
+    "state": "VA",
+    "year_incorporated": "2009",
+    "nace": "5829",
+    "employees": "10",
+    "revenue_usd": 3090000,
+    "pl_before_tax": null,
+    "total_assets": null,
+    "equity": null,
+    "website": "www.skyfoundry.com",
+    "description": null,
+    "contacts": [
+      {
+        "name": "Mr Paul Bergquist",
+        "title": "Business Development"
+      },
+      {
+        "name": "Ms Lynn Scott",
+        "title": "Chief Financial Officer"
+      },
+      {
+        "name": "Ms Lynn Scott",
+        "title": "No specific function"
+      },
+      {
+        "name": "Mr John Petze",
+        "title": "No specific function"
+      }
+    ]
+  },
+  {
+    "name": "LOTUSFLARE, INC.",
+    "state": "CA",
+    "year_incorporated": "2015",
+    "nace": "5829",
+    "employees": "17",
+    "revenue_usd": 3090000,
+    "pl_before_tax": null,
+    "total_assets": null,
+    "equity": null,
+    "website": "www.lotusflare.com",
+    "description": null,
+    "contacts": [
+      {
+        "name": "Brennan McDonald",
+        "title": "Business Development Manager"
+      },
+      {
+        "name": "Mr Cary Yee",
+        "title": "Director of Engineering"
+      },
+      {
+        "name": "Mr Milan Stanojevic",
+        "title": "Voip Network Engineer"
+      },
+      {
+        "name": "Mr Surendra Gadodia",
+        "title": "Executive"
+      },
+      {
+        "name": "Qing Guo",
+        "title": "Executive"
+      }
+    ]
+  },
+  {
+    "name": "ENCORE ASSOCIATES INC",
+    "state": "LA",
+    "year_incorporated": "1988",
+    "nace": "5829",
+    "employees": "26",
+    "revenue_usd": 3090000,
+    "pl_before_tax": null,
+    "total_assets": null,
+    "equity": null,
+    "website": "www.encore21.com",
+    "description": null,
+    "contacts": []
+  },
+  {
+    "name": "VISIBLE SYSTEMS CORP",
+    "state": "MA",
+    "year_incorporated": "1988",
+    "nace": "5829",
+    "employees": "10",
+    "revenue_usd": 3090000,
+    "pl_before_tax": null,
+    "total_assets": null,
+    "equity": null,
+    "website": "www.visible.com",
+    "description": null,
+    "contacts": [
+      {
+        "name": "Mr George G Cagliuso",
+        "title": "Founder, Chairman & Chief Executive Officer; Shareholder"
+      },
+      {
+        "name": "Mr Mike Cesino",
+        "title": "President"
+      },
+      {
+        "name": "Mr John Nash",
+        "title": "Vice President, Marketing"
+      },
+      {
+        "name": "Mr Mike Cesino",
+        "title": "Mr"
+      }
+    ]
+  },
+  {
+    "name": "T STAMP INC.",
+    "state": "GA",
+    "year_incorporated": "2016",
+    "nace": "5829",
+    "employees": "77",
+    "revenue_usd": 3082350,
+    "pl_before_tax": -10597350,
+    "total_assets": 8599820,
+    "equity": 3027410,
+    "website": "www.truststamp.ai",
+    "description": "T Stamp Inc. is a global provider of artificial intelligence (AI) identity services for use in multiple sectors, including banking and finance, regulatory compliance, government, real estate, communications, and humanitarian services. It primarily develops proprietary AI-powered solutions, researching and leveraging machine learning artificial intelligence, including computer vision, cryptography, and data mining, to process and protect data and deliver insightful outputs that identify and defend against fraud, protect sensitive user information, facilitate automated processes, and extend the reach of digital services through global accessibility. It utilizes the power and agility of technologies such as graphics processing unit (GPU) processing, edge computing, neural networks, and large language models to process and protect data faster. Its product offers KYC (Know your customer) Onboarding, Document Verification, Facial Matching, Liveness Detection, and others.",
+    "contacts": [
+      {
+        "name": "Mr William Ashe Mcclintock",
+        "title": "Board Chairman (Board of Directors)"
+      },
+      {
+        "name": "Mr David Paul Story",
+        "title": "Senior Advisor of Strategic Investments"
+      },
+      {
+        "name": "Mr Andrew Scott Francis",
+        "title": "Chief Technology Officer, Director; Director (Board of Directors)"
+      },
+      {
+        "name": "Mr Gareth Neville Genner",
+        "title": "Chief Executive Officer, Director; Executive Director (Board of Directors)"
+      },
+      {
+        "name": "Mr Andrew Carl Gowasack",
+        "title": "President, Director"
+      },
+      {
+        "name": "Mr Andrew Carl Gowasack",
+        "title": "President"
+      },
+      {
+        "name": "Ms Berta Pappenheim",
+        "title": "Independent Non-Executive Director (Board of Directors)"
+      },
+      {
+        "name": "Mr Charles E. Potts",
+        "title": "Independent Non-Executive Director (Board of Directors)"
+      },
+      {
+        "name": "Ms Kristin L. Stafford",
+        "title": "Independent Non-Executive Director (Board of Directors)"
+      },
+      {
+        "name": "Mr John Bridge",
+        "title": "Member (Management Team)"
+      },
+      {
+        "name": "Mr Sandeep Virk",
+        "title": "Executive Vice President"
+      },
+      {
+        "name": "Mr Lance Wilson",
+        "title": "Chief Financial Officer"
+      },
+      {
+        "name": "Ms Silvia Palova",
+        "title": "Senior Accountant"
+      },
+      {
+        "name": "Mr Isaac McCarthy",
+        "title": "Accounting Manager"
+      },
+      {
+        "name": "Mr Pierre Remy",
+        "title": "Content Marketing Manager"
+      },
+      {
+        "name": "Ms Rebecca Mccarthy",
+        "title": "Legal Counsel"
+      },
+      {
+        "name": "Amberly Mangion",
+        "title": "Compliance and Data Protection Manager"
+      },
+      {
+        "name": "Dr Leanne Attard",
+        "title": "Senior Vice President of Research and Development"
+      },
+      {
+        "name": "Prof. Reuben Farrugia",
+        "title": "Senior Vice President of Research and Development"
+      },
+      {
+        "name": "Serhii Harbuz",
+        "title": "Senior Dev Operations Engineer"
+      },
+      {
+        "name": "Dr Niel Kempson",
+        "title": "Executive Advisor of Technical Capability"
+      },
+      {
+        "name": "Anna Tenenbaum",
+        "title": "Project Manager"
+      },
+      {
+        "name": "Ms Marie Claire Mutuyimana",
+        "title": "Operations Manager of Rwanda"
+      },
+      {
+        "name": "Mr Mike Cepe",
+        "title": "Vice President of Quality Assurance"
+      },
+      {
+        "name": "Mr Daryl Burns",
+        "title": "Executive Advisor of Cryptography and Security"
+      },
+      {
+        "name": "Dr Norman Poh",
+        "title": "Chief Science Officer"
+      },
+      {
+        "name": "Mr Ajmir Safi",
+        "title": "Vice President of APAC"
+      },
+      {
+        "name": "Dr David Grima",
+        "title": "Director of Product Innovation"
+      },
+      {
+        "name": "Mr Jonathan Sonderbo Patscheider",
+        "title": "Vice President"
+      },
+      {
+        "name": "Mr Aaron Patton",
+        "title": "Senior Director"
+      },
+      {
+        "name": "Malik Dawar",
+        "title": "Senior Android Developer"
+      },
+      {
+        "name": "Boban Mitevski",
+        "title": "Senior Android Developer"
+      },
+      {
+        "name": "Oleksandr Vinnichuk",
+        "title": "Senior Python Developer"
+      },
+      {
+        "name": "Mr William Ashe Mcclintock",
+        "title": "Independent Non-Executive Director"
+      },
+      {
+        "name": "Mr David Paul Story",
+        "title": "Chairman of the Board"
+      },
+      {
+        "name": "Mr Mark Birschbach",
+        "title": "Independent Non-Executive Director"
+      },
+      {
+        "name": "Mr Andrew Scott Francis",
+        "title": "Chief Technology Officer"
+      },
+      {
+        "name": "Mr Gareth Neville Genner",
+        "title": "Director"
+      },
+      {
+        "name": "Mr Gareth Neville Genner",
+        "title": "Chief Executive Officer"
+      },
+      {
+        "name": "Mr Gareth Neville Genner",
+        "title": "Shareholder (Minority); Co-Founder"
+      },
+      {
+        "name": "Mr Andrew Carl Gowasack",
+        "title": "Director"
+      },
+      {
+        "name": "Mr Andrew Carl Gowasack",
+        "title": "President"
+      },
+      {
+        "name": "Mr Andrew Carl Gowasack",
+        "title": "Co-Founder; Shareholder (Minority)"
+      },
+      {
+        "name": "Mr Charles E. Potts",
+        "title": "Director"
+      },
+      {
+        "name": "Mr Alexander Valdes",
+        "title": "Chief Financial Officer, Executive Vice President, Board Secretary"
+      },
+      {
+        "name": "Mr Alexander Valdes",
+        "title": "Secretary"
+      },
+      {
+        "name": "Mr Joshua Allen",
+        "title": "Executive Vice President"
+      },
+      {
+        "name": "Mr Joshua Allen",
+        "title": "Executive Vice President - Mergers and Acquisitions, Director"
+      }
+    ]
+  },
+  {
+    "name": "QUALEDI INC",
+    "state": "CT",
+    "year_incorporated": "2001",
+    "nace": "5829",
+    "employees": "14",
+    "revenue_usd": 3081000,
+    "pl_before_tax": null,
+    "total_assets": null,
+    "equity": null,
+    "website": "www.qualedi.com",
+    "description": null,
+    "contacts": []
+  },
+  {
+    "name": "POPSQL, INC.",
+    "state": "CA",
+    "year_incorporated": "2017",
+    "nace": "5829",
+    "employees": "11",
+    "revenue_usd": 3080000,
+    "pl_before_tax": null,
+    "total_assets": null,
+    "equity": null,
+    "website": "www.popsql.com",
+    "description": "Web based team data collaboration platform operator",
+    "contacts": [
+      {
+        "name": "Sondhi Rahil",
+        "title": "President"
+      }
+    ]
+  },
+  {
+    "name": "GENOMENON, INC.",
+    "state": "MI",
+    "year_incorporated": "2014",
+    "nace": "5829",
+    "employees": "60",
+    "revenue_usd": 3070000,
+    "pl_before_tax": null,
+    "total_assets": null,
+    "equity": null,
+    "website": "www.genomenon.com",
+    "description": null,
+    "contacts": [
+      {
+        "name": "Mr Mark Kiel",
+        "title": "Executive Officer"
+      },
+      {
+        "name": "Mr Mark Kiel",
+        "title": "Chief Scientific Officer / / Vice President Product Strategy"
+      },
+      {
+        "name": "Mr Tom Bourgoin",
+        "title": "Director Sales & Strategic Relationships"
+      },
+      {
+        "name": "Mr Gavin Horn",
+        "title": "Controller"
+      },
+      {
+        "name": "Ms Deana Clement",
+        "title": "Senior Accountant"
+      },
+      {
+        "name": "Ms Colleen Moore",
+        "title": "Senior Administrative & Events Manager"
+      },
+      {
+        "name": "Ms Candace Chapman",
+        "title": "Vice President, Marketing"
+      },
+      {
+        "name": "Mr Nicholas Woods",
+        "title": "Marketing Specialist"
+      },
+      {
+        "name": "Mr Ernest Durakovic",
+        "title": "Data Analyst / Project Manager"
+      }
+    ]
+  },
+  {
+    "name": "ADAPTX, INC.",
+    "state": "WA",
+    "year_incorporated": "2016",
+    "nace": "5829",
+    "employees": "40",
+    "revenue_usd": 3070000,
+    "pl_before_tax": null,
+    "total_assets": null,
+    "equity": null,
+    "website": "www.adaptx.com",
+    "description": "AI driven clinical management services provider",
+    "contacts": [
+      {
+        "name": "Mr Daniel Low",
+        "title": "President"
+      },
+      {
+        "name": "Mr Chadwick Mcavoy",
+        "title": "Chief Operating Officer"
+      },
+      {
+        "name": "Mr Chadwick Mcavoy",
+        "title": "Chief Information Officer"
+      },
+      {
+        "name": "Yb Choi",
+        "title": "Officer"
+      },
+      {
+        "name": "Mr Matthew Goos",
+        "title": "Officer"
+      },
+      {
+        "name": "Mr Tim Nygard",
+        "title": "Officer"
+      },
+      {
+        "name": "Mr Warren Ratliff",
+        "title": "Officer"
+      },
+      {
+        "name": "Christie Schofield",
+        "title": "Officer"
+      }
+    ]
+  },
+  {
+    "name": "CONCENTRIC, INC.",
+    "state": "MA",
+    "year_incorporated": "2010",
+    "nace": "5829",
+    "employees": "16",
+    "revenue_usd": 3060000,
+    "pl_before_tax": null,
+    "total_assets": null,
+    "equity": null,
+    "website": "www.concentricmarket.com",
+    "description": null,
+    "contacts": [
+      {
+        "name": "Mr Paolo Gaudiano",
+        "title": "President"
+      },
+      {
+        "name": "Mr Greg Silverman",
+        "title": "Chief Executive Officer"
+      },
+      {
+        "name": "Ms Susan C Gerow",
+        "title": "Treasurer"
+      },
+      {
+        "name": "Ms Susan C Gerow",
+        "title": "Manager, Operations"
+      },
+      {
+        "name": "Mr Justin Wilson",
+        "title": "Talent Acquisition Consultant"
+      },
+      {
+        "name": "Ms Nicole Tumblin",
+        "title": "Vice President of Sales"
+      },
+      {
+        "name": "Ms Melissa Todisco",
+        "title": "Vice President, Marketing"
+      },
+      {
+        "name": "Mr Matthew Bent",
+        "title": "Enterprise Account Executive"
+      },
+      {
+        "name": "Mr Andrey Anev",
+        "title": "Chief Technology Officer"
+      },
+      {
+        "name": "Mr Dejan Duzevik",
+        "title": "Chief Product Officer"
+      },
+      {
+        "name": "Ms Carolyn Potter",
+        "title": "Chief Operating Officer"
+      }
+    ]
+  },
+  {
+    "name": "PROTEOME SOFTWARE INC.",
+    "state": "OR",
+    "year_incorporated": "2004",
+    "nace": "5829",
+    "employees": "10",
+    "revenue_usd": 3050000,
+    "pl_before_tax": null,
+    "total_assets": null,
+    "equity": null,
+    "website": "www.proteomesoftware.com",
+    "description": null,
+    "contacts": [
+      {
+        "name": "Ms Kathleen Bryant",
+        "title": "President"
+      },
+      {
+        "name": "Mr Brian C Searle",
+        "title": "Secretary"
+      },
+      {
+        "name": "Mr Nick Vincent-Maloney",
+        "title": "Manager, Sales & Support"
+      },
+      {
+        "name": "Mr Jacob Lippincott",
+        "title": "Sales & Support User Experience Specialist"
+      },
+      {
+        "name": "Mr Jimar Miller",
+        "title": "Bioinformatics Software Developer"
+      }
+    ]
+  },
+  {
+    "name": "WILLIAM STUCKY & ASSOCIATES, INC.",
+    "state": "CA",
+    "year_incorporated": "2019",
+    "nace": "5829",
+    "employees": "25",
+    "revenue_usd": 3038000,
+    "pl_before_tax": null,
+    "total_assets": null,
+    "equity": null,
+    "website": "www.stuckynet.com",
+    "description": null,
+    "contacts": [
+      {
+        "name": "Mr William J Stucky",
+        "title": "President"
+      },
+      {
+        "name": "Ms Rosanne Doyle",
+        "title": "Vice President"
+      },
+      {
+        "name": "Ms Rosanne Doyle",
+        "title": "Senior Vice President - Project Manager"
+      },
+      {
+        "name": "Mr Alan Jasenovic",
+        "title": "Vice President - ABL Sales & Training"
+      },
+      {
+        "name": "Mr Noel Deguzman",
+        "title": "Project Manager"
+      },
+      {
+        "name": "Mr Joel Damaso",
+        "title": "Project Analyst"
+      },
+      {
+        "name": "Mr Fil Ong",
+        "title": "Programmer / Analyst"
+      },
+      {
+        "name": "Ms Theresa Del",
+        "title": "Developer"
+      }
+    ]
+  },
+  {
+    "name": "ONCUE ENTERPRISES INCORPORATED",
+    "state": "CA",
+    "year_incorporated": "2020",
+    "nace": "5829",
+    "employees": "20",
+    "revenue_usd": 3030000,
+    "pl_before_tax": null,
+    "total_assets": null,
+    "equity": null,
+    "website": "www.oncue.co",
+    "description": null,
+    "contacts": [
+      {
+        "name": "Mr Russell Baldwin",
+        "title": "Agent"
+      },
+      {
+        "name": "Ms Katherine Dewald",
+        "title": "Officer"
+      }
+    ]
+  },
+  {
+    "name": "HANDLE, INC.",
+    "state": "CA",
+    "year_incorporated": "2011",
+    "nace": "5829",
+    "employees": "19",
+    "revenue_usd": 3030000,
+    "pl_before_tax": null,
+    "total_assets": null,
+    "equity": null,
+    "website": "www.handle.today",
+    "description": "Construction industry lien management, deadline tracking, and mailing software publisher",
+    "contacts": [
+      {
+        "name": "Kriser Gellci",
+        "title": "Chief Executive Officer"
+      },
+      {
+        "name": "Mr Shawn Carolan",
+        "title": "Shareholder; Co-Founder"
+      },
+      {
+        "name": "Mr Jonathan Mccoy",
+        "title": "Shareholder; Co-Founder"
+      }
+    ]
+  },
+  {
+    "name": "BOLD METRICS, INC.",
+    "state": "CA",
+    "year_incorporated": "2018",
+    "nace": "5829",
+    "employees": "15",
+    "revenue_usd": 3020000,
+    "pl_before_tax": null,
+    "total_assets": null,
+    "equity": null,
+    "website": "boldmetrics.com",
+    "description": "AI based retail body data Software-as-a-Service (SaaS) provider",
+    "contacts": [
+      {
+        "name": "Ms Daina Burnes Linton",
+        "title": "Co-Founder & Chief Executive Officer; President"
+      },
+      {
+        "name": "Mr Morgan Linton",
+        "title": "Co-Founder and Chief Operating Officer"
+      },
+      {
+        "name": "Mr David Mertz",
+        "title": "Chief Technology Officer"
+      }
+    ]
+  },
+  {
+    "name": "SPEKIT INC.",
+    "state": "CO",
+    "year_incorporated": "2020",
+    "nace": "5829",
+    "employees": "45",
+    "revenue_usd": 3020000,
+    "pl_before_tax": null,
+    "total_assets": null,
+    "equity": null,
+    "website": "www.spekit.com",
+    "description": null,
+    "contacts": [
+      {
+        "name": "Ms Melanie Fellay",
+        "title": "Chief Executive Officer & Co-Founder; President"
+      },
+      {
+        "name": "Zarnigar Zahra",
+        "title": "Secretary"
+      },
+      {
+        "name": "Mr Seth Mcguire",
+        "title": "Officer"
+      },
+      {
+        "name": "Mr Jason Pratt",
+        "title": "Officer"
+      },
+      {
+        "name": "Mr Brian Murray",
+        "title": "Other"
+      },
+      {
+        "name": "Mr Brett Queener",
+        "title": "Other"
+      },
+      {
+        "name": "Mr Daniel Schienman",
+        "title": "Other"
+      },
+      {
+        "name": "Ms Roseanne Wincek",
+        "title": "Other"
+      }
+    ]
+  },
+  {
+    "name": "INFORMATION DELIVERY SYSTEMS INCORPORATED",
+    "state": "MD",
+    "year_incorporated": "2000",
+    "nace": "5829",
+    "employees": "40",
+    "revenue_usd": 3020000,
+    "pl_before_tax": null,
+    "total_assets": null,
+    "equity": null,
+    "website": "www.information-delivery.com",
+    "description": null,
+    "contacts": [
+      {
+        "name": "Mr Mark Cogan",
+        "title": "Systems Administrator"
+      },
+      {
+        "name": "Mr Jason Bongard",
+        "title": "Principal Consultant"
+      },
+      {
+        "name": "Mr Steve Randolph",
+        "title": "No specific function"
+      }
+    ]
+  },
+  {
+    "name": "SIGNOS INC",
+    "state": "CA",
+    "year_incorporated": null,
+    "nace": "5829",
+    "employees": "30",
+    "revenue_usd": 3020000,
+    "pl_before_tax": null,
+    "total_assets": null,
+    "equity": null,
+    "website": "www.signos.com",
+    "description": "Glucose monitoring and weight monitoring data-driven recommendation Software-as-a-Service (SaaS) provider",
+    "contacts": []
+  },
+  {
+    "name": "FUNNEL",
+    "state": "MA",
+    "year_incorporated": null,
+    "nace": "5829",
+    "employees": "55",
+    "revenue_usd": 3010000,
+    "pl_before_tax": null,
+    "total_assets": null,
+    "equity": null,
+    "website": "funnel.io",
+    "description": null,
+    "contacts": [
+      {
+        "name": "Mr Per Made",
+        "title": "Chief Commercial Officer & Co-Founder"
+      },
+      {
+        "name": "Mr Jakob Andersson",
+        "title": "Sales Development Manager"
+      },
+      {
+        "name": "Mr Brian Benet",
+        "title": "Account Executive"
+      },
+      {
+        "name": "Mr Aaron Conley",
+        "title": "Account Executive"
+      },
+      {
+        "name": "Mr Johannes Andreasson",
+        "title": "Developer"
+      }
+    ]
+  },
+  {
+    "name": "RESCO",
+    "state": "NV",
+    "year_incorporated": null,
+    "nace": "5829",
+    "employees": "11",
+    "revenue_usd": 3010000,
+    "pl_before_tax": null,
+    "total_assets": null,
+    "equity": null,
+    "website": "www.rescoreno.com",
+    "description": null,
+    "contacts": []
+  },
+  {
+    "name": "NODAR INC",
+    "state": "MA",
+    "year_incorporated": "2018",
+    "nace": "5829",
+    "employees": "10",
+    "revenue_usd": 3010000,
+    "pl_before_tax": null,
+    "total_assets": null,
+    "equity": null,
+    "website": "www.nodarsensor.com",
+    "description": "Autonomous vehicles 3D vision software developer",
+    "contacts": [
+      {
+        "name": "Mr Leaf Jiang",
+        "title": "Chief Executive Officer"
+      },
+      {
+        "name": "Mr Philip Bradley Rosen",
+        "title": "Chief Operating Officer"
+      },
+      {
+        "name": "Mr Philip Bradley Rosen",
+        "title": "No specific function"
+      }
+    ]
+  },
+  {
+    "name": "DATAPRIVIA SOFTWARE, LLC",
+    "state": "VA",
+    "year_incorporated": "2013",
+    "nace": "5829",
+    "employees": "10",
+    "revenue_usd": 3000000,
+    "pl_before_tax": null,
+    "total_assets": null,
+    "equity": null,
+    "website": "www.dataprivia.com",
+    "description": null,
+    "contacts": [
+      {
+        "name": "Mr Jeffrey Hurley",
+        "title": "Chief Executive Officer"
+      },
+      {
+        "name": "Ms Ruth Hurley",
+        "title": "Accounting Manager"
+      }
+    ]
+  },
+  {
+    "name": "NUVO TECHNOLOGIES, INC.",
+    "state": "CA",
+    "year_incorporated": null,
+    "nace": "5829",
+    "employees": "25",
+    "revenue_usd": 3000000,
+    "pl_before_tax": null,
+    "total_assets": null,
+    "equity": null,
+    "website": "www.nuvo.credit",
+    "description": null,
+    "contacts": [
+      {
+        "name": "Mr Rameez Remsudeen",
+        "title": "Secretary"
+      },
+      {
+        "name": "Siddhardha Malladi",
+        "title": "Chief Financial Officer"
+      }
+    ]
+  },
+  {
+    "name": "MOON VALLEY SOFTWARE INC",
+    "state": "CA",
+    "year_incorporated": null,
+    "nace": "5829",
+    "employees": "17",
+    "revenue_usd": 3000000,
+    "pl_before_tax": null,
+    "total_assets": null,
+    "equity": null,
+    "website": "www.moonvalley.com",
+    "description": null,
+    "contacts": []
+  }
+]

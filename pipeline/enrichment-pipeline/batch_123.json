@@ -1,0 +1,759 @@
+[
+  {
+    "name": "L.J. TECHNICAL SYSTEMS, INC.",
+    "state": "FL",
+    "year_incorporated": "1979",
+    "nace": "5829",
+    "employees": "24",
+    "revenue_usd": 1030000,
+    "pl_before_tax": null,
+    "total_assets": null,
+    "equity": null,
+    "website": "www.ljcreate.com",
+    "description": "Engaged in the provision of active learning solutions for technical education",
+    "contacts": []
+  },
+  {
+    "name": "OBJECTIVE DATA STORAGE LLC",
+    "state": "MD",
+    "year_incorporated": "2003",
+    "nace": "5829",
+    "employees": "13",
+    "revenue_usd": 1030000,
+    "pl_before_tax": null,
+    "total_assets": null,
+    "equity": null,
+    "website": "www.odsmedical.com",
+    "description": null,
+    "contacts": [
+      {
+        "name": "Mr James W Vitale",
+        "title": "Officer"
+      }
+    ]
+  },
+  {
+    "name": "TERATECH, INC.",
+    "state": "MD",
+    "year_incorporated": "1989",
+    "nace": "5829",
+    "employees": "12",
+    "revenue_usd": 1030000,
+    "pl_before_tax": null,
+    "total_assets": null,
+    "equity": null,
+    "website": "www.teratech.com",
+    "description": null,
+    "contacts": []
+  },
+  {
+    "name": "H.R.D INC.",
+    "state": "MD",
+    "year_incorporated": "1994",
+    "nace": "5829",
+    "employees": "20",
+    "revenue_usd": 1030000,
+    "pl_before_tax": null,
+    "total_assets": null,
+    "equity": null,
+    "website": "www.hrdinc.com",
+    "description": null,
+    "contacts": [
+      {
+        "name": "Vasantha L. Jandhyala",
+        "title": "President"
+      },
+      {
+        "name": "Vasantha L. Jandhyala",
+        "title": "Owner"
+      },
+      {
+        "name": "Vasantha L. Jandhyala",
+        "title": "No specific function"
+      },
+      {
+        "name": "Agnihotrudu Jandhyala",
+        "title": "Vice President"
+      },
+      {
+        "name": "Mr John Hrdinc",
+        "title": "Senior Business Development Manager"
+      },
+      {
+        "name": "Mr Madhu Kalavapudi",
+        "title": "Manager, Business Development"
+      },
+      {
+        "name": "Mr Kishore Neti",
+        "title": "Business Development Manager"
+      }
+    ]
+  },
+  {
+    "name": "CAMS INC",
+    "state": "MD",
+    "year_incorporated": "1999",
+    "nace": "5829",
+    "employees": "20",
+    "revenue_usd": 1030000,
+    "pl_before_tax": null,
+    "total_assets": null,
+    "equity": null,
+    "website": "www.camsi.com",
+    "description": null,
+    "contacts": [
+      {
+        "name": "Mr Jeff Snyder",
+        "title": "Principal Consultant"
+      }
+    ]
+  },
+  {
+    "name": "VOLPE SYSTEMS GROUP INC",
+    "state": "MD",
+    "year_incorporated": "1999",
+    "nace": "5829",
+    "employees": "15",
+    "revenue_usd": 1030000,
+    "pl_before_tax": null,
+    "total_assets": null,
+    "equity": null,
+    "website": "www.volpegroup.com",
+    "description": null,
+    "contacts": []
+  },
+  {
+    "name": "OAKLEY TECHNOLOGIES, L.L.C.",
+    "state": "MD",
+    "year_incorporated": null,
+    "nace": "5829",
+    "employees": "20",
+    "revenue_usd": 1030000,
+    "pl_before_tax": null,
+    "total_assets": null,
+    "equity": null,
+    "website": "www.oakleytechnologies.com",
+    "description": null,
+    "contacts": []
+  },
+  {
+    "name": "SYSTEMS 4 INC.",
+    "state": "MD",
+    "year_incorporated": "1986",
+    "nace": "5829",
+    "employees": "15",
+    "revenue_usd": 1030000,
+    "pl_before_tax": null,
+    "total_assets": null,
+    "equity": null,
+    "website": "www.systems4.com",
+    "description": null,
+    "contacts": [
+      {
+        "name": "Ms Mary Anne Kirgan",
+        "title": "President"
+      },
+      {
+        "name": "Mr Scott Manseau",
+        "title": "Vice President"
+      },
+      {
+        "name": "Mr James Hendry",
+        "title": "Assistant Secretary"
+      }
+    ]
+  },
+  {
+    "name": "CODY CONSULTING SERVICE",
+    "state": "FL",
+    "year_incorporated": null,
+    "nace": "5829",
+    "employees": "25",
+    "revenue_usd": 1030000,
+    "pl_before_tax": null,
+    "total_assets": null,
+    "equity": null,
+    "website": "www.codyent.com",
+    "description": null,
+    "contacts": [
+      {
+        "name": "Ms Debbie R Mabari",
+        "title": "Founder & Chief Executive Officer; Shareholder"
+      },
+      {
+        "name": "Mr Brian Yavorsky",
+        "title": "Vice President-Technical"
+      },
+      {
+        "name": "Mr Douglas Pray",
+        "title": "Director-Codyprint"
+      }
+    ]
+  },
+  {
+    "name": "PROGRESSIVE MICROTECHNOLOGY, INC.",
+    "state": "FL",
+    "year_incorporated": "1984",
+    "nace": "5829",
+    "employees": "11",
+    "revenue_usd": 1030000,
+    "pl_before_tax": null,
+    "total_assets": null,
+    "equity": null,
+    "website": "www.scanpmi.com",
+    "description": null,
+    "contacts": [
+      {
+        "name": "Mr John Alex",
+        "title": "President/CEO"
+      },
+      {
+        "name": "Ms Aimee A Riggsby",
+        "title": "Chief Financial Officer"
+      }
+    ]
+  },
+  {
+    "name": "VECNA TECHNOLOGIES, INC.",
+    "state": "MD",
+    "year_incorporated": "2013",
+    "nace": "5829",
+    "employees": "71",
+    "revenue_usd": 1030000,
+    "pl_before_tax": null,
+    "total_assets": null,
+    "equity": null,
+    "website": "www.vecna.com",
+    "description": "Engaged in the provision of business and technology solutions",
+    "contacts": [
+      {
+        "name": "Mr Christopher Larsen",
+        "title": "Senior Scientist / Grants Manager / Director of Bioin"
+      },
+      {
+        "name": "Mr George Phillips",
+        "title": "Technical Support Specialist"
+      },
+      {
+        "name": "Binish Khadka",
+        "title": "Bi Developer / Senior Quality Assurance Engineer"
+      },
+      {
+        "name": "Mr Jack Killian",
+        "title": "Program Manager"
+      }
+    ]
+  },
+  {
+    "name": "ACCELERATED COMPUTER TECHNOLOGIES INC.",
+    "state": "FL",
+    "year_incorporated": "1995",
+    "nace": "5829",
+    "employees": "21",
+    "revenue_usd": 1030000,
+    "pl_before_tax": null,
+    "total_assets": null,
+    "equity": null,
+    "website": "www.actinc.com",
+    "description": null,
+    "contacts": []
+  },
+  {
+    "name": "MOTILITY SOFTWARE SOLUTIONS LLC",
+    "state": "FL",
+    "year_incorporated": "2000",
+    "nace": "5829",
+    "employees": "40",
+    "revenue_usd": 1030000,
+    "pl_before_tax": null,
+    "total_assets": null,
+    "equity": null,
+    "website": "www.motilitysoftware.com",
+    "description": "Vehicle dealership management software development services",
+    "contacts": []
+  },
+  {
+    "name": "SPARKYPANTS CORPORATION",
+    "state": "MD",
+    "year_incorporated": "2020",
+    "nace": "5829",
+    "employees": "14",
+    "revenue_usd": 1030000,
+    "pl_before_tax": null,
+    "total_assets": null,
+    "equity": null,
+    "website": "www.sparkypants.com",
+    "description": null,
+    "contacts": [
+      {
+        "name": "Mr Jason Coleman",
+        "title": "President"
+      },
+      {
+        "name": "Mr Rob Niquette",
+        "title": "Senior Software Engineer"
+      }
+    ]
+  },
+  {
+    "name": "DESIRE2LEARN INC",
+    "state": "MD",
+    "year_incorporated": "2007",
+    "nace": "5829",
+    "employees": "90",
+    "revenue_usd": 1030000,
+    "pl_before_tax": null,
+    "total_assets": null,
+    "equity": null,
+    "website": "www.d2l.com",
+    "description": null,
+    "contacts": [
+      {
+        "name": "Mr Sergio Zanfrini",
+        "title": "Engineering Director"
+      },
+      {
+        "name": "Ritu Kamboj",
+        "title": "Senior Quality Assurance Analyst"
+      },
+      {
+        "name": "Mr Dave Chodos",
+        "title": "Release Manager"
+      },
+      {
+        "name": "Ms Mona L Vosberg",
+        "title": "Assistant General Counsel"
+      }
+    ]
+  },
+  {
+    "name": "3DCART SHOPPING CARTS",
+    "state": "FL",
+    "year_incorporated": null,
+    "nace": "5829",
+    "employees": "25",
+    "revenue_usd": 1030000,
+    "pl_before_tax": null,
+    "total_assets": null,
+    "equity": null,
+    "website": "www.3dcart.com",
+    "description": "Cloud-based ecommerce platform operator",
+    "contacts": [
+      {
+        "name": "Mr Gil Gonzalo J",
+        "title": "Founder & Chief Executive Officer; Shareholder"
+      },
+      {
+        "name": "Mr Jimmy Rodriguez",
+        "title": "CTO"
+      }
+    ]
+  },
+  {
+    "name": "ROOMTAG LLC",
+    "state": "MD",
+    "year_incorporated": "2007",
+    "nace": "5829",
+    "employees": "13",
+    "revenue_usd": 1030000,
+    "pl_before_tax": null,
+    "total_assets": null,
+    "equity": null,
+    "website": "www.roomtag.com",
+    "description": "Online Saas-based space, occupancy, assets, and workplace management platform operator",
+    "contacts": [
+      {
+        "name": "Mr Rob Rice",
+        "title": "Senior Systems Operator"
+      }
+    ]
+  },
+  {
+    "name": "PACESETTER TECHNOLOGY, LLC",
+    "state": "FL",
+    "year_incorporated": "2013",
+    "nace": "5829",
+    "employees": "45",
+    "revenue_usd": 1030000,
+    "pl_before_tax": null,
+    "total_assets": null,
+    "equity": null,
+    "website": "www.pacesettertechnology.com",
+    "description": null,
+    "contacts": [
+      {
+        "name": "Mr Stavros George",
+        "title": "Founder & Chief Executive Officer"
+      },
+      {
+        "name": "Mr Stavros George",
+        "title": "Manager"
+      }
+    ]
+  },
+  {
+    "name": "SHADOW HEALTH INC.",
+    "state": "FL",
+    "year_incorporated": "2013",
+    "nace": "5829",
+    "employees": "19",
+    "revenue_usd": 1030000,
+    "pl_before_tax": null,
+    "total_assets": null,
+    "equity": null,
+    "website": "www.shadowhealth.com",
+    "description": null,
+    "contacts": [
+      {
+        "name": "Mr David Massias",
+        "title": "Co-Founder and Chief Executive Officer"
+      },
+      {
+        "name": "Ms Christine Troskey",
+        "title": "Product Owner"
+      },
+      {
+        "name": "Ms Amy Gorelick",
+        "title": "Senior Business Development Representative"
+      },
+      {
+        "name": "Jaime Kade",
+        "title": "Project Manager, Finance"
+      },
+      {
+        "name": "Mr Chris Frey",
+        "title": "Director of Training"
+      },
+      {
+        "name": "Mr Jeff Parker",
+        "title": "Human Resources Director"
+      },
+      {
+        "name": "Mr Danny Holcomb",
+        "title": "National Sales Director"
+      },
+      {
+        "name": "Ms Ann Day",
+        "title": "Education Sales Consultant"
+      },
+      {
+        "name": "Mr Jacob Hunter",
+        "title": "Sales Representative"
+      },
+      {
+        "name": "Mr Rob Kade",
+        "title": "Chief Marketing Officer"
+      },
+      {
+        "name": "Ms Jennifer Brawders",
+        "title": "Regional Account Manager"
+      },
+      {
+        "name": "Ms Stephanie Ciuzio",
+        "title": "Account Coordinator"
+      },
+      {
+        "name": "Mr James Cloutier",
+        "title": "Account Coordinator"
+      },
+      {
+        "name": "Ashlie Cowart",
+        "title": "Account Manager"
+      },
+      {
+        "name": "Ms Mariel Dunham",
+        "title": "Account Manager"
+      },
+      {
+        "name": "Mr Matthew Gent",
+        "title": "Southeastern Regional Account Coordinator"
+      },
+      {
+        "name": "Mr Phillip Lydiate",
+        "title": "Account Coordinator"
+      },
+      {
+        "name": "Mr Patrick Mccrystal",
+        "title": "Account Manager, Pennsylvania and New Jersey Region"
+      },
+      {
+        "name": "Mr Adrian Molleda",
+        "title": "Account Coordinator"
+      },
+      {
+        "name": "Mr Kyle Robinson",
+        "title": "Account Coordinator"
+      },
+      {
+        "name": "Mr Joseph Scannella",
+        "title": "Account Coordinator"
+      },
+      {
+        "name": "Ms Victoria Shawaga",
+        "title": "Account Coordinator"
+      },
+      {
+        "name": "Mr Daniel Stern",
+        "title": "Regional Account Manager"
+      },
+      {
+        "name": "Mr Aaron Kotranza",
+        "title": "Chief Technology Officer"
+      },
+      {
+        "name": "Mr Margeaux Johnson",
+        "title": "Product Manager, Learning & Development"
+      },
+      {
+        "name": "Mr Daniel Pereira",
+        "title": "Technical Support Specialist"
+      },
+      {
+        "name": "Ms Taryn Gilbert",
+        "title": "Product Manager"
+      },
+      {
+        "name": "Mr Robin Dohrmann",
+        "title": "West Coast Field Representative"
+      },
+      {
+        "name": "Reshmi Verghese",
+        "title": "Director, Quality Management"
+      },
+      {
+        "name": "Mr Nick Antonelli",
+        "title": "Team Lead, Cloud Systems"
+      },
+      {
+        "name": "Mr Nick Antonelli",
+        "title": "Cloud Systems Engineer"
+      },
+      {
+        "name": "Mr Steve Panaghi",
+        "title": "Information Technology Systems Manager"
+      },
+      {
+        "name": "Mr Jesse Arnold",
+        "title": "Programmer / Scrum Master"
+      },
+      {
+        "name": "Mr Michael De La Morena",
+        "title": "Cloud Systems Engineer"
+      },
+      {
+        "name": "Mr Patrick J Bizub",
+        "title": "Corporate Controller"
+      },
+      {
+        "name": "Mr Aubrey Helm",
+        "title": "Instructional Design Coordinator"
+      },
+      {
+        "name": "Ms Linda Nichols",
+        "title": "Educational Coordinator"
+      },
+      {
+        "name": "Ms Caroline Short",
+        "title": "Instructional Design Coordinator"
+      },
+      {
+        "name": "Mr Dennis Duncan",
+        "title": "Free Agent"
+      },
+      {
+        "name": "Ms Lindsey Yeadon",
+        "title": "Release Train Engineer (RTE)"
+      },
+      {
+        "name": "Mr Francisco Jimenez",
+        "title": "Quantitative User Experience Researcher"
+      }
+    ]
+  },
+  {
+    "name": "VERTIGLO",
+    "state": "FL",
+    "year_incorporated": null,
+    "nace": "5829",
+    "employees": "60",
+    "revenue_usd": 1030000,
+    "pl_before_tax": null,
+    "total_assets": null,
+    "equity": null,
+    "website": "www.vertiglo.com",
+    "description": null,
+    "contacts": [
+      {
+        "name": "Mr Luke Roopra",
+        "title": "Co-Founder & President; Shareholder"
+      },
+      {
+        "name": "Ms Leanne Roopra",
+        "title": "Co-Founder; Shareholder"
+      }
+    ]
+  },
+  {
+    "name": "NET DIRECTOR, LLC",
+    "state": "FL",
+    "year_incorporated": "2005",
+    "nace": "5829",
+    "employees": "11",
+    "revenue_usd": 1030000,
+    "pl_before_tax": null,
+    "total_assets": null,
+    "equity": null,
+    "website": "www.netdirector.biz",
+    "description": null,
+    "contacts": [
+      {
+        "name": "Mr Harry Beisswenger",
+        "title": "Chief Executive Officer"
+      },
+      {
+        "name": "Ms Gretchen Borer",
+        "title": "Manager, National Accounts"
+      },
+      {
+        "name": "Mr Alexander Craddock",
+        "title": "Marketing Manager"
+      },
+      {
+        "name": "Ms Lynda McNally",
+        "title": "Healthcare Account Manager"
+      },
+      {
+        "name": "Mr Gary Castro",
+        "title": "Technical Support Analyst"
+      },
+      {
+        "name": "Mr Darren Meiggs",
+        "title": "Vice President, Operations"
+      },
+      {
+        "name": "Ms Melissa Mccabe",
+        "title": "Operations Manager NetDirector"
+      },
+      {
+        "name": "Ms Trudy Hunter",
+        "title": "Vice President - IT; Vice President Information Technology"
+      },
+      {
+        "name": "Mr Rick Roberts",
+        "title": "Software Engineer"
+      },
+      {
+        "name": "Mr Anthony Daniello",
+        "title": "Healthcare Business Analyst"
+      },
+      {
+        "name": "Mr Michael J Echevarria",
+        "title": "Manager"
+      },
+      {
+        "name": "Ms Nicole Borelli-Prida",
+        "title": "Integration Analyst"
+      },
+      {
+        "name": "Mr Paul Myers",
+        "title": "Integration Analyst"
+      },
+      {
+        "name": "Ms Karen Wachsmuth",
+        "title": "Senior Integration Analyst"
+      }
+    ]
+  },
+  {
+    "name": "XAPP AI HOLDINGS INC",
+    "state": "VA",
+    "year_incorporated": "2021",
+    "nace": "5829",
+    "employees": "20",
+    "revenue_usd": 1030000,
+    "pl_before_tax": null,
+    "total_assets": null,
+    "equity": null,
+    "website": "xapp.ai",
+    "description": null,
+    "contacts": [
+      {
+        "name": "Mr Patrick B Higbie",
+        "title": "No specific function"
+      }
+    ]
+  },
+  {
+    "name": "CLIENT DISPUTE MANAGER SOFTWARE",
+    "state": "FL",
+    "year_incorporated": "2016",
+    "nace": "5829",
+    "employees": "25",
+    "revenue_usd": 1030000,
+    "pl_before_tax": null,
+    "total_assets": null,
+    "equity": null,
+    "website": "clientdisputemanagersoftware.com",
+    "description": null,
+    "contacts": [
+      {
+        "name": "Mr Mark A Clayborne",
+        "title": "Founder"
+      }
+    ]
+  },
+  {
+    "name": "MAPLELMS",
+    "state": "MD",
+    "year_incorporated": "2012",
+    "nace": "5829",
+    "employees": "45",
+    "revenue_usd": 1030000,
+    "pl_before_tax": null,
+    "total_assets": null,
+    "equity": null,
+    "website": "www.maplelms.com",
+    "description": null,
+    "contacts": [
+      {
+        "name": "Mr Sam Smith",
+        "title": "Owner"
+      }
+    ]
+  },
+  {
+    "name": "AXIOS HQ INC.",
+    "state": "VA",
+    "year_incorporated": "2022",
+    "nace": "5829",
+    "employees": "100",
+    "revenue_usd": 1030000,
+    "pl_before_tax": null,
+    "total_assets": null,
+    "equity": null,
+    "website": "www.axioshq.com",
+    "description": "Essential communications Software-as-a-Service (SaaS) provider",
+    "contacts": [
+      {
+        "name": "Mr Roy Schwartz",
+        "title": "Chief Executive Officer"
+      },
+      {
+        "name": "Ms Lindsey Sullivan",
+        "title": "Vice President, Sales"
+      },
+      {
+        "name": "Jordan Zaslav",
+        "title": "Chief Operating Officer"
+      },
+      {
+        "name": "Spencer Boice",
+        "title": "Officer"
+      },
+      {
+        "name": "Mr Paul J Hudson",
+        "title": "Officer"
+      }
+    ]
+  }
+]

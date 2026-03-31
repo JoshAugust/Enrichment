@@ -1,0 +1,936 @@
+[
+  {
+    "name": "COMMUNIGATE SYSTEMS INC",
+    "state": "CA",
+    "year_incorporated": null,
+    "nace": "5829",
+    "employees": "50",
+    "revenue_usd": 2070000,
+    "pl_before_tax": null,
+    "total_assets": null,
+    "equity": null,
+    "website": "www.communigate.com",
+    "description": null,
+    "contacts": []
+  },
+  {
+    "name": "EVERS CORP",
+    "state": "CA",
+    "year_incorporated": "1996",
+    "nace": "5829",
+    "employees": "11",
+    "revenue_usd": 2070000,
+    "pl_before_tax": null,
+    "total_assets": null,
+    "equity": null,
+    "website": "www.evers.com.vn",
+    "description": null,
+    "contacts": []
+  },
+  {
+    "name": "PATIENTPOP, INC.",
+    "state": "CA",
+    "year_incorporated": "2014",
+    "nace": "5829",
+    "employees": "270",
+    "revenue_usd": 2070000,
+    "pl_before_tax": null,
+    "total_assets": null,
+    "equity": null,
+    "website": "www.patientpop.com",
+    "description": "Engaged in providing complete medical practice management and healthcare marketing platform",
+    "contacts": [
+      {
+        "name": "Mr Luke Kervin",
+        "title": "Chief Executive Officer"
+      },
+      {
+        "name": "Mr Daniel Rodrigues",
+        "title": "Chief Executive Officer"
+      },
+      {
+        "name": "Mr Travis Schneider",
+        "title": "Executive Officer"
+      },
+      {
+        "name": "Mr Colin Morris",
+        "title": "Secretary"
+      },
+      {
+        "name": "Mr Nicholas Bellomo",
+        "title": "Chief Financial Officer"
+      },
+      {
+        "name": "Mr Roth Dave",
+        "title": "Treasurer"
+      }
+    ]
+  },
+  {
+    "name": "TOUCHPHRASE DEVELOPMENT LLC",
+    "state": "CO",
+    "year_incorporated": "2010",
+    "nace": "5829",
+    "employees": "12",
+    "revenue_usd": 2070000,
+    "pl_before_tax": null,
+    "total_assets": null,
+    "equity": null,
+    "website": "julota.com",
+    "description": "Online cloud-based integrated community care platform Software-as-a-Service (SaaS) provider",
+    "contacts": [
+      {
+        "name": "Rick Pionkowski",
+        "title": "Manager"
+      },
+      {
+        "name": "Rick Pionkowski",
+        "title": "Member"
+      },
+      {
+        "name": "Mr Michael Schaedel",
+        "title": "Manager"
+      },
+      {
+        "name": "Mr Cravens Scott",
+        "title": "Manager"
+      },
+      {
+        "name": "Mr Cravens Scott",
+        "title": "Real Property"
+      }
+    ]
+  },
+  {
+    "name": "TRANSPOSIT CORPORATION",
+    "state": "CA",
+    "year_incorporated": "2018",
+    "nace": "5829",
+    "employees": "25",
+    "revenue_usd": 2070000,
+    "pl_before_tax": null,
+    "total_assets": null,
+    "equity": null,
+    "website": "www.transposit.com",
+    "description": "Online application programming interface composition platform operator",
+    "contacts": [
+      {
+        "name": "Divanny Lamas",
+        "title": "Chief Executive Officer"
+      },
+      {
+        "name": "Ms Tina Huang",
+        "title": "CTO"
+      }
+    ]
+  },
+  {
+    "name": "TIDALSCALE INC",
+    "state": "CA",
+    "year_incorporated": "2013",
+    "nace": "5829",
+    "employees": "14",
+    "revenue_usd": 2070000,
+    "pl_before_tax": null,
+    "total_assets": null,
+    "equity": null,
+    "website": "www.tidalscale.com",
+    "description": "Software-defined servers for big data analytics provider",
+    "contacts": [
+      {
+        "name": "Mr Isaac R Nassi",
+        "title": "Executive Officer"
+      }
+    ]
+  },
+  {
+    "name": "KALLIDUS INC",
+    "state": "CA",
+    "year_incorporated": "2002",
+    "nace": "5829",
+    "employees": "200",
+    "revenue_usd": 2070000,
+    "pl_before_tax": null,
+    "total_assets": null,
+    "equity": null,
+    "website": "www.skava.com",
+    "description": "Engaged in the provision of digital e-commerce services",
+    "contacts": [
+      {
+        "name": "Mr Arish Ali",
+        "title": "Co-Founder & Chief Executive Officer; Shareholder"
+      },
+      {
+        "name": "Mr Amit Kalley",
+        "title": "Chief Executive Officer"
+      },
+      {
+        "name": "Ms Sudha Varadarajan",
+        "title": "Co-Founder & CTO; Shareholder"
+      },
+      {
+        "name": "Ms Shavone Mitchell-Martin",
+        "title": "Executive Assistant"
+      },
+      {
+        "name": "Ms Jeanne Mariani",
+        "title": "Vice President, Finance & Administration"
+      },
+      {
+        "name": "Ms Rachel Wildman",
+        "title": "Senior Director, Human Resources"
+      },
+      {
+        "name": "Jocelyn Newton",
+        "title": "Marketing Manager"
+      },
+      {
+        "name": "Mr Abhishek Bisht",
+        "title": "Senior Manager, Client Services"
+      },
+      {
+        "name": "Mr Sreekanth Balibani",
+        "title": "Associate Technical Director"
+      },
+      {
+        "name": "Mr Khurram Khan",
+        "title": "Director of Technology"
+      },
+      {
+        "name": "JeyaRamar Ravi",
+        "title": "Software Associate & Engineer"
+      },
+      {
+        "name": "Mr Sathish Kumar Mohanas",
+        "title": "Project Manager"
+      },
+      {
+        "name": "Mr Vivek Agrawal",
+        "title": "Global Vice President-Operations"
+      },
+      {
+        "name": "Mr Manu Gupta",
+        "title": "Vice President - Solutions Delivery"
+      },
+      {
+        "name": "Mr Rohit Ravinath",
+        "title": "Director, Solutions Delivery"
+      },
+      {
+        "name": "Mr Rathika Seshachalam",
+        "title": "Senior Program Manager"
+      },
+      {
+        "name": "Mr Jason Ehle",
+        "title": "Mobile Solutions Architect"
+      },
+      {
+        "name": "Ms Boobalan Madheswaran",
+        "title": "Senior Software Developer"
+      },
+      {
+        "name": "Gowtham Velumani",
+        "title": "Senior Software Testing Engineer"
+      },
+      {
+        "name": "Mr Benazir Aman",
+        "title": "Director Pmo"
+      },
+      {
+        "name": "Ms Gretchen Jones",
+        "title": "Executive Assistant Office Manager"
+      }
+    ]
+  },
+  {
+    "name": "OCEANHOUSE MEDIA INC",
+    "state": "CA",
+    "year_incorporated": "2009",
+    "nace": "5829",
+    "employees": "10",
+    "revenue_usd": 2070000,
+    "pl_before_tax": null,
+    "total_assets": null,
+    "equity": null,
+    "website": "www.oceanhousemedia.com",
+    "description": null,
+    "contacts": [
+      {
+        "name": "Ms Karen Kripalani",
+        "title": "Manager - Media Marketing"
+      },
+      {
+        "name": "Mr Michel Kripalani",
+        "title": "Shareholder; Founder & President"
+      }
+    ]
+  },
+  {
+    "name": "CEREGO LLC",
+    "state": "CA",
+    "year_incorporated": "2013",
+    "nace": "5829",
+    "employees": "19",
+    "revenue_usd": 2070000,
+    "pl_before_tax": null,
+    "total_assets": null,
+    "equity": null,
+    "website": "www.cerego.com",
+    "description": null,
+    "contacts": []
+  },
+  {
+    "name": "VIZ.AI, INC.",
+    "state": "CA",
+    "year_incorporated": "2023",
+    "nace": "5829",
+    "employees": "410",
+    "revenue_usd": 2070000,
+    "pl_before_tax": null,
+    "total_assets": null,
+    "equity": null,
+    "website": "www.nicheinteriors.com",
+    "description": "Corporate, Subsidiary, and Regional Managing Offices",
+    "contacts": [
+      {
+        "name": "Dr Chris Mansi",
+        "title": "Chief Executive Officer"
+      },
+      {
+        "name": "Lang Liu",
+        "title": "Secretary"
+      }
+    ]
+  },
+  {
+    "name": "CODESMITH LLC",
+    "state": "CA",
+    "year_incorporated": "2018",
+    "nace": "5829",
+    "employees": "50",
+    "revenue_usd": 2070000,
+    "pl_before_tax": null,
+    "total_assets": null,
+    "equity": null,
+    "website": "www.codesmith.io",
+    "description": "Software engineering training programme services",
+    "contacts": [
+      {
+        "name": "Mr Joseph M Harris",
+        "title": "Chief Executive Officer"
+      },
+      {
+        "name": "Mr Will Sentance",
+        "title": "Chief Executive Officer"
+      },
+      {
+        "name": "Mr Augustine Kim",
+        "title": "Software Engineer / Lead Technical Mentor"
+      },
+      {
+        "name": "Ms Samantha Salley",
+        "title": "Lead Engineer"
+      },
+      {
+        "name": "Ms Haley Godtfredsen",
+        "title": "Head of Digital"
+      }
+    ]
+  },
+  {
+    "name": "AACE BUSINESS SERVICES, INC.",
+    "state": "NJ",
+    "year_incorporated": "1987",
+    "nace": "5829",
+    "employees": "15",
+    "revenue_usd": 2057000,
+    "pl_before_tax": null,
+    "total_assets": null,
+    "equity": null,
+    "website": "www.aacebiz.com",
+    "description": null,
+    "contacts": [
+      {
+        "name": "Mr Alex Acheampong",
+        "title": "President"
+      }
+    ]
+  },
+  {
+    "name": "VATION VENTURES, LLC",
+    "state": "CO",
+    "year_incorporated": "2017",
+    "nace": "5829",
+    "employees": "19",
+    "revenue_usd": 2050000,
+    "pl_before_tax": null,
+    "total_assets": null,
+    "equity": null,
+    "website": "www.vationventures.com",
+    "description": null,
+    "contacts": [
+      {
+        "name": "Mr Joseph O'Callaghan",
+        "title": "Partner"
+      },
+      {
+        "name": "Mr David Michael Ocallaghan",
+        "title": "Managing Partner"
+      },
+      {
+        "name": "Ms Wendy Brown",
+        "title": "Director, Strategic Development"
+      },
+      {
+        "name": "Mr Dylan Morgan",
+        "title": "Manager, Strategic Relationships"
+      },
+      {
+        "name": "Mr Jay O'Callaghan",
+        "title": "Senior Consultant"
+      }
+    ]
+  },
+  {
+    "name": "EBAOTECH INC",
+    "state": "NJ",
+    "year_incorporated": "2012",
+    "nace": "5829",
+    "employees": "12",
+    "revenue_usd": 2050000,
+    "pl_before_tax": null,
+    "total_assets": null,
+    "equity": null,
+    "website": "www.ebaotech.com",
+    "description": null,
+    "contacts": []
+  },
+  {
+    "name": "TIMEGATE STUDIOS INC",
+    "state": "TX",
+    "year_incorporated": null,
+    "nace": "5829",
+    "employees": "45",
+    "revenue_usd": 2050000,
+    "pl_before_tax": null,
+    "total_assets": null,
+    "equity": null,
+    "website": "www.timegate.com",
+    "description": null,
+    "contacts": []
+  },
+  {
+    "name": "NOVEL EFFECT INC",
+    "state": "WA",
+    "year_incorporated": "2017",
+    "nace": "5829",
+    "employees": "20",
+    "revenue_usd": 2040000,
+    "pl_before_tax": null,
+    "total_assets": null,
+    "equity": null,
+    "website": "www.noveleffect.com",
+    "description": null,
+    "contacts": [
+      {
+        "name": "Mr Matthew William Hammersley",
+        "title": "Officer"
+      }
+    ]
+  },
+  {
+    "name": "MONARCH TEACHING TECHNOLOGIES, INC.",
+    "state": "OH",
+    "year_incorporated": "2005",
+    "nace": "5829",
+    "employees": "11",
+    "revenue_usd": 2040000,
+    "pl_before_tax": null,
+    "total_assets": null,
+    "equity": null,
+    "website": "www.monarchtt.com",
+    "description": "Online special education teaching Software-as-a-Service (SaaS) provider",
+    "contacts": [
+      {
+        "name": "Mr Robert Gephart",
+        "title": "Member of the Board"
+      },
+      {
+        "name": "Mr Oliver Cullis",
+        "title": "Executive Vice President of Product Development and Technology"
+      },
+      {
+        "name": "Courtney Monastra",
+        "title": "Professional Development Specialist"
+      },
+      {
+        "name": "Ms Mary Martin",
+        "title": "Product Specialist"
+      }
+    ]
+  },
+  {
+    "name": "PANZURA, INC.",
+    "state": "CA",
+    "year_incorporated": "2009",
+    "nace": "5829",
+    "employees": "100",
+    "revenue_usd": 2040000,
+    "pl_before_tax": null,
+    "total_assets": null,
+    "equity": null,
+    "website": "panzura.com",
+    "description": "Engaged in the provision of multi-cloud data management solutions",
+    "contacts": [
+      {
+        "name": "Mr Mark Santora",
+        "title": "Chairman"
+      },
+      {
+        "name": "Mr Bruce Armstrong",
+        "title": "Board of Dirs"
+      },
+      {
+        "name": "Mr Paul S Madera",
+        "title": "Board of Dirs"
+      },
+      {
+        "name": "Mr Carl Showalter",
+        "title": "Board of Dirs"
+      },
+      {
+        "name": "Mr Andrew W Verhalen",
+        "title": "Board of Dirs"
+      },
+      {
+        "name": "Mr Patrick Harr",
+        "title": "Chief Executive Officer"
+      },
+      {
+        "name": "Ms Jill Ann Stelfox",
+        "title": "Chief Executive Officer"
+      },
+      {
+        "name": "Mr Daniel Ezra Waldschmidt",
+        "title": "Chief Executive Officer"
+      },
+      {
+        "name": "Mr John Taylor",
+        "title": "Founder & CTO; Shareholder"
+      },
+      {
+        "name": "Mr James Acker",
+        "title": "Business Development and Research"
+      },
+      {
+        "name": "Ms Diptish Datta",
+        "title": "Vice President - Strategy & Enterprise Applications"
+      },
+      {
+        "name": "Mr Larry Brent McClure",
+        "title": "Chief Financial Officer"
+      },
+      {
+        "name": "Mr Steve Morgan",
+        "title": "Chief Financial Officer Hybrid Cloud Storage Software"
+      },
+      {
+        "name": "Ms Amy Kyu",
+        "title": "Accounting Manager"
+      },
+      {
+        "name": "Ms Stephanie Rossow",
+        "title": "Senior Manager, Accounting"
+      },
+      {
+        "name": "Van Ly",
+        "title": "Staff Accountant"
+      },
+      {
+        "name": "Ms Michelle Costa",
+        "title": "Director Human Resources"
+      },
+      {
+        "name": "Ms May Li",
+        "title": "Training Manager"
+      },
+      {
+        "name": "Leslie Quan",
+        "title": "Human Resources Coordinator"
+      },
+      {
+        "name": "Ms Lisa Shone",
+        "title": "Senior Recruitment Consultant"
+      },
+      {
+        "name": "Mr Brian Brogan",
+        "title": "Vice President-Sales CHANNELS-GLOBAL"
+      },
+      {
+        "name": "Mr Pete Coticchia",
+        "title": "Vice President Sales West"
+      },
+      {
+        "name": "Mr Jeff Herr",
+        "title": "Vice President, Sales"
+      },
+      {
+        "name": "Mr John Scott",
+        "title": "Vice President, Sales-East / North Central"
+      },
+      {
+        "name": "Ms Joan Band",
+        "title": "Sales Account Executive"
+      },
+      {
+        "name": "Mr Brian Roth",
+        "title": "Director Inside Sales"
+      },
+      {
+        "name": "Mr Timothy Allen",
+        "title": "England Area Sales Manager"
+      },
+      {
+        "name": "Mr Tim Dornford",
+        "title": "Area Sales Manager"
+      },
+      {
+        "name": "Mr Austin Brooks",
+        "title": "Inside Sales"
+      },
+      {
+        "name": "Ms Randy Gette",
+        "title": "Sales Operations"
+      },
+      {
+        "name": "Mr Robert Kern",
+        "title": "Sales"
+      },
+      {
+        "name": "Mr Paul Ryan",
+        "title": "Sales Engineer"
+      },
+      {
+        "name": "Mr Jason Mckinney",
+        "title": "Senior Vice President Alliances / Channel & Marketing"
+      },
+      {
+        "name": "Mr Preethy Padmanabhan",
+        "title": "Vice President of Marketing"
+      },
+      {
+        "name": "Mr Barry Phillips",
+        "title": "Chief Marketing Officer"
+      },
+      {
+        "name": "Ms Seema Kalra",
+        "title": "Director Product Marketing"
+      },
+      {
+        "name": "Ms Bree Loriau",
+        "title": "Director Alliance Partner Marketing"
+      },
+      {
+        "name": "Mr Carmelo Rosado III",
+        "title": "Technical Account Manager"
+      },
+      {
+        "name": "Mr Mark Wagner",
+        "title": "Territory Account Manager - AEC"
+      },
+      {
+        "name": "Mr Andrew Davis",
+        "title": "Chief Architect & Data Scientist"
+      },
+      {
+        "name": "Mr Paul Pu Zhang",
+        "title": "Vice President - Engineering"
+      },
+      {
+        "name": "Mr Andrew Castro",
+        "title": "Technical Support Engineer"
+      },
+      {
+        "name": "Mr Bruce Haemmerle",
+        "title": "Technical Support Engineer"
+      },
+      {
+        "name": "Mr Michael Harvey",
+        "title": "Senior Technical Support Engineer"
+      },
+      {
+        "name": "Mr James Huynh",
+        "title": "Technical Services Engineer"
+      },
+      {
+        "name": "Mr Kostia Khlebopros",
+        "title": "Technical Services Engineer"
+      },
+      {
+        "name": "Mr Rich Weber",
+        "title": "Chief Product Officer"
+      },
+      {
+        "name": "Mr Rich Weber",
+        "title": "Chief Strategy Officer & Vice President - Engineering"
+      },
+      {
+        "name": "Mr Kevin Kelton",
+        "title": "Tola Area Manager"
+      },
+      {
+        "name": "Mr Andy Mcglashan",
+        "title": "Regional Manager"
+      },
+      {
+        "name": "Ms Jessica Navarrette",
+        "title": "Inside Territory Manager"
+      },
+      {
+        "name": "Mr Charles Prochnow",
+        "title": "Territory Manager"
+      },
+      {
+        "name": "Ms Chanelle Shelton",
+        "title": "Territory Manager"
+      },
+      {
+        "name": "Mr Nathaniel Wells",
+        "title": "Global Manager, AWS Alliance"
+      },
+      {
+        "name": "Mr Sriram Chelluri",
+        "title": "Product Management"
+      },
+      {
+        "name": "Ms Sabine Stafford",
+        "title": "Director Operations"
+      },
+      {
+        "name": "Ms Cheryl Lewis",
+        "title": "Manager Business Operations"
+      },
+      {
+        "name": "Jess Odom",
+        "title": "Business Operations"
+      },
+      {
+        "name": "Mr David Shin Lin",
+        "title": "Quality Assurance Manager"
+      },
+      {
+        "name": "Mr Vladimir Yakubov",
+        "title": "Senior Quality Assurance Engineer"
+      },
+      {
+        "name": "Mr Paul Danis",
+        "title": "Systems Engineer"
+      },
+      {
+        "name": "Mr Robert Hart",
+        "title": "Systems Engineer"
+      },
+      {
+        "name": "Mr Allyn Henderson",
+        "title": "Systems Engineer"
+      },
+      {
+        "name": "Ms Randy Lee",
+        "title": "Enterprise Solutions Architect"
+      },
+      {
+        "name": "Guanheng Liu",
+        "title": "Software Engineer"
+      },
+      {
+        "name": "Mr Josh Paetzel",
+        "title": "Solutions & Platform Architect"
+      },
+      {
+        "name": "Mr Greg Wesner",
+        "title": "Senior Solution Architect"
+      },
+      {
+        "name": "Mr Caeli Collins",
+        "title": "Vice President - Support"
+      },
+      {
+        "name": "Mr Geoff Tudor",
+        "title": "Vice President & Gm, Vizion.Ai"
+      },
+      {
+        "name": "Sheilin Herrick",
+        "title": "Director Demand Generation"
+      },
+      {
+        "name": "Mr Steve Simpson",
+        "title": "Director Channels"
+      },
+      {
+        "name": "Mr Gregory Bole",
+        "title": "Manager"
+      },
+      {
+        "name": "Mr Zach Lavoie",
+        "title": "Channel Manager, Central"
+      }
+    ]
+  },
+  {
+    "name": "CARVER LEARNING SYSTEMS INC",
+    "state": "KS",
+    "year_incorporated": "1980",
+    "nace": "5829",
+    "employees": "25",
+    "revenue_usd": 2040000,
+    "pl_before_tax": null,
+    "total_assets": null,
+    "equity": null,
+    "website": "www.carverlearning.com",
+    "description": null,
+    "contacts": []
+  },
+  {
+    "name": "BILLSOFT INC",
+    "state": "KS",
+    "year_incorporated": "2000",
+    "nace": "5829",
+    "employees": "21",
+    "revenue_usd": 2040000,
+    "pl_before_tax": null,
+    "total_assets": null,
+    "equity": null,
+    "website": "www.billsoft.com",
+    "description": null,
+    "contacts": []
+  },
+  {
+    "name": "ADAPTASOFT INC",
+    "state": "IN",
+    "year_incorporated": "2013",
+    "nace": "5829",
+    "employees": "17",
+    "revenue_usd": 2040000,
+    "pl_before_tax": null,
+    "total_assets": null,
+    "equity": null,
+    "website": "www.adaptasoft.com",
+    "description": null,
+    "contacts": [
+      {
+        "name": "Mr Timothy C Troxel",
+        "title": "President"
+      },
+      {
+        "name": "Mr Joel E Troxel",
+        "title": "Chief Operating Officer"
+      }
+    ]
+  },
+  {
+    "name": "DATATEAM SYSTEMS INC",
+    "state": "KS",
+    "year_incorporated": "1992",
+    "nace": "5829",
+    "employees": "21",
+    "revenue_usd": 2040000,
+    "pl_before_tax": null,
+    "total_assets": null,
+    "equity": null,
+    "website": "www.datateam.com",
+    "description": "Fund accounting services",
+    "contacts": []
+  },
+  {
+    "name": "RESONATE INC",
+    "state": "CA",
+    "year_incorporated": "1997",
+    "nace": "5829",
+    "employees": "188",
+    "revenue_usd": 2040000,
+    "pl_before_tax": null,
+    "total_assets": null,
+    "equity": null,
+    "website": "www.resonate.com",
+    "description": "Engaged in the development of application performance management and traffic monitoring solutions for business-critical application environments",
+    "contacts": [
+      {
+        "name": "Mr Gordon A Campbell",
+        "title": "Chairman"
+      },
+      {
+        "name": "Mr Geoffrey Selzer",
+        "title": "Founder"
+      }
+    ]
+  },
+  {
+    "name": "UPDOX",
+    "state": "OH",
+    "year_incorporated": "2008",
+    "nace": "5829",
+    "employees": "210",
+    "revenue_usd": 2040000,
+    "pl_before_tax": null,
+    "total_assets": null,
+    "equity": null,
+    "website": "www.updox.com",
+    "description": "Online healthcare communication platform operator",
+    "contacts": [
+      {
+        "name": "Mr Sami Scarpitti",
+        "title": "Director, Business Development"
+      },
+      {
+        "name": "Ms Emily Hammoudeh",
+        "title": "Controller"
+      },
+      {
+        "name": "Ms Rachel Roman",
+        "title": "Director Talent Management"
+      },
+      {
+        "name": "Mr Ash Babbitt",
+        "title": "Director of Marketing"
+      },
+      {
+        "name": "Mr Tobin Juday",
+        "title": "Vice President, Customer Experience"
+      },
+      {
+        "name": "Mr Brandon Young",
+        "title": "Account Executive"
+      },
+      {
+        "name": "Mr Mike Harris",
+        "title": "Vice President of Development"
+      },
+      {
+        "name": "Mr John Geiger",
+        "title": "Development Manager"
+      },
+      {
+        "name": "Ms Lauren Ranalli",
+        "title": "Project Manager"
+      },
+      {
+        "name": "Mr Zach Zettler",
+        "title": "Chief Operating Officer"
+      }
+    ]
+  },
+  {
+    "name": "AUTOBOOKS, INC.",
+    "state": "MD",
+    "year_incorporated": null,
+    "nace": "5829",
+    "employees": "20",
+    "revenue_usd": 2040000,
+    "pl_before_tax": null,
+    "total_assets": null,
+    "equity": null,
+    "website": "www.autobooks.co",
+    "description": null,
+    "contacts": []
+  }
+]

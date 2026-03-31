@@ -1,0 +1,162 @@
+[
+  {
+    "company_name": "PINE BEND PAVING, INC.",
+    "revenue_usd_000s": null,
+    "revenue_source": null,
+    "revenue_confidence": "Unknown",
+    "revenue_year": null,
+    "revenue_notes": "Apollo enrichment returned no revenue. Web searches found conflicting third-party estimates ($5M from RocketReach, $10M from ZoomInfo) with no primary source. No D&B specific figure extracted. Per rules, excluded as estimates only.",
+    "employee_count_verified": null,
+    "employee_source": "Apollo returned 0 (likely no data)"
+  },
+  {
+    "company_name": "NORTHWEST CONTROLS SYSTEMS, INC.",
+    "revenue_usd_000s": 9460,
+    "revenue_source": "Dun & Bradstreet (via web search citation)",
+    "revenue_confidence": "Low",
+    "revenue_year": "2024",
+    "revenue_notes": "Apollo returned no revenue. D&B profile shows $9.46M. Conflicting figures: LeadIQ $5M (Oct 2025), Manta $10-20M range, RocketReach $15.3M, older source $11.2M. D&B $9.46M used as most commonly cited credible database figure. Treat as estimate.",
+    "employee_count_verified": 35,
+    "employee_source": "Apollo"
+  },
+  {
+    "company_name": "UCLA West Valley Medical Center (formerly West Hills Regional)",
+    "revenue_usd_000s": null,
+    "revenue_source": null,
+    "revenue_confidence": "Unknown",
+    "revenue_year": null,
+    "revenue_notes": "Apollo enrichment matched on uclahealth.org domain and returned $7.5B revenue / 36,000 employees — this is for UCLA Health System overall, NOT the specific West Valley campus. West Valley is a campus/facility of UCLA Health, not a separately reporting entity with public financials. No facility-level revenue found.",
+    "employee_count_verified": null,
+    "employee_source": "Apollo returned 36,000 for UCLA Health system (not West Valley campus specifically)"
+  },
+  {
+    "company_name": "DEPENDABLE HOME HEALTH CARE INC.",
+    "revenue_usd_000s": null,
+    "revenue_source": null,
+    "revenue_confidence": "Unknown",
+    "revenue_year": null,
+    "revenue_notes": "Apollo returned no revenue (170 employees). Web search found conflicting estimates: $27M (Zippia/ZoomInfo 2023-2024), $15.6M (2025 estimate), $300M (outlier likely different entity). No primary source found. Note: company announced suspension of operations by end of Jan 2026 per news reports.",
+    "employee_count_verified": 170,
+    "employee_source": "Apollo"
+  },
+  {
+    "company_name": "AIRTEC SERVICE INC",
+    "revenue_usd_000s": null,
+    "revenue_source": null,
+    "revenue_confidence": "Unknown",
+    "revenue_year": null,
+    "revenue_notes": "Apollo returned no revenue (8 employees). Manta.com listed $6.5M / 28 staff but data appears to be from ~2012 and is stale. No credible current-year figure found.",
+    "employee_count_verified": 8,
+    "employee_source": "Apollo"
+  },
+  {
+    "company_name": "HOMETOWN COMMUNITY BANK",
+    "revenue_usd_000s": 24161,
+    "revenue_source": "Apollo API",
+    "revenue_confidence": "Medium",
+    "revenue_year": "2024",
+    "revenue_notes": "Apollo enrichment on hcbmn.com returned $24,161,000 annual revenue. Apollo identified entity as 'Hometown Community Bank (Cyrus, MN)'. Apollo returned only 5 employees which may be an undercount for a community bank. Revenue figure is plausible for a small community bank (net interest income + fee income).",
+    "employee_count_verified": 5,
+    "employee_source": "Apollo (likely undercount)"
+  },
+  {
+    "company_name": "ALLEN COUNTY SCHOOLS",
+    "revenue_usd_000s": 39747,
+    "revenue_source": "US News Education / NCES (National Center for Education Statistics)",
+    "revenue_confidence": "Medium",
+    "revenue_year": "2023-2024",
+    "revenue_notes": "Apollo returned no data for allen.kyschools.us domain. US News Education reports $39,747,000 annual revenue for Allen County School District, sourced from NCES public school district financial data. Serves 3,086 students across 6 schools at $11,218 per pupil. KY FY2024 state document shows $28M general fund budget — difference explained by federal grants and other funding sources included in total.",
+    "employee_count_verified": null,
+    "employee_source": "Apollo returned no data for this domain"
+  },
+  {
+    "company_name": "MATHIS CONSTRUCTION, LLC",
+    "revenue_usd_000s": 10000,
+    "revenue_source": "Apollo API",
+    "revenue_confidence": "Medium",
+    "revenue_year": "2024",
+    "revenue_notes": "Apollo enrichment on mathisconst.com returned $10,000,000 annual revenue. Apollo returned 0 employees which is likely a data gap rather than literal zero staff.",
+    "employee_count_verified": null,
+    "employee_source": "Apollo returned 0 (likely no data)"
+  },
+  {
+    "company_name": "IDAHO SCIENCE AND TECHNOLOGY CHARTER SCHOOL, INC.",
+    "revenue_usd_000s": 3210,
+    "revenue_source": "IRS Form 990 via ProPublica Nonprofit Explorer",
+    "revenue_confidence": "High",
+    "revenue_year": "2025 (fiscal year ending June 2025)",
+    "revenue_notes": "ProPublica Nonprofit Explorer (EIN: 26-2852741) shows total revenue of $3.21M for fiscal year ending June 2025, filed October 29, 2025. Most recent 990 filing available. Total expenses $3.64M, total assets $5.49M. Charter school is a 501(c)(3) educational nonprofit. URL: https://projects.propublica.org/nonprofits/organizations/262852741",
+    "employee_count_verified": null,
+    "employee_source": "Apollo returned 0 (likely no data)"
+  },
+  {
+    "company_name": "3070 TEXAS ST. BOSSIER CITY HOLDINGS LLC",
+    "revenue_usd_000s": null,
+    "revenue_source": null,
+    "revenue_confidence": "Unknown",
+    "revenue_year": null,
+    "revenue_notes": "Apollo enrichment on siegelselect.com returned no revenue, 20 employees. This LLC appears to be a single-property holding entity for a Siegel Select extended-stay property at 3070 E Texas St, Bossier City, LA (102 rooms). No separate financial disclosures found for this LLC. Parent company The Siegel Group is private with no public financials. Property-level revenue not publicly available.",
+    "employee_count_verified": 20,
+    "employee_source": "Apollo (likely for Siegel Select brand broadly)"
+  },
+  {
+    "company_name": "BLACKROCK FLOATING RATE INCOME TRUST",
+    "revenue_usd_000s": 34260,
+    "revenue_source": "SEC filing (N-CSR) / MarketScreener citing audited financial statements",
+    "revenue_confidence": "Medium",
+    "revenue_year": "2024",
+    "revenue_notes": "Closed-end fund (NYSE: BGT). 'Revenue' for this entity = total investment income from Statement of Operations. MarketScreener reports $34.26M total investment income for fiscal year ended December 31, 2024 (audited by Deloitte & Touche LLP), down -4.20% from $35.76M in 2023. SEC CIK: 0001287480. Annual N-CSR filed 2025-03-07 (Acc-no: 0001193125-25-049634). NOTE: Apollo returned BlackRock Inc. corporate revenue ($24.2B) for this domain — that is for the parent asset manager, NOT this fund.",
+    "employee_count_verified": null,
+    "employee_source": "Apollo returned 23,000 for BlackRock Inc. corporate entity — not applicable to this closed-end fund"
+  },
+  {
+    "company_name": "STANLEY HEATING AND AIR CONDITIONING, INC",
+    "revenue_usd_000s": 3763,
+    "revenue_source": "Apollo API",
+    "revenue_confidence": "Medium",
+    "revenue_year": "2024",
+    "revenue_notes": "Apollo enrichment on stanleyhvac.com returned $3,763,000 annual revenue and 10 employees. Consistent with a small HVAC contractor.",
+    "employee_count_verified": 10,
+    "employee_source": "Apollo"
+  },
+  {
+    "company_name": "JOSWIG CONSTRUCTION, INC.",
+    "revenue_usd_000s": 33199,
+    "revenue_source": "Apollo API",
+    "revenue_confidence": "Low",
+    "revenue_year": "2024",
+    "revenue_notes": "Apollo enrichment on joswigconstruction.com returned $33,199,000 annual revenue and 6 employees. However, RocketReach reports only $10.9M and the 6-employee figure seems inconsistent with $33M in construction revenue. Significant conflict between Apollo and RocketReach. Apollo figure used as primary source but Low confidence given discrepancy. D&B profile exists but figures behind paywall.",
+    "employee_count_verified": 6,
+    "employee_source": "Apollo (likely undercount — inconsistent with $33M revenue)"
+  },
+  {
+    "company_name": "CRIDER & CRIDER, INC.",
+    "revenue_usd_000s": null,
+    "revenue_source": null,
+    "revenue_confidence": "Unknown",
+    "revenue_year": null,
+    "revenue_notes": "Apollo returned no revenue (110 employees). Web search: RocketReach cites $73.3M, Manta range $100-500M, D&B profile exists but no specific figure extracted. Wide disparity between sources — cannot determine a defensible single figure. Excluded per no-estimates rule.",
+    "employee_count_verified": 110,
+    "employee_source": "Apollo"
+  },
+  {
+    "company_name": "AMERICAN FREIGHT SOLUTIONS, INC.",
+    "revenue_usd_000s": null,
+    "revenue_source": null,
+    "revenue_confidence": "Unknown",
+    "revenue_year": null,
+    "revenue_notes": "Apollo returned no revenue (12 employees). ZoomInfo / D&B shows $5.43M but the search result explicitly flagged this as a 'modelled' estimate. Per rules, modeled estimates excluded.",
+    "employee_count_verified": 12,
+    "employee_source": "Apollo"
+  },
+  {
+    "company_name": "DONNELLY CONCRETE INC.",
+    "revenue_usd_000s": null,
+    "revenue_source": null,
+    "revenue_confidence": "Unknown",
+    "revenue_year": null,
+    "revenue_notes": "Apollo returned no revenue (2 employees). RocketReach: $10.3M (2025), Manta: $7.9M — conflicting third-party estimates with no primary source. Apollo's 2-employee figure is likely a severe undercount. No primary source found.",
+    "employee_count_verified": 2,
+    "employee_source": "Apollo (likely undercount)"
+  }
+]

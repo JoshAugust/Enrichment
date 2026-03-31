@@ -1,0 +1,656 @@
+[
+  {
+    "name": "SINGLEFILE TECHNOLOGIES INC.",
+    "state": "WA",
+    "year_incorporated": "2019",
+    "nace": "5829",
+    "employees": "17",
+    "revenue_usd": 1670000,
+    "pl_before_tax": null,
+    "total_assets": null,
+    "equity": null,
+    "website": "www.singlefile.io",
+    "description": "Cloud-based filing service provider",
+    "contacts": [
+      {
+        "name": "Mr Aaron Finn",
+        "title": "President"
+      },
+      {
+        "name": "Ms Ramana Venkata",
+        "title": "Officer"
+      },
+      {
+        "name": "Mr Sean C. Flynn",
+        "title": "CGO"
+      }
+    ]
+  },
+  {
+    "name": "NEW LEAF SOFTWARE",
+    "state": "CO",
+    "year_incorporated": "1999",
+    "nace": "5829",
+    "employees": "12",
+    "revenue_usd": 1670000,
+    "pl_before_tax": null,
+    "total_assets": null,
+    "equity": null,
+    "website": "www.new-leaf.com",
+    "description": null,
+    "contacts": []
+  },
+  {
+    "name": "KINOOK SOFTWARE INC",
+    "state": "CO",
+    "year_incorporated": "2000",
+    "nace": "5829",
+    "employees": "10",
+    "revenue_usd": 1670000,
+    "pl_before_tax": null,
+    "total_assets": null,
+    "equity": null,
+    "website": "www.kinook.com",
+    "description": null,
+    "contacts": []
+  },
+  {
+    "name": "POCKETSUITE INCORPORATED",
+    "state": "VA",
+    "year_incorporated": "2022",
+    "nace": "5829",
+    "employees": "14",
+    "revenue_usd": 1670000,
+    "pl_before_tax": null,
+    "total_assets": null,
+    "equity": null,
+    "website": "pocketsuite.io",
+    "description": null,
+    "contacts": []
+  },
+  {
+    "name": "MINDSET SOFTWARE, INC.",
+    "state": "CA",
+    "year_incorporated": "1996",
+    "nace": "5829",
+    "employees": "14",
+    "revenue_usd": 1662000,
+    "pl_before_tax": null,
+    "total_assets": null,
+    "equity": null,
+    "website": "www.mindsetsoft.com",
+    "description": null,
+    "contacts": []
+  },
+  {
+    "name": "BOOYAMI INC",
+    "state": "WA",
+    "year_incorporated": "2011",
+    "nace": "5829",
+    "employees": "14",
+    "revenue_usd": 1660000,
+    "pl_before_tax": null,
+    "total_assets": null,
+    "equity": null,
+    "website": "www.bbceasy.com",
+    "description": null,
+    "contacts": []
+  },
+  {
+    "name": "PLATO SYSTEMS, INC.",
+    "state": "CA",
+    "year_incorporated": "2017",
+    "nace": "5829",
+    "employees": "16",
+    "revenue_usd": 1660000,
+    "pl_before_tax": null,
+    "total_assets": null,
+    "equity": null,
+    "website": "www.plato.systems",
+    "description": null,
+    "contacts": [
+      {
+        "name": "Mr Mohammad Amin Arbabian",
+        "title": "President"
+      },
+      {
+        "name": "Mr Mohammad Amin Arbabian",
+        "title": "No specific function"
+      }
+    ]
+  },
+  {
+    "name": "PLACER LABS INC.",
+    "state": "CA",
+    "year_incorporated": "2019",
+    "nace": "5829",
+    "employees": "320",
+    "revenue_usd": 1660000,
+    "pl_before_tax": null,
+    "total_assets": null,
+    "equity": null,
+    "website": "www.placer.ai",
+    "description": null,
+    "contacts": [
+      {
+        "name": "Mr Noam Ben Zvi",
+        "title": "Chief Executive Officer"
+      }
+    ]
+  },
+  {
+    "name": "DE NOVO SOFTWARE LLC",
+    "state": "CA",
+    "year_incorporated": "2003",
+    "nace": "5829",
+    "employees": "17",
+    "revenue_usd": 1660000,
+    "pl_before_tax": null,
+    "total_assets": null,
+    "equity": null,
+    "website": "www.denovosoftware.com",
+    "description": "Cytometry data analysis software developer",
+    "contacts": [
+      {
+        "name": "Ms Tanya Tolmachoff",
+        "title": "Director, Sales & Marketing"
+      },
+      {
+        "name": "Kaya Ghosh",
+        "title": "Technical Applications Specialist"
+      },
+      {
+        "name": "Ms Sarah Schuett",
+        "title": "Technical Application Specialist"
+      },
+      {
+        "name": "Mr Juan Vazquez",
+        "title": "Technical Applications Specialist"
+      },
+      {
+        "name": "Mr Sean Burke",
+        "title": "Senior Product Manager"
+      },
+      {
+        "name": "Mr Christopher Concannon",
+        "title": "Director of Operations"
+      },
+      {
+        "name": "Mr Michael Dixon",
+        "title": "Systems Analyst"
+      },
+      {
+        "name": "Mr Daniel Zimmerman",
+        "title": "Senior Software Architect"
+      }
+    ]
+  },
+  {
+    "name": "OBM, LLC",
+    "state": "MD",
+    "year_incorporated": "2018",
+    "nace": "5829",
+    "employees": "18",
+    "revenue_usd": 1660000,
+    "pl_before_tax": null,
+    "total_assets": null,
+    "equity": null,
+    "website": "www.ohiobusinessmachines.com",
+    "description": null,
+    "contacts": [
+      {
+        "name": "Mr Daniel Edwin Lawrence",
+        "title": "Officer"
+      }
+    ]
+  },
+  {
+    "name": "THRESHOLD.WORLD LLC",
+    "state": "PA",
+    "year_incorporated": "2019",
+    "nace": "5829",
+    "employees": "12",
+    "revenue_usd": 1660000,
+    "pl_before_tax": null,
+    "total_assets": null,
+    "equity": null,
+    "website": "www.threshold.world",
+    "description": null,
+    "contacts": []
+  },
+  {
+    "name": "MONEY TREE SOFTWARE, LTD.",
+    "state": "OR",
+    "year_incorporated": "2007",
+    "nace": "5829",
+    "employees": "12",
+    "revenue_usd": 1650000,
+    "pl_before_tax": null,
+    "total_assets": null,
+    "equity": null,
+    "website": "www.moneytree.com",
+    "description": null,
+    "contacts": [
+      {
+        "name": "Mr Kim Serra",
+        "title": "Administrative Services Manager"
+      },
+      {
+        "name": "Ms Terrie Youtsey",
+        "title": "Administrative Services Manager"
+      },
+      {
+        "name": "Mr Bryan Trammell",
+        "title": "Software"
+      }
+    ]
+  },
+  {
+    "name": "GIGASHEET, INC.",
+    "state": "VA",
+    "year_incorporated": "2020",
+    "nace": "5829",
+    "employees": "14",
+    "revenue_usd": 1650000,
+    "pl_before_tax": null,
+    "total_assets": null,
+    "equity": null,
+    "website": "gigasheet.com",
+    "description": "Spreadsheet data analytics platform operator",
+    "contacts": [
+      {
+        "name": "Mr Jason Hines",
+        "title": "Chief Executive Officer"
+      },
+      {
+        "name": "Mr Christopher Ahlberg",
+        "title": "Officer"
+      },
+      {
+        "name": "Mr Bob Mason",
+        "title": "Officer"
+      }
+    ]
+  },
+  {
+    "name": "VENTURE DEVELOPMENT LLC",
+    "state": "IN",
+    "year_incorporated": "2015",
+    "nace": "5829",
+    "employees": "25",
+    "revenue_usd": 1650000,
+    "pl_before_tax": null,
+    "total_assets": null,
+    "equity": null,
+    "website": "www.gorev.com",
+    "description": null,
+    "contacts": [
+      {
+        "name": "Mr Chad Hughes",
+        "title": "Chief Operating Officer"
+      }
+    ]
+  },
+  {
+    "name": "CHATDESK INC",
+    "state": "FL",
+    "year_incorporated": "2022",
+    "nace": "5829",
+    "employees": "13",
+    "revenue_usd": 1650000,
+    "pl_before_tax": null,
+    "total_assets": null,
+    "equity": null,
+    "website": "www.chatdesk.com",
+    "description": null,
+    "contacts": []
+  },
+  {
+    "name": "TOPANGA.IO CORP",
+    "state": "CA",
+    "year_incorporated": "2023",
+    "nace": "5829",
+    "employees": "13",
+    "revenue_usd": 1650000,
+    "pl_before_tax": null,
+    "total_assets": null,
+    "equity": null,
+    "website": "topanga.io",
+    "description": "Enterprise technology platform operator",
+    "contacts": [
+      {
+        "name": "Mr Page Soule Schult",
+        "title": "Chief Executive Officer"
+      },
+      {
+        "name": "Mr Max Olshansky",
+        "title": "Secretary"
+      },
+      {
+        "name": "Mr Adam Bailey",
+        "title": "Chief Financial Officer"
+      },
+      {
+        "name": "Mr Adam Bailey",
+        "title": "Officer"
+      }
+    ]
+  },
+  {
+    "name": "ONONE SOFTWARE, INC.",
+    "state": "OR",
+    "year_incorporated": "2021",
+    "nace": "5829",
+    "employees": "19",
+    "revenue_usd": 1650000,
+    "pl_before_tax": null,
+    "total_assets": null,
+    "equity": null,
+    "website": "www.on1.com",
+    "description": null,
+    "contacts": [
+      {
+        "name": "Mr Craig Keudell",
+        "title": "President, Chief Executive Officer"
+      },
+      {
+        "name": "Ms Kelly Keudell",
+        "title": "Secretary"
+      },
+      {
+        "name": "Ms Karen Wilcke",
+        "title": "Treasurer"
+      },
+      {
+        "name": "Mr Michael Kurtinitis",
+        "title": "Software Spelunker"
+      },
+      {
+        "name": "Mr Joshua Luben",
+        "title": "Software Engineer"
+      },
+      {
+        "name": "Minh Truong",
+        "title": "Software Engineer"
+      }
+    ]
+  },
+  {
+    "name": "TRANXITION CORP",
+    "state": "OR",
+    "year_incorporated": "2008",
+    "nace": "5829",
+    "employees": "15",
+    "revenue_usd": 1650000,
+    "pl_before_tax": null,
+    "total_assets": null,
+    "equity": null,
+    "website": "www.tranxition.com",
+    "description": null,
+    "contacts": [
+      {
+        "name": "Ms Kelly Mackin",
+        "title": "Founder and Chief Executive Officer"
+      },
+      {
+        "name": "Ms Linda Linda",
+        "title": "Marketing Project Manager"
+      },
+      {
+        "name": "Mr Sioux Fleming",
+        "title": "Consultant"
+      }
+    ]
+  },
+  {
+    "name": "ALLEGIANCE SOFTWARE INC",
+    "state": "ND",
+    "year_incorporated": "1978",
+    "nace": "5829",
+    "employees": "22",
+    "revenue_usd": 1643000,
+    "pl_before_tax": null,
+    "total_assets": null,
+    "equity": null,
+    "website": "www.allegiancesoftware.com",
+    "description": "Public and faith based broadcasters database management, storage and billing software developer",
+    "contacts": [
+      {
+        "name": "Mr Richard Aukland",
+        "title": "Chief Executive Officer"
+      },
+      {
+        "name": "Ms Sonja Jensen",
+        "title": "President"
+      },
+      {
+        "name": "Mr Mark L Jensen",
+        "title": "Secretary"
+      },
+      {
+        "name": "Mr Scott Anderson",
+        "title": "Business Development Manager"
+      },
+      {
+        "name": "Aliceyn Magelky",
+        "title": "Client Communications & Training Manager"
+      },
+      {
+        "name": "Ms Amanda Buth",
+        "title": "Software Support Specialist and Training Representative- Traffic and Membership"
+      },
+      {
+        "name": "Mr Steve Carlson",
+        "title": "Vice President Marketing"
+      },
+      {
+        "name": "Ms Sue Guttormson",
+        "title": "Marketing Manager"
+      },
+      {
+        "name": "Ms Sue Guttorn",
+        "title": "Marketing Manager"
+      },
+      {
+        "name": "Mr Shinwar Mayi",
+        "title": "Account Executive"
+      },
+      {
+        "name": "Mr Ken Mikula",
+        "title": "Major Account Executive"
+      },
+      {
+        "name": "Mr Bill Tiedeman",
+        "title": "Account Executive"
+      },
+      {
+        "name": "Mr Christopher Heilman",
+        "title": "Division Technology Support Engineer"
+      },
+      {
+        "name": "Ms Ruth Hetland",
+        "title": "Product Manager"
+      },
+      {
+        "name": "Ms Julie Bachman",
+        "title": "Director, Software Quality Assurance & Security Officer"
+      },
+      {
+        "name": "Ms Lois O'meara",
+        "title": "Software Services Manager"
+      },
+      {
+        "name": "Mr Mark Jordan",
+        "title": "Programmer"
+      },
+      {
+        "name": "Mr Christian Ridlon",
+        "title": "Software Developer"
+      },
+      {
+        "name": "Joni Janz-Peterson",
+        "title": "Support Department Supervisor"
+      }
+    ]
+  },
+  {
+    "name": "VINETI INC",
+    "state": "CA",
+    "year_incorporated": "2016",
+    "nace": "5829",
+    "employees": "100",
+    "revenue_usd": 1640000,
+    "pl_before_tax": null,
+    "total_assets": null,
+    "equity": null,
+    "website": "www.vitruvianpartners.com",
+    "description": "Online life-saving cell and gene therapies cloud-based platform operator",
+    "contacts": [
+      {
+        "name": "Ms Heidi Hagen",
+        "title": "Chief Strategy Officer and Co-Founder"
+      },
+      {
+        "name": "Mr Marc Puich",
+        "title": "Vice President of Business Development"
+      },
+      {
+        "name": "Mr Evan Henderlong",
+        "title": "Talent Acquisition Manager"
+      },
+      {
+        "name": "Ms April Lynch",
+        "title": "Senior Vice President - Product Marketing"
+      },
+      {
+        "name": "Ms Kate Quigley",
+        "title": "Director Product Marketing"
+      },
+      {
+        "name": "Ms Ann Quinlan",
+        "title": "Vice President, Customer Operations"
+      },
+      {
+        "name": "Mr Ross Stapleton-Gray",
+        "title": "Compliance and Regulatory Manager"
+      },
+      {
+        "name": "Mr Ryan Southwick",
+        "title": "Senior Engineering Manager"
+      },
+      {
+        "name": "Ms Allison Stroud",
+        "title": "Technical Support Manager"
+      },
+      {
+        "name": "Mr Stuart Altman",
+        "title": "Vice President, Product"
+      },
+      {
+        "name": "Tripp Wickersham",
+        "title": "Product Lead, Cell & Gene Therapy and Platform"
+      },
+      {
+        "name": "Ms Yvonne Yu",
+        "title": "Senior Product Manager"
+      },
+      {
+        "name": "Mr Louis Rawlins",
+        "title": "Senior Product Designer"
+      },
+      {
+        "name": "Mr Chris Dunn",
+        "title": "Software Engineer"
+      },
+      {
+        "name": "Mr Victor Lau",
+        "title": "Software Engineer"
+      }
+    ]
+  },
+  {
+    "name": "QC VERIFY LLC",
+    "state": "TN",
+    "year_incorporated": "2016",
+    "nace": "5829",
+    "employees": "100",
+    "revenue_usd": 1640000,
+    "pl_before_tax": null,
+    "total_assets": null,
+    "equity": null,
+    "website": "www.qcverify.com",
+    "description": null,
+    "contacts": []
+  },
+  {
+    "name": "TAILORED BUSINESS SYSTEMS",
+    "state": "GA",
+    "year_incorporated": "1973",
+    "nace": "5829",
+    "employees": "20",
+    "revenue_usd": 1637000,
+    "pl_before_tax": null,
+    "total_assets": null,
+    "equity": null,
+    "website": "www.tbsonline.com",
+    "description": "Software developer for the public sector",
+    "contacts": [
+      {
+        "name": "Sharen Lide",
+        "title": "(former) Sales Administrator"
+      }
+    ]
+  },
+  {
+    "name": "APPLIED EXPERT SYSTEMS INC",
+    "state": "CA",
+    "year_incorporated": "1991",
+    "nace": "5829",
+    "employees": "38",
+    "revenue_usd": 1633000,
+    "pl_before_tax": null,
+    "total_assets": null,
+    "equity": null,
+    "website": "www.aesclever.com",
+    "description": null,
+    "contacts": []
+  },
+  {
+    "name": "TRYAL, INC.",
+    "state": "NJ",
+    "year_incorporated": "2023",
+    "nace": "5829",
+    "employees": "11",
+    "revenue_usd": 1630000,
+    "pl_before_tax": null,
+    "total_assets": null,
+    "equity": null,
+    "website": "www.tryalclinical.com",
+    "description": null,
+    "contacts": [
+      {
+        "name": "Clifton Shae Wilkins",
+        "title": "President"
+      }
+    ]
+  },
+  {
+    "name": "OWAVES INC",
+    "state": "CA",
+    "year_incorporated": "2013",
+    "nace": "5829",
+    "employees": "11",
+    "revenue_usd": 1630000,
+    "pl_before_tax": null,
+    "total_assets": null,
+    "equity": null,
+    "website": "www.owaves.com",
+    "description": null,
+    "contacts": [
+      {
+        "name": "Royan Kamyar",
+        "title": "Officer"
+      }
+    ]
+  }
+]

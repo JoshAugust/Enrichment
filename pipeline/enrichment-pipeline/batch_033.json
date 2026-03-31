@@ -1,0 +1,2522 @@
+[
+  {
+    "name": "STRATACACHE, INC.",
+    "state": "OH",
+    "year_incorporated": "1997",
+    "nace": "5829",
+    "employees": "13",
+    "revenue_usd": 7920000,
+    "pl_before_tax": null,
+    "total_assets": null,
+    "equity": null,
+    "website": "www.stratacache.com",
+    "description": "A technology development company that operates as a professional systems integrator that provides comprehensive system engineering, development, deployment, support services and technology implementation services for mid to large range enterprise networks",
+    "contacts": [
+      {
+        "name": "Mr Christopher Kenneth Riegel",
+        "title": "Chief Executive Officer"
+      },
+      {
+        "name": "Mr Joel Stone",
+        "title": "Chief Executive Officer"
+      },
+      {
+        "name": "Mr Chris Mellway",
+        "title": "Managing Director"
+      },
+      {
+        "name": "Mr Kevin Joseph Mcgree",
+        "title": "Secretary"
+      },
+      {
+        "name": "Mr Kevin Joseph Mcgree",
+        "title": "Chief Financial Officer"
+      },
+      {
+        "name": "Mr Kevin Fenton",
+        "title": "Senior Director Business Development"
+      },
+      {
+        "name": "Mr Samuel Miesse",
+        "title": "Director, Sales & Business Development"
+      },
+      {
+        "name": "Mr Filip Vandenbussche",
+        "title": "Executive Vice President, International Business Development"
+      },
+      {
+        "name": "Ms Anne Pasi",
+        "title": "Executive Assistant"
+      },
+      {
+        "name": "Mr Leo Jordan",
+        "title": "Chief Financial Officer"
+      },
+      {
+        "name": "Mr Robert Williamson",
+        "title": "Controller"
+      },
+      {
+        "name": "Ms Nikki Mohler",
+        "title": "Manager, Payroll & Human Resources"
+      },
+      {
+        "name": "Ms Deborah Adkins",
+        "title": "Travel Expense Accountant"
+      },
+      {
+        "name": "Ms Veronica McCormick",
+        "title": "Inventory Cost Accountant"
+      },
+      {
+        "name": "Mr Kyle Rodgers",
+        "title": "Staff Accountant"
+      },
+      {
+        "name": "Mr Thomas F Skelley",
+        "title": "Tax Preparer"
+      },
+      {
+        "name": "Ms Kelly Testerman",
+        "title": "Accounting"
+      },
+      {
+        "name": "Ms Liz Bahm",
+        "title": "Secretary"
+      },
+      {
+        "name": "Ms Amanda Deese",
+        "title": "Human Resources Generalist"
+      },
+      {
+        "name": "Ms Tiffany Hernandez",
+        "title": "Human Resources Generalist"
+      },
+      {
+        "name": "Mr Dave Rattan",
+        "title": "Vice President of Sales, Stratacache"
+      },
+      {
+        "name": "Mr Paul Rinaldi",
+        "title": "Vice President Sales"
+      },
+      {
+        "name": "Dale Johnson",
+        "title": "Senior Director Sales"
+      },
+      {
+        "name": "Mr Jake Nickell",
+        "title": "Sales Development Representative"
+      },
+      {
+        "name": "Ms Meghan Mcdermott",
+        "title": "Marketing Director, Americas"
+      },
+      {
+        "name": "Ms Emily Naff",
+        "title": "Marketing Associate"
+      },
+      {
+        "name": "Ms Mary Wolfe",
+        "title": "Director, Marketing"
+      },
+      {
+        "name": "Mr Kent Mcfarland",
+        "title": "Director of Client Services"
+      },
+      {
+        "name": "Allyn Crowe",
+        "title": "Technical Account Lead"
+      },
+      {
+        "name": "Mr Allan Daunheimer",
+        "title": "Technical Account Manager"
+      },
+      {
+        "name": "Mr Andrew Brookshire",
+        "title": "Supervisor, Technical Support"
+      },
+      {
+        "name": "Mr Edwin Chisanga",
+        "title": "Senior Manager, Operations & Engineering"
+      },
+      {
+        "name": "Mr Damian Delaney",
+        "title": "Manager, Technical Support"
+      },
+      {
+        "name": "Ms Samantha Miller",
+        "title": "Supervisor, Technical Support"
+      },
+      {
+        "name": "Mr Daniel Shepherd",
+        "title": "Manager, Technical Support"
+      },
+      {
+        "name": "Mr Kevin Williams",
+        "title": "Technical Operations Lead"
+      },
+      {
+        "name": "Mr Gerardo Agudo",
+        "title": "Tech. Support"
+      },
+      {
+        "name": "Mr Alexander Barker",
+        "title": "Technical Support Analyst"
+      },
+      {
+        "name": "Mr Christopher Beck",
+        "title": "Technical Support Analyst"
+      },
+      {
+        "name": "Mr Corey Bernard",
+        "title": "Technical Support"
+      },
+      {
+        "name": "Mugurel Brasov",
+        "title": "Technical Support Analyst"
+      },
+      {
+        "name": "Mr Scott Broyles",
+        "title": "Technical Support Specialist"
+      },
+      {
+        "name": "Mr Ryan Burkett",
+        "title": "Technical Support Analyst"
+      },
+      {
+        "name": "Ms Mercedes Colwell",
+        "title": "Technical Support Analyst"
+      },
+      {
+        "name": "Mr Dylan Dolphin",
+        "title": "Technical Operations"
+      },
+      {
+        "name": "Mr Jason Groff",
+        "title": "Technical Support"
+      },
+      {
+        "name": "Mr Rodger Hamilton",
+        "title": "Technical Support Analyst"
+      },
+      {
+        "name": "Mr Scott Hardin",
+        "title": "Technical Support Analyst"
+      },
+      {
+        "name": "Ms Linda Heeter",
+        "title": "Technical Support Analyst"
+      },
+      {
+        "name": "Mr Brandon Howar",
+        "title": "Technical Support Analyst"
+      },
+      {
+        "name": "Mr Sam Johnson",
+        "title": "Technical Support Analyst"
+      },
+      {
+        "name": "Mr Joseph Kaukola",
+        "title": "Technical Support Analyst"
+      },
+      {
+        "name": "Mr Peter Kozlowski",
+        "title": "Technical Support Analyst"
+      },
+      {
+        "name": "Mr Jake Leonard",
+        "title": "Technical Support Analyst"
+      },
+      {
+        "name": "Mr Tim Lewis",
+        "title": "Technical Operations Specialist"
+      },
+      {
+        "name": "Mr Jonathan Mullenax",
+        "title": "Technical Support Analyst"
+      },
+      {
+        "name": "Mr Max Otworth",
+        "title": "Technical Support Analyst"
+      },
+      {
+        "name": "Mr Stewart Peters",
+        "title": "Technical Operations Specialist"
+      },
+      {
+        "name": "Mr Jordan Strine",
+        "title": "Technical Support Analyst"
+      },
+      {
+        "name": "Mr Justin Thompson",
+        "title": "Technical Operations Specialist"
+      },
+      {
+        "name": "Ms Diana Weaver",
+        "title": "Technical Support Analyst"
+      },
+      {
+        "name": "Mr Justin White",
+        "title": "Technical Support Analyst"
+      },
+      {
+        "name": "Mr Cameron Wipperman",
+        "title": "Technical Support Analyst"
+      },
+      {
+        "name": "Mr Travis Yonnie",
+        "title": "Technical Support Analyst"
+      },
+      {
+        "name": "Rj Camp",
+        "title": "Project Manager"
+      },
+      {
+        "name": "Kacy Martin",
+        "title": "Systems Engineer / Project Manager"
+      },
+      {
+        "name": "Mr Ryan Moore",
+        "title": "Information Technology Project Manager"
+      },
+      {
+        "name": "Mr Craig Weber",
+        "title": "Project Manager"
+      },
+      {
+        "name": "Mr Lou Hall",
+        "title": "Chief Operating Officer"
+      },
+      {
+        "name": "Mr Dave Fritsch",
+        "title": "Manager, Purchasing Production"
+      },
+      {
+        "name": "Elisha Larrick",
+        "title": "Production Control Coordinator"
+      },
+      {
+        "name": "Mr Ricky Quinn",
+        "title": "Information Technology Operations Manager"
+      },
+      {
+        "name": "Mr Brian Coate",
+        "title": "Network Operations Specialist"
+      },
+      {
+        "name": "Mr Kent Curtis",
+        "title": "Content Operations"
+      },
+      {
+        "name": "Mr Thomas Hines",
+        "title": "Operations Analyst"
+      },
+      {
+        "name": "Mr Taylor Johnson",
+        "title": "Network Operations Specialist"
+      },
+      {
+        "name": "Mr Christopher Tooke",
+        "title": "Operations Specialist"
+      },
+      {
+        "name": "Mr Robert Whittaker",
+        "title": "Operations Specialist"
+      },
+      {
+        "name": "Mr Anthony Digeronimo",
+        "title": "Quality Assurance Specialist"
+      },
+      {
+        "name": "Mr Jordan Nehring",
+        "title": "Quality Assurance Analyst"
+      },
+      {
+        "name": "Mr Terry Weese",
+        "title": "Director of Purchasing & Inventory Control"
+      },
+      {
+        "name": "Ms Amanda Bowden",
+        "title": "Purchasing Specialist"
+      },
+      {
+        "name": "Ms Linda Sowders",
+        "title": "Buyer"
+      },
+      {
+        "name": "Mr Jacob Bourquin",
+        "title": "Junior Systems Administrator"
+      },
+      {
+        "name": "Mr Joseph Kokinda",
+        "title": "Director, Data Science and Analytics"
+      },
+      {
+        "name": "Mr Ryan Neef",
+        "title": "System Administrator"
+      },
+      {
+        "name": "Mr Dan Poynter",
+        "title": "Windows System Administrator"
+      },
+      {
+        "name": "Mr Erik Luckoski",
+        "title": "Manager, Information Technology"
+      },
+      {
+        "name": "Mr Christopher Buchholz",
+        "title": "Web Developer"
+      },
+      {
+        "name": "Mr Sean Ford",
+        "title": "System Engineer"
+      },
+      {
+        "name": "Mr Roy Najoan",
+        "title": "Systems Engineer"
+      },
+      {
+        "name": "Mr Matthew Perito",
+        "title": "Senior Systems Engineer"
+      },
+      {
+        "name": "Mr Timothy Reynolds",
+        "title": "Systems Engineer"
+      },
+      {
+        "name": "Mr Jeffrey Shininger",
+        "title": "Systems Engineer"
+      },
+      {
+        "name": "Mr Christopher Szempruch",
+        "title": "Senior Systems Engineer"
+      },
+      {
+        "name": "Ali Youssef",
+        "title": "Senior Systems Support Engineer"
+      },
+      {
+        "name": "Mr John Rau",
+        "title": "Vice President of Support Services"
+      },
+      {
+        "name": "Mr Bobby Bullen",
+        "title": "Manager, Brand Design"
+      },
+      {
+        "name": "Mr Jon Schrier",
+        "title": "Inventory & Receiving Lead"
+      },
+      {
+        "name": "Mr Michael Davis",
+        "title": "Implementation Specialist"
+      },
+      {
+        "name": "Mr Joel Evans",
+        "title": "Noc Specialist"
+      },
+      {
+        "name": "Ms Ginny Gibson",
+        "title": "Receiving Clerk"
+      },
+      {
+        "name": "Mr Daniel Gyory",
+        "title": "Support Analyst"
+      },
+      {
+        "name": "Ms Nancy Heater",
+        "title": "Implementation Specialist"
+      },
+      {
+        "name": "Ms Sarah Hewitt",
+        "title": "Business Analyst"
+      },
+      {
+        "name": "Mr Jay Morehart",
+        "title": "Business Analyst"
+      },
+      {
+        "name": "Mr Chris Smith",
+        "title": "Support Analyst"
+      },
+      {
+        "name": "Ms Liz Watson",
+        "title": "Independent Consultant"
+      }
+    ]
+  },
+  {
+    "name": "ARCHON INFORMATION SYSTEMS LLC",
+    "state": "LA",
+    "year_incorporated": "2008",
+    "nace": "5829",
+    "employees": "58",
+    "revenue_usd": 7920000,
+    "pl_before_tax": null,
+    "total_assets": null,
+    "equity": null,
+    "website": "www.archoninfosys.com",
+    "description": "Archon Information Systems, L.L.C. was founded in 2008 and is headquartered in New Orleans, LA. The company provides tax and treasury management solutions. It offers CivicSource, a platform providing delinquent tax collection, online property tax auctions",
+    "contacts": [
+      {
+        "name": "Mr Bryan Peter Barrios",
+        "title": "Chief Executive Officer"
+      },
+      {
+        "name": "Mr William Daniel Sossamon",
+        "title": "CTO"
+      },
+      {
+        "name": "Mr Brian Danos",
+        "title": "Chief Information Officer"
+      }
+    ]
+  },
+  {
+    "name": "SHRED INDUSTRIES",
+    "state": "CA",
+    "year_incorporated": "2001",
+    "nace": "5829",
+    "employees": "12",
+    "revenue_usd": 7910000,
+    "pl_before_tax": null,
+    "total_assets": null,
+    "equity": null,
+    "website": "www.metalshred.com",
+    "description": null,
+    "contacts": []
+  },
+  {
+    "name": "BMC WEST CORP",
+    "state": "PA",
+    "year_incorporated": null,
+    "nace": "5829",
+    "employees": "11",
+    "revenue_usd": 7910000,
+    "pl_before_tax": null,
+    "total_assets": null,
+    "equity": null,
+    "website": "www.bmc.com",
+    "description": null,
+    "contacts": []
+  },
+  {
+    "name": "RIVIEWTRACKERS INC",
+    "state": "IL",
+    "year_incorporated": null,
+    "nace": "5829",
+    "employees": "14",
+    "revenue_usd": 7900000,
+    "pl_before_tax": null,
+    "total_assets": null,
+    "equity": null,
+    "website": "www.reviewtrackers.com",
+    "description": null,
+    "contacts": []
+  },
+  {
+    "name": "HUDSON SOFTWARE CORPORATION",
+    "state": "NY",
+    "year_incorporated": "1993",
+    "nace": "5829",
+    "employees": "20",
+    "revenue_usd": 7890000,
+    "pl_before_tax": null,
+    "total_assets": null,
+    "equity": null,
+    "website": "www.hudsonsoft.com",
+    "description": null,
+    "contacts": [
+      {
+        "name": "Mr Michael P Gulley",
+        "title": "Executive Officer"
+      },
+      {
+        "name": "Mr Glenn M Polin",
+        "title": "Owner; Executive Officer"
+      },
+      {
+        "name": "Mr Ralph Santoni",
+        "title": "Technical Account Manager (Project Management and Customer Support)"
+      }
+    ]
+  },
+  {
+    "name": "BARE BONES SOFTWARE, INC.",
+    "state": "MA",
+    "year_incorporated": "1994",
+    "nace": "5829",
+    "employees": "12",
+    "revenue_usd": 7890000,
+    "pl_before_tax": null,
+    "total_assets": null,
+    "equity": null,
+    "website": "www.barebones.com",
+    "description": null,
+    "contacts": [
+      {
+        "name": "Mr Richard M Siegel",
+        "title": "Founder & Chief Executive Officer; Shareholder; President"
+      },
+      {
+        "name": "Mr Patrick Woolsey",
+        "title": "Treasurer"
+      },
+      {
+        "name": "Ms Susan Rayne",
+        "title": "Clerk"
+      },
+      {
+        "name": "Ms Vicky Wong",
+        "title": "Sales and Customer Serviceagent"
+      }
+    ]
+  },
+  {
+    "name": "DATA BASED SYSTEMS INC",
+    "state": "PA",
+    "year_incorporated": "1994",
+    "nace": "5829",
+    "employees": "50",
+    "revenue_usd": 7881000,
+    "pl_before_tax": null,
+    "total_assets": null,
+    "equity": null,
+    "website": "www.dbsintl.com",
+    "description": "Engaged in computer programming activities and computer systems design services",
+    "contacts": []
+  },
+  {
+    "name": "SHORTCUT SOFTWARE COMPANY",
+    "state": "NY",
+    "year_incorporated": "2014",
+    "nace": "5829",
+    "employees": "35",
+    "revenue_usd": 7880000,
+    "pl_before_tax": null,
+    "total_assets": null,
+    "equity": null,
+    "website": "www.shortcut.com",
+    "description": null,
+    "contacts": [
+      {
+        "name": "Mr Kurt Schrader",
+        "title": "Executive Officer"
+      }
+    ]
+  },
+  {
+    "name": "ISI SOFTWARE LLC",
+    "state": "OR",
+    "year_incorporated": null,
+    "nace": "5829",
+    "employees": "12",
+    "revenue_usd": 7870000,
+    "pl_before_tax": null,
+    "total_assets": null,
+    "equity": null,
+    "website": "isisoftware.net",
+    "description": null,
+    "contacts": [
+      {
+        "name": "Mr Charles A Kallenbach",
+        "title": "Officer"
+      }
+    ]
+  },
+  {
+    "name": "BANDWIDTH.COM CLEC, LLC",
+    "state": "NC",
+    "year_incorporated": "2007",
+    "nace": "5829",
+    "employees": "14",
+    "revenue_usd": 7870000,
+    "pl_before_tax": null,
+    "total_assets": null,
+    "equity": null,
+    "website": "www.bandwidth.com",
+    "description": null,
+    "contacts": [
+      {
+        "name": "Mr David Andrew Morken",
+        "title": "Chief Executive Officer"
+      },
+      {
+        "name": "Mr Richard Brandon Asbill",
+        "title": "Secretary"
+      },
+      {
+        "name": "Ms Leah X Webb",
+        "title": "Assistant Secretary"
+      },
+      {
+        "name": "Mr Daryl E. Raiford",
+        "title": "Chief Financial Officer"
+      },
+      {
+        "name": "Mr Scott Taylor",
+        "title": "Treasurer"
+      },
+      {
+        "name": "Krupka Devin",
+        "title": "Assistant Treasurer"
+      },
+      {
+        "name": "Thornton Will",
+        "title": "Assistant Treasurer"
+      },
+      {
+        "name": "Mr Scott Mullen",
+        "title": "Chief Technology Officer"
+      },
+      {
+        "name": "Mr Anthony F Bartolo",
+        "title": "Chief Operating Officer"
+      },
+      {
+        "name": "Mr Bell John",
+        "title": "Corporate Officer"
+      },
+      {
+        "name": "Bottorff Rebecca",
+        "title": "Corporate Officer"
+      },
+      {
+        "name": "Ms Kade Ross",
+        "title": "Manager"
+      },
+      {
+        "name": "Ms Kade Ross",
+        "title": "Contact"
+      },
+      {
+        "name": "Mr Lance Condray",
+        "title": "Contact"
+      }
+    ]
+  },
+  {
+    "name": "SECURBORATION, INC.",
+    "state": "FL",
+    "year_incorporated": "2001",
+    "nace": "5829",
+    "employees": "20",
+    "revenue_usd": 7850000,
+    "pl_before_tax": null,
+    "total_assets": null,
+    "equity": null,
+    "website": "www.securboration.com",
+    "description": "Software development services",
+    "contacts": [
+      {
+        "name": "Mr Lee P Krause",
+        "title": "President"
+      },
+      {
+        "name": "Mr Lee P Krause",
+        "title": "O/D"
+      },
+      {
+        "name": "Ms Lynn A Lehman",
+        "title": "Chief Executive Officer"
+      },
+      {
+        "name": "Mr Bruce Mcqueary",
+        "title": "President"
+      },
+      {
+        "name": "Mr Bruce Mcqueary",
+        "title": "Owner"
+      },
+      {
+        "name": "Mr Sean Stirtzinger",
+        "title": "Financial Administrator"
+      },
+      {
+        "name": "Mr Dan Curtis",
+        "title": "Vice President, Engineering"
+      },
+      {
+        "name": "Mr Tod Hagan",
+        "title": "Vice President, Research and Development"
+      },
+      {
+        "name": "Mr Santiago Ortega",
+        "title": "Technical Specialist"
+      },
+      {
+        "name": "Mr Arlan Sands",
+        "title": "Engineering - Software"
+      },
+      {
+        "name": "Mr James Schneider",
+        "title": "Engineering - Software-Iii"
+      },
+      {
+        "name": "Mr Keith Shapiro",
+        "title": "Senior Engineer"
+      },
+      {
+        "name": "Mr Sean Thornton",
+        "title": "Engineering - Software"
+      },
+      {
+        "name": "Mr Scott White JR",
+        "title": "Engineering - Software-Ii"
+      },
+      {
+        "name": "Mr Michael O'Leary",
+        "title": "Director Software Solutions"
+      },
+      {
+        "name": "Mr Jamie Crutchley",
+        "title": "Senior Program Manager"
+      },
+      {
+        "name": "Mr Rob Asfar",
+        "title": "Senior Software Engineer"
+      },
+      {
+        "name": "Mr Jacob Byers",
+        "title": "Software Engineer"
+      },
+      {
+        "name": "Mr Jon Spelbring",
+        "title": "Software Engineer III"
+      },
+      {
+        "name": "Mr Jacob Staples",
+        "title": "Software Engineer"
+      },
+      {
+        "name": "Mr Douglas Stroer",
+        "title": "Software Developer"
+      },
+      {
+        "name": "Mr Brian Warhover",
+        "title": "Software Engineer"
+      },
+      {
+        "name": "Mr Clayton Crenshaw",
+        "title": "Java Developer"
+      }
+    ]
+  },
+  {
+    "name": "PERFECT CORP.",
+    "state": "CA",
+    "year_incorporated": "2015",
+    "nace": "5829",
+    "employees": "30",
+    "revenue_usd": 7850000,
+    "pl_before_tax": null,
+    "total_assets": null,
+    "equity": null,
+    "website": "www.perfectcorp.com",
+    "description": null,
+    "contacts": [
+      {
+        "name": "Ms Alice H. Chang",
+        "title": "Chief Executive Officer"
+      },
+      {
+        "name": "Mr Chris Chang",
+        "title": "Secretary"
+      },
+      {
+        "name": "Ms Iris Chen",
+        "title": "Chief Financial Officer"
+      }
+    ]
+  },
+  {
+    "name": "AVTRAK LLC",
+    "state": "CO",
+    "year_incorporated": "1996",
+    "nace": "5829",
+    "employees": "20",
+    "revenue_usd": 7850000,
+    "pl_before_tax": null,
+    "total_assets": null,
+    "equity": null,
+    "website": "www.avtrak.com",
+    "description": "Sales Office",
+    "contacts": []
+  },
+  {
+    "name": "SHIPPO",
+    "state": "CA",
+    "year_incorporated": "2021",
+    "nace": "5829",
+    "employees": "11",
+    "revenue_usd": 7850000,
+    "pl_before_tax": null,
+    "total_assets": null,
+    "equity": null,
+    "website": "goshippo.com/home-b",
+    "description": null,
+    "contacts": []
+  },
+  {
+    "name": "MODULARIS INC",
+    "state": "IL",
+    "year_incorporated": "2014",
+    "nace": "5829",
+    "employees": "11",
+    "revenue_usd": 7840000,
+    "pl_before_tax": null,
+    "total_assets": null,
+    "equity": null,
+    "website": "www.modularis.com",
+    "description": null,
+    "contacts": [
+      {
+        "name": "Mr Nick Mirchef",
+        "title": "President"
+      },
+      {
+        "name": "Mr Olivier Gasson",
+        "title": "Owner"
+      },
+      {
+        "name": "A.J Singh",
+        "title": "Owner"
+      },
+      {
+        "name": "Jaime Marcial",
+        "title": "Director of Software Architecture"
+      }
+    ]
+  },
+  {
+    "name": "ASI",
+    "state": "PA",
+    "year_incorporated": "1962",
+    "nace": "5829",
+    "employees": "13",
+    "revenue_usd": 7840000,
+    "pl_before_tax": null,
+    "total_assets": null,
+    "equity": null,
+    "website": "www.asicentral.com",
+    "description": "Operates as a media, marketing and education organization serving the promotional products industry",
+    "contacts": []
+  },
+  {
+    "name": "R SQUARE OF AMERICA INC",
+    "state": "NJ",
+    "year_incorporated": "2009",
+    "nace": "5829",
+    "employees": "150",
+    "revenue_usd": 7830000,
+    "pl_before_tax": null,
+    "total_assets": null,
+    "equity": null,
+    "website": "r-square.com",
+    "description": "Engaged in the IT staffing services",
+    "contacts": [
+      {
+        "name": "Ms Heather Mapps",
+        "title": "Manager, Finance"
+      }
+    ]
+  },
+  {
+    "name": "A2Z INC. MARYLAND",
+    "state": "MD",
+    "year_incorporated": "2015",
+    "nace": "5829",
+    "employees": "54",
+    "revenue_usd": 7820000,
+    "pl_before_tax": null,
+    "total_assets": null,
+    "equity": null,
+    "website": "www.a2zinc.net",
+    "description": "a2z, Inc. is headquartered in Columbia, MD. It is a provider of event management and marketing software solutions. The company offers exposition and conference management, and networking and lead management solutions.",
+    "contacts": [
+      {
+        "name": "Mr Rajiv Jain",
+        "title": "President & Chief Executive Officer"
+      },
+      {
+        "name": "Jain Hima",
+        "title": "Vice President"
+      },
+      {
+        "name": "Ms Wendy Woods",
+        "title": "Director, People Services"
+      },
+      {
+        "name": "Mr Jeff Bond",
+        "title": "Director, National Sales"
+      },
+      {
+        "name": "Mr Christopher Garner",
+        "title": "Director of Sales"
+      },
+      {
+        "name": "Ms Beth Hays",
+        "title": "Director of National Sales"
+      },
+      {
+        "name": "Nishita Jain",
+        "title": "Senior Director of Digital Marketing"
+      },
+      {
+        "name": "Ms Linda Gibson",
+        "title": "Digital Marketing Coordinator"
+      },
+      {
+        "name": "Mr Bill Mcglade",
+        "title": "Director of Account Management"
+      },
+      {
+        "name": "Mr Leslie Brodsky",
+        "title": "Account Manager"
+      },
+      {
+        "name": "Ms Laura Goodling",
+        "title": "Account Manager"
+      },
+      {
+        "name": "Ms Michelle Harman",
+        "title": "Senior Account Manager"
+      },
+      {
+        "name": "Ms Anna Ferris",
+        "title": "Project Manager"
+      },
+      {
+        "name": "Mr Jonathan Kemper",
+        "title": "Project Manager"
+      },
+      {
+        "name": "Ms Felecia Madison",
+        "title": "Associate Project Manager"
+      },
+      {
+        "name": "Ms Donna Munsie",
+        "title": "Project Manager"
+      },
+      {
+        "name": "Ms Jill Nalepa",
+        "title": "Associate Project Manager"
+      },
+      {
+        "name": "Ms Liana Olear",
+        "title": "Associate Project Manager"
+      },
+      {
+        "name": "Ms Tammy Mcglade",
+        "title": "Assistant Project Manager"
+      },
+      {
+        "name": "Ms Angela Carr",
+        "title": "Chief Operating Officer"
+      },
+      {
+        "name": "Mr Corey Hoopes",
+        "title": "Warehouse Specialist"
+      },
+      {
+        "name": "Mr Paul Hunkeler",
+        "title": "Quality Assurance Automation Engineer"
+      },
+      {
+        "name": "Mr Kalpesh Raval",
+        "title": "Information Technology Manager"
+      },
+      {
+        "name": "Mr Gary Decoteau",
+        "title": "Senior Software Engineer"
+      },
+      {
+        "name": "Mr Jesse Futter",
+        "title": "Ux / Ui Designer"
+      },
+      {
+        "name": "Ms Rachel Kaelber",
+        "title": "Server"
+      }
+    ]
+  },
+  {
+    "name": "SHADOWSOFT INCORPORATED",
+    "state": "TX",
+    "year_incorporated": "1987",
+    "nace": "5829",
+    "employees": "24",
+    "revenue_usd": 7810000,
+    "pl_before_tax": null,
+    "total_assets": null,
+    "equity": null,
+    "website": "www.shadowsoft.com",
+    "description": null,
+    "contacts": [
+      {
+        "name": "Mr Dale Bruce Stringfellow JR",
+        "title": "Chief Executive Officer"
+      },
+      {
+        "name": "Mr Dale Bruce Stringfellow JR",
+        "title": "Cp"
+      },
+      {
+        "name": "Mr Dale Bruce Stringfellow JR",
+        "title": "Officer"
+      },
+      {
+        "name": "Mr Dale Bruce Stringfellow JR",
+        "title": "No specific function"
+      },
+      {
+        "name": "Ms Cara Hill",
+        "title": "Project Manager"
+      }
+    ]
+  },
+  {
+    "name": "TEKBLU, INC.",
+    "state": "CA",
+    "year_incorporated": "2008",
+    "nace": "5829",
+    "employees": "10",
+    "revenue_usd": 7810000,
+    "pl_before_tax": null,
+    "total_assets": null,
+    "equity": null,
+    "website": "www.tekblu.com",
+    "description": null,
+    "contacts": [
+      {
+        "name": "Mr Srinivasa R Yetukuri",
+        "title": "President"
+      }
+    ]
+  },
+  {
+    "name": "ADOBE INC",
+    "state": "UT",
+    "year_incorporated": "2019",
+    "nace": "5829",
+    "employees": "13",
+    "revenue_usd": 7810000,
+    "pl_before_tax": null,
+    "total_assets": null,
+    "equity": null,
+    "website": "www.adobe.com",
+    "description": null,
+    "contacts": [
+      {
+        "name": "Ms Lauren Johnson",
+        "title": "Adobe Experience Cloud Customer Advisory Board Program Manager; Digital Marketing Customer Advisory Board Program Manager"
+      },
+      {
+        "name": "Kelsi Hall",
+        "title": "Manager Territory Account & Executive"
+      },
+      {
+        "name": "Daewoong Lee",
+        "title": "Owner"
+      },
+      {
+        "name": "Mr Bryan Ostendorf",
+        "title": "Product Reporting & Analytics Owner"
+      },
+      {
+        "name": "Mr Bradley Rencher",
+        "title": "Executive Vice President & General Manager, Digital Marketing Business Unit"
+      },
+      {
+        "name": "Ms Shayla Barber",
+        "title": "Manager Event Marketing Strategy"
+      },
+      {
+        "name": "Mr Jeff Bare",
+        "title": "Strategic Account Manager / Enterprise Account Manager"
+      },
+      {
+        "name": "Mr Jon Halladay",
+        "title": "Strategic Retail & CPG Accounts Development, Digital Marketing"
+      },
+      {
+        "name": "Mr Robert Haws",
+        "title": "Marketing Strategy and Operations Manager"
+      },
+      {
+        "name": "Mr Bradley Hoke",
+        "title": "Industry Strategy and Marketing Manager"
+      },
+      {
+        "name": "Mr Reza Jalili",
+        "title": "Head of Architecture Strategy, Adobe Marketing Cloud"
+      },
+      {
+        "name": "Ms Esther Sumner",
+        "title": "Senior Product Manager, DX Services Strategy"
+      },
+      {
+        "name": "Mr Thomas Swanson",
+        "title": "Head of Industry Strategy & Marketing, Health & Life Sciences"
+      },
+      {
+        "name": "Mr Bryson Webster",
+        "title": "Business Development Manager - Adobe Marketing Cloud"
+      },
+      {
+        "name": "Mr Roger Woods",
+        "title": "Director, Mobile Product & Strategy"
+      },
+      {
+        "name": "Mr Tyson Young",
+        "title": "Senior Strategic Sourcing Specialist - Technology"
+      },
+      {
+        "name": "Mr Tyson Young",
+        "title": "Category Manager - Technology / Software"
+      },
+      {
+        "name": "Ms Olivia Hansen",
+        "title": "Internal Auditor"
+      },
+      {
+        "name": "Ms Jessie K Stewart",
+        "title": "Executive Assistant"
+      },
+      {
+        "name": "Mr Jason Gregory Dunn",
+        "title": "Senior Director Finance & Digital Experience"
+      },
+      {
+        "name": "Mr Alan Skyler Raymond",
+        "title": "Senior Enterprise Account Executive - Named Accounts Analytics & Optimization"
+      },
+      {
+        "name": "Mr Jen Downing",
+        "title": "Finance Manager"
+      },
+      {
+        "name": "Mr Mark Pitsenbarger",
+        "title": "Senior Manager Finance"
+      },
+      {
+        "name": "Mr Matt Radmall",
+        "title": "Revenue Accounting Manager"
+      },
+      {
+        "name": "Mr Danny Wheeler",
+        "title": "Senior Credit Manager, North America"
+      },
+      {
+        "name": "Mr Andres Aleson",
+        "title": "Financial Analyst Intern"
+      },
+      {
+        "name": "Christy Braithwaite",
+        "title": "Credit and Collections Analyst"
+      },
+      {
+        "name": "Mr Mike Chambers",
+        "title": "Information Technology Asset Management Analyst"
+      },
+      {
+        "name": "Ms Michelle Chambers",
+        "title": "Information Technology Asset Management Analyst"
+      },
+      {
+        "name": "Ms Amariah Diamse",
+        "title": "Financial Analyst At Adobe"
+      },
+      {
+        "name": "Mr Scott Hollingshead",
+        "title": "Financial Analyst"
+      },
+      {
+        "name": "Mr Beci Hunting",
+        "title": "Credit & Collections Specialist"
+      },
+      {
+        "name": "Mr Luke Nicholls",
+        "title": "Financial Analyst"
+      },
+      {
+        "name": "Ms Cindy Walker",
+        "title": "Accounts Payable"
+      },
+      {
+        "name": "Mr Josh Butikofer",
+        "title": "Senior Software Architect and Team Lead"
+      },
+      {
+        "name": "Mr Nate Ross",
+        "title": "Team Lead, Senior Software Engineer"
+      },
+      {
+        "name": "Mr Mikel Xabier Chertudi",
+        "title": "Head Digital Marketing Growth & Inside Sales"
+      },
+      {
+        "name": "Mr Jason Asay",
+        "title": "Enterprise Inside Sales Account Executive - Retail Vertical"
+      },
+      {
+        "name": "Mr Jason Griffin",
+        "title": "Senior Account Executive, Enterprise Sales, Digital Marketing @ Adobe Systems, Adobe Media Optimizer"
+      },
+      {
+        "name": "Jd Price",
+        "title": "Inside Sales Executive"
+      },
+      {
+        "name": "Mr Travis Anderson",
+        "title": "Manager Sales Compensation"
+      },
+      {
+        "name": "Ms Rebecca Langford",
+        "title": "Senior Manager Inside Sales - Americas Consumer & Smb"
+      },
+      {
+        "name": "Mr Kyle Lewis",
+        "title": "Manager - Inside Sales"
+      },
+      {
+        "name": "Mr Jason Edwin Neubert",
+        "title": "Manager North America Inside Sales - AEM"
+      },
+      {
+        "name": "Ms Laura Pazourek",
+        "title": "Sales Operations Manager"
+      },
+      {
+        "name": "Mr Rob Williams",
+        "title": "Sales Operations Manager"
+      },
+      {
+        "name": "Mr Cameron Hall",
+        "title": "Inside Sales - Central US - Adobe Ad-Technology"
+      },
+      {
+        "name": "Mr Blake Sands",
+        "title": "Assistant Vice President Enterprise Sales West"
+      },
+      {
+        "name": "Mr Tyler Briggs",
+        "title": "Group Manager, Platform and Partner Technology Marketing"
+      },
+      {
+        "name": "Mr Jeff Allen",
+        "title": "Senior Director, Product Marketing Adobe Analytics"
+      },
+      {
+        "name": "Mr Cory Edwards",
+        "title": "Director, Social Media Center of Excellence"
+      },
+      {
+        "name": "Mr Stephen Hammond",
+        "title": "Senior Director, Marketing Cloud Product Management & Technical Marketing"
+      },
+      {
+        "name": "Mr Adam Justis",
+        "title": "Director Product Marketing - Adobe Marketing Cloud"
+      },
+      {
+        "name": "Mr Michael Allen",
+        "title": "Account Manager, Adobe Media and Advertising Solutions at Adobe"
+      },
+      {
+        "name": "Ms Betsy Broadwater",
+        "title": "Studio Manager - Marketing Cloud"
+      },
+      {
+        "name": "Mr David Clegg",
+        "title": "Manager, NA Digital Marketing Deal Desk"
+      },
+      {
+        "name": "Mr Lance Dobson",
+        "title": "Senior Account Manager - Adobe Ad Cloud Search and Display Advertising"
+      },
+      {
+        "name": "Ms Kaisha Gore",
+        "title": "Enterprise Marketing Content Strategist"
+      },
+      {
+        "name": "Lonnie Hastings",
+        "title": "Senior Deal Desk Lead - Adobe Digital Marketing"
+      },
+      {
+        "name": "Mr Scott Leslie",
+        "title": "Senior Manager, Enterprise Marketing Automation"
+      },
+      {
+        "name": "Mr Michael Neider",
+        "title": "Senior Marketing Operations Manager"
+      },
+      {
+        "name": "Ms Jennie Vitello-Tucker",
+        "title": "Marketing Automation Process Manager"
+      },
+      {
+        "name": "Mr Kari Woolf",
+        "title": "Senior Marketing Manager"
+      },
+      {
+        "name": "Mr Jonathan Bush",
+        "title": "Marketing and Customer Analytics"
+      },
+      {
+        "name": "Mr Lamont Crook",
+        "title": "Solutions Consultant, Marketing Cloud"
+      },
+      {
+        "name": "Michele Denver",
+        "title": "Deal Desk Analyst, Digital Media"
+      },
+      {
+        "name": "Mr David Humpherys",
+        "title": "Data Evangelist, Adobe Marketing Cloud"
+      },
+      {
+        "name": "Mr Randy Krudop",
+        "title": "Information Technology Communications Engineer"
+      },
+      {
+        "name": "Mr Adam Lloyd",
+        "title": "Social Media Specialist & Data Analyst"
+      },
+      {
+        "name": "Mr Taylor Matherly",
+        "title": "Deal Desk Analyst - Digital Marketing"
+      },
+      {
+        "name": "Mr Doug Mumford",
+        "title": "Digital Marketing Consultant"
+      },
+      {
+        "name": "Mr Beau Christensen",
+        "title": "Enterprise Account Executive"
+      },
+      {
+        "name": "Ms Kellie Hall",
+        "title": "Territory Account Manager - Account Executive"
+      },
+      {
+        "name": "Mr Cory Ivins",
+        "title": "Enterprise Account Executive (T&h)"
+      },
+      {
+        "name": "Mr Todd Lamoreaux",
+        "title": "Senior Enterprise Account Executive"
+      },
+      {
+        "name": "Mr Brandon Mears",
+        "title": "Account Manager Territory & Account Executive"
+      },
+      {
+        "name": "Ms Skylar Wilson",
+        "title": "Senior Enterprise Account Executive"
+      },
+      {
+        "name": "Ms Liz Arias",
+        "title": "Manager, Customer Success - Education"
+      },
+      {
+        "name": "Lee Barbosa",
+        "title": "Account Development Manager - Brazil"
+      },
+      {
+        "name": "Mr Bradley Brinton",
+        "title": "Account Development Manager"
+      },
+      {
+        "name": "Mr Brian Bunker",
+        "title": "Manager Account Development"
+      },
+      {
+        "name": "Mr Francois Coquemont",
+        "title": "Technical Account Manager"
+      },
+      {
+        "name": "Mr Shane Maggio",
+        "title": "Account Development Manager"
+      },
+      {
+        "name": "Mr Aaron Miller",
+        "title": "Account Manager"
+      },
+      {
+        "name": "Mr Robert Myers",
+        "title": "Manager, Account Management"
+      },
+      {
+        "name": "Mr Sean Pack",
+        "title": "Enterprise Account Manager"
+      },
+      {
+        "name": "Mr Scott Paul Sabey",
+        "title": "Account Development Manager"
+      },
+      {
+        "name": "Mr Aubrey Sauer",
+        "title": "Enterprise Client Success Manager"
+      },
+      {
+        "name": "Mr Mike Watson",
+        "title": "Account Development Manager"
+      },
+      {
+        "name": "Mr Kevin Wilson",
+        "title": "Senior Manager of Customer Experience Optimization"
+      },
+      {
+        "name": "Mr Adam Wray",
+        "title": "Manager Account Development"
+      },
+      {
+        "name": "Mr Patrick Kynaston",
+        "title": "Customer Success Engineer"
+      },
+      {
+        "name": "Mr Jordan Sheen",
+        "title": "Customer Success Engineer - Adobe Managed Services"
+      },
+      {
+        "name": "Mr Kenny Scott",
+        "title": "Senior Manager of Technology Risk, Governance & Compliance"
+      },
+      {
+        "name": "Mr Samuel Buck",
+        "title": "Information Technology Risk Analyst"
+      },
+      {
+        "name": "Mr Luke Hallett",
+        "title": "Developer, License & Compliance Operations"
+      },
+      {
+        "name": "Mr Luke Hallett",
+        "title": "Senior Data Engineer"
+      },
+      {
+        "name": "Mr Scott Hunt",
+        "title": "Principal Scientist"
+      },
+      {
+        "name": "Mr Brandon Pulsipher",
+        "title": "Vice President, Product Technical Operations"
+      },
+      {
+        "name": "Mr Scott Brown",
+        "title": "Director of Engineering"
+      },
+      {
+        "name": "Ms Jessica Maughan",
+        "title": "Senior Director Shared Platform Services & Technical Operations"
+      },
+      {
+        "name": "Mr Brandon Tatton",
+        "title": "Director - Data Engineering"
+      },
+      {
+        "name": "Mr Nathan Bates",
+        "title": "Lead Security Engineer"
+      },
+      {
+        "name": "Mr Jared Bellows",
+        "title": "Senior Engineering Manager"
+      },
+      {
+        "name": "Mr Jared Bellows",
+        "title": "Business Intelligence Analyst"
+      },
+      {
+        "name": "Mr John Clawson",
+        "title": "Technical Team Lead, Managed Services"
+      },
+      {
+        "name": "Mr Blake Frei",
+        "title": "Manager Technical Publications Adobe Systems Incorporated"
+      },
+      {
+        "name": "Mr Will Johnston",
+        "title": "Manager Desktop Engineering"
+      },
+      {
+        "name": "Mr Spencer Kellis",
+        "title": "Solution Architect / Technical Lead"
+      },
+      {
+        "name": "Mr Matt Kohl",
+        "title": "Senior Manager Technical Support"
+      },
+      {
+        "name": "Mr Dave Meehan",
+        "title": "Technical Program Manager"
+      },
+      {
+        "name": "Maddy Moss",
+        "title": "Manager of Engineering Services"
+      },
+      {
+        "name": "Mr Matt Moss",
+        "title": "Senior Manager of Engineering Services"
+      },
+      {
+        "name": "Ms Dalia Nackos",
+        "title": "Manager, Engineering Program Management"
+      },
+      {
+        "name": "Mr Brandon Pack",
+        "title": "Senior Manager, Software Engineering"
+      },
+      {
+        "name": "Mr Hunter Peterson",
+        "title": "Engineering Manager"
+      },
+      {
+        "name": "Mr Donald Porter",
+        "title": "Senior Manager, Network Engineering"
+      },
+      {
+        "name": "Mr Michael Potter",
+        "title": "Technical Duty Manager"
+      },
+      {
+        "name": "Mr Jeffrey Ross",
+        "title": "Team Lead - Quality Engineering"
+      },
+      {
+        "name": "Ms Liz Saling",
+        "title": "Manager, Cloud Engineering"
+      },
+      {
+        "name": "Mr Kevin Smith",
+        "title": "Engineering Manager"
+      },
+      {
+        "name": "Mr Scott Tomko",
+        "title": "Manager, Software Engineering"
+      },
+      {
+        "name": "Mr Everett Valdez",
+        "title": "Technical Solutions Manager"
+      },
+      {
+        "name": "Mr Brian Watson",
+        "title": "Senior Manager, Software Engineering"
+      },
+      {
+        "name": "Mr Brian Watson",
+        "title": "Seo Analyst"
+      },
+      {
+        "name": "Mr Nico Alba",
+        "title": "Technical Writer"
+      },
+      {
+        "name": "Mr Akash Chaudhary",
+        "title": "Engineering Consultant"
+      },
+      {
+        "name": "Mr Christer Edwards",
+        "title": "Computer Scientist, Software Development"
+      },
+      {
+        "name": "Mr Chelcy Ellington",
+        "title": "Developer, Quality Engineering"
+      },
+      {
+        "name": "Mr Peter Hartung",
+        "title": "Technical Support Consultant"
+      },
+      {
+        "name": "Mr Rahul Krishna",
+        "title": "Consultant - Engineering Services"
+      },
+      {
+        "name": "Mr Michael Luther",
+        "title": "Senior Quality Engineer Developer"
+      },
+      {
+        "name": "Jedediah Madsen",
+        "title": "Adobe Analytics (SiteCatalyst) Technical Consultant"
+      },
+      {
+        "name": "Mr Kenneth Mckell",
+        "title": "Senior Technical Consultant"
+      },
+      {
+        "name": "Mr Varun Mehra",
+        "title": "Senior Technical Support Engineer"
+      },
+      {
+        "name": "Mr Varun Mehrotra",
+        "title": "Senior Technical Support Engineer"
+      },
+      {
+        "name": "Kerry Nelson",
+        "title": "Technical Consultant - Core Services (I.C.E Team)"
+      },
+      {
+        "name": "Mr Eric Nielson",
+        "title": "Engineering Services Consultant"
+      },
+      {
+        "name": "Mr Thor Pili",
+        "title": "Technical Consultant"
+      },
+      {
+        "name": "Mr Frans Rooyen",
+        "title": "Infrastructure Architect"
+      },
+      {
+        "name": "Mr Jerome South",
+        "title": "Corporate Technical Trainer"
+      },
+      {
+        "name": "Mr Andrew Stewart",
+        "title": "Product Innovation and Optimization - MBA Intern"
+      },
+      {
+        "name": "Mr Landon Stott",
+        "title": "Technical Consultant"
+      },
+      {
+        "name": "Sarathkrishna Swaminathan",
+        "title": "Data Scientist Intern"
+      },
+      {
+        "name": "Mr Mark Talbot",
+        "title": "Senior Technical Writer"
+      },
+      {
+        "name": "Mr Russell Whitchurch",
+        "title": "Technical Writer"
+      },
+      {
+        "name": "Mr Joseph Jones",
+        "title": "Principal Product Manager"
+      },
+      {
+        "name": "Mr Trevor Paulsen",
+        "title": "Principal Product Manager"
+      },
+      {
+        "name": "Mr Trevor Paulsen",
+        "title": "Product Manager"
+      },
+      {
+        "name": "Mr Bret Gundersen",
+        "title": "Director Product Management"
+      },
+      {
+        "name": "Ms Erika Barber",
+        "title": "Group Manager, Product Operations - Experience Cloud"
+      },
+      {
+        "name": "Mr Brent Chiu-Watson",
+        "title": "Senior Product Manager"
+      },
+      {
+        "name": "Mr Jeff Grubbs",
+        "title": "Senior Manager, Global Critical Situations Team"
+      },
+      {
+        "name": "Ty Lagerberg",
+        "title": "Site Security Manager"
+      },
+      {
+        "name": "Mr Chris Lavoie",
+        "title": "Global Event Strategist / Event Planner / Meeting Planner"
+      },
+      {
+        "name": "Mr Travis Sabin",
+        "title": "Product Manager, Adobe Analytics--Mobile Applications"
+      },
+      {
+        "name": "Ms Elizabeth A. Sexton",
+        "title": "Product Manager - Privacy"
+      },
+      {
+        "name": "Mr Aaron Shields",
+        "title": "Senior Product Manager"
+      },
+      {
+        "name": "Mr Scott Smith",
+        "title": "Senior Product Manager"
+      },
+      {
+        "name": "Mr James Tall",
+        "title": "AI/ML Product Manager"
+      },
+      {
+        "name": "Mr Jeremy Wold",
+        "title": "Group Product Manager, Adobe.com"
+      },
+      {
+        "name": "Mr Jared Bradfield",
+        "title": "Global Site Operations Engineer"
+      },
+      {
+        "name": "Mr Patrick Hyde",
+        "title": "Site Reliability Engineer"
+      },
+      {
+        "name": "Ms Amber Lamb",
+        "title": "Regional Space Planner"
+      },
+      {
+        "name": "Mr Chris Lovato",
+        "title": "Senior Site Reliability & Dev Operations Engineer"
+      },
+      {
+        "name": "Mr Blaine Nilsson",
+        "title": "Enterprise Product Specialist"
+      },
+      {
+        "name": "Ms Cindy Sanders",
+        "title": "Director Operations"
+      },
+      {
+        "name": "Mr Mark Brown",
+        "title": "Manager, Revenue Operations Center"
+      },
+      {
+        "name": "Mr James Dickey",
+        "title": "Senior Service Operations Manager"
+      },
+      {
+        "name": "Mr Steve Eldredge",
+        "title": "Senior Manager - Managed Services Operations"
+      },
+      {
+        "name": "Mr Ryan Engh",
+        "title": "Senior Manager, Cloud Operations"
+      },
+      {
+        "name": "Ms Julie Greenspoon",
+        "title": "Group Manager, Business Operations"
+      },
+      {
+        "name": "Ms Meredith Milks",
+        "title": "Senior Manager, Revenue Operations Center"
+      },
+      {
+        "name": "Mr James Long",
+        "title": "Data Platform Operations Engineer"
+      },
+      {
+        "name": "Mr Justin Staheli",
+        "title": "Revenue Manger, WW Royalty Operations"
+      },
+      {
+        "name": "Mr Tim Wilkins",
+        "title": "Operations Engineer"
+      },
+      {
+        "name": "Mr Jared Madsen",
+        "title": "Quality Engineer"
+      },
+      {
+        "name": "Mr Ron Thomas",
+        "title": "Senior Quality Engineer"
+      },
+      {
+        "name": "Ms Michelle Xing",
+        "title": "Senior Quality Engineer"
+      },
+      {
+        "name": "Mr Adam Lancaster",
+        "title": "Senior Manager Global Procurement"
+      },
+      {
+        "name": "Mr Aaron Oyler",
+        "title": "Senior Manager, Global Procurement"
+      },
+      {
+        "name": "Mr Joshua Felt",
+        "title": "Senior Sourcing Specialist, Global Procurement"
+      },
+      {
+        "name": "Mr Jonathan Francom",
+        "title": "Vice President Global Workplace Solutions"
+      },
+      {
+        "name": "Mr Keith Hester",
+        "title": "Principal Program Manager"
+      },
+      {
+        "name": "Mr Bill Ingram",
+        "title": "Vice President, Adobe Analytics Cloud"
+      },
+      {
+        "name": "Mr Tyler Riggs",
+        "title": "Head of Solutions Consulting, Adobe Canada"
+      },
+      {
+        "name": "Mr Brian Bedford",
+        "title": "Linux System Administrator"
+      },
+      {
+        "name": "Mr Matthew Kimball",
+        "title": "NOC - Systems Administrator 1"
+      },
+      {
+        "name": "Mr Josee Murray",
+        "title": "Systems Administrator"
+      },
+      {
+        "name": "Mr Matt Rogers",
+        "title": "Systems Administrator"
+      },
+      {
+        "name": "Mr Mathew Ross",
+        "title": "Senior System Administrator"
+      },
+      {
+        "name": "Mr Kris Simmons",
+        "title": "System Administrator Monitoring"
+      },
+      {
+        "name": "Mr John Smith",
+        "title": "Data Storage Administrator"
+      },
+      {
+        "name": "Mr Evan Wiggins",
+        "title": "Senior Director Global Employee Solutions"
+      },
+      {
+        "name": "Mr Robb Anderson",
+        "title": "Manager of Data Center Systems"
+      },
+      {
+        "name": "Mr Eric Aune",
+        "title": "Manager IT Identity & Access Management"
+      },
+      {
+        "name": "Mr Russ Babcock",
+        "title": "Senior Program Manager"
+      },
+      {
+        "name": "Mr Adam Black",
+        "title": "Senior Program Manager - Capacity Management"
+      },
+      {
+        "name": "Mr Blake Entrekin",
+        "title": "Manager, Information Security"
+      },
+      {
+        "name": "Andrea Hall",
+        "title": "Senior Program Manager"
+      },
+      {
+        "name": "Mr Carl Hancock",
+        "title": "Website Optimization Manager"
+      },
+      {
+        "name": "Mr Michael Isom",
+        "title": "Senior Program Manager"
+      },
+      {
+        "name": "Mr Douglas Carl Moller",
+        "title": "Senior Program Manager"
+      },
+      {
+        "name": "Mr Kevin Rhodes",
+        "title": "Group Program Manager"
+      },
+      {
+        "name": "Ms Lori Smith",
+        "title": "Senior Program Manager"
+      },
+      {
+        "name": "Mr Tom Ammon",
+        "title": "Senior Network Engineer"
+      },
+      {
+        "name": "Mr Ryan Baarz",
+        "title": "Software Engineer"
+      },
+      {
+        "name": "Mr Ben Boger",
+        "title": "Software Engineer"
+      },
+      {
+        "name": "Mr Jared Butterfield",
+        "title": "Senior Software Engineer"
+      },
+      {
+        "name": "Mr Joseph Call",
+        "title": "Network Engineer"
+      },
+      {
+        "name": "Mr Craig Caro",
+        "title": "Network Engineer"
+      },
+      {
+        "name": "Mr Jaffet Chacon",
+        "title": "Business Solutions Analyst III"
+      },
+      {
+        "name": "Mr Nicholaus Chipping",
+        "title": "Senior Software Engineer"
+      },
+      {
+        "name": "Mr Brad Daw",
+        "title": "Senior Software Engineer"
+      },
+      {
+        "name": "Mr Adam Dein",
+        "title": "Senior Software Engineer"
+      },
+      {
+        "name": "Mr Brian Freestone",
+        "title": "Information Technology Professional"
+      },
+      {
+        "name": "Mr Ron Fulkerson",
+        "title": "Senior Software Engineer"
+      },
+      {
+        "name": "Mr Travis Funk",
+        "title": "Software Architect"
+      },
+      {
+        "name": "Mr Matt Gould",
+        "title": "Senior Software Engineer"
+      },
+      {
+        "name": "Mr Thomas Greger",
+        "title": "Senior Software Engineer"
+      },
+      {
+        "name": "Mr Matt Handy",
+        "title": "Senior Application Developer"
+      },
+      {
+        "name": "Mr Cody Hatch",
+        "title": "Cloud Efficiency Engineer"
+      },
+      {
+        "name": "Mr Mark Heidbrink",
+        "title": "Senior Application Developer"
+      },
+      {
+        "name": "Mr Mark Hicken",
+        "title": "Senior Software Engineer"
+      },
+      {
+        "name": "Mr Stephen Paul Hopkins",
+        "title": "Business System Analyst"
+      },
+      {
+        "name": "Mr Moses Iongi",
+        "title": "Information Technology Depot"
+      },
+      {
+        "name": "Mr Josh Ison",
+        "title": "Solutions Consultant"
+      },
+      {
+        "name": "Mr Adam Johnson",
+        "title": "Information Security Analyst"
+      },
+      {
+        "name": "Mr Trevor Jones",
+        "title": "Senior Analyst, Digital Insights"
+      },
+      {
+        "name": "Mr Robert Kitchen",
+        "title": "Senior Data Management and Analytics Engineer"
+      },
+      {
+        "name": "Mr Matthew Kruse",
+        "title": "Software Engineer"
+      },
+      {
+        "name": "Mr Erick Lunz",
+        "title": "Data Center Engineer"
+      },
+      {
+        "name": "Ms Charlotte Elise Malan",
+        "title": "Data Steward"
+      },
+      {
+        "name": "Mr Luke Marrott",
+        "title": "Network Engineer"
+      },
+      {
+        "name": "Mr Ben Mills",
+        "title": "Software Engineer"
+      },
+      {
+        "name": "Mr Nate Minor",
+        "title": "Network Architect"
+      },
+      {
+        "name": "Mr Andres Monroy",
+        "title": "Software Engineer"
+      },
+      {
+        "name": "Ms Mandi Moon",
+        "title": "Data Steward"
+      },
+      {
+        "name": "Chandler Newby",
+        "title": "Information Security Engineer"
+      },
+      {
+        "name": "Tj Nielsen",
+        "title": "Network Engineer"
+      },
+      {
+        "name": "Mr Stefan Oberlander",
+        "title": "Systems Engineer"
+      },
+      {
+        "name": "Mr Kent Otis",
+        "title": "Software Engineer"
+      },
+      {
+        "name": "Mr Devin Parsons",
+        "title": "Software Security Engineer"
+      },
+      {
+        "name": "Mr Nate Purser",
+        "title": "Software Engineer"
+      },
+      {
+        "name": "Mr Mitch Rice",
+        "title": "Mobile and Web Analytics Consultant"
+      },
+      {
+        "name": "Mr Christopher Rogers",
+        "title": "Data Science Analyst"
+      },
+      {
+        "name": "Shailesh Satyam",
+        "title": "Software Engineer"
+      },
+      {
+        "name": "Mr Shanliang Shen",
+        "title": "Senior Software Engineer"
+      },
+      {
+        "name": "Mr Andy Smith",
+        "title": "Senior Database Engineer"
+      },
+      {
+        "name": "Ms Yulanda Steyn",
+        "title": "Volume Licensing Specialist Support / Data Entry"
+      },
+      {
+        "name": "Mr Todd Tomkinson",
+        "title": "Senior Software Engineer"
+      },
+      {
+        "name": "Mr Jacob Truman",
+        "title": "Senior Software Engineer"
+      },
+      {
+        "name": "Mr David Wilcox",
+        "title": "Senior Software Engineer"
+      },
+      {
+        "name": "Mr Adam Wingate",
+        "title": "Software Security Analyst"
+      },
+      {
+        "name": "Mr Adam Wortmann",
+        "title": "Senior Application Developer"
+      },
+      {
+        "name": "Yi Zheng",
+        "title": "Software Engineer"
+      },
+      {
+        "name": "Ms Julie Zhu",
+        "title": "Senior Software Engineer Platform"
+      },
+      {
+        "name": "Mr Devon Henderson",
+        "title": "Security Lead"
+      },
+      {
+        "name": "Ms Deirdra Hendricks",
+        "title": "Security Lead"
+      },
+      {
+        "name": "Mr Brendan Abbott",
+        "title": "Security Engineer & Red Team Member"
+      },
+      {
+        "name": "Lonnie Bates",
+        "title": "Senior Security Engineer"
+      },
+      {
+        "name": "Mr Trent Bennett",
+        "title": "Security Engineer"
+      },
+      {
+        "name": "Mr Josh Blackwelder",
+        "title": "Senior Security Architect"
+      },
+      {
+        "name": "Mr Kevin Lustic",
+        "title": "Senior Security Engineer"
+      },
+      {
+        "name": "Mr Josh Pugmire",
+        "title": "Security Engagement Specialist"
+      },
+      {
+        "name": "Mr David Olsen",
+        "title": "Senior Manager, Public Relations"
+      },
+      {
+        "name": "Ms Sarah Ballard",
+        "title": "Manager, Field & Partner Enablement"
+      },
+      {
+        "name": "Mr John Spencer",
+        "title": "Associate Creative Director, Design"
+      },
+      {
+        "name": "Mr Abel Ambriz",
+        "title": "Team Lead - On boarding Specialist"
+      },
+      {
+        "name": "Mr Joel Anderson",
+        "title": "Senior Manager"
+      },
+      {
+        "name": "Mr Steve Beus",
+        "title": "Proposal Manager"
+      },
+      {
+        "name": "Mr Rand Blair",
+        "title": "Manager, Repeatable Demo at Adobe"
+      },
+      {
+        "name": "Mr Matthew Carroll",
+        "title": "Lead Analyst"
+      },
+      {
+        "name": "Mr Josh Dahmer",
+        "title": "Manager, Professional Services"
+      },
+      {
+        "name": "Mr Kris Edwards",
+        "title": "Deal Desk Lead Analyst"
+      },
+      {
+        "name": "Mr Victor Eggleston",
+        "title": "Sourcing Desk Manager"
+      },
+      {
+        "name": "Mr Daniel Hanks",
+        "title": "Manager, Techops Core Services Team"
+      },
+      {
+        "name": "Mr Jacob Lords",
+        "title": "Senior Manager"
+      },
+      {
+        "name": "Mr Spencer Rumel",
+        "title": "Lead, Collaboration Conferencing Engineer"
+      },
+      {
+        "name": "Ms Michelle Samson",
+        "title": "Critical Situation Manager"
+      },
+      {
+        "name": "Mr Mike Stiles",
+        "title": "Senior Corporate Events Manager"
+      },
+      {
+        "name": "Mr Joshua Teare",
+        "title": "Consulting Manager, TAM Services"
+      },
+      {
+        "name": "Mr David Ware",
+        "title": "Service Manager"
+      },
+      {
+        "name": "Mr Alan Castle",
+        "title": "Storage Engineer"
+      },
+      {
+        "name": "Ms Sorina Cornia",
+        "title": "Royalty Revenue Analyst"
+      },
+      {
+        "name": "Ms Lynn Crabb",
+        "title": "Integration Architect"
+      },
+      {
+        "name": "Mihnea Docea",
+        "title": "Senior Support Engineer (Adobe Target)"
+      },
+      {
+        "name": "Mr Andrew Dorton",
+        "title": "Senior Consultant"
+      },
+      {
+        "name": "Ms Shauna Ehninger",
+        "title": "Front End Engineer"
+      },
+      {
+        "name": "Mr Cedar Glasgow",
+        "title": "Senior Analyst, Order Management"
+      },
+      {
+        "name": "Mr Jason Jackson",
+        "title": "Business Intelligence Analyst"
+      },
+      {
+        "name": "Mr Nathan Kelson",
+        "title": "Enterprise Monitoring Analyst"
+      },
+      {
+        "name": "Mr Doug Kujanson",
+        "title": "Senior Etl Developer"
+      },
+      {
+        "name": "Mr Chris Lloyd",
+        "title": "Front-End Developer"
+      },
+      {
+        "name": "Mr Cody Lloyd",
+        "title": "Front-End Developer"
+      },
+      {
+        "name": "Braden Molyneux",
+        "title": "Aem Engineer & Full Stack Developer"
+      },
+      {
+        "name": "Ms Kelli Nordfelt",
+        "title": "Experience Designer"
+      },
+      {
+        "name": "Mr Logan Robins",
+        "title": "Optimization & Personalization Developer"
+      },
+      {
+        "name": "Mr Greg Simpson",
+        "title": "Analyst"
+      },
+      {
+        "name": "Mr David Smith",
+        "title": "Senior QE Automation Engineer - DTM"
+      },
+      {
+        "name": "Mr Martin Smith",
+        "title": "Business Analyst"
+      },
+      {
+        "name": "Riley Smith",
+        "title": "Analytics QE Developer"
+      },
+      {
+        "name": "Sasha Smith",
+        "title": "Deal Desk Analyst"
+      },
+      {
+        "name": "Mr Mark Thorpe",
+        "title": "Deal Desk, Senior Analyst"
+      },
+      {
+        "name": "Jun Wan",
+        "title": "Developer"
+      },
+      {
+        "name": "Mr Jonathan Williams",
+        "title": "Monitoring Analyst"
+      },
+      {
+        "name": "Ms Brooke Wyckoff",
+        "title": "Experience Designer"
+      },
+      {
+        "name": "Mr Mike Mineer",
+        "title": "Partner Training Instructor"
+      },
+      {
+        "name": "Mr Doug Crookston",
+        "title": "Corporate Trainer"
+      },
+      {
+        "name": "Mr Bryce Earl",
+        "title": "Order Management"
+      },
+      {
+        "name": "Mr Chris Jensen",
+        "title": "Video Producer"
+      },
+      {
+        "name": "Mr Ben Nielsen",
+        "title": "Order Management"
+      },
+      {
+        "name": "Mr Andrew Taylor",
+        "title": "Deal Desk Processor"
+      },
+      {
+        "name": "Ms Ann Taylor",
+        "title": "Deal Desk Processor"
+      }
+    ]
+  },
+  {
+    "name": "GALLERY SCIENCE LLC",
+    "state": "PA",
+    "year_incorporated": "2004",
+    "nace": "5829",
+    "employees": "11",
+    "revenue_usd": 7770000,
+    "pl_before_tax": null,
+    "total_assets": null,
+    "equity": null,
+    "website": "www.galleryscience.com",
+    "description": null,
+    "contacts": [
+      {
+        "name": "Ms Debra Cree",
+        "title": "Governor"
+      }
+    ]
+  },
+  {
+    "name": "ECOLANE USA, INC.",
+    "state": "PA",
+    "year_incorporated": "2008",
+    "nace": "5829",
+    "employees": "18",
+    "revenue_usd": 7770000,
+    "pl_before_tax": null,
+    "total_assets": null,
+    "equity": null,
+    "website": "www.ecolane.com",
+    "description": "Online transit agency management platform operator",
+    "contacts": [
+      {
+        "name": "Mr Matthew Edward Ashley",
+        "title": "President"
+      },
+      {
+        "name": "Ms Judith A Crawford",
+        "title": "President"
+      },
+      {
+        "name": "Mr David A Duke",
+        "title": "President"
+      },
+      {
+        "name": "Mr Ryan Larsen",
+        "title": "President"
+      },
+      {
+        "name": "Mr Gerry Leonard",
+        "title": "President; Executive Officer"
+      },
+      {
+        "name": "Gjorgjievski Spiro",
+        "title": "President"
+      },
+      {
+        "name": "Mr Cory Woolf",
+        "title": "President"
+      },
+      {
+        "name": "Mr William Nix",
+        "title": "Vice President"
+      },
+      {
+        "name": "Mr William Nix",
+        "title": "Officer"
+      },
+      {
+        "name": "Ms Dorothy G Capers",
+        "title": "Secretary"
+      },
+      {
+        "name": "Mr Michael Casas",
+        "title": "Secretary"
+      },
+      {
+        "name": "Mr Antti Hannula",
+        "title": "Secretary"
+      },
+      {
+        "name": "Kris Laseter",
+        "title": "Secretary"
+      },
+      {
+        "name": "Mr Steven J Ross",
+        "title": "Secretary"
+      },
+      {
+        "name": "Mr Rex Clark",
+        "title": "Vice President, Business Development"
+      },
+      {
+        "name": "Ms Susan Starwalt",
+        "title": "Business Development Director"
+      },
+      {
+        "name": "Ms Priscilla Vargas",
+        "title": "Business Development Director"
+      },
+      {
+        "name": "Mr James Hajek",
+        "title": "Treasurer"
+      },
+      {
+        "name": "Mr Alejandro Castro Suarez",
+        "title": "Treasurer"
+      },
+      {
+        "name": "Ms Ella Carlson",
+        "title": "Regional Sales Specialist"
+      },
+      {
+        "name": "Mr Jason Ellis",
+        "title": "Vice President of Professional Services"
+      },
+      {
+        "name": "Mr Sami Poukko",
+        "title": "Officer"
+      }
+    ]
+  },
+  {
+    "name": "BONAFIDE HOLDCO, LLC",
+    "state": "CA",
+    "year_incorporated": "2022",
+    "nace": "5829",
+    "employees": "95",
+    "revenue_usd": 7770000,
+    "pl_before_tax": null,
+    "total_assets": null,
+    "equity": null,
+    "website": "www.bonafide.com",
+    "description": null,
+    "contacts": [
+      {
+        "name": "Mr Craig Baxter",
+        "title": "Manager"
+      },
+      {
+        "name": "Mr Mark Ludwig",
+        "title": "Manager"
+      },
+      {
+        "name": "Mr Steve Mills",
+        "title": "Manager"
+      },
+      {
+        "name": "Mr Brenden Wilson",
+        "title": "Manager"
+      }
+    ]
+  }
+]

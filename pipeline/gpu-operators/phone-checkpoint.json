@@ -1,0 +1,44 @@
+{
+  "Lambda Labs|Stephen Balaban": {
+    "key": "Lambda Labs|Stephen Balaban",
+    "name": "Stephen Balaban",
+    "company": "Lambda Labs",
+    "found": false,
+    "error": "[orangeslice] /execute/contact-waterfall: 402 [os-credits] Insufficient credits"
+  },
+  "Lambda Labs|Michael Balaban": {
+    "key": "Lambda Labs|Michael Balaban",
+    "name": "Michael Balaban",
+    "company": "Lambda Labs",
+    "found": false,
+    "error": "[orangeslice] /execute/contact-waterfall: 402 [os-credits] Insufficient credits"
+  },
+  "Lambda Labs|Robert Brooks IV": {
+    "key": "Lambda Labs|Robert Brooks IV",
+    "name": "Robert Brooks IV",
+    "company": "Lambda Labs",
+    "found": false,
+    "error": "[orangeslice] /execute/contact-waterfall: 402 [os-credits] Insufficient credits"
+  },
+  "Lambda Labs|Peter Seibold": {
+    "key": "Lambda Labs|Peter Seibold",
+    "name": "Peter Seibold",
+    "company": "Lambda Labs",
+    "found": false,
+    "error": "[orangeslice] /execute/contact-waterfall: 402 [os-credits] Insufficient credits"
+  },
+  "Crusoe Energy Systems|Chase Lochmiller": {
+    "key": "Crusoe Energy Systems|Chase Lochmiller",
+    "name": "Chase Lochmiller",
+    "company": "Crusoe Energy Systems",
+    "found": false,
+    "error": "[orangeslice] /execute/contact-waterfall: 402 [os-credits] Insufficient credits"
+  },
+  "Crusoe Energy Systems|Cully Cavness": {
+    "key": "Crusoe Energy Systems|Cully Cavness",
+    "name": "Cully Cavness",
+    "company": "Crusoe Energy Systems",
+    "found": false,
+    "error": "[orangeslice] /execute/contact-waterfall: 402 [os-credits] Insufficient credits"
+  }
+}

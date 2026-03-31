@@ -1,0 +1,751 @@
+[
+  {
+    "name": "AFFECTIVE SOFTWARE, INC.",
+    "state": "WA",
+    "year_incorporated": "2017",
+    "nace": "5829",
+    "employees": "35",
+    "revenue_usd": 4050000,
+    "pl_before_tax": null,
+    "total_assets": null,
+    "equity": null,
+    "website": "www.affectivesoftware.com",
+    "description": null,
+    "contacts": [
+      {
+        "name": "Mr Vladimir Brayman",
+        "title": "Officer"
+      },
+      {
+        "name": "Mr Mark Sestak",
+        "title": "Officer"
+      },
+      {
+        "name": "Mr John Gottman",
+        "title": "Governor"
+      },
+      {
+        "name": "Ms Julie Gottman",
+        "title": "Governor"
+      },
+      {
+        "name": "Ms Lisa Horowitz",
+        "title": "Governor"
+      },
+      {
+        "name": "Mr Rafael Lisitsa",
+        "title": "Governor"
+      },
+      {
+        "name": "Ms Svetlana Lisitsa",
+        "title": "Governor"
+      }
+    ]
+  },
+  {
+    "name": "TREE STAR",
+    "state": "OR",
+    "year_incorporated": "1989",
+    "nace": "5829",
+    "employees": "13",
+    "revenue_usd": 4050000,
+    "pl_before_tax": null,
+    "total_assets": null,
+    "equity": null,
+    "website": "www.flowjo.com",
+    "description": null,
+    "contacts": [
+      {
+        "name": "Ms Cindy Tyran",
+        "title": "Principal"
+      },
+      {
+        "name": "Mr Jasper Katz",
+        "title": "Customer Support"
+      },
+      {
+        "name": "Mr Michael Stadnisky",
+        "title": "Application Scientist"
+      }
+    ]
+  },
+  {
+    "name": "MINDSNACKS INC",
+    "state": "CA",
+    "year_incorporated": "2012",
+    "nace": "5829",
+    "employees": "35",
+    "revenue_usd": 4050000,
+    "pl_before_tax": null,
+    "total_assets": null,
+    "equity": null,
+    "website": "www.elevateapp.com",
+    "description": "Online educational mobile games platform operator ; Educational mobile game applications developer",
+    "contacts": [
+      {
+        "name": "Mr Daniel Kessler",
+        "title": "Chief Executive Officer"
+      },
+      {
+        "name": "Mr Jesse Pickard",
+        "title": "Secretary"
+      },
+      {
+        "name": "Mr Andrew Maguire",
+        "title": "Chief Financial Officer"
+      },
+      {
+        "name": "Mr Antonio Diez",
+        "title": "iOS and OSX Developer Intern"
+      }
+    ]
+  },
+  {
+    "name": "INFINITY TECHNOLOGY SOLUTIONS",
+    "state": "FL",
+    "year_incorporated": "2021",
+    "nace": "5829",
+    "employees": "15",
+    "revenue_usd": 4010000,
+    "pl_before_tax": null,
+    "total_assets": null,
+    "equity": null,
+    "website": "infinitytechnologysolutions.com",
+    "description": null,
+    "contacts": []
+  },
+  {
+    "name": "RATE-HIGHWAY, INC.",
+    "state": "CA",
+    "year_incorporated": "2014",
+    "nace": "5829",
+    "employees": "25",
+    "revenue_usd": 4000000,
+    "pl_before_tax": null,
+    "total_assets": null,
+    "equity": null,
+    "website": "www.rate-highway.com",
+    "description": null,
+    "contacts": [
+      {
+        "name": "Mr Chris Mitrision",
+        "title": "General Manager"
+      },
+      {
+        "name": "Mr Jeff Walstrom",
+        "title": "Manager, Development"
+      },
+      {
+        "name": "Ms Tanya Nguyen",
+        "title": "Database Developer"
+      }
+    ]
+  },
+  {
+    "name": "SCHEDULICITY, INC.",
+    "state": "MT",
+    "year_incorporated": "2009",
+    "nace": "5829",
+    "employees": "90",
+    "revenue_usd": 4000000,
+    "pl_before_tax": null,
+    "total_assets": null,
+    "equity": null,
+    "website": "www.schedulicity.com",
+    "description": "Appointment scheduling Software-as-a-Service (SaaS) platform operator",
+    "contacts": [
+      {
+        "name": "Mr Jerome Nettuno",
+        "title": "President"
+      },
+      {
+        "name": "Mr Jerry Nettuno Secr",
+        "title": "President"
+      },
+      {
+        "name": "Mr Jerry Nettuno Secr",
+        "title": "Other"
+      },
+      {
+        "name": "Mr Joshua Spitzer",
+        "title": "President"
+      },
+      {
+        "name": "Mr Joshua Spitzer",
+        "title": "Treasurer"
+      },
+      {
+        "name": "Mr Brandy Hartley",
+        "title": "Product Owner"
+      },
+      {
+        "name": "Mr Eric Karshner",
+        "title": "Product Owner"
+      },
+      {
+        "name": "Mr Bryon Bennett",
+        "title": "Secretary"
+      },
+      {
+        "name": "Mr Scott Thorn",
+        "title": "Chief Financial Officer"
+      },
+      {
+        "name": "Ms Jane Crites",
+        "title": "Treasurer"
+      },
+      {
+        "name": "Ms Kelsey Bantz",
+        "title": "Account Management Growth Schedulicity Pay"
+      },
+      {
+        "name": "Mr Craig Dugas",
+        "title": "Vice President, Engineering"
+      },
+      {
+        "name": "Mr Greg Rogers",
+        "title": "Chief Operating Officer"
+      },
+      {
+        "name": "Ms Megan Horn",
+        "title": "Operations Manager"
+      },
+      {
+        "name": "Ms Chelsey Raden",
+        "title": "Operations Manager"
+      },
+      {
+        "name": "Mr Blake Mickatavage",
+        "title": "Quality Assurance Associate"
+      },
+      {
+        "name": "Jessie Dugas",
+        "title": "Senior Software Engineer"
+      },
+      {
+        "name": "Mr Dale Niemeyer",
+        "title": "Senior Software Engineer"
+      },
+      {
+        "name": "Ms Kelly Grenz",
+        "title": "UX / UI Design"
+      }
+    ]
+  },
+  {
+    "name": "COHERE, LLC",
+    "state": "CA",
+    "year_incorporated": null,
+    "nace": "5829",
+    "employees": "100",
+    "revenue_usd": 4000000,
+    "pl_before_tax": null,
+    "total_assets": null,
+    "equity": null,
+    "website": "www.cohereweb.com",
+    "description": null,
+    "contacts": [
+      {
+        "name": "Mr Damien Burke",
+        "title": "Manager"
+      },
+      {
+        "name": "Ms Elizabeth A Haibel",
+        "title": "Manager"
+      },
+      {
+        "name": "Mr Zachary Spencer",
+        "title": "Manager"
+      },
+      {
+        "name": "Ms Jennifer Tu",
+        "title": "Manager"
+      },
+      {
+        "name": "Ms Ana Ulin Vazquez",
+        "title": "Manager"
+      }
+    ]
+  },
+  {
+    "name": "MOVEPLAN (USA), INC.",
+    "state": "MA",
+    "year_incorporated": "2022",
+    "nace": "5829",
+    "employees": "40",
+    "revenue_usd": 3990000,
+    "pl_before_tax": null,
+    "total_assets": null,
+    "equity": null,
+    "website": "www.moveplangroup.com",
+    "description": null,
+    "contacts": [
+      {
+        "name": "Ms Cahterine Ridley",
+        "title": "President; Executive Officer"
+      },
+      {
+        "name": "Ms Cahterine Ridley",
+        "title": "Secretary"
+      },
+      {
+        "name": "Mr Suki Reilly",
+        "title": "Executive Officer"
+      },
+      {
+        "name": "Mr Suki Reilly",
+        "title": "Secretary"
+      },
+      {
+        "name": "Ms Samantha Reilly",
+        "title": "Executive Officer"
+      },
+      {
+        "name": "Mr Samantha Holmes",
+        "title": "Chief Financial Officer"
+      },
+      {
+        "name": "Mr Samantha Holmes",
+        "title": "Treasurer"
+      }
+    ]
+  },
+  {
+    "name": "HEALTH COST IQ INC.",
+    "state": "AZ",
+    "year_incorporated": "2023",
+    "nace": "5829",
+    "employees": "11",
+    "revenue_usd": 3980000,
+    "pl_before_tax": null,
+    "total_assets": null,
+    "equity": null,
+    "website": "www.healthcostiq.com",
+    "description": null,
+    "contacts": [
+      {
+        "name": "Mr Odu Jude",
+        "title": "Chief Executive Officer (Chief Executive Officer)"
+      },
+      {
+        "name": "Mr Adit Parasuram",
+        "title": "Chief Executive Officer (Chief Executive Officer)"
+      }
+    ]
+  },
+  {
+    "name": "FRONTRANGE SOLUTIONS USA INC",
+    "state": "CA",
+    "year_incorporated": "2007",
+    "nace": "5829",
+    "employees": "650",
+    "revenue_usd": 3970000,
+    "pl_before_tax": null,
+    "total_assets": null,
+    "equity": null,
+    "website": "www.frontrange.com",
+    "description": "Engaged in the provision of software products and clcoud solutions",
+    "contacts": []
+  },
+  {
+    "name": "COLOSSAL ENDEAVORS, INC.",
+    "state": "GA",
+    "year_incorporated": "2005",
+    "nace": "5829",
+    "employees": "12",
+    "revenue_usd": 3970000,
+    "pl_before_tax": null,
+    "total_assets": null,
+    "equity": null,
+    "website": "www.bandofcoders.com",
+    "description": "Website user experience & user interface design and development service provider",
+    "contacts": [
+      {
+        "name": "Mr Jacob Bobby John",
+        "title": "Chief Executive Officer"
+      },
+      {
+        "name": "Mr Jason Rhoades",
+        "title": "Senior Managing Partner; Shareholder"
+      },
+      {
+        "name": "Ms Abigail White",
+        "title": "Director of Accounts"
+      },
+      {
+        "name": "Ms Kelly Berdine",
+        "title": "Senior Project and Account Manager"
+      },
+      {
+        "name": "Mr Andrew Klug",
+        "title": "Chief Technology Officer"
+      },
+      {
+        "name": "Ms Jennifer Smith",
+        "title": "Senior Web Developer"
+      },
+      {
+        "name": "Ms Jessie Adams",
+        "title": "Ui / Ux Designer"
+      }
+    ]
+  },
+  {
+    "name": "ELITEGEN CORP",
+    "state": "IL",
+    "year_incorporated": "2000",
+    "nace": "5829",
+    "employees": "14",
+    "revenue_usd": 3961000,
+    "pl_before_tax": null,
+    "total_assets": null,
+    "equity": null,
+    "website": "www.elitegen.com",
+    "description": null,
+    "contacts": []
+  },
+  {
+    "name": "ONE POINT HCM",
+    "state": "CA",
+    "year_incorporated": null,
+    "nace": "5829",
+    "employees": "11",
+    "revenue_usd": 3950000,
+    "pl_before_tax": null,
+    "total_assets": null,
+    "equity": null,
+    "website": "onehcm.com",
+    "description": null,
+    "contacts": []
+  },
+  {
+    "name": "AUTORETURN",
+    "state": "CA",
+    "year_incorporated": null,
+    "nace": "5829",
+    "employees": "11",
+    "revenue_usd": 3950000,
+    "pl_before_tax": null,
+    "total_assets": null,
+    "equity": null,
+    "website": "autura.com/government-towing-systems",
+    "description": null,
+    "contacts": []
+  },
+  {
+    "name": "QNOVO, INC.",
+    "state": "CA",
+    "year_incorporated": "2009",
+    "nace": "5829",
+    "employees": "19",
+    "revenue_usd": 3940000,
+    "pl_before_tax": null,
+    "total_assets": null,
+    "equity": null,
+    "website": "www.qnovo.com",
+    "description": "Electronic management systems for lithium ion battery developer ; Battery management software developer",
+    "contacts": [
+      {
+        "name": "Mr Nadim Maluf",
+        "title": "Chief Executive Officer"
+      },
+      {
+        "name": "Mr Fred Berkowitz",
+        "title": "Founder"
+      },
+      {
+        "name": "Mr Fred Berkowitz",
+        "title": "Vice President, Product Engineering"
+      },
+      {
+        "name": "Ms Dania Ghantous",
+        "title": "Co-Founder & Vice President, Technology"
+      },
+      {
+        "name": "Mr Kenneth Helge Engestang",
+        "title": "Vice President, Worldwide Sales; Vice President WW Sales"
+      },
+      {
+        "name": "On Chang",
+        "title": "Senior Scientist"
+      },
+      {
+        "name": "Mr David Coakley",
+        "title": "Vice President of Operations"
+      },
+      {
+        "name": "Mr Miro Zmrzli",
+        "title": "Senior Software Engineer"
+      },
+      {
+        "name": "Mr Khanh Hoang",
+        "title": "Test Engineer"
+      },
+      {
+        "name": "Mr Kenneth Michon",
+        "title": "Battery Test Engineer"
+      },
+      {
+        "name": "Ms Christina Teng",
+        "title": "No specific function"
+      }
+    ]
+  },
+  {
+    "name": "INTELLIGENT LEARNING MACHINES, INC.",
+    "state": "MI",
+    "year_incorporated": "2023",
+    "nace": "5829",
+    "employees": "10",
+    "revenue_usd": 3930000,
+    "pl_before_tax": null,
+    "total_assets": null,
+    "equity": null,
+    "website": "www.ilmach.com",
+    "description": null,
+    "contacts": [
+      {
+        "name": "Mr Adnan Haider",
+        "title": "President"
+      }
+    ]
+  },
+  {
+    "name": "PCG SOFTWARE INC",
+    "state": "NV",
+    "year_incorporated": "2000",
+    "nace": "5829",
+    "employees": "10",
+    "revenue_usd": 3920000,
+    "pl_before_tax": null,
+    "total_assets": null,
+    "equity": null,
+    "website": "www.linkedin.com/company/pcg-software-inc-",
+    "description": null,
+    "contacts": [
+      {
+        "name": "Mr Michael Lubao",
+        "title": "Chief Executive Officer"
+      },
+      {
+        "name": "Ms Andria Jacobs",
+        "title": "Chief Financial Officer"
+      },
+      {
+        "name": "Ms Julie Otten",
+        "title": "Determination Support"
+      }
+    ]
+  },
+  {
+    "name": "BOLT SOLUTIONS INC",
+    "state": "TX",
+    "year_incorporated": "2000",
+    "nace": "5829",
+    "employees": "130",
+    "revenue_usd": 3920000,
+    "pl_before_tax": null,
+    "total_assets": null,
+    "equity": null,
+    "website": "www.boltinsurance.com",
+    "description": null,
+    "contacts": []
+  },
+  {
+    "name": "AMERICAN BUSINESS SOFTWARE",
+    "state": "OR",
+    "year_incorporated": null,
+    "nace": "5829",
+    "employees": "20",
+    "revenue_usd": 3920000,
+    "pl_before_tax": null,
+    "total_assets": null,
+    "equity": null,
+    "website": "ww2.americanbusinesssoft.com/abs/server.main?template=index&id=02",
+    "description": null,
+    "contacts": []
+  },
+  {
+    "name": "SMARTWYRE, INC.",
+    "state": "CO",
+    "year_incorporated": "2019",
+    "nace": "5829",
+    "employees": "45",
+    "revenue_usd": 3920000,
+    "pl_before_tax": null,
+    "total_assets": null,
+    "equity": null,
+    "website": "www.smartwyre.com",
+    "description": "Online agricultural pricing platform operator",
+    "contacts": []
+  },
+  {
+    "name": "CUSTODIA TECHNOLOGY AMERICA",
+    "state": "NY",
+    "year_incorporated": null,
+    "nace": "5829",
+    "employees": "11",
+    "revenue_usd": 3910000,
+    "pl_before_tax": null,
+    "total_assets": null,
+    "equity": null,
+    "website": "www.custodiatechnology.com",
+    "description": null,
+    "contacts": []
+  },
+  {
+    "name": "STAFFBEE SOLUTIONS INC",
+    "state": "GA",
+    "year_incorporated": "2020",
+    "nace": "5829",
+    "employees": "45",
+    "revenue_usd": 3910000,
+    "pl_before_tax": null,
+    "total_assets": null,
+    "equity": null,
+    "website": "www.staffbees.com",
+    "description": null,
+    "contacts": [
+      {
+        "name": "Ms Hansa Vaddoriya",
+        "title": "Secretary"
+      }
+    ]
+  },
+  {
+    "name": "PROLIFIC LABS INCORPORATED",
+    "state": "CA",
+    "year_incorporated": "2022",
+    "nace": "5829",
+    "employees": "25",
+    "revenue_usd": 3910000,
+    "pl_before_tax": null,
+    "total_assets": null,
+    "equity": null,
+    "website": "pulley.com/?site=current",
+    "description": "Cap table and employee options management platform operator",
+    "contacts": [
+      {
+        "name": "Ms Yin Wu",
+        "title": "Chief Financial Officer"
+      },
+      {
+        "name": "Grant Oladipo",
+        "title": "Other"
+      }
+    ]
+  },
+  {
+    "name": "HOPTO INC.",
+    "state": "CA",
+    "year_incorporated": "1996",
+    "nace": "5829",
+    "employees": "15",
+    "revenue_usd": 3908600,
+    "pl_before_tax": 123000,
+    "total_assets": 6049600,
+    "equity": 4081500,
+    "website": "www.hopto.com",
+    "description": "hopTo Inc., through its wholly owned subsidiary, GraphOn Corporation, is a developer of application publishing software that includes application virtualization software and cloud computing software for multiple computer operating systems, including Windows, UNIX and several Linux-based variants. Its application publishing software solutions are sold under the brand name GO-Global. Its GO-Global product offerings include GO-Global for Windows, GO-Global for UNIX and GO-Global Client. GO-Global is an application access solution for small to medium-sized companies, departments within large corporations, governmental and educational institutions, independent software vendors (ISVs) and others who takes advantage of cross-platform remote access and Web-enabled access to their existing software applications, as well as those who are deploying secure, private cloud environments.",
+    "contacts": [
+      {
+        "name": "Mr Richard S. Chernicoff",
+        "title": "Director (Board of Directors)"
+      },
+      {
+        "name": "Mr Richard S. Chernicoff",
+        "title": "Director"
+      },
+      {
+        "name": "Mr Jonathon R. Skeels",
+        "title": "Director (Board of Directors)"
+      },
+      {
+        "name": "Mr Jonathon R. Skeels",
+        "title": "President, Chief Executive Officer and Interim Chief Financial Officer, Treasurer, Secretary"
+      },
+      {
+        "name": "Mr Thomas C. Stewart",
+        "title": "Director (Board of Directors); Board of Dirs"
+      },
+      {
+        "name": "Mr Thomas C. Stewart",
+        "title": "Director"
+      },
+      {
+        "name": "Mr Jean Louis Casabonne",
+        "title": "Interim Chief Executive Officer & Chief Financial Officer"
+      },
+      {
+        "name": "Mr Jean Louis Casabonne",
+        "title": "Director"
+      },
+      {
+        "name": "Ms Julie Silber",
+        "title": "IR Contact Officer"
+      },
+      {
+        "name": "Ms Christine Liu",
+        "title": "Controller"
+      },
+      {
+        "name": "Mr Troy Mickle",
+        "title": "Director, Marketing"
+      },
+      {
+        "name": "Sam M Auriemma",
+        "title": "Chairman of the Board"
+      },
+      {
+        "name": "Mr John Cronin",
+        "title": "Chairman of the Board"
+      },
+      {
+        "name": "Mr John Cronin",
+        "title": "Independent Director"
+      },
+      {
+        "name": "Mr Michael A Brochu",
+        "title": "Independent Director"
+      },
+      {
+        "name": "Mr Eldad Eilam",
+        "title": "President, Chief Executive Officer, Director"
+      },
+      {
+        "name": "Mr Eldad Eilam",
+        "title": "Director"
+      },
+      {
+        "name": "Mr Jean Louis Casabonne",
+        "title": "Chief Executive Officer, Interim Chief Financial Officer, Secretary"
+      },
+      {
+        "name": "Mr Jean Louis Casabonne",
+        "title": "Chief Financial Officer, Secretary"
+      },
+      {
+        "name": "Mr Ashfaq A Munshi",
+        "title": "Director"
+      },
+      {
+        "name": "Mr Jeremy E Verba",
+        "title": "Director"
+      }
+    ]
+  },
+  {
+    "name": "INTERACTIVE EDGE LLC",
+    "state": "NY",
+    "year_incorporated": "2003",
+    "nace": "5829",
+    "employees": "19",
+    "revenue_usd": 3907000,
+    "pl_before_tax": null,
+    "total_assets": null,
+    "equity": null,
+    "website": "www.interactiveedge.com",
+    "description": "Interactive and web-enabled sales, marketing and analytical tools provider",
+    "contacts": []
+  }
+]

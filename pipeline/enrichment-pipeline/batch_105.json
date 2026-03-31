@@ -1,0 +1,1100 @@
+[
+  {
+    "name": "ZUME IT INC",
+    "state": "MI",
+    "year_incorporated": "2009",
+    "nace": "5829",
+    "employees": "25",
+    "revenue_usd": 1200000,
+    "pl_before_tax": null,
+    "total_assets": null,
+    "equity": null,
+    "website": "www.zumeit.com",
+    "description": null,
+    "contacts": []
+  },
+  {
+    "name": "MEP SERVICES",
+    "state": "MI",
+    "year_incorporated": "2009",
+    "nace": "5829",
+    "employees": "150",
+    "revenue_usd": 1200000,
+    "pl_before_tax": null,
+    "total_assets": null,
+    "equity": null,
+    "website": "www.cspmanagement.com",
+    "description": null,
+    "contacts": [
+      {
+        "name": "Ms Maria Dockins",
+        "title": "Chief Financial Officer"
+      },
+      {
+        "name": "Lindsay Anderson",
+        "title": "Payroll Specialist"
+      }
+    ]
+  },
+  {
+    "name": "D BRODERICK SOFTWARE",
+    "state": "MI",
+    "year_incorporated": "1989",
+    "nace": "5829",
+    "employees": "11",
+    "revenue_usd": 1200000,
+    "pl_before_tax": null,
+    "total_assets": null,
+    "equity": null,
+    "website": "www.shopcam.com",
+    "description": null,
+    "contacts": []
+  },
+  {
+    "name": "BS & A SOFTWARE",
+    "state": "MI",
+    "year_incorporated": "1989",
+    "nace": "5829",
+    "employees": "460",
+    "revenue_usd": 1200000,
+    "pl_before_tax": null,
+    "total_assets": null,
+    "equity": null,
+    "website": "www.bsasoftware.com",
+    "description": "Engaged in the provision of software development and other related services",
+    "contacts": [
+      {
+        "name": "Mr James Bellefeuil",
+        "title": "Chairman"
+      },
+      {
+        "name": "Mr James Bellefeuil",
+        "title": "Officer"
+      },
+      {
+        "name": "Mr Chad B Harryman",
+        "title": "President"
+      },
+      {
+        "name": "Mr Tom Szur",
+        "title": "Chief Executive Officer"
+      },
+      {
+        "name": "Mr Tom Szur",
+        "title": "Chief Financial Officer"
+      },
+      {
+        "name": "Mr Jeffrey S Taylor",
+        "title": "Secretary"
+      },
+      {
+        "name": "Mr Jeffrey S Taylor",
+        "title": "Officer"
+      },
+      {
+        "name": "Mr Randy Dickinson",
+        "title": "Cpa, Financial Management Project Manager"
+      },
+      {
+        "name": "Mr Mark Puetz",
+        "title": "Financial Management Product Manager"
+      },
+      {
+        "name": "Ms Doris Brown",
+        "title": "Tax Specialist"
+      },
+      {
+        "name": "Ms Tricia Hoeffs",
+        "title": "Receptionist"
+      },
+      {
+        "name": "Mr David Kirwin",
+        "title": "Training Representative"
+      },
+      {
+        "name": "Mr Kevin Schafer",
+        "title": "Account Executive"
+      },
+      {
+        "name": "Ms Amy Armstrong",
+        "title": "Customer Support Analyst"
+      },
+      {
+        "name": "Mr Bob Gross",
+        "title": "Customer Support"
+      },
+      {
+        "name": "Shannon Raupp",
+        "title": "Project Manager for Project Management & Implement"
+      },
+      {
+        "name": "Ms Laura Pohl",
+        "title": "Project Management Analyst"
+      },
+      {
+        "name": "Ms Sarah Cressman",
+        "title": "Business Operations Support"
+      },
+      {
+        "name": "Mr Irici Rodriguez",
+        "title": "Quality Assurance Department Manager"
+      },
+      {
+        "name": "Ms Anna Kieu-Southwell",
+        "title": "Manager, Software Support"
+      },
+      {
+        "name": "Sheri Trotter",
+        "title": "Software Support Manager"
+      },
+      {
+        "name": "Mr David Culham",
+        "title": "Software Developer"
+      },
+      {
+        "name": "Mr Andrew Eggleston",
+        "title": "Information Technology Specialist"
+      },
+      {
+        "name": "Ms Tera Halfmann",
+        "title": "Data Entry"
+      },
+      {
+        "name": "Mr Justin Marsh",
+        "title": "It Support Specialist"
+      },
+      {
+        "name": "Mr Patrick Mclamara",
+        "title": "It Technician"
+      },
+      {
+        "name": "Mr Brian Nixon",
+        "title": "Software"
+      },
+      {
+        "name": "Mr Brandon Sartele",
+        "title": "Software Developer"
+      },
+      {
+        "name": "Mr Tom Schafer",
+        "title": "Software Support"
+      },
+      {
+        "name": "Mr Ted Droste",
+        "title": "Officer"
+      },
+      {
+        "name": "Mr Timothy Giesen",
+        "title": "Officer"
+      },
+      {
+        "name": "Mr Timothy Giesen",
+        "title": "Governor"
+      },
+      {
+        "name": "Mr Jason Hafner",
+        "title": "Officer"
+      },
+      {
+        "name": "Mr Greg Heil",
+        "title": "Officer"
+      },
+      {
+        "name": "Mr Scott Gross",
+        "title": "Manager Assessing Support"
+      },
+      {
+        "name": "Mr Joshua Katona",
+        "title": "Implementation Specialist"
+      },
+      {
+        "name": "Mr Dan Weaver",
+        "title": "Integration Engineer"
+      },
+      {
+        "name": "Mr Michael Schumacher",
+        "title": "President"
+      },
+      {
+        "name": "Mr Michael Schumacher",
+        "title": "Manager"
+      },
+      {
+        "name": "Mr Michael Schumacher",
+        "title": "Governing Person"
+      },
+      {
+        "name": "Mr Michael Schumacher",
+        "title": "Real Property"
+      },
+      {
+        "name": "Tal Klein",
+        "title": "Vice President Strategy"
+      },
+      {
+        "name": "Tal Klein",
+        "title": "Chief Marketing Officer"
+      },
+      {
+        "name": "Mr Dan Salinas",
+        "title": "Vice President of Business Development"
+      },
+      {
+        "name": "Mr Dean Schumacher",
+        "title": "Vice President, Maintenance & Strategic Accounts"
+      },
+      {
+        "name": "Mr Brian Peter Benson",
+        "title": "Chief Financial Officer"
+      },
+      {
+        "name": "Mr Sean Bridgeo",
+        "title": "Chief Financial Officer"
+      },
+      {
+        "name": "Mr Erin Weaver",
+        "title": "Controller"
+      },
+      {
+        "name": "Ms Vita Olynyk",
+        "title": "Director, Human Resources"
+      },
+      {
+        "name": "Mr Steve Sandler",
+        "title": "Senior Director, Latin America Sales"
+      },
+      {
+        "name": "Mr Steve Thompson",
+        "title": "Senior Director, Sales (Americas)"
+      },
+      {
+        "name": "Ms Sharon Branchen",
+        "title": "Channel Sales Manager, Coast (West)"
+      },
+      {
+        "name": "Mr Mike Broadwood",
+        "title": "Channel Sales Manager, Coast (East)"
+      },
+      {
+        "name": "Mr Dave Childs",
+        "title": "Regional Sales Manager, Lakes"
+      },
+      {
+        "name": "Mr Steven Fontana",
+        "title": "Regional Sales Manager, NY & NJ"
+      },
+      {
+        "name": "Mr Mark Robson",
+        "title": "Regional Sales Manager"
+      },
+      {
+        "name": "Mr Michael Soave",
+        "title": "Inside Sales Manager"
+      },
+      {
+        "name": "Ms Denise Templeton",
+        "title": "Sales Operations Manager (Americas)"
+      },
+      {
+        "name": "Ms Beth Bryant",
+        "title": "Inside Sales Representative"
+      },
+      {
+        "name": "Mr Peter Collins",
+        "title": "Sales Engineer"
+      },
+      {
+        "name": "Mr Nick DiMaggio",
+        "title": "Inside Sales Representative"
+      },
+      {
+        "name": "Mr Geoffrey Hixon",
+        "title": "Senior Sales Engineer"
+      },
+      {
+        "name": "Mr Stefan Jablinsky",
+        "title": "Central & Central Inside Sales Representative (North, South)"
+      },
+      {
+        "name": "Mr Carl Jones",
+        "title": "Inside Sales Representative"
+      },
+      {
+        "name": "Mr Robert Kalush",
+        "title": "Inside Sales Representative (West)"
+      },
+      {
+        "name": "Mr Benjamin Murphy",
+        "title": "Senior Sales Engineer"
+      },
+      {
+        "name": "Mr Jim Niles",
+        "title": "Inside Sales Representative"
+      },
+      {
+        "name": "Mr Chris Nowland",
+        "title": "Sales Engineer"
+      },
+      {
+        "name": "Mr Zach Ruch",
+        "title": "Ntt & Stefanini Sales Engineer"
+      },
+      {
+        "name": "Ms Hannah Smith",
+        "title": "Sales Development Representative"
+      },
+      {
+        "name": "Mr Brinton Baker",
+        "title": "Chief Marketing Officer"
+      },
+      {
+        "name": "Ms Patricia Diaz",
+        "title": "Head of Product Marketing"
+      },
+      {
+        "name": "Ms Emma Huez",
+        "title": "Marketing Associate"
+      },
+      {
+        "name": "Ms Heather Bicknell",
+        "title": "Manager, Product Marketing"
+      },
+      {
+        "name": "Mr David Donaldson",
+        "title": "Inside Account Manager"
+      },
+      {
+        "name": "Mr Matt Gentry",
+        "title": "Project Manager, Client Services"
+      },
+      {
+        "name": "Ms Laura Malmstrom",
+        "title": "Account Manager"
+      },
+      {
+        "name": "Mr Richard Edwards",
+        "title": "Head of Technical Services - Emea"
+      },
+      {
+        "name": "Mr Thomas Mcannally",
+        "title": "Vice President Engineering"
+      },
+      {
+        "name": "Ms Kelly Peters",
+        "title": "Director Technical Services"
+      },
+      {
+        "name": "Mr Ken Seadeek",
+        "title": "Director - Technical Services"
+      },
+      {
+        "name": "Mr Ed Wegryn",
+        "title": "Director, Analytics Engineering"
+      },
+      {
+        "name": "Mr Charles Owens",
+        "title": "Manager, Technical Resource Tam"
+      },
+      {
+        "name": "Mr John Boyce",
+        "title": "Technical Services Engineer"
+      },
+      {
+        "name": "Mr Fred Burnham",
+        "title": "Technical Services Engineer"
+      },
+      {
+        "name": "Mr Brion Cantrell",
+        "title": "Technical Services Engineer"
+      },
+      {
+        "name": "Mr Bradley Clark",
+        "title": "Technical Support Engineer"
+      },
+      {
+        "name": "Mr Chris Dyer",
+        "title": "Senior Engineer"
+      },
+      {
+        "name": "Ms Sally Goldberg",
+        "title": "Senior Technical Writer"
+      },
+      {
+        "name": "Mr Joshua Gorciak",
+        "title": "Technical Services Engineer"
+      },
+      {
+        "name": "Mr Christopher Hoag",
+        "title": "Americas Technical Services I"
+      },
+      {
+        "name": "Mr Bob Koehler",
+        "title": "Principal Engineer"
+      },
+      {
+        "name": "Mr Darin Lieurance",
+        "title": "Technical Writer at Lakeside Software, Inc"
+      },
+      {
+        "name": "Mr Sebastian Lindner",
+        "title": "Senior Engineer"
+      },
+      {
+        "name": "Mr Jan Mach",
+        "title": "Technical Solutions Engineer"
+      },
+      {
+        "name": "Mr James McVicar",
+        "title": "Technical Solutions Engineer"
+      },
+      {
+        "name": "Mr Greg Mitchell",
+        "title": "Technical Support"
+      },
+      {
+        "name": "Mr Stephen Nann",
+        "title": "Senior Engineer"
+      },
+      {
+        "name": "Mr Chris Overbeek",
+        "title": "Senior Engineer"
+      },
+      {
+        "name": "Ms Dana Robinson",
+        "title": "Technical Trainer"
+      },
+      {
+        "name": "Mr Marvin Sabah",
+        "title": "Technical Services Engineer"
+      },
+      {
+        "name": "Mr Mike Washburn",
+        "title": "Principal Engineer"
+      },
+      {
+        "name": "Mr Lucas Woolard",
+        "title": "Technical Support Engineer"
+      },
+      {
+        "name": "Ms Kelly Cornett",
+        "title": "Operations Manager"
+      },
+      {
+        "name": "Mr John Burnett",
+        "title": "Senior Quality Assurance Engineer"
+      },
+      {
+        "name": "Mr Paul Sisk",
+        "title": "Director of Professional Services, Lakeside Software"
+      },
+      {
+        "name": "Mr Dan Alberty",
+        "title": "It Support Technician"
+      },
+      {
+        "name": "Jaimie Birk",
+        "title": "Software Engineer"
+      },
+      {
+        "name": "Mr Garrett Boren",
+        "title": "Software Engineer"
+      },
+      {
+        "name": "Mr Jeff Clark",
+        "title": "Senior Software Engineer"
+      },
+      {
+        "name": "Mr Jason Davis",
+        "title": "Senior Solutions Engineer"
+      },
+      {
+        "name": "Mr Zachary Hopping",
+        "title": "Software Engineer"
+      },
+      {
+        "name": "Mr Mike Klingbeil",
+        "title": "Software Engineer"
+      },
+      {
+        "name": "Mr John Marion",
+        "title": "Software Developer"
+      },
+      {
+        "name": "Mr Gary Mugridge",
+        "title": "Cloud Services Technician"
+      },
+      {
+        "name": "Mr Justin Oderfer",
+        "title": "Software"
+      },
+      {
+        "name": "Mr Brandon Oyer",
+        "title": "Applications Engineer"
+      },
+      {
+        "name": "Mr Rolando Paz",
+        "title": "Senior System Engineer"
+      },
+      {
+        "name": "Mr Cooper Riehl",
+        "title": "Software Engineer"
+      },
+      {
+        "name": "Ms Linda Tsao",
+        "title": "Application Engineer"
+      },
+      {
+        "name": "Mr Max Wesley",
+        "title": "Software Engineer"
+      },
+      {
+        "name": "Mr David Zhuo",
+        "title": "Software Developer"
+      },
+      {
+        "name": "Ms Alicia Beaubien",
+        "title": "Demand Generation Manager, Copywriter"
+      },
+      {
+        "name": "Mr Paul Cherniak",
+        "title": "Triage Developer"
+      },
+      {
+        "name": "Ms Terri Middleton",
+        "title": "Senior Education Specialist"
+      },
+      {
+        "name": "Mr Richard Murphy",
+        "title": "Desktop Virtualization Specialist"
+      },
+      {
+        "name": "Mr Mitchell Saint Amour",
+        "title": "Triage Developer"
+      },
+      {
+        "name": "Mr Ryan Wood",
+        "title": "Senior Applied Engineer"
+      }
+    ]
+  },
+  {
+    "name": "EXTRIC, LLC",
+    "state": "MI",
+    "year_incorporated": "2004",
+    "nace": "5829",
+    "employees": "30",
+    "revenue_usd": 1200000,
+    "pl_before_tax": null,
+    "total_assets": null,
+    "equity": null,
+    "website": "www.towbook.com",
+    "description": null,
+    "contacts": [
+      {
+        "name": "Mr Dan Smith",
+        "title": "Chief Executive Officer"
+      }
+    ]
+  },
+  {
+    "name": "LPIT SOLUTIONS INC.",
+    "state": "MI",
+    "year_incorporated": "2002",
+    "nace": "5829",
+    "employees": "45",
+    "revenue_usd": 1200000,
+    "pl_before_tax": null,
+    "total_assets": null,
+    "equity": null,
+    "website": "www.lpitcore.com",
+    "description": null,
+    "contacts": [
+      {
+        "name": "Mr John Scott Macgregor",
+        "title": "Chairman"
+      },
+      {
+        "name": "Mr John Scott Macgregor",
+        "title": "President"
+      },
+      {
+        "name": "Mr John Scott Macgregor",
+        "title": "President Ident"
+      },
+      {
+        "name": "Mr John Scott Macgregor",
+        "title": "Governor"
+      },
+      {
+        "name": "Mr Ross MacGregor",
+        "title": "Vice President, Business Development"
+      },
+      {
+        "name": "Ms Susan Zadel",
+        "title": "Controller"
+      },
+      {
+        "name": "Mr Jesse Liebler",
+        "title": "Training Specialist"
+      },
+      {
+        "name": "Ms Becky Towner",
+        "title": "Manager, Customer Success"
+      },
+      {
+        "name": "Mr Jordan Haan",
+        "title": "Customer Support Specialist"
+      },
+      {
+        "name": "Ms Jennifer Kuiper",
+        "title": "Account Specialist"
+      },
+      {
+        "name": "Mr Matthew Macgregor",
+        "title": "Customer Success Specialist"
+      },
+      {
+        "name": "Mr James Casavant",
+        "title": "Director of Technology"
+      },
+      {
+        "name": "Mr James Casavant",
+        "title": "No specific function"
+      },
+      {
+        "name": "Mr Jamie Liebler",
+        "title": "Project Manager"
+      },
+      {
+        "name": "Mr Jared Mattfolk",
+        "title": "Information Technology and Security Administrator"
+      },
+      {
+        "name": "Ms Tonia Parkhurst",
+        "title": "Technologist"
+      }
+    ]
+  },
+  {
+    "name": "CONDUCIVE TECHNOLOGY CORP",
+    "state": "OR",
+    "year_incorporated": "2001",
+    "nace": "5829",
+    "employees": "11",
+    "revenue_usd": 1196000,
+    "pl_before_tax": null,
+    "total_assets": null,
+    "equity": null,
+    "website": "www.flightstats-inc.com",
+    "description": null,
+    "contacts": []
+  },
+  {
+    "name": "ATS PROJECT SUCCESS",
+    "state": "MI",
+    "year_incorporated": null,
+    "nace": "5829",
+    "employees": "11",
+    "revenue_usd": 1196000,
+    "pl_before_tax": null,
+    "total_assets": null,
+    "equity": null,
+    "website": "main.atsprojectsuccessworks.com",
+    "description": null,
+    "contacts": []
+  },
+  {
+    "name": "HANGAR ALPHA LLC",
+    "state": "NY",
+    "year_incorporated": "2018",
+    "nace": "5829",
+    "employees": "10",
+    "revenue_usd": 1190000,
+    "pl_before_tax": null,
+    "total_assets": null,
+    "equity": null,
+    "website": "www.hangar.is",
+    "description": null,
+    "contacts": [
+      {
+        "name": "Mr Josh Mendelsohn",
+        "title": "Managing Partner"
+      }
+    ]
+  },
+  {
+    "name": "PNATC-QUICKBOOKS CONSULTING & ZOHO CONSULTANTS",
+    "state": "NY",
+    "year_incorporated": "1982",
+    "nace": "5829",
+    "employees": "60",
+    "revenue_usd": 1190000,
+    "pl_before_tax": null,
+    "total_assets": null,
+    "equity": null,
+    "website": "www.pnatc.com",
+    "description": null,
+    "contacts": []
+  },
+  {
+    "name": "LINESLIP SOLUTIONS INC",
+    "state": "NY",
+    "year_incorporated": "2022",
+    "nace": "5829",
+    "employees": "25",
+    "revenue_usd": 1190000,
+    "pl_before_tax": null,
+    "total_assets": null,
+    "equity": null,
+    "website": "lineslipsolutions.com",
+    "description": null,
+    "contacts": []
+  },
+  {
+    "name": "TEAM BUILDERS INC",
+    "state": "NY",
+    "year_incorporated": null,
+    "nace": "5829",
+    "employees": "11",
+    "revenue_usd": 1190000,
+    "pl_before_tax": null,
+    "total_assets": null,
+    "equity": null,
+    "website": "teambuildersinc.com",
+    "description": null,
+    "contacts": []
+  },
+  {
+    "name": "COINS USA",
+    "state": "NY",
+    "year_incorporated": null,
+    "nace": "5829",
+    "employees": "55",
+    "revenue_usd": 1190000,
+    "pl_before_tax": null,
+    "total_assets": null,
+    "equity": null,
+    "website": "www.coins-global.com",
+    "description": null,
+    "contacts": [
+      {
+        "name": "Mr Brian Drumm",
+        "title": "Delivery and Product Director, USA, All Divisions"
+      },
+      {
+        "name": "Ms Ruth Costello",
+        "title": "Project Manager"
+      },
+      {
+        "name": "Ms Anne Gray",
+        "title": "Project Manager"
+      },
+      {
+        "name": "Ms Arkeva Knowles",
+        "title": "Project Coordinator"
+      },
+      {
+        "name": "Ms Maria Zavgorodneva",
+        "title": "Quality Assurance Analyst"
+      },
+      {
+        "name": "Mr Joseph Schmidt",
+        "title": "Network and Computer Systems Administrator"
+      },
+      {
+        "name": "Mr Jared Ports",
+        "title": "Programmer Analyst"
+      },
+      {
+        "name": "Mr Benjamin Perry",
+        "title": "Delivery Manager"
+      },
+      {
+        "name": "Mr Matt Zalucki",
+        "title": "Service Delivery Team Lead"
+      },
+      {
+        "name": "Mr Alexander Baklushin",
+        "title": "Developer"
+      },
+      {
+        "name": "Ms Theresa Carreiro",
+        "title": "Support Analyst"
+      },
+      {
+        "name": "Mr Tony Colino",
+        "title": "Consultant"
+      },
+      {
+        "name": "Ms Caroline Luciano",
+        "title": "Business Analyst"
+      },
+      {
+        "name": "Mr Alexander Malashenko",
+        "title": "Senior Developer"
+      },
+      {
+        "name": "Mr Yuri Solodkin",
+        "title": "Ios Developer"
+      },
+      {
+        "name": "Ms Sabrina Strassheim",
+        "title": "Consultant"
+      },
+      {
+        "name": "Mr Zack Tanner",
+        "title": "Consultant"
+      },
+      {
+        "name": "Ms Kaylee Urban",
+        "title": "Support Analyst"
+      }
+    ]
+  },
+  {
+    "name": "E HIGHER EDUCATION COM INC",
+    "state": "NY",
+    "year_incorporated": "2004",
+    "nace": "5829",
+    "employees": "16",
+    "revenue_usd": 1190000,
+    "pl_before_tax": null,
+    "total_assets": null,
+    "equity": null,
+    "website": "www.ehighereducation.com",
+    "description": null,
+    "contacts": []
+  },
+  {
+    "name": "GOALQUEST INC",
+    "state": "NY",
+    "year_incorporated": "2000",
+    "nace": "5829",
+    "employees": "50",
+    "revenue_usd": 1190000,
+    "pl_before_tax": null,
+    "total_assets": null,
+    "equity": null,
+    "website": "www.biworldwide.com",
+    "description": null,
+    "contacts": []
+  },
+  {
+    "name": "MAGSOFT CORP",
+    "state": "NY",
+    "year_incorporated": "1986",
+    "nace": "5829",
+    "employees": "11",
+    "revenue_usd": 1190000,
+    "pl_before_tax": null,
+    "total_assets": null,
+    "equity": null,
+    "website": "www.magsoft-flux.com",
+    "description": null,
+    "contacts": []
+  },
+  {
+    "name": "PINEBUSH TECHNOLOGIES, INC.",
+    "state": "NY",
+    "year_incorporated": "1986",
+    "nace": "5829",
+    "employees": "30",
+    "revenue_usd": 1190000,
+    "pl_before_tax": null,
+    "total_assets": null,
+    "equity": null,
+    "website": "www.pinebush.com",
+    "description": null,
+    "contacts": [
+      {
+        "name": "Mr George Chandler",
+        "title": "Executive Officer"
+      }
+    ]
+  },
+  {
+    "name": "UNIQUE COMP INC.",
+    "state": "NY",
+    "year_incorporated": "1997",
+    "nace": "5829",
+    "employees": "42",
+    "revenue_usd": 1190000,
+    "pl_before_tax": null,
+    "total_assets": null,
+    "equity": null,
+    "website": "www.uciny.com",
+    "description": "Provides information technology services",
+    "contacts": [
+      {
+        "name": "Ms Kalpana Patel",
+        "title": "President"
+      },
+      {
+        "name": "Mr Gary Rado",
+        "title": "Chief Technology Officer / Partner"
+      },
+      {
+        "name": "Kirti Shah",
+        "title": "Treasurer"
+      },
+      {
+        "name": "Ms Swati Bhoyarkar",
+        "title": "Administrative Assistant"
+      },
+      {
+        "name": "Mr Parth Parmar",
+        "title": "Recruitment Executive"
+      },
+      {
+        "name": "Mr Mrunal Patel",
+        "title": "Recruitment Executive"
+      },
+      {
+        "name": "Tanay Parmar",
+        "title": "Manager, Recruiting"
+      },
+      {
+        "name": "Ms Diana Tacuri",
+        "title": "Resource/ Recruiting Manager"
+      },
+      {
+        "name": "Mr Narayan Katdhare",
+        "title": "Vice President, Solutions"
+      },
+      {
+        "name": "Mr Mudassar Kadri",
+        "title": "It Recruiter"
+      },
+      {
+        "name": "Mr Faruk Qureshi",
+        "title": "Senior It Recruiter"
+      },
+      {
+        "name": "Manali Srivastava",
+        "title": "It Recruiter"
+      },
+      {
+        "name": "Mr Gautam Tooley",
+        "title": "Officer"
+      }
+    ]
+  },
+  {
+    "name": "DATA MINING TECHNOLOGIES INC",
+    "state": "NY",
+    "year_incorporated": "1999",
+    "nace": "5829",
+    "employees": "13",
+    "revenue_usd": 1190000,
+    "pl_before_tax": null,
+    "total_assets": null,
+    "equity": null,
+    "website": "www.data-mine.com",
+    "description": null,
+    "contacts": [
+      {
+        "name": "Mr Michael J Gilman",
+        "title": "Executive Officer"
+      }
+    ]
+  },
+  {
+    "name": "SHUNRA SOFTWARE LTD.",
+    "state": "NY",
+    "year_incorporated": "2003",
+    "nace": "5829",
+    "employees": "30",
+    "revenue_usd": 1190000,
+    "pl_before_tax": null,
+    "total_assets": null,
+    "equity": null,
+    "website": "www.shunra.com",
+    "description": null,
+    "contacts": [
+      {
+        "name": "Mr Thomas Charlton",
+        "title": "Chief Executive Officer"
+      }
+    ]
+  },
+  {
+    "name": "ORTHSTAR ENTERPRISES INC",
+    "state": "NY",
+    "year_incorporated": "1995",
+    "nace": "5829",
+    "employees": "65",
+    "revenue_usd": 1190000,
+    "pl_before_tax": null,
+    "total_assets": null,
+    "equity": null,
+    "website": "www.orthstar.com",
+    "description": null,
+    "contacts": []
+  },
+  {
+    "name": "ACQUIDATA INC",
+    "state": "NY",
+    "year_incorporated": "1983",
+    "nace": "5829",
+    "employees": "10",
+    "revenue_usd": 1190000,
+    "pl_before_tax": null,
+    "total_assets": null,
+    "equity": null,
+    "website": "www.acquidata.com",
+    "description": null,
+    "contacts": []
+  },
+  {
+    "name": "QUANTUM TECHNOLOGIES INC",
+    "state": "NY",
+    "year_incorporated": "1994",
+    "nace": "5829",
+    "employees": "25",
+    "revenue_usd": 1190000,
+    "pl_before_tax": null,
+    "total_assets": null,
+    "equity": null,
+    "website": "www.quantum-usa.com",
+    "description": null,
+    "contacts": []
+  },
+  {
+    "name": "COMPREHENSIVE INFORMATION SCIENCES INC.",
+    "state": "NY",
+    "year_incorporated": "1985",
+    "nace": "5829",
+    "employees": "12",
+    "revenue_usd": 1190000,
+    "pl_before_tax": null,
+    "total_assets": null,
+    "equity": null,
+    "website": "www.comprehensivemedicalreviews.com",
+    "description": null,
+    "contacts": [
+      {
+        "name": "Mr Matthew H Stern",
+        "title": "Chief Executive Officer"
+      }
+    ]
+  },
+  {
+    "name": "STRUCTURED TECHNOLOGIES, INC.",
+    "state": "NY",
+    "year_incorporated": "1989",
+    "nace": "5829",
+    "employees": "30",
+    "revenue_usd": 1190000,
+    "pl_before_tax": null,
+    "total_assets": null,
+    "equity": null,
+    "website": "www.struct.com",
+    "description": null,
+    "contacts": [
+      {
+        "name": "Mr Ron Bolt",
+        "title": "Vice President - Operations"
+      }
+    ]
+  }
+]

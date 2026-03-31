@@ -1,0 +1,951 @@
+[
+  {
+    "name": "CREATIVE LIFESTYLES",
+    "state": "MI",
+    "year_incorporated": "1984",
+    "nace": "5829",
+    "employees": "18",
+    "revenue_usd": 3800000,
+    "pl_before_tax": null,
+    "total_assets": null,
+    "equity": null,
+    "website": "www.creativelifestyles.com",
+    "description": null,
+    "contacts": [
+      {
+        "name": "Mr Frank Meyer",
+        "title": "President"
+      },
+      {
+        "name": "Mr Rupert Pearson",
+        "title": "Director, Day Services & Employment Services"
+      }
+    ]
+  },
+  {
+    "name": "MICROSTRATEGY INC",
+    "state": "CA",
+    "year_incorporated": null,
+    "nace": "5829",
+    "employees": "10",
+    "revenue_usd": 3800000,
+    "pl_before_tax": null,
+    "total_assets": null,
+    "equity": null,
+    "website": "www.microstrategy.com",
+    "description": null,
+    "contacts": [
+      {
+        "name": "Mr Amaury Gallisa",
+        "title": "Vice President & Gm Latin America"
+      }
+    ]
+  },
+  {
+    "name": "CLICKSOFTWARE, INC.",
+    "state": "CA",
+    "year_incorporated": "2000",
+    "nace": "5829",
+    "employees": "10",
+    "revenue_usd": 3800000,
+    "pl_before_tax": null,
+    "total_assets": null,
+    "equity": null,
+    "website": "www.clicksoftware.com",
+    "description": null,
+    "contacts": []
+  },
+  {
+    "name": "MCBA INC",
+    "state": "AL",
+    "year_incorporated": "1974",
+    "nace": "5829",
+    "employees": "25",
+    "revenue_usd": 3800000,
+    "pl_before_tax": null,
+    "total_assets": null,
+    "equity": null,
+    "website": "www.mcba.com",
+    "description": null,
+    "contacts": []
+  },
+  {
+    "name": "LOGICEASE SOLUTIONS INC",
+    "state": "NY",
+    "year_incorporated": "2001",
+    "nace": "5829",
+    "employees": "30",
+    "revenue_usd": 3800000,
+    "pl_before_tax": null,
+    "total_assets": null,
+    "equity": null,
+    "website": "www.complianceease.com",
+    "description": "Designs, develops, and provides intelligent business solutions to financial services institutions",
+    "contacts": [
+      {
+        "name": "Ms Anita L Kwan",
+        "title": "Chairman"
+      },
+      {
+        "name": "Mr John Vong",
+        "title": "Co-Founder & Chairman; Shareholder"
+      },
+      {
+        "name": "Mr Joseph Tan Chua",
+        "title": "Board of Dirs"
+      },
+      {
+        "name": "Mr David R Hayes",
+        "title": "Board of Dirs"
+      },
+      {
+        "name": "Mr Jerry Hoerauf",
+        "title": "Board of Dirs"
+      },
+      {
+        "name": "Mr Michael Jackman",
+        "title": "Chief Executive Officer"
+      },
+      {
+        "name": "Mr David Chan",
+        "title": "Co-Founder & Senior Vice President, Engineering"
+      },
+      {
+        "name": "Mr Jason Roth",
+        "title": "Shareholder; Co-Founder & CTO"
+      },
+      {
+        "name": "Mr Jason Roth",
+        "title": "Co-Founder and Senior Vice President, Product Management"
+      },
+      {
+        "name": "Mr Steven Eakman",
+        "title": "General Counsel & Senior Vice President"
+      },
+      {
+        "name": "Mr Daniel Smith",
+        "title": "Senior Vice President"
+      },
+      {
+        "name": "Mr Daniel Smith",
+        "title": "Senior Vice President, Government Relations"
+      },
+      {
+        "name": "Sandi Johnson",
+        "title": "Strategic Account Manager"
+      },
+      {
+        "name": "Mr Christian Peter Rodskog",
+        "title": "Senior Vice President, Finance"
+      },
+      {
+        "name": "Mr Edward Fong",
+        "title": "Accounting Contractor"
+      },
+      {
+        "name": "Ms Tracey Nguyen",
+        "title": "Accounts Receivable Department"
+      },
+      {
+        "name": "Mr Duy Truong",
+        "title": "Accounting Assistant"
+      },
+      {
+        "name": "Ms Amber Xie",
+        "title": "Accounting Assistant"
+      },
+      {
+        "name": "Nancie Dunn",
+        "title": "Manager, Human Resources"
+      },
+      {
+        "name": "Mr Michael Chan",
+        "title": "Vice President Sales & Marketing"
+      },
+      {
+        "name": "Ms Katrina Chang",
+        "title": "Director, Sales"
+      },
+      {
+        "name": "Mr Tim Sullivan",
+        "title": "Sales Director"
+      },
+      {
+        "name": "Blair Matuszak",
+        "title": "Marketing Associate & Manager"
+      },
+      {
+        "name": "Ms Katie Jacobs",
+        "title": "Marketing Coordinator"
+      },
+      {
+        "name": "Mr Jake Wilgus",
+        "title": "Marketing Assistant"
+      },
+      {
+        "name": "Ms Sarah Baker",
+        "title": "Director of Technical Operations"
+      },
+      {
+        "name": "Mr Sanjay Tibrewal",
+        "title": "Senior Vice President, Product Management"
+      },
+      {
+        "name": "Mr Karol Villavicencio",
+        "title": "Business Operations Manager"
+      },
+      {
+        "name": "Mr Raymond Kwong",
+        "title": "Information Technology Staff"
+      },
+      {
+        "name": "Mr Sunny Singh",
+        "title": "Software Developer"
+      },
+      {
+        "name": "Ms Tracy Strub",
+        "title": "Information Technology Engineer"
+      },
+      {
+        "name": "Mr Luke Chen",
+        "title": "Channel Partner Manager"
+      },
+      {
+        "name": "Ms Jeanette Baeder",
+        "title": "Business Analyst"
+      },
+      {
+        "name": "Ms Kimberly Chua",
+        "title": "Business Analyst"
+      },
+      {
+        "name": "Sonnia Li",
+        "title": "Business Analyst II"
+      },
+      {
+        "name": "Mr Jonas Hoerler",
+        "title": "Senior Staff Attorney"
+      },
+      {
+        "name": "Mr Neal Kingsley",
+        "title": "Senior Staff Attorney"
+      },
+      {
+        "name": "Ms Malorie Hilscher",
+        "title": "CFPB Office of Regulations"
+      }
+    ]
+  },
+  {
+    "name": "QUARTERDECK CORP",
+    "state": "CA",
+    "year_incorporated": null,
+    "nace": "5829",
+    "employees": "12",
+    "revenue_usd": 3800000,
+    "pl_before_tax": null,
+    "total_assets": null,
+    "equity": null,
+    "website": "www.symantec.com",
+    "description": null,
+    "contacts": [
+      {
+        "name": "Mr Alex Eckelberry",
+        "title": "No specific function"
+      }
+    ]
+  },
+  {
+    "name": "ESCALATE RETAIL INC",
+    "state": "CA",
+    "year_incorporated": "1986",
+    "nace": "5829",
+    "employees": "500",
+    "revenue_usd": 3800000,
+    "pl_before_tax": null,
+    "total_assets": null,
+    "equity": null,
+    "website": "www.escalateretail.com",
+    "description": "Engaged in providing software solutions that enable cross channel commerce in the store, on the Web, and over the phone",
+    "contacts": [
+      {
+        "name": "Mr Michael Larkin",
+        "title": "Chief Financial Officer"
+      },
+      {
+        "name": "Mr Rob Neibauer",
+        "title": "Senior Vice President - Sales - Worldwide"
+      },
+      {
+        "name": "Mr Tom Mudd",
+        "title": "Vice President - Software Development"
+      }
+    ]
+  },
+  {
+    "name": "VENDAVO INC",
+    "state": "CA",
+    "year_incorporated": "1998",
+    "nace": "5829",
+    "employees": "32",
+    "revenue_usd": 3800000,
+    "pl_before_tax": null,
+    "total_assets": null,
+    "equity": null,
+    "website": "www.vendavo.com",
+    "description": "Engaged in the provision of price management and optimization solutions to business-to-business companies in the United States and internationally",
+    "contacts": [
+      {
+        "name": "Mr Bruno Naas G Slosse",
+        "title": "President & Chief Executive Officer"
+      },
+      {
+        "name": "Mr Maarten De Bruijn",
+        "title": "Vice President & General Manager - Sales & Service-EMEA"
+      },
+      {
+        "name": "Mr John Oosterhouse",
+        "title": "Chief Financial Officer"
+      },
+      {
+        "name": "Mr Michael Hoffman",
+        "title": "Chief Commercial Officer"
+      },
+      {
+        "name": "Mr C Edward Brice",
+        "title": "Chief Marketing Officer"
+      },
+      {
+        "name": "Mr Peter Yim",
+        "title": "Marketing Operations Manager"
+      },
+      {
+        "name": "Ms Erika Busey",
+        "title": "Account Executive"
+      },
+      {
+        "name": "Ms Vicki Roberts",
+        "title": "Senior Account Executive"
+      },
+      {
+        "name": "Mr David Edwards",
+        "title": "CTO"
+      },
+      {
+        "name": "Mr Jaroslav Pros",
+        "title": "Lead Quality Assurance Engineer"
+      },
+      {
+        "name": "Mr Ramanan Thangadurai",
+        "title": "Lead Solution Engineer"
+      },
+      {
+        "name": "Mr Kamal Sabnani",
+        "title": "Senior Pricing Scientist"
+      },
+      {
+        "name": "Ms Rachel Berbiglia",
+        "title": "Director, Project Management Office Operations"
+      },
+      {
+        "name": "Mr Sanjeev Bhat",
+        "title": "Senior Director, Global Solutions Delivery"
+      },
+      {
+        "name": "Venkata Bejawada",
+        "title": "Solution Architect & GSD Engineer"
+      },
+      {
+        "name": "Ms Gina Bates",
+        "title": "Chief Revenue Officer"
+      },
+      {
+        "name": "Mr Mark Anthony Horner",
+        "title": "Chief Services Officer"
+      },
+      {
+        "name": "Mr Joe Marcin",
+        "title": "Chief Revenue Officer"
+      },
+      {
+        "name": "Mr Patti Poole",
+        "title": "Chief Revenue Officer"
+      }
+    ]
+  },
+  {
+    "name": "BLACK CREEK INTEGRATED SYSTEMS CORP.",
+    "state": "AL",
+    "year_incorporated": "1993",
+    "nace": "5829",
+    "employees": "35",
+    "revenue_usd": 3800000,
+    "pl_before_tax": null,
+    "total_assets": null,
+    "equity": null,
+    "website": "www.blackcreekisc.com",
+    "description": null,
+    "contacts": [
+      {
+        "name": "Mr Ike Newton",
+        "title": "President"
+      },
+      {
+        "name": "Ms Connie Hill",
+        "title": "Corporate Secretary"
+      },
+      {
+        "name": "Ms Linda Albonetti",
+        "title": "Executive Assistant"
+      },
+      {
+        "name": "Mr Thomas Lanphear",
+        "title": "Group Sales Manager, Criminal Justice Application"
+      },
+      {
+        "name": "Mr Brady W Hughes",
+        "title": "Vice President - Research and Development"
+      },
+      {
+        "name": "Ms Shandra Davidson",
+        "title": "Project Manager"
+      },
+      {
+        "name": "Mr Anthony Nicastro",
+        "title": "Software Developer"
+      },
+      {
+        "name": "Mr Jay Tumlin",
+        "title": "Service Manager"
+      },
+      {
+        "name": "Mr Paul Doser",
+        "title": "Service Technician"
+      },
+      {
+        "name": "Ms Arletha Jones",
+        "title": "Design Engineer"
+      },
+      {
+        "name": "Mr Terrence Stokes",
+        "title": "Field Service Technician"
+      }
+    ]
+  },
+  {
+    "name": "SINGLECOMM LLC",
+    "state": "VA",
+    "year_incorporated": "2014",
+    "nace": "5829",
+    "employees": "14",
+    "revenue_usd": 3800000,
+    "pl_before_tax": null,
+    "total_assets": null,
+    "equity": null,
+    "website": "www.linkedin.com/company/singlecomm",
+    "description": null,
+    "contacts": [
+      {
+        "name": "Mr Michael Puccinelli",
+        "title": "Co-Founder & Chief Executive Officer"
+      },
+      {
+        "name": "Mr Kurt M Maschoff",
+        "title": "Owner"
+      },
+      {
+        "name": "Mr Scott Swanson",
+        "title": "Vice President Sales"
+      },
+      {
+        "name": "Mr Chris Billups",
+        "title": "Business Analyst"
+      }
+    ]
+  },
+  {
+    "name": "APPTREE SOFTWARE INC",
+    "state": "OR",
+    "year_incorporated": "2017",
+    "nace": "5829",
+    "employees": "10",
+    "revenue_usd": 3800000,
+    "pl_before_tax": null,
+    "total_assets": null,
+    "equity": null,
+    "website": "www.apptreerevolution.com",
+    "description": null,
+    "contacts": []
+  },
+  {
+    "name": "APPSTEK INC",
+    "state": "TX",
+    "year_incorporated": "2007",
+    "nace": "5829",
+    "employees": "10",
+    "revenue_usd": 3800000,
+    "pl_before_tax": null,
+    "total_assets": null,
+    "equity": null,
+    "website": "www.appstekcorp.com",
+    "description": "Engaged in the provision of computer programming, data processing, and other computer related services",
+    "contacts": [
+      {
+        "name": "Mr Venkata Krishna Gutta",
+        "title": "Chairman & Managing Director"
+      },
+      {
+        "name": "Ms Ifeyinwa Ugboh",
+        "title": "Business Development Director"
+      },
+      {
+        "name": "Mr Abhishek Bhardwaj",
+        "title": "Director, Sales"
+      },
+      {
+        "name": "Pravalika Kukkala",
+        "title": "Inside Sales Executive"
+      },
+      {
+        "name": "Kali Ravela",
+        "title": "Director, Operations"
+      },
+      {
+        "name": "Mr Suresh Yenugula",
+        "title": "Senior Java Application Lead"
+      }
+    ]
+  },
+  {
+    "name": "BRANCH MESSENGER INC",
+    "state": "MN",
+    "year_incorporated": "2014",
+    "nace": "5829",
+    "employees": "10",
+    "revenue_usd": 3800000,
+    "pl_before_tax": null,
+    "total_assets": null,
+    "equity": null,
+    "website": "www.branchapp.com",
+    "description": "Employee payment mobile application developer ; Debit card issuing services",
+    "contacts": [
+      {
+        "name": "Mr Atif Siddiqi",
+        "title": "President"
+      },
+      {
+        "name": "Ms Marcia Goodstein",
+        "title": "Secretary"
+      },
+      {
+        "name": "Mr Craig Chrisney",
+        "title": "Treasurer"
+      }
+    ]
+  },
+  {
+    "name": "NINE HERTZ LLC",
+    "state": "OH",
+    "year_incorporated": "2008",
+    "nace": "5829",
+    "employees": "375",
+    "revenue_usd": 3800000,
+    "pl_before_tax": null,
+    "total_assets": null,
+    "equity": null,
+    "website": "www.theninehertz.com",
+    "description": null,
+    "contacts": []
+  },
+  {
+    "name": "SHAREBUILDERS INC",
+    "state": "IL",
+    "year_incorporated": "2004",
+    "nace": "5829",
+    "employees": "35",
+    "revenue_usd": 3800000,
+    "pl_before_tax": null,
+    "total_assets": null,
+    "equity": null,
+    "website": "www.share-builders.com",
+    "description": null,
+    "contacts": [
+      {
+        "name": "Ms Erin Koller",
+        "title": "Chief Executive Officer"
+      },
+      {
+        "name": "Mr James Pollard",
+        "title": "Agent"
+      },
+      {
+        "name": "Ms Kitty Malone",
+        "title": "Manager, Customer Success"
+      },
+      {
+        "name": "Mr Austin Locke",
+        "title": "Chief Information Officer"
+      },
+      {
+        "name": "Mr Jared Petri",
+        "title": "Software Developer"
+      }
+    ]
+  },
+  {
+    "name": "PERISCOPE HOLDINGS, INC.",
+    "state": "TX",
+    "year_incorporated": "2010",
+    "nace": "5829",
+    "employees": "40",
+    "revenue_usd": 3800000,
+    "pl_before_tax": null,
+    "total_assets": null,
+    "equity": null,
+    "website": "www.periscopeholdings.com",
+    "description": "Engaged in the procurement software solutions for public and private sector businesses",
+    "contacts": [
+      {
+        "name": "Mr Brian Utley",
+        "title": "President and Chief Executive Officer"
+      },
+      {
+        "name": "Mr David Landsman",
+        "title": "Senior Vice President"
+      },
+      {
+        "name": "Mr Dede Preno",
+        "title": "Senior Business Analyst"
+      },
+      {
+        "name": "Mr Kevin Sheets",
+        "title": "Business Development Manager"
+      },
+      {
+        "name": "Mr David English",
+        "title": "Chief Financial Officer"
+      },
+      {
+        "name": "Ms Brittany Parker",
+        "title": "Vice President of Sales"
+      },
+      {
+        "name": "Ms Alais Petersen",
+        "title": "Sales Operations Manager"
+      },
+      {
+        "name": "Mr Christopher Jacoby",
+        "title": "Vice President of Client Services"
+      },
+      {
+        "name": "Mr Christopher Kennedy",
+        "title": "Vice President - Client Services"
+      },
+      {
+        "name": "Mr Cesar Gonzalez",
+        "title": "CTO"
+      },
+      {
+        "name": "Mr Alex Ladik",
+        "title": "Senior Technical Analyst"
+      },
+      {
+        "name": "Mr Jason Barlow",
+        "title": "Product Manager"
+      },
+      {
+        "name": "Dacia Heck",
+        "title": "Director, Quality"
+      },
+      {
+        "name": "Ms Larette Fontenot",
+        "title": "Transforming Public Sector Procurement"
+      },
+      {
+        "name": "Mr Doug Fugate",
+        "title": "System Administrator"
+      },
+      {
+        "name": "Mr John Walters",
+        "title": "Nigp Program Director"
+      },
+      {
+        "name": "Mr Henrik Engert",
+        "title": "Software Engineer"
+      },
+      {
+        "name": "Mr Jason McWilliams",
+        "title": "Solutions Consultant"
+      },
+      {
+        "name": "Jean A Clark",
+        "title": "President - Nigp Commodity & Services Code"
+      }
+    ]
+  },
+  {
+    "name": "WINWAY CORPORATION",
+    "state": "CA",
+    "year_incorporated": "1995",
+    "nace": "5829",
+    "employees": "12",
+    "revenue_usd": 3800000,
+    "pl_before_tax": null,
+    "total_assets": null,
+    "equity": null,
+    "website": "www.winway.com",
+    "description": null,
+    "contacts": [
+      {
+        "name": "Ms Carmel Erez",
+        "title": "President"
+      },
+      {
+        "name": "Ms Judi Carmel",
+        "title": "Treasurer"
+      }
+    ]
+  },
+  {
+    "name": "MZINGA",
+    "state": "MA",
+    "year_incorporated": "1997",
+    "nace": "5829",
+    "employees": "100",
+    "revenue_usd": 3800000,
+    "pl_before_tax": null,
+    "total_assets": null,
+    "equity": null,
+    "website": "www.mzinga.com",
+    "description": "Engaged in providing online business social media and workforce solutions that enable businesses to harness the collective intelligence of employees, customers, partners, and shareholders",
+    "contacts": [
+      {
+        "name": "Mr Barry D Libert",
+        "title": "Founder & Chairman; Shareholder"
+      },
+      {
+        "name": "Mr Randy Saari",
+        "title": "Senior Vice President"
+      },
+      {
+        "name": "Mr Bakari Sengoa",
+        "title": "Engineer"
+      }
+    ]
+  },
+  {
+    "name": "SYNCRETIC SOFTWARE INC",
+    "state": "DE",
+    "year_incorporated": null,
+    "nace": "5829",
+    "employees": "10",
+    "revenue_usd": 3800000,
+    "pl_before_tax": null,
+    "total_assets": null,
+    "equity": null,
+    "website": "syncretic.com",
+    "description": null,
+    "contacts": [
+      {
+        "name": "Mr Tony Casazza",
+        "title": "Senior Network Engineer"
+      }
+    ]
+  },
+  {
+    "name": "VIVOX INC",
+    "state": "MA",
+    "year_incorporated": "2006",
+    "nace": "5829",
+    "employees": "10",
+    "revenue_usd": 3800000,
+    "pl_before_tax": null,
+    "total_assets": null,
+    "equity": null,
+    "website": "www.vivox.com",
+    "description": "Integrated communications and social network software developer ; Integrated communications and social network software publisher",
+    "contacts": [
+      {
+        "name": "Warren T Lee",
+        "title": "Board of Dirs"
+      },
+      {
+        "name": "Mr Robert Seaver",
+        "title": "Chief Executive Officer and Founder"
+      },
+      {
+        "name": "Mr Dave Verratti",
+        "title": "President"
+      },
+      {
+        "name": "Mr Jim Toga",
+        "title": "Chief Technology Officer & Founder"
+      },
+      {
+        "name": "Mr Cody Bye",
+        "title": "Business Development"
+      },
+      {
+        "name": "Mr David Milkes",
+        "title": "Director of Strategy and Business Operations"
+      },
+      {
+        "name": "Ms Deb Camuti",
+        "title": "Manager - Human Resources and Administration"
+      },
+      {
+        "name": "Mr Alex Raine",
+        "title": "Principal Software Engineer"
+      },
+      {
+        "name": "Mr Carlo Digiantommaso",
+        "title": "Senior Software Engineer"
+      },
+      {
+        "name": "Mr Kevin Hendricks",
+        "title": "Software Engineer"
+      }
+    ]
+  },
+  {
+    "name": "NAVIANCE, INC.",
+    "state": "VA",
+    "year_incorporated": "2006",
+    "nace": "5829",
+    "employees": "13",
+    "revenue_usd": 3800000,
+    "pl_before_tax": null,
+    "total_assets": null,
+    "equity": null,
+    "website": "www.naviance.com",
+    "description": null,
+    "contacts": [
+      {
+        "name": "Mr Craig Stanton Heldman",
+        "title": "Chairman / Director"
+      },
+      {
+        "name": "Ms Kathryn Cassino Mchugh",
+        "title": "President"
+      },
+      {
+        "name": "Ms Monica Morrell",
+        "title": "General Manager"
+      },
+      {
+        "name": "Mr Stephen C Smith",
+        "title": "Chief Executive Officer"
+      },
+      {
+        "name": "Mr Shaun Fannin",
+        "title": "Executive Vice President"
+      },
+      {
+        "name": "Mr Matthew Kelman",
+        "title": "Secretary"
+      },
+      {
+        "name": "Mr Samuel Ivy",
+        "title": "Vice President, Central Region, Enterprise Sales"
+      }
+    ]
+  },
+  {
+    "name": "ALA SERVICES LLC",
+    "state": "FL",
+    "year_incorporated": "2015",
+    "nace": "5829",
+    "employees": "15",
+    "revenue_usd": 3800000,
+    "pl_before_tax": null,
+    "total_assets": null,
+    "equity": null,
+    "website": "www.alanaples.com",
+    "description": null,
+    "contacts": [
+      {
+        "name": "Mr Arthur L. Allen",
+        "title": "Founder, President & Chief Executive Officer; Shareholder"
+      },
+      {
+        "name": "Mr Richard Vance",
+        "title": "Executive Vice President"
+      },
+      {
+        "name": "Mr Charles Keen",
+        "title": "Chief Financial Officer"
+      },
+      {
+        "name": "Mr Charles Keen",
+        "title": "Vice President Fp&a Ala Services"
+      }
+    ]
+  },
+  {
+    "name": "SILVERSHORE PARTNERS LLC",
+    "state": "FL",
+    "year_incorporated": null,
+    "nace": "5829",
+    "employees": "10",
+    "revenue_usd": 3800000,
+    "pl_before_tax": null,
+    "total_assets": null,
+    "equity": null,
+    "website": "www.profilegorilla.com",
+    "description": null,
+    "contacts": []
+  },
+  {
+    "name": "POWWOW INC",
+    "state": "CA",
+    "year_incorporated": "2013",
+    "nace": "5829",
+    "employees": "10",
+    "revenue_usd": 3800000,
+    "pl_before_tax": null,
+    "total_assets": null,
+    "equity": null,
+    "website": "www.powwowmobile.com",
+    "description": "Online 'enterprise-to-edge' cross-platform mobile application development platform Software-as-a-Service (SaaS) provider",
+    "contacts": []
+  },
+  {
+    "name": "NGP SOFTWARE INC",
+    "state": "DC",
+    "year_incorporated": "1997",
+    "nace": "5829",
+    "employees": "43",
+    "revenue_usd": 3800000,
+    "pl_before_tax": null,
+    "total_assets": null,
+    "equity": null,
+    "website": "www.ngpsoftware.com",
+    "description": "Fundraising and compliance software developer",
+    "contacts": [
+      {
+        "name": "Mr Stuart Trevelyan",
+        "title": "Chief Executive Officer"
+      },
+      {
+        "name": "Mr John Pepper",
+        "title": "Client Services Specialist"
+      },
+      {
+        "name": "Mr Louis Levine",
+        "title": "General Manager-Fundraising & Compliance"
+      },
+      {
+        "name": "Mr John Lee",
+        "title": "CTO"
+      },
+      {
+        "name": "Mr Mike Rivera",
+        "title": "Senior Software Engineer"
+      },
+      {
+        "name": "Ms Michelle Stephenson",
+        "title": "Chief Revenue Officer"
+      }
+    ]
+  }
+]

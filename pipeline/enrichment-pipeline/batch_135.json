@@ -1,0 +1,814 @@
+[
+  {
+    "name": "HELLOJOY INC",
+    "state": "IL",
+    "year_incorporated": "2021",
+    "nace": "5829",
+    "employees": "17",
+    "revenue_usd": 730000,
+    "pl_before_tax": null,
+    "total_assets": null,
+    "equity": null,
+    "website": "www.blueprint.ai",
+    "description": "Sensor-based remote patient monitoring Software-as-a-Service (SaaS) provider",
+    "contacts": []
+  },
+  {
+    "name": "SIGNAL",
+    "state": "IL",
+    "year_incorporated": "2006",
+    "nace": "5829",
+    "employees": "14",
+    "revenue_usd": 730000,
+    "pl_before_tax": null,
+    "total_assets": null,
+    "equity": null,
+    "website": "www.signalhq.com",
+    "description": null,
+    "contacts": [
+      {
+        "name": "Mr Jeff Judge",
+        "title": "Co-Founder & Chief Executive Officer; Shareholder"
+      },
+      {
+        "name": "Mr Chris Watland",
+        "title": "Co-Founder & President; Shareholder"
+      },
+      {
+        "name": "Mr Zach Rossiter",
+        "title": "Coord-Social Marketing"
+      },
+      {
+        "name": "Mr Ryan Pogue",
+        "title": "Senior Account Executive"
+      },
+      {
+        "name": "Mr John Sharry",
+        "title": "Account Executive"
+      },
+      {
+        "name": "Mr Tim Grace",
+        "title": "Product Director"
+      },
+      {
+        "name": "Mr Julian Rockwood",
+        "title": "Product Manager"
+      }
+    ]
+  },
+  {
+    "name": "EVENTRIC LLC",
+    "state": "IL",
+    "year_incorporated": "2000",
+    "nace": "5829",
+    "employees": "13",
+    "revenue_usd": 730000,
+    "pl_before_tax": null,
+    "total_assets": null,
+    "equity": null,
+    "website": "www.eventric.com",
+    "description": null,
+    "contacts": [
+      {
+        "name": "Mr Paul E Bradley",
+        "title": "President"
+      },
+      {
+        "name": "Mr Paul E Bradley",
+        "title": "Officer"
+      },
+      {
+        "name": "Mr Paul E Bradley",
+        "title": "Manager"
+      },
+      {
+        "name": "Mr John Lombardo",
+        "title": "Business Manager"
+      },
+      {
+        "name": "Mr Matthew Satorius",
+        "title": "Agent"
+      },
+      {
+        "name": "Ms Lauren Henney",
+        "title": "Account Director"
+      },
+      {
+        "name": "Kuhn Ian M",
+        "title": "Contact"
+      }
+    ]
+  },
+  {
+    "name": "XCART DEVELOPMENT",
+    "state": "IL",
+    "year_incorporated": "2007",
+    "nace": "5829",
+    "employees": "35",
+    "revenue_usd": 730000,
+    "pl_before_tax": null,
+    "total_assets": null,
+    "equity": null,
+    "website": "www.xcartdevelopment.com",
+    "description": null,
+    "contacts": []
+  },
+  {
+    "name": "AQUILON ENERGY SERVICES INC",
+    "state": "IL",
+    "year_incorporated": "2012",
+    "nace": "5829",
+    "employees": "15",
+    "revenue_usd": 730000,
+    "pl_before_tax": null,
+    "total_assets": null,
+    "equity": null,
+    "website": "www.aquilonenergyinc.com",
+    "description": "Data intensive energy industry software developer",
+    "contacts": [
+      {
+        "name": "Mr Jeffrey K Wagner",
+        "title": "President"
+      },
+      {
+        "name": "Mr David Freeman",
+        "title": "Vice President Business Development"
+      },
+      {
+        "name": "Mr Lexie Wagner",
+        "title": "Manager, Human Resources"
+      },
+      {
+        "name": "Mr Michael Fitzgerald",
+        "title": "Vice President of Customer Operations"
+      },
+      {
+        "name": "Mr Robert Agnew",
+        "title": "Customer Operations Analyst"
+      },
+      {
+        "name": "Mr Taylor Marberry",
+        "title": "Customer Operations Analyst"
+      },
+      {
+        "name": "Mr Michael Renna",
+        "title": "Senior Customer Implementation Specialist"
+      },
+      {
+        "name": "Mr Jack Sagehorn",
+        "title": "Customer Operations Analyst"
+      },
+      {
+        "name": "Mr Michael Guglielmo",
+        "title": "Manager of Technical Services"
+      },
+      {
+        "name": "Mr Michael Egan",
+        "title": "Chief Operating Officer"
+      },
+      {
+        "name": "Mr Fisnik Balazi",
+        "title": "Data Operations Analyst"
+      },
+      {
+        "name": "Mr Jeffrey Kararo",
+        "title": "Vice President, Application Development"
+      },
+      {
+        "name": "Mr Leeroy DSouza",
+        "title": "Software Engineer"
+      },
+      {
+        "name": "Mr Matthew Kolodzej",
+        "title": "Software Engineer"
+      },
+      {
+        "name": "Mr Don Kobetsky",
+        "title": "Rector"
+      }
+    ]
+  },
+  {
+    "name": "COMMERCIAL FINANCIAL SERVICE INC",
+    "state": "IL",
+    "year_incorporated": null,
+    "nace": "5829",
+    "employees": "15",
+    "revenue_usd": 730000,
+    "pl_before_tax": null,
+    "total_assets": null,
+    "equity": null,
+    "website": "www.ccs4vms.com",
+    "description": null,
+    "contacts": []
+  },
+  {
+    "name": "SCIENTIFIC COMPUTING ASSOCIATES COR",
+    "state": "IL",
+    "year_incorporated": "1990",
+    "nace": "5829",
+    "employees": "13",
+    "revenue_usd": 730000,
+    "pl_before_tax": null,
+    "total_assets": null,
+    "equity": null,
+    "website": "www.scausa.com",
+    "description": null,
+    "contacts": []
+  },
+  {
+    "name": "SITETRACKER INC.",
+    "state": "NJ",
+    "year_incorporated": "2012",
+    "nace": "5829",
+    "employees": "190",
+    "revenue_usd": 730000,
+    "pl_before_tax": null,
+    "total_assets": null,
+    "equity": null,
+    "website": "www.sitetraker.com",
+    "description": "Deployment operations Software-as-a-Service (SaaS) provider",
+    "contacts": [
+      {
+        "name": "Mr Giuseppe Incitti",
+        "title": "President; Executive Officer"
+      },
+      {
+        "name": "Mr Michael Joseph Creegan",
+        "title": "Secretary"
+      },
+      {
+        "name": "Mr Bob Amelung",
+        "title": "Director Customer Support"
+      },
+      {
+        "name": "Mr Timothy May",
+        "title": "CTO"
+      },
+      {
+        "name": "Pema K Kongpo",
+        "title": "Lead Educational Analyst"
+      },
+      {
+        "name": "Ms Weihong Liu",
+        "title": "Governor"
+      }
+    ]
+  },
+  {
+    "name": "AVICI SYSTEMS INC",
+    "state": "MA",
+    "year_incorporated": "2006",
+    "nace": "5829",
+    "employees": "100",
+    "revenue_usd": 730000,
+    "pl_before_tax": null,
+    "total_assets": null,
+    "equity": null,
+    "website": "www.extremenetworks.com",
+    "description": "Engaged in the development and manufacture of software and hardware applications",
+    "contacts": []
+  },
+  {
+    "name": "CADZATION",
+    "state": "IL",
+    "year_incorporated": "2010",
+    "nace": "5829",
+    "employees": "25",
+    "revenue_usd": 730000,
+    "pl_before_tax": null,
+    "total_assets": null,
+    "equity": null,
+    "website": "www.cadzation.com",
+    "description": null,
+    "contacts": [
+      {
+        "name": "Mr Matt Saban",
+        "title": "Owner"
+      }
+    ]
+  },
+  {
+    "name": "RMCIS CORP",
+    "state": "IL",
+    "year_incorporated": "2001",
+    "nace": "5829",
+    "employees": "20",
+    "revenue_usd": 730000,
+    "pl_before_tax": null,
+    "total_assets": null,
+    "equity": null,
+    "website": "www.crossroadsrmc.com",
+    "description": null,
+    "contacts": [
+      {
+        "name": "Mr David M Dickson",
+        "title": "President"
+      },
+      {
+        "name": "Ms Kathy Barthelt",
+        "title": "Secretary"
+      }
+    ]
+  },
+  {
+    "name": "CONSCISYS CORPORATION",
+    "state": "IL",
+    "year_incorporated": "2011",
+    "nace": "5829",
+    "employees": "25",
+    "revenue_usd": 730000,
+    "pl_before_tax": null,
+    "total_assets": null,
+    "equity": null,
+    "website": "www.conscisys.com",
+    "description": null,
+    "contacts": [
+      {
+        "name": "Mr Carr Scott",
+        "title": "President"
+      },
+      {
+        "name": "Mr Morris Violet",
+        "title": "Secretary"
+      }
+    ]
+  },
+  {
+    "name": "WORK COMP SPECIALTY ASSOCIATES INC",
+    "state": "KS",
+    "year_incorporated": "2000",
+    "nace": "5829",
+    "employees": "20",
+    "revenue_usd": 730000,
+    "pl_before_tax": null,
+    "total_assets": null,
+    "equity": null,
+    "website": "www.knight-enterprises.com",
+    "description": null,
+    "contacts": []
+  },
+  {
+    "name": "ACTUATE CORP",
+    "state": "KS",
+    "year_incorporated": "2010",
+    "nace": "5829",
+    "employees": "25",
+    "revenue_usd": 730000,
+    "pl_before_tax": null,
+    "total_assets": null,
+    "equity": null,
+    "website": "www.actuate.com",
+    "description": null,
+    "contacts": []
+  },
+  {
+    "name": "TRANSMEDIA TECHNOLOGY",
+    "state": "KS",
+    "year_incorporated": null,
+    "nace": "5829",
+    "employees": "25",
+    "revenue_usd": 730000,
+    "pl_before_tax": null,
+    "total_assets": null,
+    "equity": null,
+    "website": "www.transmediatech.com",
+    "description": null,
+    "contacts": []
+  },
+  {
+    "name": "AP PREMIER STAFFING INC",
+    "state": "KS",
+    "year_incorporated": null,
+    "nace": "5829",
+    "employees": "10",
+    "revenue_usd": 730000,
+    "pl_before_tax": null,
+    "total_assets": null,
+    "equity": null,
+    "website": "www.appsinc.net",
+    "description": null,
+    "contacts": []
+  },
+  {
+    "name": "EMCIEN CORP",
+    "state": "GA",
+    "year_incorporated": "2002",
+    "nace": "5829",
+    "employees": "33",
+    "revenue_usd": 730000,
+    "pl_before_tax": null,
+    "total_assets": null,
+    "equity": null,
+    "website": "www.emcien.com",
+    "description": null,
+    "contacts": []
+  },
+  {
+    "name": "PREPARED HEALTH INC",
+    "state": "IL",
+    "year_incorporated": "2018",
+    "nace": "5829",
+    "employees": "25",
+    "revenue_usd": 730000,
+    "pl_before_tax": null,
+    "total_assets": null,
+    "equity": null,
+    "website": "www.preparedhealth.com",
+    "description": null,
+    "contacts": [
+      {
+        "name": "Mr David Bean",
+        "title": "Senior Vice President of Sales & Marketing"
+      },
+      {
+        "name": "Ms Megan Gilmore",
+        "title": "Director, Marketing"
+      },
+      {
+        "name": "Ms Monica Ginsburg",
+        "title": "Marketing Manager"
+      },
+      {
+        "name": "Ms Denise Paykos",
+        "title": "Market Development Manager"
+      },
+      {
+        "name": "Mr Abby Wooden",
+        "title": "Senior Product Manager"
+      },
+      {
+        "name": "Mr Travis Woyner",
+        "title": "Vice President of Operations"
+      }
+    ]
+  },
+  {
+    "name": "CD2 LEARNING",
+    "state": "KS",
+    "year_incorporated": "2018",
+    "nace": "5829",
+    "employees": "17",
+    "revenue_usd": 730000,
+    "pl_before_tax": null,
+    "total_assets": null,
+    "equity": null,
+    "website": "www.cd2learning.com",
+    "description": null,
+    "contacts": [
+      {
+        "name": "Mr Richard A Bartlett",
+        "title": "Chief Executive Officer"
+      },
+      {
+        "name": "Ms Dena Bartlett",
+        "title": "Principal and Chief Operating Officer"
+      },
+      {
+        "name": "Ms Rhonda Cook",
+        "title": "Human Resources Generalist / Client Liaison"
+      },
+      {
+        "name": "Ms Heidy Behrens",
+        "title": "Director of Sales"
+      },
+      {
+        "name": "Ms Lorri Stanislav",
+        "title": "Marketing Writer"
+      },
+      {
+        "name": "Mr Eric Huber",
+        "title": "R&d Technical Analyst, Software Developer, Project Manager, Software Tester, Trainer"
+      },
+      {
+        "name": "Maebelline Bato",
+        "title": "Project Manager"
+      },
+      {
+        "name": "Mr Jeremy Foster",
+        "title": "Creative Director"
+      },
+      {
+        "name": "Mr Brady Webb",
+        "title": "Vice President of Operations"
+      },
+      {
+        "name": "Mr Tom Huber",
+        "title": "Chief Information Officer"
+      },
+      {
+        "name": "Mr Chris Zammit",
+        "title": "Senior Software Engineer"
+      },
+      {
+        "name": "Mr Nick Padley",
+        "title": "Director of Implementation"
+      },
+      {
+        "name": "Mr Jay Breeden",
+        "title": "No specific function"
+      },
+      {
+        "name": "Mr Jeremy Schroeder",
+        "title": "Front-End Developer"
+      }
+    ]
+  },
+  {
+    "name": "CENTRO LLC",
+    "state": "IL",
+    "year_incorporated": null,
+    "nace": "5829",
+    "employees": "130",
+    "revenue_usd": 720000,
+    "pl_before_tax": null,
+    "total_assets": null,
+    "equity": null,
+    "website": "www.centro.net",
+    "description": "Engaged in the development and operation of online smart media management software platform",
+    "contacts": [
+      {
+        "name": "Mr Tyler Kelly",
+        "title": "President"
+      },
+      {
+        "name": "Mr Shawn Riegsecker",
+        "title": "Founder & Chief Executive Officer; Shareholder"
+      },
+      {
+        "name": "Ms Katie Risch",
+        "title": "Senior Vice President"
+      },
+      {
+        "name": "Mr Matt Sauls",
+        "title": "Vice President Product Strategy, Programmatic"
+      },
+      {
+        "name": "Mr Matt Miller",
+        "title": "Executive Vice President-Finance"
+      },
+      {
+        "name": "Ms Emily Barron",
+        "title": "Executive Vice President - Talent & Development"
+      },
+      {
+        "name": "Mr Charlie Thomas",
+        "title": "Vice President, Sales"
+      },
+      {
+        "name": "Cori Moreno",
+        "title": "Regional Sales Director"
+      },
+      {
+        "name": "Ms Kristen Ostermiller",
+        "title": "Senior Specialist (Sales Engineer), Basis Solutions and Implementation"
+      },
+      {
+        "name": "Ms Kristin Haarlow",
+        "title": "Regional Vice President - Media Operations"
+      },
+      {
+        "name": "Ms Kelly Wenzel",
+        "title": "Chief Marketing Officer"
+      },
+      {
+        "name": "Ms Lia Macsherry",
+        "title": "National Marketing Manager"
+      },
+      {
+        "name": "Ms Michelle Liu",
+        "title": "Digital Marketing Associate"
+      },
+      {
+        "name": "Ms Grace Briscoe",
+        "title": "Vice President, Client Development, Candidates + Causes"
+      },
+      {
+        "name": "Mr Scott Shulman",
+        "title": "Vice President, Client Development"
+      },
+      {
+        "name": "Mr Igor Fey",
+        "title": "Vice President-Technical Operations"
+      },
+      {
+        "name": "Mr Michael Radovancevich",
+        "title": "CTO"
+      },
+      {
+        "name": "Ms Anna Pleikis",
+        "title": "Senior Director Data Engineering"
+      },
+      {
+        "name": "Mr Donovan Ly",
+        "title": "Associate Technical Product Manager"
+      },
+      {
+        "name": "Mr Eduard Rushanyan",
+        "title": "Manager Infrastructure and Production Operations"
+      },
+      {
+        "name": "Mr Tyler Hoffman",
+        "title": "Technical Support Specialist, Basis Platform"
+      },
+      {
+        "name": "Mr Filip Tisma",
+        "title": "Associate Technical Writer"
+      },
+      {
+        "name": "Mr Felipe Velasquez",
+        "title": "Vice President International"
+      },
+      {
+        "name": "Ms Alexa Sanchez",
+        "title": "Vice President of Operations"
+      },
+      {
+        "name": "Mr Denis Loboda",
+        "title": "Platform Operations Manager"
+      },
+      {
+        "name": "Mr Michael Kashket",
+        "title": "Senior System Administrator"
+      },
+      {
+        "name": "Mr Michael Lyubarsky",
+        "title": "Lead MySQL Database Administrator"
+      },
+      {
+        "name": "Mr Soleil Schiller",
+        "title": "Manager, Programmatic Solutions"
+      },
+      {
+        "name": "Mr Dino Denekos",
+        "title": "Information Technology Specialist"
+      },
+      {
+        "name": "Mr Reagan Moore",
+        "title": "Platform Solutions Specialist"
+      },
+      {
+        "name": "Ms Neelabh Pathak",
+        "title": "Data Engineer"
+      },
+      {
+        "name": "Mr Kyle Pekosh",
+        "title": "Data Engineer"
+      },
+      {
+        "name": "Mr Henry Rizzi",
+        "title": "Data Engineer"
+      },
+      {
+        "name": "Ms Anna Worrell",
+        "title": "Performance Analyst Associate"
+      }
+    ]
+  },
+  {
+    "name": "WELLSPRING WORLDWIDE, INC.",
+    "state": "IL",
+    "year_incorporated": "2022",
+    "nace": "5829",
+    "employees": "65",
+    "revenue_usd": 720000,
+    "pl_before_tax": null,
+    "total_assets": null,
+    "equity": null,
+    "website": "www.wellspring.com",
+    "description": null,
+    "contacts": [
+      {
+        "name": "Mr Sean Downs",
+        "title": "Chief Executive Officer"
+      },
+      {
+        "name": "Mr Matthew T Hamilton",
+        "title": "Officer"
+      },
+      {
+        "name": "Mr Sandi B Lowe",
+        "title": "Officer"
+      },
+      {
+        "name": "Mr Robert Lowe",
+        "title": "No specific function"
+      }
+    ]
+  },
+  {
+    "name": "REVEFI, INC.",
+    "state": "WA",
+    "year_incorporated": "2022",
+    "nace": "5829",
+    "employees": "12",
+    "revenue_usd": 720000,
+    "pl_before_tax": null,
+    "total_assets": null,
+    "equity": null,
+    "website": "www.revefi.com",
+    "description": null,
+    "contacts": [
+      {
+        "name": "Mr Sanjay Agarwal",
+        "title": "Chief Executive Officer"
+      },
+      {
+        "name": "Mr Sanjay Agarwal",
+        "title": "Officer"
+      },
+      {
+        "name": "Mr Shashank Gupta",
+        "title": "Officer"
+      }
+    ]
+  },
+  {
+    "name": "QUEST",
+    "state": "WA",
+    "year_incorporated": null,
+    "nace": "5829",
+    "employees": "10",
+    "revenue_usd": 720000,
+    "pl_before_tax": null,
+    "total_assets": null,
+    "equity": null,
+    "website": "www.quest.com",
+    "description": null,
+    "contacts": []
+  },
+  {
+    "name": "TELLAGO INC",
+    "state": "IL",
+    "year_incorporated": null,
+    "nace": "5829",
+    "employees": "40",
+    "revenue_usd": 720000,
+    "pl_before_tax": null,
+    "total_assets": null,
+    "equity": null,
+    "website": "www.tellago.com",
+    "description": "Tellago Inc. was founded in 2008 and is headquartered in Schaumburg, IL. It is a provider of technology solutions. The company offers business intelligence, portals and collaboration, cloud computing, and enterprise mobility solutions. Its customers inclu",
+    "contacts": [
+      {
+        "name": "Mr Jesus Rodriguez",
+        "title": "Co-Founder & Chief Executive Officer; Shareholder"
+      },
+      {
+        "name": "Ms Elizabeth Redding",
+        "title": "Co-Founder & President; Shareholder"
+      }
+    ]
+  },
+  {
+    "name": "AUTODEMO, LLC",
+    "state": "KY",
+    "year_incorporated": "1998",
+    "nace": "5829",
+    "employees": "12",
+    "revenue_usd": 710000,
+    "pl_before_tax": null,
+    "total_assets": null,
+    "equity": null,
+    "website": "autodemo.com",
+    "description": null,
+    "contacts": [
+      {
+        "name": "Jc Stites",
+        "title": "Shareholder; Owner & Chief Executive Officer"
+      },
+      {
+        "name": "Ms Dedra Carricato",
+        "title": "Office Manager"
+      },
+      {
+        "name": "Ms Peggy Lowry",
+        "title": "Account Executive"
+      },
+      {
+        "name": "Ms Peggy Stengel",
+        "title": "Account Executive"
+      },
+      {
+        "name": "Keene Berine",
+        "title": "Product Manager"
+      },
+      {
+        "name": "Mr Tim Williams",
+        "title": "Producer / Project Manager"
+      },
+      {
+        "name": "Mr Philip Vetter",
+        "title": "Art Director / Animator"
+      },
+      {
+        "name": "Mr John Clay Stites",
+        "title": "Member"
+      },
+      {
+        "name": "Mr Travis Taylor",
+        "title": "Designer"
+      }
+    ]
+  }
+]

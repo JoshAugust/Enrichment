@@ -1,0 +1,661 @@
+[
+  {
+    "name": "INFOSTREET, INC.",
+    "state": "CA",
+    "year_incorporated": "1994",
+    "nace": "5829",
+    "employees": "10",
+    "revenue_usd": 1080000,
+    "pl_before_tax": null,
+    "total_assets": null,
+    "equity": null,
+    "website": "www.infostreet.com",
+    "description": null,
+    "contacts": [
+      {
+        "name": "Mr Siamak Farah",
+        "title": "President"
+      },
+      {
+        "name": "Ali Zarazvand",
+        "title": "Chief Executive Officer"
+      },
+      {
+        "name": "Ms Sepideh Farah",
+        "title": "Secretary"
+      },
+      {
+        "name": "Mr Oleg Knyazher",
+        "title": "Secretary"
+      },
+      {
+        "name": "Mr Phillip Conrad",
+        "title": "Vice President Strategic Partnerships"
+      }
+    ]
+  },
+  {
+    "name": "LATIN ACHIEVERS, INC.",
+    "state": "FL",
+    "year_incorporated": "2006",
+    "nace": "5829",
+    "employees": "14",
+    "revenue_usd": 1080000,
+    "pl_before_tax": null,
+    "total_assets": null,
+    "equity": null,
+    "website": "www.achievers.com",
+    "description": null,
+    "contacts": []
+  },
+  {
+    "name": "PRIORITY1 POS",
+    "state": "GA",
+    "year_incorporated": "2010",
+    "nace": "5829",
+    "employees": "13",
+    "revenue_usd": 1080000,
+    "pl_before_tax": null,
+    "total_assets": null,
+    "equity": null,
+    "website": "priority1-pos.com",
+    "description": null,
+    "contacts": [
+      {
+        "name": "Mr Dennis Bonin",
+        "title": "Owner"
+      }
+    ]
+  },
+  {
+    "name": "FORMFREE HOLDINGS CORPORATION",
+    "state": "GA",
+    "year_incorporated": "2010",
+    "nace": "5829",
+    "employees": "35",
+    "revenue_usd": 1080000,
+    "pl_before_tax": null,
+    "total_assets": null,
+    "equity": null,
+    "website": "www.formfree.com",
+    "description": "Direct credit and lending data platform operator holding company",
+    "contacts": [
+      {
+        "name": "Mr Eric Lapin",
+        "title": "President"
+      },
+      {
+        "name": "Mr Brian Francis",
+        "title": "Executive Officer"
+      },
+      {
+        "name": "Mr Brian Francis",
+        "title": "Chief Technology Officer"
+      },
+      {
+        "name": "Christy Moss",
+        "title": "Secretary"
+      },
+      {
+        "name": "Mr Brent Chandler",
+        "title": "Chief Financial Officer"
+      },
+      {
+        "name": "Mr Patrick Rutherford",
+        "title": "Chief Financial Officer"
+      },
+      {
+        "name": "Mr Mark Westenfelder",
+        "title": "Chief Financial Officer"
+      },
+      {
+        "name": "Mac Mccall",
+        "title": "Solutions Analyst"
+      },
+      {
+        "name": "Mr Gregg Palmer",
+        "title": "Solutions Specialist"
+      }
+    ]
+  },
+  {
+    "name": "CROSSROADS SOFTWARE INC",
+    "state": "CA",
+    "year_incorporated": "1991",
+    "nace": "5829",
+    "employees": "13",
+    "revenue_usd": 1076000,
+    "pl_before_tax": null,
+    "total_assets": null,
+    "equity": null,
+    "website": "www.crossroadssoftware.com",
+    "description": null,
+    "contacts": [
+      {
+        "name": "Ms Kelly A Kalberg",
+        "title": "Treasurer"
+      },
+      {
+        "name": "Ms Kay Hamilton",
+        "title": "Training Specialist"
+      },
+      {
+        "name": "Mr Michael Kalberg",
+        "title": "Programmer"
+      }
+    ]
+  },
+  {
+    "name": "ICARE.COM LLC",
+    "state": "FL",
+    "year_incorporated": "2012",
+    "nace": "5829",
+    "employees": "15",
+    "revenue_usd": 1075000,
+    "pl_before_tax": null,
+    "total_assets": null,
+    "equity": null,
+    "website": "icare.com",
+    "description": null,
+    "contacts": [
+      {
+        "name": "Mr James B Riley",
+        "title": "Co-Founder & Chief Executive Officer; Shareholder"
+      },
+      {
+        "name": "Mr James B Riley",
+        "title": "Manager"
+      },
+      {
+        "name": "Mr Don Cook",
+        "title": "Co-Founder & Chief Marketing Officer; Shareholder"
+      }
+    ]
+  },
+  {
+    "name": "STRIVE, LLC",
+    "state": "TX",
+    "year_incorporated": null,
+    "nace": "5829",
+    "employees": "16",
+    "revenue_usd": 1070000,
+    "pl_before_tax": null,
+    "total_assets": null,
+    "equity": null,
+    "website": "www.striveworks.com",
+    "description": null,
+    "contacts": []
+  },
+  {
+    "name": "17TERAWATTS, INC.",
+    "state": "TX",
+    "year_incorporated": "2018",
+    "nace": "5829",
+    "employees": "10",
+    "revenue_usd": 1070000,
+    "pl_before_tax": null,
+    "total_assets": null,
+    "equity": null,
+    "website": "www.bodhi.solar",
+    "description": "Online solar referral & customer experience Software-as-a-Service (SaaS) provider",
+    "contacts": [
+      {
+        "name": "Mr Scott Nguyen",
+        "title": "Co-Founder + Chief Executive Officer"
+      },
+      {
+        "name": "Mr Scott Nguyen",
+        "title": "Officer"
+      }
+    ]
+  },
+  {
+    "name": "ASCENT BUSINESS SYSTEMS, INC.",
+    "state": "TX",
+    "year_incorporated": "1992",
+    "nace": "5829",
+    "employees": "15",
+    "revenue_usd": 1070000,
+    "pl_before_tax": null,
+    "total_assets": null,
+    "equity": null,
+    "website": "www.ascent-sys.com",
+    "description": null,
+    "contacts": [
+      {
+        "name": "Mr Chris Fix",
+        "title": "Vice President"
+      },
+      {
+        "name": "Mr Michael J Hutar",
+        "title": "Public Relations"
+      },
+      {
+        "name": "Mr Tom Irick",
+        "title": "Operations Accounting Manager"
+      },
+      {
+        "name": "Mr Christopher Esselborn",
+        "title": "Programmer"
+      },
+      {
+        "name": "Ms Debbie Yuchasz",
+        "title": "Consultant"
+      }
+    ]
+  },
+  {
+    "name": "MARKETBEAT MEDIA, LLC",
+    "state": "SD",
+    "year_incorporated": "2008",
+    "nace": "5829",
+    "employees": "12",
+    "revenue_usd": 1070000,
+    "pl_before_tax": null,
+    "total_assets": null,
+    "equity": null,
+    "website": "www.marketbeat.com",
+    "description": null,
+    "contacts": []
+  },
+  {
+    "name": "PIPE17, INC.",
+    "state": "WA",
+    "year_incorporated": "2020",
+    "nace": "5829",
+    "employees": "20",
+    "revenue_usd": 1070000,
+    "pl_before_tax": null,
+    "total_assets": null,
+    "equity": null,
+    "website": "www.pipe17.com",
+    "description": "Cloud-based e-commerce operations integration platform operator",
+    "contacts": [
+      {
+        "name": "Gilad Odinak",
+        "title": "Secretary"
+      },
+      {
+        "name": "Mr Dave Shaffer",
+        "title": "Chief Financial Officer"
+      },
+      {
+        "name": "Mr Mohamad Afshar",
+        "title": "Officer"
+      }
+    ]
+  },
+  {
+    "name": "BOTBRAIN LLC",
+    "state": "WY",
+    "year_incorporated": "2024",
+    "nace": "5829",
+    "employees": "90",
+    "revenue_usd": 1070000,
+    "pl_before_tax": null,
+    "total_assets": null,
+    "equity": null,
+    "website": "botbrain.co",
+    "description": null,
+    "contacts": []
+  },
+  {
+    "name": "EYEONTASK LLC",
+    "state": "WY",
+    "year_incorporated": "2021",
+    "nace": "5829",
+    "employees": "45",
+    "revenue_usd": 1070000,
+    "pl_before_tax": null,
+    "total_assets": null,
+    "equity": null,
+    "website": "www.eyeontask.com",
+    "description": null,
+    "contacts": []
+  },
+  {
+    "name": "SPADERSOFT INC",
+    "state": "SD",
+    "year_incorporated": "1983",
+    "nace": "5829",
+    "employees": "80",
+    "revenue_usd": 1070000,
+    "pl_before_tax": null,
+    "total_assets": null,
+    "equity": null,
+    "website": "www.spader.com",
+    "description": null,
+    "contacts": [
+      {
+        "name": "Mr Roy Beaird",
+        "title": "Development Officer"
+      }
+    ]
+  },
+  {
+    "name": "COMMVAULT AMERICAS INC",
+    "state": "NJ",
+    "year_incorporated": "1996",
+    "nace": "5829",
+    "employees": "1250",
+    "revenue_usd": 1070000,
+    "pl_before_tax": null,
+    "total_assets": null,
+    "equity": null,
+    "website": "www.commvault.com",
+    "description": "Engaged in the provision of data management services",
+    "contacts": [
+      {
+        "name": "Mr John Fox",
+        "title": "Senior Product Manager"
+      },
+      {
+        "name": "Mr Richard Breakiron",
+        "title": "Senior Director"
+      }
+    ]
+  },
+  {
+    "name": "CENCORE INC",
+    "state": "FL",
+    "year_incorporated": "1999",
+    "nace": "5829",
+    "employees": "15",
+    "revenue_usd": 1060000,
+    "pl_before_tax": null,
+    "total_assets": null,
+    "equity": null,
+    "website": "www.cencore.com",
+    "description": null,
+    "contacts": []
+  },
+  {
+    "name": "ENTERTAINMENT DATA ORACLE, INC.",
+    "state": "CA",
+    "year_incorporated": "2018",
+    "nace": "5829",
+    "employees": "100",
+    "revenue_usd": 1050000,
+    "pl_before_tax": null,
+    "total_assets": null,
+    "equity": null,
+    "website": "www.edo.com",
+    "description": "Data, measurement and analytics platform operator",
+    "contacts": [
+      {
+        "name": "Mr Kevin Krim",
+        "title": "Executive Officer"
+      },
+      {
+        "name": "Ms Christine Kim",
+        "title": "Secretary"
+      },
+      {
+        "name": "Mr Edward Norton",
+        "title": "Secretary"
+      }
+    ]
+  },
+  {
+    "name": "DOOR VENTURES INC",
+    "state": "MD",
+    "year_incorporated": "2016",
+    "nace": "5829",
+    "employees": "10",
+    "revenue_usd": 1050000,
+    "pl_before_tax": null,
+    "total_assets": null,
+    "equity": null,
+    "website": "guidetodoor.com/contact",
+    "description": null,
+    "contacts": [
+      {
+        "name": "Mr Mcgannon John L",
+        "title": "Chief Executive Officer"
+      },
+      {
+        "name": "Mr Kellum Wain",
+        "title": "Chief Executive Officer"
+      },
+      {
+        "name": "Mr Nicholas Gerard",
+        "title": "Chief Financial Officer"
+      }
+    ]
+  },
+  {
+    "name": "PROEST, INC.",
+    "state": "CA",
+    "year_incorporated": "1976",
+    "nace": "5829",
+    "employees": "11",
+    "revenue_usd": 1050000,
+    "pl_before_tax": null,
+    "total_assets": null,
+    "equity": null,
+    "website": "www.proest.com",
+    "description": "Cloud-based estimating construction reports and proposals software developer",
+    "contacts": [
+      {
+        "name": "Mr Jeffrey Gerardi",
+        "title": "Chief Executive Officer"
+      },
+      {
+        "name": "Mr Jeffrey Gerardi",
+        "title": "Chief Financial Officer"
+      },
+      {
+        "name": "Mr Kevin Geoffrey Kuczinski",
+        "title": "Chief Executive Officer"
+      },
+      {
+        "name": "Mr John Felice",
+        "title": "Secretary"
+      },
+      {
+        "name": "Ms Tricia Jean Thompson",
+        "title": "Secretary"
+      },
+      {
+        "name": "Ms Rachel Luu",
+        "title": "Chief Financial Officer"
+      }
+    ]
+  },
+  {
+    "name": "EPIXEL SOLUTIONS PVT LTD",
+    "state": "CA",
+    "year_incorporated": "2009",
+    "nace": "5829",
+    "employees": "80",
+    "revenue_usd": 1050000,
+    "pl_before_tax": null,
+    "total_assets": null,
+    "equity": null,
+    "website": "www.epixelmlmsoftware.com",
+    "description": null,
+    "contacts": []
+  },
+  {
+    "name": "CIGNITION INC.",
+    "state": "CA",
+    "year_incorporated": "2014",
+    "nace": "5829",
+    "employees": "16",
+    "revenue_usd": 1050000,
+    "pl_before_tax": null,
+    "total_assets": null,
+    "equity": null,
+    "website": "www.cignition.com",
+    "description": null,
+    "contacts": [
+      {
+        "name": "Mr Michael H Cohen",
+        "title": "Chief Executive Officer"
+      },
+      {
+        "name": "Mr Michael H Cohen",
+        "title": "Chief Financial Officer"
+      },
+      {
+        "name": "Ms Danielle Alcaraz",
+        "title": "Secretary"
+      },
+      {
+        "name": "Mr John O'Connell",
+        "title": "Secretary"
+      },
+      {
+        "name": "Mr John O'Connell",
+        "title": "Senior Vice President, Business Development"
+      },
+      {
+        "name": "Mr Neal Gokli",
+        "title": "Senior Software Engineer"
+      },
+      {
+        "name": "Mr Scott Holman",
+        "title": "Senior Software Engineer"
+      },
+      {
+        "name": "Mr Stefan Scandizzo",
+        "title": "Lead Designer"
+      },
+      {
+        "name": "Ms Lori Hahn",
+        "title": "No specific function"
+      }
+    ]
+  },
+  {
+    "name": "TEAM TECH INC",
+    "state": "VA",
+    "year_incorporated": "2017",
+    "nace": "5829",
+    "employees": "25",
+    "revenue_usd": 1050000,
+    "pl_before_tax": null,
+    "total_assets": null,
+    "equity": null,
+    "website": "www.teamtechnologyinc.com",
+    "description": "Engaged in the provision of computer programming services",
+    "contacts": [
+      {
+        "name": "Mr Warren Yirbe",
+        "title": "Human Resources Specialist"
+      }
+    ]
+  },
+  {
+    "name": "OPENSYNERGY, INC.",
+    "state": "CA",
+    "year_incorporated": "2013",
+    "nace": "5829",
+    "employees": "12",
+    "revenue_usd": 1050000,
+    "pl_before_tax": null,
+    "total_assets": null,
+    "equity": null,
+    "website": "www.opensynergy.com",
+    "description": null,
+    "contacts": [
+      {
+        "name": "Mr Regis Adjamah",
+        "title": "President"
+      },
+      {
+        "name": "Ms Kathleen Ende",
+        "title": "Secretary"
+      },
+      {
+        "name": "Mr Breton Buckley",
+        "title": "Chief Executive Officer and Business Development Manager - North America"
+      },
+      {
+        "name": "Mr Brian Senese",
+        "title": "Account Manager"
+      },
+      {
+        "name": "Mr David Baum",
+        "title": "Other"
+      },
+      {
+        "name": "Mr Scott A Hansen",
+        "title": "Other"
+      }
+    ]
+  },
+  {
+    "name": "GRIDIUM INC.",
+    "state": "CA",
+    "year_incorporated": "2013",
+    "nace": "5829",
+    "employees": "25",
+    "revenue_usd": 1050000,
+    "pl_before_tax": null,
+    "total_assets": null,
+    "equity": null,
+    "website": "www.gridium.com",
+    "description": "Energy management software developer",
+    "contacts": [
+      {
+        "name": "Mr Thomas Arnold",
+        "title": "Chief Executive Officer"
+      },
+      {
+        "name": "Mr Adam Stein",
+        "title": "Founder"
+      },
+      {
+        "name": "Mr Adam Stein",
+        "title": "Secretary"
+      },
+      {
+        "name": "Mr Boyd Arnold",
+        "title": "Business Development Manager"
+      },
+      {
+        "name": "Mr Daniel Wang",
+        "title": "Business Development Manager"
+      },
+      {
+        "name": "Mr Greg Anderson",
+        "title": "Director of Research"
+      },
+      {
+        "name": "Mr Millen Paschich",
+        "title": "Market Development Manager"
+      },
+      {
+        "name": "Mr Timothy Canavan",
+        "title": "Director, Operations"
+      },
+      {
+        "name": "Ms Chelsey Richardson",
+        "title": "Data Analyst"
+      },
+      {
+        "name": "Mr Jamaal Kantey",
+        "title": "Business Analyst"
+      },
+      {
+        "name": "Ms Dawn Pattison",
+        "title": "Backend Engineer"
+      }
+    ]
+  },
+  {
+    "name": "MANAGEAMERICA INTEGRATED",
+    "state": "CA",
+    "year_incorporated": "2013",
+    "nace": "5829",
+    "employees": "65",
+    "revenue_usd": 1050000,
+    "pl_before_tax": null,
+    "total_assets": null,
+    "equity": null,
+    "website": "www.manageamerica.com",
+    "description": null,
+    "contacts": []
+  }
+]

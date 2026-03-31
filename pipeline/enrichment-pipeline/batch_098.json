@@ -1,0 +1,874 @@
+[
+  {
+    "name": "HATTON POINT, INC.",
+    "state": "CO",
+    "year_incorporated": "2008",
+    "nace": "5829",
+    "employees": "50",
+    "revenue_usd": 1540000,
+    "pl_before_tax": null,
+    "total_assets": null,
+    "equity": null,
+    "website": "www.hattonpoint.com",
+    "description": null,
+    "contacts": [
+      {
+        "name": "Mr Denton Crofts",
+        "title": "Chief Executive Officer"
+      },
+      {
+        "name": "Mr Shawn Davison",
+        "title": "Chief Executive Officer"
+      },
+      {
+        "name": "Mr Bartek Flejterski",
+        "title": "Engineering - Software Development"
+      },
+      {
+        "name": "Mr Jesse Hormachea",
+        "title": "Project Manager"
+      },
+      {
+        "name": "Ms Ann Stary",
+        "title": "Director - Programs"
+      }
+    ]
+  },
+  {
+    "name": "PITCHLY, INC.",
+    "state": "IA",
+    "year_incorporated": "2021",
+    "nace": "5829",
+    "employees": "20",
+    "revenue_usd": 1530000,
+    "pl_before_tax": null,
+    "total_assets": null,
+    "equity": null,
+    "website": "www.linkedin.com/company/pitchly",
+    "description": null,
+    "contacts": [
+      {
+        "name": "Mr Ryan Gerhardy",
+        "title": "Chief Executive Officer & Co-Founder"
+      },
+      {
+        "name": "Mr Ryan Gerhardy",
+        "title": "Agent"
+      },
+      {
+        "name": "Koral Hull",
+        "title": "Manager, Marketing Operations"
+      },
+      {
+        "name": "Mr Matt Guess",
+        "title": "Account Executive"
+      }
+    ]
+  },
+  {
+    "name": "UNIFIED DEVELOPMENT, INC.",
+    "state": "MO",
+    "year_incorporated": "1990",
+    "nace": "5829",
+    "employees": "60",
+    "revenue_usd": 1530000,
+    "pl_before_tax": null,
+    "total_assets": null,
+    "equity": null,
+    "website": "www.unidev.com",
+    "description": "Unified Development, Inc. was founded in 1990 and is headquartered in Chesterfield, MO. The company is a provider of custom software, e-commerce, mobility, hosting, and web solutions. Its services include Android tablet application development, hosting, w",
+    "contacts": [
+      {
+        "name": "Mr Gregory Alexander",
+        "title": "Shareholder; Owner & Chief Executive Officer; President"
+      },
+      {
+        "name": "Mr Gregory Alexander",
+        "title": "Officer"
+      },
+      {
+        "name": "Andrea Bemis",
+        "title": "Vice President"
+      },
+      {
+        "name": "Mr Steven R Thomas",
+        "title": "Vice President"
+      },
+      {
+        "name": "Mr Steven R Thomas",
+        "title": "Officer"
+      },
+      {
+        "name": "Mr George M Winebright",
+        "title": "Vice President"
+      },
+      {
+        "name": "Mr George M Winebright",
+        "title": "Officer"
+      },
+      {
+        "name": "Ms Joan M Alexander",
+        "title": "Treasurer"
+      },
+      {
+        "name": "Ms Joan M Alexander",
+        "title": "Officer"
+      },
+      {
+        "name": "Ms Kym Bohl",
+        "title": "Customer Support Manager"
+      },
+      {
+        "name": "Mr Gregg Dieckhaus",
+        "title": "Director - Product Development-Mobile & Java Tech."
+      },
+      {
+        "name": "Ms Brenda Winebright",
+        "title": "Systems Engineer"
+      },
+      {
+        "name": "Mr William P Alexander",
+        "title": "Officer"
+      },
+      {
+        "name": "Mr Allan P Sieker",
+        "title": "Officer"
+      },
+      {
+        "name": "Mr George Zheng",
+        "title": "Senior Developer"
+      }
+    ]
+  },
+  {
+    "name": "TRANSMAGIC, INC.",
+    "state": "CO",
+    "year_incorporated": "2001",
+    "nace": "5829",
+    "employees": "11",
+    "revenue_usd": 1520000,
+    "pl_before_tax": null,
+    "total_assets": null,
+    "equity": null,
+    "website": "www.transmagic.com",
+    "description": null,
+    "contacts": [
+      {
+        "name": "Mr Todd C Reade",
+        "title": "Chief Executive Officer and Founder"
+      },
+      {
+        "name": "Ms Dina Torrisi",
+        "title": "Chief Financial Officer"
+      },
+      {
+        "name": "Ms Alexandra Bergheim",
+        "title": "Accountant"
+      },
+      {
+        "name": "Mr Les Lavire",
+        "title": "Sales Manager"
+      },
+      {
+        "name": "Mr Jim Stephens",
+        "title": "Chief Information Security Officer"
+      }
+    ]
+  },
+  {
+    "name": "MEDIA SERVICES GROUP",
+    "state": "AZ",
+    "year_incorporated": "2005",
+    "nace": "5829",
+    "employees": "12",
+    "revenue_usd": 1520000,
+    "pl_before_tax": null,
+    "total_assets": null,
+    "equity": null,
+    "website": "www.msgl.com",
+    "description": null,
+    "contacts": []
+  },
+  {
+    "name": "POLARIS AERO LLC",
+    "state": "AZ",
+    "year_incorporated": "2014",
+    "nace": "5829",
+    "employees": "11",
+    "revenue_usd": 1520000,
+    "pl_before_tax": null,
+    "total_assets": null,
+    "equity": null,
+    "website": "www.polarisaero.com",
+    "description": null,
+    "contacts": [
+      {
+        "name": "Mr Christopher Connor",
+        "title": "Member"
+      }
+    ]
+  },
+  {
+    "name": "DELIVERECT, INC.",
+    "state": "DE",
+    "year_incorporated": "2022",
+    "nace": "5829",
+    "employees": "12",
+    "revenue_usd": 1520000,
+    "pl_before_tax": null,
+    "total_assets": null,
+    "equity": null,
+    "website": "www.deliverect.com/en-us",
+    "description": "Sales office",
+    "contacts": []
+  },
+  {
+    "name": "SPECTRASOFT INC",
+    "state": "AZ",
+    "year_incorporated": "2002",
+    "nace": "5829",
+    "employees": "22",
+    "revenue_usd": 1520000,
+    "pl_before_tax": null,
+    "total_assets": null,
+    "equity": null,
+    "website": "spectrasoft.com",
+    "description": "Hospital administration software developer",
+    "contacts": []
+  },
+  {
+    "name": "DESERT SKY SOFTWARE INC",
+    "state": "AZ",
+    "year_incorporated": "1992",
+    "nace": "5829",
+    "employees": "15",
+    "revenue_usd": 1520000,
+    "pl_before_tax": null,
+    "total_assets": null,
+    "equity": null,
+    "website": "www.desertsky.com",
+    "description": null,
+    "contacts": []
+  },
+  {
+    "name": "ZONA TECHNOLOGY, INC.",
+    "state": "AZ",
+    "year_incorporated": "1985",
+    "nace": "5829",
+    "employees": "15",
+    "revenue_usd": 1520000,
+    "pl_before_tax": null,
+    "total_assets": null,
+    "equity": null,
+    "website": "www.zonatech.com",
+    "description": "Aeroelastic and aeroservoelastic simulation Computer Aided Engineering (CAE) software developer",
+    "contacts": [
+      {
+        "name": "Mr Ping Chih Chen",
+        "title": "President"
+      },
+      {
+        "name": "Ms Aly Khawaja",
+        "title": "President"
+      },
+      {
+        "name": "Mr Darius Sarhaddi",
+        "title": "President"
+      },
+      {
+        "name": "Mr Steven W Dietz",
+        "title": "Secretary"
+      },
+      {
+        "name": "Ramon Morena Montserrat",
+        "title": "Chief Financial Officer (Chief Financial Officer)"
+      },
+      {
+        "name": "Ms Jennifer Scherr",
+        "title": "Treasurer"
+      },
+      {
+        "name": "Mr Zhicun Wang",
+        "title": "Senior Engineer"
+      }
+    ]
+  },
+  {
+    "name": "OMEGA LEGAL SYSTEMS INC",
+    "state": "AZ",
+    "year_incorporated": "1975",
+    "nace": "5829",
+    "employees": "45",
+    "revenue_usd": 1520000,
+    "pl_before_tax": null,
+    "total_assets": null,
+    "equity": null,
+    "website": "www.omegalegal.com",
+    "description": "Integrated billiing systems and software developer",
+    "contacts": [
+      {
+        "name": "Mr Donald A Gall",
+        "title": "President & Chief Executive Officer"
+      },
+      {
+        "name": "Ms Linda Brower",
+        "title": "Vice President - Admin"
+      },
+      {
+        "name": "Ms Debi Young",
+        "title": "Manager - Client Services"
+      },
+      {
+        "name": "Ms Cheryl Burton",
+        "title": "Manager - Programming"
+      }
+    ]
+  },
+  {
+    "name": "SITELOCK LLC",
+    "state": "AZ",
+    "year_incorporated": "2011",
+    "nace": "5829",
+    "employees": "95",
+    "revenue_usd": 1520000,
+    "pl_before_tax": null,
+    "total_assets": null,
+    "equity": null,
+    "website": "www.sitelock.com",
+    "description": "Online cloud-based business website security Software-as-a-Service (SaaS) provider",
+    "contacts": [
+      {
+        "name": "Mr James Murphy",
+        "title": "Vice President Sales"
+      },
+      {
+        "name": "Ms Jessica Ortega",
+        "title": "Product Marketing Specialist"
+      },
+      {
+        "name": "Mr Bradley Jackson",
+        "title": "Technician"
+      },
+      {
+        "name": "Mr Joshua Martin",
+        "title": "Web Security Research Analyst"
+      },
+      {
+        "name": "Mr Oleg Yepifantsev",
+        "title": "Senior Security Engineer"
+      },
+      {
+        "name": "Jc Bustillos",
+        "title": "Traffic Manager"
+      },
+      {
+        "name": "Mr David Coons",
+        "title": "Traffic Manager"
+      },
+      {
+        "name": "Mr Michael Crook",
+        "title": "Traffic Manager"
+      },
+      {
+        "name": "Mr Logan Kipp",
+        "title": "Traffic Manager"
+      },
+      {
+        "name": "Mr David Mace",
+        "title": "Manager"
+      },
+      {
+        "name": "Mr Feather Neill",
+        "title": "Manager"
+      },
+      {
+        "name": "Mr Feather Neill",
+        "title": "Real Property"
+      },
+      {
+        "name": "Collins Keith P",
+        "title": "Manager"
+      },
+      {
+        "name": "Ms Brooke Shull",
+        "title": "Consultant"
+      },
+      {
+        "name": "Mr Thomas Gorny",
+        "title": "Real Property"
+      }
+    ]
+  },
+  {
+    "name": "QUANTEK SYSTEMS INC.",
+    "state": "OR",
+    "year_incorporated": null,
+    "nace": "5829",
+    "employees": "11",
+    "revenue_usd": 1520000,
+    "pl_before_tax": null,
+    "total_assets": null,
+    "equity": null,
+    "website": "quanteksystems.com",
+    "description": null,
+    "contacts": [
+      {
+        "name": "Mr Gabriel Colburn",
+        "title": "President"
+      },
+      {
+        "name": "Gabe Colburn",
+        "title": "Secretary"
+      }
+    ]
+  },
+  {
+    "name": "STODGE INC.",
+    "state": "AZ",
+    "year_incorporated": "2021",
+    "nace": "5829",
+    "employees": "170",
+    "revenue_usd": 1520000,
+    "pl_before_tax": null,
+    "total_assets": null,
+    "equity": null,
+    "website": "postscript.io",
+    "description": "Enterprise SMS marketing platform Software-as-a-Service (SaaS) provider",
+    "contacts": [
+      {
+        "name": "Mr Alexander Beller",
+        "title": "President"
+      },
+      {
+        "name": "Mr Alexander Beller",
+        "title": "Secretary"
+      },
+      {
+        "name": "Mr Alexander Beller",
+        "title": "D/P/"
+      },
+      {
+        "name": "Mr Adam Turner",
+        "title": "Chief Executive Officer"
+      },
+      {
+        "name": "Mr Adam Turner",
+        "title": "D / Ce"
+      },
+      {
+        "name": "Mr Colin Turner",
+        "title": "President"
+      },
+      {
+        "name": "Mr Colin Turner",
+        "title": "Director/Treasurer"
+      },
+      {
+        "name": "Mr William Brubaker",
+        "title": "Vice President"
+      },
+      {
+        "name": "Mr Elliot Ginsburg",
+        "title": "Secretary"
+      },
+      {
+        "name": "Mr David Pickel",
+        "title": "Chief Financial Officer (Chief Financial Officer)"
+      },
+      {
+        "name": "Mr Chris Brubaker",
+        "title": "Treasurer"
+      },
+      {
+        "name": "Mr Derek Francis Holt",
+        "title": "President"
+      },
+      {
+        "name": "Mr Ashok Thollapalli Reddy",
+        "title": "President & Chief Executive Officer"
+      },
+      {
+        "name": "Mr William Joseph Portelli",
+        "title": "Executive Officer"
+      },
+      {
+        "name": "Prince Patricia Taggart",
+        "title": "Secretary"
+      },
+      {
+        "name": "Mr Prasenjit Dasgupta",
+        "title": "Chief Financial Officer"
+      },
+      {
+        "name": "Ms Joyce Tompsett",
+        "title": "DIR-ANALYST Relations & Comm"
+      },
+      {
+        "name": "Mr John P Allessio",
+        "title": "Chief Customer Officer"
+      },
+      {
+        "name": "Mr Bruce Chesebrough",
+        "title": "Chief Revenue Officer"
+      },
+      {
+        "name": "Ms Beth Mcclintock",
+        "title": "No specific function"
+      }
+    ]
+  },
+  {
+    "name": "J.P. & ASSOCIATES, INC.,",
+    "state": "CO",
+    "year_incorporated": "2009",
+    "nace": "5829",
+    "employees": "12",
+    "revenue_usd": 1520000,
+    "pl_before_tax": null,
+    "total_assets": null,
+    "equity": null,
+    "website": "www.jpassociates.com",
+    "description": null,
+    "contacts": []
+  },
+  {
+    "name": "WIT INC.",
+    "state": "MI",
+    "year_incorporated": "1996",
+    "nace": "5829",
+    "employees": "80",
+    "revenue_usd": 1515000,
+    "pl_before_tax": null,
+    "total_assets": null,
+    "equity": null,
+    "website": "www.idashboards.com",
+    "description": "Iviz Group, Inc. was founded in 2003 and is headquartered in Troy, MI. It is a provider of dashboard software solutions. The company offers products such as iDashboards X platform, iDashboards mobile, iDashboards display solution, and iDashboards enterpri",
+    "contacts": [
+      {
+        "name": "Mr Shadan Malik",
+        "title": "Founder & Chief Executive Officer; Shareholder"
+      },
+      {
+        "name": "Mr Mike Ward",
+        "title": "Director, Business Development"
+      },
+      {
+        "name": "Mr Denis Dudzinski",
+        "title": "Sales Director"
+      },
+      {
+        "name": "Ms Erin Adair-Guy",
+        "title": "Marketing Associate"
+      },
+      {
+        "name": "Ms Beth Bryant",
+        "title": "Senior Account Executive"
+      },
+      {
+        "name": "Ms Marina Morris",
+        "title": "Account Manager - Channel"
+      },
+      {
+        "name": "Mr Matthias Glatschke",
+        "title": "Manager - Germany"
+      },
+      {
+        "name": "Mr Yusuf Saifuddin",
+        "title": "Senior Programmer Analyst"
+      },
+      {
+        "name": "Mr Gregory Parrish",
+        "title": "Analytics Manager"
+      },
+      {
+        "name": "Mr Huzefa Barwaniwala",
+        "title": "Insights Analyst"
+      },
+      {
+        "name": "Ms Lisa Ratliff",
+        "title": "Business Intelligence Consultant"
+      }
+    ]
+  },
+  {
+    "name": "DISCOVER-E LEGAL LLC",
+    "state": "OR",
+    "year_incorporated": "1997",
+    "nace": "5829",
+    "employees": "15",
+    "revenue_usd": 1510000,
+    "pl_before_tax": null,
+    "total_assets": null,
+    "equity": null,
+    "website": "www.novitasdata.com",
+    "description": "Litigation support services",
+    "contacts": [
+      {
+        "name": "Mr Wallace Charman",
+        "title": "Account Manager"
+      }
+    ]
+  },
+  {
+    "name": "AWESEMO.COM LLC",
+    "state": "IL",
+    "year_incorporated": "2019",
+    "nace": "5829",
+    "employees": "40",
+    "revenue_usd": 1510000,
+    "pl_before_tax": null,
+    "total_assets": null,
+    "equity": null,
+    "website": "www.stokastic.com",
+    "description": null,
+    "contacts": []
+  },
+  {
+    "name": "SUPERBAM, INC.",
+    "state": "CA",
+    "year_incorporated": null,
+    "nace": "5829",
+    "employees": "25",
+    "revenue_usd": 1510000,
+    "pl_before_tax": null,
+    "total_assets": null,
+    "equity": null,
+    "website": "www.superbam.com",
+    "description": null,
+    "contacts": [
+      {
+        "name": "Bosak Rian R",
+        "title": "President"
+      },
+      {
+        "name": "Mr Amr Younis",
+        "title": "Regional Sales Manager"
+      },
+      {
+        "name": "Ms Karen Smith",
+        "title": "Account Manager"
+      },
+      {
+        "name": "Mr Steven L Skancke",
+        "title": "P/CEO/T"
+      }
+    ]
+  },
+  {
+    "name": "ODAIA INTELLIGENCE USA INC.",
+    "state": "MA",
+    "year_incorporated": "2022",
+    "nace": "5829",
+    "employees": "14",
+    "revenue_usd": 1500000,
+    "pl_before_tax": null,
+    "total_assets": null,
+    "equity": null,
+    "website": "www.odaia.ai",
+    "description": null,
+    "contacts": [
+      {
+        "name": "Mr Philip Poulidis",
+        "title": "President"
+      },
+      {
+        "name": "Ms Helen Kontozopoulos",
+        "title": "Vice President"
+      },
+      {
+        "name": "Rebecca Skvorc",
+        "title": "Treasurer"
+      }
+    ]
+  },
+  {
+    "name": "MARVIN MEDI-SOFT LLC",
+    "state": "AZ",
+    "year_incorporated": "2009",
+    "nace": "5829",
+    "employees": "12",
+    "revenue_usd": 1500000,
+    "pl_before_tax": null,
+    "total_assets": null,
+    "equity": null,
+    "website": "www.tpn2000.com",
+    "description": null,
+    "contacts": [
+      {
+        "name": "Ms Maria Rodriguez",
+        "title": "No specific function"
+      },
+      {
+        "name": "Ms Maria Vaidya",
+        "title": "No specific function"
+      }
+    ]
+  },
+  {
+    "name": "THINKRITE CAPITAL, INC",
+    "state": "FL",
+    "year_incorporated": "2001",
+    "nace": "5829",
+    "employees": "12",
+    "revenue_usd": 1490000,
+    "pl_before_tax": null,
+    "total_assets": null,
+    "equity": null,
+    "website": "www.thinkrite.com",
+    "description": null,
+    "contacts": [
+      {
+        "name": "Mr Sajeev Ravi",
+        "title": "President & Chief Operating Officer"
+      },
+      {
+        "name": "Mr Joshua Paul Schrager",
+        "title": "Chief Executive Officer"
+      },
+      {
+        "name": "Mr Derek Lee-Wo",
+        "title": "Vice President"
+      },
+      {
+        "name": "Ms Lekshmi Chandran",
+        "title": "Staff Quality Assurance Analyst"
+      },
+      {
+        "name": "Ms Shanthy Menezes",
+        "title": "Staff Software Engineer"
+      },
+      {
+        "name": "Mr John Newman",
+        "title": "Real Time Collaboration Services Technical Support Engineer"
+      },
+      {
+        "name": "Mr Daniel Hettrick",
+        "title": "Senior Vice President Product"
+      },
+      {
+        "name": "Mr Steven Glickman",
+        "title": "Product Portfolio Manager / User Experience Designer"
+      },
+      {
+        "name": "Mr Paul Miller",
+        "title": "Software Engineer"
+      },
+      {
+        "name": "Mr Vidhu Nagar",
+        "title": "Software Engineer"
+      }
+    ]
+  },
+  {
+    "name": "HOMESPOTTER, LLC",
+    "state": "MN",
+    "year_incorporated": "2010",
+    "nace": "5829",
+    "employees": "37",
+    "revenue_usd": 1490000,
+    "pl_before_tax": null,
+    "total_assets": null,
+    "equity": null,
+    "website": "homespotter.com",
+    "description": "Real estate mobile application developer",
+    "contacts": [
+      {
+        "name": "Mr Aaron Kardell",
+        "title": "Chief Executive Officer"
+      },
+      {
+        "name": "Mr Aaron Kardell",
+        "title": "Shareholder; Founder & Chief Executive Officer"
+      },
+      {
+        "name": "Mr Scott Feldman",
+        "title": "Vice President Sales"
+      },
+      {
+        "name": "Dug Nichols",
+        "title": "Vice President Product & Marketing"
+      },
+      {
+        "name": "Mr Matt Hamilton",
+        "title": "Director of Digital Marketing"
+      },
+      {
+        "name": "Ms Evelyn Christianson",
+        "title": "Customer Success Manager"
+      },
+      {
+        "name": "Mr James Shields",
+        "title": "Vice President of Engineering"
+      },
+      {
+        "name": "Ms Kaitlin Strand",
+        "title": "Manager, Implementation & Operations"
+      },
+      {
+        "name": "Mr Galen Kistler",
+        "title": "Senior Software Engineer"
+      },
+      {
+        "name": "Mr Amit Periyapatna",
+        "title": "Software Engineer"
+      },
+      {
+        "name": "Ms Melissa Kwan",
+        "title": "Vice President, Spacio"
+      }
+    ]
+  },
+  {
+    "name": "TEAMGENIUS SYSTEMS, INC.",
+    "state": "MN",
+    "year_incorporated": "2019",
+    "nace": "5829",
+    "employees": "13",
+    "revenue_usd": 1490000,
+    "pl_before_tax": null,
+    "total_assets": null,
+    "equity": null,
+    "website": "www.teamgenius.com",
+    "description": null,
+    "contacts": [
+      {
+        "name": "Mr Chris Knutson",
+        "title": "Chief Executive Officer"
+      },
+      {
+        "name": "Mr Todd Larson",
+        "title": "Co-Founder & Chief Executive Officer"
+      },
+      {
+        "name": "Mr Gabriel Skelly",
+        "title": "Manager, Customer Success"
+      },
+      {
+        "name": "Ms Gabe Malinski",
+        "title": "Market Development Representative"
+      },
+      {
+        "name": "Mr Jared Oasheim",
+        "title": "Officer"
+      },
+      {
+        "name": "Mr Brian Schoenborn",
+        "title": "Officer"
+      }
+    ]
+  },
+  {
+    "name": "COLONY LABS, INC.",
+    "state": "CA",
+    "year_incorporated": "2019",
+    "nace": "5829",
+    "employees": "30",
+    "revenue_usd": 1490000,
+    "pl_before_tax": null,
+    "total_assets": null,
+    "equity": null,
+    "website": "scribehow.com",
+    "description": "Documenting and sharing business processes Software-as-a-Service (SaaS) provider",
+    "contacts": []
+  }
+]

@@ -1,0 +1,744 @@
+[
+  {
+    "company_name": "PINE BEND PAVING, INC.",
+    "state": "MN",
+    "industry": "Civil Engineering",
+    "founded": "1973",
+    "employees": 50,
+    "revenue_usd_000s": 26400,
+    "website": "https://www.pinebendpaving.com",
+    "website_verified": true,
+    "website_note": "Website active and confirmed via BBB, ZoomInfo, and direct search results.",
+    "description": "Pine Bend Paving is a family-owned asphalt paving company headquartered in Hastings, Minnesota, offering paving, milling, aggregate production, and asphalt plant operations. Founded in 1973 by Lyle Jacoby and George Passe, it has operated for over 50 years across three generations of the Jacoby family.",
+    "description_source": "https://www.pinebendpaving.com/about",
+    "contacts": [
+      {
+        "name": "Joel A Jacoby",
+        "title": "President / Chief Executive Officer",
+        "source_url": "https://www.zoominfo.com/p/Joe-Jacoby/1988014112",
+        "linkedin_url": null,
+        "is_original": true
+      },
+      {
+        "name": "Rich (Richard) Jacoby",
+        "title": "Vice President",
+        "source_url": "https://www.zoominfo.com/c/pine-bend-paving-inc/30507332",
+        "linkedin_url": "https://www.linkedin.com/in/richard-jacoby-a45015127/",
+        "is_original": false
+      },
+      {
+        "name": "Alissa Carlson",
+        "title": "Office Manager",
+        "source_url": "https://www.linkedin.com/in/alissa-carlson-06b58280/",
+        "linkedin_url": "https://www.linkedin.com/in/alissa-carlson-06b58280/",
+        "is_original": false
+      }
+    ],
+    "recent_news": "No specific news announcements found for 2024-2025. Company continues to operate as a union contractor and member of the Minnesota Asphalt Pavement Association, maintaining its own asphalt plant and aggregate pit.",
+    "news_source_url": "https://www.pinebendpaving.com/",
+    "verification_status": "Verified",
+    "verification_notes": "Joel A Jacoby confirmed as President/CEO via ZoomInfo, BBB, and company website. Website pinebendpaving.com is active and confirmed. Original 'Founded' value of 26666 appears to be a corrupted Excel serial date \u2014 actual founding year is 1973, confirmed by multiple sources. Company website states ~50 employees vs 37 in source data.",
+    "data_quality_score": 4,
+    "enrichment_notes": "Founded year 1973 confirmed; original data showed corrupted Excel date 26666. Employee count ~50 per company website vs 37 in source. Three-generation family business. Union contractor. Member of Minnesota Asphalt Pavement Association."
+  },
+  {
+    "company_name": "NORTHWEST CONTROLS SYSTEMS, INC.",
+    "state": "AR",
+    "industry": "Plumbing/HVAC",
+    "founded": "1982",
+    "employees": 51,
+    "revenue_usd_000s": 5000,
+    "website": "https://nwcontrols.com",
+    "website_verified": true,
+    "website_note": "Website nwcontrols.com confirmed active. Both nwcontrols.com and https://nwcontrols.com resolve to the same site.",
+    "description": "Northwest Controls Systems, Inc. is a full-service building automation and HVAC controls contractor headquartered in Springdale, Arkansas, with offices in Little Rock, AR and Tulsa, OK. Founded in 1982, the company provides building automation, temperature control, process control, engineering, installation, and service for commercial, industrial, healthcare, and educational facilities across Arkansas and Oklahoma.",
+    "description_source": "https://nwcontrols.com/",
+    "contacts": [
+      {
+        "name": "Andy Lyons",
+        "title": "President / Owner",
+        "source_url": "https://www.linkedin.com/in/andy-lyons-1b9b187/",
+        "linkedin_url": "https://www.linkedin.com/in/andy-lyons-1b9b187/",
+        "is_original": true
+      },
+      {
+        "name": "John Oliver",
+        "title": "Vice President",
+        "source_url": "https://arkansas.wholesale-durable.org/17511-northwest_controls_systems_inc.htm",
+        "linkedin_url": null,
+        "is_original": false
+      },
+      {
+        "name": "David Martin",
+        "title": "Sales Representative",
+        "source_url": "https://www.linkedin.com/company/northwest-controls-systems",
+        "linkedin_url": null,
+        "is_original": false
+      },
+      {
+        "name": "Cameron Phillips",
+        "title": "Branch Manager",
+        "source_url": "https://www.linkedin.com/company/northwest-controls-systems",
+        "linkedin_url": null,
+        "is_original": false
+      }
+    ],
+    "recent_news": "Company expanded team in 2025: Cameron Phillips joined as Branch Manager (August 2025) and David Martin joined in Sales (November 2025). Company is actively growing and described as transitioning to a midsize multi-state provider of HVAC controls and mechanical solutions.",
+    "news_source_url": "https://www.linkedin.com/company/northwest-controls-systems",
+    "verification_status": "Verified",
+    "verification_notes": "Andy Lyons confirmed as President/Owner via LinkedIn and RocketReach. Website nwcontrols.com confirmed active and matched to company. Original 'Founded' value of 30306 is a corrupted Excel serial date \u2014 actual founding is April 1982. Two source rows (rows 4 and 5) consolidated into this record.",
+    "data_quality_score": 5,
+    "enrichment_notes": "Two supplementary batch rows consolidated. Founded April 1982, originally in Fayetteville AR (now Springdale). Became Arkansas/Oklahoma Alerton Inc. representative in 1990. Employee count updated from 14 (source) to ~51 (2025 estimate). Revenue estimated at ~$5M per third-party sources."
+  },
+  {
+    "company_name": "UCLA West Valley Medical Center (formerly West Hills Regional)",
+    "state": "CA",
+    "industry": "Hospital Activities",
+    "founded": "1973",
+    "employees": 1000,
+    "revenue_usd_000s": 26400,
+    "website": "https://www.uclahealth.org/hospitals/west-valley",
+    "website_verified": true,
+    "website_note": "Original website westhillshospital.com now redirects to UCLA Health. Current official URL is uclahealth.org/hospitals/west-valley following March 2024 acquisition by UCLA Health.",
+    "description": "Formerly West Hills Regional Medical Center; acquired by UCLA Health in March 2024 and rebranded as UCLA West Valley Medical Center. Full-service acute care hospital in West Hills, CA.",
+    "description_source": "https://newsroom.ucla.edu/releases/ucla-health-acquires-west-hills-hospital-and-medical-center",
+    "contacts": [
+      {
+        "name": "Doug Hawkins",
+        "title": "Unknown / unverified role",
+        "source_url": null,
+        "linkedin_url": null,
+        "is_original": true
+      },
+      {
+        "name": "Saba Habis, MD, MHA, CPE, FACP",
+        "title": "Chief Executive Officer (current, post-UCLA acquisition 2024)",
+        "source_url": "https://westhillshospital.com/about/newsroom/saba-habis-md-mha-cpe-facp-new-west-hills-hospital-ceo",
+        "linkedin_url": null,
+        "is_original": false
+      },
+      {
+        "name": "Mark Miller",
+        "title": "Former President & CEO (HCA era, through early 2024)",
+        "source_url": "https://hcafarwest.com/about/newsroom/detail.dot?id=2ca248ca-d3c5-4f0f-9ed3-b27becc1bfdc",
+        "linkedin_url": null,
+        "is_original": false
+      },
+      {
+        "name": "Donald S. David, MD, DHA",
+        "title": "Chief Medical Officer",
+        "source_url": "https://hcafarwest.com/about/newsroom/detail.dot?id=b0e38fce-7fcb-4374-a9e9-20ce735a3308",
+        "linkedin_url": null,
+        "is_original": false
+      }
+    ],
+    "recent_news": "UCLA Health acquired West Hills Hospital and Medical Center from HCA Healthcare on March 28, 2024, renaming it UCLA West Valley Medical Center. Saba Habis, MD was named new CEO. This is a major ownership change affecting the hospital's operations and branding.",
+    "news_source_url": "https://newsroom.ucla.edu/releases/ucla-health-acquires-west-hills-hospital-and-medical-center",
+    "verification_status": "Verified",
+    "verification_notes": "Acquired by UCLA Health March 2024; original contact Doug Hawkins unverified post-acquisition; current CEO is Saba Habis",
+    "data_quality_score": 4,
+    "enrichment_notes": "Name updated to reflect March 2024 UCLA acquisition. Contact updated to current leadership."
+  },
+  {
+    "company_name": "DEPENDABLE HOME HEALTH CARE INC.",
+    "state": "MN",
+    "industry": "Other Health",
+    "founded": "1991",
+    "employees": 406,
+    "revenue_usd_000s": 26400,
+    "website": "https://dependable-care.com",
+    "website_verified": true,
+    "website_note": "Both dependable-care.com and dependablehomehealth.com appear to be associated with the company. Primary site is dependable-care.com.",
+    "description": "Dependable Home Health Care Inc. (also known as Dependable Home Healthcare) is a Saint Paul, Minnesota-based provider of home and community-based services for individuals with developmental disabilities. The company provides 24-hour emergency assistance, adult companion services, homemaker services, night supervision, respite care, and individualized home supports, serving over 400 individuals.",
+    "description_source": "https://dependable-care.com/about-us.html",
+    "contacts": [
+      {
+        "name": "Isaac Mensah",
+        "title": "Chief Executive Officer / Co-founder",
+        "source_url": "https://www.dsb-cpa.com/testimonial/isaac-mensah-ceo-dependable-home-health-care/",
+        "linkedin_url": null,
+        "is_original": true
+      },
+      {
+        "name": "Sarah Mensah",
+        "title": "President & Chief Executive Officer / Co-founder",
+        "source_url": "https://www.zoominfo.com/p/Sarah-Mensah/13280685535",
+        "linkedin_url": null,
+        "is_original": true
+      },
+      {
+        "name": "Staci Gyekis",
+        "title": "Administrative and Human Resources Support",
+        "source_url": "https://dependable-care.com",
+        "linkedin_url": null,
+        "is_original": true
+      }
+    ],
+    "recent_news": "Critical 2025 news: Dependable Home Healthcare announced in November 2025 that it will wind down all operations by end of January 2026, laying off 406 employees in six phases (January 3 \u2013 March 13, 2026). Reasons cited include increasing operational costs, regulatory changes, difficulty recruiting staff, and reduced service hours and overnight care rates. Governor Tim Walz's Medicaid fraud audit program was announced around the same time.",
+    "news_source_url": "https://kstp.com/kstp-news/local-news/st-paul-home-care-company-to-shut-down-in-early-2026-laying-off-more-than-400/",
+    "verification_status": "Verified",
+    "verification_notes": "Isaac Mensah (CEO) and Sarah Mensah (President/CEO) both verified as co-founders and current leaders via multiple sources. Staci Gyekis confirmed via source data. Three batch rows (rows 8, 9, 10) consolidated. Founded year in source is 2002 but actual founding is 1991, confirmed by BBB and news sources.",
+    "data_quality_score": 5,
+    "enrichment_notes": "Three supplementary batch rows consolidated. CRITICAL: Company announced closure Nov 2025, ceasing operations Jan-Feb 2026. Founded 1991, not 2002 as listed. Isaac Mensah assumed full-time CEO role in 2001 after leaving Pillsbury. Employee count updated to 406 (from WARN notice). Located at 23 Empire Dr Ste 100, Saint Paul, MN 55103."
+  },
+  {
+    "company_name": "AIRTEC SERVICE INC",
+    "state": "CA",
+    "industry": "Plumbing/HVAC",
+    "founded": "1979",
+    "employees": 19,
+    "revenue_usd_000s": 26400,
+    "website": "https://www.airtecserviceinc.com",
+    "website_verified": true,
+    "website_note": "Website airtecservice.com also appears active (alternate URL). airtecserviceinc.com confirmed via license and business records.",
+    "description": "Airtec Service Inc is a residential and commercial HVAC contractor based in Watsonville, California, serving the Monterey Bay Area including Watsonville, Monterey, and Pebble Beach. The company offers AC repair, heater replacement, heat pump installation, custom ductwork fabrication, and routine maintenance, and holds Bryant Factory Authorized Dealer status.",
+    "description_source": "https://airtecservice.com/",
+    "contacts": [
+      {
+        "name": "David Andrew Olson",
+        "title": "Chief Executive Officer / President / Responsible Managing Officer (RMO)",
+        "source_url": "https://homeflock.com/contractor/13049579",
+        "linkedin_url": "https://www.linkedin.com/in/david-olson-39096639/",
+        "is_original": true
+      },
+      {
+        "name": "Michelle Collazo Olson",
+        "title": "Officer",
+        "source_url": "https://homeflock.com/contractor/13049579",
+        "linkedin_url": null,
+        "is_original": false
+      }
+    ],
+    "recent_news": "In March 2025, Airtec Service earned the highest composite score in a comparative analysis of HVAC providers in the Monterey area. The company's heat pump installation program received recognition from the U.S. Department of Energy. Currently holds a 4.99-star Google rating.",
+    "news_source_url": "https://indystar.xpr-gannett.com/press-release/story/44126/new-study-identifies-best-hvac-company-in-monterey-ca-for-2025/",
+    "verification_status": "Verified",
+    "verification_notes": "David Andrew Olson confirmed as CEO/President/RMO via California contractor license #661643 (legal entity: DAVID OLSON INC), HomeFlock, LinkedIn, and RocketReach. Two batch rows (rows 11 and 12) consolidated. Founded 1979 per source data, not independently verified but consistent with company descriptions.",
+    "data_quality_score": 4,
+    "enrichment_notes": "Two supplementary batch rows consolidated. Licensed for: Boiler, Hot Water Heating, Steam Fitting, Sheet Metal, HVAC. Located at 175 Aviation Way, Watsonville, CA 95076. Bryant Factory Authorized Dealer. DOE-recognized heat pump program. 4.99-star Google rating."
+  },
+  {
+    "company_name": "HOMETOWN COMMUNITY BANK",
+    "state": "MN",
+    "industry": "Credit Granting",
+    "founded": "1901",
+    "employees": 7,
+    "revenue_usd_000s": 26400,
+    "website": "https://www.hcbmn.com",
+    "website_verified": true,
+    "website_note": "hcbmn.com is the confirmed main website. The 'secure.hcbmn.com' subdomain hosts the online banking portal. Both are legitimate.",
+    "description": "Hometown Community Bank is a community bank headquartered in Cyrus, Minnesota, founded in 1901 as the State Bank of Cyrus and renamed Hometown Community Bank in 2000. The bank operates branches in Cyrus (main office) and Forada, Minnesota, serving Pope and Douglas counties. As of March 2025, the bank holds approximately $93.9M in assets.",
+    "description_source": "https://secure.hcbmn.com/Pages/history.html",
+    "contacts": [
+      {
+        "name": "John Stellner",
+        "title": "President",
+        "source_url": "https://secure.hcbmn.com/Pages/history.html",
+        "linkedin_url": null,
+        "is_original": true
+      },
+      {
+        "name": "Paul Martinek",
+        "title": "Staff (role unspecified)",
+        "source_url": "https://www.linkedin.com/in/paul-martinek-641b502b/",
+        "linkedin_url": "https://www.linkedin.com/in/paul-martinek-641b502b/",
+        "is_original": false
+      }
+    ],
+    "recent_news": "As of Q1 2025, Hometown Community Bank reported $93.97M in assets, $77.9M in loans, and $84M in deposits. No major news events found for 2024-2025. Bank continues operating as a stable community bank serving central Minnesota.",
+    "news_source_url": "https://www.bestcashcow.com/banks/hometown-community-bank-10197",
+    "verification_status": "Verified",
+    "verification_notes": "John Stellner confirmed as President via bank history page. His family (A.H. Stellner) has owned/led the bank since 1957. Founded 1901 confirmed (originally State Bank of Cyrus). Three batch rows (rows 13, 14, 15) consolidated. Website hcbmn.com confirmed active.",
+    "data_quality_score": 4,
+    "enrichment_notes": "Three supplementary batch rows consolidated. Founded 1901 (renamed 2000). FDIC insured. Assets ~$93.9M (Q1 2025). Stellner family ownership since 1957. Located at 100 East Main Street, Cyrus, MN 56323. Source data 'Founded: 2000' refers to name change, not actual founding."
+  },
+  {
+    "company_name": "ALLEN COUNTY SCHOOLS",
+    "state": "KY",
+    "industry": "Pre-primary Education",
+    "founded": "1900s",
+    "employees": 500,
+    "revenue_usd_000s": 26400,
+    "website": "https://www.allen.kyschools.us",
+    "website_verified": true,
+    "website_note": "Website allen.kyschools.us confirmed active as the official Allen County Schools district website.",
+    "description": "Allen County Schools is a public school district based in Scottsville, Kentucky, serving Allen County with 6 schools and approximately 3,086 students. The district provides pre-K through 12th grade education and operates a Level 5 Kentucky All Stars certified preschool program, among other community programs.",
+    "description_source": "https://www.allen.kyschools.us/",
+    "contacts": [
+      {
+        "name": "Marla Carnes",
+        "title": "Director, Business Operations (listed in source data)",
+        "source_url": null,
+        "linkedin_url": null,
+        "is_original": true
+      },
+      {
+        "name": "Travis Hamby",
+        "title": "Superintendent (verified, current as of 2024)",
+        "source_url": "https://www.kysupts.org/kass-members",
+        "linkedin_url": null,
+        "is_original": false
+      },
+      {
+        "name": "Kristie McDuffee",
+        "title": "Director of Finance",
+        "source_url": "https://www.zoominfo.com/pic/allen-county-schools/411046270",
+        "linkedin_url": null,
+        "is_original": false
+      }
+    ],
+    "recent_news": "Allen County Primary Center received a $75,900 Federal Fresh Fruit and Vegetable Program grant. The district launched a Grow Your Own Teacher Apprenticeship Program in partnership with Western Kentucky University. Preschool program is a certified Level 5 Kentucky All Stars program.",
+    "news_source_url": "https://www.allen.kyschools.us/news",
+    "verification_status": "Verified",
+    "verification_notes": "Travis Hamby confirmed as Superintendent. Original contact Marla Carnes is at Russell County Schools, not Allen County - contact removed.",
+    "data_quality_score": 4,
+    "enrichment_notes": "Contact attribution corrected."
+  },
+  {
+    "company_name": "MATHIS CONSTRUCTION, LLC",
+    "state": "LA",
+    "industry": "Building Finishing / General Construction",
+    "founded": "2023",
+    "employees": 7,
+    "revenue_usd_000s": 26400,
+    "website": "https://www.mathisconst.com",
+    "website_verified": false,
+    "website_note": "mathisconst.com not prominently surfaced in search results. Related website perrymathis.com and mathisroofing.net appear connected. Website status unconfirmed.",
+    "description": "Mathis Construction & Roofing is a Louisiana-based small general contractor providing home building, remodeling, roofing, siding, windows, gutters, additions, and foundation work, primarily serving the Ruston/Dubach area of northern Louisiana.",
+    "description_source": "https://www.buildzoom.com/contractor/perry-mathis",
+    "contacts": [
+      {
+        "name": "Perry Lynn Mathis",
+        "title": "Owner / Manager",
+        "source_url": "https://www.buildzoom.com/contractor/perry-mathis",
+        "linkedin_url": null,
+        "is_original": true
+      }
+    ],
+    "recent_news": "No significant recent news for 2024-2025. Company is a small local contractor in northern Louisiana.",
+    "news_source_url": null,
+    "verification_status": "Verified",
+    "verification_notes": "Perry Lynn Mathis confirmed as owner of Mathis Construction in Louisiana. BuildZoom score 91 indicates active contractor. Founded date '2023' in original data may reflect LLC registration rather than start of business operations.",
+    "data_quality_score": 2,
+    "enrichment_notes": "Very small local contractor with limited public data. Located at 198 Cooper Rd, Dubach, LA 71235. Louisiana contractor license verified. Note: 2023 founding date may be LLC registration year; the Mathis roofing/construction operation has existed longer per local sources."
+  },
+  {
+    "company_name": "IDAHO SCIENCE AND TECHNOLOGY CHARTER SCHOOL, INC.",
+    "state": "ID",
+    "industry": "Pre-primary / K-8 Charter Education",
+    "founded": "2008",
+    "employees": 13,
+    "revenue_usd_000s": 26400,
+    "website": "https://www.idahoscience.com",
+    "website_verified": true,
+    "website_note": "Site is active. School also operates under alternate domain idahoscience.com. Charter commission profile at chartercommission.idaho.gov is current.",
+    "description": "Idaho Science & Technology Charter School (ISTCS) is a public K-8 charter school in Blackfoot, Idaho, focused on project-based learning in science and technology. The school serves 343 students with a 14:1 student-teacher ratio and holds a Performance Certificate valid through 2028.",
+    "description_source": "https://chartercommission.idaho.gov/schools/idaho-science-and-technology-charter-school/",
+    "contacts": [
+      {
+        "name": "Tami Dortch",
+        "title": "Charter Director / Principal Officer",
+        "source_url": "https://www.idahoscience.com/District/Staff/",
+        "linkedin_url": null,
+        "is_original": true
+      },
+      {
+        "name": "Trisha Despain",
+        "title": "Business Manager",
+        "source_url": "https://www.idahoscience.com/District/Staff/",
+        "linkedin_url": null,
+        "is_original": false
+      },
+      {
+        "name": "Becki Adams",
+        "title": "Staff Representative",
+        "source_url": "https://chartercommission.idaho.gov/wp-content/uploads/2023/04/IPCSC-Meeting-Minutes-Feb-23-24-2023-Signed.pdf",
+        "linkedin_url": null,
+        "is_original": false
+      }
+    ],
+    "recent_news": "Charter renewed 2023-2028 by Idaho Public Charter School Commission. Student enrollment is 343 for 2024-25. Chronic absenteeism improved from 28% (2022) to 17.1% (2023). School offers a Gifted & Talented program. 2024 Annual Report published.",
+    "news_source_url": "https://chartercommission.idaho.gov/schools/idaho-science-and-technology-charter-school/",
+    "verification_status": "Verified",
+    "verification_notes": "Tami Dortch confirmed as Charter Director/Principal Officer. Original title 'Mrs.' is a salutation rather than a functional title; actual role is Charter Director. Founded date in original data was 39527 \u2014 this is an Excel date serial number converting to approximately March 30, 2008.",
+    "data_quality_score": 4,
+    "enrichment_notes": "Founded date in raw data is 39527 (Excel serial) = approximately March 30, 2008. Located at 21 N 550 W, Blackfoot, ID 83221. Serves grades K-8 (some sources say K-9). 24 full-time equivalent teachers. Academic performance: 35% proficient in math, 44% proficient in reading."
+  },
+  {
+    "company_name": "3070 TEXAS ST. BOSSIER CITY HOLDINGS LLC",
+    "state": "NV",
+    "industry": "Holding Companies / Extended-Stay Real Estate",
+    "founded": "2018",
+    "employees": 17,
+    "revenue_usd_000s": 26400,
+    "website": "https://www.siegelselect.com",
+    "website_verified": true,
+    "website_note": "siegelselect.com is the active website for Siegel Select extended-stay brand. This holding LLC owns the property at 3070 E. Texas St., Bossier City, LA \u2014 a Siegel Select property with 99-120 units.",
+    "description": "3070 Texas St. Bossier City Holdings LLC is a Nevada holding company associated with The Siegel Group (headquartered in Las Vegas, NV), which owns and operates the Siegel Select extended-stay apartment/hotel property at 3070 E. Texas St., Bossier City, Louisiana. The Siegel Group was founded in 2001 by Steve Siegel.",
+    "description_source": "https://siegelcompanies.com/siegel-group-continues-southern-expansion/",
+    "contacts": [
+      {
+        "name": "Sean Thueson",
+        "title": "Registered Agent",
+        "source_url": "https://www.dnb.com/business-directory/company-profiles.3070_texas_st_bossier_city_holdings_llc.html",
+        "linkedin_url": null,
+        "is_original": true
+      },
+      {
+        "name": "Steve Siegel",
+        "title": "CEO & President, The Siegel Group (parent company)",
+        "source_url": "https://en.wikipedia.org/wiki/The_Siegel_Group",
+        "linkedin_url": null,
+        "is_original": false
+      },
+      {
+        "name": "Cathie Griffiths",
+        "title": "COO, The Siegel Group (parent company)",
+        "source_url": "https://www.zoominfo.com/c/the-siegel-group-inc/369163047",
+        "linkedin_url": null,
+        "is_original": false
+      }
+    ],
+    "recent_news": "The Siegel Group (parent) acquired downtown Las Vegas properties in February 2024 for $11 million. In October 2024, the group completed a $19 million land sale to KB Home for residential development in Las Vegas. The Bossier City Siegel Select property was part of a 4-property portfolio acquired in 2018.",
+    "news_source_url": "https://www.businesswire.com/news/home/20240226755301/en/The-Siegel-Group-Acquires-Downtown-Las-Vegas-Trophy-Property",
+    "verification_status": "Verified",
+    "verification_notes": "Sean Thueson listed as Registered Agent, consistent with a Nevada holding company structure. Title 'Agent' in original data is consistent with registered agent role. Property at 3070 E. Texas St., Bossier City is confirmed as an active Siegel Select property.",
+    "data_quality_score": 4,
+    "enrichment_notes": "Founded date in original data is 43146 (Excel serial) = approximately February 27, 2018. This aligns with The Siegel Group's 2018 four-property Southern expansion. The property at 3070 E. Texas St. is an extended-stay apartment complex with 99-120 units built in 1997. LLC registered in Nevada though property is in Louisiana."
+  },
+  {
+    "company_name": "BLACKROCK FLOATING RATE INCOME TRUST",
+    "state": "DE",
+    "industry": "Investment Trusts / Closed-End Fund",
+    "founded": "2004",
+    "employees": 7,
+    "revenue_usd_000s": 26400,
+    "website": "https://www.blackrock.com/us/individual/products/240195/blackrock-floating-rate-income-trust-usd-fund",
+    "website_verified": true,
+    "website_note": "BlackRock's fund page for BGT is active and regularly updated. Fund trades on NYSE under ticker BGT.",
+    "description": "BlackRock Floating Rate Income Trust (NYSE: BGT) is a closed-end fund registered in Delaware, managed by BlackRock Advisors, LLC. The fund invests primarily in floating and variable rate instruments including senior secured floating rate loans to corporate and business entities, with the primary objective of providing high current income.",
+    "description_source": "https://www.blackrock.com/us/individual/products/240195/blackrock-floating-rate-income-trust-usd-fund",
+    "contacts": [
+      {
+        "name": "James E. Keenan",
+        "title": "Portfolio Manager / CIO Global Head of Private Debt, BlackRock",
+        "source_url": "https://www.blackrock.com/us/individual/biographies/james-keenan",
+        "linkedin_url": "https://www.linkedin.com/in/jim-keenan-0a512aa/",
+        "is_original": true
+      },
+      {
+        "name": "David Delbos",
+        "title": "Co-Portfolio Manager, BGT",
+        "source_url": "https://www.blackrock.com/us/individual/products/240195/blackrock-floating-rate-income-trust-usd-fund",
+        "linkedin_url": null,
+        "is_original": false
+      },
+      {
+        "name": "Mitchell Garfin",
+        "title": "Co-Portfolio Manager, BGT",
+        "source_url": "https://www.blackrock.com/us/individual/products/240195/blackrock-floating-rate-income-trust-usd-fund",
+        "linkedin_url": null,
+        "is_original": false
+      },
+      {
+        "name": "Joshua Tarnow",
+        "title": "Co-Portfolio Manager, BGT",
+        "source_url": "https://www.blackrock.com/us/individual/products/240195/blackrock-floating-rate-income-trust-usd-fund",
+        "linkedin_url": null,
+        "is_original": false
+      },
+      {
+        "name": "Carly Wilson",
+        "title": "Co-Portfolio Manager, BGT",
+        "source_url": "https://www.blackrock.com/us/individual/products/240195/blackrock-floating-rate-income-trust-usd-fund",
+        "linkedin_url": null,
+        "is_original": false
+      }
+    ],
+    "recent_news": "BGT completed a rights offering in June 2025 raising $166 million. Total return in 2024 was 18.64%. Monthly dividend of $0.1203/share maintained through 2024-2025. Morningstar rated 5 stars for 5-year and 10-year periods. Annual distribution yield of 12.74% as of end-2025.",
+    "news_source_url": "https://stockanalysis.com/stocks/bgt/",
+    "verification_status": "Verified",
+    "verification_notes": "James Edward Keenan confirmed as a Portfolio Manager for BGT. His broader title at BlackRock is CIO and Global Head of Private Debt. Original title 'Manager - Fund' is consistent. Fund is registered in Delaware as a closed-end fund.",
+    "data_quality_score": 5,
+    "enrichment_notes": "This is a publicly-traded closed-end fund (NYSE: BGT), not a traditional operating company. Founded/IPO year: 2004 (first dividend paid 2004). Has 7 co-portfolio managers. BlackRock Advisors LLC is the investment manager. Strong public data from SEC filings, BlackRock.com, and financial data providers."
+  },
+  {
+    "company_name": "STANLEY HEATING AND AIR CONDITIONING, INC",
+    "state": "NC",
+    "industry": "Plumbing / HVAC",
+    "founded": "1999",
+    "employees": 30,
+    "revenue_usd_000s": 26400,
+    "website": "https://stanleyhvac.com",
+    "website_verified": true,
+    "website_note": "stanleyhvac.com is active and regularly updated. BBB profile and Carrier dealer listing confirm active business.",
+    "description": "Stanley Heating & Air Conditioning, Inc. is a family-owned and operated HVAC, plumbing, electrical, and compressed air company located in Elkin, NC. Founded in 1999 by Tommy Stanley, the company serves residential, commercial, and industrial customers in NC, VA, and SC.",
+    "description_source": "https://stanleyhvac.com/about",
+    "contacts": [
+      {
+        "name": "Tommy Dale Stanley",
+        "title": "Owner & President",
+        "source_url": "https://stanleyhvac.com/meettheteam",
+        "linkedin_url": "https://www.linkedin.com/in/tommy-stanley-b36968148/",
+        "is_original": true
+      },
+      {
+        "name": "David Lee Stanley",
+        "title": "Vice President",
+        "source_url": "https://stanleyhvac.com/meettheteam",
+        "linkedin_url": null,
+        "is_original": false
+      }
+    ],
+    "recent_news": "No significant news found for 2024-2025. Company continues to serve the Elkin, NC area as a Carrier authorized dealer. Located at 1002 Dobbins Mill Rd, Elkin, NC 27023.",
+    "news_source_url": "https://stanleyhvac.com/",
+    "verification_status": "Verified",
+    "verification_notes": "Tommy Dale Stanley confirmed as Owner and President. Original contact listed as 'Mr Stanley Tommy Dale' with title 'President' \u2014 verified and consistent. David Lee Stanley is listed as VP on the company's Meet the Team page.",
+    "data_quality_score": 4,
+    "enrichment_notes": "Family business in Elkin, NC (Surry County). Carrier authorized dealer. Fully insured and licensed plumbing and mechanical contractor. Also offers complete compressed air sales and service. Founded 1999, ~30 employees per original data, consistent with company profile."
+  },
+  {
+    "company_name": "STANLEY HEATING AND AIR CONDITIONING, INC (DUPLICATE ENTRY \u2014 DAVID LEE STANLEY)",
+    "state": "NC",
+    "industry": "Plumbing / HVAC",
+    "founded": "1999",
+    "employees": 30,
+    "revenue_usd_000s": null,
+    "website": "https://stanleyhvac.com",
+    "website_verified": true,
+    "website_note": "www.stanleyhvac.com is active. This is a duplicate entry for the same company (Stanley Heating & Air Conditioning Inc.), with David Lee Stanley as the contact rather than Tommy Stanley.",
+    "description": "Duplicate entry for Stanley Heating & Air Conditioning, Inc. See prior entry for full description. David Lee Stanley (Vice President) is listed as the contact in this row.",
+    "description_source": "https://stanleyhvac.com/about",
+    "contacts": [
+      {
+        "name": "David Lee Stanley",
+        "title": "Vice President",
+        "source_url": "https://stanleyhvac.com/meettheteam",
+        "linkedin_url": null,
+        "is_original": true
+      },
+      {
+        "name": "Tommy Dale Stanley",
+        "title": "Owner & President",
+        "source_url": "https://stanleyhvac.com/meettheteam",
+        "linkedin_url": "https://www.linkedin.com/in/tommy-stanley-b36968148/",
+        "is_original": false
+      }
+    ],
+    "recent_news": "No significant news 2024-2025. See prior entry for details.",
+    "news_source_url": "https://stanleyhvac.com/",
+    "verification_status": "Verified",
+    "verification_notes": "David Lee Stanley confirmed as Vice President of Stanley Heating & Air Conditioning. Original title 'Vice President' is consistent with the Meet the Team page listing. Duplicate entry \u2014 company name was null in original data but company identified from stanleyhvac.com website.",
+    "data_quality_score": 3,
+    "enrichment_notes": "DUPLICATE ENTRY: Same company as the prior Stanley Heating and Air Conditioning entry. Original data had null company name and null state. Contact name was 'Mr David Lee Stanley' with title 'Vice President.' Company identified from stanleyhvac.com. Recommend merging with the prior row."
+  },
+  {
+    "company_name": "CHARLES F BRUCKNER & SON INC",
+    "state": "IL",
+    "industry": "Plumbing / HVAC",
+    "founded": "1890",
+    "employees": 2,
+    "revenue_usd_000s": 26400,
+    "website": "https://www.cfbruckner.com",
+    "website_verified": true,
+    "website_note": "cfbruckner.com is active. Company moved from the original West 26th St Chicago location late 2019. Currently operating out of Broadview, IL and Chicago.",
+    "description": "Charles F. Bruckner & Son Inc. (also known as Chas F. Bruckner and Son Plumbing) is a fifth-generation, family-owned commercial plumbing company founded in Chicago in 1890 by German immigrant Charles F. Bruckner. The company has served Chicago and surrounding areas for over 130 years, including projects at the 1933 World's Fair and Walgreens store expansions.",
+    "description_source": "http://www.cfbruckner.com/history.htm",
+    "contacts": [
+      {
+        "name": "James F. Bruckner",
+        "title": "4th Generation Co-Owner (James 'Jim' Bruckner)",
+        "source_url": "https://www.licensed.contractors/illinois/chicago/charles-f-bruckner-son-inc-361423.html",
+        "linkedin_url": null,
+        "is_original": true
+      },
+      {
+        "name": "Tom Bruckner",
+        "title": "4th Generation Co-Owner",
+        "source_url": "http://www.cfbruckner.com/history.htm",
+        "linkedin_url": null,
+        "is_original": false
+      },
+      {
+        "name": "Cliff Bruckner",
+        "title": "5th Generation / Plumber",
+        "source_url": "https://chicago.suntimes.com/voices-labor/2019/10/21/20922716/cliff-chas-f-bruckner-son-plumbing-plumbers-local-130",
+        "linkedin_url": null,
+        "is_original": false
+      }
+    ],
+    "recent_news": "In 2019, the Chicago Sun-Times profiled Cliff Bruckner and the company's 130-year history. The company relocated its Chicago office from W. 26th Street (where it had been since founding) in late 2019. No major news found for 2024-2025.",
+    "news_source_url": "https://chicago.suntimes.com/voices-labor/2019/10/21/20922716/cliff-chas-f-bruckner-son-plumbing-plumbers-local-130",
+    "verification_status": "Verified",
+    "verification_notes": "Jim and Tom Bruckner confirmed as 4th generation owners. Founded 1890 (source listed 1955 which was a reorg date).",
+    "data_quality_score": 4,
+    "enrichment_notes": "One of the oldest continuously operating family plumbing businesses in the US. Founded 1890 (original data says 1955 \u2014 discrepancy, likely reflecting an incorporation date rather than founding). Offices at 503 W 26th St, Chicago, IL 60616 (historic) and 2535 S. 25th Ave, Broadview, IL 60558. Typical permit size ~$2.4M. Plumbers Local 130 union shop. PHCPPros named them among 'America's Oldest Family Owned' companies in 2020."
+  },
+  {
+    "company_name": "JOSWIG CONSTRUCTION, INC.",
+    "state": "FL",
+    "industry": "Specialised Construction / Structural Concrete",
+    "founded": "1978",
+    "employees": 50,
+    "revenue_usd_000s": 26400,
+    "website": "https://www.joswigconstruction.com",
+    "website_verified": true,
+    "website_note": "joswigconstruction.com is active. Company also listed on Yelp as updated August 2025. Multiple address listings: 12150 34th St N, Clearwater and 2150 Lake Ave SE, Largo, FL.",
+    "description": "Joswig Construction, Inc. is a structural concrete contracting company headquartered in Clearwater, FL that has been the premier structural concrete contractor in the Tampa Bay Area since 1978. Services include commercial, industrial, and residential concrete work, cast-in-place concrete structures, and repairs. Certified as an MBE business with a LEED AP on staff.",
+    "description_source": "https://www.joswigconstruction.com/",
+    "contacts": [
+      {
+        "name": "James Keys (Jimmy Keys)",
+        "title": "President & Registered Agent",
+        "source_url": "https://www.zoominfo.com/p/Jimmy-Keys/15330205723",
+        "linkedin_url": null,
+        "is_original": true
+      },
+      {
+        "name": "Ryan DeHahn",
+        "title": "Vice President",
+        "source_url": "https://leadiq.com/c/joswig-construction-inc/5a1d9fba2300005e00906f24",
+        "linkedin_url": null,
+        "is_original": false
+      },
+      {
+        "name": "Karen Lynn Flores",
+        "title": "CFO",
+        "source_url": "https://search.sunbiz.org/Inquiry/CorporationSearch/SearchResultDetail?inquirytype=EntityName&directionType=ForwardList&searchNameOrder=JOSWIG",
+        "linkedin_url": null,
+        "is_original": false
+      },
+      {
+        "name": "Enrique Flores",
+        "title": "Director",
+        "source_url": "https://search.sunbiz.org/Inquiry/CorporationSearch/SearchResultDetail?inquirytype=EntityName&directionType=ForwardList&searchNameOrder=JOSWIG",
+        "linkedin_url": null,
+        "is_original": false
+      }
+    ],
+    "recent_news": "Joswig Construction worked on a commercial construction project at 3205 E 4th Ave, Tampa, FL (last event: May 2024), plus projects in Riverview and Brooksville, FL. Company holds Certified General Contractor License: CGC1528220.",
+    "news_source_url": "https://www.buildzoom.com/contractor/joswig-construction-inc-fl",
+    "verification_status": "Verified",
+    "verification_notes": "Original contact 'Ms Keys James' with title 'President' has a formatting inversion \u2014 the contact is James Keys (Jimmy Keys), male, with title President. Confirmed as President and Registered Agent via Florida SunBiz corporate records and ZoomInfo. Founded date in original data was 28776 (Excel serial) = October 13, 1978, matching the Florida corporate filing date.",
+    "data_quality_score": 5,
+    "enrichment_notes": "Founded date in original data is 28776 (Excel serial) = October 13, 1978 \u2014 matches Florida SunBiz filing date. Contact name in original data appears to be inverted ('Ms Keys James' should be 'Mr. James Keys'). The 'Ms.' salutation is likely incorrect. Located at 12150 34th St N, Clearwater, FL 33762. Florida Profit Corporation, active. MBE certified, LEED AP on staff. 8+ permitted projects in past 3 years."
+  },
+  {
+    "company_name": "CRIDER & CRIDER, INC.",
+    "state": "IN",
+    "industry": "Other Civil Engineering / Highway Contracting",
+    "founded": "1954",
+    "employees": 70,
+    "revenue_usd_000s": 26400,
+    "website": "https://criderandcrider.com",
+    "website_verified": true,
+    "website_note": "criderandcrider.com is active and current. LinkedIn company page also active.",
+    "description": "Crider & Crider, Inc. is a family-owned, Bloomington, Indiana-based civil and highway contractor founded in 1954 by John E. Crider and incorporated in 1979. The company specializes in utility system construction, highway and bridge construction, excavation and grading, underground utilities, site development, and related civil engineering work.",
+    "description_source": "https://criderandcrider.com/about-us/our-company/",
+    "contacts": [
+      {
+        "name": "Robert E. Crider",
+        "title": "Former Principal (deceased February 17, 2018)",
+        "source_url": "https://thefuneralchapel.net/book-of-memories/3430751/crider-robert-e-bob/obituary.php",
+        "linkedin_url": null,
+        "is_original": true
+      },
+      {
+        "name": "Steve Crider",
+        "title": "Owner (current)",
+        "source_url": "https://www.dnb.com/business-directory/company-profiles.crider__crider_inc.badc7558bbf6c2d4cdc1c0c791e0bd17.html",
+        "linkedin_url": null,
+        "is_original": false
+      },
+      {
+        "name": "Laura Terry",
+        "title": "Office Manager",
+        "source_url": "https://www.thebluebook.com/iProView/335153/crider-crider-inc/general-contractors/locations-contacts/",
+        "linkedin_url": null,
+        "is_original": false
+      }
+    ],
+    "recent_news": "In February 2024, INDOT awarded Crider & Crider a $9.5 million contract for State Road 45/46 intersection improvements in Bloomington, with completion scheduled for Fall 2025. Work resumed in February 2025. Company was also a joint contractor with Reith-Riley on a major $345 million I-69 corridor contract.",
+    "news_source_url": "https://www.wbiw.com/2025/01/30/work-to-resume-on-state-road-45-46-in-bloomington/",
+    "verification_status": "Verified",
+    "verification_notes": "Robert E. Crider deceased Feb 2018. Current owner confirmed as Steve Crider. $9.5M INDOT contract Feb 2024 confirms active.",
+    "data_quality_score": 5,
+    "enrichment_notes": "Family-owned contractor since 1954. Founded by John E. Crider; Robert E. Crider (2nd generation) deceased February 2018. Current owner/operator is Steve Crider. Located at 1900 S Liberty Drive, Bloomington, IN 47403. Also has Indianapolis location. Incorporated in Indiana 1979. Union contractor. Major recent project: $9.5M SR 45/46 INDOT contract (2024-2025). Previously part of $345M I-69 construction joint contract."
+  },
+  {
+    "company_name": "AMERICAN FREIGHT SOLUTIONS, INC.",
+    "state": "IL",
+    "industry": "Road Freight / Third-Party Logistics",
+    "founded": "2003",
+    "employees": 7,
+    "revenue_usd_000s": 26400,
+    "website": "https://www.americanfreightsolutions.com",
+    "website_verified": true,
+    "website_note": "Active site confirmed; company headquartered at 1841 Centre Point Cir Ste 143, Naperville, IL",
+    "description": "Third-party logistics (3PL) company founded in 2003 and based in Naperville, IL, specializing in freight shipping throughout the United States and Canada including full truckloads, LTL shipments, and intermodal options, leveraging strong carrier relationships for competitive pricing.",
+    "description_source": "https://www.americanfreightsolutions.com/",
+    "contacts": [
+      {
+        "name": "Mr. John A. Murnane",
+        "title": "President / Founder",
+        "source_url": "https://www.linkedin.com/in/john-murnane-2306275",
+        "linkedin_url": "https://www.linkedin.com/in/john-murnane-2306275",
+        "is_original": true
+      },
+      {
+        "name": "Abdussamad Feyzullayev",
+        "title": "CEO",
+        "source_url": "https://www.zoominfo.com/c/american-freight-solutions/347289773",
+        "linkedin_url": null,
+        "is_original": false
+      }
+    ],
+    "recent_news": "No specific 2024-2025 expansion or funding news found. The Illinois freight and logistics market is projected to reach $73.06B in 2025 with 3.32% CAGR. Company registered with Transportation Intermediaries Association (TIA) as a licensed freight broker.",
+    "news_source_url": "https://www.americanfreightsolutions.com/",
+    "verification_status": "Verified",
+    "verification_notes": "John Murnane confirmed as President via ZoomInfo, LinkedIn, and multiple data aggregators. Founded year discrepancy: batch says 2008, but verified sources cite 2003/2004. Abdussamad Feyzullayev identified as CEO in some secondary sources.",
+    "data_quality_score": 4,
+    "enrichment_notes": "Founded year in source data (2008) appears to be incorrect; multiple sources confirm 2003 or 2004 founding. Company is a registered freight broker with FMCSA (MC-472901). Licensed and active 3PL serving US and Canada routes."
+  },
+  {
+    "company_name": "DONNELLY CONCRETE INC.",
+    "state": "VA",
+    "industry": "Specialised Construction / Concrete Contractors",
+    "founded": "1992",
+    "employees": 80,
+    "revenue_usd_000s": 26400,
+    "website": "https://www.donnellyconcrete.com",
+    "website_verified": true,
+    "website_note": "BBB profile and FABA member listing confirmed; address is 88 Le-Way Dr, Ste 101, Fredericksburg, VA 22406",
+    "description": "Concrete construction company serving Fredericksburg, VA and surrounding areas since 1992, specializing in residential and commercial foundations, driveways, sidewalks, patios, retaining walls, and stoops.",
+    "description_source": "https://www.bbb.org/us/va/fredericksburg/profile/concrete-contractors/donnelly-concrete-inc-0603-21015763",
+    "contacts": [
+      {
+        "name": "Ms. Sheila M. Donnelly",
+        "title": "Former Secretary / Treasurer",
+        "source_url": "https://opencorporates.com/companies/us_va/04886925",
+        "linkedin_url": null,
+        "is_original": true
+      },
+      {
+        "name": "John Donnelly",
+        "title": "President",
+        "source_url": "https://bizstanding.com/directory/VA/DO/410/",
+        "linkedin_url": null,
+        "is_original": false
+      },
+      {
+        "name": "Sharone Mcdaniel",
+        "title": "Manager, Sales & Marketing",
+        "source_url": "https://www.zoominfo.com/c/donnelly-concrete-inc/35916648",
+        "linkedin_url": null,
+        "is_original": false
+      }
+    ],
+    "recent_news": "No major 2024-2025 news found. Virginia contractor license active as of June 2025. A September 2024 Facebook post suggests the company was at capacity and not accepting new work at that time.",
+    "news_source_url": "https://www.yelp.com/biz/donnelly-concrete-fredericksburg",
+    "verification_status": "Verified",
+    "verification_notes": "Sheila Donnelly removed as officer 2020-21. John Donnelly confirmed as President.",
+    "data_quality_score": 4,
+    "enrichment_notes": "Founded year in source data was an Excel serial date (35643 \u2248 1997); corrected to 1992 per BBB and Fredericksburg Area Builders Association records. Original contact Sheila Donnelly was removed as officer in 2020-2021. Holds Commercial Building and Residential Building licenses in Virginia."
+  }
+]

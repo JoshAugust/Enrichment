@@ -1,0 +1,895 @@
+[
+  {
+    "name": "NCG MEDICAL SYSTEMS, INC.",
+    "state": "FL",
+    "year_incorporated": "1992",
+    "nace": "5829",
+    "employees": "44",
+    "revenue_usd": 2210000,
+    "pl_before_tax": null,
+    "total_assets": null,
+    "equity": null,
+    "website": "www.ncgmedical.com",
+    "description": null,
+    "contacts": [
+      {
+        "name": "Mr Antonio O Arias SR",
+        "title": "President"
+      },
+      {
+        "name": "Mr Antonio O Arias SR",
+        "title": "Vice President, Business Development"
+      },
+      {
+        "name": "Mr Antonio O Arias SR",
+        "title": "Director"
+      },
+      {
+        "name": "Mr Arias A Francisco",
+        "title": "Comptroller"
+      },
+      {
+        "name": "Mr Arias A Francisco",
+        "title": "Director"
+      },
+      {
+        "name": "Ms Angela Duke",
+        "title": "Medical Billing"
+      },
+      {
+        "name": "Ms Penny Langenbach",
+        "title": "Medical Billing Specialist"
+      },
+      {
+        "name": "Ms Carmen Torres",
+        "title": "Billing"
+      },
+      {
+        "name": "Jackie Huasupoma",
+        "title": "Marketing Coordinator"
+      },
+      {
+        "name": "Ms Melissa Herrera",
+        "title": "Account Manager"
+      },
+      {
+        "name": "Mr Kenneth Johnson",
+        "title": "Network Administrator"
+      },
+      {
+        "name": "Mr Riaz Latib",
+        "title": "Web Application Developer, Computer Programmer"
+      },
+      {
+        "name": "Ms Jacqueline Draper",
+        "title": "Insurance Coordinator"
+      }
+    ]
+  },
+  {
+    "name": "COBRA TECHNOLOGIES INC",
+    "state": "FL",
+    "year_incorporated": "1995",
+    "nace": "5829",
+    "employees": "29",
+    "revenue_usd": 2210000,
+    "pl_before_tax": null,
+    "total_assets": null,
+    "equity": null,
+    "website": "www.cobratech.com",
+    "description": null,
+    "contacts": []
+  },
+  {
+    "name": "MARQUIS SOFTWARE DEVELOPMENT, INC.",
+    "state": "FL",
+    "year_incorporated": "2000",
+    "nace": "5829",
+    "employees": "43",
+    "revenue_usd": 2210000,
+    "pl_before_tax": null,
+    "total_assets": null,
+    "equity": null,
+    "website": "www.marquisware.com",
+    "description": "Engaged in the provision of computer programming and data processing, as well as other related services",
+    "contacts": [
+      {
+        "name": "Mr Glenn Fishback",
+        "title": "Vice President & Chief Technology Officer"
+      },
+      {
+        "name": "Ms Pam Beck",
+        "title": "Executive Assistant"
+      },
+      {
+        "name": "Mr Jason Randall",
+        "title": "Marketing and Sales Intern"
+      },
+      {
+        "name": "Mr Tyler Kelly",
+        "title": "Mobile Development Intern"
+      },
+      {
+        "name": "Mr Brian Strauch",
+        "title": "Project Manager"
+      },
+      {
+        "name": "Mr Don Viola",
+        "title": "Senior Dev Operations Engineer"
+      },
+      {
+        "name": "Mr Ryan Elliott",
+        "title": "Dba Team Lead"
+      },
+      {
+        "name": "Mr Craig Brown",
+        "title": "Senior Software Consultant"
+      },
+      {
+        "name": "Ms Jennifer Fishback",
+        "title": "Senior Software Consultant"
+      },
+      {
+        "name": "Mr Sibi Johns",
+        "title": "Senior Software Consultant"
+      },
+      {
+        "name": "Mr Bryan Ladle",
+        "title": "Software Developer"
+      },
+      {
+        "name": "Mr Bradley Patterson",
+        "title": "Software Developer"
+      },
+      {
+        "name": "Mr Robert Patterson",
+        "title": "Software Consultant"
+      },
+      {
+        "name": "Mr Larry Powell",
+        "title": "Senior Software Engineer"
+      },
+      {
+        "name": "Mr Sam Sheffield",
+        "title": "Senior Software Consultant"
+      },
+      {
+        "name": "Mr Lee Thurston",
+        "title": "Senior Software Consultant"
+      },
+      {
+        "name": "Kelley Unglaub",
+        "title": "Senior Software Consultant"
+      },
+      {
+        "name": "Mr Frank Wood",
+        "title": "Senior Software Consultant"
+      },
+      {
+        "name": "Mr David Hightower",
+        "title": ".net Team Lead"
+      },
+      {
+        "name": "Mr Todd Johnson",
+        "title": "Enterprise Architect"
+      },
+      {
+        "name": "Mr Fred Roesel",
+        "title": "Architect"
+      }
+    ]
+  },
+  {
+    "name": "LOOP LLC",
+    "state": "FL",
+    "year_incorporated": "2014",
+    "nace": "5829",
+    "employees": "391",
+    "revenue_usd": 2210000,
+    "pl_before_tax": null,
+    "total_assets": null,
+    "equity": null,
+    "website": "www.autoloop.net",
+    "description": "Engaged in the provision of marketing solutions in the United States",
+    "contacts": [
+      {
+        "name": "Mr Stephen S Anderson",
+        "title": "Chief Executive Officer"
+      },
+      {
+        "name": "Mr Scot K. Eisenfelder",
+        "title": "President"
+      },
+      {
+        "name": "Mr Joseph Laduke",
+        "title": "Controller"
+      },
+      {
+        "name": "Mr Joseph Laduke",
+        "title": "Manager"
+      },
+      {
+        "name": "Mr Doug Denham",
+        "title": "Sales Director - National"
+      },
+      {
+        "name": "Mr Graham Annett",
+        "title": "Vice President, Marketing"
+      },
+      {
+        "name": "Mr Patrick Kelly",
+        "title": "Vice President - Client Retention-Xrm"
+      },
+      {
+        "name": "Mr Michael Kronenberg",
+        "title": "CTO"
+      },
+      {
+        "name": "Mr Matthew P Rodeghero",
+        "title": "Chief Product Officer"
+      },
+      {
+        "name": "Mr Alex Eckelberry",
+        "title": "Chief Operating Officer"
+      },
+      {
+        "name": "Mr Adam C Meier",
+        "title": "Officer"
+      },
+      {
+        "name": "Mr Adam C Meier",
+        "title": "Member"
+      },
+      {
+        "name": "Mr Doug Van Sach",
+        "title": "Vice President - Analytics"
+      }
+    ]
+  },
+  {
+    "name": "COMSPEC INTERNATIONAL, INC.",
+    "state": "MI",
+    "year_incorporated": "1983",
+    "nace": "5829",
+    "employees": "20",
+    "revenue_usd": 2210000,
+    "pl_before_tax": null,
+    "total_assets": null,
+    "equity": null,
+    "website": "www.comspec-intnl.com",
+    "description": null,
+    "contacts": [
+      {
+        "name": "Mr Robert Brender",
+        "title": "President"
+      },
+      {
+        "name": "Mr Kenneth Ulicny",
+        "title": "Executive Vice President"
+      },
+      {
+        "name": "Ms Melanie Madurski",
+        "title": "Administrative Assistant"
+      },
+      {
+        "name": "Ms Melanie Madurski",
+        "title": "Marketing Assistant"
+      },
+      {
+        "name": "Ms Penelope Francis",
+        "title": "Director of Marketing and Sales Development"
+      },
+      {
+        "name": "Ms Gail Waldrup",
+        "title": "Director of Client Relations"
+      },
+      {
+        "name": "Mr Pilon Jon",
+        "title": "Account Manager"
+      },
+      {
+        "name": "Ms Lisa Campbell",
+        "title": "Programmer"
+      },
+      {
+        "name": "Mr Paul Ewing",
+        "title": "System Analyst"
+      },
+      {
+        "name": "Mr Fred Sher",
+        "title": "Programmer"
+      },
+      {
+        "name": "Ms Barb Holder",
+        "title": "Trainer / Consultant"
+      }
+    ]
+  },
+  {
+    "name": "BEESION TECHNOLOGIES, LLC",
+    "state": "FL",
+    "year_incorporated": "2008",
+    "nace": "5829",
+    "employees": "59",
+    "revenue_usd": 2210000,
+    "pl_before_tax": null,
+    "total_assets": null,
+    "equity": null,
+    "website": "www.beesion.com",
+    "description": "Engaged in the computer software development and applications",
+    "contacts": [
+      {
+        "name": "Mr Omar Merchan Gomez",
+        "title": "President & Chief Executive Officer"
+      },
+      {
+        "name": "Mr Omar Merchan Gomez",
+        "title": "Manager"
+      },
+      {
+        "name": "Mr Alberto Campos",
+        "title": "Global Information Technology Business Development Director"
+      },
+      {
+        "name": "Mr Ivan Esquivel",
+        "title": "Vice President, Business Development"
+      },
+      {
+        "name": "Ms Carolina Mejia",
+        "title": "Controller"
+      },
+      {
+        "name": "Mr Gustavo Merchan",
+        "title": "Vice President, Product Management & Marketing"
+      },
+      {
+        "name": "Mr Gonzalo Rovira",
+        "title": "Vice President Software Engineering"
+      },
+      {
+        "name": "Ms Julieta Carrazana",
+        "title": "Product Manager"
+      },
+      {
+        "name": "Mr Roberto Daniel Quiroga",
+        "title": "Chief Operating Officer"
+      },
+      {
+        "name": "Mr Roberto Daniel Quiroga",
+        "title": "Manager"
+      },
+      {
+        "name": "Mr Uriel Dan Nudelman",
+        "title": "Vice President, Software Architecture"
+      },
+      {
+        "name": "Mr Jose Merchan",
+        "title": "Director, CRM Application"
+      },
+      {
+        "name": "Ms Victoria Zareno",
+        "title": "Business Analyst"
+      }
+    ]
+  },
+  {
+    "name": "COLUMN SOFTWARE PBC",
+    "state": "FL",
+    "year_incorporated": "2022",
+    "nace": "5829",
+    "employees": "50",
+    "revenue_usd": 2210000,
+    "pl_before_tax": null,
+    "total_assets": null,
+    "equity": null,
+    "website": "www.column.us",
+    "description": "Public notice software platform operator",
+    "contacts": []
+  },
+  {
+    "name": "IR SOLUTIONS",
+    "state": "FL",
+    "year_incorporated": "2003",
+    "nace": "5829",
+    "employees": "11",
+    "revenue_usd": 2210000,
+    "pl_before_tax": null,
+    "total_assets": null,
+    "equity": null,
+    "website": "www.irsolutions.com",
+    "description": null,
+    "contacts": []
+  },
+  {
+    "name": "THE REDCLIFFE GROUP, LLC",
+    "state": "GA",
+    "year_incorporated": "2022",
+    "nace": "5829",
+    "employees": "20",
+    "revenue_usd": 2210000,
+    "pl_before_tax": null,
+    "total_assets": null,
+    "equity": null,
+    "website": "www.bridge.insure",
+    "description": null,
+    "contacts": [
+      {
+        "name": "Mr John Gregitis",
+        "title": "Chief Executive Officer"
+      },
+      {
+        "name": "Mr Daniel Delaney",
+        "title": "Secretary"
+      },
+      {
+        "name": "Mr James A Workman",
+        "title": "Secretary"
+      },
+      {
+        "name": "Mr Mark James Clayton",
+        "title": "Chief Financial Officer"
+      },
+      {
+        "name": "Mr Arturo Guillien",
+        "title": "Chief Financial Officer"
+      }
+    ]
+  },
+  {
+    "name": "REWATCH INC",
+    "state": "CA",
+    "year_incorporated": "2022",
+    "nace": "5829",
+    "employees": "25",
+    "revenue_usd": 2210000,
+    "pl_before_tax": null,
+    "total_assets": null,
+    "equity": null,
+    "website": "www.rewatch.com",
+    "description": null,
+    "contacts": [
+      {
+        "name": "Mr Douglas Connor Sears",
+        "title": "Chief Executive Officer"
+      },
+      {
+        "name": "Mr Douglas Connor Sears",
+        "title": "No specific function"
+      },
+      {
+        "name": "Mr Goldman Scott J",
+        "title": "Officer"
+      },
+      {
+        "name": "Mr Goldman Scott J",
+        "title": "No specific function"
+      }
+    ]
+  },
+  {
+    "name": "FIVE POINTS TECHNOLOGY GROUP, INC.",
+    "state": "FL",
+    "year_incorporated": "1999",
+    "nace": "5829",
+    "employees": "40",
+    "revenue_usd": 2210000,
+    "pl_before_tax": null,
+    "total_assets": null,
+    "equity": null,
+    "website": "fiveptg.com",
+    "description": "Five Points Technology Group, Inc. was founded in 1999 and is headquartered in Sarasota, FL. The company is a provider of information technology consulting services. Its products include Revolve Key Benefits, CoBRIS, and Revolve. The company offers servic",
+    "contacts": [
+      {
+        "name": "Ms Anne Folsom",
+        "title": "President"
+      },
+      {
+        "name": "Ms Elizabeth Vanacker",
+        "title": "Chief Executive Officer"
+      },
+      {
+        "name": "Mr Wayne Folsom",
+        "title": "Vice President"
+      },
+      {
+        "name": "Mr Chris Pantaleon",
+        "title": "Director of Business Development"
+      },
+      {
+        "name": "Mr Rob Reed",
+        "title": "Vice President of Technical Operations"
+      },
+      {
+        "name": "Mr John Ford",
+        "title": "Project Manager"
+      },
+      {
+        "name": "Mr Derek Prowse",
+        "title": "Business Analyst & Product Manager & Project Manager"
+      },
+      {
+        "name": "Mr John Weldon",
+        "title": "Information Technology Director"
+      },
+      {
+        "name": "Mr Edison Castillo",
+        "title": "Software Developer"
+      },
+      {
+        "name": "Mr Donald Drulia",
+        "title": "Software Developer"
+      },
+      {
+        "name": "Mr Louis Papaefstathiou",
+        "title": "Mumps / Cache Developer"
+      },
+      {
+        "name": "Ms Helena Russ",
+        "title": "Senior Developer"
+      }
+    ]
+  },
+  {
+    "name": "BLAZE SYSTEMS CORP",
+    "state": "DE",
+    "year_incorporated": "1991",
+    "nace": "5829",
+    "employees": "12",
+    "revenue_usd": 2201000,
+    "pl_before_tax": null,
+    "total_assets": null,
+    "equity": null,
+    "website": "www.blazesystems.com",
+    "description": null,
+    "contacts": [
+      {
+        "name": "Mr Larry Deheer",
+        "title": "President"
+      },
+      {
+        "name": "Ms Tracey Fleming",
+        "title": "Director, Network Operations"
+      }
+    ]
+  },
+  {
+    "name": "RADIUSAI, INC.",
+    "state": "AZ",
+    "year_incorporated": "2017",
+    "nace": "5829",
+    "employees": "40",
+    "revenue_usd": 2200000,
+    "pl_before_tax": null,
+    "total_assets": null,
+    "equity": null,
+    "website": "www.radiusai.com",
+    "description": null,
+    "contacts": [
+      {
+        "name": "Mr Abhinav Yarlagadda",
+        "title": "Officer"
+      }
+    ]
+  },
+  {
+    "name": "JETBUILT, LLC",
+    "state": "CA",
+    "year_incorporated": "2015",
+    "nace": "5829",
+    "employees": "17",
+    "revenue_usd": 2200000,
+    "pl_before_tax": null,
+    "total_assets": null,
+    "equity": null,
+    "website": "www.linkedin.com/in/dexterpaul",
+    "description": null,
+    "contacts": [
+      {
+        "name": "Mr Paul B Dexter",
+        "title": "Agent"
+      },
+      {
+        "name": "Mr Matthew Mickels",
+        "title": "Sales Representative"
+      },
+      {
+        "name": "Mr Jared Moody",
+        "title": "Chief Technology Officer"
+      },
+      {
+        "name": "Mr Anthony Tea",
+        "title": "Data Manager"
+      },
+      {
+        "name": "Ms Kim Dexter",
+        "title": "Manager"
+      }
+    ]
+  },
+  {
+    "name": "SOCIAL SOLUTIONS GLOBAL INC.",
+    "state": "TX",
+    "year_incorporated": "1999",
+    "nace": "5829",
+    "employees": "12",
+    "revenue_usd": 2190000,
+    "pl_before_tax": null,
+    "total_assets": null,
+    "equity": null,
+    "website": "www.socialsolutions.com",
+    "description": "Online performance management social services Software-as-a-Service (SaaS) provider",
+    "contacts": [
+      {
+        "name": "Mr Scott Brighton",
+        "title": "President"
+      },
+      {
+        "name": "Mr Stephen V Butz",
+        "title": "President"
+      },
+      {
+        "name": "Mr Alan C Cline",
+        "title": "President"
+      },
+      {
+        "name": "Mr Harry Chiu Coo",
+        "title": "President"
+      },
+      {
+        "name": "Mr Harry Chiu Coo",
+        "title": "Chief Operating Officer"
+      },
+      {
+        "name": "Mr Scott Johnson",
+        "title": "President"
+      },
+      {
+        "name": "Mr Jay Love",
+        "title": "President"
+      },
+      {
+        "name": "Ms Erin Mulligan Nelson",
+        "title": "President"
+      },
+      {
+        "name": "Mr Robert B Rogers",
+        "title": "President"
+      },
+      {
+        "name": "Mr Mark Layden",
+        "title": "Vice President"
+      },
+      {
+        "name": "Mr Ken Saunders",
+        "title": "Vice President"
+      },
+      {
+        "name": "Ms Patricia Benedix",
+        "title": "Chief Financial Officer"
+      },
+      {
+        "name": "Ms Patricia Benedix",
+        "title": "Treasurer"
+      },
+      {
+        "name": "Brighton Brighton",
+        "title": "Treasurer"
+      },
+      {
+        "name": "Mr Ryan Hobbs",
+        "title": "Treasurer"
+      },
+      {
+        "name": "Mr Aaron Levine",
+        "title": "Treasurer"
+      },
+      {
+        "name": "Mr Gregory Johnson",
+        "title": "Chief Operating Officer"
+      }
+    ]
+  },
+  {
+    "name": "ROUTEFUSION INC",
+    "state": "TX",
+    "year_incorporated": "2018",
+    "nace": "5829",
+    "employees": "18",
+    "revenue_usd": 2190000,
+    "pl_before_tax": null,
+    "total_assets": null,
+    "equity": null,
+    "website": "www.routefusion.co",
+    "description": null,
+    "contacts": [
+      {
+        "name": "Mr Paul Allen Fletcher SR",
+        "title": "Director"
+      },
+      {
+        "name": "Mr Richard Scappaticci",
+        "title": "Director"
+      }
+    ]
+  },
+  {
+    "name": "SAPLING SYSTEMS INC",
+    "state": "TX",
+    "year_incorporated": "2005",
+    "nace": "5829",
+    "employees": "20",
+    "revenue_usd": 2190000,
+    "pl_before_tax": null,
+    "total_assets": null,
+    "equity": null,
+    "website": "www.saplinglearning.com",
+    "description": null,
+    "contacts": []
+  },
+  {
+    "name": "NEWVIEW TECHNOLOGIES",
+    "state": "TX",
+    "year_incorporated": null,
+    "nace": "5829",
+    "employees": "30",
+    "revenue_usd": 2190000,
+    "pl_before_tax": null,
+    "total_assets": null,
+    "equity": null,
+    "website": "www.newview.com",
+    "description": null,
+    "contacts": []
+  },
+  {
+    "name": "EVIIVO INC",
+    "state": "TX",
+    "year_incorporated": "2022",
+    "nace": "5829",
+    "employees": "15",
+    "revenue_usd": 2190000,
+    "pl_before_tax": null,
+    "total_assets": null,
+    "equity": null,
+    "website": "www.eviivo.com",
+    "description": null,
+    "contacts": []
+  },
+  {
+    "name": "HECATE SOFTWARE",
+    "state": "TX",
+    "year_incorporated": null,
+    "nace": "5829",
+    "employees": "10",
+    "revenue_usd": 2190000,
+    "pl_before_tax": null,
+    "total_assets": null,
+    "equity": null,
+    "website": "www.hecate.com",
+    "description": null,
+    "contacts": []
+  },
+  {
+    "name": "BRAINSTORM USA LLC",
+    "state": "CA",
+    "year_incorporated": null,
+    "nace": "5829",
+    "employees": "40",
+    "revenue_usd": 2190000,
+    "pl_before_tax": null,
+    "total_assets": null,
+    "equity": null,
+    "website": "brainstormusa.com",
+    "description": null,
+    "contacts": [
+      {
+        "name": "Mr Joseph Galluccio",
+        "title": "Owner"
+      }
+    ]
+  },
+  {
+    "name": "YOUEARNEDIT, INC.",
+    "state": "TX",
+    "year_incorporated": "2012",
+    "nace": "5829",
+    "employees": "45",
+    "revenue_usd": 2190000,
+    "pl_before_tax": null,
+    "total_assets": null,
+    "equity": null,
+    "website": "www.youearnedit.com",
+    "description": "Online real-time employee-to-employee recognition and engagement Software-as-a-Service (SaaS) provider",
+    "contacts": [
+      {
+        "name": "Mr Jacie Scarborough",
+        "title": "Strategic Account Executive"
+      },
+      {
+        "name": "Mr Jacie Scarborough",
+        "title": "Senior Account Executive, Mid-Market"
+      },
+      {
+        "name": "Andrea Smith",
+        "title": "Director of Strategic Marketing"
+      },
+      {
+        "name": "Mr James Mann",
+        "title": "Chief Financial Officer"
+      },
+      {
+        "name": "Ms Tiffany Scolnic",
+        "title": "Senior Customer Success Manager, Team Lead"
+      },
+      {
+        "name": "Ms Chelsey Cooper",
+        "title": "Regional Director of Sales - South"
+      },
+      {
+        "name": "Ms Skylar Tardy",
+        "title": "Sales Operations Associate"
+      },
+      {
+        "name": "Ms Skyler Rogers",
+        "title": "Senior Marketing Programs Manager"
+      },
+      {
+        "name": "Ms Elizabeth Loucheur",
+        "title": "Vice President, Customer Success"
+      },
+      {
+        "name": "Mr Cameron Lott",
+        "title": "Account Executive, Mid-Market"
+      },
+      {
+        "name": "Mr Jason Wright",
+        "title": "Director of Quality/Senior Scrum Master"
+      },
+      {
+        "name": "Mr Kyle Thompson",
+        "title": "Software Engineer, Mobile"
+      }
+    ]
+  },
+  {
+    "name": "LUCID HOLDINGS INC",
+    "state": "TX",
+    "year_incorporated": "2015",
+    "nace": "5829",
+    "employees": "12",
+    "revenue_usd": 2190000,
+    "pl_before_tax": null,
+    "total_assets": null,
+    "equity": null,
+    "website": "www.lucidknowledge.com",
+    "description": null,
+    "contacts": []
+  },
+  {
+    "name": "LIONHEART SOFTWARE LLC",
+    "state": "TX",
+    "year_incorporated": "2015",
+    "nace": "5829",
+    "employees": "170",
+    "revenue_usd": 2190000,
+    "pl_before_tax": null,
+    "total_assets": null,
+    "equity": null,
+    "website": "www.iodinesoftware.com",
+    "description": "AI-based healthcare revenue cycle management and patient documentation capture platform operator",
+    "contacts": []
+  },
+  {
+    "name": "SECUREAGENT SOFTWARE INC",
+    "state": "OK",
+    "year_incorporated": null,
+    "nace": "5829",
+    "employees": "20",
+    "revenue_usd": 2190000,
+    "pl_before_tax": null,
+    "total_assets": null,
+    "equity": null,
+    "website": "www.secureagent.com",
+    "description": null,
+    "contacts": []
+  }
+]

@@ -1,0 +1,643 @@
+[
+  {
+    "name": "ALMA",
+    "state": "OR",
+    "year_incorporated": null,
+    "nace": "5829",
+    "employees": "14",
+    "revenue_usd": 2130000,
+    "pl_before_tax": null,
+    "total_assets": null,
+    "equity": null,
+    "website": "www.almachocolate.com",
+    "description": "Holistic student engagement platform operator",
+    "contacts": [
+      {
+        "name": "Mr Andrew Herman",
+        "title": "President"
+      },
+      {
+        "name": "Mr Marc Baas",
+        "title": "Quality Assurance Engineer"
+      }
+    ]
+  },
+  {
+    "name": "MARQUIS DATA LLC",
+    "state": "WA",
+    "year_incorporated": "2012",
+    "nace": "5829",
+    "employees": "14",
+    "revenue_usd": 2110000,
+    "pl_before_tax": null,
+    "total_assets": null,
+    "equity": null,
+    "website": "www.marquisdata.com",
+    "description": null,
+    "contacts": [
+      {
+        "name": "Mr Paul Ausserer",
+        "title": "Executive"
+      }
+    ]
+  },
+  {
+    "name": "FORTRESS TECHNOLOGY SOLUTIONS INC",
+    "state": "TN",
+    "year_incorporated": "2022",
+    "nace": "5829",
+    "employees": "35",
+    "revenue_usd": 2100000,
+    "pl_before_tax": null,
+    "total_assets": null,
+    "equity": null,
+    "website": "www.linkedin.com/company/elmingtontech",
+    "description": null,
+    "contacts": [
+      {
+        "name": "Ms Kerri Davis",
+        "title": "President"
+      },
+      {
+        "name": "Jaidee Somero",
+        "title": "Accountant"
+      }
+    ]
+  },
+  {
+    "name": "MATERIAL IMPACT, INC.",
+    "state": "MA",
+    "year_incorporated": "2014",
+    "nace": "5829",
+    "employees": "35",
+    "revenue_usd": 2100000,
+    "pl_before_tax": null,
+    "total_assets": null,
+    "equity": null,
+    "website": "www.spoileralert.com",
+    "description": "Venture capital investment services",
+    "contacts": [
+      {
+        "name": "Mr Richard Ashenfelter",
+        "title": "Co-Founder & Chief Executive Officer"
+      },
+      {
+        "name": "Ms Emily Jill Malina",
+        "title": "Co-Founder & Chief Product Officer"
+      },
+      {
+        "name": "Ms Emily Jill Malina",
+        "title": "Secretary"
+      },
+      {
+        "name": "Carmichael Roberts",
+        "title": "Founder and Managing Partner"
+      },
+      {
+        "name": "Mr Adam Sharkawy",
+        "title": "Co-Founder & Managing Partner"
+      },
+      {
+        "name": "Mr Ari Hopkinson",
+        "title": "Enterprise Customer Success Manager"
+      },
+      {
+        "name": "Mr Ravi Singh",
+        "title": "Principal Software Engineer"
+      },
+      {
+        "name": "Mr Adam Goldstein",
+        "title": "Technical Lead"
+      },
+      {
+        "name": "Ms Shweta Srivastava",
+        "title": "Software Engineer"
+      }
+    ]
+  },
+  {
+    "name": "SITE ORGANIC, L.L.C.",
+    "state": "TN",
+    "year_incorporated": "2022",
+    "nace": "5829",
+    "employees": "690",
+    "revenue_usd": 2090000,
+    "pl_before_tax": null,
+    "total_assets": null,
+    "equity": null,
+    "website": "www.ministrybrands.com",
+    "description": "Operates as a software as a service business dedicated to empowering churches and ministries in a digital world",
+    "contacts": [
+      {
+        "name": "Ms Sharon Love",
+        "title": "Chief Executive Officer"
+      },
+      {
+        "name": "Mr Daniel Simmons",
+        "title": "Managing Director"
+      },
+      {
+        "name": "Pat Oi Donnell",
+        "title": "Officer"
+      },
+      {
+        "name": "Pat Oi Donnell",
+        "title": "Manager"
+      },
+      {
+        "name": "Mr Peter Feret",
+        "title": "Officer"
+      },
+      {
+        "name": "Pat Oadonnell",
+        "title": "Manager"
+      },
+      {
+        "name": "Mr Michael Henricks",
+        "title": "Member"
+      }
+    ]
+  },
+  {
+    "name": "BRAVE WRITER INC.",
+    "state": "OH",
+    "year_incorporated": "2023",
+    "nace": "5829",
+    "employees": "35",
+    "revenue_usd": 2090000,
+    "pl_before_tax": null,
+    "total_assets": null,
+    "equity": null,
+    "website": "www.facebook.com/bravewriter",
+    "description": null,
+    "contacts": [
+      {
+        "name": "Ms Sue Antczak",
+        "title": "Officer"
+      },
+      {
+        "name": "Ms Julie Sweeney",
+        "title": "Officer"
+      }
+    ]
+  },
+  {
+    "name": "GOLDEN RETRIEVER SYSTEMS",
+    "state": "AZ",
+    "year_incorporated": "2001",
+    "nace": "5829",
+    "employees": "23",
+    "revenue_usd": 2080000,
+    "pl_before_tax": null,
+    "total_assets": null,
+    "equity": null,
+    "website": "www.tsys.com",
+    "description": "Software for payment card processing systems",
+    "contacts": []
+  },
+  {
+    "name": "COGENT3D",
+    "state": "AZ",
+    "year_incorporated": "2009",
+    "nace": "5829",
+    "employees": "30",
+    "revenue_usd": 2080000,
+    "pl_before_tax": null,
+    "total_assets": null,
+    "equity": null,
+    "website": "www.cogent3d.com",
+    "description": null,
+    "contacts": [
+      {
+        "name": "Mr Aaron Hutchinson",
+        "title": "President Founder"
+      },
+      {
+        "name": "Mr Richard Clark",
+        "title": "Information Technology Manager"
+      },
+      {
+        "name": "Mr Joe Burns",
+        "title": "Senior Systems Integration Engineer"
+      },
+      {
+        "name": "Ms Laure Chipman",
+        "title": "Software Developer"
+      }
+    ]
+  },
+  {
+    "name": "UCONNECT INC.",
+    "state": "MA",
+    "year_incorporated": "2022",
+    "nace": "5829",
+    "employees": "25",
+    "revenue_usd": 2080000,
+    "pl_before_tax": null,
+    "total_assets": null,
+    "equity": null,
+    "website": "www.gouconnect.com",
+    "description": null,
+    "contacts": [
+      {
+        "name": "Mr David Kozhuk",
+        "title": "Secretary"
+      },
+      {
+        "name": "Ms Hannah Chouinard",
+        "title": "Other"
+      }
+    ]
+  },
+  {
+    "name": "GASTROKLENZ INC",
+    "state": "CA",
+    "year_incorporated": "2017",
+    "nace": "5829",
+    "employees": "15",
+    "revenue_usd": 2080000,
+    "pl_before_tax": null,
+    "total_assets": null,
+    "equity": null,
+    "website": "www.cloudcath.com",
+    "description": null,
+    "contacts": [
+      {
+        "name": "Ms Elbadry Aly",
+        "title": "Dp; Executive Officer"
+      },
+      {
+        "name": "Ms Kelly Constable",
+        "title": "Chief Executive Officer"
+      },
+      {
+        "name": "Mr Williamson Don",
+        "title": "Secretary"
+      },
+      {
+        "name": "Mr Williamson Don",
+        "title": "Other"
+      },
+      {
+        "name": "Mr Don Willams",
+        "title": "Secretary"
+      },
+      {
+        "name": "Mr Fisher Brian",
+        "title": "Treasurer"
+      },
+      {
+        "name": "Mr Fisher Brian",
+        "title": "Other"
+      },
+      {
+        "name": "Mr Yu Eric",
+        "title": "Other"
+      },
+      {
+        "name": "Mr Yu Eric",
+        "title": "Dv"
+      }
+    ]
+  },
+  {
+    "name": "VOLANO SOFTWARE COMPANY",
+    "state": "NE",
+    "year_incorporated": "2005",
+    "nace": "5829",
+    "employees": "30",
+    "revenue_usd": 2080000,
+    "pl_before_tax": null,
+    "total_assets": null,
+    "equity": null,
+    "website": "www.volanosoftware.com",
+    "description": null,
+    "contacts": [
+      {
+        "name": "Mr Donald Stavneak",
+        "title": "Agent"
+      },
+      {
+        "name": "Mr Rodney A Smith",
+        "title": "Officer"
+      }
+    ]
+  },
+  {
+    "name": "BBG ENTERPRISES LLC",
+    "state": "AZ",
+    "year_incorporated": "2013",
+    "nace": "5829",
+    "employees": "70",
+    "revenue_usd": 2080000,
+    "pl_before_tax": null,
+    "total_assets": null,
+    "equity": null,
+    "website": "www.bythemallstorage.com",
+    "description": null,
+    "contacts": [
+      {
+        "name": "Summer Haws",
+        "title": "Organizer"
+      }
+    ]
+  },
+  {
+    "name": "PINNACLE CART INC",
+    "state": "AZ",
+    "year_incorporated": "2003",
+    "nace": "5829",
+    "employees": "15",
+    "revenue_usd": 2080000,
+    "pl_before_tax": null,
+    "total_assets": null,
+    "equity": null,
+    "website": "www.pinnaclecart.com",
+    "description": null,
+    "contacts": []
+  },
+  {
+    "name": "LITESCAPE TECHNOLOGIES INC",
+    "state": "CA",
+    "year_incorporated": "2004",
+    "nace": "5829",
+    "employees": "45",
+    "revenue_usd": 2073000,
+    "pl_before_tax": null,
+    "total_assets": null,
+    "equity": null,
+    "website": "www.litescape.com",
+    "description": "Online communication software developer",
+    "contacts": [
+      {
+        "name": "Mr Aleksey Feldman",
+        "title": "Chief Executive Officer"
+      }
+    ]
+  },
+  {
+    "name": "BLUE RIVER INTERACTIVE GROUP INC",
+    "state": "CA",
+    "year_incorporated": "2003",
+    "nace": "5829",
+    "employees": "17",
+    "revenue_usd": 2070000,
+    "pl_before_tax": null,
+    "total_assets": null,
+    "equity": null,
+    "website": "www.blueriver.com",
+    "description": null,
+    "contacts": [
+      {
+        "name": "Mr Ryan Thompson",
+        "title": "Chief Executive Officer"
+      },
+      {
+        "name": "Mr Michael White",
+        "title": "Project Manager"
+      },
+      {
+        "name": "Mr Eddie Ballisty",
+        "title": "Senior Web Developer"
+      },
+      {
+        "name": "Mr Grant Shepert",
+        "title": "Uk Branch Manager"
+      }
+    ]
+  },
+  {
+    "name": "ATTIVO NETWORKS INC",
+    "state": "CA",
+    "year_incorporated": "2015",
+    "nace": "5829",
+    "employees": "13",
+    "revenue_usd": 2070000,
+    "pl_before_tax": null,
+    "total_assets": null,
+    "equity": null,
+    "website": "www.attivonetworks.com",
+    "description": "Engaged in the provision of identity security and cyber deception technology and solutions",
+    "contacts": [
+      {
+        "name": "Mr Tushar Subhash Kothari",
+        "title": "Chief Executive Officer"
+      },
+      {
+        "name": "Ms Lauren Betschart",
+        "title": "Accounting Assistant"
+      },
+      {
+        "name": "Mr Todd Helfrich",
+        "title": "Vice President Federal Sales"
+      },
+      {
+        "name": "Ms Briana Gulley",
+        "title": "Director of Channel Sales"
+      },
+      {
+        "name": "Mr Anthony Cole",
+        "title": "Chief Technology Officer"
+      },
+      {
+        "name": "Mr Chandan Cp",
+        "title": "Technical Manager"
+      },
+      {
+        "name": "Ms Poonam Bachkethi",
+        "title": "Quality Assurance and Testing Engineer"
+      },
+      {
+        "name": "Mr Don Woodard",
+        "title": "Senior Security Engineer"
+      }
+    ]
+  },
+  {
+    "name": "BRIGHTPEARL, INC. WHICH WILL DO BUSINESS IN CALIFORNIA AS BRIGHTPEARL SYSTEMS, INC.",
+    "state": "CA",
+    "year_incorporated": "2012",
+    "nace": "5829",
+    "employees": "85",
+    "revenue_usd": 2070000,
+    "pl_before_tax": null,
+    "total_assets": null,
+    "equity": null,
+    "website": "www.brightpearl.com",
+    "description": null,
+    "contacts": []
+  },
+  {
+    "name": "ETELENEXT",
+    "state": "CA",
+    "year_incorporated": null,
+    "nace": "5829",
+    "employees": "15",
+    "revenue_usd": 2070000,
+    "pl_before_tax": null,
+    "total_assets": null,
+    "equity": null,
+    "website": "www.etelenext.com",
+    "description": null,
+    "contacts": []
+  },
+  {
+    "name": "MORPHONIX LLC",
+    "state": "CA",
+    "year_incorporated": "2005",
+    "nace": "5829",
+    "employees": "10",
+    "revenue_usd": 2070000,
+    "pl_before_tax": null,
+    "total_assets": null,
+    "equity": null,
+    "website": "www.morphonix.com",
+    "description": null,
+    "contacts": []
+  },
+  {
+    "name": "AERIES SOFTWARE, INC.",
+    "state": "CA",
+    "year_incorporated": "1999",
+    "nace": "5829",
+    "employees": "85",
+    "revenue_usd": 2070000,
+    "pl_before_tax": null,
+    "total_assets": null,
+    "equity": null,
+    "website": "www.aeries.com",
+    "description": "Engaged in the provision of computer programming services, specializing in software development",
+    "contacts": [
+      {
+        "name": "Mr Todd Davis",
+        "title": "Controller / Human Resources Manager"
+      },
+      {
+        "name": "Mr Murat Erarslan",
+        "title": "Product Manager"
+      },
+      {
+        "name": "Ms Francisca Ixquiac",
+        "title": "Programmer"
+      },
+      {
+        "name": "Mr Christopher Brown",
+        "title": "Second Level Support Technician"
+      },
+      {
+        "name": "Ms Elena Lohr",
+        "title": "User Support Specialist"
+      }
+    ]
+  },
+  {
+    "name": "RETINA AI INC.",
+    "state": "CA",
+    "year_incorporated": "2018",
+    "nace": "5829",
+    "employees": "16",
+    "revenue_usd": 2070000,
+    "pl_before_tax": null,
+    "total_assets": null,
+    "equity": null,
+    "website": "retina.ai",
+    "description": "Online AI-based customer lifetime value modelling insights platform Software-as-a-Service (SaaS) provider",
+    "contacts": [
+      {
+        "name": "Mr Emad Hasan",
+        "title": "Co-Founder & Chief Operating Officer"
+      },
+      {
+        "name": "Mr Matthew Abrams",
+        "title": "Business Development Manager"
+      }
+    ]
+  },
+  {
+    "name": "GEM SOFTWARE, INC.",
+    "state": "CA",
+    "year_incorporated": "2018",
+    "nace": "5829",
+    "employees": "410",
+    "revenue_usd": 2070000,
+    "pl_before_tax": null,
+    "total_assets": null,
+    "equity": null,
+    "website": "www.gem.com",
+    "description": "Recruitment platform Software-as-a-Service (SaaS) provider",
+    "contacts": [
+      {
+        "name": "Mr Samuel Rhyan",
+        "title": "No specific function"
+      }
+    ]
+  },
+  {
+    "name": "ENTEFY INC., COLORADO AUTHORITY RELINQUISHED JUNE 24, 2021",
+    "state": "CA",
+    "year_incorporated": "2020",
+    "nace": "5829",
+    "employees": "10",
+    "revenue_usd": 2070000,
+    "pl_before_tax": null,
+    "total_assets": null,
+    "equity": null,
+    "website": "www.entefy.com",
+    "description": null,
+    "contacts": []
+  },
+  {
+    "name": "RECIPROCITY INC",
+    "state": "CA",
+    "year_incorporated": "2020",
+    "nace": "5829",
+    "employees": "15",
+    "revenue_usd": 2070000,
+    "pl_before_tax": null,
+    "total_assets": null,
+    "equity": null,
+    "website": "www.zengrc.com",
+    "description": "Inventory management software provider",
+    "contacts": [
+      {
+        "name": "Lynch Kenneth",
+        "title": "Chief Executive Officer"
+      },
+      {
+        "name": "Ms Amy Peterson",
+        "title": "Assistant Secretary"
+      },
+      {
+        "name": "Mr Ron Berthiaume",
+        "title": "Treasurer"
+      }
+    ]
+  },
+  {
+    "name": "ENTRC INC",
+    "state": "CA",
+    "year_incorporated": "2021",
+    "nace": "5829",
+    "employees": "30",
+    "revenue_usd": 2070000,
+    "pl_before_tax": null,
+    "total_assets": null,
+    "equity": null,
+    "website": "www.linkedin.com/company/getcanix",
+    "description": null,
+    "contacts": [
+      {
+        "name": "Ms Stacey Hronowski",
+        "title": "Secretary"
+      },
+      {
+        "name": "Mr Artem Pasyechnyk",
+        "title": "Officer"
+      },
+      {
+        "name": "Ms Nicole Ziegler",
+        "title": "Officer"
+      }
+    ]
+  }
+]

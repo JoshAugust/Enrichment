@@ -1,0 +1,1226 @@
+[
+  {
+    "name": "CLEARINFO",
+    "state": "MD",
+    "year_incorporated": "2013",
+    "nace": "5829",
+    "employees": "11",
+    "revenue_usd": 11000000,
+    "pl_before_tax": null,
+    "total_assets": null,
+    "equity": null,
+    "website": "www.clearinfo.co",
+    "description": null,
+    "contacts": [
+      {
+        "name": "Mr Chris Robins",
+        "title": "President"
+      }
+    ]
+  },
+  {
+    "name": "KRONOS INC",
+    "state": "WA",
+    "year_incorporated": "2010",
+    "nace": "5829",
+    "employees": "20",
+    "revenue_usd": 11000000,
+    "pl_before_tax": null,
+    "total_assets": null,
+    "equity": null,
+    "website": "www.kronos.com",
+    "description": null,
+    "contacts": [
+      {
+        "name": "Mr Richard Cole",
+        "title": "Sales Executive"
+      },
+      {
+        "name": "Ms Julie Brown",
+        "title": "Software Application Consultant"
+      },
+      {
+        "name": "Ms Sarah Poehland",
+        "title": "Practice Manager"
+      },
+      {
+        "name": "Mr Scott Herber",
+        "title": "Executive Vice President"
+      },
+      {
+        "name": "Ms Carol Crow",
+        "title": "Consultant"
+      }
+    ]
+  },
+  {
+    "name": "MISSIONMODE SOLUTIONS, INC.",
+    "state": "IL",
+    "year_incorporated": "2004",
+    "nace": "5829",
+    "employees": "40",
+    "revenue_usd": 11000000,
+    "pl_before_tax": null,
+    "total_assets": null,
+    "equity": null,
+    "website": "www.missionmode.com",
+    "description": "Engaged in the provision of emergency notification and crisis management solutions",
+    "contacts": [
+      {
+        "name": "Mr Matthew George Roszak",
+        "title": "Chief Executive Officer"
+      },
+      {
+        "name": "Mr Walter Tomala",
+        "title": "Controller"
+      },
+      {
+        "name": "Mr Grant Schlosser",
+        "title": "Director of Client Services"
+      },
+      {
+        "name": "Mr Jason Zimmerman",
+        "title": "Chief Operations Officer"
+      }
+    ]
+  },
+  {
+    "name": "RESALEWORLD, LLC",
+    "state": "FL",
+    "year_incorporated": "1999",
+    "nace": "5829",
+    "employees": "20",
+    "revenue_usd": 11000000,
+    "pl_before_tax": null,
+    "total_assets": null,
+    "equity": null,
+    "website": "www.resaleworld.com",
+    "description": null,
+    "contacts": [
+      {
+        "name": "Mr Edmond E Diruzza",
+        "title": "President"
+      },
+      {
+        "name": "Mr Edmond E Diruzza",
+        "title": "Manager"
+      },
+      {
+        "name": "Mr Ford Kevin J",
+        "title": "Manager"
+      },
+      {
+        "name": "Mr Johnathan Robertson",
+        "title": "Manager"
+      },
+      {
+        "name": "Young David T",
+        "title": "Manager"
+      }
+    ]
+  },
+  {
+    "name": "CERTARA USA, INC.",
+    "state": "NJ",
+    "year_incorporated": "2007",
+    "nace": "5829",
+    "employees": "11",
+    "revenue_usd": 11000000,
+    "pl_before_tax": null,
+    "total_assets": null,
+    "equity": null,
+    "website": "www.certara.com",
+    "description": "Provider of decision support technology and consulting services for optimizing drug development and improving health outcomes",
+    "contacts": [
+      {
+        "name": "Dr. William Francis Feehery",
+        "title": "CEO,"
+      },
+      {
+        "name": "Mr Edmundo Manuel Muniz",
+        "title": "President"
+      },
+      {
+        "name": "Mr Edmundo Manuel Muniz",
+        "title": "No specific function"
+      },
+      {
+        "name": "Mr Darrell Nix",
+        "title": "Vice President"
+      },
+      {
+        "name": "Mr Nathan Teuscher",
+        "title": "Vice President"
+      },
+      {
+        "name": "Mr Richard Michael Traynor",
+        "title": "Senior Vice President and General Counsel"
+      },
+      {
+        "name": "Mr Richard Michael Traynor",
+        "title": "Secretary"
+      },
+      {
+        "name": "Ms Margaret A Peter",
+        "title": "Secretary"
+      },
+      {
+        "name": "Mr Michael Eckstut",
+        "title": "Chief Operating Officer, Certara Strategic Consulting Group, Certara"
+      },
+      {
+        "name": "Mr Aaron Endsley",
+        "title": "Director, Strategic Consulting"
+      },
+      {
+        "name": "Leigh Farrell",
+        "title": "Vice President Corporate Strategy and Business Development"
+      },
+      {
+        "name": "Mr John E. Gallagher III",
+        "title": "Chief Financial Officer"
+      },
+      {
+        "name": "Mr Michael Andrew Schemick",
+        "title": "Treasurer"
+      },
+      {
+        "name": "Mr Michael Andrew Schemick",
+        "title": "Officer"
+      },
+      {
+        "name": "Mr Michael Andrew Schemick",
+        "title": "Cfoc"
+      },
+      {
+        "name": "Ms Tracy Elliman",
+        "title": "Real Estate Operations & Procurement Manager"
+      },
+      {
+        "name": "Mr Tristen Herrstrom",
+        "title": "Senior Vice President, Human Resources"
+      },
+      {
+        "name": "Ms Maureen Stellmach",
+        "title": "Vice President Human Resources"
+      },
+      {
+        "name": "Ms Colette Anderson",
+        "title": "Human Resources Operations Director"
+      },
+      {
+        "name": "Ms Victoria Mcmullen",
+        "title": "Senior Director of Marketing"
+      },
+      {
+        "name": "Ms Pam Ruymen",
+        "title": "Director, Marketing"
+      },
+      {
+        "name": "Mr Megan Reardon",
+        "title": "Marketing Coordinator"
+      },
+      {
+        "name": "Mr Corey Staak",
+        "title": "Account Manager"
+      },
+      {
+        "name": "Mr Kevin Hershberger",
+        "title": "Vice President Integrated Drug Development, Co-Lead Certara Global Health & Lead Consulting Business Unit"
+      },
+      {
+        "name": "Amin Rostami-Hodjegan",
+        "title": "Chief Scientific Officer"
+      },
+      {
+        "name": "Mr Oindrila Mukherjee",
+        "title": "Associate Scientist/Programmer"
+      },
+      {
+        "name": "Ms Carolyn Winskill",
+        "title": "Clinical Trial Data Analyst/Associate Scientist"
+      },
+      {
+        "name": "Ms Jessie Colandino",
+        "title": "Project Manager"
+      },
+      {
+        "name": "Jaime Puerschner",
+        "title": "Manager, Corporate Operations"
+      },
+      {
+        "name": "Ms Virna Schuck",
+        "title": "Senior Director, Clinical Pharmacology"
+      },
+      {
+        "name": "Mr Alan Lefkowitz",
+        "title": "Officer"
+      },
+      {
+        "name": "Mr Alan Lefkowitz",
+        "title": "Director"
+      },
+      {
+        "name": "Ms Michelle Green",
+        "title": "Executive Director of Consulting Services"
+      },
+      {
+        "name": "Mr John Hoffman",
+        "title": "Corporate Counsel"
+      },
+      {
+        "name": "Mr Shengnan Huang",
+        "title": "Analyst / Junior Statistician"
+      },
+      {
+        "name": "Ms Shawnette Smith",
+        "title": "No specific function"
+      },
+      {
+        "name": "Ms Joyce Ji",
+        "title": "Statistician"
+      }
+    ]
+  },
+  {
+    "name": "ONOFF SHORE CONSULTANTS INC",
+    "state": "NY",
+    "year_incorporated": "1998",
+    "nace": "5829",
+    "employees": "11",
+    "revenue_usd": 10900000,
+    "pl_before_tax": null,
+    "total_assets": null,
+    "equity": null,
+    "website": "www.acecareer.edu",
+    "description": "Engaged in providing professional and technical training and certification services",
+    "contacts": [
+      {
+        "name": "Mr Amit Shorewala",
+        "title": "Buyer"
+      },
+      {
+        "name": "Mr Amit Shorewala",
+        "title": "No specific function"
+      }
+    ]
+  },
+  {
+    "name": "POSIT SCIENCE CORPORATION",
+    "state": "CA",
+    "year_incorporated": "2002",
+    "nace": "5829",
+    "employees": "15",
+    "revenue_usd": 10900000,
+    "pl_before_tax": null,
+    "total_assets": null,
+    "equity": null,
+    "website": "www.positscience.com",
+    "description": "Engaged in providing brain training software and services",
+    "contacts": [
+      {
+        "name": "Mr Michael Merzenich D",
+        "title": "Co-Founder & Scientific Chief & Officer"
+      },
+      {
+        "name": "Mr Michael Merzenich D",
+        "title": "Other Officer"
+      },
+      {
+        "name": "Mr Jeffrey Zimman",
+        "title": "Secretary"
+      },
+      {
+        "name": "Mr Henry Mahncke",
+        "title": "Chief Financial Officer (Chief Financial Officer)"
+      },
+      {
+        "name": "Mr Mark Pingree",
+        "title": "Controller"
+      },
+      {
+        "name": "Mr Zach Holder",
+        "title": "Sales Director, West"
+      },
+      {
+        "name": "Ms Elena Dinkevich",
+        "title": "Quality Assurance Lead Engineer"
+      },
+      {
+        "name": "Mr Peter Delahunt",
+        "title": "Research Scientist"
+      }
+    ]
+  },
+  {
+    "name": "VEROS REAL ESTATE SOLUTIONS L",
+    "state": "CA",
+    "year_incorporated": null,
+    "nace": "5829",
+    "employees": "10",
+    "revenue_usd": 10900000,
+    "pl_before_tax": null,
+    "total_assets": null,
+    "equity": null,
+    "website": "www.veros.com",
+    "description": null,
+    "contacts": []
+  },
+  {
+    "name": "OBJECTWIN TECHNOLOGY, INC.",
+    "state": "TX",
+    "year_incorporated": "1997",
+    "nace": "5829",
+    "employees": "435",
+    "revenue_usd": 10900000,
+    "pl_before_tax": null,
+    "total_assets": null,
+    "equity": null,
+    "website": "www.objectwin.com",
+    "description": "Engaged in the provision of computer programming services",
+    "contacts": [
+      {
+        "name": "Mr Santosh Shawn Karande",
+        "title": "President"
+      },
+      {
+        "name": "Mr Santosh Shawn Karande",
+        "title": "No specific function"
+      },
+      {
+        "name": "Santosh Sadanand Karande",
+        "title": "President; Executive Officer"
+      },
+      {
+        "name": "Ms Uma Chidambaram",
+        "title": "Executive Vice President"
+      },
+      {
+        "name": "Satya Kishore",
+        "title": "Recruiter"
+      },
+      {
+        "name": "Mr Melvin Roy",
+        "title": "Recruitment Specialist"
+      },
+      {
+        "name": "Mr Shaun Smith",
+        "title": "Recruiter"
+      },
+      {
+        "name": "Krishna Chaitanya",
+        "title": "Account Manager"
+      }
+    ]
+  },
+  {
+    "name": "TECNAVIA PRESS INC.",
+    "state": "MN",
+    "year_incorporated": "2025",
+    "nace": "5829",
+    "employees": "15",
+    "revenue_usd": 10900000,
+    "pl_before_tax": null,
+    "total_assets": null,
+    "equity": null,
+    "website": "www.tecnavia.com",
+    "description": null,
+    "contacts": [
+      {
+        "name": "Mr Vanoni Giancarlo",
+        "title": "Chief Executive Officer"
+      },
+      {
+        "name": "Mr Vanoni Giancarlo",
+        "title": "Manager"
+      },
+      {
+        "name": "Ms Dona Vanoni",
+        "title": "Chief Executive Officer"
+      },
+      {
+        "name": "Ms Dona Vanoni",
+        "title": "Chief Financial Officer"
+      }
+    ]
+  },
+  {
+    "name": "PROPHOENIX",
+    "state": "NJ",
+    "year_incorporated": "2004",
+    "nace": "5829",
+    "employees": "85",
+    "revenue_usd": 10900000,
+    "pl_before_tax": null,
+    "total_assets": null,
+    "equity": null,
+    "website": "prophoenix.com",
+    "description": null,
+    "contacts": [
+      {
+        "name": "Mr Sam Ramasamy",
+        "title": "President"
+      },
+      {
+        "name": "Alexys Cloran",
+        "title": "Office Manager"
+      },
+      {
+        "name": "Mr Jeff R Reit",
+        "title": "Vice President - Business Development"
+      },
+      {
+        "name": "Mr John R Leekley",
+        "title": "General Manager, Sales & Marketing"
+      },
+      {
+        "name": "Mr Fred Johnston",
+        "title": "Director, Sales"
+      },
+      {
+        "name": "Mr Greg Bailey",
+        "title": "Marketing Coordinator"
+      },
+      {
+        "name": "Mr Ryan Schiffino",
+        "title": "Marketing Coordinator"
+      },
+      {
+        "name": "Mr Ashokaraju Narendran",
+        "title": "Vice President, Engineering"
+      },
+      {
+        "name": "Mr Prabaharan Ponnusamy",
+        "title": "Development Manager"
+      },
+      {
+        "name": "Ms Amanda Fulmer",
+        "title": "Technical Support"
+      },
+      {
+        "name": "Mr Mike DelGiorno",
+        "title": "Product Manager, Corrections"
+      },
+      {
+        "name": "Mr James Madisen",
+        "title": "Fire Products Manager."
+      },
+      {
+        "name": "Ms Paula Mcclatchey",
+        "title": "Project Manager"
+      },
+      {
+        "name": "Mr George Parks",
+        "title": "Project Manager"
+      },
+      {
+        "name": "Mr Don Robertson",
+        "title": "Project Manager"
+      },
+      {
+        "name": "Mr Kevin Scurry",
+        "title": "Project Manager"
+      },
+      {
+        "name": "Mr Jim Hendrickson",
+        "title": "Regional Business Representative"
+      },
+      {
+        "name": "Mr Fred Jenkins",
+        "title": "Regional Business Representative"
+      },
+      {
+        "name": "Mr Vignesh Kumar",
+        "title": "Quality Assurance Engineer"
+      },
+      {
+        "name": "Mr Antony Murugappa",
+        "title": "Quality Assurance Assistant & Manager"
+      },
+      {
+        "name": "Mr Franklin Anand",
+        "title": "Information Technology"
+      },
+      {
+        "name": "Mr Joel Paul",
+        "title": "Software Tester"
+      },
+      {
+        "name": "Anantha Raman",
+        "title": "Database Architect"
+      },
+      {
+        "name": "Mr Mike Bucceri",
+        "title": "Business Representative"
+      },
+      {
+        "name": "Mr Arun Kumar",
+        "title": "Senior Test Engineer"
+      }
+    ]
+  },
+  {
+    "name": "QSTREAM, INC.",
+    "state": "MA",
+    "year_incorporated": "2009",
+    "nace": "5829",
+    "employees": "10",
+    "revenue_usd": 10900000,
+    "pl_before_tax": null,
+    "total_assets": null,
+    "equity": null,
+    "website": "www.qstream.com",
+    "description": "Publishing, printing",
+    "contacts": [
+      {
+        "name": "Mr Kerfoot Price",
+        "title": "Board Member"
+      },
+      {
+        "name": "Mr Richard Lanchantin",
+        "title": "Chief Executive Officer"
+      },
+      {
+        "name": "Mr Richard Lanchantin",
+        "title": "Secretary"
+      },
+      {
+        "name": "Mr Daniel Whelan",
+        "title": "President"
+      },
+      {
+        "name": "Mr Borkowski Jeff",
+        "title": "Vice President"
+      },
+      {
+        "name": "Mr Thomas Huntington",
+        "title": "Secretary"
+      },
+      {
+        "name": "Mr David Kelly",
+        "title": "Secretary"
+      },
+      {
+        "name": "Mr Duncan Lennox",
+        "title": "Secretary"
+      },
+      {
+        "name": "Mr Daniel Sbordone",
+        "title": "Manager, Finance"
+      },
+      {
+        "name": "Mr Michael Connolly",
+        "title": "Director of Enterprise Sales, Emea"
+      },
+      {
+        "name": "Mr Todd Heath",
+        "title": "Enterprise Sales Executive"
+      },
+      {
+        "name": "Ms Kayla Sheldon",
+        "title": "Marketing Operations Coordinator"
+      },
+      {
+        "name": "Mr David Resendes",
+        "title": "Marketing Operations Analyst"
+      },
+      {
+        "name": "Mr Taylor Allen",
+        "title": "Customer Success Manager"
+      },
+      {
+        "name": "Mr Jason Furness",
+        "title": "Manager, Customer Success"
+      },
+      {
+        "name": "Mr Marcus Andrews",
+        "title": "Senior Client Services Consultant"
+      },
+      {
+        "name": "Ms Angela Kalyvianakis",
+        "title": "Senior Client Services Consultant"
+      },
+      {
+        "name": "Mr Sean Labombard",
+        "title": "Senior Client Services Consultant"
+      },
+      {
+        "name": "Ms Anne Stohlquist",
+        "title": "Client Services Consultant"
+      },
+      {
+        "name": "Mr Barry Paul",
+        "title": "Chief Technology Officer"
+      },
+      {
+        "name": "Mr Kenneth Kerrigan",
+        "title": "Director of Engineering"
+      },
+      {
+        "name": "Andrea Considine",
+        "title": "Manager, Business Operations"
+      },
+      {
+        "name": "Mr Michael Tortorici",
+        "title": "Information Technology Operations Manager"
+      }
+    ]
+  },
+  {
+    "name": "SWITCH RCM LLC",
+    "state": "WI",
+    "year_incorporated": "2023",
+    "nace": "5829",
+    "employees": "13",
+    "revenue_usd": 10900000,
+    "pl_before_tax": null,
+    "total_assets": null,
+    "equity": null,
+    "website": "www.switchrcm.com",
+    "description": "Healthcare revenue intelligence platform operator",
+    "contacts": []
+  },
+  {
+    "name": "NDUSTRIAL.IO, INC.",
+    "state": "NC",
+    "year_incorporated": "2018",
+    "nace": "5829",
+    "employees": "40",
+    "revenue_usd": 10800000,
+    "pl_before_tax": null,
+    "total_assets": null,
+    "equity": null,
+    "website": "www.ndustrial.io",
+    "description": "Digital cloud-based industrial optimisation Software-as-a-Service (SaaS) provider",
+    "contacts": [
+      {
+        "name": "Mr John Crawford",
+        "title": "Co Founder and Chief Technology Officer"
+      },
+      {
+        "name": "Mr Kendall Davis",
+        "title": "Dev Operations Engineer"
+      },
+      {
+        "name": "Mr Jason Massey",
+        "title": "Officer"
+      }
+    ]
+  },
+  {
+    "name": "FROSTKEEP STUDIOS INC",
+    "state": "CA",
+    "year_incorporated": "2017",
+    "nace": "5829",
+    "employees": "11",
+    "revenue_usd": 10800000,
+    "pl_before_tax": null,
+    "total_assets": null,
+    "equity": null,
+    "website": "www.frostkeep.com",
+    "description": null,
+    "contacts": [
+      {
+        "name": "Mr Jeremy Michael Wood",
+        "title": "Shareholder; Co-Founder"
+      }
+    ]
+  },
+  {
+    "name": "SIS SOFTWARE, LLC",
+    "state": "GA",
+    "year_incorporated": "2003",
+    "nace": "5829",
+    "employees": "42",
+    "revenue_usd": 10800000,
+    "pl_before_tax": null,
+    "total_assets": null,
+    "equity": null,
+    "website": "www.sisn.com",
+    "description": "Sales Office",
+    "contacts": [
+      {
+        "name": "Ms Amie Black",
+        "title": "Chief Executive Officer"
+      },
+      {
+        "name": "Ms Amie Black",
+        "title": "Secretary"
+      },
+      {
+        "name": "Mr David Larkin",
+        "title": "Senior Sales Executive"
+      }
+    ]
+  },
+  {
+    "name": "AUTOPOWER CORPORATION",
+    "state": "FL",
+    "year_incorporated": "1997",
+    "nace": "5829",
+    "employees": "22",
+    "revenue_usd": 10800000,
+    "pl_before_tax": null,
+    "total_assets": null,
+    "equity": null,
+    "website": "www.autopower.com",
+    "description": null,
+    "contacts": [
+      {
+        "name": "Mallory Yolanda K",
+        "title": "President"
+      },
+      {
+        "name": "Mr Michael Mallory",
+        "title": "President"
+      },
+      {
+        "name": "Mr Michael Mallory",
+        "title": "Secretary"
+      },
+      {
+        "name": "Ms Wendy A Mallory",
+        "title": "Vice President"
+      },
+      {
+        "name": "Ms Kathleen Young",
+        "title": "Accounting & Human Resources Administrator"
+      },
+      {
+        "name": "Mr Michael Jarvinen",
+        "title": "Chief Technology Officer"
+      },
+      {
+        "name": "Ms Annette Manzo",
+        "title": "Technical Support Trainer & Installation"
+      },
+      {
+        "name": "Mr Ross J Baldwin",
+        "title": "Director E-Business Solutions & Power BI Consultant"
+      },
+      {
+        "name": "Ms Tamekia Schatzmann",
+        "title": "Software Developer"
+      }
+    ]
+  },
+  {
+    "name": "VIDA DIAGNOSTICS, INC",
+    "state": "IA",
+    "year_incorporated": "2016",
+    "nace": "5829",
+    "employees": "65",
+    "revenue_usd": 10800000,
+    "pl_before_tax": null,
+    "total_assets": null,
+    "equity": null,
+    "website": "www.vidadiagnostics.com",
+    "description": "Quantitative pulmonary analysis software developer ; Pulmonary, lobe and airway data analysis services",
+    "contacts": [
+      {
+        "name": "Ms Susan Wood",
+        "title": "President and Chief Executive Officer"
+      },
+      {
+        "name": "Mr Joseph M Reinhardt",
+        "title": "Secretary"
+      },
+      {
+        "name": "Ms Kathryn Jones",
+        "title": "Assistant Secretary"
+      },
+      {
+        "name": "Ms Ling Ding",
+        "title": "Controller / Director of Finance"
+      },
+      {
+        "name": "Ms Margaret Cranston",
+        "title": "Director, Commercial Operations"
+      },
+      {
+        "name": "Ms Cheryl Stevens",
+        "title": "Senior Sales Director"
+      },
+      {
+        "name": "Mr Marcel Nienhuis",
+        "title": "Director of Marketing; Vice President of Marketing"
+      },
+      {
+        "name": "Mr Juerg Tschirren",
+        "title": "Director of Engineering"
+      },
+      {
+        "name": "Mr Roland Miezianko",
+        "title": "Manager, Algorithm Development"
+      },
+      {
+        "name": "Ms Angela Bryant",
+        "title": "Product Manager"
+      },
+      {
+        "name": "Ms Sandra Stapleton",
+        "title": "Chief Operating Officer"
+      },
+      {
+        "name": "Ms Rosanna Byersdorfer",
+        "title": "Director of Business Operations & Quality Management"
+      },
+      {
+        "name": "Mr Edgar Lopez",
+        "title": "Systems Administrator"
+      },
+      {
+        "name": "Ms Lisa Dorado",
+        "title": "Clinical Applications Specialist"
+      },
+      {
+        "name": "Mr Benj Thomas",
+        "title": "Software Architect"
+      },
+      {
+        "name": "Ms Angela Delsing",
+        "title": "Clinical Trials Manager"
+      },
+      {
+        "name": "Mr Jered Sieren",
+        "title": "Director of Imaging Services"
+      }
+    ]
+  },
+  {
+    "name": "DISTRIBUTED CREATION INC.",
+    "state": "NY",
+    "year_incorporated": "2013",
+    "nace": "5829",
+    "employees": "19",
+    "revenue_usd": 10800000,
+    "pl_before_tax": null,
+    "total_assets": null,
+    "equity": null,
+    "website": "splice.com",
+    "description": null,
+    "contacts": [
+      {
+        "name": "Mr Steven Martocci",
+        "title": "Chief Executive Officer"
+      },
+      {
+        "name": "Mr Kakul Srivastava",
+        "title": "Executive Officer"
+      },
+      {
+        "name": "Mr Ben Tanen",
+        "title": "Chief Financial Officer"
+      },
+      {
+        "name": "Prince Kusi",
+        "title": "Senior Talent Acquisition Partner"
+      },
+      {
+        "name": "Ms Cindy Cabral",
+        "title": "Employee Experience Director, Talent"
+      }
+    ]
+  },
+  {
+    "name": "NEW VISION SOFTWARE, INC.",
+    "state": "GA",
+    "year_incorporated": "2019",
+    "nace": "5829",
+    "employees": "10",
+    "revenue_usd": 10800000,
+    "pl_before_tax": null,
+    "total_assets": null,
+    "equity": null,
+    "website": "newvision-software.com",
+    "description": null,
+    "contacts": [
+      {
+        "name": "Mr Anupam Pathak",
+        "title": "Chief Financial Officer"
+      },
+      {
+        "name": "Mr Anupam Pathak",
+        "title": "Agent"
+      }
+    ]
+  },
+  {
+    "name": "ICORECONNECT INC",
+    "state": null,
+    "year_incorporated": "2020",
+    "nace": "5829",
+    "employees": "68",
+    "revenue_usd": 10746470,
+    "pl_before_tax": -31156820,
+    "total_assets": 5691040,
+    "equity": -9794970,
+    "website": "www.icoreconnect.com",
+    "description": "iCoreConnect Inc. is a software-as-a-service (SaaS) company engaged in cloud-based software and technology solutions, designed to enhance workflow productivity and profitability in healthcare. The Company markets secure Health Insurance Portability and Accountability Act (HIPAA) compliant cloud-based SaaS offerings under the names of iCoreRx, iCorePDMP, iCoreEPCS, iCoreVerify, iCoreVerify+, iCoreHuddle+, iCoreCodeGenius, iCoreExchange, iCoreCloud, iCorePay, iCoreSecure, iCoreClaims and iCoreIT. iCoreRx is an electronic prescription SaaS solution that integrates with practice management and electronic health record systems. iCorePDMP is an add-on for iCoreRx that integrates with state databases to automate prescription drug monitoring. iCoreVerify is a SaaS solution that automatically retrieves a patient s insurance eligibility breakdown to verify their benefits seven days in advance of their appointment and on-demand using its real time technology.",
+    "contacts": [
+      {
+        "name": "Mr Larry Gene Swets JR",
+        "title": "Chief Executive Officer"
+      },
+      {
+        "name": "Mr Scott David Wollney JR",
+        "title": "Chairman (Board of Directors)"
+      },
+      {
+        "name": "Mr Scott David Wollney JR",
+        "title": "Member (Audit Committee)"
+      },
+      {
+        "name": "Mr Scott David Wollney JR",
+        "title": "Chairman (Compensation and Management Resources Committee)"
+      },
+      {
+        "name": "Mr Scott David Wollney JR",
+        "title": "Member (Nominating and Corporate Governance Committee)"
+      },
+      {
+        "name": "Mr Hassan R Baqar",
+        "title": "Chief Financial Officer"
+      },
+      {
+        "name": "Mr Richard E. Govignon",
+        "title": "Member (Board of Directors)"
+      },
+      {
+        "name": "Mr Richard E. Govignon",
+        "title": "Member (Audit Committee)"
+      },
+      {
+        "name": "Mr Richard E. Govignon",
+        "title": "Member (Compensation and Management Resources Committee)"
+      },
+      {
+        "name": "Mr Richard E. Govignon",
+        "title": "Member (Nominating and Corporate Governance Committee)"
+      },
+      {
+        "name": "Mr Wayne Kalish",
+        "title": "Independent Director"
+      },
+      {
+        "name": "Angel Liriano",
+        "title": "Independent Director"
+      },
+      {
+        "name": "Mr Robert Pjr Mcdermott",
+        "title": "President, Chief Executive Officer, Director"
+      },
+      {
+        "name": "Mr Andrew B. Mcintyre",
+        "title": "Member (Board of Directors)"
+      },
+      {
+        "name": "Mr Andrew B. Mcintyre",
+        "title": "Chairman (Audit Committee)"
+      },
+      {
+        "name": "Mr Andrew B. Mcintyre",
+        "title": "Member (Nominating and Corporate Governance Committee)"
+      },
+      {
+        "name": "Dr John Robert Pasqual",
+        "title": "Independent Director"
+      },
+      {
+        "name": "Mr Archit Shah",
+        "title": "Chief Financial Officer"
+      },
+      {
+        "name": "Mr Chakravarthi Muralidar P",
+        "title": "Chief Technology Officer"
+      },
+      {
+        "name": "Mr David Fidanza",
+        "title": "Chief Information Officer"
+      },
+      {
+        "name": "Mr Adam V. Chambers V",
+        "title": "Director"
+      },
+      {
+        "name": "Mr David Piedra",
+        "title": "Director"
+      },
+      {
+        "name": "Mr Joseph Tung",
+        "title": "Director"
+      },
+      {
+        "name": "Kyle Cerminara",
+        "title": "Senior Advisor"
+      },
+      {
+        "name": "M Wesley Schrader",
+        "title": "Senior Advisor"
+      },
+      {
+        "name": "Ms Ndamukong Suh",
+        "title": "Senior Advisor"
+      },
+      {
+        "name": "Mr Larry Gene Swets JR",
+        "title": "Independent Non-Executive Chairman of the Board"
+      },
+      {
+        "name": "Mr Hassan R Baqar",
+        "title": "Independent Director"
+      },
+      {
+        "name": "Mr Joseph A Gitto",
+        "title": "Independent Director"
+      },
+      {
+        "name": "Mr Wayne Kalish",
+        "title": "Director"
+      },
+      {
+        "name": "Angel Liriano",
+        "title": "Director"
+      },
+      {
+        "name": "Mr Robert Pjr Mcdermott",
+        "title": "President, Chief Executive Officer, Director"
+      },
+      {
+        "name": "Dr John Robert Pasqual",
+        "title": "Independent Director"
+      },
+      {
+        "name": "M. W Schrader",
+        "title": "Chief Executive Officer, Director"
+      },
+      {
+        "name": "Mr Jeffrey W. Stellinga",
+        "title": "Chief Operating Officer, Director"
+      },
+      {
+        "name": "Mr Jeffrey W. Stellinga",
+        "title": "Vice President - Business Development"
+      },
+      {
+        "name": "Mr Jeff L Sutton",
+        "title": "Independent Director"
+      },
+      {
+        "name": "Mr Harry J Travis",
+        "title": "Independent Director"
+      },
+      {
+        "name": "Mr Ryan Turner",
+        "title": "Independent Director"
+      },
+      {
+        "name": "Mr Mark Penway",
+        "title": "Chief Financial Officer"
+      },
+      {
+        "name": "Ms Emily Torres",
+        "title": "Chief Financial Officer"
+      },
+      {
+        "name": "Ms Yvonne Hyland",
+        "title": "Director"
+      },
+      {
+        "name": "Mr Kevin Patrick Mcdermott",
+        "title": "Director"
+      }
+    ]
+  },
+  {
+    "name": "PROSIMO INC.",
+    "state": "CA",
+    "year_incorporated": "2019",
+    "nace": "5829",
+    "employees": "11",
+    "revenue_usd": 10700000,
+    "pl_before_tax": null,
+    "total_assets": null,
+    "equity": null,
+    "website": "www.prosimo.io",
+    "description": "Autonomous multi-cloud enterprise networking software developer",
+    "contacts": [
+      {
+        "name": "Mr Rameshbabu Prabagaran",
+        "title": "President"
+      }
+    ]
+  },
+  {
+    "name": "ZIRA GROUP INC.",
+    "state": "CA",
+    "year_incorporated": "2023",
+    "nace": "5829",
+    "employees": "14",
+    "revenue_usd": 10700000,
+    "pl_before_tax": null,
+    "total_assets": null,
+    "equity": null,
+    "website": "www.lightapp.com",
+    "description": null,
+    "contacts": [
+      {
+        "name": "Mr Elhay Farkash",
+        "title": "President"
+      },
+      {
+        "name": "Mr Elhay Farkash",
+        "title": "Secretary"
+      },
+      {
+        "name": "Odelia Farkash",
+        "title": "Secretary"
+      },
+      {
+        "name": "Dana Ben Ari",
+        "title": "Chief Financial Officer"
+      },
+      {
+        "name": "Ms Dashni Sinivasan",
+        "title": "Officer"
+      }
+    ]
+  },
+  {
+    "name": "QUALITY SOFTWARE SYSTEMS INC",
+    "state": "NJ",
+    "year_incorporated": "1994",
+    "nace": "5829",
+    "employees": "30",
+    "revenue_usd": 10700000,
+    "pl_before_tax": null,
+    "total_assets": null,
+    "equity": null,
+    "website": "www.qssi-wms.com",
+    "description": "Non classifiable establishment",
+    "contacts": [
+      {
+        "name": "Mr John King",
+        "title": "Vice President"
+      },
+      {
+        "name": "Mr Rob King",
+        "title": "Product Manager"
+      }
+    ]
+  },
+  {
+    "name": "FLIPSNACK, LLC",
+    "state": "MI",
+    "year_incorporated": "2018",
+    "nace": "5829",
+    "employees": "78",
+    "revenue_usd": 10700000,
+    "pl_before_tax": null,
+    "total_assets": null,
+    "equity": null,
+    "website": "www.flipsnack.com",
+    "description": null,
+    "contacts": []
+  }
+]

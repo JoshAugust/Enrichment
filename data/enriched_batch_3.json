@@ -1,0 +1,810 @@
+[
+  {
+    "company_name": "CRIDER & CRIDER, INC.",
+    "state": "IN",
+    "industry": "Civil Engineering / Highway Construction",
+    "founded": "1954",
+    "employees": null,
+    "revenue_usd_000s": null,
+    "website": "https://www.criderandcrider.com",
+    "website_verified": true,
+    "website_note": "Active site confirmed; company name identified from website as Crider & Crider, Inc., Bloomington, IN",
+    "description": "Family-owned and operated civil and highway contractor based in Bloomington, Indiana, founded in 1954 and incorporated in 1979, performing projects in heavy/highway and commercial building construction including utilities, sewer/water, site development, subdivisions, and athletic fields.",
+    "description_source": "https://criderandcrider.com/about-us/our-company/",
+    "contacts": [
+      {
+        "name": "Mr. Steven R. Crider",
+        "title": "Secretary / Owner",
+        "source_url": "https://www.zoominfo.com/c/crider--crider-inc/37856399",
+        "linkedin_url": null,
+        "is_original": true
+      },
+      {
+        "name": "Laura Terry",
+        "title": "Office Manager",
+        "source_url": "https://www.thebluebook.com/iProView/335153/crider-crider-inc/general-contractors/locations-contacts/",
+        "linkedin_url": null,
+        "is_original": false
+      }
+    ],
+    "recent_news": "Awarded $9.5 million contract in February 2024 for intersection improvement along State Road 45/46 east of I-69 in Bloomington, Indiana, with overall completion scheduled for Fall 2025.",
+    "news_source_url": "https://www.wbiw.com/2025/01/30/work-to-resume-on-state-road-45-46-in-bloomington/",
+    "verification_status": "Verified",
+    "verification_notes": "Company name identified from website criderandcrider.com; Steven R. Crider confirmed as Owner/Secretary per multiple sources. Original entry had null company name and state — identified as Crider & Crider, Inc., Bloomington, IN. BBB verified at 1900 Liberty Dr, Bloomington, IN 47403.",
+    "data_quality_score": 4,
+    "enrichment_notes": "Original data entry had null company name and state. Identified as Crider & Crider, Inc. (Indiana civil contractor) via website lookup. Company founded 1954, incorporated 1979. Contact Steven Crider confirmed as owner/secretary. No additional senior leadership names publicly listed."
+  },
+  {
+    "company_name": "PHEIFER BROTHERS CONSTRUCTION COMPANY, INC.",
+    "state": "WI",
+    "industry": "Civil Engineering / Bridge Construction",
+    "founded": "1952",
+    "employees": 14,
+    "revenue_usd_000s": 26400,
+    "website": "https://www.pheifer.com",
+    "website_verified": true,
+    "website_note": "Active site confirmed at pheifer.com; company is based in Neenah, WI",
+    "description": "Third-generation family-owned bridge construction company based in Neenah, Wisconsin, founded in 1952 by brothers Robert and Alan Pheifer, now led by Ryan Pheifer as sole owner and President, specializing in bridge construction throughout Wisconsin for the Wisconsin DOT and other clients.",
+    "description_source": "https://www.pheifer.com/",
+    "contacts": [
+      {
+        "name": "Mr. Tyler Volkmann",
+        "title": "Project Manager",
+        "source_url": "https://www.zoominfo.com/c/pheifer-brothers-construction-company-inc/92275920",
+        "linkedin_url": null,
+        "is_original": true
+      },
+      {
+        "name": "Ryan Pheifer",
+        "title": "President / Owner",
+        "source_url": "https://www.linkedin.com/in/ryanpheifer/",
+        "linkedin_url": "https://www.linkedin.com/in/ryanpheifer/",
+        "is_original": false
+      }
+    ],
+    "recent_news": "Awarded $846,790 contract in May 2024 by Governor Tony Evers for rehabilitation of the bridge carrying WIS 35 over the Big River in Pierce County. Also active bidder on multiple WisDOT projects in 2024-2026, including a 2026 award for the T Linn – Hillside Road Bridge in Walworth County.",
+    "news_source_url": "https://www.piercecountyjournal.news/stories/bridge-rehabilitation-project-on-wis-35-in-pierce-county-to-start,90225",
+    "verification_status": "Unverified",
+    "verification_notes": "Tyler Volkmann listed as Project Manager — could not independently verify this contact in public sources beyond secondary data aggregators. Ryan Pheifer confirmed as President/Owner from LinkedIn and company website. Founded year discrepancy: batch says 1950, verified sources say 1952.",
+    "data_quality_score": 4,
+    "enrichment_notes": "Company is an active Wisconsin DOT contractor specializing in bridge construction. Founded year corrected from 1950 (batch) to 1952 (company website and multiple verified sources). Third-generation family ownership under Ryan Pheifer. WisDOT Structure of the Year award recipient."
+  },
+  {
+    "company_name": "JOSEPH H. ROBERTS INC.",
+    "state": "NJ",
+    "industry": "Plumbing/HVAC",
+    "founded": "1979",
+    "employees": 7,
+    "revenue_usd_000s": 26400,
+    "website": "https://jhrobertsinc.com",
+    "website_verified": true,
+    "website_note": "Active site confirmed; company located at 711 Old Shore Rd STE 1, Forked River, NJ 08731",
+    "description": "Family-owned HVAC contractor based in Forked River, NJ, founded in 1979 by Joseph H. Roberts Jr. and passed to his son Joseph H. Roberts III in 2020, providing residential and light commercial heating, air conditioning, duct cleaning, water heater services, and indoor air quality solutions as a Carrier Factory Authorized Dealer.",
+    "description_source": "https://jhrobertsinc.com",
+    "contacts": [
+      {
+        "name": "Joseph H. Roberts III",
+        "title": "President / Owner",
+        "source_url": "https://jhrobertsinc.com",
+        "linkedin_url": null,
+        "is_original": false
+      }
+    ],
+    "recent_news": "No significant news events found for 2024-2025. Company maintains A+ BBB rating and Carrier Factory Authorized Dealer status, with NATE- and EPA-certified technicians.",
+    "news_source_url": null,
+    "verification_status": "Unverified",
+    "verification_notes": "Original contact name and title were null in source data. Founded date in source data was 31520 (Excel serial date, approximately 1986) which is a data error — verified founding year is 1979 per company website. Joseph H. Roberts III confirmed as current President via company and Carrier dealer listings.",
+    "data_quality_score": 3,
+    "enrichment_notes": "Source data had null contact name/title and a corrupted Excel serial date (31520) for founding year. Actual founding year is 1979. Company passed from founder Joseph Roberts Jr. to his son Joseph Roberts III in 2020. Small 7-person HVAC firm serving Ocean County, NJ."
+  },
+  {
+    "company_name": "WAGNER HIGH SCHOOL (KAREN WAGNER HIGH SCHOOL / JUDSON ISD)",
+    "state": "TX",
+    "industry": "Pre-primary / Secondary Education",
+    "founded": "2017",
+    "employees": 14,
+    "revenue_usd_000s": 26400,
+    "website": "https://www.judsonisd.org",
+    "website_verified": true,
+    "website_note": "Active site confirmed; direct school URL is wagner.judsonisd.org; school is part of Judson ISD in unincorporated Bexar County, TX",
+    "description": "Karen J. Wagner High School is a public secondary school operated by Judson Independent School District, located in unincorporated Bexar County, Texas, serving approximately 2,218 students as of 2023-24, named after Lt. Col. Karen J. Wagner who died at the Pentagon on September 11, 2001.",
+    "description_source": "https://en.wikipedia.org/wiki/Karen_Wagner_High_School",
+    "contacts": [
+      {
+        "name": "Ms. Lauren Bush",
+        "title": "Teacher",
+        "source_url": "https://www.judsonisd.org/Wagner",
+        "linkedin_url": null,
+        "is_original": true
+      },
+      {
+        "name": "Blas Arce",
+        "title": "Principal",
+        "source_url": "https://wagner.judsonisd.org/",
+        "linkedin_url": null,
+        "is_original": false
+      },
+      {
+        "name": "Dr. Milton R. Fields III",
+        "title": "Superintendent, Judson ISD",
+        "source_url": "https://www.judsonisd.org/site/Default.aspx?PageID=7180",
+        "linkedin_url": null,
+        "is_original": false
+      }
+    ],
+    "recent_news": "School continues annual solemn ceremonies honoring its namesake Lt. Col. Karen J. Wagner. Judson ISD Superintendent Dr. Milton R. Fields III leads the district; school had 2,218 students in 2023-24.",
+    "news_source_url": "https://wagner.judsonisd.org/",
+    "verification_status": "Unverified",
+    "verification_notes": "Lauren Bush as a Teacher is plausible but could not be confirmed in public sources. Principal Blas Arce and Superintendent Dr. Fields confirmed from district website and news sources. Founding year 2017 consistent with school opening date.",
+    "data_quality_score": 3,
+    "enrichment_notes": "This is a public high school, not a private entity. The website judsonisd.org is the district site; the school-specific URL is wagner.judsonisd.org. Employee count of 14 and revenue of $26.4M appear to be template/placeholder values for a school with 2,200+ students."
+  },
+  {
+    "company_name": "WAGNER COMMUNITY SCHOOL DISTRICT",
+    "state": "SD",
+    "industry": "K-12 Education",
+    "founded": null,
+    "employees": null,
+    "revenue_usd_000s": null,
+    "website": "https://www.wagner.k12.sd.us",
+    "website_verified": true,
+    "website_note": "Active site confirmed at wagner.k12.sd.us; district located at 101 Walnut Ave SW, Wagner, SD 57380",
+    "description": "Public K-12 school district serving Wagner, SD and surrounding communities with approximately 900 students in four schools, operating under the motto 'Every Child, Every Chance, Every Day'.",
+    "description_source": "https://www.wagner.k12.sd.us/",
+    "contacts": [
+      {
+        "name": "Kortney Carter",
+        "title": "Teacher",
+        "source_url": "https://www.wagner.k12.sd.us/District/Staff/",
+        "linkedin_url": null,
+        "is_original": true
+      },
+      {
+        "name": "Matt Yost",
+        "title": "Superintendent",
+        "source_url": "https://www.wagner.k12.sd.us/District/profile/254-Matt-Yost",
+        "linkedin_url": null,
+        "is_original": false
+      },
+      {
+        "name": "Lory DuFrain",
+        "title": "Business Official",
+        "source_url": "https://doe.sd.gov/ofm/results.aspx?districtnumber=11004",
+        "linkedin_url": null,
+        "is_original": false
+      },
+      {
+        "name": "Mischelle Slaba",
+        "title": "Special Education Director",
+        "source_url": "https://doe.sd.gov/ofm/results.aspx?districtnumber=11004",
+        "linkedin_url": null,
+        "is_original": false
+      }
+    ],
+    "recent_news": "In 2024, the Wagner High School principal and his wife resigned from their positions after accusations of racist comments surfaced in July 2024.",
+    "news_source_url": "https://www.mitchellrepublic.com/news/wagner-high-school-principal-wife-resign-from-positions-after-accusations-of-racist-comments-surfaced-in-july",
+    "verification_status": "Unverified",
+    "verification_notes": "Original company name was null in source data; identified as Wagner Community School District from website wagner.k12.sd.us. Kortney Carter listed as Teacher — plausible but could not be confirmed in public sources. Matt Yost confirmed as Superintendent from SD DOE records and district website.",
+    "data_quality_score": 3,
+    "enrichment_notes": "Original data entry had null company name and state. Identified as Wagner Community School District 11-4 in South Dakota. SD DOE district number 11004. Approximately 900 students, four schools. Principal resigned in 2024 following controversy."
+  }
+,
+  {
+    "company_name": "AMERICAN FREIGHT SOLUTIONS, INC.",
+    "state": "IL",
+    "industry": "Road Freight / Third-Party Logistics",
+    "founded": "2003",
+    "employees": 7,
+    "revenue_usd_000s": 26400,
+    "website": "https://www.americanfreightsolutions.com",
+    "website_verified": true,
+    "website_note": "Active site confirmed; company headquartered at 1841 Centre Point Cir Ste 143, Naperville, IL",
+    "description": "Third-party logistics (3PL) company founded in 2003 and based in Naperville, IL, specializing in freight shipping throughout the United States and Canada including full truckloads, LTL shipments, and intermodal options, leveraging strong carrier relationships for competitive pricing.",
+    "description_source": "https://www.americanfreightsolutions.com/",
+    "contacts": [
+      {
+        "name": "Mr. John A. Murnane",
+        "title": "President / Founder",
+        "source_url": "https://www.linkedin.com/in/john-murnane-2306275",
+        "linkedin_url": "https://www.linkedin.com/in/john-murnane-2306275",
+        "is_original": true
+      },
+      {
+        "name": "Abdussamad Feyzullayev",
+        "title": "CEO",
+        "source_url": "https://www.zoominfo.com/c/american-freight-solutions/347289773",
+        "linkedin_url": null,
+        "is_original": false
+      }
+    ],
+    "recent_news": "No specific 2024-2025 expansion or funding news found. The Illinois freight and logistics market is projected to reach $73.06B in 2025 with 3.32% CAGR. Company registered with Transportation Intermediaries Association (TIA) as a licensed freight broker.",
+    "news_source_url": "https://www.americanfreightsolutions.com/",
+    "verification_status": "Verified",
+    "verification_notes": "John Murnane confirmed as President via ZoomInfo, LinkedIn, and multiple data aggregators. Founded year discrepancy: batch says 2008, but verified sources cite 2003/2004. Abdussamad Feyzullayev identified as CEO in some secondary sources.",
+    "data_quality_score": 4,
+    "enrichment_notes": "Founded year in source data (2008) appears to be incorrect; multiple sources confirm 2003 or 2004 founding. Company is a registered freight broker with FMCSA (MC-472901). Licensed and active 3PL serving US and Canada routes."
+  },
+  {
+    "company_name": "DONNELLY CONCRETE INC.",
+    "state": "VA",
+    "industry": "Specialised Construction / Concrete Contractors",
+    "founded": "1992",
+    "employees": 80,
+    "revenue_usd_000s": 26400,
+    "website": "https://www.donnellyconcrete.com",
+    "website_verified": true,
+    "website_note": "BBB profile and FABA member listing confirmed; address is 88 Le-Way Dr, Ste 101, Fredericksburg, VA 22406",
+    "description": "Concrete construction company serving Fredericksburg, VA and surrounding areas since 1992, specializing in residential and commercial foundations, driveways, sidewalks, patios, retaining walls, and stoops.",
+    "description_source": "https://www.bbb.org/us/va/fredericksburg/profile/concrete-contractors/donnelly-concrete-inc-0603-21015763",
+    "contacts": [
+      {
+        "name": "Ms. Sheila M. Donnelly",
+        "title": "Former Secretary / Treasurer",
+        "source_url": "https://opencorporates.com/companies/us_va/04886925",
+        "linkedin_url": null,
+        "is_original": true
+      },
+      {
+        "name": "John Donnelly",
+        "title": "President",
+        "source_url": "https://bizstanding.com/directory/VA/DO/410/",
+        "linkedin_url": null,
+        "is_original": false
+      },
+      {
+        "name": "Sharone Mcdaniel",
+        "title": "Manager, Sales & Marketing",
+        "source_url": "https://www.zoominfo.com/c/donnelly-concrete-inc/35916648",
+        "linkedin_url": null,
+        "is_original": false
+      }
+    ],
+    "recent_news": "No major 2024-2025 news found. Virginia contractor license active as of June 2025. A September 2024 Facebook post suggests the company was at capacity and not accepting new work at that time.",
+    "news_source_url": "https://www.yelp.com/biz/donnelly-concrete-fredericksburg",
+    "verification_status": "Discrepancy",
+    "verification_notes": "Sheila M. Donnelly was removed from Secretary and Treasurer positions between December 2020 and January 2021 per Virginia corporate records. Current President is John Donnelly. Founded year discrepancy: batch data contained Excel serial date 35643 (approximately 1997), but verified founding year is 1992 per BBB and company profile.",
+    "data_quality_score": 4,
+    "enrichment_notes": "Founded year in source data was an Excel serial date (35643 ≈ 1997); corrected to 1992 per BBB and Fredericksburg Area Builders Association records. Original contact Sheila Donnelly was removed as officer in 2020-2021. Holds Commercial Building and Residential Building licenses in Virginia."
+  },
+  {
+    "company_name": "ELM CREST RETIREMENT COMMUNITY",
+    "state": "IA",
+    "industry": "Senior Living / Retirement Community",
+    "founded": "1959",
+    "employees": 20,
+    "revenue_usd_000s": 26400,
+    "website": "https://abhomes.net",
+    "website_verified": true,
+    "website_note": "Parent organization American Baptist Homes of the Midwest at abhomes.net; primary community website is elmcrest.net. Located at 2104 12th St, Harlan, IA 51537.",
+    "description": "Senior living community in Harlan, Iowa offering independent living, assisted living, memory care, and skilled nursing health center services; owned and operated by American Baptist Homes of the Midwest (ABHM), a nonprofit provider of senior living since 1930. Elm Crest has served seniors for over 65 years.",
+    "description_source": "https://elmcrest.net/about/",
+    "contacts": [
+      {
+        "name": "Ms. Jayne Christenson",
+        "title": "Administrator (Former)",
+        "source_url": "https://abhomes.net",
+        "linkedin_url": null,
+        "is_original": true
+      },
+      {
+        "name": "Tim Nauslar",
+        "title": "Administrator (Current)",
+        "source_url": "https://elmcrest.net/contact/",
+        "linkedin_url": null,
+        "is_original": false
+      }
+    ],
+    "recent_news": "In April 2024, Iowa DHHS found that Elm Crest Assisted Living provided 'clinical and regulatory excellence' across critical areas. Elm Crest Health Center holds a 5-Star quality rating from CMS and is named to the Iowa National Nursing Home Quality Care Collaborative Honor Roll.",
+    "news_source_url": "https://elmcrest.net/news/",
+    "verification_status": "Discrepancy",
+    "verification_notes": "Original contact Jayne Christenson listed as Administrator; current administrator per elmcrest.net and assistedlivingmagazine.com is Tim Nauslar (tnauslar@abhomes.org, 712-755-5174). Christenson may be a former administrator. Industry listed in source data as 'Credit Granting' — this is incorrect; actual industry is senior living/retirement.",
+    "data_quality_score": 4,
+    "enrichment_notes": "Source data listed industry as 'Credit Granting' which is a data error — this is a senior living community. Founding year estimated as approximately 1959 based on '65+ years' claim on their website. CMS 5-Star rated facility. Parent org ABHM founded 1930 and nonprofit."
+  },
+  {
+    "company_name": "ELM CREST SENIOR LIVING COMMUNITY (elmcrest.net)",
+    "state": "IA",
+    "industry": "Senior Living / Retirement Community",
+    "founded": "1959",
+    "employees": null,
+    "revenue_usd_000s": null,
+    "website": "https://elmcrest.net",
+    "website_verified": true,
+    "website_note": "Active site confirmed; this is the primary consumer-facing website for Elm Crest in Harlan, IA — same physical entity as entry for ELM CREST RETIREMENT COMM",
+    "description": "Same facility as ELM CREST RETIREMENT COMMUNITY. Senior living campus in Harlan, Iowa providing a full continuum of care from independent apartments through assisted living and skilled nursing, operated by American Baptist Homes of the Midwest.",
+    "description_source": "https://elmcrest.net/about/",
+    "contacts": [
+      {
+        "name": "Ms. Dawn Patten",
+        "title": "Administrator (Former/Unverified)",
+        "source_url": "https://elmcrest.net/contact/",
+        "linkedin_url": null,
+        "is_original": true
+      },
+      {
+        "name": "Tim Nauslar",
+        "title": "Administrator (Current)",
+        "source_url": "https://elmcrest.net/contact/",
+        "linkedin_url": null,
+        "is_original": false
+      }
+    ],
+    "recent_news": "Same as companion entry: Iowa DHHS April 2024 clinical excellence recognition; 5-Star CMS rating; Honor Roll for Iowa National Nursing Home Quality Care Collaborative.",
+    "news_source_url": "https://elmcrest.net/news/",
+    "verification_status": "Discrepancy",
+    "verification_notes": "Original contact Dawn Patten listed as Administrator; current administrator confirmed as Tim Nauslar from multiple sources including the facility's own website. Dawn Patten may be a former administrator. This entry appears to be a duplicate/companion record to the ELM CREST RETIREMENT COMM entry, sharing the same physical facility but referencing the elmcrest.net website.",
+    "data_quality_score": 3,
+    "enrichment_notes": "This appears to be a duplicate data entry for the same entity as ELM CREST RETIREMENT COMM. Source data had null company name; identified from website elmcrest.net as Elm Crest Senior Living Community in Harlan, IA. Both entries (abhomes.net and elmcrest.net) represent the same campus."
+  },
+  {
+    "company_name": "JAMES DEAN CONSTRUCTION INC.",
+    "state": "WA",
+    "industry": "Civil Engineering / Road Building",
+    "founded": "1988",
+    "employees": 30,
+    "revenue_usd_000s": 26400,
+    "website": "http://www.jamesdeanconstruction.com",
+    "website_verified": true,
+    "website_note": "Active site confirmed; company located at 579 Highway 141, White Salmon, WA 98672. License verified active as of July 2025.",
+    "description": "Civil engineering and construction firm founded in 1988 in White Salmon, WA, specializing in road building, infrastructure development, portable rock crushing, excavation, bridges, concrete, earthwork, and structural steel, with over 100 miles of road construction completed.",
+    "description_source": "http://www.jamesdeanconstruction.com/about-us-1.html",
+    "contacts": [
+      {
+        "name": "James Dean",
+        "title": "Owner / Principal Contact",
+        "source_url": "http://www.jamesdeanconstruction.com/contact-us-1.html",
+        "linkedin_url": null,
+        "is_original": false
+      },
+      {
+        "name": "Jeffrey Dean",
+        "title": "Licensed Employee",
+        "source_url": "https://secure.lni.wa.gov/verify/Detail.aspx?UBI=601067776&LIC=JAMESDC121J7",
+        "linkedin_url": null,
+        "is_original": false
+      },
+      {
+        "name": "Lavanda Dean",
+        "title": "Licensed Employee",
+        "source_url": "https://secure.lni.wa.gov/verify/Detail.aspx?UBI=601067776&LIC=JAMESDC121J7",
+        "linkedin_url": null,
+        "is_original": false
+      }
+    ],
+    "recent_news": "No major 2024-2025 news stories found. Washington State L&I contractor license active as of July 2025. BuildZoom score of 94 ranks in top 24% of 128,670 WA licensed contractors. Company receives federal bridge-related grant work.",
+    "news_source_url": "https://secure.lni.wa.gov/verify/Detail.aspx?UBI=601067776&LIC=JAMESDC121J7",
+    "verification_status": "Unverified",
+    "verification_notes": "Original contact name was null in source data. James Dean confirmed as owner/principal from company website. Jeffrey Dean and Lavanda Dean listed on Washington L&I license. No original contact to verify.",
+    "data_quality_score": 3,
+    "enrichment_notes": "Source data had null contact name and title. Owner James Dean has a Civil Engineering degree from Washington State University. Small family business serving the White Salmon, WA area. Also listed at Procore marketplace as a contractor."
+  }
+,
+  {
+    "company_name": "SUNSHINE AIR CONDITIONING, INC.",
+    "state": "FL",
+    "industry": "Plumbing/HVAC",
+    "founded": "1990",
+    "employees": 17,
+    "revenue_usd_000s": 26400,
+    "website": "https://sunshineac.com",
+    "website_verified": true,
+    "website_note": "Active site confirmed at sunshineac.com; located at 12550 SE US Highway 441, Belleview, FL 34420",
+    "description": "HVAC company founded in 1990 and serving Marion, Lake, and Sumter Counties in Florida, specializing in AC repair, installation, heating, EV chargers, smart panels, and generators. Under new ownership since August 2021 with significant growth resulting in Inc. 5000 recognition. Carrier President's Award winner for 17 consecutive years.",
+    "description_source": "https://sunshineac.com/",
+    "contacts": [
+      {
+        "name": "Mr. Paul A. Hoffman",
+        "title": "Former President",
+        "source_url": "https://www.dnb.com/contact-directory/contact-profile.paul_a_hoffman.8cc0c882e713e871462bcaa92152456e.html",
+        "linkedin_url": null,
+        "is_original": true
+      },
+      {
+        "name": "Kelly Harvey",
+        "title": "President (Current, since Aug 2021)",
+        "source_url": "https://sunshineac.com/sunshine-air-conditioning-ranks-no-2169-on-the-2024-inc-5000/",
+        "linkedin_url": null,
+        "is_original": false
+      }
+    ],
+    "recent_news": "Ranked No. 2169 on the 2024 Inc. 5000 list of fastest-growing private companies in America (announced September 2024), ranking #38 in Consumer Services and #242 in Florida. Growth attributed to new ownership since August 2021.",
+    "news_source_url": "https://sunshineac.com/sunshine-air-conditioning-ranks-no-2169-on-the-2024-inc-5000/",
+    "verification_status": "Discrepancy",
+    "verification_notes": "Paul Hoffman listed as President in source data, but the company changed ownership in August 2021; Kelly Harvey is the current President. Paul Hoffman was the previous owner. This is a significant leadership change not reflected in source data.",
+    "data_quality_score": 4,
+    "enrichment_notes": "Company underwent ownership change in August 2021; Paul Hoffman (previous owner) no longer serves as President. Kelly Harvey (current President) led company to 2024 Inc. 5000 ranking. Website sunshineac.com matches the company. BBB A+ rated."
+  },
+  {
+    "company_name": "SUNSHINE AIR CONDITIONING, INC. (sunshineac.com — Companion Entry)",
+    "state": "FL",
+    "industry": "Plumbing/HVAC",
+    "founded": "1990",
+    "employees": null,
+    "revenue_usd_000s": null,
+    "website": "https://sunshineac.com",
+    "website_verified": true,
+    "website_note": "Same entity as SUNSHINE AIR CONDITIONING, INC. — this appears to be a companion/duplicate record in the source data referencing sunshineac.com",
+    "description": "Same entity as the primary SUNSHINE AIR CONDITIONING, INC. entry. Belleview, FL HVAC company serving Marion, Lake, and Sumter Counties, under new ownership since 2021.",
+    "description_source": "https://sunshineac.com/",
+    "contacts": [
+      {
+        "name": "Ms. Candy C. Hoffman",
+        "title": "Vice Treasurer (Former)",
+        "source_url": "https://florida.construction-us.org/180140-sunshine_air_conditioning_inc.htm",
+        "linkedin_url": null,
+        "is_original": true
+      },
+      {
+        "name": "Kelly Harvey",
+        "title": "President (Current)",
+        "source_url": "https://sunshineac.com/sunshine-air-conditioning-ranks-no-2169-on-the-2024-inc-5000/",
+        "linkedin_url": null,
+        "is_original": false
+      }
+    ],
+    "recent_news": "Same as companion entry: 2024 Inc. 5000 ranking No. 2169. Company changed ownership in August 2021.",
+    "news_source_url": "https://sunshineac.com/sunshine-air-conditioning-ranks-no-2169-on-the-2024-inc-5000/",
+    "verification_status": "Discrepancy",
+    "verification_notes": "Candy C. Hoffman listed as Vice Treasurer — she appears to be associated with the prior ownership under Paul Hoffman. Company under new ownership since August 2021. This entry is a companion/duplicate to the primary Sunshine Air Conditioning entry, with null company name in the source, identified via sunshineac.com.",
+    "data_quality_score": 3,
+    "enrichment_notes": "Source data had null company name; identified as Sunshine Air Conditioning, Inc. from website sunshineac.com. Candy Hoffman was likely associated with previous Hoffman family ownership. Current President Kelly Harvey leads the company under new ownership since 2021."
+  },
+  {
+    "company_name": "J.L.W. TRUCKING, INC.",
+    "state": "GA",
+    "industry": "Road Freight / Hauling",
+    "founded": "1996",
+    "employees": 12,
+    "revenue_usd_000s": 26400,
+    "website": "https://www.jlwtruckingco.com",
+    "website_verified": true,
+    "website_note": "Active site confirmed at jlwtruckingco.com; company located at 384 Lower Harmony Rd, Eatonton, GA 31024",
+    "description": "Family-owned and operated hauling company based in Eatonton, Georgia, founded in 1996, operating for three generations as Middle Georgia's trusted hauling service using refrigerated vans, milk tanks, and water tanks for interstate freight.",
+    "description_source": "https://www.jlwtruckingco.com/about-us",
+    "contacts": [
+      {
+        "name": "Warren Camp",
+        "title": "President",
+        "source_url": "https://www.dnb.com/business-directory/company-profiles.jlw_trucking_inc.25a34a9afd65ae1eb7e0e85c84691613.html",
+        "linkedin_url": null,
+        "is_original": false
+      }
+    ],
+    "recent_news": "No specific 2024-2025 news found. A related entity, JLW HAULING LLC, registered with FMCSA as an active carrier and broker in September 2024, possibly a spin-off or affiliated entity. USDOT No. 650110.",
+    "news_source_url": "https://safer.fmcsa.dot.gov/query.asp?searchtype=ANY&query_type=queryCarrierSnapshot&query_param=USDOT&query_string=650110",
+    "verification_status": "Unverified",
+    "verification_notes": "Original contact name was null in source data. Warren Camp identified as President from D&B profile. Founded year discrepancy: source data says 1991 but company website states 1996 as founding year.",
+    "data_quality_score": 3,
+    "enrichment_notes": "Source data had null contact name and states founding year as 1991; company website clearly states 1996 as the founding year. Family-owned for three generations. Company operates refrigerated vans and liquid tankers in Middle Georgia. FMCSA licensed interstate carrier."
+  },
+  {
+    "company_name": "MCINTOSH CLINIC, P.C.",
+    "state": "GA",
+    "industry": "General Medical / Multi-Specialty Practice",
+    "founded": "1992",
+    "employees": 17,
+    "revenue_usd_000s": 26400,
+    "website": "https://www.mcintoshclinic.com",
+    "website_verified": true,
+    "website_note": "Active site at mcintoshclinic.com; also accessible via myprivia.com/mcintoshclinic. Located at 119 West Hill Street, Thomasville, GA 31792.",
+    "description": "Physician-owned multi-specialty medical practice in Thomasville, GA offering internal medicine, rheumatology, pulmonology, critical care, dermatology, and pathology; currently 23 physicians covering 11 specialty areas with on-site laboratory, pathology, and radiology. Part of the Privia Health network.",
+    "description_source": "https://www.myprivia.com/mcintoshclinic/about-us",
+    "contacts": [
+      {
+        "name": "Mr. James W. Falconer III, MD",
+        "title": "Listed as CEO in source data; confirmed as Internal Medicine Physician",
+        "source_url": "https://www.myprivia.com/mcintoshclinic/providers/dr-james-falconer",
+        "linkedin_url": null,
+        "is_original": true
+      },
+      {
+        "name": "Dr. Cheryl J. Barnes, MD",
+        "title": "Physician",
+        "source_url": "https://www.myprivia.com/mcintoshclinic/providers",
+        "linkedin_url": null,
+        "is_original": false
+      },
+      {
+        "name": "Dr. William L. Cooper, MD",
+        "title": "Physician",
+        "source_url": "https://www.myprivia.com/mcintoshclinic/providers",
+        "linkedin_url": null,
+        "is_original": false
+      },
+      {
+        "name": "Dr. Joseph A. Howe, MD",
+        "title": "Physician",
+        "source_url": "https://www.myprivia.com/mcintoshclinic/providers",
+        "linkedin_url": null,
+        "is_original": false
+      },
+      {
+        "name": "Dr. Jordan Ward",
+        "title": "Dermatologist (joined January 2025)",
+        "source_url": "https://www.facebook.com/mcintoshclinic/",
+        "linkedin_url": null,
+        "is_original": false
+      }
+    ],
+    "recent_news": "Received the 2025 Jim Sams Clinical Excellence Award from Privia Health, ranking in the top 10% nationally and #2 overall for commitment to quality diabetes management and care. Added new dermatologist Dr. Jordan Ward in January 2025.",
+    "news_source_url": "https://www.facebook.com/mcintoshclinic/",
+    "verification_status": "Discrepancy",
+    "verification_notes": "James Falconer listed as 'CEO' in source data, but he is a practicing Internal Medicine physician who joined McIntosh Clinic in 2000. No CEO title could be independently confirmed — he may serve in a physician-leader capacity but is not publicly identified as CEO in clinic materials. Founded year in source data was Excel serial date 33791 (approximately 1992), which aligns with the clinic's history.",
+    "data_quality_score": 5,
+    "enrichment_notes": "Source data had Excel serial date 33791 for founding year, computed to approximately 1992. The clinic is physician-owned and part of Privia Health network. Dr. Falconer has been with the clinic since 2000. 2025 Jim Sams Clinical Excellence Award is a notable recent achievement. Multiple physicians identified as additional contacts."
+  },
+  {
+    "company_name": "MCINTOSH CLINIC, P.C. (myprivia.com — Companion Entry)",
+    "state": "GA",
+    "industry": "General Medical / Multi-Specialty Practice",
+    "founded": "1992",
+    "employees": null,
+    "revenue_usd_000s": null,
+    "website": "https://www.myprivia.com/mcintoshclinic",
+    "website_verified": true,
+    "website_note": "Active Privia Health portal page for McIntosh Clinic; same physical entity as MCINTOSH CLINIC P.C. entry. Primary clinic website is mcintoshclinic.com.",
+    "description": "Same entity as the primary MCINTOSH CLINIC, P.C. entry. Multi-specialty physician practice in Thomasville, GA, part of Privia Health, offering primary care, dermatology, pulmonology, and rheumatology.",
+    "description_source": "https://www.myprivia.com/mcintoshclinic",
+    "contacts": [
+      {
+        "name": "Mr. Michael L. Gee",
+        "title": "Secretary",
+        "source_url": "https://www.zoominfo.com/c/mcintosh-clinic-pc/356898681",
+        "linkedin_url": null,
+        "is_original": true
+      },
+      {
+        "name": "Dr. James W. Falconer III, MD",
+        "title": "Internal Medicine Physician / Physician-Leader",
+        "source_url": "https://www.myprivia.com/mcintoshclinic/providers/dr-james-falconer",
+        "linkedin_url": null,
+        "is_original": false
+      }
+    ],
+    "recent_news": "Same as primary entry: 2025 Jim Sams Clinical Excellence Award (Privia Health); top 10% nationally, ranked #2 overall.",
+    "news_source_url": "https://www.facebook.com/mcintoshclinic/",
+    "verification_status": "Verified",
+    "verification_notes": "Michael L. Gee listed as Secretary — plausible administrative role for a physician-owned practice. This is a companion/duplicate record to the primary McIntosh Clinic entry, referencing the Privia Health portal URL (myprivia.com/mcintoshclinic). Same physical entity at 119 West Hill St, Thomasville, GA.",
+    "data_quality_score": 3,
+    "enrichment_notes": "Source data had null company name; identified as McIntosh Clinic P.C. from website myprivia.com/mcintoshclinic. Michael Gee as Secretary is consistent with a professional corporation administrative structure. Same facility and leadership as the MCINTOSH CLINIC P.C. entry."
+  }
+,
+  {
+    "company_name": "PACIFIC LIVING PROPERTIES, INC.",
+    "state": "CA",
+    "industry": "Real Estate / Multifamily Property Management",
+    "founded": "2003",
+    "employees": 15,
+    "revenue_usd_000s": 91000,
+    "website": "https://www.pacificliving.com",
+    "website_verified": true,
+    "website_note": "Company operates at 4660 La Jolla Village Dr, Suite 660, San Diego, CA 92122. Revenue of $91M per 2025 data aggregator estimates — significantly above $26.4M in source data.",
+    "description": "Multifamily property management company founded by Jeff Miller, based in San Diego, CA, with over 20 years of experience managing apartment communities in California, Montana, Washington, and Idaho. Company focuses exclusively on maximizing performance of multifamily properties, with total managed deal value exceeding $1 billion.",
+    "description_source": "https://www.zoominfo.com/c/pacific-living-properties-inc/344776952",
+    "contacts": [
+      {
+        "name": "Ms. Susie M. LaVallie",
+        "title": "Former SVP Accounting & Finance (Removed 2021)",
+        "source_url": "https://opencorporates.com/companies/us_ca/C2476676",
+        "linkedin_url": "https://www.linkedin.com/in/susie-lavallie-aa286434",
+        "is_original": true
+      },
+      {
+        "name": "Jeff Miller",
+        "title": "CEO / Owner / Partner",
+        "source_url": "https://www.linkedin.com/in/jeff-miller-3302467/",
+        "linkedin_url": "https://www.linkedin.com/in/jeff-miller-3302467/",
+        "is_original": false
+      },
+      {
+        "name": "Tom Daniels",
+        "title": "Partner / Executive Vice President of Operations",
+        "source_url": "https://www.zoominfo.com/p/Thomas-Daniels/1211778352",
+        "linkedin_url": "https://www.linkedin.com/in/todaniels/",
+        "is_original": false
+      },
+      {
+        "name": "Marty Wilson",
+        "title": "Vice President of Construction and Safety",
+        "source_url": "https://rocketreach.co/pacific-living-properties-management_b5f08e6ff6a27f6e",
+        "linkedin_url": null,
+        "is_original": false
+      },
+      {
+        "name": "Erik Anderson",
+        "title": "Vice President of Renovation Services",
+        "source_url": "https://www.bpcmag.com/case-studies/erik-anderson-pacific-living-properties/",
+        "linkedin_url": null,
+        "is_original": false
+      }
+    ],
+    "recent_news": "No major 2024-2025 specific news or awards found. Pacific Living Properties appears closely related to 11Residential — Tom Daniels joined 11Residential as EVP of Operations in November 2022, previously holding the same role at Pacific Living Properties. Companies may share common ownership or have merged/rebranded.",
+    "news_source_url": "https://www.linkedin.com/pulse/pacific-living-properties-welcomes-new-evp-tom-",
+    "verification_status": "Discrepancy",
+    "verification_notes": "Susie LaVallie was removed as an officer (Governor and registered agent) between March 6, 2021 and April 30, 2021 per California and Washington corporate records. She is no longer affiliated with the company. Jeff Miller is the current CEO/Owner. Revenue in source data ($26.4M) appears to be a placeholder; actual revenue estimated at $91M by 2025 data aggregators.",
+    "data_quality_score": 4,
+    "enrichment_notes": "Susie LaVallie removed from all officer positions in 2021. Notable connection between Pacific Living Properties and 11Residential — both companies feature Tom Daniels as EVP Operations. Jeff Miller is also a partner at 11 Capital, a private equity/real estate firm. Total deal value managed exceeds $1B."
+  },
+  {
+    "company_name": "11RESIDENTIAL (11residential.com)",
+    "state": "WA",
+    "industry": "Real Estate / Multifamily Property Management",
+    "founded": null,
+    "employees": null,
+    "revenue_usd_000s": null,
+    "website": "https://www.11residential.com",
+    "website_verified": true,
+    "website_note": "Active site confirmed; company based in Kirkland, WA with managed properties in Washington, California, Montana, and Idaho. Closely affiliated with Pacific Living Properties (shared executive Tom Daniels).",
+    "description": "Property management company based in Kirkland, WA, managing apartment communities across Washington, Montana, Idaho, and California, committed to offering an exceptional living environment through excellent customer service and state-of-the-art technology.",
+    "description_source": "https://www.11residential.com/",
+    "contacts": [
+      {
+        "name": "Ms. Natalie Caranci",
+        "title": "Manager, Accounting (Unverified at this company)",
+        "source_url": "https://www.zoominfo.com/pic/11residential/1332398330",
+        "linkedin_url": null,
+        "is_original": true
+      },
+      {
+        "name": "Tom Daniels",
+        "title": "Partner / Executive Vice President of Operations (joined Nov 2022)",
+        "source_url": "https://www.linkedin.com/in/todaniels/",
+        "linkedin_url": "https://www.linkedin.com/in/todaniels/",
+        "is_original": false
+      },
+      {
+        "name": "Shannon Reed",
+        "title": "Executive VP, Accounting",
+        "source_url": "https://www.zoominfo.com/p/Shannon-Reed/13249035196",
+        "linkedin_url": null,
+        "is_original": false
+      }
+    ],
+    "recent_news": "Tom Daniels joined 11Residential as Partner and EVP of Operations in November 2022, previously holding the same role at Pacific Living Properties. The two companies appear to share common ownership or management structure under CEO Jeff Miller and the 11 Capital investment platform.",
+    "news_source_url": "https://www.linkedin.com/in/todaniels/",
+    "verification_status": "Unverified",
+    "verification_notes": "Source data had null company name; identified as 11Residential from website 11residential.com. Natalie Caranci listed as Manager Accounting — could not be confirmed at 11Residential specifically; Shannon Reed is the confirmed EVP Accounting. 11Residential and Pacific Living Properties appear to be related or affiliated entities under common ownership.",
+    "data_quality_score": 2,
+    "enrichment_notes": "Source data had null company name. 11Residential is a Kirkland, WA-based property management company closely affiliated with Pacific Living Properties. Both companies are linked to Jeff Miller and Tom Daniels. Natalie Caranci could not be confirmed as a current accounting manager at this company."
+  },
+  {
+    "company_name": "BATAVIA CITY SCHOOL DISTRICT",
+    "state": "NY",
+    "industry": "K-12 Public Education",
+    "founded": null,
+    "employees": 13,
+    "revenue_usd_000s": 26400,
+    "website": "https://www.bataviacsd.org",
+    "website_verified": true,
+    "website_note": "Active site confirmed at bataviacsd.org; district headquartered in Batavia, NY (Genesee County). 2024-25 budget of $60.3M far exceeds $26.4M listed in source data.",
+    "description": "Public K-12 school district in Batavia, New York serving approximately 2,200 students across 4 schools: Batavia High School, Batavia Middle School, John Kennedy Intermediate, and Jackson Primary School. The district has 30% minority enrollment and 41.3% economically disadvantaged students.",
+    "description_source": "https://www.bataviacsd.org/48414_3",
+    "contacts": [
+      {
+        "name": "Jason Smith",
+        "title": "Superintendent (contract extended through 2029)",
+        "source_url": "https://www.bataviacsd.org/",
+        "linkedin_url": "https://www.linkedin.com/in/jason-smith-98006756/",
+        "is_original": false
+      },
+      {
+        "name": "Dr. Megan Crine",
+        "title": "Director",
+        "source_url": "https://videonewsservice.net/index.php/2024/07/16/batavia-city-school-district-names-middle-school-principal-and-director-of-health-physical-education-and-athletics/",
+        "linkedin_url": null,
+        "is_original": false
+      },
+      {
+        "name": "Joel Reed",
+        "title": "Director of Health, Physical Education and Athletics",
+        "source_url": "https://videonewsservice.net/index.php/2024/07/16/batavia-city-school-district-names-middle-school-principal-and-director-of-health-physical-education-and-athletics/",
+        "linkedin_url": null,
+        "is_original": false
+      },
+      {
+        "name": "Emily Benedict",
+        "title": "Communications and Marketing Liaison",
+        "source_url": "https://www.bataviacsd.org/",
+        "linkedin_url": null,
+        "is_original": false
+      }
+    ],
+    "recent_news": "July 2024: Board of Education approved contract extension for Superintendent Jason Smith through 2029. July 2024: District named new Middle School Principal and Director of Health/PE/Athletics (Dr. Megan Crine and Joel Reed). $45M capital improvement project approved by voters in December 2023, design submitted, construction expected to begin spring 2025. 2024-25 budget of $60,294,755 approved by voters.",
+    "news_source_url": "https://videonewsservice.net/index.php/2024/07/16/batavia-city-school-district-names-middle-school-principal-and-director-of-health-physical-education-and-athletics/",
+    "verification_status": "Unverified",
+    "verification_notes": "Original contact name was null in source data; no original contact to verify. Superintendent Jason Smith identified and confirmed from multiple sources. Revenue figure of $26.4M in source data is significantly understated; actual annual budget is $60.3M. Employee count of 13 is also understated for a district with 2,200+ students.",
+    "data_quality_score": 4,
+    "enrichment_notes": "Revenue ($26.4M) and employee count (13) in source data are clearly placeholder/template values for a school district with a $60.3M budget. Jason Smith confirmed as Superintendent, contract extended through 2029. A state audit previously noted hundreds of missing devices. No original contacts to verify."
+  },
+  {
+    "company_name": "COUNTY OF JOHNSON (JOHNSON COUNTY, KY — PVA OFFICE)",
+    "state": "KY",
+    "industry": "Government / Property Valuation Administration",
+    "founded": "1843",
+    "employees": 6,
+    "revenue_usd_000s": 26400,
+    "website": "https://johnsoncountypva.com",
+    "website_verified": true,
+    "website_note": "Active site confirmed at johnsoncountypva.com; this is the PVA (Property Valuation Administrator) office for Johnson County, KY located in Paintsville, KY 41240",
+    "description": "Johnson County, Kentucky Property Valuation Administrator (PVA) office, responsible for assessing property values for tax purposes throughout Johnson County. The PVA is an elected official position separate from the County Judge Executive. Johnson County was established in 1843 and is headquartered in Paintsville, KY.",
+    "description_source": "https://www.johnsoncoky.com/elected-officials/property-valuation-administrator",
+    "contacts": [
+      {
+        "name": "Mr. Mark McKenzie",
+        "title": "County Judge Executive (NOT PVA — different position)",
+        "source_url": "https://www.johnsoncoky.com/elected-officials",
+        "linkedin_url": null,
+        "is_original": true
+      },
+      {
+        "name": "Michael 'Dip' Stafford",
+        "title": "Property Valuation Administrator (PVA)",
+        "source_url": "https://www.johnsoncoky.com/elected-officials/property-valuation-administrator",
+        "linkedin_url": null,
+        "is_original": false
+      },
+      {
+        "name": "Jessica Click",
+        "title": "Commissioner District 1",
+        "source_url": "https://www.johnsoncoky.com/elected-officials",
+        "linkedin_url": null,
+        "is_original": false
+      },
+      {
+        "name": "Doug Saylor",
+        "title": "Sheriff",
+        "source_url": "https://www.johnsoncoky.com/elected-officials",
+        "linkedin_url": null,
+        "is_original": false
+      }
+    ],
+    "recent_news": "2024: State auditor released Agreed-Upon Procedures (AUP) report for Johnson County PVA for period July 1, 2023 – June 30, 2024, identifying exceptions including lack of receipts/disbursements ledger and failure to conduct monthly bank reconciliations. Ray E. Davis III announced 2024 candidacy for Johnson County PVA position.",
+    "news_source_url": "https://www.paintsvilleherald.com/news/state-auditor-releases-aup-report-for-johnson-county-pva/article_4f44158a-f4a6-4dce-bfcf-51c135fdd89a.html",
+    "verification_status": "Discrepancy",
+    "verification_notes": "Mark McKenzie is confirmed as County Judge Executive (chief executive of the county government), not the Property Valuation Administrator. The PVA is a separate elected official — currently Michael 'Dip' Stafford. The source data appears to have assigned the Judge Executive to a PVA-related entry. Industry listed as 'Security' is incorrect — this is a government/property valuation entity.",
+    "data_quality_score": 4,
+    "enrichment_notes": "Source data lists industry as 'Security' which is incorrect — this is Johnson County, KY government PVA office. Mark McKenzie as County Judge Executive is the county's chief executive, but he is separate from the PVA which is held by Michael Stafford. State audit in 2024 found bookkeeping deficiencies. County established in 1843."
+  },
+  {
+    "company_name": "JOHNSON COUNTY, INDIANA (co.johnson.in.us)",
+    "state": "IN",
+    "industry": "County Government",
+    "founded": "1822",
+    "employees": null,
+    "revenue_usd_000s": null,
+    "website": "https://co.johnson.in.us",
+    "website_verified": true,
+    "website_note": "Active site confirmed; co.johnson.in.us redirects to johnsoncounty.in.gov — the official Johnson County, Indiana government website. County seat is Franklin, IN.",
+    "description": "Johnson County, Indiana county government established in 1822, serving a growing suburban county south of Indianapolis. The Board of County Commissioners (executive body) oversees county buildings, lands, roads, bridges, and county departments, with responsibility for authorizing contracts and supervising many county functions.",
+    "description_source": "https://johnsoncounty.in.gov/commissioners/",
+    "contacts": [
+      {
+        "name": "Brian Baird",
+        "title": "County Commissioner, District 1 (2025 Chairman; also 2025 Indiana County Commissioners President)",
+        "source_url": "https://johnsoncounty.in.gov/commissioners/",
+        "linkedin_url": null,
+        "is_original": false
+      },
+      {
+        "name": "Kevin Walls",
+        "title": "County Commissioner, District 2",
+        "source_url": "https://johnsoncounty.in.gov/commissioners/",
+        "linkedin_url": null,
+        "is_original": false
+      },
+      {
+        "name": "Ron West",
+        "title": "County Commissioner, District 3",
+        "source_url": "https://johnsoncounty.in.gov/commissioners/",
+        "linkedin_url": null,
+        "is_original": false
+      }
+    ],
+    "recent_news": "December 2024: Commissioner Brian Baird named 2025 President of the statewide Indiana County Commissioners organization. Johnson County officials won awards at the Indiana County Commissioners conference. $11M behavioral health center annex (next to Johnson Memorial Health, Franklin campus) anticipated to open July 2025, funded with $10M from ARPA funds.",
+    "news_source_url": "https://www.thebridgefm.org/2024/12/12/baird-named-2025-indiana-county-commissioners-president/",
+    "verification_status": "Unverified",
+    "verification_notes": "Source data had null company name; identified as Johnson County, Indiana from website co.johnson.in.us. No original contact to verify. Three commissioners (Baird, Walls, West) confirmed from official county website. Note: this is a different entity from entry #19 (Johnson County, KY PVA office).",
+    "data_quality_score": 4,
+    "enrichment_notes": "Source data had null company name, null state, null industry. Identified as Johnson County, Indiana county government from co.johnson.in.us website. County established 1822. Brian Baird named 2025 Indiana County Commissioners President in December 2024 — a significant recognition. $11M behavioral health project underway with ARPA funding."
+  }
+]

@@ -1,0 +1,1003 @@
+[
+  {
+    "name": "MORRISSY & CO LLC",
+    "state": "FL",
+    "year_incorporated": "1998",
+    "nace": "5829",
+    "employees": "10",
+    "revenue_usd": 2340000,
+    "pl_before_tax": null,
+    "total_assets": null,
+    "equity": null,
+    "website": "www.morrissyco.com",
+    "description": null,
+    "contacts": []
+  },
+  {
+    "name": "DIRECT SOLUTIONS GROUP LLC",
+    "state": "FL",
+    "year_incorporated": "2021",
+    "nace": "5829",
+    "employees": "16",
+    "revenue_usd": 2340000,
+    "pl_before_tax": null,
+    "total_assets": null,
+    "equity": null,
+    "website": "www.directnetsolutions.com",
+    "description": null,
+    "contacts": [
+      {
+        "name": "Exilhomme Diesny",
+        "title": "Manager"
+      }
+    ]
+  },
+  {
+    "name": "AXIOM SERVICES, INC.",
+    "state": "FL",
+    "year_incorporated": "1991",
+    "nace": "5829",
+    "employees": "35",
+    "revenue_usd": 2340000,
+    "pl_before_tax": null,
+    "total_assets": null,
+    "equity": null,
+    "website": "www.axiomint.com",
+    "description": null,
+    "contacts": [
+      {
+        "name": "Mr Greenbaum David",
+        "title": "CEO,"
+      },
+      {
+        "name": "Mr Greenbaum David",
+        "title": "Founder"
+      },
+      {
+        "name": "Mr Clark Edward",
+        "title": "Vice President"
+      },
+      {
+        "name": "Albornoz Oscar",
+        "title": "Secretary"
+      },
+      {
+        "name": "Ms Katherine Pham",
+        "title": "Senior Client Success Manager, Global Strategic Accounts"
+      },
+      {
+        "name": "Mr Erin Reilly",
+        "title": "Vice President Enterprise Sales"
+      },
+      {
+        "name": "Ms Reise Jessica",
+        "title": "Sales Manager"
+      },
+      {
+        "name": "Ms Reise Jessica",
+        "title": "Director"
+      },
+      {
+        "name": "Ms Jessica Iral",
+        "title": "Legal Officer"
+      },
+      {
+        "name": "Mr Eiren Smith",
+        "title": "Vice President, Technology"
+      },
+      {
+        "name": "Mr Baden D'Cruz",
+        "title": "Chief Operating Officer, S Program & T Chief I"
+      },
+      {
+        "name": "Mr Chelin Hetha",
+        "title": "Executive Vice President for Operations"
+      },
+      {
+        "name": "Mr Chelin Hetha",
+        "title": "Director"
+      },
+      {
+        "name": "Kenniston Fredrick",
+        "title": "Director"
+      },
+      {
+        "name": "Ms Sexsmith Michael",
+        "title": "Director"
+      },
+      {
+        "name": "Travis Le Roux",
+        "title": "No specific function"
+      }
+    ]
+  },
+  {
+    "name": "PARITY CORPORATION",
+    "state": "WA",
+    "year_incorporated": "1998",
+    "nace": "5829",
+    "employees": "15",
+    "revenue_usd": 2340000,
+    "pl_before_tax": null,
+    "total_assets": null,
+    "equity": null,
+    "website": "www.paritycorp.com",
+    "description": null,
+    "contacts": [
+      {
+        "name": "Mr Sean Clemmons",
+        "title": "Chief Executive Officer"
+      },
+      {
+        "name": "Mr Arvid Tellevik",
+        "title": "President"
+      },
+      {
+        "name": "Mr Arvid Tellevik",
+        "title": "Executive"
+      },
+      {
+        "name": "Ms Kirstin Smith",
+        "title": "Office Manager"
+      },
+      {
+        "name": "Meggan Combs",
+        "title": "Administrative Coordinator"
+      },
+      {
+        "name": "Kim Brid",
+        "title": "Administrative Assistant"
+      },
+      {
+        "name": "Mr George Fletcher",
+        "title": "Product Specialist"
+      },
+      {
+        "name": "Ms Dalia Swellum",
+        "title": "Software Developer & Implementation Engineer"
+      },
+      {
+        "name": "Ms Bridget Tueffers",
+        "title": "Junior Software Developer"
+      },
+      {
+        "name": "Mr Jordan Kimball",
+        "title": "Consulting Manager"
+      },
+      {
+        "name": "Mr Alan Macdonald",
+        "title": "Senior Consultant"
+      },
+      {
+        "name": "Mr Tyler Marshall",
+        "title": "Senior Consultant"
+      }
+    ]
+  },
+  {
+    "name": "DANIEL LAMPERT COMMUNICATION CORP",
+    "state": "FL",
+    "year_incorporated": null,
+    "nace": "5829",
+    "employees": "10",
+    "revenue_usd": 2340000,
+    "pl_before_tax": null,
+    "total_assets": null,
+    "equity": null,
+    "website": "www.daniellampert.com",
+    "description": null,
+    "contacts": []
+  },
+  {
+    "name": "DATATECH SMARTSOFT INC",
+    "state": "NY",
+    "year_incorporated": "1992",
+    "nace": "5829",
+    "employees": "20",
+    "revenue_usd": 2340000,
+    "pl_before_tax": null,
+    "total_assets": null,
+    "equity": null,
+    "website": "presswise.visionps.com",
+    "description": null,
+    "contacts": []
+  },
+  {
+    "name": "DTS SOFTWARE INC",
+    "state": "FL",
+    "year_incorporated": "1999",
+    "nace": "5829",
+    "employees": "10",
+    "revenue_usd": 2340000,
+    "pl_before_tax": null,
+    "total_assets": null,
+    "equity": null,
+    "website": "www.dtslatin.com",
+    "description": null,
+    "contacts": []
+  },
+  {
+    "name": "X-MED MEDICAL INFORMATION SYSTEMS, INC.",
+    "state": "FL",
+    "year_incorporated": "1992",
+    "nace": "5829",
+    "employees": "10",
+    "revenue_usd": 2340000,
+    "pl_before_tax": null,
+    "total_assets": null,
+    "equity": null,
+    "website": "www.x-med.com",
+    "description": null,
+    "contacts": []
+  },
+  {
+    "name": "SCREENING ONE, INC.",
+    "state": "FL",
+    "year_incorporated": "1999",
+    "nace": "5829",
+    "employees": "30",
+    "revenue_usd": 2340000,
+    "pl_before_tax": null,
+    "total_assets": null,
+    "equity": null,
+    "website": "screeningone.com",
+    "description": null,
+    "contacts": [
+      {
+        "name": "Mr Matthew Briggs",
+        "title": "Chief Executive Officer"
+      },
+      {
+        "name": "Mr Michael Byrd",
+        "title": "President"
+      },
+      {
+        "name": "Mr Troy Byrd",
+        "title": "General Manager"
+      },
+      {
+        "name": "Mr Bradley Acquaviva",
+        "title": "Regional Sales Manager"
+      },
+      {
+        "name": "Ms Trish Gawlowski",
+        "title": "Regional Sales Manager"
+      },
+      {
+        "name": "Ms Janice Cox",
+        "title": "Account Manager"
+      },
+      {
+        "name": "Ms Julia Young",
+        "title": "Account Manager"
+      },
+      {
+        "name": "Ms Alisha Pellegrini",
+        "title": "Account Implementation Specialist"
+      },
+      {
+        "name": "Cristen Brown",
+        "title": "Manager Operations"
+      },
+      {
+        "name": "Ms Kimberly Pellegrini",
+        "title": "Manager Operations"
+      },
+      {
+        "name": "Mr Gregory Alexus",
+        "title": "Investigative Analyst"
+      },
+      {
+        "name": "Ms Rachelle Sapp",
+        "title": "Investigative Analyst"
+      },
+      {
+        "name": "Ms Isabella Strickland",
+        "title": "Investigative Analyst"
+      }
+    ]
+  },
+  {
+    "name": "FORSK INC",
+    "state": "IL",
+    "year_incorporated": "2004",
+    "nace": "5829",
+    "employees": "20",
+    "revenue_usd": 2340000,
+    "pl_before_tax": null,
+    "total_assets": null,
+    "equity": null,
+    "website": "www.forsk.com",
+    "description": null,
+    "contacts": [
+      {
+        "name": "Mr Benoit Philippe Guy",
+        "title": "Chief Executive Officer"
+      },
+      {
+        "name": "Mr Bruno Ollivaud",
+        "title": "Owner"
+      },
+      {
+        "name": "Mr Nicolas Dubois",
+        "title": "Vice President"
+      },
+      {
+        "name": "Mr Rodriguez Roman",
+        "title": "Area Sales Manager"
+      },
+      {
+        "name": "Mr Bertrand Busnardo",
+        "title": "Sales Staff"
+      },
+      {
+        "name": "Mr Michael Dial",
+        "title": "Technical Account Manager"
+      },
+      {
+        "name": "Mr Ihab Semmar",
+        "title": "Technical Account Manager"
+      },
+      {
+        "name": "Mr Cedric Stofft",
+        "title": "Technical Director"
+      },
+      {
+        "name": "Mr Pascal Hoarau",
+        "title": "Senior System Engineer"
+      }
+    ]
+  },
+  {
+    "name": "MIZE SOFTWARE, INC.",
+    "state": "FL",
+    "year_incorporated": "2012",
+    "nace": "5829",
+    "employees": "150",
+    "revenue_usd": 2340000,
+    "pl_before_tax": null,
+    "total_assets": null,
+    "equity": null,
+    "website": "www.m-ize.com",
+    "description": "Designs and develops warranty and service contract management applications",
+    "contacts": [
+      {
+        "name": "Mr Ashok Kartham",
+        "title": "Founder, Chief Executive Officer"
+      },
+      {
+        "name": "Ms Anu Radha Kartham",
+        "title": "Secretary"
+      },
+      {
+        "name": "Mr Bruce Burke",
+        "title": "Chief Marketing Officer"
+      },
+      {
+        "name": "Mr Kishore Vutukuri",
+        "title": "Technology Lead"
+      },
+      {
+        "name": "Mr Eric Marlan",
+        "title": "Senior Product Manager"
+      },
+      {
+        "name": "Mr Andrew Thomas",
+        "title": "Product Manager & Design Manager"
+      },
+      {
+        "name": "Mr Stuart Ransom",
+        "title": "Chief Revenue Officer"
+      }
+    ]
+  },
+  {
+    "name": "QGIV INC",
+    "state": "FL",
+    "year_incorporated": "2012",
+    "nace": "5829",
+    "employees": "14",
+    "revenue_usd": 2340000,
+    "pl_before_tax": null,
+    "total_assets": null,
+    "equity": null,
+    "website": "bloomerang.co",
+    "description": "Fundraising platform operator",
+    "contacts": [
+      {
+        "name": "Mr Dennis Fois",
+        "title": "Chief Executive Officer"
+      },
+      {
+        "name": "Mr Stephen Isom JR",
+        "title": "Chief Financial Officer"
+      },
+      {
+        "name": "Mr Peter Rudden",
+        "title": "Director of Marketing"
+      },
+      {
+        "name": "Mr Aaron Liford",
+        "title": "Account Executive"
+      },
+      {
+        "name": "Mr Christopher Polizzi",
+        "title": "Account Executive"
+      },
+      {
+        "name": "Bailey Ferguson",
+        "title": "Customer Experience Specialist"
+      },
+      {
+        "name": "Mr Tommy Vacek",
+        "title": "CTO"
+      },
+      {
+        "name": "Mr William Ross Hendrickson III",
+        "title": "Officer"
+      },
+      {
+        "name": "Ms Sonia Clark",
+        "title": "Member"
+      },
+      {
+        "name": "Ms Angela Ostrander",
+        "title": "Member"
+      }
+    ]
+  },
+  {
+    "name": "TREASURE GLOBAL INC",
+    "state": "NY",
+    "year_incorporated": "2020",
+    "nace": "5829",
+    "employees": "12",
+    "revenue_usd": 2330560,
+    "pl_before_tax": -23028000,
+    "total_assets": 14873150,
+    "equity": 10743730,
+    "website": "www.treasureglobal.co",
+    "description": "Treasure Global Inc. is a holding company. The Company, through its wholly owned subsidiary, ZCity Sdn Bhd (ZCITY), engages in the payment processing industry and operates an online-to-offline (O2O) e-commerce platform known as ZCITY. The Company has business interests in creating an O2O e-commerce platform with an instant rebate and affiliate cashback program business model, focusing on providing a seamless payment solution and capitalizing on big data using artificial intelligence technology. The Company's product is an Internet application (app) called ZCITY App. ZCITY App drives user app download and transactions by providing instant rebate and cashback. The ZCITY App targets consumers through the provision of personalized deals based on consumers' purchase history, location and preferences. Its technology platform allows it to identify the spending trends of its customers.",
+    "contacts": [
+      {
+        "name": "Mr Marco Baccanello",
+        "title": "Director (Board of Directors)"
+      },
+      {
+        "name": "Mr Marco Baccanello",
+        "title": "Chairman (Audit Committee)"
+      },
+      {
+        "name": "Mr Marco Baccanello",
+        "title": "Member (Compensation Committee)"
+      },
+      {
+        "name": "Mr Marco Baccanello",
+        "title": "Member (Nominating and Corporate Governance Committee)"
+      },
+      {
+        "name": "Mr Joseph R. Banks",
+        "title": "Director (Board of Directors)"
+      },
+      {
+        "name": "Mr Joseph R. Banks",
+        "title": "Member (Audit Committee)"
+      },
+      {
+        "name": "Mr Joseph R. Banks",
+        "title": "Chairman (Compensation Committee)"
+      },
+      {
+        "name": "Mr Joseph R. Banks",
+        "title": "Member (Nominating and Corporate Governance Committee)"
+      },
+      {
+        "name": "Ms Yi Hui Ho",
+        "title": "Executive Director (Board of Directors)"
+      },
+      {
+        "name": "Mr Chan Wai Kuan",
+        "title": "Independent Director"
+      },
+      {
+        "name": "Wei Ping Leong",
+        "title": "Independent Director"
+      },
+      {
+        "name": "Ms Nurfatin Binti Mufti",
+        "title": "Independent Director"
+      },
+      {
+        "name": "Mr Jeremy Peter Roberts",
+        "title": "Director (Board of Directors)"
+      },
+      {
+        "name": "Mr Jeremy Peter Roberts",
+        "title": "Member (Audit Committee)"
+      },
+      {
+        "name": "Mr Jeremy Peter Roberts",
+        "title": "Member (Compensation Committee)"
+      },
+      {
+        "name": "Mr Jeremy Peter Roberts",
+        "title": "Chairman (Nominating and Corporate Governance Committee)"
+      },
+      {
+        "name": "Kok Pin Tan",
+        "title": "Independent Director"
+      },
+      {
+        "name": "Mr Chong Chan Teo",
+        "title": "Director (Board of Directors)"
+      },
+      {
+        "name": "Mr Chong Chan Teo",
+        "title": "Member (Leadership Team)"
+      },
+      {
+        "name": "Mr Chong Chan Teo",
+        "title": "Chief Executive Officer"
+      },
+      {
+        "name": "Mr Chong Chan Teo",
+        "title": "Executive Director"
+      },
+      {
+        "name": "Carlson Thow",
+        "title": "Chief Executive Officer, Executive Director"
+      },
+      {
+        "name": "Mr Meng Chun Chan",
+        "title": "Member (Leadership Team)"
+      },
+      {
+        "name": "Mr Meng Chun Chan",
+        "title": "Executive Director"
+      },
+      {
+        "name": "Mr Meng Chun Chan",
+        "title": "Chief Financial Officer"
+      },
+      {
+        "name": "Ms Su Chen Chuah",
+        "title": "Member (Leadership Team)"
+      },
+      {
+        "name": "Ms Su Chen Chuah",
+        "title": "Chief Operating Officer"
+      },
+      {
+        "name": "Ms Su Huay Chuah",
+        "title": "Member (Leadership Team)"
+      },
+      {
+        "name": "Ms Su Huay Chuah",
+        "title": "Chief Marketing Officer"
+      },
+      {
+        "name": "Mr Jau Long Ooi",
+        "title": "Member (Leadership Team)"
+      },
+      {
+        "name": "Mr Jau Long Ooi",
+        "title": "Vice President"
+      },
+      {
+        "name": "Mr Marco Baccanello",
+        "title": "Independent Director"
+      },
+      {
+        "name": "Mr Joseph R. Banks",
+        "title": "Independent Director"
+      },
+      {
+        "name": "Ms Yi Hui Ho",
+        "title": "Executive Director"
+      },
+      {
+        "name": "Mr Chan Wai Kuan",
+        "title": "Director"
+      },
+      {
+        "name": "Mr Anand Radhakrishnan",
+        "title": "Independent Director"
+      },
+      {
+        "name": "Mr Jeremy Peter Roberts",
+        "title": "Independent Director"
+      },
+      {
+        "name": "Kok Pin Tan",
+        "title": "Non-Executive Director"
+      },
+      {
+        "name": "Mr Chong Chan Teo",
+        "title": "Chief Executive Officer, Director"
+      },
+      {
+        "name": "Carlson Thow",
+        "title": "Chief Executive Officer, Executive Director"
+      },
+      {
+        "name": "Carlson Thow",
+        "title": "Chief Executive Officer"
+      },
+      {
+        "name": "Mr Meng Chun Chan",
+        "title": "Chief Financial Officer, Principal Financial Officer, Principal Accounting Officer"
+      },
+      {
+        "name": "Ms Su Chen Chuah",
+        "title": "Chief Operating Officer"
+      },
+      {
+        "name": "Ms Su Huay Chuah",
+        "title": "Chief Marketing Officer"
+      },
+      {
+        "name": "Mr Jau Long Ooi",
+        "title": "Vice President"
+      },
+      {
+        "name": "Mr Voon Him Hoo",
+        "title": "Chairman of the Board, Managing Director"
+      },
+      {
+        "name": "Mr Yee Fei Chan",
+        "title": "Chief Financial Officer"
+      },
+      {
+        "name": "Ms See Wah Chan",
+        "title": "Chief Financial Officer"
+      },
+      {
+        "name": "Sook Lee Chin",
+        "title": "Chief Financial Officer"
+      },
+      {
+        "name": "Mr Chen Hoe Sam",
+        "title": "Chief Technology Officer"
+      },
+      {
+        "name": "Mr Chai Ching Loong",
+        "title": "Chief Operating Officer"
+      }
+    ]
+  },
+  {
+    "name": "TOWAMENSING TRAILS PROPERTY OWNE",
+    "state": "PA",
+    "year_incorporated": null,
+    "nace": "5829",
+    "employees": "11",
+    "revenue_usd": 2330000,
+    "pl_before_tax": null,
+    "total_assets": null,
+    "equity": null,
+    "website": "engage.goenumerate.com/s/towamensingtrails",
+    "description": null,
+    "contacts": []
+  },
+  {
+    "name": "DUCO ADVISORS, INC.",
+    "state": "CA",
+    "year_incorporated": "2016",
+    "nace": "5829",
+    "employees": "14",
+    "revenue_usd": 2330000,
+    "pl_before_tax": null,
+    "total_assets": null,
+    "equity": null,
+    "website": "www.ducoexperts.com",
+    "description": null,
+    "contacts": [
+      {
+        "name": "Ms Sidney Olinyk",
+        "title": "Chief Executive Officer"
+      },
+      {
+        "name": "Neema Basri",
+        "title": "Chief Operating Officer"
+      }
+    ]
+  },
+  {
+    "name": "SLICKEDIT INC",
+    "state": "NC",
+    "year_incorporated": "1988",
+    "nace": "5829",
+    "employees": "25",
+    "revenue_usd": 2320000,
+    "pl_before_tax": null,
+    "total_assets": null,
+    "equity": null,
+    "website": "www.slickedit.com",
+    "description": null,
+    "contacts": [
+      {
+        "name": "Mr Sean Irwin",
+        "title": "Senior Strategic Sales and Technical Manager - West US, Asia(APAC), India and Middle East Territory"
+      },
+      {
+        "name": "Ms Tonya Hershberger",
+        "title": "Director of Finance"
+      },
+      {
+        "name": "Mr Robin Bacher",
+        "title": "Sales and Account Manager"
+      },
+      {
+        "name": "Mr Joseph C Maurer",
+        "title": "CTO"
+      },
+      {
+        "name": "Ms Erica H. Boisvert",
+        "title": "P/COO"
+      },
+      {
+        "name": "Mr Jeff Szymczyk",
+        "title": "Senior Network Administrator"
+      },
+      {
+        "name": "Lee Baldwin",
+        "title": "Software Engineer"
+      }
+    ]
+  },
+  {
+    "name": "ALPHA THEORY LLC",
+    "state": "NC",
+    "year_incorporated": "2006",
+    "nace": "5829",
+    "employees": "25",
+    "revenue_usd": 2320000,
+    "pl_before_tax": null,
+    "total_assets": null,
+    "equity": null,
+    "website": "www.alphatheory.com",
+    "description": null,
+    "contacts": [
+      {
+        "name": "Mr Mike Guzek",
+        "title": "Chief Information Officer & Co-Founder"
+      },
+      {
+        "name": "Mr Thomas Martin",
+        "title": "Managing Director"
+      },
+      {
+        "name": "Ms Kamila Simon",
+        "title": "Executive Assistant"
+      },
+      {
+        "name": "Telitha Causey",
+        "title": "Vice President, Account Services"
+      },
+      {
+        "name": "Ms Emma Vosburg",
+        "title": "Client Services Manager"
+      },
+      {
+        "name": "Mr Justin Harris",
+        "title": "Data Scientist"
+      }
+    ]
+  },
+  {
+    "name": "ADAPT SOFTWARE APPLICATIONS, INC.",
+    "state": "CA",
+    "year_incorporated": "2001",
+    "nace": "5829",
+    "employees": "10",
+    "revenue_usd": 2315000,
+    "pl_before_tax": null,
+    "total_assets": null,
+    "equity": null,
+    "website": "adaptcrm.com",
+    "description": null,
+    "contacts": [
+      {
+        "name": "Mr Zeke Wildflower",
+        "title": "President"
+      },
+      {
+        "name": "Mr Dave Teper",
+        "title": "Manager-Business Development"
+      }
+    ]
+  },
+  {
+    "name": "STEVE BOYLE & ASSOCIATES INC",
+    "state": "OK",
+    "year_incorporated": null,
+    "nace": "5829",
+    "employees": "15",
+    "revenue_usd": 2310000,
+    "pl_before_tax": null,
+    "total_assets": null,
+    "equity": null,
+    "website": "www.sbainc.net",
+    "description": null,
+    "contacts": []
+  },
+  {
+    "name": "STRIKE GRAPH INC",
+    "state": "WA",
+    "year_incorporated": "2021",
+    "nace": "5829",
+    "employees": "40",
+    "revenue_usd": 2310000,
+    "pl_before_tax": null,
+    "total_assets": null,
+    "equity": null,
+    "website": "www.strikegraph.com",
+    "description": "Online compliance automation Software-as-a-Service (SaaS) provider",
+    "contacts": [
+      {
+        "name": "Mr Justin Beals",
+        "title": "President/Director/Secretary/Treasurer"
+      },
+      {
+        "name": "Mr Justin Beals",
+        "title": "Chief Financial Officer"
+      },
+      {
+        "name": "Mr Brian Bero",
+        "title": "Vice President"
+      },
+      {
+        "name": "Juliett Eck",
+        "title": "Chief Financial Officer"
+      },
+      {
+        "name": "Mr Sheward James",
+        "title": "Officer"
+      },
+      {
+        "name": "Ms Sally Moore",
+        "title": "Officer"
+      },
+      {
+        "name": "Micah Spieler Sandberg",
+        "title": "Officer"
+      },
+      {
+        "name": "Ms Hope Flannery Cochran",
+        "title": "Other"
+      },
+      {
+        "name": "Mr Alex Tong",
+        "title": "Other"
+      },
+      {
+        "name": "Mr Dave Unsworth",
+        "title": "Other"
+      }
+    ]
+  },
+  {
+    "name": "XENIAL",
+    "state": "PA",
+    "year_incorporated": null,
+    "nace": "5829",
+    "employees": "10",
+    "revenue_usd": 2300000,
+    "pl_before_tax": null,
+    "total_assets": null,
+    "equity": null,
+    "website": "www.xenial.ch",
+    "description": null,
+    "contacts": []
+  },
+  {
+    "name": "SERVARUSRM",
+    "state": "VA",
+    "year_incorporated": "2003",
+    "nace": "5829",
+    "employees": "68",
+    "revenue_usd": 2300000,
+    "pl_before_tax": null,
+    "total_assets": null,
+    "equity": null,
+    "website": "www.servarusrm.com",
+    "description": null,
+    "contacts": [
+      {
+        "name": "Mr Joseph M Zuccari",
+        "title": "President / Chief Operating Officer"
+      },
+      {
+        "name": "Mr Joseph M Zuccari",
+        "title": "Co-Founder, President & Chief Executive Officer; Shareholder"
+      },
+      {
+        "name": "Mr Art David Jemio",
+        "title": "Chief Financial Officer"
+      },
+      {
+        "name": "Ms Linda Skolnik",
+        "title": "Director of Benefits Administration"
+      },
+      {
+        "name": "Ms Teresa Ballantine",
+        "title": "Vice President, Operations"
+      }
+    ]
+  },
+  {
+    "name": "O MATIC SOFTWARE",
+    "state": "SC",
+    "year_incorporated": "2015",
+    "nace": "5829",
+    "employees": "90",
+    "revenue_usd": 2300000,
+    "pl_before_tax": null,
+    "total_assets": null,
+    "equity": null,
+    "website": "omaticsoftware.com",
+    "description": null,
+    "contacts": []
+  },
+  {
+    "name": "CONCENTRIC SOFTWARE",
+    "state": "CA",
+    "year_incorporated": null,
+    "nace": "5829",
+    "employees": "16",
+    "revenue_usd": 2300000,
+    "pl_before_tax": null,
+    "total_assets": null,
+    "equity": null,
+    "website": "www.centricsoftware.com",
+    "description": null,
+    "contacts": []
+  },
+  {
+    "name": "REVERBNATION PUBLISHING, LLC",
+    "state": "NC",
+    "year_incorporated": "2006",
+    "nace": "5829",
+    "employees": "61",
+    "revenue_usd": 2290000,
+    "pl_before_tax": null,
+    "total_assets": null,
+    "equity": null,
+    "website": "www.reverbnation.com",
+    "description": "Engaged in the provision of an online platform that provides tools and opportunities for musicians to manage their careers",
+    "contacts": [
+      {
+        "name": "Mr Robert Hubbard",
+        "title": "Chief Technology Officer, Co-Founder"
+      },
+      {
+        "name": "Mr Christopher Smith",
+        "title": "Chief Operating Officer / Chief Financial Officer"
+      },
+      {
+        "name": "Mr Dave Marcello",
+        "title": "Vice President Marketing"
+      },
+      {
+        "name": "Ms Shelly Weltz",
+        "title": "Marketing Executive"
+      },
+      {
+        "name": "Ms Marta Bugel",
+        "title": "Customer Experience/Quality Assurance Analyst"
+      },
+      {
+        "name": "Mr Brian Juranas",
+        "title": "Operations Agent"
+      },
+      {
+        "name": "Mr Matt Ferguson",
+        "title": "Quality Assurance Engineer"
+      },
+      {
+        "name": "Mr Ralph Haygood",
+        "title": "Data Science Developer"
+      }
+    ]
+  }
+]

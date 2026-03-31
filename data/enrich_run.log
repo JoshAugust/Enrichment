@@ -1,0 +1,27 @@
+=== Enrichment Runner v4 ===
+batch_size=5, timeout=600s, max=600
+
+--- Page 1: 50 leads | 3194 unenriched remaining ---
+  [1-5] Batch 1/10 (5 leads)... ✓ 469s — 5 ok, 0 fail
+  [6-10] Batch 2/10 (5 leads)... ✓ 471s — 5 ok, 0 fail
+  [11-15] Batch 3/10 (5 leads)... ✓ 402s — 5 ok, 0 fail
+  [16-20] Batch 4/10 (5 leads)... ✓ 361s — 5 ok, 0 fail
+  [21-25] Batch 5/10 (5 leads)... ✓ 359s — 5 ok, 0 fail
+  [26-30] Batch 6/10 (5 leads)... ✓ 405s — 5 ok, 0 fail
+  [31-35] Batch 7/10 (5 leads)... ✓ 374s — 5 ok, 0 fail
+  [36-40] Batch 8/10 (5 leads)... ✓ 356s — 5 ok, 0 fail
+  [41-45] Batch 9/10 (5 leads)... ✓ 385s — 5 ok, 0 fail
+  [46-50] Batch 10/10 (5 leads)... ✓ 462s — 5 ok, 0 fail
+  >>> Running totals: submitted=50, ok=50, fail=0
+
+--- Page 2: 50 leads | 3647 unenriched remaining ---
+  [51-55] Batch 1/10 (5 leads)... ✓ 346s — 5 ok, 0 fail
+  [56-60] Batch 2/10 (5 leads)... ✓ 358s — 5 ok, 0 fail
+  [61-65] Batch 3/10 (5 leads)... ✓ 354s — 5 ok, 0 fail
+  [66-70] Batch 4/10 (5 leads)... ✓ 360s — 5 ok, 0 fail
+  [71-75] Batch 5/10 (5 leads)... ✓ 356s — 5 ok, 0 fail
+  [76-80] Batch 6/10 (5 leads)... ✓ 346s — 5 ok, 0 fail
+  [81-85] Batch 7/10 (5 leads)... ✓ 310s — 5 ok, 0 fail
+  [86-90] Batch 8/10 (5 leads)... ✓ 294s — 5 ok, 0 fail
+  [91-95] Batch 9/10 (5 leads)... ✓ 294s — 5 ok, 0 fail
+  [96-100] Batch 10/10 (5 leads)... 

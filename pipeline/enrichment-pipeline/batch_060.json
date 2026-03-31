@@ -1,0 +1,983 @@
+[
+  {
+    "name": "GLOBAL IDS INC.",
+    "state": "NJ",
+    "year_incorporated": "2002",
+    "nace": "5829",
+    "employees": "19",
+    "revenue_usd": 3750000,
+    "pl_before_tax": null,
+    "total_assets": null,
+    "equity": null,
+    "website": "www.globalids.com",
+    "description": null,
+    "contacts": [
+      {
+        "name": "Ms Arka Mukherjee",
+        "title": "Executive Officer"
+      }
+    ]
+  },
+  {
+    "name": "APOLLO ENTERPRISE IMAGING CORP",
+    "state": "VA",
+    "year_incorporated": "1993",
+    "nace": "5829",
+    "employees": "18",
+    "revenue_usd": 3750000,
+    "pl_before_tax": null,
+    "total_assets": null,
+    "equity": null,
+    "website": "www.apolloei.com",
+    "description": null,
+    "contacts": [
+      {
+        "name": "Mr Thomas Campbell",
+        "title": "Vice President"
+      },
+      {
+        "name": "Mr Jeffrey Mabus",
+        "title": "Vice President"
+      },
+      {
+        "name": "Mr Jeffrey Mabus",
+        "title": "CTO"
+      },
+      {
+        "name": "Mr Kevin Stinson",
+        "title": "Executive Vice President, Sales"
+      },
+      {
+        "name": "Ms Lenore Williams",
+        "title": "Regional Director, Enterprise Sales"
+      },
+      {
+        "name": "Mr Josh Bullard",
+        "title": "Technical Support"
+      },
+      {
+        "name": "Mr James Conyers",
+        "title": "Chief Product Officer"
+      },
+      {
+        "name": "Ms Lisa Haas",
+        "title": "Corporate Services, Events, and Quality Manager"
+      },
+      {
+        "name": "Ms Agnes King",
+        "title": "Regional Director, Enterprise Solutions"
+      },
+      {
+        "name": "Mr Paul Hagerling",
+        "title": "Software Developer"
+      },
+      {
+        "name": "Mr Joshua Galper",
+        "title": "Officer"
+      },
+      {
+        "name": "Ms Beth Newburger",
+        "title": "Officer"
+      },
+      {
+        "name": "Mr Mark Newburger",
+        "title": "No specific function"
+      }
+    ]
+  },
+  {
+    "name": "VISTAAR INC.",
+    "state": "NJ",
+    "year_incorporated": "2005",
+    "nace": "5829",
+    "employees": "20",
+    "revenue_usd": 3750000,
+    "pl_before_tax": null,
+    "total_assets": null,
+    "equity": null,
+    "website": "www.vistaar.com",
+    "description": "Engaged in providing price performance management solutions",
+    "contacts": [
+      {
+        "name": "Sandeep Tungare",
+        "title": "Founder & Chief Executive Officer"
+      },
+      {
+        "name": "Mr Shekhar Iyer",
+        "title": "Managing Director"
+      },
+      {
+        "name": "Ms Bonnie Rogacki",
+        "title": "Senior Manager, Finance & Accounting"
+      },
+      {
+        "name": "Ms Julie Collins",
+        "title": "Accounting"
+      },
+      {
+        "name": "Ms Neha Pradhan",
+        "title": "Human Resources & Administration Coordinator"
+      },
+      {
+        "name": "Ms Debbie Mungenast",
+        "title": "Administrative Assistant"
+      },
+      {
+        "name": "Venky Subramanian",
+        "title": "Global Senior Vice President, Customer Success"
+      },
+      {
+        "name": "Mr Amitabh Patil",
+        "title": "Principal Technical Architect"
+      },
+      {
+        "name": "Mr Chaitali Kulkarni",
+        "title": "Member of Technical Staff"
+      },
+      {
+        "name": "Mr Samir Mehta",
+        "title": "Director of Product Management"
+      },
+      {
+        "name": "Mr Ravindra Chauhan",
+        "title": "Solution Architect"
+      },
+      {
+        "name": "Mr Ankur Kapur",
+        "title": "Associate Solution Architect"
+      },
+      {
+        "name": "Mr Shashank Misra",
+        "title": "Solution Consultant"
+      }
+    ]
+  },
+  {
+    "name": "INFINIX CORP",
+    "state": "NJ",
+    "year_incorporated": "1999",
+    "nace": "5829",
+    "employees": "30",
+    "revenue_usd": 3750000,
+    "pl_before_tax": null,
+    "total_assets": null,
+    "equity": null,
+    "website": "www.infinixcorp.com",
+    "description": null,
+    "contacts": []
+  },
+  {
+    "name": "EDU-MET INTERACTIVE SYSTEMS INC",
+    "state": "NJ",
+    "year_incorporated": "1989",
+    "nace": "5829",
+    "employees": "14",
+    "revenue_usd": 3750000,
+    "pl_before_tax": null,
+    "total_assets": null,
+    "equity": null,
+    "website": "www.edumet.com",
+    "description": null,
+    "contacts": []
+  },
+  {
+    "name": "SAWHNEY SYSTEMS INC",
+    "state": "NJ",
+    "year_incorporated": "1977",
+    "nace": "5829",
+    "employees": "12",
+    "revenue_usd": 3750000,
+    "pl_before_tax": null,
+    "total_assets": null,
+    "equity": null,
+    "website": "www.sawhney.com",
+    "description": null,
+    "contacts": []
+  },
+  {
+    "name": "PRINCIPIA PARTNERS LLC",
+    "state": "NJ",
+    "year_incorporated": null,
+    "nace": "5829",
+    "employees": "55",
+    "revenue_usd": 3750000,
+    "pl_before_tax": null,
+    "total_assets": null,
+    "equity": null,
+    "website": "www.ppllc.com",
+    "description": null,
+    "contacts": [
+      {
+        "name": "Ms Theresa Adams",
+        "title": "Owner, President & Chief Executive Officer"
+      }
+    ]
+  },
+  {
+    "name": "WALLWISHER, INC.",
+    "state": "CA",
+    "year_incorporated": "2018",
+    "nace": "5829",
+    "employees": "25",
+    "revenue_usd": 3750000,
+    "pl_before_tax": null,
+    "total_assets": null,
+    "equity": null,
+    "website": "padlet.com",
+    "description": null,
+    "contacts": [
+      {
+        "name": "Mr Nitesh Goel",
+        "title": "President"
+      }
+    ]
+  },
+  {
+    "name": "ISSUETRAK INC",
+    "state": "VA",
+    "year_incorporated": "1992",
+    "nace": "5829",
+    "employees": "36",
+    "revenue_usd": 3750000,
+    "pl_before_tax": null,
+    "total_assets": null,
+    "equity": null,
+    "website": "www.issuetrak.com",
+    "description": "IssueTrak, Inc. was founded in 1992 and is headquartered in Virginia Beach, VA. It is a software development firm. The firm specializes in custom tracking applications. It offers help desk, issue tracking, updates and upgrades, technical and process manag",
+    "contacts": [
+      {
+        "name": "Mr Dan Luhring",
+        "title": "Chief Executive Officer"
+      },
+      {
+        "name": "Mr Steve Anderson",
+        "title": "Co-Founder & Partner - Business Development; Shareholder"
+      },
+      {
+        "name": "Mr Henry G Luhring",
+        "title": "Shareholder; Co-Founder"
+      },
+      {
+        "name": "Mr Dan Flowers",
+        "title": "Director Technical Operations"
+      },
+      {
+        "name": "Mr Noel Lucas",
+        "title": "Director of Information Technology"
+      }
+    ]
+  },
+  {
+    "name": "BLACKSTRATUS, INC.",
+    "state": "NJ",
+    "year_incorporated": "2003",
+    "nace": "5829",
+    "employees": "41",
+    "revenue_usd": 3750000,
+    "pl_before_tax": null,
+    "total_assets": null,
+    "equity": null,
+    "website": "www.blackstratus.com",
+    "description": "BlackStratus, Inc. was founded in 1999 and is headquartered in Piscataway, NJ. It is a provider of enterprise solutions. The company offers managed logging, compliance automation, security business enablement, and supported technologies solutions. Its ser",
+    "contacts": [
+      {
+        "name": "Mr Dennis Cline",
+        "title": "Vice Chairman"
+      },
+      {
+        "name": "Mr Dennis Cline",
+        "title": "Executive Vice Chairman"
+      },
+      {
+        "name": "Mr Dale W Cline",
+        "title": "Chief Executive Officer"
+      },
+      {
+        "name": "Mr Roland Cloutier",
+        "title": "Chief Security Officer & Vice President"
+      },
+      {
+        "name": "Mr Alan King",
+        "title": "Business Development Manager"
+      },
+      {
+        "name": "Mr Tim Pazda",
+        "title": "Business Development Executive"
+      },
+      {
+        "name": "Mr Charles Storms",
+        "title": "Business Development Manager"
+      },
+      {
+        "name": "Ms Shelley Lamberta",
+        "title": "Director, Communications"
+      },
+      {
+        "name": "Mr Andrew Gleason",
+        "title": "Account Manager"
+      },
+      {
+        "name": "Mr Mohak Gandhi",
+        "title": "Technical Support Analyst"
+      },
+      {
+        "name": "Mr Terry Boazman",
+        "title": "General Manager of Europe, Middle East & Asia"
+      },
+      {
+        "name": "Mr Rich Murphy",
+        "title": "Vice President - Products"
+      },
+      {
+        "name": "Mr Charles Johnson",
+        "title": "Director - Security Operations Center-Stamford"
+      },
+      {
+        "name": "Mr Mark Miraglia",
+        "title": "Information Technology Director"
+      },
+      {
+        "name": "Mr Dilip Kumar",
+        "title": "Senior Software Engineer"
+      },
+      {
+        "name": "Mr Mike Maxwell",
+        "title": "Chief Security Officer"
+      },
+      {
+        "name": "Mr Philip Rugani",
+        "title": "Chief Revenue Officer"
+      }
+    ]
+  },
+  {
+    "name": "ORSYS CONSULTING INC",
+    "state": "PR",
+    "year_incorporated": "2022",
+    "nace": "5829",
+    "employees": "13",
+    "revenue_usd": 3740000,
+    "pl_before_tax": null,
+    "total_assets": null,
+    "equity": null,
+    "website": "www.orsyspr.com",
+    "description": null,
+    "contacts": []
+  },
+  {
+    "name": "SALES BOOMERANG, LLC",
+    "state": "MD",
+    "year_incorporated": "2023",
+    "nace": "5829",
+    "employees": "13",
+    "revenue_usd": 3740000,
+    "pl_before_tax": null,
+    "total_assets": null,
+    "equity": null,
+    "website": "trustengine.com/sales-boomerang",
+    "description": null,
+    "contacts": [
+      {
+        "name": "Mr Peter Koscielski",
+        "title": "Officer"
+      }
+    ]
+  },
+  {
+    "name": "NETAPHOR SOFTWARE INC.",
+    "state": "CA",
+    "year_incorporated": "1998",
+    "nace": "5829",
+    "employees": "11",
+    "revenue_usd": 3740000,
+    "pl_before_tax": null,
+    "total_assets": null,
+    "equity": null,
+    "website": "www.netaphor.com",
+    "description": "Printer asset management software developer",
+    "contacts": [
+      {
+        "name": "Mr Rakesh Mahajan",
+        "title": "President"
+      },
+      {
+        "name": "Mr Clint Forrester",
+        "title": "Integrations Developer"
+      }
+    ]
+  },
+  {
+    "name": "SHELFBOT CO",
+    "state": "WA",
+    "year_incorporated": "2017",
+    "nace": "5829",
+    "employees": "40",
+    "revenue_usd": 3730000,
+    "pl_before_tax": null,
+    "total_assets": null,
+    "equity": null,
+    "website": "www.shelfengine.com",
+    "description": "Intelligent forecasting and order automation system developer",
+    "contacts": [
+      {
+        "name": "Mr Kalb Stefan",
+        "title": "President"
+      },
+      {
+        "name": "Mr Kalb Stefan",
+        "title": "Chief Executive Officer (Chief Executive Officer)"
+      },
+      {
+        "name": "Mr Jordan Bede",
+        "title": "Treasurer"
+      },
+      {
+        "name": "Mr Oliver Brossman",
+        "title": "Treasurer"
+      },
+      {
+        "name": "Ms Deborah Alexander",
+        "title": "Chief Operating Officer"
+      },
+      {
+        "name": "Mr Ryan Conti",
+        "title": "Chief Operating Officer"
+      },
+      {
+        "name": "Ms Kane Mccord",
+        "title": "CRO"
+      },
+      {
+        "name": "Sophi Kim",
+        "title": "Other"
+      }
+    ]
+  },
+  {
+    "name": "COLLABORATIVE MIND LLC",
+    "state": "VA",
+    "year_incorporated": "2010",
+    "nace": "5829",
+    "employees": "20",
+    "revenue_usd": 3710000,
+    "pl_before_tax": null,
+    "total_assets": null,
+    "equity": null,
+    "website": "www.cmindllc.com",
+    "description": null,
+    "contacts": [
+      {
+        "name": "Kanakaraj Subramanian",
+        "title": "Co-Founder; Shareholder"
+      }
+    ]
+  },
+  {
+    "name": "ATOMIC SOFTWARE INC",
+    "state": "NY",
+    "year_incorporated": null,
+    "nace": "5829",
+    "employees": "17",
+    "revenue_usd": 3710000,
+    "pl_before_tax": null,
+    "total_assets": null,
+    "equity": null,
+    "website": "www.atomicshakespeare.com",
+    "description": null,
+    "contacts": []
+  },
+  {
+    "name": "ZEKIAH TECHNOLOGIES, INC.",
+    "state": "MD",
+    "year_incorporated": "1999",
+    "nace": "5829",
+    "employees": "28",
+    "revenue_usd": 3700000,
+    "pl_before_tax": null,
+    "total_assets": null,
+    "equity": null,
+    "website": "www.zekiah.com",
+    "description": "Software engineering, application development and information technology integration solutions developer",
+    "contacts": [
+      {
+        "name": "Ms Brianna Browning",
+        "title": "President"
+      },
+      {
+        "name": "Mr Daniel W Bowling",
+        "title": "Vice President"
+      },
+      {
+        "name": "Mr Daniel W Bowling",
+        "title": "No specific function"
+      },
+      {
+        "name": "Mr Bill Dollins",
+        "title": "Senior Vice President"
+      },
+      {
+        "name": "Mr Steve Kuiper",
+        "title": "Vice President"
+      },
+      {
+        "name": "Ms Tina Entzian",
+        "title": "Administrative Assistant"
+      },
+      {
+        "name": "Ms Pam Thompson",
+        "title": "Systems/Database/Web Admin/Software Engineer"
+      },
+      {
+        "name": "Mr Ransome Jaime",
+        "title": "Human Resources Specialist"
+      },
+      {
+        "name": "Mr Jesse Baldwin",
+        "title": "Senior Engineer"
+      },
+      {
+        "name": "Mr Steve Bowling",
+        "title": "President Officer"
+      },
+      {
+        "name": "Carolee Doughty",
+        "title": "GIS Analyst at ArdentMC"
+      },
+      {
+        "name": "Mr Michael M James",
+        "title": "No specific function"
+      }
+    ]
+  },
+  {
+    "name": "LOADSPRING SOLUTIONS, INC.",
+    "state": "MA",
+    "year_incorporated": "2000",
+    "nace": "5829",
+    "employees": "17",
+    "revenue_usd": 3700000,
+    "pl_before_tax": null,
+    "total_assets": null,
+    "equity": null,
+    "website": "www.loadspring.com",
+    "description": "Software and Other Prerecorded Compact Disc, Tape, and Record Reproducing",
+    "contacts": [
+      {
+        "name": "Ms Stacey Witt",
+        "title": "Executive Vice President Marketing, Board of Director"
+      },
+      {
+        "name": "Ms Stacey Witt",
+        "title": "Chief Marketing Officer"
+      },
+      {
+        "name": "Mr D Eric Leighton",
+        "title": "President & Chief Executive Officer"
+      },
+      {
+        "name": "Mr Tony Maciel",
+        "title": "Co-Founder & Senior Cloud Services Architect"
+      },
+      {
+        "name": "Al Marshall",
+        "title": "Executive Vice President"
+      },
+      {
+        "name": "Mr James A Smith",
+        "title": "Executive Vice President"
+      },
+      {
+        "name": "Mr James A Smith",
+        "title": "Clerk"
+      },
+      {
+        "name": "Mr Dean Edmundson",
+        "title": "Chief Strategy Officer"
+      },
+      {
+        "name": "Mr Steve Kokol",
+        "title": "Strategic Accounts Director"
+      },
+      {
+        "name": "Ms Rebecca Humphries",
+        "title": "Senior Accountant"
+      },
+      {
+        "name": "Ms Jolene Tate",
+        "title": "Financial Controller"
+      },
+      {
+        "name": "Ms Crystal Gosa",
+        "title": "Director of Human Resources"
+      },
+      {
+        "name": "Ms Becky Johnson",
+        "title": "Human Resources Coordinator"
+      },
+      {
+        "name": "Ms Becky Johnson",
+        "title": "Human Resources Specialist"
+      },
+      {
+        "name": "Ms Amy Schillizzi",
+        "title": "Senior Technical Talent Acquisition Specialist"
+      },
+      {
+        "name": "Mr Drew Senner",
+        "title": "Executive Vice President-Sales"
+      },
+      {
+        "name": "Ms Briana Beatty",
+        "title": "Marketing Manager"
+      },
+      {
+        "name": "Ms Whitney Humphrey",
+        "title": "Digital Marketing Specialist"
+      },
+      {
+        "name": "Mr Warren Krueger",
+        "title": "Executive Vice President - Customer Experience"
+      },
+      {
+        "name": "Mr Steve Faber",
+        "title": "Major Account Executive"
+      },
+      {
+        "name": "Mr Jake Campbell",
+        "title": "Enterprise Customer Manager"
+      },
+      {
+        "name": "Mr Allen Gigler",
+        "title": "Enterprise Customer Manager"
+      },
+      {
+        "name": "Mr Mike Bewley",
+        "title": "Customer Support Specialist"
+      },
+      {
+        "name": "Mr Cameron Vixie",
+        "title": "Executive Vice President - Engineering & Development; Chief Technology Officer"
+      },
+      {
+        "name": "Mr Alexander Vos",
+        "title": "Director Engineering & Technology - Delivery"
+      },
+      {
+        "name": "Mr Kyle Lauro",
+        "title": "Team Lead Datacenter Engineering Systems Engineer"
+      },
+      {
+        "name": "Ms Lisa Reith",
+        "title": "Database Technical Lead"
+      },
+      {
+        "name": "Mr Christopher Daharsh",
+        "title": "Project Manager"
+      },
+      {
+        "name": "Mr Jay Marotta",
+        "title": "Operations"
+      },
+      {
+        "name": "Mr Andy Bruder",
+        "title": "Software Systems Administrator"
+      },
+      {
+        "name": "Mr Alan Cheng",
+        "title": "Systems Administrator"
+      },
+      {
+        "name": "Mr Christian Cline",
+        "title": "System Administrator"
+      },
+      {
+        "name": "Mr David Finethy",
+        "title": "Systems Administrator"
+      },
+      {
+        "name": "Mr Kevin Mullaney",
+        "title": "Software Systems Administrator"
+      },
+      {
+        "name": "Mr Greg Sokolovsky",
+        "title": "Systems Administrator"
+      },
+      {
+        "name": "Mr Christopher Witt",
+        "title": "Software Systems Administrator"
+      },
+      {
+        "name": "Mr Peter Berndt",
+        "title": "Tier 3 Software Support Specialist"
+      },
+      {
+        "name": "Mr Chaz Bowman",
+        "title": "Network Engineer"
+      },
+      {
+        "name": "Mr Darrin Christy",
+        "title": "Software Support Specialist III"
+      },
+      {
+        "name": "Mr Michael Geehan",
+        "title": "Software Systems Engineer"
+      },
+      {
+        "name": "Mr Tyler Jutras",
+        "title": "Tier Software Support Specialist III"
+      },
+      {
+        "name": "Mr Larry Kamieniecki",
+        "title": "Software Systems Engineer"
+      },
+      {
+        "name": "Mr Tom Kisiel",
+        "title": "Network Engineer"
+      },
+      {
+        "name": "Mr Chris Love",
+        "title": "Software Support Specialist"
+      },
+      {
+        "name": "Mr Ryan Murphy",
+        "title": "Software Support Specialist"
+      },
+      {
+        "name": "Mr Alex Renteria",
+        "title": "Software Support Specialist"
+      },
+      {
+        "name": "Mr Brett Streeter",
+        "title": "Cloud Solutions Architect"
+      },
+      {
+        "name": "Mr William Sword",
+        "title": "Tier III Software Support Specialist"
+      },
+      {
+        "name": "Mr Henry Welch",
+        "title": "Internal Information Technology"
+      },
+      {
+        "name": "Ms Natasha Houston",
+        "title": "Collections Specialist"
+      },
+      {
+        "name": "Ms Kathleen Nightingale",
+        "title": "Executive Assistant to Chief Executive Officer"
+      }
+    ]
+  },
+  {
+    "name": "PERIMETER ESECURITY",
+    "state": "CT",
+    "year_incorporated": "1997",
+    "nace": "5829",
+    "employees": "360",
+    "revenue_usd": 3690000,
+    "pl_before_tax": null,
+    "total_assets": null,
+    "equity": null,
+    "website": "www.perimeterusa.com",
+    "description": "Engaged in the provision of enterprise-level information security, protection, and compliance services, including secure messaging, managed security, vulnerability management, and security consulting services",
+    "contacts": [
+      {
+        "name": "Mr Richard Steven Dobrow",
+        "title": "Chairman & Chief Executive Officer"
+      },
+      {
+        "name": "Mr Timothy Harvey",
+        "title": "Chief Executive Officer"
+      },
+      {
+        "name": "Mr John Viega",
+        "title": "Executive Vice President - Products, Strategy & Services"
+      },
+      {
+        "name": "Mr Randal Skipper",
+        "title": "Executive Vice President - Global Sales"
+      }
+    ]
+  },
+  {
+    "name": "PETROLEUM EXPERTS, INC.",
+    "state": "TX",
+    "year_incorporated": "1995",
+    "nace": "5829",
+    "employees": "10",
+    "revenue_usd": 3680000,
+    "pl_before_tax": null,
+    "total_assets": null,
+    "equity": null,
+    "website": "www.petex.com",
+    "description": null,
+    "contacts": [
+      {
+        "name": "Mr Abdelhamid Guedroudj",
+        "title": "Chairman"
+      },
+      {
+        "name": "Mr Abdelhamid Guedroudj",
+        "title": "Secretary, Director"
+      },
+      {
+        "name": "Mr Pieris Hadjipieris",
+        "title": "President"
+      },
+      {
+        "name": "Mr Matias Seijo",
+        "title": "President"
+      },
+      {
+        "name": "Mr Mark Deere",
+        "title": "Vice President"
+      },
+      {
+        "name": "Mr Hamid Geudroudj",
+        "title": "Vice President"
+      },
+      {
+        "name": "Ms Aida Rodriguez",
+        "title": "Agent"
+      },
+      {
+        "name": "Mr Michel Charton",
+        "title": "No specific function"
+      },
+      {
+        "name": "Ms Patricia Franta",
+        "title": "No specific function"
+      },
+      {
+        "name": "Ms Irene Pena",
+        "title": "No specific function"
+      }
+    ]
+  },
+  {
+    "name": "PROPELLER AERO INC",
+    "state": "CO",
+    "year_incorporated": "2017",
+    "nace": "5829",
+    "employees": "80",
+    "revenue_usd": 3680000,
+    "pl_before_tax": null,
+    "total_assets": null,
+    "equity": null,
+    "website": "www.propelleraero.com",
+    "description": "Sales office",
+    "contacts": [
+      {
+        "name": "Mr Rory San Miguel",
+        "title": "Chief Executive Officer"
+      },
+      {
+        "name": "Mr Rory San Miguel",
+        "title": "Officer"
+      },
+      {
+        "name": "Ryan Gilbane",
+        "title": "Business Development Executive"
+      },
+      {
+        "name": "Mr Jacob Mutchler Brown",
+        "title": "Officer"
+      },
+      {
+        "name": "Ms Margaret Farmakis",
+        "title": "Officer"
+      }
+    ]
+  },
+  {
+    "name": "REAL TIME MONITORS INC",
+    "state": "NV",
+    "year_incorporated": "1998",
+    "nace": "5829",
+    "employees": "11",
+    "revenue_usd": 3660000,
+    "pl_before_tax": null,
+    "total_assets": null,
+    "equity": null,
+    "website": "www.rtmi.com",
+    "description": null,
+    "contacts": [
+      {
+        "name": "Mr Tim Kness",
+        "title": "No specific function"
+      }
+    ]
+  },
+  {
+    "name": "CONDREY CO",
+    "state": "SC",
+    "year_incorporated": null,
+    "nace": "5829",
+    "employees": "10",
+    "revenue_usd": 3660000,
+    "pl_before_tax": null,
+    "total_assets": null,
+    "equity": null,
+    "website": "www.condreycorp.com",
+    "description": null,
+    "contacts": [
+      {
+        "name": "Mr Jason Clardy",
+        "title": "Sales Manager"
+      },
+      {
+        "name": "Ms Chelsea Allen",
+        "title": "Assistant Director of Marketing and Communications"
+      }
+    ]
+  },
+  {
+    "name": "IDEAGILITY",
+    "state": "OR",
+    "year_incorporated": "2008",
+    "nace": "5829",
+    "employees": "13",
+    "revenue_usd": 3660000,
+    "pl_before_tax": null,
+    "total_assets": null,
+    "equity": null,
+    "website": "www.ideagility.com",
+    "description": null,
+    "contacts": []
+  },
+  {
+    "name": "DIGITEK SOFTWARE, INC.",
+    "state": "OH",
+    "year_incorporated": "1994",
+    "nace": "5829",
+    "employees": "25",
+    "revenue_usd": 3660000,
+    "pl_before_tax": null,
+    "total_assets": null,
+    "equity": null,
+    "website": "www.digiteksoftware.com",
+    "description": null,
+    "contacts": [
+      {
+        "name": "Mr Chetan Prataprai Bhuta",
+        "title": "President"
+      },
+      {
+        "name": "Amogh R Kulkarni",
+        "title": "Senior Software Consultant"
+      },
+      {
+        "name": "Mr Pankaj Oza",
+        "title": "Officer"
+      },
+      {
+        "name": "Ms Neha Shah",
+        "title": "Other"
+      },
+      {
+        "name": "Mr Pinar Yaman",
+        "title": "Other"
+      }
+    ]
+  }
+]

@@ -1,0 +1,784 @@
+[
+  {
+    "name": "YELLOW FOLDER, LLC",
+    "state": "TX",
+    "year_incorporated": "2013",
+    "nace": "5829",
+    "employees": "13",
+    "revenue_usd": 1940000,
+    "pl_before_tax": null,
+    "total_assets": null,
+    "equity": null,
+    "website": "www.yellowfolder.com",
+    "description": "Cloud-based K-12 schools record management system operator",
+    "contacts": []
+  },
+  {
+    "name": "VAROLII CORP",
+    "state": "WA",
+    "year_incorporated": "1999",
+    "nace": "5829",
+    "employees": "300",
+    "revenue_usd": 1932000,
+    "pl_before_tax": null,
+    "total_assets": null,
+    "equity": null,
+    "website": "www.par3.com",
+    "description": "Engaged in the provision of on-demand communication software and services principally in the United States",
+    "contacts": [
+      {
+        "name": "Mr Andrew Sidari",
+        "title": "Senior Sales Engineer"
+      },
+      {
+        "name": "Mr Jared Crawford",
+        "title": "Manager, Customer Support"
+      },
+      {
+        "name": "Mr Tim Fenster",
+        "title": "Director, Engineering"
+      },
+      {
+        "name": "Mr Aaron Whiteman",
+        "title": "Helpdesk Technical Support"
+      },
+      {
+        "name": "Ms Sandra Beauregard",
+        "title": "Partner Operations Manager"
+      },
+      {
+        "name": "Mr Anthony Lopercio",
+        "title": "Quality Assurance Engineer I"
+      },
+      {
+        "name": "Mr Ted Bizzarro",
+        "title": "Senior Systems Administrator"
+      },
+      {
+        "name": "Ms Heidi Desimone",
+        "title": "Revenue Manager"
+      }
+    ]
+  },
+  {
+    "name": "IMPARK",
+    "state": "WA",
+    "year_incorporated": "2010",
+    "nace": "5829",
+    "employees": "13",
+    "revenue_usd": 1930000,
+    "pl_before_tax": null,
+    "total_assets": null,
+    "equity": null,
+    "website": "www.youtown.com",
+    "description": null,
+    "contacts": [
+      {
+        "name": "Mr Harold Reyes",
+        "title": "General Manager"
+      },
+      {
+        "name": "Mr Ed Danyluk",
+        "title": "Senior Vice President"
+      },
+      {
+        "name": "Mr Leonard Carder",
+        "title": "Major Markets Chief Commercial Officer"
+      }
+    ]
+  },
+  {
+    "name": "CRATE CO",
+    "state": "GA",
+    "year_incorporated": null,
+    "nace": "5829",
+    "employees": "16",
+    "revenue_usd": 1930000,
+    "pl_before_tax": null,
+    "total_assets": null,
+    "equity": null,
+    "website": "www.crate.co",
+    "description": null,
+    "contacts": []
+  },
+  {
+    "name": "TELESIS, LLC",
+    "state": "CT",
+    "year_incorporated": "1997",
+    "nace": "5829",
+    "employees": "17",
+    "revenue_usd": 1930000,
+    "pl_before_tax": null,
+    "total_assets": null,
+    "equity": null,
+    "website": "www.telesisllc.com",
+    "description": null,
+    "contacts": []
+  },
+  {
+    "name": "COORDINATED TRANSPORTATION SOLUTIONS, INC.",
+    "state": "CT",
+    "year_incorporated": "1997",
+    "nace": "5829",
+    "employees": "18",
+    "revenue_usd": 1930000,
+    "pl_before_tax": null,
+    "total_assets": null,
+    "equity": null,
+    "website": "www.ctstransit.com",
+    "description": "Engaged in the provision of non-emergency medical transportation services",
+    "contacts": [
+      {
+        "name": "Mr William Mcdonald",
+        "title": "President"
+      },
+      {
+        "name": "Mr Miguel Mcinnis",
+        "title": "President"
+      },
+      {
+        "name": "Mr Raj Nagpal",
+        "title": "Chief Executive Officer"
+      },
+      {
+        "name": "Mr David L White",
+        "title": "Chief Executive Officer"
+      },
+      {
+        "name": "Ms Linda Marc",
+        "title": "Vice President"
+      },
+      {
+        "name": "Mr Edward Platt",
+        "title": "Vice President"
+      },
+      {
+        "name": "Mr Robert Koska",
+        "title": "Secretary"
+      },
+      {
+        "name": "Mr Stephen Martin",
+        "title": "Secretary"
+      },
+      {
+        "name": "Mr Christopher A Vazquez",
+        "title": "Business Development Manager"
+      },
+      {
+        "name": "Mr Reginald Rex Knowlton",
+        "title": "Treasurer"
+      },
+      {
+        "name": "Leyda Munoz",
+        "title": "Supervisor, Finance Operations"
+      },
+      {
+        "name": "Ms Patricia Wheeler",
+        "title": "Director of Talent Acquisition and Human Resources"
+      },
+      {
+        "name": "Ms Karen Zofcak",
+        "title": "Training Manager"
+      },
+      {
+        "name": "Mr Daniel Mina",
+        "title": "Senior Account Manager"
+      },
+      {
+        "name": "Mr Henry Pittman",
+        "title": "Officer"
+      },
+      {
+        "name": "Ms Diane Pivirotto",
+        "title": "Officer"
+      }
+    ]
+  },
+  {
+    "name": "BITTITAN, INC.",
+    "state": "WA",
+    "year_incorporated": "2017",
+    "nace": "5829",
+    "employees": "16",
+    "revenue_usd": 1930000,
+    "pl_before_tax": null,
+    "total_assets": null,
+    "equity": null,
+    "website": "www.bittitan.com",
+    "description": "Online emails and files migration Software-as-a-Service (SaaS) provider",
+    "contacts": [
+      {
+        "name": "Mr Randall Eric Jacops",
+        "title": "Chief Executive Officer"
+      },
+      {
+        "name": "Mr Geeman Yip",
+        "title": "Chief Executive Officer"
+      },
+      {
+        "name": "Ms Gabriela Bialoszewski",
+        "title": "Office Manager"
+      },
+      {
+        "name": "Ms Christine Gannon",
+        "title": "Senior Business Development Manager"
+      },
+      {
+        "name": "Ms Carly Magee",
+        "title": "Controller"
+      },
+      {
+        "name": "Mr Michal Bialoszewski",
+        "title": "Facilities Manager, Real Estate"
+      },
+      {
+        "name": "Ms Regina Breier",
+        "title": "Senior Human Resources Business Partner"
+      },
+      {
+        "name": "Ms Jennifer Marks",
+        "title": "Recruiting Associate"
+      },
+      {
+        "name": "Ms Kelsey Epps",
+        "title": "Senior Technical Sales Specialist"
+      },
+      {
+        "name": "Mr Evan Nelson",
+        "title": "Leads Sales Specialist"
+      },
+      {
+        "name": "Mr Pablo Sabugo",
+        "title": "Technical Sales Specialist"
+      },
+      {
+        "name": "Mr Timothy Huff",
+        "title": "Customer Success Engineer"
+      },
+      {
+        "name": "Mr Steve Magness",
+        "title": "Customer Success Engineer"
+      },
+      {
+        "name": "Mr Bjorn Bonholzer",
+        "title": "Learning & Development Partner"
+      },
+      {
+        "name": "Mr David Mills",
+        "title": "Director, Product Management"
+      },
+      {
+        "name": "Mr Shaun Malgarin",
+        "title": "Program Manager"
+      },
+      {
+        "name": "Ms Cynthia Randriamanohisoa",
+        "title": "Software Engineer"
+      },
+      {
+        "name": "Ms Anita Straupenieks",
+        "title": "Interim Controller"
+      }
+    ]
+  },
+  {
+    "name": "R4 TECHNOLOGIES LLC",
+    "state": "CT",
+    "year_incorporated": "2012",
+    "nace": "5829",
+    "employees": "30",
+    "revenue_usd": 1930000,
+    "pl_before_tax": null,
+    "total_assets": null,
+    "equity": null,
+    "website": "www.facebook.com/pages/r4-technologies/444053438983007",
+    "description": null,
+    "contacts": [
+      {
+        "name": "Mr Matt Ingebrigtsen",
+        "title": "Regional Vice President Sales"
+      },
+      {
+        "name": "Mr Scott Oertel",
+        "title": "Dev Operations Engineer"
+      }
+    ]
+  },
+  {
+    "name": "NUMBERS",
+    "state": "CA",
+    "year_incorporated": null,
+    "nace": "5829",
+    "employees": "12",
+    "revenue_usd": 1930000,
+    "pl_before_tax": null,
+    "total_assets": null,
+    "equity": null,
+    "website": "www.eznumbers.com",
+    "description": null,
+    "contacts": []
+  },
+  {
+    "name": "UNDEAD LABS LLC",
+    "state": "WA",
+    "year_incorporated": "2009",
+    "nace": "5829",
+    "employees": "130",
+    "revenue_usd": 1930000,
+    "pl_before_tax": null,
+    "total_assets": null,
+    "equity": null,
+    "website": "www.undeadlabs.com",
+    "description": "Video game developer",
+    "contacts": [
+      {
+        "name": "Mr Noel Thompson",
+        "title": "Operations Engineer"
+      },
+      {
+        "name": "Kerry Mccoy",
+        "title": "Quality Assurance"
+      },
+      {
+        "name": "JArgen TjernA",
+        "title": "Programmer"
+      }
+    ]
+  },
+  {
+    "name": "EDUCATIVE, INC.",
+    "state": "WA",
+    "year_incorporated": "2015",
+    "nace": "5829",
+    "employees": "25",
+    "revenue_usd": 1920000,
+    "pl_before_tax": null,
+    "total_assets": null,
+    "equity": null,
+    "website": "educative.io",
+    "description": "Online software development education interactive courses platform operator",
+    "contacts": [
+      {
+        "name": "Ms Jenny Fu",
+        "title": "No specific function"
+      },
+      {
+        "name": "Mian Fahim Haq",
+        "title": "Governor"
+      }
+    ]
+  },
+  {
+    "name": "BEECHGLEN DEVELOPMENT, INC.",
+    "state": "OH",
+    "year_incorporated": "2000",
+    "nace": "5829",
+    "employees": "20",
+    "revenue_usd": 1920000,
+    "pl_before_tax": null,
+    "total_assets": null,
+    "equity": null,
+    "website": "www.beechglen.com",
+    "description": null,
+    "contacts": [
+      {
+        "name": "Ms Mary Jo Hornsby",
+        "title": "Owner / President"
+      },
+      {
+        "name": "Mr Joe Hornsby",
+        "title": "Vice President Finance & Accounting"
+      },
+      {
+        "name": "Mr Doug Werth",
+        "title": "Director of Technical Support Services"
+      },
+      {
+        "name": "Mr Lance Mortenson",
+        "title": "Technical Support"
+      },
+      {
+        "name": "Mr Ed Stouder",
+        "title": "Software Support Representative."
+      },
+      {
+        "name": "Mr Drew Conroy",
+        "title": "Support Representative"
+      },
+      {
+        "name": "Ric Scheiner",
+        "title": "Support Engineer"
+      }
+    ]
+  },
+  {
+    "name": "KNOWLEDGE MEDIA, INC.",
+    "state": "CA",
+    "year_incorporated": null,
+    "nace": "5829",
+    "employees": "13",
+    "revenue_usd": 1900000,
+    "pl_before_tax": null,
+    "total_assets": null,
+    "equity": null,
+    "website": "www.knowledge-media.com",
+    "description": null,
+    "contacts": []
+  },
+  {
+    "name": "ACS SOFTWARE INC",
+    "state": "CA",
+    "year_incorporated": "1995",
+    "nace": "5829",
+    "employees": "17",
+    "revenue_usd": 1900000,
+    "pl_before_tax": null,
+    "total_assets": null,
+    "equity": null,
+    "website": "www.acssoftware.com",
+    "description": null,
+    "contacts": []
+  },
+  {
+    "name": "DEVEN SOFTWARE LLC",
+    "state": "VA",
+    "year_incorporated": "2016",
+    "nace": "5829",
+    "employees": "14",
+    "revenue_usd": 1900000,
+    "pl_before_tax": null,
+    "total_assets": null,
+    "equity": null,
+    "website": "www.devensoft.com",
+    "description": null,
+    "contacts": [
+      {
+        "name": "Mr David Jennings",
+        "title": "Sales Development"
+      },
+      {
+        "name": "Mr Thomas Bowen",
+        "title": "No specific function"
+      }
+    ]
+  },
+  {
+    "name": "EXECUTIVE TECHNOLOGY INC",
+    "state": "AZ",
+    "year_incorporated": "2008",
+    "nace": "5829",
+    "employees": "10",
+    "revenue_usd": 1890000,
+    "pl_before_tax": null,
+    "total_assets": null,
+    "equity": null,
+    "website": "www.executivetechnology.net",
+    "description": "Engaged in the provision of single source for end-to-end technology solutions",
+    "contacts": []
+  },
+  {
+    "name": "WEBFORCE, LLC",
+    "state": "TX",
+    "year_incorporated": "2015",
+    "nace": "5829",
+    "employees": "10",
+    "revenue_usd": 1880000,
+    "pl_before_tax": null,
+    "total_assets": null,
+    "equity": null,
+    "website": "www.webforcehq.com",
+    "description": null,
+    "contacts": [
+      {
+        "name": "Mr Carlos Lizaola",
+        "title": "Partner"
+      },
+      {
+        "name": "Mr Luis Madrid",
+        "title": "Partner"
+      }
+    ]
+  },
+  {
+    "name": "SIMPLICITY SOFTWARE LLC",
+    "state": "MO",
+    "year_incorporated": "2020",
+    "nace": "5829",
+    "employees": "16",
+    "revenue_usd": 1880000,
+    "pl_before_tax": null,
+    "total_assets": null,
+    "equity": null,
+    "website": "simplicitysoftwarellc.com",
+    "description": null,
+    "contacts": []
+  },
+  {
+    "name": "UNISON SYSTEMS INC",
+    "state": "CO",
+    "year_incorporated": "1997",
+    "nace": "5829",
+    "employees": "120",
+    "revenue_usd": 1875000,
+    "pl_before_tax": null,
+    "total_assets": null,
+    "equity": null,
+    "website": "unisonsystems.com",
+    "description": "Engaged in the provision of information technology and engineering resourcing services",
+    "contacts": [
+      {
+        "name": "Mr Lukas Hurst",
+        "title": "President"
+      },
+      {
+        "name": "Ms Amy Colonna",
+        "title": "Director, Recruiting Services"
+      },
+      {
+        "name": "Kristen Menzel",
+        "title": "Services Director, Recruiting"
+      },
+      {
+        "name": "Ms Amy Cecil",
+        "title": "Senior Account Executive"
+      },
+      {
+        "name": "Ms Claire Dundore",
+        "title": "Account Executive"
+      },
+      {
+        "name": "Ms Debbie Chrenen",
+        "title": "Director, Operations"
+      },
+      {
+        "name": "Ms Debbie Chrenen",
+        "title": "Information Technology Recruiter"
+      },
+      {
+        "name": "Ms Heidi Yahn",
+        "title": "Director, Consulting Services"
+      },
+      {
+        "name": "Ms Lucy Moss",
+        "title": "Manager, Consulting Services"
+      }
+    ]
+  },
+  {
+    "name": "HIVE STREAMING, INC.",
+    "state": "VA",
+    "year_incorporated": "2014",
+    "nace": "5829",
+    "employees": "11",
+    "revenue_usd": 1870000,
+    "pl_before_tax": null,
+    "total_assets": null,
+    "equity": null,
+    "website": "www.hivestreaming.com",
+    "description": null,
+    "contacts": [
+      {
+        "name": "Mr Niklas Hagen",
+        "title": "Chief Executive Officer"
+      },
+      {
+        "name": "Mr Per Johan Ljungberg",
+        "title": "President / Chief Executive Officer"
+      },
+      {
+        "name": "Mr George Richards",
+        "title": "Vice President"
+      },
+      {
+        "name": "Mr George Richards",
+        "title": "Secretary"
+      }
+    ]
+  },
+  {
+    "name": "BREATHOMETER INC",
+    "state": "CA",
+    "year_incorporated": "2012",
+    "nace": "5829",
+    "employees": "13",
+    "revenue_usd": 1867000,
+    "pl_before_tax": null,
+    "total_assets": null,
+    "equity": null,
+    "website": "www.breathometer.com",
+    "description": "Mobile breathalyser application developer",
+    "contacts": [
+      {
+        "name": "Mr Charles Michael Yim",
+        "title": "Founder & Chief Executive Officer; Shareholder"
+      },
+      {
+        "name": "Mr Michael Golomb",
+        "title": "Chief Financial Officer"
+      },
+      {
+        "name": "Mr Matt Sammons",
+        "title": "Vice President, Sales"
+      },
+      {
+        "name": "Mr Tim Ratto",
+        "title": "CTO"
+      },
+      {
+        "name": "Mr Larry Arne",
+        "title": "Senior Director - Hardware"
+      },
+      {
+        "name": "Val Valentine",
+        "title": "Director - Hardware Engineering"
+      },
+      {
+        "name": "Mr Joe Xue",
+        "title": "Engineering - Lead Mobile"
+      },
+      {
+        "name": "Mr Jonathan Gallagher",
+        "title": "Senior Engineering - Hardware"
+      },
+      {
+        "name": "Mr Kenton Ngo",
+        "title": "Engineering-Senior Project"
+      },
+      {
+        "name": "Mr Royal Wang",
+        "title": "Senior Engineering - R&D"
+      },
+      {
+        "name": "Mr Alex Yim",
+        "title": "Engineering - Web Software"
+      },
+      {
+        "name": "Mr Russ Harris",
+        "title": "Chief Operating Officer"
+      },
+      {
+        "name": "Mr Gary Kaplan",
+        "title": "Chief Operating Officer"
+      }
+    ]
+  },
+  {
+    "name": "STREET DILIGENCE INC",
+    "state": "NY",
+    "year_incorporated": "2016",
+    "nace": "5829",
+    "employees": "25",
+    "revenue_usd": 1860000,
+    "pl_before_tax": null,
+    "total_assets": null,
+    "equity": null,
+    "website": "www.streetdiligence.com",
+    "description": null,
+    "contacts": [
+      {
+        "name": "Mr David Weiner",
+        "title": "Vice President, Finance"
+      },
+      {
+        "name": "Ms Katelyn Robinson",
+        "title": "Director, Sales"
+      },
+      {
+        "name": "Mr Jarvis Sill",
+        "title": "Product Development Associate"
+      },
+      {
+        "name": "Mr Alex Williams",
+        "title": "Analyst, Product and Research"
+      },
+      {
+        "name": "Ms Rachel Nazhand",
+        "title": "Vice President, Operations"
+      }
+    ]
+  },
+  {
+    "name": "INTELLIGENT MOBILE SUPPORT INC",
+    "state": "OH",
+    "year_incorporated": "2012",
+    "nace": "5829",
+    "employees": "14",
+    "revenue_usd": 1860000,
+    "pl_before_tax": null,
+    "total_assets": null,
+    "equity": null,
+    "website": "www.imobilesupport.com",
+    "description": null,
+    "contacts": []
+  },
+  {
+    "name": "CLICKATELL, INC.",
+    "state": "CA",
+    "year_incorporated": "2005",
+    "nace": "5829",
+    "employees": "300",
+    "revenue_usd": 1860000,
+    "pl_before_tax": null,
+    "total_assets": null,
+    "equity": null,
+    "website": "www.clickatell.com",
+    "description": "Non classifiable establishment",
+    "contacts": [
+      {
+        "name": "Mr Michael Jordaan",
+        "title": "Chairman"
+      },
+      {
+        "name": "Mr Pieter De Villiers",
+        "title": "Shareholder; Co-Founder & Chief Executive Officer"
+      },
+      {
+        "name": "Mr Pieter De Villiers",
+        "title": "Secretary"
+      },
+      {
+        "name": "Mr Glen Braganza",
+        "title": "Chief Financial Officer"
+      },
+      {
+        "name": "Mr Nicholas Kwasi Pianim",
+        "title": "Director"
+      },
+      {
+        "name": "Ms Jasmine Chang",
+        "title": "No specific function"
+      }
+    ]
+  },
+  {
+    "name": "SOTA CLOUD CORPORATION",
+    "state": "CA",
+    "year_incorporated": "2023",
+    "nace": "5829",
+    "employees": "25",
+    "revenue_usd": 1860000,
+    "pl_before_tax": null,
+    "total_assets": null,
+    "equity": null,
+    "website": "www.sotaimaging.com",
+    "description": null,
+    "contacts": [
+      {
+        "name": "Mr Bum Suk Kim",
+        "title": "Chairperson of Board"
+      },
+      {
+        "name": "Mr William Hong",
+        "title": "Secretary"
+      },
+      {
+        "name": "Mr Albert Kim",
+        "title": "Chief Financial Officer"
+      },
+      {
+        "name": "Mr Darren Sun",
+        "title": "Chief Financial Officer"
+      }
+    ]
+  }
+]

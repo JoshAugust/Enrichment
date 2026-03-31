@@ -1,0 +1,100 @@
+[
+  {
+    "url": "/apollo-phone",
+    "headers": {
+      "host": "and-hours-dance-boxes.trycloudflare.com",
+      "user-agent": "Mechanize/2.8.1 Ruby/3.4.3p32 (http://github.com/sparklemotion/mechanize/)",
+      "content-length": "204",
+      "accept": "*/*",
+      "accept-charset": "ISO-8859-1,utf-8;q=0.7,*;q=0.7",
+      "accept-encoding": "gzip",
+      "accept-language": "en-us,en;q=0.5",
+      "baggage": "apollo_team=living-data,transaction=DirectDialFulfillmentWorker+process,messaging.destination=direct_dial_fulfillment",
+      "cdn-loop": "cloudflare; loops=1; subreqs=1",
+      "cf-connecting-ip": "34.69.98.230",
+      "cf-ew-via": "15",
+      "cf-ipcountry": "US",
+      "cf-ray": "9e4f5758754772eb-ORD",
+      "cf-visitor": "{\"scheme\":\"https\"}",
+      "cf-warp-tag-id": "42c5a8e5-007b-4f86-93be-60eb137a81fe",
+      "cf-worker": "trycloudflare.com",
+      "connection": "keep-alive",
+      "content-type": "application/json",
+      "sentry-trace": "8c6b2d96de124b6e8e45996c0fe43bac-23e8b89977304bf1",
+      "traceparent": "00-7924a796383b88946990f67ef8ee1cab-fa0d177b4fb1bfce-01",
+      "x-forwarded-for": "34.69.98.230",
+      "x-forwarded-proto": "https"
+    },
+    "body": {
+      "status": "success",
+      "total_requested_enrichments": 1,
+      "unique_enriched_records": 0,
+      "missing_records": 0,
+      "credits_consumed": 0,
+      "people": [
+        {
+          "id": "69cbbbb93fa30c000d01c4eb",
+          "status": "failure",
+          "phone_numbers": []
+        }
+      ]
+    },
+    "at": "2026-03-31T12:26:13.246Z"
+  },
+  {
+    "url": "/apollo-phone",
+    "headers": {
+      "host": "and-hours-dance-boxes.trycloudflare.com",
+      "user-agent": "Mechanize/2.8.1 Ruby/3.4.3p32 (http://github.com/sparklemotion/mechanize/)",
+      "content-length": "509",
+      "accept": "*/*",
+      "accept-charset": "ISO-8859-1,utf-8;q=0.7,*;q=0.7",
+      "accept-encoding": "gzip",
+      "accept-language": "en-us,en;q=0.5",
+      "baggage": "apollo_team=living-data,transaction=DirectDialFulfillmentWorker+process,messaging.destination=direct_dial_fulfillment",
+      "cdn-loop": "cloudflare; loops=1; subreqs=1",
+      "cf-connecting-ip": "34.66.246.54",
+      "cf-ew-via": "15",
+      "cf-ipcountry": "US",
+      "cf-ray": "9e4f5767a16250d9-SJC",
+      "cf-visitor": "{\"scheme\":\"https\"}",
+      "cf-warp-tag-id": "42c5a8e5-007b-4f86-93be-60eb137a81fe",
+      "cf-worker": "trycloudflare.com",
+      "connection": "keep-alive",
+      "content-type": "application/json",
+      "sentry-trace": "31c3d389dd3f488aa4252c56dd562fa3-da68d715a5dd4b77",
+      "traceparent": "00-0f47ea7793efac0b889c38a2f37027f5-64381e7c10414934-01",
+      "x-forwarded-for": "34.66.246.54",
+      "x-forwarded-proto": "https"
+    },
+    "body": {
+      "status": "success",
+      "total_requested_enrichments": 1,
+      "unique_enriched_records": 1,
+      "missing_records": 0,
+      "credits_consumed": 8,
+      "people": [
+        {
+          "id": "695f00aec694320001548e0b",
+          "status": "success",
+          "phone_numbers": [
+            {
+              "_id": "69b99d2d09edb50001abe284",
+              "confidence_cd": "high",
+              "dnc_other_info": null,
+              "dnc_status_cd": null,
+              "dnc_status_updated_at": null,
+              "raw_number": "+1 303-229-6261",
+              "sanitized_number": "+13032296261",
+              "status_cd": "valid_number",
+              "type_cd": "mobile",
+              "id": "69b99d2d09edb50001abe284",
+              "key": "69b99d2d09edb50001abe284"
+            }
+          ]
+        }
+      ]
+    },
+    "at": "2026-03-31T12:26:15.668Z"
+  }
+]

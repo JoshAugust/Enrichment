@@ -1,0 +1,702 @@
+[
+  {
+    "name": "ECRIO INC.",
+    "state": "CA",
+    "year_incorporated": "2000",
+    "nace": "5829",
+    "employees": "90",
+    "revenue_usd": 4950000,
+    "pl_before_tax": null,
+    "total_assets": null,
+    "equity": null,
+    "website": "www.ecrio.com",
+    "description": "Engaged in the provision of software solutions for LTE communication devices",
+    "contacts": [
+      {
+        "name": "Mr Michel Gannage",
+        "title": "President"
+      },
+      {
+        "name": "Mr Randy Granovetter",
+        "title": "President"
+      },
+      {
+        "name": "Mr Krishnakumar Narayanan",
+        "title": "Secretary"
+      }
+    ]
+  },
+  {
+    "name": "RADIX INCORPORATED",
+    "state": "CA",
+    "year_incorporated": null,
+    "nace": "5829",
+    "employees": "12",
+    "revenue_usd": 4950000,
+    "pl_before_tax": null,
+    "total_assets": null,
+    "equity": null,
+    "website": "radix.com",
+    "description": null,
+    "contacts": []
+  },
+  {
+    "name": "TIRIO LLC",
+    "state": "DE",
+    "year_incorporated": null,
+    "nace": "5829",
+    "employees": "10",
+    "revenue_usd": 4950000,
+    "pl_before_tax": null,
+    "total_assets": null,
+    "equity": null,
+    "website": "www.tirios.ai",
+    "description": null,
+    "contacts": []
+  },
+  {
+    "name": "THE TOR PROJECT INC",
+    "state": "WA",
+    "year_incorporated": "2006",
+    "nace": "5829",
+    "employees": "12",
+    "revenue_usd": 4930000,
+    "pl_before_tax": null,
+    "total_assets": null,
+    "equity": null,
+    "website": "www.torproject.org",
+    "description": null,
+    "contacts": [
+      {
+        "name": "Ms Susan Abt",
+        "title": "No specific function"
+      }
+    ]
+  },
+  {
+    "name": "MPULSE SOFTWARE, INC.",
+    "state": "OR",
+    "year_incorporated": null,
+    "nace": "5829",
+    "employees": "18",
+    "revenue_usd": 4930000,
+    "pl_before_tax": null,
+    "total_assets": null,
+    "equity": null,
+    "website": "www.mpulsesoftware.com",
+    "description": null,
+    "contacts": [
+      {
+        "name": "Mr James Douglas Mcfarlane",
+        "title": "Governor"
+      }
+    ]
+  },
+  {
+    "name": "SERVICE AUTOPILOT",
+    "state": "TX",
+    "year_incorporated": null,
+    "nace": "5829",
+    "employees": "10",
+    "revenue_usd": 4930000,
+    "pl_before_tax": null,
+    "total_assets": null,
+    "equity": null,
+    "website": "www.serviceautopilot.com",
+    "description": null,
+    "contacts": []
+  },
+  {
+    "name": "STRATEGIC RANGE SOLUTIONS LLC",
+    "state": "CO",
+    "year_incorporated": "2009",
+    "nace": "5829",
+    "employees": "12",
+    "revenue_usd": 4920000,
+    "pl_before_tax": null,
+    "total_assets": null,
+    "equity": null,
+    "website": "www.stratrng.com",
+    "description": "Operates as a consulting company",
+    "contacts": []
+  },
+  {
+    "name": "MIC SOFTWARE, LLC",
+    "state": "CA",
+    "year_incorporated": "2013",
+    "nace": "5829",
+    "employees": "10",
+    "revenue_usd": 4900000,
+    "pl_before_tax": null,
+    "total_assets": null,
+    "equity": null,
+    "website": "www.mic-software.net",
+    "description": null,
+    "contacts": [
+      {
+        "name": "Mr Michael Ajanaku",
+        "title": "Manager"
+      }
+    ]
+  },
+  {
+    "name": "INTERACTIVE ACHIEVEMENT LLC",
+    "state": "VA",
+    "year_incorporated": "2013",
+    "nace": "5829",
+    "employees": "40",
+    "revenue_usd": 4900000,
+    "pl_before_tax": null,
+    "total_assets": null,
+    "equity": null,
+    "website": "interactive-achievement-inc.hub.biz",
+    "description": "Educational performance measurement software developer",
+    "contacts": [
+      {
+        "name": "Mr Jonathan Hagmaier",
+        "title": "President"
+      },
+      {
+        "name": "Gibson Jacob",
+        "title": "Vice President"
+      }
+    ]
+  },
+  {
+    "name": "GYRODIMENSIONS INC",
+    "state": "CA",
+    "year_incorporated": "2004",
+    "nace": "5829",
+    "employees": "10",
+    "revenue_usd": 4880000,
+    "pl_before_tax": null,
+    "total_assets": null,
+    "equity": null,
+    "website": "www.areteem.org",
+    "description": null,
+    "contacts": [
+      {
+        "name": "K F Wang",
+        "title": "Executive Vice President"
+      },
+      {
+        "name": "Kelly Ren",
+        "title": "Officer"
+      }
+    ]
+  },
+  {
+    "name": "BIRDDOG SOFTWARE",
+    "state": "OK",
+    "year_incorporated": "2006",
+    "nace": "5829",
+    "employees": "15",
+    "revenue_usd": 4880000,
+    "pl_before_tax": null,
+    "total_assets": null,
+    "equity": null,
+    "website": "www.birddogsw.com",
+    "description": null,
+    "contacts": [
+      {
+        "name": "Mr Robin Zwirtz",
+        "title": "President"
+      },
+      {
+        "name": "Mr Alexander Zwirtz",
+        "title": "Accounting Specialist."
+      },
+      {
+        "name": "Ms Alisha Zwirtz",
+        "title": "Vice President Sales"
+      },
+      {
+        "name": "Sonda Wilson",
+        "title": "Principal Technical Writer"
+      },
+      {
+        "name": "Mr Jeremiah Gallagher",
+        "title": "Tech. Support, Quality Assurance, Implementation Specialist"
+      },
+      {
+        "name": "Mr Jim Linger",
+        "title": "Technical Support Specialist"
+      },
+      {
+        "name": "Mr Greg Chamblee",
+        "title": "Project Manager"
+      },
+      {
+        "name": "Lj Stephens",
+        "title": "Project Manager"
+      },
+      {
+        "name": "Mr Xavier Zwirtz",
+        "title": "Programmer"
+      },
+      {
+        "name": "Mr Matthew Graham",
+        "title": "Developer"
+      },
+      {
+        "name": "Mr Robin Zwirtz",
+        "title": "Agent"
+      }
+    ]
+  },
+  {
+    "name": "DATA443 RISK MITIGATION, INC.",
+    "state": "NC",
+    "year_incorporated": "2017",
+    "nace": "5829",
+    "employees": "19",
+    "revenue_usd": 4872000,
+    "pl_before_tax": null,
+    "total_assets": null,
+    "equity": null,
+    "website": "data443.com",
+    "description": null,
+    "contacts": [
+      {
+        "name": "Mr Jason Remillard",
+        "title": "Chairman & Chief Executive Officer"
+      },
+      {
+        "name": "Mr Jason Remillard",
+        "title": "Chairman of the Board"
+      },
+      {
+        "name": "Mr Jason Remillard",
+        "title": "Founder & Chief Executive Officer; Shareholder (Minority)"
+      },
+      {
+        "name": "Mr Gregory Mccraw",
+        "title": "Chief Financial Officer"
+      },
+      {
+        "name": "Ms Terha Lennon",
+        "title": "Sales Development Representative (LDSR)"
+      },
+      {
+        "name": "Ms Pamela Maher",
+        "title": "Chief Legal Officer"
+      },
+      {
+        "name": "Mr Bennett Pursell",
+        "title": "CTO"
+      },
+      {
+        "name": "Ms Heather Hartman",
+        "title": "Head of Operations"
+      },
+      {
+        "name": "Mr Robert Mercer",
+        "title": "Chief Revenue Officer"
+      },
+      {
+        "name": "Mr Dieter Orlowski",
+        "title": "Chief Revenue Officer"
+      },
+      {
+        "name": "Ms Brenda Y Estanislau",
+        "title": "No specific function"
+      }
+    ]
+  },
+  {
+    "name": "GROUNDBREAKING DESIGNS LLC",
+    "state": "MD",
+    "year_incorporated": "2016",
+    "nace": "5829",
+    "employees": "25",
+    "revenue_usd": 4820000,
+    "pl_before_tax": null,
+    "total_assets": null,
+    "equity": null,
+    "website": "www.teamgantt.com",
+    "description": null,
+    "contacts": [
+      {
+        "name": "Mr Nathan Gilmore",
+        "title": "No specific function"
+      }
+    ]
+  },
+  {
+    "name": "HAPTIQ, LLC",
+    "state": "NC",
+    "year_incorporated": "2012",
+    "nace": "5829",
+    "employees": "10",
+    "revenue_usd": 4810000,
+    "pl_before_tax": null,
+    "total_assets": null,
+    "equity": null,
+    "website": "www.webonise.com",
+    "description": "Software developer ; Intelligent Automation (IA) consulting services ; Cyber security services",
+    "contacts": [
+      {
+        "name": "Mr William C",
+        "title": "Manager"
+      },
+      {
+        "name": "Mr Nayan Deshmukh",
+        "title": "Member"
+      },
+      {
+        "name": "Mr Croft Robert Dii",
+        "title": "Member"
+      },
+      {
+        "name": "Mr Robert E Katz",
+        "title": "Member"
+      },
+      {
+        "name": "Mr Bhuvan Khanna",
+        "title": "Member"
+      },
+      {
+        "name": "Mr Shardul Mohite",
+        "title": "Member"
+      },
+      {
+        "name": "Ms Rodenbaugh Rhonda S",
+        "title": "Member"
+      },
+      {
+        "name": "Mishra Saurav",
+        "title": "Member"
+      },
+      {
+        "name": "Mr Swapnil Vathare",
+        "title": "Member"
+      },
+      {
+        "name": "Mr Kumbhar Vijay",
+        "title": "Member"
+      },
+      {
+        "name": "Mr Parihar Vivek",
+        "title": "Member"
+      }
+    ]
+  },
+  {
+    "name": "SURESWIFT WORLDWIDE INC",
+    "state": "MN",
+    "year_incorporated": "2018",
+    "nace": "5829",
+    "employees": "25",
+    "revenue_usd": 4800000,
+    "pl_before_tax": null,
+    "total_assets": null,
+    "equity": null,
+    "website": "www.helpteaching.com",
+    "description": null,
+    "contacts": [
+      {
+        "name": "Mr Donald Wharton",
+        "title": "Chairman of the Board"
+      },
+      {
+        "name": "Mr Donald Wharton",
+        "title": "Officer"
+      },
+      {
+        "name": "Mr Degreef James",
+        "title": "Chief Executive Officer"
+      },
+      {
+        "name": "Mr Kevin Mcardle",
+        "title": "President"
+      },
+      {
+        "name": "Mr Jared Huff",
+        "title": "Secretary"
+      },
+      {
+        "name": "Mr Jared Huff",
+        "title": "Chief Financial Officer"
+      },
+      {
+        "name": "Mr Moore Paul",
+        "title": "Secretary"
+      },
+      {
+        "name": "Mr Moore Paul",
+        "title": "Chief Financial Officer"
+      }
+    ]
+  },
+  {
+    "name": "VERTICAL APPLICATIONS INC",
+    "state": "VA",
+    "year_incorporated": "2011",
+    "nace": "5829",
+    "employees": "25",
+    "revenue_usd": 4780000,
+    "pl_before_tax": null,
+    "total_assets": null,
+    "equity": null,
+    "website": "www.mindpetal.com",
+    "description": "Vertical Applications, Inc. is headquartered in Ashburn, VA. The company specializes in administrative management and general management consulting services.",
+    "contacts": [
+      {
+        "name": "Mr Michael Agrillo",
+        "title": "President"
+      },
+      {
+        "name": "Ms Sony George",
+        "title": "Chief Executive Officer"
+      },
+      {
+        "name": "Mr Josiah Cushing",
+        "title": "Vice President"
+      },
+      {
+        "name": "Mr Shankar Pillai",
+        "title": "Senior Vice President"
+      },
+      {
+        "name": "Mr Paul Grace",
+        "title": "Chief Financial Officer"
+      },
+      {
+        "name": "Ms Mukta Noori",
+        "title": "Human Resources Executive"
+      },
+      {
+        "name": "Mr William Choi",
+        "title": "Chief Operating Officer"
+      },
+      {
+        "name": "Mr Michael Grace",
+        "title": "Senior Vice President - Program Delivery"
+      },
+      {
+        "name": "Mr Sam Gupta",
+        "title": "Director-Forms Delivery"
+      },
+      {
+        "name": "Mr William Wilkey",
+        "title": "Senior Director"
+      },
+      {
+        "name": "Ms Usha Cheriathundam",
+        "title": "Vice President Finance &AM"
+      }
+    ]
+  },
+  {
+    "name": "ANALYZEDIRECT, INC.",
+    "state": "KS",
+    "year_incorporated": "1999",
+    "nace": "5829",
+    "employees": "10",
+    "revenue_usd": 4750000,
+    "pl_before_tax": null,
+    "total_assets": null,
+    "equity": null,
+    "website": "www.analyzedirect.com",
+    "description": "Sales Office",
+    "contacts": [
+      {
+        "name": "Mr Stuart T Jackson",
+        "title": "Owner"
+      },
+      {
+        "name": "Mr Stuart T Jackson",
+        "title": "Dr."
+      }
+    ]
+  },
+  {
+    "name": "BIRD BUDDY INC.",
+    "state": "MI",
+    "year_incorporated": "2020",
+    "nace": "5829",
+    "employees": "13",
+    "revenue_usd": 4730000,
+    "pl_before_tax": null,
+    "total_assets": null,
+    "equity": null,
+    "website": "mybirdbuddy.com",
+    "description": "Other",
+    "contacts": [
+      {
+        "name": "Mr Franci Zidar",
+        "title": "Chief Executive Officer"
+      },
+      {
+        "name": "Mr Frank James Abbott",
+        "title": "Officer"
+      }
+    ]
+  },
+  {
+    "name": "KASEYA DEVELOPMENT",
+    "state": "FL",
+    "year_incorporated": null,
+    "nace": "5829",
+    "employees": "13",
+    "revenue_usd": 4730000,
+    "pl_before_tax": null,
+    "total_assets": null,
+    "equity": null,
+    "website": "www.kaseya.com",
+    "description": null,
+    "contacts": []
+  },
+  {
+    "name": "A3 SOLUTIONS INC",
+    "state": "CA",
+    "year_incorporated": "2000",
+    "nace": "5829",
+    "employees": "25",
+    "revenue_usd": 4710000,
+    "pl_before_tax": null,
+    "total_assets": null,
+    "equity": null,
+    "website": "www.a3solutions.com",
+    "description": null,
+    "contacts": [
+      {
+        "name": "Mr Jack Lautt",
+        "title": "Chairman, Chief Executive Officer and Chief Technology Officer"
+      },
+      {
+        "name": "Mr Rob Lautt",
+        "title": "Chief Executive Officer, Founder"
+      },
+      {
+        "name": "Mr Stuart Ratner",
+        "title": "Vice President, Sales"
+      }
+    ]
+  },
+  {
+    "name": "HERTZA L.L.C.",
+    "state": "CA",
+    "year_incorporated": null,
+    "nace": "5829",
+    "employees": "11",
+    "revenue_usd": 4710000,
+    "pl_before_tax": null,
+    "total_assets": null,
+    "equity": null,
+    "website": "www.zerobounce.net",
+    "description": null,
+    "contacts": []
+  },
+  {
+    "name": "PONGO RESUME",
+    "state": "MA",
+    "year_incorporated": null,
+    "nace": "5829",
+    "employees": "18",
+    "revenue_usd": 4700000,
+    "pl_before_tax": null,
+    "total_assets": null,
+    "equity": null,
+    "website": "www.pongo.com",
+    "description": null,
+    "contacts": [
+      {
+        "name": "Mr Rodney Capron JR",
+        "title": "President & Chief Executive Officer"
+      }
+    ]
+  },
+  {
+    "name": "STORMSOURCE SOFTWARE INC",
+    "state": "AZ",
+    "year_incorporated": "2001",
+    "nace": "5829",
+    "employees": "60",
+    "revenue_usd": 4700000,
+    "pl_before_tax": null,
+    "total_assets": null,
+    "equity": null,
+    "website": "www.appointment-plus.com",
+    "description": null,
+    "contacts": [
+      {
+        "name": "Chrissy Devivo",
+        "title": "Training Manager"
+      },
+      {
+        "name": "Mr Aaron Barkman",
+        "title": "Sales Representative"
+      },
+      {
+        "name": "Ms Jessica Watts",
+        "title": "Small Business Sales Consultant"
+      },
+      {
+        "name": "Mr Joseph Fischer",
+        "title": "Application Engineer"
+      }
+    ]
+  },
+  {
+    "name": "PTG INTERNATIONAL, INC",
+    "state": "MD",
+    "year_incorporated": "2020",
+    "nace": "5829",
+    "employees": "14",
+    "revenue_usd": 4700000,
+    "pl_before_tax": null,
+    "total_assets": null,
+    "equity": null,
+    "website": "www.ptg-intl.com",
+    "description": "Engaged in the development and support of web-based survey analysis and reporting tools to measure and analyze the impact of training on business and government agency mission outcomes",
+    "contacts": [
+      {
+        "name": "Mr David Hauge",
+        "title": "President"
+      },
+      {
+        "name": "Mr David Hauge",
+        "title": "Vice President"
+      },
+      {
+        "name": "Mr Eugene De Ribeaux",
+        "title": "President & Chief Executive Officer"
+      },
+      {
+        "name": "Mr Eugene De Ribeaux",
+        "title": "No specific function"
+      },
+      {
+        "name": "Ms Denise Madaras",
+        "title": "Chief Marketing Officer"
+      },
+      {
+        "name": "Mr Steve Madaras",
+        "title": "Chief Technology Officer"
+      },
+      {
+        "name": "Mr Paul Myer",
+        "title": "Application Developer"
+      },
+      {
+        "name": "Leigh Tioseco",
+        "title": "Business Analyst"
+      }
+    ]
+  },
+  {
+    "name": "SYSTEMS SPECIALIST INC",
+    "state": "KY",
+    "year_incorporated": "1993",
+    "nace": "5829",
+    "employees": "12",
+    "revenue_usd": 4694000,
+    "pl_before_tax": null,
+    "total_assets": null,
+    "equity": null,
+    "website": "www.tssiglobal.com",
+    "description": null,
+    "contacts": []
+  }
+]

@@ -1,0 +1,864 @@
+[
+  {
+    "name": "VERBIO INCORPORATED",
+    "state": "CA",
+    "year_incorporated": "2018",
+    "nace": "5829",
+    "employees": "12",
+    "revenue_usd": 1050000,
+    "pl_before_tax": null,
+    "total_assets": null,
+    "equity": null,
+    "website": "www.verbio.com",
+    "description": null,
+    "contacts": [
+      {
+        "name": "Mr David Frank Fareed Karandish",
+        "title": "Chief Executive Officer"
+      },
+      {
+        "name": "Mr Carlos Puigjaner Vallet",
+        "title": "Chief Executive Officer & Partner"
+      },
+      {
+        "name": "Mr Carlos Puigjaner Vallet",
+        "title": "Chief Financial Officer"
+      },
+      {
+        "name": "Mr Antonio Terradas Galan",
+        "title": "President"
+      },
+      {
+        "name": "Mr Antonio Terradas Galan",
+        "title": "Chief Financial Officer"
+      }
+    ]
+  },
+  {
+    "name": "QTEC",
+    "state": "CA",
+    "year_incorporated": "2002",
+    "nace": "5829",
+    "employees": "15",
+    "revenue_usd": 1050000,
+    "pl_before_tax": null,
+    "total_assets": null,
+    "equity": null,
+    "website": "www.qtec.us",
+    "description": null,
+    "contacts": [
+      {
+        "name": "Mr Malcolm J Baca",
+        "title": "P/CEO"
+      },
+      {
+        "name": "Ms Bonnie J Dennis",
+        "title": "Treasurer"
+      },
+      {
+        "name": "Mr David J Pooler",
+        "title": "Chief Operating Officer"
+      }
+    ]
+  },
+  {
+    "name": "WORKBOARD, INC.",
+    "state": "CA",
+    "year_incorporated": "2013",
+    "nace": "5829",
+    "employees": "180",
+    "revenue_usd": 1050000,
+    "pl_before_tax": null,
+    "total_assets": null,
+    "equity": null,
+    "website": "www.workboard.com",
+    "description": "Online status reporting productivity Software-as-a-Service (SaaS) provider",
+    "contacts": [
+      {
+        "name": "Ms Elizabeth Whaley",
+        "title": "Controller & Director, Finance"
+      },
+      {
+        "name": "Mr Mike Hipp",
+        "title": "Vice President Sales"
+      },
+      {
+        "name": "Mr Mark Waitt",
+        "title": "Enterprise Customer Success Manager"
+      },
+      {
+        "name": "Ms Rocio Calero",
+        "title": "Brand and Design Manager"
+      },
+      {
+        "name": "Ms Natalie Webb",
+        "title": "Engagement Leadership, Certified OKR Coach"
+      }
+    ]
+  },
+  {
+    "name": "VIDORA CORP.",
+    "state": "CA",
+    "year_incorporated": "2019",
+    "nace": "5829",
+    "employees": "11",
+    "revenue_usd": 1050000,
+    "pl_before_tax": null,
+    "total_assets": null,
+    "equity": null,
+    "website": "www.vidora.com",
+    "description": "Real-time AI personalisation software platform operator",
+    "contacts": [
+      {
+        "name": "Mr Alex D Holub",
+        "title": "President"
+      },
+      {
+        "name": "Mr Alex D Holub",
+        "title": "Co-Founder"
+      },
+      {
+        "name": "Mr Alex D Holub",
+        "title": "Officer"
+      },
+      {
+        "name": "Mr Ajai Vishwanath",
+        "title": "Manager, Marketing"
+      },
+      {
+        "name": "Mr Philip West",
+        "title": "Head of Product"
+      },
+      {
+        "name": "Mr Abhik Majumdar",
+        "title": "Officer"
+      }
+    ]
+  },
+  {
+    "name": "ETOTALSOURCE, INC.",
+    "state": "CA",
+    "year_incorporated": null,
+    "nace": "5829",
+    "employees": "11",
+    "revenue_usd": 1050000,
+    "pl_before_tax": null,
+    "total_assets": null,
+    "equity": null,
+    "website": "www.etotalsource.com",
+    "description": null,
+    "contacts": []
+  },
+  {
+    "name": "ELATION HEALTH, INC.",
+    "state": "CA",
+    "year_incorporated": "2017",
+    "nace": "5829",
+    "employees": "250",
+    "revenue_usd": 1050000,
+    "pl_before_tax": null,
+    "total_assets": null,
+    "equity": null,
+    "website": "www.elationhealth.com",
+    "description": "Patient-focused care cloud based platform operator",
+    "contacts": [
+      {
+        "name": "Ms Heidi Deshong",
+        "title": "Owner"
+      },
+      {
+        "name": "Ms Kyna Fong",
+        "title": "Shareholder; Co-Founder"
+      },
+      {
+        "name": "Ms Kyna Fong",
+        "title": "Chief Executive Officer"
+      }
+    ]
+  },
+  {
+    "name": "DEVELOPMENT CUBED SOFTWARE",
+    "state": "CA",
+    "year_incorporated": "2015",
+    "nace": "5829",
+    "employees": "14",
+    "revenue_usd": 1050000,
+    "pl_before_tax": null,
+    "total_assets": null,
+    "equity": null,
+    "website": "www.marchingorder.com",
+    "description": null,
+    "contacts": []
+  },
+  {
+    "name": "VERODIN INC",
+    "state": "VA",
+    "year_incorporated": "2014",
+    "nace": "5829",
+    "employees": "10",
+    "revenue_usd": 1050000,
+    "pl_before_tax": null,
+    "total_assets": null,
+    "equity": null,
+    "website": "www.verodin.com",
+    "description": "Security Instrumentation Platform (SIP) software developer",
+    "contacts": [
+      {
+        "name": "Mr Paul Holzberger",
+        "title": "Co-Founder, Lead Developer"
+      },
+      {
+        "name": "Ms Julie Willey",
+        "title": "Senior Director of Finance and Accounting, Verodin"
+      },
+      {
+        "name": "Mr Andy DiFazio",
+        "title": "Senior Vice President Global Sales"
+      },
+      {
+        "name": "Mr Shawn Lucca",
+        "title": "Senior Director of Sales, TOLA"
+      },
+      {
+        "name": "Mr Thomas Leduc",
+        "title": "Director of Product Marketing"
+      },
+      {
+        "name": "Mr Kirk Hayzlett",
+        "title": "Regional Account Executive"
+      },
+      {
+        "name": "Mr Scott Johnson",
+        "title": "Technical Account Manager"
+      },
+      {
+        "name": "Ms Lauren Mosher",
+        "title": "Regional Account Manager"
+      },
+      {
+        "name": "Mr Randall Paige",
+        "title": "Technical Account Manager"
+      },
+      {
+        "name": "Mr Delvin Jackson",
+        "title": "Security Analyst, Behaviour Research Team"
+      },
+      {
+        "name": "Mr Neil Hall",
+        "title": "Regional Vice President, Western Region"
+      },
+      {
+        "name": "Ms Stephanie Hoogasian",
+        "title": "Regional Director Healthcare East"
+      },
+      {
+        "name": "Mr Robert Potter",
+        "title": "Chief Revenue Officer"
+      }
+    ]
+  },
+  {
+    "name": "GRAVITY MOBILE, INC.",
+    "state": "CA",
+    "year_incorporated": "2006",
+    "nace": "5829",
+    "employees": "11",
+    "revenue_usd": 1050000,
+    "pl_before_tax": null,
+    "total_assets": null,
+    "equity": null,
+    "website": "www.gravitymobile.com",
+    "description": null,
+    "contacts": []
+  },
+  {
+    "name": "DATAMAR SOFTWARE",
+    "state": "CA",
+    "year_incorporated": null,
+    "nace": "5829",
+    "employees": "12",
+    "revenue_usd": 1050000,
+    "pl_before_tax": null,
+    "total_assets": null,
+    "equity": null,
+    "website": "www.datamar.com",
+    "description": null,
+    "contacts": []
+  },
+  {
+    "name": "COUNTERPOINT SOFTWARE, INC.",
+    "state": "CA",
+    "year_incorporated": "1994",
+    "nace": "5829",
+    "employees": "13",
+    "revenue_usd": 1050000,
+    "pl_before_tax": null,
+    "total_assets": null,
+    "equity": null,
+    "website": "www.counterpoint.net",
+    "description": null,
+    "contacts": [
+      {
+        "name": "Mr Mike Rooney",
+        "title": "Vice President Sales"
+      },
+      {
+        "name": "Mr Eric Garst",
+        "title": "Software Consultant"
+      },
+      {
+        "name": "Mr James Foley",
+        "title": "Executive"
+      },
+      {
+        "name": "Mr Dick Levine",
+        "title": "Executive"
+      }
+    ]
+  },
+  {
+    "name": "KEEPY INC.",
+    "state": "CA",
+    "year_incorporated": "2013",
+    "nace": "5829",
+    "employees": "10",
+    "revenue_usd": 1050000,
+    "pl_before_tax": null,
+    "total_assets": null,
+    "equity": null,
+    "website": "keepy.me",
+    "description": null,
+    "contacts": [
+      {
+        "name": "Mr Offir Gutelzon",
+        "title": "Co-Founder, Chief Executive Officer and Head of Product"
+      }
+    ]
+  },
+  {
+    "name": "SAVITUDE, INC.",
+    "state": "CA",
+    "year_incorporated": "2021",
+    "nace": "5829",
+    "employees": "20",
+    "revenue_usd": 1050000,
+    "pl_before_tax": null,
+    "total_assets": null,
+    "equity": null,
+    "website": "www.savitude.com",
+    "description": null,
+    "contacts": [
+      {
+        "name": "Ms Camilla Olson",
+        "title": "Chief Executive Officer"
+      },
+      {
+        "name": "Ms Camilla Olson",
+        "title": "Officer"
+      },
+      {
+        "name": "Mr Nicholas Clayton",
+        "title": "Chief Technology Officer"
+      },
+      {
+        "name": "Ms Trish Adams",
+        "title": "Officer"
+      },
+      {
+        "name": "Ms Karen Williams",
+        "title": "Officer"
+      }
+    ]
+  },
+  {
+    "name": "FUEL50 INC.",
+    "state": "CA",
+    "year_incorporated": "2019",
+    "nace": "5829",
+    "employees": "14",
+    "revenue_usd": 1050000,
+    "pl_before_tax": null,
+    "total_assets": null,
+    "equity": null,
+    "website": "www.fuel50.com",
+    "description": "Custom Computer Programming Services",
+    "contacts": [
+      {
+        "name": "Ms Anne Jacqueline Fulton",
+        "title": "Chief Executive Officer"
+      },
+      {
+        "name": "Mr Anthony Luciano",
+        "title": "Senior Vice President"
+      },
+      {
+        "name": "Ms Joanne Marie Mills",
+        "title": "Secretary"
+      },
+      {
+        "name": "Ms Joanne Marie Mills",
+        "title": "Other"
+      },
+      {
+        "name": "Mr Mark Minik",
+        "title": "Vice President, Business Development"
+      },
+      {
+        "name": "Mr Jim Myers",
+        "title": "Vice President of Strategic Partnerships & Global Channel"
+      },
+      {
+        "name": "Ms Ann Ratcliff",
+        "title": "Vice President, Business Development (North America)"
+      },
+      {
+        "name": "Mr Mark Rowe",
+        "title": "Vice President, Business Development"
+      },
+      {
+        "name": "Mr Daniel Houzet",
+        "title": "Chief Financial Officer"
+      },
+      {
+        "name": "Shah Ron",
+        "title": "Chief Financial Officer"
+      },
+      {
+        "name": "Mr Joshua Bradbury",
+        "title": "Chief Sales Officer"
+      },
+      {
+        "name": "Mr Stephen Kost",
+        "title": "Vice President, Sales (Northeast)"
+      },
+      {
+        "name": "Mr Steven Todd",
+        "title": "Regional Vice President, Sales"
+      },
+      {
+        "name": "Ms Valerie Castellano",
+        "title": "Sales Director, Mid-Market"
+      },
+      {
+        "name": "Mr Brian Williamson",
+        "title": "Regional Sales Director"
+      },
+      {
+        "name": "Mr Tom Gross",
+        "title": "Sales Manager"
+      },
+      {
+        "name": "Mr Roel Deuss",
+        "title": "Sales"
+      },
+      {
+        "name": "Ms Kathryn Mares",
+        "title": "Senior Sales Development Representative"
+      },
+      {
+        "name": "Ms Jessica Towicz",
+        "title": "Career Solutions Consultant and Organisational Psychologist"
+      },
+      {
+        "name": "Ms Rhonda Taylor",
+        "title": "Director, Partnership Success"
+      },
+      {
+        "name": "Mr James Andelman",
+        "title": "Other"
+      },
+      {
+        "name": "Mr Philip Dur",
+        "title": "Other"
+      },
+      {
+        "name": "Ms Kerry Mcintosh",
+        "title": "Other"
+      }
+    ]
+  },
+  {
+    "name": "BERBIX INC.",
+    "state": "CA",
+    "year_incorporated": "2019",
+    "nace": "5829",
+    "employees": "35",
+    "revenue_usd": 1050000,
+    "pl_before_tax": null,
+    "total_assets": null,
+    "equity": null,
+    "website": "www.socure.com",
+    "description": "Online photo ID verification Software-as-a-Service (SaaS) provider",
+    "contacts": [
+      {
+        "name": "Mr Stephen Kirkham",
+        "title": "Officer"
+      },
+      {
+        "name": "Mr Eric Levine",
+        "title": "Officer"
+      }
+    ]
+  },
+  {
+    "name": "SPIKE CHUNSOFT, INC.",
+    "state": "CA",
+    "year_incorporated": "2017",
+    "nace": "5829",
+    "employees": "10",
+    "revenue_usd": 1050000,
+    "pl_before_tax": null,
+    "total_assets": null,
+    "equity": null,
+    "website": "www.linkedin.com/company/spike-chunsoft-inc",
+    "description": null,
+    "contacts": [
+      {
+        "name": "Mr Yasuhiro Iizuka",
+        "title": "Chief Executive Officer"
+      },
+      {
+        "name": "Mr Mitsutoshi Sakurai",
+        "title": "Chief Executive Officer"
+      },
+      {
+        "name": "Mr Norihiro Takahashi",
+        "title": "Chief Financial Officer"
+      }
+    ]
+  },
+  {
+    "name": "TAPCLASSIFIEDS AUTO, INC",
+    "state": "CA",
+    "year_incorporated": "2022",
+    "nace": "5829",
+    "employees": "14",
+    "revenue_usd": 1050000,
+    "pl_before_tax": null,
+    "total_assets": null,
+    "equity": null,
+    "website": "www.tapclassifieds.com",
+    "description": null,
+    "contacts": [
+      {
+        "name": "Mr Babak Hedayati",
+        "title": "Secretary"
+      },
+      {
+        "name": "Mr Silvio Gutierrez",
+        "title": "Business Development"
+      },
+      {
+        "name": "Nima Hedayati",
+        "title": "Vice President, Business Development"
+      },
+      {
+        "name": "Mr Dennis Bishop",
+        "title": "Account Executive"
+      },
+      {
+        "name": "Mr Roy Anderson",
+        "title": "Manager, Customer Success"
+      },
+      {
+        "name": "Mr Cody Lookenbill",
+        "title": "Customer Success Representative"
+      },
+      {
+        "name": "Mr Jaideep Jain",
+        "title": "Officer"
+      }
+    ]
+  },
+  {
+    "name": "SUPPLYSHIFT INC.",
+    "state": "CA",
+    "year_incorporated": "2017",
+    "nace": "5829",
+    "employees": "40",
+    "revenue_usd": 1050000,
+    "pl_before_tax": null,
+    "total_assets": null,
+    "equity": null,
+    "website": "www.supplyshift.net",
+    "description": "Supply chain Software-as-a-Service (SaaS) provider",
+    "contacts": [
+      {
+        "name": "Mr Alexander Gershenson",
+        "title": "Chief Executive Officer"
+      },
+      {
+        "name": "Mr James Barsimantov",
+        "title": "Chief Operating Officer & Co-Founder"
+      },
+      {
+        "name": "Shannon Carabetta",
+        "title": "Business Development Manager"
+      },
+      {
+        "name": "Mr Andrew Nielsen",
+        "title": "Sales & Operations Analyst"
+      },
+      {
+        "name": "Mr Matt Gottron",
+        "title": "Marketing & Operations Specialist"
+      },
+      {
+        "name": "Mr David Regus",
+        "title": "Manager, Customer Success"
+      },
+      {
+        "name": "Ms Caitlin Clarke",
+        "title": "Project Manager"
+      },
+      {
+        "name": "Ms Brianna McCain",
+        "title": "Project Management Lead"
+      },
+      {
+        "name": "Ms Lindsey Ridgeway",
+        "title": "Senior Project Manager"
+      },
+      {
+        "name": "Ms Hanna Inman",
+        "title": "Operations Product Specialist"
+      },
+      {
+        "name": "Ms Dima Shapiro",
+        "title": "Product Analyst"
+      }
+    ]
+  },
+  {
+    "name": "SUREIFY LABS INC.",
+    "state": "CA",
+    "year_incorporated": "2022",
+    "nace": "5829",
+    "employees": "30",
+    "revenue_usd": 1050000,
+    "pl_before_tax": null,
+    "total_assets": null,
+    "equity": null,
+    "website": "www.sureify.com",
+    "description": "Online digital insurance Software-as-a-Service (SaaS) provider",
+    "contacts": [
+      {
+        "name": "Mr Danny Gordon",
+        "title": "President"
+      },
+      {
+        "name": "Mr Danny Gordon",
+        "title": "Head of Product Strategy"
+      },
+      {
+        "name": "Mr Dustin Gregory Yoder",
+        "title": "Chief Executive Officer"
+      },
+      {
+        "name": "Mr Dustin Gregory Yoder",
+        "title": "Vice President"
+      },
+      {
+        "name": "Mr Dustin Gregory Yoder",
+        "title": "Head of Business Development"
+      },
+      {
+        "name": "Mr Chris Smith",
+        "title": "Secretary"
+      },
+      {
+        "name": "Mr David Belgum",
+        "title": "Chief Financial Officer"
+      },
+      {
+        "name": "Mr David Belgum",
+        "title": "Treasurer"
+      },
+      {
+        "name": "Mr Michael Etheridge",
+        "title": "Chief Financial Officer"
+      },
+      {
+        "name": "Mr Michael Etheridge",
+        "title": "Treasurer"
+      },
+      {
+        "name": "Sreenivasulu Velugu",
+        "title": "Chief Technology Officer"
+      },
+      {
+        "name": "Mr Jacob Ruiz",
+        "title": "Head of Product"
+      },
+      {
+        "name": "Ms Pooja Rao",
+        "title": "Project Manager - Product Operations and Services"
+      },
+      {
+        "name": "Kelly Dudley",
+        "title": "Operations Director"
+      },
+      {
+        "name": "Mr Siva Atchala",
+        "title": "Web Developer"
+      },
+      {
+        "name": "Mr Mahesh Hasan Sajja",
+        "title": "Web Developer"
+      },
+      {
+        "name": "Mr Anders Houston",
+        "title": "Head of Design"
+      }
+    ]
+  },
+  {
+    "name": "HATCH DATA INC",
+    "state": "CA",
+    "year_incorporated": "2019",
+    "nace": "5829",
+    "employees": "35",
+    "revenue_usd": 1050000,
+    "pl_before_tax": null,
+    "total_assets": null,
+    "equity": null,
+    "website": "www.hatchdata.com",
+    "description": "Real estate decarbonisation monitoring, optimisation management and benchmarking Software-as-a-Service (SaaS) provider",
+    "contacts": []
+  },
+  {
+    "name": "HEIRLOOM COMPUTING INC.",
+    "state": "CA",
+    "year_incorporated": "2012",
+    "nace": "5829",
+    "employees": "13",
+    "revenue_usd": 1050000,
+    "pl_before_tax": null,
+    "total_assets": null,
+    "equity": null,
+    "website": "www.heirloomcomputing.com",
+    "description": null,
+    "contacts": [
+      {
+        "name": "Mr Gary Crook",
+        "title": "Chief Executive Officer"
+      },
+      {
+        "name": "Mr Edward Abbati",
+        "title": "Chief Financial Officer"
+      },
+      {
+        "name": "Ms Guohua Yuan",
+        "title": "Chief Financial Officer"
+      }
+    ]
+  },
+  {
+    "name": "LEVADATA, INC.",
+    "state": "CA",
+    "year_incorporated": "2014",
+    "nace": "5829",
+    "employees": "14",
+    "revenue_usd": 1050000,
+    "pl_before_tax": null,
+    "total_assets": null,
+    "equity": null,
+    "website": "www.levadata.com",
+    "description": "Online AI based cognitive supply management Software-as-a-Service (SaaS) provider",
+    "contacts": [
+      {
+        "name": "Mr Rajesh Kalidindi",
+        "title": "President; Founder & Chief Executive Officer"
+      },
+      {
+        "name": "Mr Ron Giles",
+        "title": "Strategic Sourcing Director"
+      },
+      {
+        "name": "Ms Suzanne Schooley",
+        "title": "Executive Assistant"
+      },
+      {
+        "name": "Mr Sreeni Iyer",
+        "title": "Chief Technology Officer"
+      },
+      {
+        "name": "Mr Shyam Gadepalli",
+        "title": "Senior Manager"
+      }
+    ]
+  },
+  {
+    "name": "THEMIS SOLUTIONS (USA) INC.",
+    "state": "CA",
+    "year_incorporated": "2016",
+    "nace": "5829",
+    "employees": "35",
+    "revenue_usd": 1050000,
+    "pl_before_tax": null,
+    "total_assets": null,
+    "equity": null,
+    "website": "www.lawyaw.com",
+    "description": "Online legal document digitisation Software-as-a-Service (SaaS) provider",
+    "contacts": [
+      {
+        "name": "Mr Charles Tucker Cottingham",
+        "title": "President"
+      }
+    ]
+  },
+  {
+    "name": "LUDIS ANALYTICS, INC.",
+    "state": "CA",
+    "year_incorporated": "2019",
+    "nace": "5829",
+    "employees": "12",
+    "revenue_usd": 1050000,
+    "pl_before_tax": null,
+    "total_assets": null,
+    "equity": null,
+    "website": "www.ludisanalytics.com",
+    "description": null,
+    "contacts": [
+      {
+        "name": "Mr Seyed Vala Tabatabaei",
+        "title": "Chief Executive Officer"
+      },
+      {
+        "name": "Bo Nam",
+        "title": "Chief Financial Officer"
+      }
+    ]
+  },
+  {
+    "name": "OMNISCI PUBLIC SECTOR LLC",
+    "state": "CA",
+    "year_incorporated": "2019",
+    "nace": "5829",
+    "employees": "13",
+    "revenue_usd": 1050000,
+    "pl_before_tax": null,
+    "total_assets": null,
+    "equity": null,
+    "website": "www.omnisci.com",
+    "description": null,
+    "contacts": [
+      {
+        "name": "Mr Chuck Chuck",
+        "title": "Director"
+      },
+      {
+        "name": "Mr Tom Hastain",
+        "title": "Director"
+      },
+      {
+        "name": "Mr Steve Panzer",
+        "title": "Director"
+      },
+      {
+        "name": "Mr Ray Falcione",
+        "title": "No specific function"
+      }
+    ]
+  }
+]

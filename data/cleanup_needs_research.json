@@ -1,0 +1,632 @@
+[
+  {
+    "company_name": "1460 CAPITAL CORP INC",
+    "state": "CA",
+    "industry": "Real Estate Agencies",
+    "founded": "1994",
+    "employees": 50,
+    "revenue_usd_000s": 26400,
+    "website": "https://www.pacificcoastcommercial.com",
+    "website_verified": true,
+    "website_note": "Pacific Coast Commercial (pacificcoastcommercial.com) confirmed as the operating name/brand for 1460 Capital Corp Inc via BBB and company website.",
+    "description": "1460 Capital Corp Inc, operating as Pacific Coast Commercial, is a full-service commercial real estate company based in San Diego, California, providing sales, leasing, property management, and asset management across all property types including retail, office/medical, industrial, self-storage, and land development. The company manages over 6.7 million square feet of commercial property in the San Diego region.",
+    "description_source": "https://www.pacificcoastcommercial.com/about-us",
+    "contacts": [
+      {
+        "name": "Robert Phillips",
+        "title": "Chief Executive Officer / President",
+        "source_url": "https://www.pacificcoastcommercial.com/about-us",
+        "linkedin_url": "https://www.linkedin.com/in/robert-phillips-aab64614/",
+        "is_original": false
+      },
+      {
+        "name": "Vince Provenzano",
+        "title": "President of Brokerage / Executive Director of Brokerage",
+        "source_url": "https://www.pacificcoastcommercial.com/about-us",
+        "linkedin_url": "https://www.linkedin.com/in/vinceprovenzano/",
+        "is_original": false
+      }
+    ],
+    "recent_news": "Pacific Coast Commercial expanded its team with Rick Chatham and Zarina Jackson joining as brokerage associates (announced within 2024). Company continues growing its commercial real estate portfolio across San Diego County.",
+    "news_source_url": "https://www.pacificcoastcommercial.com/post/pacific-coast-commercial-is-growing-rick-chatham-and-zarina-jackson-join-our-team",
+    "verification_status": "Unverified",
+    "verification_notes": "No contact name or title was provided in the original data for this company. Website pacificcoastcommercial.com confirmed active. CEO Robert Phillips and President of Brokerage Vince Provenzano identified from company website and LinkedIn. Founded 1994 confirmed.",
+    "data_quality_score": 4,
+    "enrichment_notes": "Original record had no contact name. Company operates publicly as Pacific Coast Commercial. Robert Phillips has 40+ years of commercial real estate experience. Employee count in source (30) is lower than 50+ brokers/staff found publicly. BBB profile confirms 1460 Capital Corp Inc is the legal entity."
+  },
+  {
+    "company_name": "VILLAGE TRUCK SALES INC",
+    "state": "MA",
+    "industry": "Used Truck & Equipment Sales / Towing",
+    "founded": "1967",
+    "employees": 13,
+    "revenue_usd_000s": 26400,
+    "website": "https://www.villagetrucksales.com",
+    "website_verified": true,
+    "website_note": "Website confirmed active via Yelp, FindTruckService, and BBB listings.",
+    "description": "Village Truck Sales Inc is a third-generation, family-owned used truck and heavy equipment dealer based in Lanesborough, Massachusetts, operating at 800 Cheshire Rd. The company sells used municipal equipment, provides vehicle repair services, and offers 24-hour light and heavy-duty towing services.",
+    "description_source": "https://www.bbb.org/us/ma/lanesboro/profile/towing-company/village-truck-sales-inc-0261-317488",
+    "contacts": [
+      {
+        "name": "Joe Sczepaniak",
+        "title": "Manager / Principal (JSSJR Enterprises, Inc.)",
+        "source_url": "https://www.bbb.org/us/ma/lanesboro/profile/towing-company/village-truck-sales-inc-0261-317488",
+        "linkedin_url": null,
+        "is_original": false
+      }
+    ],
+    "recent_news": "No specific company news found for 2024-2025. Massachusetts truck dealerships broadly impacted by the state's Advanced Clean Trucks (ACT) EV mandate in 2025, which froze heavy-duty diesel truck sales statewide.",
+    "news_source_url": "https://www.bostonglobe.com/2025/02/19/business/trucks-diesel-electric-vehicles-massachusetts-regulations/",
+    "verification_status": "Unverified",
+    "verification_notes": "No contact name was provided in the original data. Industry listed as 'Plumbing/HVAC' in source data appears to be a data error \u2014 the company is a truck/equipment sales and towing business. Website confirmed active. Joe Sczepaniak identified as manager from BBB records. Founded 1967 not independently confirmed.",
+    "data_quality_score": 3,
+    "enrichment_notes": "Industry classification 'Plumbing/HVAC' in source data appears incorrect; this is a used truck and equipment business. Limited public executive data for this small family-owned operation. Massachusetts ACT EV regulations may impact their sales in 2025."
+  },
+  {
+    "company_name": "MASTERWORKS CONSTRUCTION SERVICES, INC.",
+    "state": "CA",
+    "industry": "Residential & Commercial Construction",
+    "founded": "1992",
+    "employees": null,
+    "revenue_usd_000s": null,
+    "website": "https://mworksconstruction.com",
+    "website_verified": true,
+    "website_note": "Site is active and live (Yelp shows updated February 2026). Company confirmed as Masterworks Construction Services Inc. from URL.",
+    "description": "Masterworks Construction Services Inc. is a Southern California general contractor based in Long Beach, CA, providing residential and commercial remodeling, new construction, architectural design, landscape design and installation services. Founded in 1992 by Bill Leisy; ownership transferred to Carlos Perez in 2022.",
+    "description_source": "https://mworksconstruction.com/profile/about-us/",
+    "contacts": [
+      {
+        "name": "Carlos Perez",
+        "title": "President / Owner (since 2022)",
+        "source_url": "https://mworksconstruction.com/profile/about-us/",
+        "linkedin_url": null,
+        "is_original": false
+      },
+      {
+        "name": "Bill Leisy",
+        "title": "Founder (retired 2022)",
+        "source_url": "https://mworksconstruction.com/profile/about-us/",
+        "linkedin_url": null,
+        "is_original": false
+      },
+      {
+        "name": "Carlos Perez Jr.",
+        "title": "Project Staff",
+        "source_url": "https://mworksconstruction.com/profile/the-team/",
+        "linkedin_url": null,
+        "is_original": false
+      },
+      {
+        "name": "Elizabeth Perez",
+        "title": "Office Operations Manager",
+        "source_url": "https://mworksconstruction.com/profile/the-team/",
+        "linkedin_url": null,
+        "is_original": false
+      }
+    ],
+    "recent_news": "No significant news in 2024-2025. Ownership transition occurred in 2022 when Bill Leisy retired after 30 years and handed the company to Carlos Perez.",
+    "news_source_url": "https://mworksconstruction.com/profile/about-us/",
+    "verification_status": "Unverified",
+    "verification_notes": "Original data had null company name and null contact. Company identified as Masterworks Construction Services Inc. from the website URL mworksconstruction.com. No original contact to verify against.",
+    "data_quality_score": 4,
+    "enrichment_notes": "Company name was null in original data. Identified from website URL mworksconstruction.com. Located at 1376-B Coronado Ave, Long Beach, CA 90804. 34 permitted projects per BuildZoom. Serves Los Angeles, Long Beach, Manhattan Beach, Santa Monica areas."
+  },
+  {
+    "company_name": "WWI CONTRACTING CORP",
+    "state": "NY",
+    "industry": "Specialised Construction / Carpentry & Drywall",
+    "founded": "2008",
+    "employees": 7,
+    "revenue_usd_000s": 26400,
+    "website": "https://wwinyc.com",
+    "website_verified": true,
+    "website_note": "Primary and active website is wwinyc.com. Original data listed www.inyc.com which may be an alternate/redirect. Company HQ is Queens, NY \u2014 not NJ as listed in original data.",
+    "description": "WWI Contracting Corp. is a leading Northeast-region carpentry and drywall company founded in 2008, specializing in general contracting, structural heavy gauge framing, interior framing, insulation, gypsum wallboard, construction management, and residential high-rise and hotel construction in NY and NJ.",
+    "description_source": "https://wwinyc.com/about/",
+    "contacts": [
+      {
+        "name": "Veinmann Torres",
+        "title": "President / Co-Founder",
+        "source_url": "https://www.thebluebook.com/iProView/925831/wwi-contracting-corp/subcontractors/locations-contacts/",
+        "linkedin_url": null,
+        "is_original": false
+      },
+      {
+        "name": "Angelo Amen",
+        "title": "Principal / Co-Founder",
+        "source_url": "https://wwinyc.com/about/",
+        "linkedin_url": "https://www.linkedin.com/in/angelo-amen-9574991a2/",
+        "is_original": false
+      },
+      {
+        "name": "Danly Yepes",
+        "title": "Office Executive Manager / Bookkeeping",
+        "source_url": "https://www.linkedin.com/in/danly-yepes-b518461b/",
+        "linkedin_url": "https://www.linkedin.com/in/danly-yepes-b518461b/",
+        "is_original": false
+      }
+    ],
+    "recent_news": "No significant news in 2024-2025. Company continues to operate in residential high-rises, hotels, and affordable housing projects across NY and NJ.",
+    "news_source_url": "https://wwinyc.com/",
+    "verification_status": "Discrepancy",
+    "verification_notes": "Original data lists state as NJ but company is headquartered in Astoria/Queens, NY. Primary website is wwinyc.com (not www.inyc.com as listed). No contact was in original record. State is corrected to NY in this enrichment.",
+    "data_quality_score": 3,
+    "enrichment_notes": "Original data had null contact name, null contact title, state NJ, and website www.inyc.com. Company is NY-based. Founded by Angelo Amen and Veinmann Torres in 2008. Located in Astoria/Long Island City, Queens, NY. Works NY/NJ metro area. Also listed on TheBluebook as Long Island City, NY."
+  },
+  {
+    "company_name": "TWISTED MECHANICAL",
+    "state": "MN",
+    "industry": "Plumbing / HVAC",
+    "founded": null,
+    "employees": 8,
+    "revenue_usd_000s": 26400,
+    "website": "https://twistedmechanical.com",
+    "website_verified": true,
+    "website_note": "Website twistedmechanical.com is active (Yelp shows updated July 2025). HVAC contractor license #MB770330 was reported as expired June 2024 per BuildZoom \u2014 current license status should be verified directly.",
+    "description": "Twisted Mechanical is a family-owned HVAC company in Farmington, MN (south of Minneapolis), specializing in commercial and residential heating, cooling, and refrigeration repair, replacement, and service. Also provides building automation solutions to optimize efficiency for businesses.",
+    "description_source": "https://www.twistedmechanical.com/",
+    "contacts": [
+      {
+        "name": "Scott Danielson",
+        "title": "Owner",
+        "source_url": "https://www.buildzoom.com/contractor/twisted-mechanical-llc",
+        "linkedin_url": null,
+        "is_original": false
+      }
+    ],
+    "recent_news": "HVAC/Mechanical Contractor license (#MB770330) expired June 25, 2024 per BuildZoom (verified expired August 2024). Recommend verifying active license status with the Minnesota Department of Labor & Industry.",
+    "news_source_url": "https://www.buildzoom.com/contractor/twisted-mechanical-llc",
+    "verification_status": "Unverified",
+    "verification_notes": "Original data had null contact name and null contact title. Scott Danielson identified as owner from BuildZoom. No founding year found in public sources. License expiration flagged as a concern.",
+    "data_quality_score": 3,
+    "enrichment_notes": "Located at 21690 Blaine Ave, Farmington, MN 55024. Listed in Lakeville Chamber of Commerce directory. No contact was in original data. License #MB770330 expired June 2024 \u2014 potential compliance issue. Company may have renewed license; verify with MN DOL&I."
+  },
+  {
+    "company_name": "KENTUCKY COUNTRY DAY SCHOOL, INC.",
+    "state": "KY",
+    "industry": "Pre-primary / K-12 Education (Independent Day School)",
+    "founded": "1972",
+    "employees": 20,
+    "revenue_usd_000s": 26400,
+    "website": "https://www.kcd.org",
+    "website_verified": true,
+    "website_note": "kcd.org is active and current. Kentucky Country Day School's primary online presence.",
+    "description": "Kentucky Country Day School (KCD) is a private, coeducational JK-12 independent day school located on an 80+ acre campus in Louisville, KY. The school emphasizes the values in its motto: Citizen, Scholar, Steward. It is accredited and serves students from Junior Kindergarten through 12th grade.",
+    "description_source": "https://www.kcd.org/",
+    "contacts": [
+      {
+        "name": "Peter Huestis",
+        "title": "Former Head of School (served July 2019 - 2024)",
+        "source_url": "https://www.kcd.org/announcement-detail?pk=525007",
+        "linkedin_url": null,
+        "is_original": true
+      },
+      {
+        "name": "Jonathan (Jon) M. Kellam",
+        "title": "Interim Head of School (2024-25 academic year)",
+        "source_url": "https://www.kcd.org/news-detail?pk=1336894",
+        "linkedin_url": null,
+        "is_original": false
+      },
+      {
+        "name": "Deena J. Carey",
+        "title": "Head of School (appointed, effective July 1, 2025)",
+        "source_url": "https://www.kcd.org/news-detail?pk=1350287",
+        "linkedin_url": null,
+        "is_original": false
+      }
+    ],
+    "recent_news": "In May 2024, the Board appointed Jon Kellam as Interim Head of School for 2024-25 following Peter Huestis's departure. In October 2024, Deena J. Carey (formerly Associate Head of School at Isidore Newman School, New Orleans) was appointed as new Head of School, effective July 1, 2025. New daily schedule introduced Fall 2024.",
+    "news_source_url": "https://www.kcd.org/news-detail?pk=1350287",
+    "verification_status": "Discrepancy",
+    "verification_notes": "Peter Huestis is listed as 'President' in the original data but his actual title was 'Head of School' \u2014 a common distinction at independent schools. Additionally, Huestis departed in 2024 and is no longer in this role. Title 'President' vs 'Head of School' is a discrepancy; the rest of the record is accurate for the period when the data was collected.",
+    "data_quality_score": 5,
+    "enrichment_notes": "Founded date in original data is 26477 (Excel serial) = approximately June 12, 1972. School is accredited. Located at 4100 Springdale Road, Louisville, KY 40241. Peter Huestis served as Head of School from July 2019 to 2024. ProPublica Nonprofit Explorer has tax filings available."
+  },
+  {
+    "company_name": "PHEIFER BROTHERS CONSTRUCTION COMPANY, INC.",
+    "state": "WI",
+    "industry": "Civil Engineering / Bridge Construction",
+    "founded": "1952",
+    "employees": 14,
+    "revenue_usd_000s": 26400,
+    "website": "https://www.pheifer.com",
+    "website_verified": true,
+    "website_note": "Active site confirmed at pheifer.com; company is based in Neenah, WI",
+    "description": "Third-generation family-owned bridge construction company based in Neenah, Wisconsin, founded in 1952 by brothers Robert and Alan Pheifer, now led by Ryan Pheifer as sole owner and President, specializing in bridge construction throughout Wisconsin for the Wisconsin DOT and other clients.",
+    "description_source": "https://www.pheifer.com/",
+    "contacts": [
+      {
+        "name": "Mr. Tyler Volkmann",
+        "title": "Project Manager",
+        "source_url": "https://www.zoominfo.com/c/pheifer-brothers-construction-company-inc/92275920",
+        "linkedin_url": null,
+        "is_original": true
+      },
+      {
+        "name": "Ryan Pheifer",
+        "title": "President / Owner",
+        "source_url": "https://www.linkedin.com/in/ryanpheifer/",
+        "linkedin_url": "https://www.linkedin.com/in/ryanpheifer/",
+        "is_original": false
+      }
+    ],
+    "recent_news": "Awarded $846,790 contract in May 2024 by Governor Tony Evers for rehabilitation of the bridge carrying WIS 35 over the Big River in Pierce County. Also active bidder on multiple WisDOT projects in 2024-2026, including a 2026 award for the T Linn \u2013 Hillside Road Bridge in Walworth County.",
+    "news_source_url": "https://www.piercecountyjournal.news/stories/bridge-rehabilitation-project-on-wis-35-in-pierce-county-to-start,90225",
+    "verification_status": "Unverified",
+    "verification_notes": "Tyler Volkmann listed as Project Manager \u2014 could not independently verify this contact in public sources beyond secondary data aggregators. Ryan Pheifer confirmed as President/Owner from LinkedIn and company website. Founded year discrepancy: batch says 1950, verified sources say 1952.",
+    "data_quality_score": 4,
+    "enrichment_notes": "Company is an active Wisconsin DOT contractor specializing in bridge construction. Founded year corrected from 1950 (batch) to 1952 (company website and multiple verified sources). Third-generation family ownership under Ryan Pheifer. WisDOT Structure of the Year award recipient."
+  },
+  {
+    "company_name": "JOSEPH H. ROBERTS INC.",
+    "state": "NJ",
+    "industry": "Plumbing/HVAC",
+    "founded": "1979",
+    "employees": 7,
+    "revenue_usd_000s": 26400,
+    "website": "https://jhrobertsinc.com",
+    "website_verified": true,
+    "website_note": "Active site confirmed; company located at 711 Old Shore Rd STE 1, Forked River, NJ 08731",
+    "description": "Family-owned HVAC contractor based in Forked River, NJ, founded in 1979 by Joseph H. Roberts Jr. and passed to his son Joseph H. Roberts III in 2020, providing residential and light commercial heating, air conditioning, duct cleaning, water heater services, and indoor air quality solutions as a Carrier Factory Authorized Dealer.",
+    "description_source": "https://jhrobertsinc.com",
+    "contacts": [
+      {
+        "name": "Joseph H. Roberts III",
+        "title": "President / Owner",
+        "source_url": "https://jhrobertsinc.com",
+        "linkedin_url": null,
+        "is_original": false
+      }
+    ],
+    "recent_news": "No significant news events found for 2024-2025. Company maintains A+ BBB rating and Carrier Factory Authorized Dealer status, with NATE- and EPA-certified technicians.",
+    "news_source_url": null,
+    "verification_status": "Unverified",
+    "verification_notes": "Original contact name and title were null in source data. Founded date in source data was 31520 (Excel serial date, approximately 1986) which is a data error \u2014 verified founding year is 1979 per company website. Joseph H. Roberts III confirmed as current President via company and Carrier dealer listings.",
+    "data_quality_score": 3,
+    "enrichment_notes": "Source data had null contact name/title and a corrupted Excel serial date (31520) for founding year. Actual founding year is 1979. Company passed from founder Joseph Roberts Jr. to his son Joseph Roberts III in 2020. Small 7-person HVAC firm serving Ocean County, NJ."
+  },
+  {
+    "company_name": "JAMES DEAN CONSTRUCTION INC.",
+    "state": "WA",
+    "industry": "Civil Engineering / Road Building",
+    "founded": "1988",
+    "employees": 30,
+    "revenue_usd_000s": 26400,
+    "website": "http://www.jamesdeanconstruction.com",
+    "website_verified": true,
+    "website_note": "Active site confirmed; company located at 579 Highway 141, White Salmon, WA 98672. License verified active as of July 2025.",
+    "description": "Civil engineering and construction firm founded in 1988 in White Salmon, WA, specializing in road building, infrastructure development, portable rock crushing, excavation, bridges, concrete, earthwork, and structural steel, with over 100 miles of road construction completed.",
+    "description_source": "http://www.jamesdeanconstruction.com/about-us-1.html",
+    "contacts": [
+      {
+        "name": "James Dean",
+        "title": "Owner / Principal Contact",
+        "source_url": "http://www.jamesdeanconstruction.com/contact-us-1.html",
+        "linkedin_url": null,
+        "is_original": false
+      },
+      {
+        "name": "Jeffrey Dean",
+        "title": "Licensed Employee",
+        "source_url": "https://secure.lni.wa.gov/verify/Detail.aspx?UBI=601067776&LIC=JAMESDC121J7",
+        "linkedin_url": null,
+        "is_original": false
+      },
+      {
+        "name": "Lavanda Dean",
+        "title": "Licensed Employee",
+        "source_url": "https://secure.lni.wa.gov/verify/Detail.aspx?UBI=601067776&LIC=JAMESDC121J7",
+        "linkedin_url": null,
+        "is_original": false
+      }
+    ],
+    "recent_news": "No major 2024-2025 news stories found. Washington State L&I contractor license active as of July 2025. BuildZoom score of 94 ranks in top 24% of 128,670 WA licensed contractors. Company receives federal bridge-related grant work.",
+    "news_source_url": "https://secure.lni.wa.gov/verify/Detail.aspx?UBI=601067776&LIC=JAMESDC121J7",
+    "verification_status": "Unverified",
+    "verification_notes": "Original contact name was null in source data. James Dean confirmed as owner/principal from company website. Jeffrey Dean and Lavanda Dean listed on Washington L&I license. No original contact to verify.",
+    "data_quality_score": 3,
+    "enrichment_notes": "Source data had null contact name and title. Owner James Dean has a Civil Engineering degree from Washington State University. Small family business serving the White Salmon, WA area. Also listed at Procore marketplace as a contractor."
+  },
+  {
+    "company_name": "J.L.W. TRUCKING, INC.",
+    "state": "GA",
+    "industry": "Road Freight / Hauling",
+    "founded": "1996",
+    "employees": 12,
+    "revenue_usd_000s": 26400,
+    "website": "https://www.jlwtruckingco.com",
+    "website_verified": true,
+    "website_note": "Active site confirmed at jlwtruckingco.com; company located at 384 Lower Harmony Rd, Eatonton, GA 31024",
+    "description": "Family-owned and operated hauling company based in Eatonton, Georgia, founded in 1996, operating for three generations as Middle Georgia's trusted hauling service using refrigerated vans, milk tanks, and water tanks for interstate freight.",
+    "description_source": "https://www.jlwtruckingco.com/about-us",
+    "contacts": [
+      {
+        "name": "Warren Camp",
+        "title": "President",
+        "source_url": "https://www.dnb.com/business-directory/company-profiles.jlw_trucking_inc.25a34a9afd65ae1eb7e0e85c84691613.html",
+        "linkedin_url": null,
+        "is_original": false
+      }
+    ],
+    "recent_news": "No specific 2024-2025 news found. A related entity, JLW HAULING LLC, registered with FMCSA as an active carrier and broker in September 2024, possibly a spin-off or affiliated entity. USDOT No. 650110.",
+    "news_source_url": "https://safer.fmcsa.dot.gov/query.asp?searchtype=ANY&query_type=queryCarrierSnapshot&query_param=USDOT&query_string=650110",
+    "verification_status": "Unverified",
+    "verification_notes": "Original contact name was null in source data. Warren Camp identified as President from D&B profile. Founded year discrepancy: source data says 1991 but company website states 1996 as founding year.",
+    "data_quality_score": 3,
+    "enrichment_notes": "Source data had null contact name and states founding year as 1991; company website clearly states 1996 as the founding year. Family-owned for three generations. Company operates refrigerated vans and liquid tankers in Middle Georgia. FMCSA licensed interstate carrier."
+  },
+  {
+    "company_name": "PACIFIC LIVING PROPERTIES, INC.",
+    "state": "CA",
+    "industry": "Real Estate / Multifamily Property Management",
+    "founded": "2003",
+    "employees": 15,
+    "revenue_usd_000s": 91000,
+    "website": "https://www.pacificliving.com",
+    "website_verified": true,
+    "website_note": "Company operates at 4660 La Jolla Village Dr, Suite 660, San Diego, CA 92122. Revenue of $91M per 2025 data aggregator estimates \u2014 significantly above $26.4M in source data.",
+    "description": "Multifamily property management company founded by Jeff Miller, based in San Diego, CA, with over 20 years of experience managing apartment communities in California, Montana, Washington, and Idaho. Company focuses exclusively on maximizing performance of multifamily properties, with total managed deal value exceeding $1 billion.",
+    "description_source": "https://www.zoominfo.com/c/pacific-living-properties-inc/344776952",
+    "contacts": [
+      {
+        "name": "Ms. Susie M. LaVallie",
+        "title": "Former SVP Accounting & Finance (Removed 2021)",
+        "source_url": "https://opencorporates.com/companies/us_ca/C2476676",
+        "linkedin_url": "https://www.linkedin.com/in/susie-lavallie-aa286434",
+        "is_original": true
+      },
+      {
+        "name": "Jeff Miller",
+        "title": "CEO / Owner / Partner",
+        "source_url": "https://www.linkedin.com/in/jeff-miller-3302467/",
+        "linkedin_url": "https://www.linkedin.com/in/jeff-miller-3302467/",
+        "is_original": false
+      },
+      {
+        "name": "Tom Daniels",
+        "title": "Partner / Executive Vice President of Operations",
+        "source_url": "https://www.zoominfo.com/p/Thomas-Daniels/1211778352",
+        "linkedin_url": "https://www.linkedin.com/in/todaniels/",
+        "is_original": false
+      },
+      {
+        "name": "Marty Wilson",
+        "title": "Vice President of Construction and Safety",
+        "source_url": "https://rocketreach.co/pacific-living-properties-management_b5f08e6ff6a27f6e",
+        "linkedin_url": null,
+        "is_original": false
+      },
+      {
+        "name": "Erik Anderson",
+        "title": "Vice President of Renovation Services",
+        "source_url": "https://www.bpcmag.com/case-studies/erik-anderson-pacific-living-properties/",
+        "linkedin_url": null,
+        "is_original": false
+      }
+    ],
+    "recent_news": "No major 2024-2025 specific news or awards found. Pacific Living Properties appears closely related to 11Residential \u2014 Tom Daniels joined 11Residential as EVP of Operations in November 2022, previously holding the same role at Pacific Living Properties. Companies may share common ownership or have merged/rebranded.",
+    "news_source_url": "https://www.linkedin.com/pulse/pacific-living-properties-welcomes-new-evp-tom-",
+    "verification_status": "Discrepancy",
+    "verification_notes": "Susie LaVallie was removed as an officer (Governor and registered agent) between March 6, 2021 and April 30, 2021 per California and Washington corporate records. She is no longer affiliated with the company. Jeff Miller is the current CEO/Owner. Revenue in source data ($26.4M) appears to be a placeholder; actual revenue estimated at $91M by 2025 data aggregators.",
+    "data_quality_score": 4,
+    "enrichment_notes": "Susie LaVallie removed from all officer positions in 2021. Notable connection between Pacific Living Properties and 11Residential \u2014 both companies feature Tom Daniels as EVP Operations. Jeff Miller is also a partner at 11 Capital, a private equity/real estate firm. Total deal value managed exceeds $1B."
+  },
+  {
+    "company_name": "11RESIDENTIAL (11residential.com)",
+    "state": "WA",
+    "industry": "Real Estate / Multifamily Property Management",
+    "founded": null,
+    "employees": null,
+    "revenue_usd_000s": null,
+    "website": "https://www.11residential.com",
+    "website_verified": true,
+    "website_note": "Active site confirmed; company based in Kirkland, WA with managed properties in Washington, California, Montana, and Idaho. Closely affiliated with Pacific Living Properties (shared executive Tom Daniels).",
+    "description": "Property management company based in Kirkland, WA, managing apartment communities across Washington, Montana, Idaho, and California, committed to offering an exceptional living environment through excellent customer service and state-of-the-art technology.",
+    "description_source": "https://www.11residential.com/",
+    "contacts": [
+      {
+        "name": "Ms. Natalie Caranci",
+        "title": "Manager, Accounting (Unverified at this company)",
+        "source_url": "https://www.zoominfo.com/pic/11residential/1332398330",
+        "linkedin_url": null,
+        "is_original": true
+      },
+      {
+        "name": "Tom Daniels",
+        "title": "Partner / Executive Vice President of Operations (joined Nov 2022)",
+        "source_url": "https://www.linkedin.com/in/todaniels/",
+        "linkedin_url": "https://www.linkedin.com/in/todaniels/",
+        "is_original": false
+      },
+      {
+        "name": "Shannon Reed",
+        "title": "Executive VP, Accounting",
+        "source_url": "https://www.zoominfo.com/p/Shannon-Reed/13249035196",
+        "linkedin_url": null,
+        "is_original": false
+      }
+    ],
+    "recent_news": "Tom Daniels joined 11Residential as Partner and EVP of Operations in November 2022, previously holding the same role at Pacific Living Properties. The two companies appear to share common ownership or management structure under CEO Jeff Miller and the 11 Capital investment platform.",
+    "news_source_url": "https://www.linkedin.com/in/todaniels/",
+    "verification_status": "Unverified",
+    "verification_notes": "Source data had null company name; identified as 11Residential from website 11residential.com. Natalie Caranci listed as Manager Accounting \u2014 could not be confirmed at 11Residential specifically; Shannon Reed is the confirmed EVP Accounting. 11Residential and Pacific Living Properties appear to be related or affiliated entities under common ownership.",
+    "data_quality_score": 2,
+    "enrichment_notes": "Source data had null company name. 11Residential is a Kirkland, WA-based property management company closely affiliated with Pacific Living Properties. Both companies are linked to Jeff Miller and Tom Daniels. Natalie Caranci could not be confirmed as a current accounting manager at this company."
+  },
+  {
+    "company_name": "LA FOLLETTE MEDICAL CENTER",
+    "state": "TN",
+    "industry": "Hospital Activities",
+    "founded": "1956",
+    "employees": 25,
+    "revenue_usd_000s": 26400,
+    "website": "https://www.tennovahealthcare.com",
+    "website_verified": false,
+    "website_note": "The listed website www.tennovahealthcare.com redirects broadly to Tennova system. The specific La Follette Medical Center URL is www.tennovalafollette.com which is confirmed active.",
+    "description": "Tennova Healthcare - LaFollette Medical Center is an acute care hospital located at 923 E Central Ave, LaFollette, TN 37766, operating as part of the Tennova Healthcare system (a Community Health Systems company). The facility serves Campbell County and surrounding areas with emergency, surgical, imaging, and primary care services.",
+    "description_source": "https://www.tennovalafollette.com/hospital-about-us",
+    "contacts": [
+      {
+        "name": "Ms Rhonda Maynard",
+        "title": "Chief Financial Officer",
+        "source_url": "https://www.tennovahealthcare.com",
+        "linkedin_url": null,
+        "is_original": true
+      },
+      {
+        "name": "Mark Cain",
+        "title": "Chief Executive Officer",
+        "source_url": "https://www.tennovalafollette.com/",
+        "linkedin_url": null,
+        "is_original": false
+      },
+      {
+        "name": "Robert Payne",
+        "title": "Assistant Chief Financial Officer",
+        "source_url": "https://www.linkedin.com/in/robert-payne-85983353/",
+        "linkedin_url": "https://www.linkedin.com/in/robert-payne-85983353/",
+        "is_original": false
+      }
+    ],
+    "recent_news": "2024: 87,000+ patient encounters with ~$46M total community impact; ~$16M in charity/uncompensated care; $1M capital projects including parking lot improvements, new ultrasound equipment, pneumatic tube system; added orthopedic service line; new primary care provider Daryn Nichole Hatmaker FNP joined August 2024. 2025: 92,000+ patient encounters, $70M+ community contribution; recognized by Tennessee Hospital Association for Zero Harm achievements (CLABSI, CAUTI, CDI, MRSA).",
+    "news_source_url": "https://www.tennovalafollette.com/",
+    "verification_status": "Unverified",
+    "verification_notes": "Original contact 'Rhonda Maynard, CFO' could not be independently confirmed from public search results. Current CEO is identified as Mark Cain. Website: the listed www.tennovahealthcare.com is the parent system site; specific facility URL is www.tennovalafollette.com.",
+    "data_quality_score": 4,
+    "enrichment_notes": "Part of Tennova Healthcare system (owned by Community Health Systems). CMS four-star rating as of May 2021. The original dataset had a second blank entry for this company with URL www.tennovalafollette.com \u2014 that entry is handled separately below."
+  },
+  {
+    "company_name": "HEALTHY MOTHERS/HEALTHY BABIES COALITION OF PALM BEACH COUNTY, INC.",
+    "state": "FL",
+    "industry": "Other Health / Nonprofit Maternal Health",
+    "founded": "1986",
+    "employees": 16,
+    "revenue_usd_000s": 26400,
+    "website": "https://www.hmhbpbc.org",
+    "website_verified": true,
+    "website_note": "Active site confirmed at hmhbpbc.org with full service information and leadership pages.",
+    "description": "Healthy Mothers, Healthy Babies Coalition of Palm Beach County, Inc. is a nonprofit organization based in West Palm Beach, Florida, founded in 1986, dedicated to improving birth outcomes through equitable delivery of early prenatal care, education, and support for pregnant women. Services include CenteringPregnancy\u00ae, doula services, breastfeeding support, emergency pantry, and educational classes.",
+    "description_source": "https://www.hmhbpbc.org/",
+    "contacts": [
+      {
+        "name": "Michelle Gonzalez",
+        "title": "Chief Executive Officer",
+        "source_url": "https://www.linkedin.com/in/mbgonzalez/",
+        "linkedin_url": "https://www.linkedin.com/in/mbgonzalez/",
+        "is_original": false
+      },
+      {
+        "name": "Katrina Long-Robinson",
+        "title": "Board Chair",
+        "source_url": "https://www.hmhbpbc.org/leadership",
+        "linkedin_url": null,
+        "is_original": false
+      },
+      {
+        "name": "Don W. Chester",
+        "title": "Board Member (St. Mary's Medical Center)",
+        "source_url": "https://www.hmhbpbc.org/leadership",
+        "linkedin_url": null,
+        "is_original": false
+      },
+      {
+        "name": "Dr. Helena De Carvalho",
+        "title": "Board Member (FL Dept of Health, Palm Beach County)",
+        "source_url": "https://www.hmhbpbc.org/leadership",
+        "linkedin_url": null,
+        "is_original": false
+      }
+    ],
+    "recent_news": "2024: Finalist in The Palm Beach Post's 2024 Palm Beach County Community's Choice Awards. Participated in 'Birdies for Children' fundraising campaign at The Classic in The Palm Beaches 2024. The only provider of CenteringPregnancy\u00ae in Palm Beach County since 2008.",
+    "news_source_url": "https://www.hmhbpbc.org/",
+    "verification_status": "Unverified",
+    "verification_notes": "No original contact was listed in the source data. CEO Michelle Gonzalez identified via LinkedIn. Website confirmed active and matching. Founded 1986 consistent with 'since 2008' CenteringPregnancy provider claim.",
+    "data_quality_score": 4,
+    "enrichment_notes": "Nonprofit org. Phone: 561-665-4500. EIN: 59-2657051 per ProPublica. Organization provides free services to pregnant women in Palm Beach County. Strong online presence."
+  },
+  {
+    "company_name": "NOVA HEALTHCARE GROUP",
+    "state": "NV",
+    "industry": "General Medical / Home-Based Primary Care",
+    "founded": "2013",
+    "employees": 30,
+    "revenue_usd_000s": 26400,
+    "website": "https://novahealthcaregroup.com",
+    "website_verified": true,
+    "website_note": "Active site confirmed at novahealthcaregroup.com and also novahealth.vip (appears to be same or related entity).",
+    "description": "Nova Healthcare Group, LLC is a home-visiting primary care and pain management practice serving the Las Vegas Valley, Nevada, including Pahrump and Boulder City. The practice employs board-certified nurse practitioners and case management specialists, utilizing a combination of remote patient monitoring technology, telemedicine, and in-home face-to-face visits for homebound patients.",
+    "description_source": "https://novahealth.vip/about",
+    "contacts": [
+      {
+        "name": "Anneleisa Gail McDonald APRN-BC",
+        "title": "Provider / Owner",
+        "source_url": "https://npiprofile.com/npi/1548754690",
+        "linkedin_url": null,
+        "is_original": false
+      },
+      {
+        "name": "Judith L. Trevisano NP",
+        "title": "Adult Health Nurse Practitioner",
+        "source_url": "https://www.healthcare4ppl.com/medical-group/nevada/las-vegas/nova-healthcare-group-llc-2264771013.html",
+        "linkedin_url": null,
+        "is_original": false
+      }
+    ],
+    "recent_news": "No significant news found for 2024-2025. Company continues to operate as a home-visiting medical practice in Las Vegas. No major expansions or funding announcements identified.",
+    "news_source_url": "https://novahealth.vip",
+    "verification_status": "Unverified",
+    "verification_notes": "No original contact was listed in the source data. Founded year not in original record \u2014 identified as 2013 via NPI/business records. Website confirmed active. Small LLC practice with limited public executive data.",
+    "data_quality_score": 3,
+    "enrichment_notes": "Small medical practice LLC. NPI: 1548754690. Address: 6655 W Sahara Ave Ste B 200, Las Vegas, NV 89146. Phone: 702-268-8900. The 30-employee headcount from the original record seems high for this small practice \u2014 may be inaccurate."
+  },
+  {
+    "company_name": "ALIGNED ENERGY DATA CENTER",
+    "state": "VA",
+    "industry": "Data Center / IT Infrastructure (NACE 6203)",
+    "founded": null,
+    "employees": 8,
+    "revenue_usd_000s": 26400,
+    "website": "https://aligneddc.com",
+    "website_verified": true,
+    "website_note": "Active site confirmed at aligneddc.com. Note: company operates as 'Aligned Data Centers' (formerly 'Aligned Energy'). 'Aligned Energy Data Center' in the original record refers to the company's Virginia operations.",
+    "description": "Aligned Data Centers (formerly Aligned Energy) is a leading provider of hyperscale, colocation, and build-to-scale data center solutions headquartered in Dallas, Texas, with major campuses in Northern Virginia (Ashburn and Sterling). The company provides adaptive AI-ready infrastructure for cloud, enterprise, and hyperscale customers, featuring patented Delta Cube cooling technology.",
+    "description_source": "https://aligneddc.com/",
+    "contacts": [
+      {
+        "name": "Andrew Schaap",
+        "title": "Chief Executive Officer",
+        "source_url": "https://aligneddc.com/leadership/",
+        "linkedin_url": null,
+        "is_original": false
+      },
+      {
+        "name": "Jakob Carnemark",
+        "title": "Founder / Chief Technology Officer",
+        "source_url": "https://aligneddc.com/blog/aligned-energy-builds-for-scale-founder-names-andrew-schaap-ceo/",
+        "linkedin_url": null,
+        "is_original": false
+      },
+      {
+        "name": "Meghan Baivier",
+        "title": "Chief Financial Officer",
+        "source_url": "https://www.dmagazine.com/business-economy/2024/09/aligned-data-centers-makes-two-moves-in-its-c-suite-fort-worth-chamber-names-new-vp-of-marketing/",
+        "linkedin_url": null,
+        "is_original": false
+      },
+      {
+        "name": "Anubhav Raj",
+        "title": "Chief Investment Officer",
+        "source_url": "https://www.dmagazine.com/business-economy/2024/09/aligned-data-centers-makes-two-moves-in-its-c-suite-fort-worth-chamber-names-new-vp-of-marketing/",
+        "linkedin_url": null,
+        "is_original": false
+      }
+    ],
+    "recent_news": "October 2025: AIP, MGX, and BlackRock's GIP announced acquisition of all equity in Aligned Data Centers at ~$40 billion enterprise value. September 2024: Two C-suite changes \u2014 Meghan Baivier appointed CFO; Anubhav Raj moved to new Chief Investment Officer role. March 2026: Closed $2.58 billion credit facility to fuel continued U.S. expansion. Won 2024 Northern Virginia Tech Council Data Center Innovation Award.",
+    "news_source_url": "https://aligneddc.com/blog/ai-infrastructure-partnership-aip-mgx-and-blackrocks-global-infrastructure-partners-gip-to-acquire-all-equity-in-aligned-data-centers/",
+    "verification_status": "Unverified",
+    "verification_notes": "No original contact listed in source data. Company name 'Aligned Energy Data Center' appears to be an outdated/alternate name \u2014 current branding is 'Aligned Data Centers'. Employee count of 8 seems extremely low for a company with $40B enterprise value \u2014 likely refers to a specific Virginia entity/subsidiary only.",
+    "data_quality_score": 4,
+    "enrichment_notes": "Aligned Data Centers is a major hyperscale data center company. The 8-employee count and VA state designation likely refer to a specific legal entity for Virginia operations, not the full company. HQ is in Dallas, TX. Northern Virginia campuses in Ashburn and Sterling. Portfolio: 50 campuses, 5+ GW capacity."
+  }
+]
