@@ -557,7 +557,7 @@ export default function SettingsPage() {
           <SecretInput
             value={localApolloKey}
             onChange={setLocalApolloKey}
-            placeholder="p_k86JQdDzCm5G3aZqH6zg"
+            placeholder="REPLACE_WITH_APOLLO_KEY"
           />
         </div>
         <SaveButton section="apollo" onClick={handleSaveApollo} />

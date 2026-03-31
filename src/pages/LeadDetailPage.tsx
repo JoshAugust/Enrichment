@@ -114,7 +114,7 @@ function ContactsTable({ rows, showLinkedIn = false, companyId, companyName, com
     if (!row.name) return;
     setEnrichingIdx(idx);
     try {
-      const key = apolloKey || 'p_k86JQdDzCm5G3aZqH6zg';
+      const key = apolloKey || 'REPLACE_WITH_APOLLO_KEY';
       // Try Apollo people search by name + domain
       const domain = companyDomain?.replace(/^https?:\/\/(www\.)?/, '').replace(/\/.*$/, '') || '';
       const params = new URLSearchParams({ api_key: key });
