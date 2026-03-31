@@ -347,7 +347,7 @@ function CustomColumnsSection() {
 export default function SettingsPage() {
   const {
     dealflowUrl, apiKey, lastSyncTime, lastSyncCount,
-    openaiKey, apolloApiKey, insightEngineUrl,
+    anthropicKey, apolloApiKey, insightEngineUrl,
     setDealflowUrl, setApiKey, setLastSync,
     setOpenaiKey, setApolloApiKey, setInsightEngineUrl,
   } = useSettingsStore();
@@ -361,8 +361,8 @@ export default function SettingsPage() {
   const [syncDone, setSyncDone] = useState(false);
   const [syncError, setSyncError] = useState('');
 
-  // OpenAI local state
-  const [localOpenaiKey, setLocalOpenaiKey] = useState(openaiKey);
+  // Anthropic local state
+  const [localOpenaiKey, setLocalOpenaiKey] = useState(anthropicKey);
 
   // Apollo local state
   const [localApolloKey, setLocalApolloKey] = useState(apolloApiKey);
@@ -599,19 +599,19 @@ export default function SettingsPage() {
         </div>
       </SectionCard>
 
-      {/* ── 4. OpenAI ─────────────────────────────────────── */}
+      {/* ── 4. Anthropic ─────────────────────────────────────── */}
       <SectionCard
         icon={<Bot size={18} color={S.primary} />}
         iconBg="#EEF2FF"
-        title="AI (OpenAI)"
+        title="AI (Anthropic)"
         description="Powers Jarvis chat, AI scoring, and industry classification."
       >
         <div style={{ marginBottom: 20 }}>
-          <FieldLabel hint="Your OpenAI API key — stored locally in your browser">OpenAI API Key</FieldLabel>
+          <FieldLabel hint="Your Anthropic API key — stored locally in your browser">Anthropic API Key</FieldLabel>
           <SecretInput
             value={localOpenaiKey}
             onChange={setLocalOpenaiKey}
-            placeholder="sk-proj-…"
+            placeholder="sk-ant-api03-…"
           />
           <p style={{ fontSize: 12, color: S.textMuted, marginTop: 6 }}>
             Used for Jarvis chat, AI company scoring, and enrichment. Never leaves your browser.

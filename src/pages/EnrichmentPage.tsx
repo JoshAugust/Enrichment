@@ -325,7 +325,7 @@ function BatchEnrichmentPanel({ onRunTimezone, onRunMissingData, onRunApolloPeop
 }
 
 export default function EnrichmentPage() {
-  const { apolloApiKey, insightEngineUrl, openaiKey } = useSettingsStore();
+  const { apolloApiKey, insightEngineUrl, anthropicKey } = useSettingsStore();
 
   const [logs, setLogs] = useState<EnrichmentLog[]>([]);
   const [totalCompanies, setTotalCompanies] = useState(0);
@@ -678,7 +678,7 @@ export default function EnrichmentPage() {
   // ── AI Scoring ────────────────────────────────────────────────────────────
 
   async function runAiScoring() {
-    if (!openaiKey) {
+    if (!anthropicKey) {
       setAiScoreResult('OpenAI API key not configured — go to Settings.');
       return;
     }
@@ -712,7 +712,7 @@ export default function EnrichmentPage() {
           const res = await fetch('https://api.openai.com/v1/chat/completions', {
             method: 'POST',
             headers: {
-              'Authorization': `Bearer ${openaiKey}`,
+              'Authorization': `Bearer ${anthropicKey}`,
               'Content-Type': 'application/json',
             },
             body: JSON.stringify({
@@ -826,7 +826,7 @@ export default function EnrichmentPage() {
   // ── News enrichment ───────────────────────────────────────────────────────
 
   async function runNewsEnrichment() {
-    if (!openaiKey) {
+    if (!anthropicKey) {
       setNewsResult('OpenAI API key not configured — go to Settings.');
       return;
     }
@@ -858,7 +858,7 @@ export default function EnrichmentPage() {
           const res = await fetch('https://api.openai.com/v1/chat/completions', {
             method: 'POST',
             headers: {
-              'Authorization': `Bearer ${openaiKey}`,
+              'Authorization': `Bearer ${anthropicKey}`,
               'Content-Type': 'application/json',
             },
             body: JSON.stringify({
@@ -969,7 +969,7 @@ export default function EnrichmentPage() {
             await db.companies.update(company.id, { contacts: enrichedContacts });
             enriched++;
           }
-        } else if (openaiKey) {
+        } else if (anthropicKey) {
           // Fallback: use OpenAI to generate LinkedIn search info
           const contactsWithLinkedin = contacts.filter(ct => ct.linkedin_url);
           if (contactsWithLinkedin.length > 0 && company.id != null) {
@@ -997,7 +997,7 @@ export default function EnrichmentPage() {
   // ── Email verification ────────────────────────────────────────────────────
 
   async function runEmailVerification() {
-    if (!openaiKey) {
+    if (!anthropicKey) {
       setEmailVerifyStats(null);
       return;
     }
@@ -1044,7 +1044,7 @@ export default function EnrichmentPage() {
           const res = await fetch('https://api.openai.com/v1/chat/completions', {
             method: 'POST',
             headers: {
-              'Authorization': `Bearer ${openaiKey}`,
+              'Authorization': `Bearer ${anthropicKey}`,
               'Content-Type': 'application/json',
             },
             body: JSON.stringify({
@@ -1147,7 +1147,7 @@ export default function EnrichmentPage() {
     logSource: string;
     maxBatch?: number;
   }): Promise<void> {
-    if (!openaiKey) {
+    if (!anthropicKey) {
       opts.setResult('OpenAI API key not configured — go to Settings.');
       return;
     }
@@ -1171,7 +1171,7 @@ export default function EnrichmentPage() {
       for (let i = 0; i < total; i++) {
         const company = toEnrich[i];
         try {
-          const result = await opts.sourceFn(company, openaiKey);
+          const result = await opts.sourceFn(company, anthropicKey);
           if (company.id != null && Object.keys(result.data).length > 0) {
             await db.companies.update(company.id, result.data as Partial<Company>);
             enriched++;

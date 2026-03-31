@@ -12,8 +12,8 @@ export interface CustomColumn {
   created_at: string;
 }
 
-const DEFAULT_OPENAI_KEY =
-  'REPLACE_WITH_OPENAI_KEY';
+const DEFAULT_ANTHROPIC_KEY = // Set in Settings page
+  '';
 
 interface SettingsState {
   // DealFlow
@@ -26,7 +26,7 @@ interface SettingsState {
   columnOrder: string[];
   visibleColumns: string[];
   // AI integrations
-  openaiKey: string;
+  anthropicKey: string;
   apolloApiKey: string;
   insightEngineUrl: string;
   // Custom columns
@@ -57,7 +57,7 @@ export const useSettingsStore = create<SettingsState>()(
       columnWidths: {},
       columnOrder: [],
       visibleColumns: [],
-      openaiKey: DEFAULT_OPENAI_KEY,
+      anthropicKey: DEFAULT_ANTHROPIC_KEY,
       apolloApiKey: 'REPLACE_WITH_APOLLO_KEY',
       insightEngineUrl: 'https://insighta9.netlify.app',
       setDealflowUrl: (url) => set({ dealflowUrl: url }),
@@ -71,7 +71,7 @@ export const useSettingsStore = create<SettingsState>()(
           columnWidths: { ...state.columnWidths, [col]: width },
         })),
       customColumns: [],
-      setOpenaiKey: (key) => set({ openaiKey: key }),
+      setOpenaiKey: (key) => set({ anthropicKey: key }),
       setApolloApiKey: (key) => set({ apolloApiKey: key }),
       setInsightEngineUrl: (url) => set({ insightEngineUrl: url }),
       setCustomColumns: (cols) => set({ customColumns: cols }),

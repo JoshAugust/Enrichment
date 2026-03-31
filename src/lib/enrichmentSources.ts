@@ -1,6 +1,7 @@
 /**
  * Client-side enrichment sources for E1.
- * All sources use OpenAI gpt-4o-mini for analysis since E1 is 100% client-side.
+ * Uses Anthropic Claude (claude-sonnet-4-20250514) via the Messages API.
+ * API key comes from settings store (set in Settings page).
  */
 
 import type { Company } from './db';
@@ -16,33 +17,35 @@ export interface EnrichmentSourceResult {
 
 // ─── Helpers ──────────────────────────────────────────────────────────────────
 
-async function callOpenAI(
+async function callAI(
   apiKey: string,
   systemPrompt: string,
   userPrompt: string,
   maxTokens = 800
 ): Promise<string> {
-  const resp = await fetch('https://api.openai.com/v1/chat/completions', {
+  const resp = await fetch('https://api.anthropic.com/v1/messages', {
     method: 'POST',
     headers: {
       'Content-Type': 'application/json',
-      'Authorization': `Bearer ${apiKey}`,
+      'x-api-key': apiKey,
+      'anthropic-version': '2023-06-01',
+      'anthropic-dangerous-direct-browser-access': 'true',
     },
     body: JSON.stringify({
-      model: 'gpt-4o-mini',
+      model: 'claude-sonnet-4-20250514',
+      max_tokens: maxTokens,
+      system: systemPrompt,
       messages: [
-        { role: 'system', content: systemPrompt },
         { role: 'user', content: userPrompt },
       ],
-      max_tokens: maxTokens,
     }),
   });
   if (!resp.ok) {
     const err = await resp.text();
-    throw new Error(`OpenAI error ${resp.status}: ${err}`);
+    throw new Error(`Anthropic error ${resp.status}: ${err}`);
   }
   const data = await resp.json();
-  return data.choices?.[0]?.message?.content || '';
+  return data.content?.[0]?.text || '';
 }
 
 function companyContext(company: Company): string {
@@ -75,7 +78,7 @@ export async function enrichCompanyWebsite(
   apiKey: string
 ): Promise<EnrichmentSourceResult> {
   const ctx = companyContext(company);
-  const raw = await callOpenAI(
+  const raw = await callAI(
     apiKey,
     'You are a B2B research analyst. Analyse company websites and extract business intelligence. Always respond with valid JSON.',
     `Analyse this company and provide a comprehensive website/company summary.
@@ -127,7 +130,7 @@ export async function enrichEmailDiscovery(
     .trim();
 
   const ctx = companyContext(company);
-  const raw = await callOpenAI(
+  const raw = await callAI(
     apiKey,
     'You are a B2B email research specialist. Identify likely email patterns for companies. Always respond with valid JSON.',
     `Identify the most likely email patterns and example addresses for this company.
@@ -173,7 +176,7 @@ export async function enrichFunding(
   apiKey: string
 ): Promise<EnrichmentSourceResult> {
   const ctx = companyContext(company);
-  const raw = await callOpenAI(
+  const raw = await callAI(
     apiKey,
     'You are a venture capital and funding research analyst. Research company funding history. Always respond with valid JSON.',
     `Research the funding history, investors, and financial backing for this company.
@@ -225,7 +228,7 @@ export async function enrichGoogleBusiness(
   apiKey: string
 ): Promise<EnrichmentSourceResult> {
   const ctx = companyContext(company);
-  const raw = await callOpenAI(
+  const raw = await callAI(
     apiKey,
     'You are a local business research analyst. Research Google Business profiles and online reviews. Always respond with valid JSON.',
     `Research the Google Business Profile, ratings, and online reviews for this company.
@@ -271,7 +274,7 @@ export async function enrichJobPostings(
   apiKey: string
 ): Promise<EnrichmentSourceResult> {
   const ctx = companyContext(company);
-  const raw = await callOpenAI(
+  const raw = await callAI(
     apiKey,
     'You are a B2B hiring intelligence analyst. Research company job postings and hiring signals. Always respond with valid JSON.',
     `Research current job postings and hiring signals for this company.
@@ -317,7 +320,7 @@ export async function enrichLinkedInCompany(
   apiKey: string
 ): Promise<EnrichmentSourceResult> {
   const ctx = companyContext(company);
-  const raw = await callOpenAI(
+  const raw = await callAI(
     apiKey,
     'You are a LinkedIn research analyst. Research company LinkedIn profiles and employee data. Always respond with valid JSON.',
     `Research this company's LinkedIn presence, employee count, and recent activity.
@@ -422,7 +425,7 @@ export async function enrichPhoneValidation(
 
   if (suspiciousPhones.length > 0) {
     try {
-      const raw = await callOpenAI(
+      const raw = await callAI(
         apiKey,
         'You are a phone number validation expert. Always respond with valid JSON.',
         `Validate these phone numbers. For each, respond with "valid", "suspicious", or "invalid".
@@ -467,7 +470,7 @@ export async function enrichSecEdgar(
   apiKey: string
 ): Promise<EnrichmentSourceResult> {
   const ctx = companyContext(company);
-  const raw = await callOpenAI(
+  const raw = await callAI(
     apiKey,
     'You are an SEC filings research analyst. Research public company filings and regulatory submissions. Always respond with valid JSON.',
     `Research SEC EDGAR filings and regulatory submissions for this company (if it is a US public company or has SEC filing obligations).
@@ -515,7 +518,7 @@ export async function enrichSocialSignals(
   apiKey: string
 ): Promise<EnrichmentSourceResult> {
   const ctx = companyContext(company);
-  const raw = await callOpenAI(
+  const raw = await callAI(
     apiKey,
     'You are a social media research analyst. Research company social media presence. Always respond with valid JSON.',
     `Research this company's social media presence across all major platforms.
@@ -578,7 +581,7 @@ export async function enrichTechStack(
   apiKey: string
 ): Promise<EnrichmentSourceResult> {
   const ctx = companyContext(company);
-  const raw = await callOpenAI(
+  const raw = await callAI(
     apiKey,
     'You are a technology stack analyst. Identify company tech stacks based on their industry, size, and digital presence. Always respond with valid JSON.',
     `Identify the most likely technology stack for this company based on their profile.
@@ -626,7 +629,7 @@ export async function enrichWebResearch(
   apiKey: string
 ): Promise<EnrichmentSourceResult> {
   const ctx = companyContext(company);
-  const raw = await callOpenAI(
+  const raw = await callAI(
     apiKey,
     'You are a B2B research analyst with deep knowledge of companies and industries. Provide comprehensive research. Always respond with valid JSON.',
     `Provide comprehensive web research and intelligence on this company.

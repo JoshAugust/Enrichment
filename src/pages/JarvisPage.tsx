@@ -232,7 +232,7 @@ function MessageBubble({
 // ─── Main page ────────────────────────────────────────────────────────────────
 
 export default function JarvisPage() {
-  const { openaiKey } = useSettingsStore();
+  const { anthropicKey } = useSettingsStore();
   const [messages, setMessages] = useState<ChatMessage[]>([]);
   const [input, setInput] = useState('');
   const [loading, setLoading] = useState(false);
@@ -299,27 +299,29 @@ export default function JarvisPage() {
         { role: 'user' as const, content: text },
       ];
 
-      const response = await fetch('https://api.openai.com/v1/chat/completions', {
+      const response = await fetch('https://api.anthropic.com/v1/messages', {
         method: 'POST',
         headers: {
-          'Authorization': `Bearer ${openaiKey}`,
+          'x-api-key': anthropicKey,
           'Content-Type': 'application/json',
+          'anthropic-version': '2023-06-01',
+          'anthropic-dangerous-direct-browser-access': 'true',
         },
         body: JSON.stringify({
-          model: 'gpt-4o-mini',
-          messages: apiMessages,
+          model: 'claude-sonnet-4-20250514',
+          system: systemPrompt,
+          messages: historyMessages.concat([{ role: 'user', content: text }]),
           stream: true,
           max_tokens: 1024,
-          temperature: 0.7,
         }),
       });
 
       if (!response.ok) {
         const errText = await response.text();
-        throw new Error(`OpenAI error ${response.status}: ${errText}`);
+        throw new Error(`Anthropic error ${response.status}: ${errText}`);
       }
 
-      // Stream response
+      // Stream response (Anthropic SSE format)
       const reader = response.body!.getReader();
       const decoder = new TextDecoder();
       let fullContent = '';
@@ -334,9 +336,11 @@ export default function JarvisPage() {
           if (data === '[DONE]') continue;
           try {
             const json = JSON.parse(data);
-            const delta = json.choices?.[0]?.delta?.content || '';
-            fullContent += delta;
-            setStreamContent(fullContent);
+            if (json.type === 'content_block_delta') {
+              const delta = json.delta?.text || '';
+              fullContent += delta;
+              setStreamContent(fullContent);
+            }
           } catch {
             // Ignore malformed chunks
           }
@@ -367,7 +371,7 @@ export default function JarvisPage() {
     } finally {
       setLoading(false);
     }
-  }, [input, loading, messages, openaiKey]);
+  }, [input, loading, messages, anthropicKey]);
 
   const handleKeyDown = (e: React.KeyboardEvent<HTMLTextAreaElement>) => {
     if (e.key === 'Enter' && !e.shiftKey) {

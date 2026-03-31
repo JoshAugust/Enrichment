@@ -223,7 +223,7 @@ interface InsightSection {
 }
 
 function CompanyIntelligence({ company, onUpdate }: { company: Company; onUpdate: () => void }) {
-  const { openaiKey } = useSettingsStore();
+  const { anthropicKey } = useSettingsStore();
   const [insights, setInsights] = useState<Record<string, string>>(() => {
     // Load cached insights from company object
     const cached = (company as any).__insights;
@@ -234,7 +234,7 @@ function CompanyIntelligence({ company, onUpdate }: { company: Company; onUpdate
   const [personResult, setPersonResult] = useState<string | null>(null);
   const [personLoading, setPersonLoading] = useState(false);
 
-  const apiKey = openaiKey || 'REPLACE_WITH_OPENAI_KEY';
+  const apiKey = anthropicKey || '';
 
   const companyCtx = `Company: ${company.company_name || ''}\nIndustry: ${company.industry || ''}\nGeography: ${company.geography || ''}\nWebsite: ${company.website || ''}\nDescription: ${company.description || ''}\nEmployees: ${company.employees || ''}\nRevenue: ${company.revenue || ''}\nYear Inc: ${company.year_incorporated || ''}`;
 
@@ -416,7 +416,7 @@ function CompanyIntelligence({ company, onUpdate }: { company: Company; onUpdate
 export default function LeadDetailPage() {
   const { id } = useParams<{ id: string }>();
   const navigate = useNavigate();
-  const { openaiKey } = useSettingsStore();
+  const { anthropicKey } = useSettingsStore();
   const [company, setCompany] = useState<Company | null | undefined>(undefined);
   const [notes, setNotes]     = useState('');
   const [notesSaved, setNotesSaved] = useState(false);
@@ -651,7 +651,7 @@ export default function LeadDetailPage() {
           <div style={{ flex: '1 1 200px', display: 'flex', alignItems: 'flex-end' }}>
             <button
               onClick={async () => {
-                const key = openaiKey || 'REPLACE_WITH_OPENAI_KEY';
+                const key = anthropicKey || '';
                 try {
                   const resp = await fetch('https://api.openai.com/v1/chat/completions', {
                     method: 'POST',
