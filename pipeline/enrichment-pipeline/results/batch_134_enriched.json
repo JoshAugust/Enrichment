@@ -1,0 +1,545 @@
+[
+  {
+    "name": "AMICUS CURIAE, INC.",
+    "state": "TX",
+    "website": "www.amicur.com",
+    "is_real_tech_startup": false,
+    "filter_reason": "Legal services/software for law firms. Name is Latin legal term. Not a modern scalable tech startup. Incorporated 1989.",
+    "industry": null,
+    "description": null,
+    "linkedin_url": null,
+    "hiring_signals": false,
+    "data_quality_score": 3,
+    "contacts": [
+      {
+        "name": "Ms Linda Mcglasson",
+        "title": "No specific function",
+        "email_guess": null,
+        "email_confidence": null,
+        "linkedin_url": null,
+        "phone": null
+      }
+    ]
+  },
+  {
+    "name": "MONTEREY TECHNOLOGY GROUP INC",
+    "state": "SC",
+    "website": "www.montereytechgroup.com",
+    "is_real_tech_startup": false,
+    "filter_reason": "IT consulting/staffing firm, not a product-based tech startup.",
+    "industry": null,
+    "description": null,
+    "linkedin_url": null,
+    "hiring_signals": false,
+    "data_quality_score": 3,
+    "contacts": [
+      {
+        "name": "Mr Justin Bell",
+        "title": "Mr",
+        "email_guess": null,
+        "email_confidence": null,
+        "linkedin_url": null,
+        "phone": null
+      }
+    ]
+  },
+  {
+    "name": "RENOVOPAY LLC",
+    "state": "SC",
+    "website": "renovopay.com",
+    "is_real_tech_startup": true,
+    "filter_reason": null,
+    "industry": "Fintech / Government SaaS",
+    "description": "RenovoPay provides SaaS payment processing and loan management software for utilities, municipalities, and financial institutions. Automates billing, online payments, and loan origination workflows. Established niche fintech serving government and utility sectors.",
+    "linkedin_url": "https://www.linkedin.com/company/renovopay",
+    "hiring_signals": false,
+    "data_quality_score": 6,
+    "contacts": [
+      {
+        "name": "Mr Darrell Thomas",
+        "title": "No specific function",
+        "email_guess": "darrell.thomas@renovopay.com",
+        "email_confidence": "medium",
+        "linkedin_url": null,
+        "phone": null
+      }
+    ]
+  },
+  {
+    "name": "BRANCH & CO LLC",
+    "state": "CO",
+    "website": "www.branch.io",
+    "is_real_tech_startup": false,
+    "filter_reason": "Website listed is branch.io \u2014 a large CA-based deep linking startup \u2014 but this CO entity is almost certainly a different company. Data mismatch; no verifiable tech product for this CO entity.",
+    "industry": null,
+    "description": null,
+    "linkedin_url": null,
+    "hiring_signals": false,
+    "data_quality_score": 2,
+    "contacts": [
+      {
+        "name": "Mr Taylor Frederick",
+        "title": "Agent",
+        "email_guess": null,
+        "email_confidence": null,
+        "linkedin_url": null,
+        "phone": null
+      }
+    ]
+  },
+  {
+    "name": "POPULAR LAB CO",
+    "state": "CA",
+    "website": "www.withhugo.com",
+    "is_real_tech_startup": true,
+    "filter_reason": null,
+    "industry": "HRTech / Workforce Scheduling SaaS",
+    "description": "Hugo (withhugo.com) is an HR and team scheduling platform for hourly workforce management. Provides shift scheduling, time tracking, team coordination tools for small to mid-sized businesses. Early-stage California startup.",
+    "linkedin_url": "https://www.linkedin.com/company/withhugo",
+    "hiring_signals": false,
+    "data_quality_score": 5,
+    "contacts": []
+  },
+  {
+    "name": "4CLICKS-SOLUTIONS LLC",
+    "state": "SC",
+    "website": "www.4clicks.com",
+    "is_real_tech_startup": true,
+    "filter_reason": null,
+    "industry": "Construction Tech / GovTech SaaS",
+    "description": "4Clicks for Federal (now part of Gordian) is specialized construction cost estimating and project management software for US federal government and military. Used in thousands of IDIQ/JOC/SABER contracts. Integrates RSMeans data and populates government forms. Acquired by Gordian.",
+    "linkedin_url": "https://www.linkedin.com/company/gordian",
+    "hiring_signals": false,
+    "data_quality_score": 6,
+    "contacts": [
+      {
+        "name": "Ms Melinda Finney",
+        "title": "No specific function",
+        "email_guess": "melinda.finney@4clicks.com",
+        "email_confidence": "medium",
+        "linkedin_url": null,
+        "phone": null
+      },
+      {
+        "name": "Ms Ann Fiske",
+        "title": "No specific function",
+        "email_guess": "ann.fiske@4clicks.com",
+        "email_confidence": "medium",
+        "linkedin_url": null,
+        "phone": null
+      }
+    ]
+  },
+  {
+    "name": "SLINGWAVE, INC.",
+    "state": "MN",
+    "website": "slingwave.com",
+    "is_real_tech_startup": true,
+    "filter_reason": null,
+    "industry": "MarTech / AI Analytics SaaS",
+    "description": "Slingwave is an AI-powered marketing analytics, attribution, and media optimization platform for eCommerce, D2C, and CPG brands. Products include MMM+ (Media Mix Modeling), VELOCITY AMA (Agile Marketing Attribution), and SAGE Experimentation Suite. Founded 2017, profitable bootstrapped startup serving leading D2C brands.",
+    "linkedin_url": "https://www.linkedin.com/company/slingwave",
+    "hiring_signals": true,
+    "data_quality_score": 7,
+    "contacts": [
+      {
+        "name": "Mr Paul Boruta",
+        "title": "Chief Executive Officer",
+        "email_guess": "paul@slingwave.com",
+        "email_confidence": "medium",
+        "linkedin_url": "https://www.linkedin.com/in/boruta/",
+        "phone": null
+      }
+    ]
+  },
+  {
+    "name": "READYSET SURGICAL LLC",
+    "state": "OH",
+    "website": "www.readysetsurgical.com",
+    "is_real_tech_startup": true,
+    "filter_reason": null,
+    "industry": "HealthTech / Surgical Supply Chain SaaS",
+    "description": "ReadySet Surgical provides a cloud-based SaaS platform for hospital and ASC surgical supply chain management. Automates loaner tray tracking, vendor coordination, billing automation, and analytics. Used by 50+ leading health systems. SOC 2 Type II certified. Received investment from Riverside Acceleration Capital (RAC) in August 2025.",
+    "linkedin_url": "https://www.linkedin.com/company/readyset-surgical",
+    "hiring_signals": true,
+    "data_quality_score": 8,
+    "contacts": [
+      {
+        "name": "Mr Kevin Von Keyserling",
+        "title": "Chief Executive Officer",
+        "email_guess": "kevin.vonkeyserling@readysetsurgical.com",
+        "email_confidence": "medium",
+        "linkedin_url": "https://www.linkedin.com/in/kevinvonkeyserling/",
+        "phone": null
+      },
+      {
+        "name": "Mr John C Harris",
+        "title": "Chief Financial Officer",
+        "email_guess": "john.harris@readysetsurgical.com",
+        "email_confidence": "medium",
+        "linkedin_url": null,
+        "phone": null
+      }
+    ]
+  },
+  {
+    "name": "DISBELIEF LLC",
+    "state": "MA",
+    "website": "www.disbelief.com",
+    "is_real_tech_startup": false,
+    "filter_reason": "Game development contract studio (not a SaaS/product company). Works on AAA titles like Borderlands 4, Gears of War. Former BioShock Infinite engineers. A services business, not a scalable software product.",
+    "industry": null,
+    "description": null,
+    "linkedin_url": null,
+    "hiring_signals": false,
+    "data_quality_score": 4,
+    "contacts": [
+      {
+        "name": "Mackenzie Denker",
+        "title": "Junior Programmer",
+        "email_guess": null,
+        "email_confidence": null,
+        "linkedin_url": null,
+        "phone": null
+      },
+      {
+        "name": "Mr Steve Anichini",
+        "title": "Manager",
+        "email_guess": null,
+        "email_confidence": null,
+        "linkedin_url": null,
+        "phone": null
+      }
+    ]
+  },
+  {
+    "name": "SRI INFOTECH INC.",
+    "state": "MA",
+    "website": "www.sriinfotech.com",
+    "is_real_tech_startup": false,
+    "filter_reason": "IT staffing, consulting, and management services firm. Not a product-based tech startup.",
+    "industry": null,
+    "description": null,
+    "linkedin_url": null,
+    "hiring_signals": false,
+    "data_quality_score": 2,
+    "contacts": [
+      {
+        "name": "Raj Ponnuraj",
+        "title": "President",
+        "email_guess": null,
+        "email_confidence": null,
+        "linkedin_url": null,
+        "phone": null
+      }
+    ]
+  },
+  {
+    "name": "ARENA",
+    "state": "CO",
+    "website": "www.arenasolutions.com",
+    "is_real_tech_startup": true,
+    "filter_reason": null,
+    "industry": "PLM / Manufacturing SaaS",
+    "description": "Arena Solutions provides cloud-based Product Lifecycle Management (PLM) and Quality Management System (QMS) software for hardware and electronics manufacturers. Strong in medical devices and electronics sectors. Acquired by PTC in 2021; continues to operate as Arena brand within PTC.",
+    "linkedin_url": "https://www.linkedin.com/company/arena-solutions",
+    "hiring_signals": false,
+    "data_quality_score": 7,
+    "contacts": []
+  },
+  {
+    "name": "AMERICAN TRAINING CENTER INC.",
+    "state": "NY",
+    "website": "www.ferrarasbeautyschool.com",
+    "is_real_tech_startup": false,
+    "filter_reason": "Ferrara's Beauty School \u2014 vocational beauty and cosmetology school. Not a tech company.",
+    "industry": null,
+    "description": null,
+    "linkedin_url": null,
+    "hiring_signals": false,
+    "data_quality_score": 1,
+    "contacts": [
+      {
+        "name": "Mr Vincent Ferrara",
+        "title": "Chairman",
+        "email_guess": null,
+        "email_confidence": null,
+        "linkedin_url": null,
+        "phone": null
+      }
+    ]
+  },
+  {
+    "name": "ASCII GROUP INC",
+    "state": "AL",
+    "website": "www.ascii.com",
+    "is_real_tech_startup": false,
+    "filter_reason": "ASCII Group is an IT membership organization and MSP community, not a software product startup.",
+    "industry": null,
+    "description": null,
+    "linkedin_url": null,
+    "hiring_signals": false,
+    "data_quality_score": 2,
+    "contacts": [
+      {
+        "name": "Mackenzie Hanna",
+        "title": "Project Leader",
+        "email_guess": null,
+        "email_confidence": null,
+        "linkedin_url": null,
+        "phone": null
+      }
+    ]
+  },
+  {
+    "name": "SHOOTPROOF, LLC",
+    "state": "GA",
+    "website": "www.shootproof.com",
+    "is_real_tech_startup": true,
+    "filter_reason": null,
+    "industry": "Creative SaaS / Photography",
+    "description": "ShootProof is a SaaS platform for professional photographers providing online client galleries, photo proofing, contracts, invoicing, and print lab integrations. Commission-free sales model. 10,000+ photographers in 38 countries, 18 languages. Strategic PE investment from Providence Strategic Growth (PSG) in December 2018.",
+    "linkedin_url": "https://www.linkedin.com/company/shootproof",
+    "hiring_signals": false,
+    "data_quality_score": 7,
+    "contacts": [
+      {
+        "name": "Mr Colin Breece",
+        "title": "Co-Founder",
+        "email_guess": "colin@shootproof.com",
+        "email_confidence": "medium",
+        "linkedin_url": null,
+        "phone": null
+      },
+      {
+        "name": "Mr Ashley Edney",
+        "title": "Office Manager",
+        "email_guess": "ashley.edney@shootproof.com",
+        "email_confidence": "medium",
+        "linkedin_url": null,
+        "phone": null
+      }
+    ]
+  },
+  {
+    "name": "AQ2 TECHNOLOGY LLC",
+    "state": "AL",
+    "website": "www.aq2tech.com",
+    "is_real_tech_startup": true,
+    "filter_reason": null,
+    "industry": "Fintech / Payment Automation Software",
+    "description": "AQ2 Technologies (now part of Embrace Software) provides transaction automation software (AQURIT) for check payment processing, remittance, and remote deposit capture. Serves 350+ clients in banking, utilities, and government. Acquired by Embrace Software in March 2021.",
+    "linkedin_url": "https://www.linkedin.com/company/aq2-technologies",
+    "hiring_signals": false,
+    "data_quality_score": 6,
+    "contacts": [
+      {
+        "name": "Mr Sam Drummond",
+        "title": "Controller",
+        "email_guess": "sam.drummond@aq2tech.com",
+        "email_confidence": "medium",
+        "linkedin_url": null,
+        "phone": null
+      },
+      {
+        "name": "Mr Noel Keathley",
+        "title": "Director of Sales",
+        "email_guess": "noel.keathley@aq2tech.com",
+        "email_confidence": "medium",
+        "linkedin_url": null,
+        "phone": null
+      }
+    ]
+  },
+  {
+    "name": "E RING INC",
+    "state": "AL",
+    "website": "www.eringcrm.com",
+    "is_real_tech_startup": true,
+    "filter_reason": null,
+    "industry": "GovTech / Property Tax Software",
+    "description": "E-Ring provides web-based CAMA (Computer Assisted Mass Appraisal), CRM, and property tax administration software for local government agencies. Products include Capture Platform (AI-infused CAMA), Collections system, and Capture Connect (case management/GIS/permits). Serves county assessors and local governments across the US.",
+    "linkedin_url": "https://www.linkedin.com/company/e-ring-inc.",
+    "hiring_signals": false,
+    "data_quality_score": 6,
+    "contacts": [
+      {
+        "name": "Venky Gadde",
+        "title": "Development Manager",
+        "email_guess": "venky.gadde@eringcrm.com",
+        "email_confidence": "medium",
+        "linkedin_url": null,
+        "phone": null
+      },
+      {
+        "name": "Mr Jamaal Clark",
+        "title": "Technical Support Analyst",
+        "email_guess": "jamaal.clark@eringcrm.com",
+        "email_confidence": "medium",
+        "linkedin_url": null,
+        "phone": null
+      }
+    ]
+  },
+  {
+    "name": "EXPO INC., COLORADO AUTHORITY RELINQUISHED MAY 8, 2023",
+    "state": "IL",
+    "website": "www.expopass.com",
+    "is_real_tech_startup": false,
+    "filter_reason": "Colorado authority relinquished May 2023 \u2014 company may be defunct or restructured. Operational status unclear. Not suitable for outreach.",
+    "industry": null,
+    "description": null,
+    "linkedin_url": null,
+    "hiring_signals": false,
+    "data_quality_score": 2,
+    "contacts": [
+      {
+        "name": "Mr Douglas Moring",
+        "title": "Executive Officer",
+        "email_guess": null,
+        "email_confidence": null,
+        "linkedin_url": null,
+        "phone": null
+      }
+    ]
+  },
+  {
+    "name": "TANDA INC",
+    "state": "IL",
+    "website": "www.tanda.io",
+    "is_real_tech_startup": true,
+    "filter_reason": null,
+    "industry": "HRTech / Workforce Management SaaS",
+    "description": "Tanda is an Australian-founded cloud SaaS platform for workforce management, time & attendance, employee scheduling, payroll integration, and compliance for hourly workers. US entity in Chicago (20 W Kinzie St). Serves retail, hospitality, manufacturing, and healthcare industries globally. Independent Australian company (Brisbane HQ), founded 2012.",
+    "linkedin_url": "https://www.linkedin.com/company/tandaapp",
+    "hiring_signals": false,
+    "data_quality_score": 6,
+    "contacts": []
+  },
+  {
+    "name": "INTUITES LLC",
+    "state": "GA",
+    "website": "www.intuites.com",
+    "is_real_tech_startup": false,
+    "filter_reason": "Accounting and bookkeeping firm. Not a tech startup.",
+    "industry": null,
+    "description": null,
+    "linkedin_url": null,
+    "hiring_signals": false,
+    "data_quality_score": 2,
+    "contacts": [
+      {
+        "name": "Mr Aamir Raza",
+        "title": "Senior Accountant",
+        "email_guess": null,
+        "email_confidence": null,
+        "linkedin_url": null,
+        "phone": null
+      }
+    ]
+  },
+  {
+    "name": "KOGNITOS INC",
+    "state": "CA",
+    "website": "www.kognitos.com",
+    "is_real_tech_startup": true,
+    "filter_reason": null,
+    "industry": "AI / Enterprise Automation SaaS",
+    "description": "Kognitos is a neurosymbolic AI platform that automates enterprise business processes using plain English natural language \u2014 no code required. Founded by ThoughtSpot alumni. Series B June 2025 ($25M) led by Prosperity7 Ventures with Khosla Ventures. Wipro partnership for GenAI-based automation. Total funding: $51.2M. Customers include Fortune 500 companies.",
+    "linkedin_url": "https://www.linkedin.com/company/kognitos",
+    "hiring_signals": true,
+    "data_quality_score": 9,
+    "contacts": []
+  },
+  {
+    "name": "REPLICA INC",
+    "state": "KS",
+    "website": "replicahq.com",
+    "is_real_tech_startup": true,
+    "filter_reason": null,
+    "industry": "Urban Planning / GeoData SaaS",
+    "description": "Replica is an urban planning data platform using de-identified mobile location data to help public agencies, transportation departments, and private companies understand movement patterns. Spun out of Alphabet/Sidewalk Labs in 2019. Customers include Caltrans, TexasDOT, MTA, Waymo, Deloitte, AECOM. Offices in Kansas City, NYC, SF.",
+    "linkedin_url": "https://www.linkedin.com/company/replica-inc",
+    "hiring_signals": true,
+    "data_quality_score": 8,
+    "contacts": [
+      {
+        "name": "Mr Nick Bowden",
+        "title": "Chief Executive Officer",
+        "email_guess": "n@replicahq.com",
+        "email_confidence": "low",
+        "linkedin_url": "https://www.linkedin.com/in/nick-bowden/",
+        "phone": null
+      }
+    ]
+  },
+  {
+    "name": "AUGMENTED INTELLIGENCE TECHNOLOGIES, INC.",
+    "state": "IL",
+    "website": "www.augintel.us",
+    "is_real_tech_startup": true,
+    "filter_reason": null,
+    "industry": "AI/NLP / GovTech SaaS",
+    "description": "Augintel provides NLP-powered SaaS for health and social services agencies to extract actionable insights from unstructured case notes. Used by 6,000+ staff at Illinois DCFS. AWS Government Competency Partner. Available on AWS Marketplace. Selected for AWS Health Equity Initiative ($40M commitment, Nov 2022). Featured in House Ways and Means Committee testimony.",
+    "linkedin_url": "https://www.linkedin.com/company/augmentedintelligence-aui",
+    "hiring_signals": true,
+    "data_quality_score": 8,
+    "contacts": []
+  },
+  {
+    "name": "TWOWAY SECURITY INC",
+    "state": "MI",
+    "website": "www.trustpage.com",
+    "is_real_tech_startup": false,
+    "filter_reason": "TrustPage (formerly TwoWay Security) was a security compliance trust center startup acquired by Vanta in January 2023. No longer operating independently.",
+    "industry": null,
+    "description": null,
+    "linkedin_url": null,
+    "hiring_signals": false,
+    "data_quality_score": 2,
+    "contacts": []
+  },
+  {
+    "name": "CORITY SOFTWARE USA INC.",
+    "state": "IL",
+    "website": "www.cority.com",
+    "is_real_tech_startup": true,
+    "filter_reason": null,
+    "industry": "EHS / Compliance / Sustainability SaaS",
+    "description": "Cority is a global leader in EHS+ (Environmental, Health, Safety, Quality, Sustainability) SaaS software. 1,500+ enterprise customers worldwide including Fortune 500 manufacturers, chemicals, healthcare, and oil & gas. First EHS platform with FedRAMP authorization. 13 AI agents in 2026 product suite. IL entity is US subsidiary of Canadian-HQ company.",
+    "linkedin_url": "https://www.linkedin.com/company/cority",
+    "hiring_signals": true,
+    "data_quality_score": 8,
+    "contacts": [
+      {
+        "name": "Mr Mark Wallace",
+        "title": "President",
+        "email_guess": "mark.wallace@cority.com",
+        "email_confidence": "medium",
+        "linkedin_url": null,
+        "phone": null
+      },
+      {
+        "name": "Mr Ryan Magee",
+        "title": "Executive Officer",
+        "email_guess": "ryan.magee@cority.com",
+        "email_confidence": "medium",
+        "linkedin_url": null,
+        "phone": null
+      }
+    ]
+  },
+  {
+    "name": "DUMPLING INC",
+    "state": "WA",
+    "website": "www.dumpling.us",
+    "is_real_tech_startup": true,
+    "filter_reason": null,
+    "industry": "Gig Economy / Marketplace SaaS",
+    "description": "Dumpling is a gig economy SaaS platform ($29/mo) enabling personal shoppers to build their own local grocery delivery businesses. Commission-free \u2014 shoppers keep 100% of earnings and tips. Average shopper earns $32/order. Co-founded by Joel Shapiro (ex-National Instruments) and Nate D'Anna (ex-Cisco). Total funding $10M (Forerunner Ventures, Floodgate, FUEL Capital).",
+    "linkedin_url": "https://www.linkedin.com/company/dumpling-app",
+    "hiring_signals": false,
+    "data_quality_score": 7,
+    "contacts": []
+  }
+]

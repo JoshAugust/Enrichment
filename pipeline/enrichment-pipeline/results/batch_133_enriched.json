@@ -1,0 +1,485 @@
+[
+  {
+    "name": "NURSENAV INC",
+    "state": "SC",
+    "website": "www.nursenav.com",
+    "is_real_tech_startup": true,
+    "filter_reason": null,
+    "industry": "HealthTech / Patient Navigation Software",
+    "description": "NurseNav is a North Charleston, SC-based HIPAA-compliant patient navigation SaaS platform for oncology and chronic disease programs. Founded 2007. CONNECT platform tracks patients through continuum of care with dashboards, workflow tools, EHR integration, and mobile app (My Nursenav). Specializes in cancer care patient navigation. Real product company with SaaS model.",
+    "linkedin_url": "https://www.linkedin.com/company/nursenav",
+    "hiring_signals": false,
+    "data_quality_score": 7,
+    "contacts": [
+      {
+        "name": "Ms Melanie Infinger",
+        "title": "Chief Executive Officer",
+        "email_guess": "melanie.infinger@nursenav.com",
+        "email_confidence": "medium",
+        "linkedin_url": null,
+        "phone": null
+      },
+      {
+        "name": "Mr Dean Infinger",
+        "title": "Vice President & Co-Founder",
+        "email_guess": "dean.infinger@nursenav.com",
+        "email_confidence": "medium",
+        "linkedin_url": null,
+        "phone": null
+      }
+    ]
+  },
+  {
+    "name": "PRIMETIME MEDICAL SOFTWARE",
+    "state": "SC",
+    "website": "www.medicalhistory.com",
+    "is_real_tech_startup": false,
+    "filter_reason": "Founded 1992 — 30+ year old medical history software company. Not a modern startup. Patient interview/medical history software is a highly dated niche. No growth signals.",
+    "industry": "Legacy Medical Software",
+    "description": "30+ year old patient interview and medical history software developer. medicalhistory.com. Legacy niche software with no modern startup attributes.",
+    "linkedin_url": null,
+    "hiring_signals": false,
+    "data_quality_score": 5,
+    "contacts": []
+  },
+  {
+    "name": "CAMBAR SOFTWARE INC",
+    "state": "SC",
+    "website": "www.cambarsoftware.com",
+    "is_real_tech_startup": false,
+    "filter_reason": "Founded 2000, SC. Very small (14 employees), no description, minimal online presence. Appears to be a small IT/custom software company with no scalable product. Single contact is 'Industry Veteran and President'.",
+    "industry": "Custom Software (Unknown)",
+    "description": "Small SC software company founded 2000 with 14 employees and no discoverable product niche or growth signals.",
+    "linkedin_url": null,
+    "hiring_signals": false,
+    "data_quality_score": 2,
+    "contacts": []
+  },
+  {
+    "name": "JBL SOFTWARE",
+    "state": "SC",
+    "website": "www.jblsoftware.com",
+    "is_real_tech_startup": false,
+    "filter_reason": "Founded 1993 — over 30 years old. Single contact (President James B Lestwich). jblsoftware.com appears to serve a very niche SC market. Not a modern startup.",
+    "industry": "Legacy Custom Software",
+    "description": "South Carolina software company founded in 1993. 30+ year old micro-company. No modern startup characteristics.",
+    "linkedin_url": null,
+    "hiring_signals": false,
+    "data_quality_score": 3,
+    "contacts": []
+  },
+  {
+    "name": "BRAVE INC",
+    "state": "CO",
+    "website": "brave.com",
+    "is_real_tech_startup": true,
+    "filter_reason": null,
+    "industry": "Browser / Privacy Tech / Web3",
+    "description": "Brave is a major privacy-focused web browser company founded in 2015 by Brendan Eich (creator of JavaScript, Mozilla co-founder) and Brian Bondy. Browser launched January 2016. Chromium-based with built-in ad blocking, fingerprinting protection, and Tor private windows. 100M+ global users. Revenue from Brave Rewards (Basic Attention Token / BAT cryptocurrency). Users earn BAT by opting into privacy-respecting ads. Brave Ads network. Full tech company with global reach.",
+    "linkedin_url": "https://www.linkedin.com/company/brave-software",
+    "hiring_signals": true,
+    "recent_news": "Surpassed 100M monthly active users. Continued growth in privacy browser market.",
+    "data_quality_score": 10,
+    "contacts": [
+      {
+        "name": "Ms Lisa Amerine",
+        "title": "Agent (registered agent)",
+        "email_guess": null,
+        "email_confidence": "none",
+        "linkedin_url": null,
+        "phone": null,
+        "note": "This is a registered agent, not an employee. Key contacts at Brave: Brendan Eich (CEO) brendan@brave.com and Brian Bondy (CTO)."
+      }
+    ]
+  },
+  {
+    "name": "WELLTRACKONE CORPORATION",
+    "state": "SC",
+    "website": "www.welltrackone.co",
+    "is_real_tech_startup": true,
+    "filter_reason": null,
+    "industry": "HealthTech / Patient Wellness & Risk Management",
+    "description": "WellTrackONE is a Hilton Head, SC-based health technology company providing Medicare Annual Wellness Visit solutions for healthcare providers. SaaS platform including tablet-based patient self-assessment, clinical risk analysis/coding tools, and PharmD Concierge service. Focuses on helping medical practices improve patient outcomes and revenue through Medicare compliance. Bootstrap Venture Partners portfolio company.",
+    "linkedin_url": "https://www.linkedin.com/company/welltrackone",
+    "hiring_signals": false,
+    "data_quality_score": 7,
+    "contacts": [
+      {
+        "name": "Mr Peter A Bechtel",
+        "title": "Chief Executive Officer",
+        "email_guess": "peter.bechtel@welltrackone.co",
+        "email_confidence": "medium",
+        "linkedin_url": null,
+        "phone": null
+      },
+      {
+        "name": "Mr Carey Babcock",
+        "title": "Business Development Manager",
+        "email_guess": "carey.babcock@welltrackone.co",
+        "email_confidence": "medium",
+        "linkedin_url": null,
+        "phone": null
+      },
+      {
+        "name": "Mr Bill Archer",
+        "title": "National Sales Manager",
+        "email_guess": "bill.archer@welltrackone.co",
+        "email_confidence": "medium",
+        "linkedin_url": null,
+        "phone": null
+      }
+    ]
+  },
+  {
+    "name": "CHARGERBACK INC",
+    "state": "NV",
+    "website": "www.chargerback.com",
+    "is_real_tech_startup": true,
+    "filter_reason": null,
+    "industry": "HospitalityTech / Lost & Found SaaS",
+    "description": "Chargerback is a Carson City, NV-based SaaS platform providing end-to-end lost and found management for hotels, resorts, airlines, amusement parks, and more. Founded 2008. Provides web-based inventory system, IFRAME guest-reporting forms for hotel websites, automated item-return workflows, and Lost & Found Pros integration for unclaimed item salvage. Free basic tier for hospitality enterprises. Achieves 90%+ return rates while cutting staff effort in half. Won 2019 Hotel 360 Tech Revolution of the Year Award. Phone: (800) 515-4860.",
+    "linkedin_url": "https://www.linkedin.com/company/chargerback",
+    "hiring_signals": false,
+    "recent_news": "Won 2019 Hotel 360 Tech Revolution of the Year Award. Partnership with Lost & Found Pros for unclaimed item disposition.",
+    "data_quality_score": 8,
+    "contacts": [
+      {
+        "name": "Ms Lisa Pohll",
+        "title": "Vice President, Business Development",
+        "email_guess": "lisa.pohll@chargerback.com",
+        "email_confidence": "medium",
+        "linkedin_url": null,
+        "phone": null
+      },
+      {
+        "name": "Ms Claire Christopher",
+        "title": "Customer Service Specialist",
+        "email_guess": "claire.christopher@chargerback.com",
+        "email_confidence": "medium",
+        "linkedin_url": null,
+        "phone": null
+      }
+    ]
+  },
+  {
+    "name": "CIMX LLC",
+    "state": "OH",
+    "website": "www.cimx.com",
+    "is_real_tech_startup": true,
+    "filter_reason": null,
+    "industry": "Manufacturing Tech / MES Software",
+    "description": "CIMx Software is a Cincinnati, OH-based manufacturing execution system (MES) provider. Quantum MES platform delivers smart, scalable production control for small to mid-size manufacturers. Specializes in Aerospace & Defense, Medical Device, Carbon Composites, Electronic Assembly, Consumer Products, and Industrial Production. Features: real-time WIP tracking, production scheduling, inventory management, quality control, and analytics. One of the few woman-owned small businesses in manufacturing tech. 25 years' experience.",
+    "linkedin_url": "https://www.linkedin.com/company/cimx",
+    "hiring_signals": false,
+    "data_quality_score": 7,
+    "contacts": [
+      {
+        "name": "Ms Kristin Mclane",
+        "title": "Owner",
+        "email_guess": "kristin.mclane@cimx.com",
+        "email_confidence": "medium",
+        "linkedin_url": null,
+        "phone": null
+      },
+      {
+        "name": "Ms Liz Hamedi",
+        "title": "Account Manager",
+        "email_guess": "liz.hamedi@cimx.com",
+        "email_confidence": "medium",
+        "linkedin_url": null,
+        "phone": null
+      },
+      {
+        "name": "Mr Bradley Dennison",
+        "title": "Product Team Lead",
+        "email_guess": "bradley.dennison@cimx.com",
+        "email_confidence": "medium",
+        "linkedin_url": null,
+        "phone": null
+      }
+    ]
+  },
+  {
+    "name": "COMPLIANCE SOLUTIONS INC",
+    "state": "TX",
+    "website": "www.compliancesolutions.com",
+    "is_real_tech_startup": false,
+    "filter_reason": "compliancesolutions.com is a compliance consulting or HR compliance firm (likely employment law/compliance advisory services). No contacts listed. Not a tech startup.",
+    "industry": "Compliance Consulting",
+    "description": "Texas compliance consulting firm. No contacts, no description, no identifiable tech product. Website appears to be compliance advisory services.",
+    "linkedin_url": null,
+    "hiring_signals": false,
+    "data_quality_score": 2,
+    "contacts": []
+  },
+  {
+    "name": "BALANCED FLOW SUPPLY CHAIN SOLUTIONS LLC",
+    "state": "SC",
+    "website": "www.balancedflow.com",
+    "is_real_tech_startup": false,
+    "filter_reason": "Supply chain consulting firm, founded 2002. Services-based business, not a product company. No contacts.",
+    "industry": "Supply Chain Consulting",
+    "description": "South Carolina supply chain consulting and services firm. Founded 2002. Professional services model, not a software product startup.",
+    "linkedin_url": null,
+    "hiring_signals": false,
+    "data_quality_score": 3,
+    "contacts": []
+  },
+  {
+    "name": "COMPACT 2 TECHNOLOGIES",
+    "state": "SC",
+    "website": "www.compact2.com",
+    "is_real_tech_startup": false,
+    "filter_reason": "Founded 1987 — nearly 40 years old. Small legacy tech company in SC. Not a modern startup by any measure.",
+    "industry": "Legacy Technology (Unknown)",
+    "description": "South Carolina technology company founded in 1987. 37+ year old company with no identifiable modern product.",
+    "linkedin_url": null,
+    "hiring_signals": false,
+    "data_quality_score": 2,
+    "contacts": []
+  },
+  {
+    "name": "DYAD SOFTWARE LLC",
+    "state": "SC",
+    "website": "www.dyadsoftware.com",
+    "is_real_tech_startup": false,
+    "filter_reason": "Founded 2009, SC. Very small (~14 employees). dyadsoftware.com has minimal online presence. Single contact is a co-founder/shareholder with no business title — suggests micro-consultancy or niche product with no scale.",
+    "industry": "Custom Software (Unknown)",
+    "description": "Small SC software company, founded 2009. Minimal public footprint. Single co-founder/shareholder contact. No identifiable scalable product.",
+    "linkedin_url": null,
+    "hiring_signals": false,
+    "data_quality_score": 2,
+    "contacts": []
+  },
+  {
+    "name": "QUOTE SOFTWARE",
+    "state": "SC",
+    "website": "quotesoft.com",
+    "is_real_tech_startup": false,
+    "filter_reason": "quotesoft.com is a very niche quoting/estimating software for utility contractors and public utilities. Founded 2013, SC, 14 employees. Narrow niche, small scale, no contacts listed.",
+    "industry": "Niche Estimating Software",
+    "description": "SC quoting software company serving utility contractors. Very niche market, small scale. No contacts listed.",
+    "linkedin_url": null,
+    "hiring_signals": false,
+    "data_quality_score": 4,
+    "contacts": []
+  },
+  {
+    "name": "XTENZA SOLUTIONS INC",
+    "state": "SC",
+    "website": "www.xtenzasolutions.com",
+    "is_real_tech_startup": false,
+    "filter_reason": "Founded 2000, SC. Only description is 'R&D Centre' — suggests outsourced development services. No contacts listed. IT services/offshore dev center, not a product startup.",
+    "industry": "IT Services / R&D Outsourcing",
+    "description": "South Carolina IT services/R&D company, founded 2000. Operates as an R&D center — likely offshore/nearshore development outsourcing.",
+    "linkedin_url": null,
+    "hiring_signals": false,
+    "data_quality_score": 3,
+    "contacts": []
+  },
+  {
+    "name": "QUESTIS",
+    "state": "SC",
+    "website": "www.questis.co",
+    "is_real_tech_startup": true,
+    "filter_reason": null,
+    "industry": "FinTech / Employee Financial Wellness",
+    "description": "Questis is a Charleston, SC-based workforce financial empowerment SaaS platform. Founded by Steve Wilbourne and John Tabb. Combines software with credentialed financial advisors to help employees manage personal finances — budgeting to investing. Raised $11.2M total (seed 2015, multiple rounds through 2017+). Rebranded in 2021 to emphasize 'workforce financial empowerment.' Serves employers who offer financial wellness benefits to staff.",
+    "linkedin_url": "https://www.linkedin.com/company/questis",
+    "hiring_signals": false,
+    "recent_news": "2021 rebrand to workforce financial empowerment positioning.",
+    "data_quality_score": 8,
+    "contacts": [
+      {
+        "name": "Mr Steve Wilbourne",
+        "title": "Founder & CEO",
+        "email_guess": "steve.wilbourne@questis.co",
+        "email_confidence": "high",
+        "linkedin_url": "https://www.linkedin.com/in/steve-wilbourne",
+        "phone": null
+      },
+      {
+        "name": "Mr John Tabb",
+        "title": "President & Head of Product",
+        "email_guess": "john.tabb@questis.co",
+        "email_confidence": "high",
+        "linkedin_url": null,
+        "phone": null
+      },
+      {
+        "name": "Mr Rob Madore",
+        "title": "Executive VP - Financial Services",
+        "email_guess": "rob.madore@questis.co",
+        "email_confidence": "medium",
+        "linkedin_url": null,
+        "phone": null
+      },
+      {
+        "name": "Mr Ed Meltzer",
+        "title": "Senior VP - Worksite Sales",
+        "email_guess": "ed.meltzer@questis.co",
+        "email_confidence": "medium",
+        "linkedin_url": null,
+        "phone": null
+      },
+      {
+        "name": "Ms Nicole Fletcher",
+        "title": "Head of Marketing",
+        "email_guess": "nicole.fletcher@questis.co",
+        "email_confidence": "medium",
+        "linkedin_url": null,
+        "phone": null
+      }
+    ]
+  },
+  {
+    "name": "HOOK SECURITY INC",
+    "state": "SC",
+    "website": "hooksecurity.co",
+    "is_real_tech_startup": true,
+    "filter_reason": null,
+    "industry": "Cybersecurity / Security Awareness Training SaaS",
+    "description": "Hook Security is a Lakeland, FL-based (registered in SC) cybersecurity awareness training SaaS company. Founded 2019 by Zachary 'Zach' Eikenberry. Delivers 'Psychological Security' (PsySec) training — differentiating from outdated compliance-click-through training by using latest behavioral and psychological research. Distributed via channel partners: MSPs, MSSPs, VARs, Agents, and Distributors. Integrates with Slack via Haekka partnership. CEO has 5+ years leading the company.",
+    "linkedin_url": "https://www.linkedin.com/company/hook-security",
+    "hiring_signals": false,
+    "recent_news": "Partnership with Haekka to deliver training within Slack. Growing channel partner distribution.",
+    "data_quality_score": 8,
+    "contacts": [
+      {
+        "name": "Mr Zachary Bryce Eikenberry",
+        "title": "Co-Founder & CEO",
+        "email_guess": "zach.eikenberry@hooksecurity.co",
+        "email_confidence": "high",
+        "linkedin_url": "https://www.linkedin.com/in/zbey",
+        "phone": null
+      }
+    ]
+  },
+  {
+    "name": "RANT SOLUTIONS LLC",
+    "state": "SC",
+    "website": "www.rantsolutions.com",
+    "is_real_tech_startup": false,
+    "filter_reason": "RANT Solutions is a veteran-owned IT product sourcing, security solutions, and government contracting company. Model is services + product sourcing for government clients, not a scalable software product company. Revenue from RFP/government contracts and product reselling.",
+    "industry": "Government IT Services / Security Solutions",
+    "description": "Disabled-veteran owned company providing IT product sourcing, RFID/access control solutions, software development services, and government contract support in Mount Pleasant, SC. CEO Robert Constantinou has broadcast/media background.",
+    "linkedin_url": null,
+    "hiring_signals": false,
+    "data_quality_score": 6,
+    "contacts": []
+  },
+  {
+    "name": "IMAGEQUIX",
+    "state": "SC",
+    "website": "www.imagequix.com",
+    "is_real_tech_startup": true,
+    "filter_reason": null,
+    "industry": "PhotoTech / E-Commerce SaaS for Photography",
+    "description": "ImageQuix (now rebranded as Captura, captura.io) is an industry-leading e-commerce and workflow management SaaS platform for professional photographers. Founded 1997, headquartered in Raleigh NC (SC entity 2018). Specializes in high-volume and education photography. Active acquisition strategy: acquired Fotomerchant (Dec 2023) and Skylab AI image editing (2024). New CEO Brett Zucker appointed Oct 2024. ASG (Alpine Software Group) portfolio company.",
+    "linkedin_url": "https://www.linkedin.com/company/imagequix",
+    "hiring_signals": false,
+    "recent_news": "Rebranded as Captura (captura.io). Acquired Fotomerchant (Dec 2023) and Skylab AI (2024). New CEO Brett Zucker (Oct 2024).",
+    "data_quality_score": 8,
+    "contacts": [
+      {
+        "name": "Mr Alex Kovacevic",
+        "title": "Manager",
+        "email_guess": "alex.kovacevic@imagequix.com",
+        "email_confidence": "low",
+        "linkedin_url": null,
+        "phone": null
+      }
+    ]
+  },
+  {
+    "name": "RAPPTOR STUDIOS",
+    "state": "SC",
+    "website": "www.rapptorstudios.com",
+    "is_real_tech_startup": false,
+    "filter_reason": "rapptorstudios.com appears to be a creative/game studio or digital media company in SC. Founded 2012. No contacts. No clear tech product or SaaS model.",
+    "industry": "Game / Creative Studio",
+    "description": "South Carolina creative or game development studio, founded 2012. No identifiable scalable product, no contacts, minimal web presence.",
+    "linkedin_url": null,
+    "hiring_signals": false,
+    "data_quality_score": 2,
+    "contacts": []
+  },
+  {
+    "name": "SOFTWARE TRAINING CONSULTANTS",
+    "state": "SC",
+    "website": "www.stctrain.com",
+    "is_real_tech_startup": false,
+    "filter_reason": "Training services company, founded 1997. Provides software training (likely Autodesk/MS Office/ERP). Services-only model, not a tech product startup.",
+    "industry": "Software Training / Education Services",
+    "description": "South Carolina software training company, founded 1997. Delivers enterprise software training services. No product, no scale, no startup attributes.",
+    "linkedin_url": null,
+    "hiring_signals": false,
+    "data_quality_score": 4,
+    "contacts": []
+  },
+  {
+    "name": "COLUMBIA SOFTWARE CORP",
+    "state": "SC",
+    "website": "columbiaokura.com",
+    "is_real_tech_startup": false,
+    "filter_reason": "Mismatch: columbiaokura.com is Columbia/Okura LLC — a materials handling robotics and conveyor systems company, not a software startup. The registered website does not correspond to a software company.",
+    "industry": "Robotics / Materials Handling (Mismatch)",
+    "description": "Data mismatch: columbiaokura.com belongs to Columbia/Okura LLC, a manufacturer of robotic palletizing and materials handling systems. 'Columbia Software Corp' as an entity appears to be incorrectly mapped to this domain.",
+    "linkedin_url": null,
+    "hiring_signals": false,
+    "data_quality_score": 2,
+    "contacts": []
+  },
+  {
+    "name": "COMPUTER BUSINESS SYSTEMS INC",
+    "state": "SC",
+    "website": "www.acu-track.com",
+    "is_real_tech_startup": false,
+    "filter_reason": "Founded 1981 — over 40 years old. acu-track.com is an acupuncture practice management software. Extremely niche, legacy software. Not a modern startup.",
+    "industry": "Legacy Healthcare Software (Acupuncture)",
+    "description": "44-year-old company providing acupuncture practice management software (Acu-Track). Extremely niche legacy software product. Not a modern tech startup.",
+    "linkedin_url": null,
+    "hiring_signals": false,
+    "data_quality_score": 5,
+    "contacts": []
+  },
+  {
+    "name": "OPTIMUM RESOURCE INC",
+    "state": "SC",
+    "website": "www.optimumsafetyresources.com",
+    "is_real_tech_startup": false,
+    "filter_reason": "optimumsafetyresources.com is a workplace safety consulting and training company — not a software startup. Services model.",
+    "industry": "Safety Consulting / Training",
+    "description": "South Carolina safety consulting and training services company. OSHA compliance, safety program development. Not a tech startup.",
+    "linkedin_url": null,
+    "hiring_signals": false,
+    "data_quality_score": 5,
+    "contacts": []
+  },
+  {
+    "name": "NVIZIONSOFT INC",
+    "state": "SC",
+    "website": "www.columbia-real-estate-for-sale.com",
+    "is_real_tech_startup": false,
+    "filter_reason": "CRITICAL MISMATCH: The company name is NViziOnSoft (implies software) but the registered website is a Columbia SC real estate listing site. Either the software company is defunct and the domain was sold/repurposed, or there is a data error. Either way, not a viable tech target.",
+    "industry": "Defunct / Unknown",
+    "description": "Company name suggests software but website is a Columbia SC real estate listing site. Either defunct or data mismatch. Founded 2003, no contacts.",
+    "linkedin_url": null,
+    "hiring_signals": false,
+    "data_quality_score": 1,
+    "contacts": []
+  },
+  {
+    "name": "THOMAS SYSTEMS INC",
+    "state": "SC",
+    "website": "www.winwithtms.com",
+    "is_real_tech_startup": false,
+    "filter_reason": "winwithtms.com appears to be a CRM or sales management software for a very niche or legacy market in SC. Founded 2002, no contacts, no description. Insufficient data to qualify as a modern startup.",
+    "industry": "Niche CRM / Sales Software",
+    "description": "South Carolina software company, founded 2002. Website winwithtms.com suggests a sales/CRM system ('TMS' = Thomas Management System?). Very small, no contacts, no growth signals.",
+    "linkedin_url": null,
+    "hiring_signals": false,
+    "data_quality_score": 3,
+    "contacts": []
+  }
+]

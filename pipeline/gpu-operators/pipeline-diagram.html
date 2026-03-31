@@ -1,0 +1,265 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="utf-8">
+<style>
+  * { margin: 0; padding: 0; box-sizing: border-box; }
+  body { background: #0f0f1a; font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif; color: #e0e0e0; padding: 30px 20px; min-height: 100vh; }
+  h1 { text-align: center; font-size: 26px; color: #FF5C00; margin-bottom: 4px; }
+  .subtitle { text-align: center; color: #666; font-size: 13px; margin-bottom: 30px; }
+  .pipeline { display: flex; flex-direction: column; align-items: center; gap: 0; max-width: 1000px; margin: 0 auto; }
+
+  .phase { width: 100%; margin-bottom: 0; position: relative; }
+  .phase-header { display: flex; align-items: center; gap: 12px; margin-bottom: 12px; }
+  .phase-num { background: #FF5C00; color: #fff; font-weight: 800; font-size: 13px; width: 32px; height: 32px; border-radius: 50%; display: flex; align-items: center; justify-content: center; flex-shrink: 0; }
+  .phase-num.paid { background: #dc2626; }
+  .phase-num.free { background: #059669; }
+  .phase-title { font-size: 16px; font-weight: 700; color: #fff; }
+  .phase-subtitle { font-size: 11px; color: #888; margin-left: 44px; margin-top: -8px; margin-bottom: 12px; }
+
+  .cost-badge { display: inline-block; font-size: 10px; padding: 2px 8px; border-radius: 10px; margin-left: 8px; font-weight: 600; vertical-align: middle; }
+  .cost-free { background: rgba(16,185,129,0.2); color: #10b981; border: 1px solid #10b981; }
+  .cost-paid { background: rgba(239,68,68,0.2); color: #ef4444; border: 1px solid #ef4444; }
+
+  .step-row { display: flex; gap: 12px; margin-left: 44px; margin-bottom: 8px; flex-wrap: wrap; }
+
+  .step { padding: 12px 16px; border-radius: 10px; min-width: 140px; flex: 1; max-width: 280px; transition: transform 0.2s; }
+  .step:hover { transform: translateY(-2px); }
+  .step h4 { font-size: 12px; margin-bottom: 3px; }
+  .step p { font-size: 10px; opacity: 0.75; line-height: 1.4; }
+  .step .tool { font-size: 9px; color: #FF5C00; margin-top: 4px; font-weight: 600; }
+
+  .source { background: linear-gradient(135deg, #1e1b4b, #312e81); border: 1px solid #4f46e5; }
+  .filter { background: linear-gradient(135deg, #3b0764, #581c87); border: 1px solid #a855f7; }
+  .enrich { background: linear-gradient(135deg, #064e3b, #065f46); border: 1px solid #10b981; }
+  .enrich-api { background: linear-gradient(135deg, #713f12, #854d0e); border: 1px solid #f59e0b; }
+  .merge { background: linear-gradient(135deg, #7f1d1d, #991b1b); border: 1px solid #ef4444; }
+  .output { background: linear-gradient(135deg, #0c4a6e, #0369a1); border: 1px solid #0ea5e9; }
+  .score { background: linear-gradient(135deg, #14532d, #166534); border: 1px solid #22c55e; }
+  .contact { background: linear-gradient(135deg, #4a1d96, #6b3fa0); border: 1px solid #8b5cf6; }
+  .gate { background: linear-gradient(135deg, #78350f, #92400e); border: 2px solid #f59e0b; }
+
+  .arrow-connector { display: flex; align-items: center; justify-content: center; padding: 8px 0; margin-left: 44px; }
+  .arrow-line { display: flex; flex-direction: column; align-items: center; }
+  .arrow-pipe { width: 2px; height: 16px; background: linear-gradient(to bottom, #444, #666); }
+  .arrow-head { color: #666; font-size: 14px; line-height: 1; }
+  .arrow-label { font-size: 10px; color: #888; margin-left: 8px; font-style: italic; }
+
+  .stats-bar { display: flex; gap: 16px; margin-left: 44px; margin-top: 4px; margin-bottom: 16px; flex-wrap: wrap; }
+  .stat { font-size: 10px; color: #666; background: rgba(255,255,255,0.05); padding: 4px 10px; border-radius: 6px; }
+  .stat strong { color: #FF5C00; }
+
+  .gate-box { margin-left: 44px; margin-bottom: 8px; padding: 14px 20px; border: 2px dashed #f59e0b; border-radius: 12px; background: rgba(245,158,11,0.05); display: flex; align-items: center; gap: 12px; }
+  .gate-icon { font-size: 24px; }
+  .gate-text h4 { font-size: 13px; color: #f59e0b; margin-bottom: 2px; }
+  .gate-text p { font-size: 11px; color: #999; }
+
+  .divider { width: 90%; height: 1px; background: linear-gradient(to right, transparent, #333, transparent); margin: 20px auto; }
+
+  .legend { display: flex; gap: 12px; justify-content: center; margin-top: 24px; flex-wrap: wrap; padding: 16px; border: 1px solid #222; border-radius: 12px; max-width: 700px; margin-left: auto; margin-right: auto; }
+  .legend-item { display: flex; align-items: center; gap: 5px; font-size: 11px; color: #888; }
+  .legend-dot { width: 10px; height: 10px; border-radius: 3px; }
+
+  .final-box { text-align: center; margin-top: 20px; padding: 20px; border: 2px solid #FF5C00; border-radius: 16px; max-width: 600px; margin-left: auto; margin-right: auto; background: rgba(255,92,0,0.05); }
+  .final-box h3 { color: #FF5C00; font-size: 16px; margin-bottom: 8px; }
+  .final-box p { font-size: 12px; color: #aaa; line-height: 1.6; }
+
+  .savings-callout { margin-left: 44px; margin-top: 8px; margin-bottom: 16px; padding: 10px 16px; border-radius: 10px; background: rgba(16,185,129,0.1); border: 1px solid rgba(16,185,129,0.3); font-size: 11px; color: #10b981; max-width: 500px; }
+  .savings-callout strong { color: #34d399; }
+</style>
+</head>
+<body>
+
+<h1>🔬 DealScope — Enrichment & Lead Sourcing Pipeline</h1>
+<p class="subtitle">Score first with free data → only pay for qualified leads</p>
+
+<div class="pipeline">
+
+  <!-- PHASE 1: DATA SOURCING -->
+  <div class="phase">
+    <div class="phase-header">
+      <div class="phase-num free">1</div>
+      <div class="phase-title">Data Sourcing <span class="cost-badge cost-free">FREE</span></div>
+    </div>
+    <div class="phase-subtitle">Acquire raw company lists from multiple sources</div>
+    <div class="step-row">
+      <div class="step source"><h4>📊 XLSX Import</h4><p>Client-provided spreadsheets, purchased lists, database exports</p><div class="tool">openpyxl / pandas</div></div>
+      <div class="step source"><h4>🔍 Web Research</h4><p>Sub-agents discover companies by sector, geography, funding stage</p><div class="tool">web_search + sub-agents</div></div>
+      <div class="step source"><h4>📑 Product Docs</h4><p>Supervisor briefs, target lists, industry reports, competitor analysis</p><div class="tool">Manual intake</div></div>
+    </div>
+    <div class="stats-bar">
+      <div class="stat">Example: <strong>33,458</strong> raw companies from US Software list</div>
+    </div>
+  </div>
+
+  <div class="arrow-connector"><div class="arrow-line"><div class="arrow-pipe"></div><div class="arrow-head">▼</div></div><div class="arrow-label">raw data</div></div>
+
+  <!-- PHASE 2: FILTERING -->
+  <div class="phase">
+    <div class="phase-header">
+      <div class="phase-num free">2</div>
+      <div class="phase-title">Filtering & Qualification <span class="cost-badge cost-free">FREE</span></div>
+    </div>
+    <div class="phase-subtitle">Remove noise — keep only viable targets</div>
+    <div class="step-row">
+      <div class="step filter"><h4>🧹 Hard Filters</h4><p>Website exists • 10+ employees • >$500K revenue • Has domain</p><div class="tool">Python script</div></div>
+      <div class="step filter"><h4>🎯 Relevance Filter</h4><p>Remove: gaming, nonprofits, acquired/defunct, consulting, non-tech</p><div class="tool">AI agent classification</div></div>
+      <div class="step filter"><h4>📐 Sizing Sweet Spot</h4><p>~$100M GPU hardware • Sub-$500M valuation • Debt-financed priority</p><div class="tool">Scoring criteria</div></div>
+    </div>
+    <div class="stats-bar">
+      <div class="stat">33,458 → <strong>3,463</strong> after hard filters (10.3%)</div>
+      <div class="stat">~43.7% further filtered by AI</div>
+    </div>
+  </div>
+
+  <div class="arrow-connector"><div class="arrow-line"><div class="arrow-pipe"></div><div class="arrow-head">▼</div></div><div class="arrow-label">qualified companies</div></div>
+
+  <!-- PHASE 3: BATCHING -->
+  <div class="phase">
+    <div class="phase-header">
+      <div class="phase-num free">3</div>
+      <div class="phase-title">Batching & Orchestration <span class="cost-badge cost-free">FREE</span></div>
+    </div>
+    <div class="phase-subtitle">Split into manageable chunks for parallel processing</div>
+    <div class="step-row">
+      <div class="step source"><h4>📦 Batch Creation</h4><p>25 companies/batch • Sorted by revenue desc (highest value first)</p><div class="tool">Python splitter</div></div>
+      <div class="step source"><h4>🌊 Wave System</h4><p>10 batches/wave • Max 20 concurrent sub-agents • Auto-spawn next wave</p><div class="tool">Eragon orchestrator</div></div>
+      <div class="step source"><h4>💾 Checkpointing</h4><p>Results saved per batch • Resume on failure • No duplicate work</p><div class="tool">JSON checkpoints</div></div>
+    </div>
+  </div>
+
+  <div class="arrow-connector"><div class="arrow-line"><div class="arrow-pipe"></div><div class="arrow-head">▼</div></div><div class="arrow-label">batch_001.json → batch_139.json</div></div>
+
+  <!-- PHASE 4: FREE AI ENRICHMENT -->
+  <div class="phase">
+    <div class="phase-header">
+      <div class="phase-num free">4</div>
+      <div class="phase-title">AI Enrichment (Free — Web Search Only) <span class="cost-badge cost-free">FREE</span></div>
+    </div>
+    <div class="phase-subtitle">Each batch processed by Claude sub-agent with web search — zero API cost</div>
+    <div class="step-row">
+      <div class="step enrich"><h4>🏢 Company Intel</h4><p>Website verification • Description • Industry • Founded year • Revenue confidence • News • Hiring signals</p><div class="tool">Claude + web_search</div></div>
+      <div class="step enrich"><h4>👤 Contact Discovery</h4><p>C-suite & VP contacts • Title verification • Up to 3 new contacts per company</p><div class="tool">Claude + web_search</div></div>
+      <div class="step contact"><h4>📧 Email Pattern Mining</h4><p>Find any email at domain → deduce pattern → construct all • GitHub, press, conference bios</p><div class="tool">Claude + web_search</div></div>
+    </div>
+    <div class="step-row">
+      <div class="step contact"><h4>🔗 LinkedIn URLs</h4><p>3+ search variations per contact • site:linkedin.com</p><div class="tool">Claude + web_search</div></div>
+      <div class="step contact"><h4>📞 Phone (Best Effort)</h4><p>Company website • BBB • State records • Crunchbase</p><div class="tool">Claude + web_search</div></div>
+      <div class="step enrich"><h4>✅ Validation</h4><p>Real tech startup? • Website live? • Revenue plausible? • Contacts current?</p><div class="tool">Claude verification</div></div>
+    </div>
+    <div class="stats-bar">
+      <div class="stat">Email: <strong>~40%</strong></div>
+      <div class="stat">LinkedIn: <strong>~60%</strong></div>
+      <div class="stat">Phone: <strong>~25%</strong></div>
+      <div class="stat">Cost: <strong>$0</strong> (LLM tokens only)</div>
+    </div>
+  </div>
+
+  <div class="arrow-connector"><div class="arrow-line"><div class="arrow-pipe"></div><div class="arrow-head">▼</div></div><div class="arrow-label">enriched but unscored</div></div>
+
+  <!-- PHASE 5: SCORE & GRADE -->
+  <div class="phase">
+    <div class="phase-header">
+      <div class="phase-num free">5</div>
+      <div class="phase-title">Score, Grade & Triage <span class="cost-badge cost-free">FREE</span></div>
+    </div>
+    <div class="phase-subtitle">Score all companies using free enrichment data — determine who's worth paying for</div>
+    <div class="step-row">
+      <div class="step score"><h4>📊 RVG Scoring</h4><p>GPU fleet scale (0-30) • Hardware gen (+5) • Financing profile (0-25) • Asset value (0-20) • Maturity (0-15) • Contact quality (0-10)</p><div class="tool">Python scoring engine</div></div>
+      <div class="step score"><h4>🏅 Grading</h4><p>A = 80+ (sweet spot) • B = 60-79 (solid) • C = <60 (deprioritize)</p><div class="tool">Auto-graded</div></div>
+      <div class="step merge"><h4>🔀 Initial Merge</h4><p>Combine all batch results • Dedup contacts • Unified dataset</p><div class="tool">merge-full-sweep.py</div></div>
+    </div>
+    <div class="stats-bar">
+      <div class="stat">All companies scored with <strong>$0 spent</strong> on paid APIs so far</div>
+    </div>
+  </div>
+
+  <div class="arrow-connector"><div class="arrow-line"><div class="arrow-pipe"></div><div class="arrow-head">▼</div></div></div>
+
+  <!-- QUALITY GATE -->
+  <div class="gate-box">
+    <div class="gate-icon">🚧</div>
+    <div class="gate-text">
+      <h4>QUALITY GATE — Only A & B Grades Pass</h4>
+      <p>C-grade companies stop here. Paid enrichment only runs on qualified leads. This is where you save 60%+ of API spend.</p>
+    </div>
+  </div>
+
+  <div class="savings-callout">
+    💰 <strong>Cost savings example:</strong> 99 companies → 43 pass gate (8 A + 35 B) → you enrich 43 instead of 99. At 275 credits/contact × 3 contacts avg = <strong>~56% credit savings.</strong>
+  </div>
+
+  <div class="arrow-connector"><div class="arrow-line"><div class="arrow-pipe"></div><div class="arrow-head">▼</div></div><div class="arrow-label">A & B grades only</div></div>
+
+  <!-- PHASE 6: PAID ENRICHMENT -->
+  <div class="phase">
+    <div class="phase-header">
+      <div class="phase-num paid">6</div>
+      <div class="phase-title">Paid API Enrichment (A & B Only) <span class="cost-badge cost-paid">PAID</span></div>
+    </div>
+    <div class="phase-subtitle">Orange Slice + Apollo — only on leads worth the spend</div>
+    <div class="step-row">
+      <div class="step enrich-api"><h4>📍 6a: Google Maps Phones</h4><p>orangeslice googleMaps.scrape() • Company name → verified phone + address</p><div class="tool">Orange Slice · 10 credits/result</div></div>
+      <div class="step enrich-api"><h4>📱 6b: Contact Enrichment (LinkedIn)</h4><p>orangeslice person.contact.get() via LinkedIn URL • Verified email + direct phone</p><div class="tool">Orange Slice · 275 credits/contact</div></div>
+      <div class="step enrich-api"><h4>📱 6c: Contact Enrichment (Fallback)</h4><p>person.contact.get() via name + company • When no LinkedIn URL available</p><div class="tool">Orange Slice · 275 credits/contact</div></div>
+    </div>
+    <div class="step-row">
+      <div class="step enrich-api"><h4>🚀 6d: Apollo Email Finder</h4><p>Apollo.io verified emails • Higher accuracy for B2B contacts • Waterfall after Orange Slice</p><div class="tool">Apollo API · per-credit</div></div>
+      <div class="step enrich-api"><h4>🏢 6e: Company Revenue</h4><p>orangeslice company.revenue() • Revenue, employees, HQ, industry, funding data</p><div class="tool">Orange Slice · 2 credits/company</div></div>
+      <div class="step enrich-api"><h4>🔗 6f: LinkedIn Enrich</h4><p>orangeslice person.linkedin.enrich() • Full profile data for key contacts</p><div class="tool">Orange Slice · varies</div></div>
+    </div>
+    <div class="stats-bar">
+      <div class="stat">Only runs on <strong>A + B grades</strong></div>
+      <div class="stat">Phone coverage: <strong>~70%</strong> after sweep</div>
+      <div class="stat">Email coverage: <strong>~50-60%</strong> with waterfall</div>
+    </div>
+  </div>
+
+  <div class="arrow-connector"><div class="arrow-line"><div class="arrow-pipe"></div><div class="arrow-head">▼</div></div><div class="arrow-label">fully enriched A & B leads</div></div>
+
+  <!-- PHASE 7: FINAL MERGE & OUTPUT -->
+  <div class="phase">
+    <div class="phase-header">
+      <div class="phase-num">7</div>
+      <div class="phase-title">Final Merge & Output</div>
+    </div>
+    <div class="phase-subtitle">Combine paid enrichment with scored data → DealScope XLSX</div>
+    <div class="step-row">
+      <div class="step merge"><h4>🔀 Final Merge</h4><p>Overlay paid API data onto scored dataset • Prioritize verified over constructed • Update contact quality scores</p><div class="tool">merge-full-sweep.py</div></div>
+      <div class="step output"><h4>📋 Enriched Leads</h4><p>One row per contact • Full enrichment • Color coded: 🟠 company 🔵 contact 🟣 source 🟢 verified 🔹 intel</p><div class="tool">Sheet 1</div></div>
+      <div class="step output"><h4>📊 Company Summary</h4><p>One row per company • Aggregated metrics • Grade + score breakdown</p><div class="tool">Sheet 2</div></div>
+    </div>
+    <div class="step-row">
+      <div class="step output"><h4>📤 Delivery</h4><p>XLSX via Telegram • Stats summary • Grade breakdown • Ready for outreach</p><div class="tool">Eragon message tool</div></div>
+    </div>
+  </div>
+
+</div>
+
+<div class="divider"></div>
+
+<div class="final-box">
+  <h3>💡 Pipeline Philosophy</h3>
+  <p>
+    <strong>Free first, paid last.</strong><br>
+    Phases 1-5 cost nothing (web search + LLM tokens).<br>
+    Phase 6 only fires on qualified A & B leads.<br>
+    C-grade companies never touch a paid API.<br><br>
+    <span style="color: #10b981;">Result: Maximum enrichment depth on the leads that matter.<br>
+    Zero spend on the ones that don't.</span>
+  </p>
+</div>
+
+<div class="legend">
+  <div class="legend-item"><div class="legend-dot" style="background:#4f46e5;"></div> Data Source</div>
+  <div class="legend-item"><div class="legend-dot" style="background:#a855f7;"></div> Filtering</div>
+  <div class="legend-item"><div class="legend-dot" style="background:#10b981;"></div> AI Enrichment (Free)</div>
+  <div class="legend-item"><div class="legend-dot" style="background:#f59e0b;"></div> API Enrichment (Paid)</div>
+  <div class="legend-item"><div class="legend-dot" style="background:#8b5cf6;"></div> Contact Discovery</div>
+  <div class="legend-item"><div class="legend-dot" style="background:#22c55e;"></div> Scoring</div>
+  <div class="legend-item"><div class="legend-dot" style="background:#ef4444;"></div> Merge & Process</div>
+  <div class="legend-item"><div class="legend-dot" style="background:#0ea5e9;"></div> Output</div>
+</div>
+
+</body>
+</html>

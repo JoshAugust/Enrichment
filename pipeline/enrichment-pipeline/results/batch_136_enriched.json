@@ -1,0 +1,441 @@
+[
+  {
+    "name": "NETSTEPS",
+    "state": "UT",
+    "website": "www.netsteps.com",
+    "is_real_tech_startup": true,
+    "filter_reason": null,
+    "industry": "Direct Selling / MLM Software SaaS",
+    "description": "NetSteps (founded 2003, Pleasant Grove UT) provides the ENCORE platform \u2014 a comprehensive cloud SaaS solution for the global direct-selling and MLM industry. Features commerce, compensation management, party planning, social networking, and brand management. Clients include Scentsy, Natura, Synergy, and Rodan+Fields. Inc 5000 #137 (2010), 1M+ users in 30+ countries.",
+    "linkedin_url": "https://www.linkedin.com/company/netsteps",
+    "hiring_signals": false,
+    "data_quality_score": 6,
+    "contacts": [
+      {
+        "name": "Mr Kevin Vitale",
+        "title": "Chief Executive Officer",
+        "email_guess": "kevin.vitale@netsteps.com",
+        "email_confidence": "medium",
+        "linkedin_url": null,
+        "phone": null
+      },
+      {
+        "name": "Mr Cannon Holbrook",
+        "title": "Chief Financial Officer",
+        "email_guess": "cannon.holbrook@netsteps.com",
+        "email_confidence": "medium",
+        "linkedin_url": null,
+        "phone": null
+      }
+    ]
+  },
+  {
+    "name": "CONTRA.WORK, INC.",
+    "state": "CA",
+    "website": "contra.com",
+    "is_real_tech_startup": true,
+    "filter_reason": null,
+    "industry": "Future of Work / Freelance Marketplace SaaS",
+    "description": "Contra is a commission-free professional freelance networking platform for independent contractors. Freelancers keep 100% of earnings. Founded 2019 by Ben Huffman and Gajus Kuizinas in San Francisco. 1M+ users. Series B $30M (NEA, Unusual Ventures, Cowboy Ventures, Nov 2021). Total funding: $59M (PitchBook).",
+    "linkedin_url": "https://www.linkedin.com/company/contrahq",
+    "hiring_signals": true,
+    "data_quality_score": 8,
+    "contacts": [
+      {
+        "name": "Mr Joseph Huffman",
+        "title": "Officer",
+        "email_guess": "joe@contra.com",
+        "email_confidence": "medium",
+        "linkedin_url": null,
+        "phone": null
+      }
+    ]
+  },
+  {
+    "name": "A CST GROUP, INC.",
+    "state": "CA",
+    "website": "www.sstgroup-inc.com",
+    "is_real_tech_startup": false,
+    "filter_reason": "Website mismatch (sstgroup-inc.com is SST Group, a staffing/engineering services firm). A CST Group does not appear to be a verifiable independent tech startup.",
+    "industry": null,
+    "description": null,
+    "linkedin_url": null,
+    "hiring_signals": false,
+    "data_quality_score": 2,
+    "contacts": []
+  },
+  {
+    "name": "LEARNING THROUGH SPORTS",
+    "state": "AL",
+    "website": "www.ltskc.com",
+    "is_real_tech_startup": false,
+    "filter_reason": "Education and sports program. Not a tech startup.",
+    "industry": null,
+    "description": null,
+    "linkedin_url": null,
+    "hiring_signals": false,
+    "data_quality_score": 1,
+    "contacts": []
+  },
+  {
+    "name": "EVO MEDIA GROUP, INC.",
+    "state": "WA",
+    "website": "www.evomediagroup.com",
+    "is_real_tech_startup": false,
+    "filter_reason": "Digital marketing agency. Not a product-based SaaS startup.",
+    "industry": null,
+    "description": null,
+    "linkedin_url": null,
+    "hiring_signals": false,
+    "data_quality_score": 2,
+    "contacts": []
+  },
+  {
+    "name": "METRIX INC",
+    "state": "WI",
+    "website": "www.metrix.com",
+    "is_real_tech_startup": false,
+    "filter_reason": "Metrix Inc (service management software) was acquired by IFS in May 2012. No longer an independent company.",
+    "industry": null,
+    "description": null,
+    "linkedin_url": null,
+    "hiring_signals": false,
+    "data_quality_score": 2,
+    "contacts": []
+  },
+  {
+    "name": "COMPUTERS UNLIMITED",
+    "state": "KS",
+    "website": "www.cu.net",
+    "is_real_tech_startup": false,
+    "filter_reason": "Founded 1970. Long-established IT company. Not a startup by any definition.",
+    "industry": null,
+    "description": null,
+    "linkedin_url": null,
+    "hiring_signals": false,
+    "data_quality_score": 1,
+    "contacts": []
+  },
+  {
+    "name": "TURNKEY TEST",
+    "state": "CA",
+    "website": "www.turnkeytest.com",
+    "is_real_tech_startup": false,
+    "filter_reason": "Founded 1985. Test and measurement equipment/services company. Not a modern tech startup.",
+    "industry": null,
+    "description": null,
+    "linkedin_url": null,
+    "hiring_signals": false,
+    "data_quality_score": 1,
+    "contacts": []
+  },
+  {
+    "name": "BRAINWARE, INC.",
+    "state": "VA",
+    "website": "www.brainware.com",
+    "is_real_tech_startup": false,
+    "filter_reason": "Brainware (document processing/intelligent capture AI software) was acquired by Lexmark in 2012. No longer an independent company.",
+    "industry": null,
+    "description": null,
+    "linkedin_url": null,
+    "hiring_signals": false,
+    "data_quality_score": 2,
+    "contacts": []
+  },
+  {
+    "name": "RP SOLUTIONS INC",
+    "state": "NY",
+    "website": "www.rpsolutions.com",
+    "is_real_tech_startup": false,
+    "filter_reason": "Small IT consulting and software solutions firm. No verifiable scalable tech product or funding signals.",
+    "industry": null,
+    "description": null,
+    "linkedin_url": null,
+    "hiring_signals": false,
+    "data_quality_score": 3,
+    "contacts": [
+      {
+        "name": "Mr David Johnson",
+        "title": "President",
+        "email_guess": null,
+        "email_confidence": null,
+        "linkedin_url": null,
+        "phone": null
+      }
+    ]
+  },
+  {
+    "name": "LORUS SOFTWARE",
+    "state": "MI",
+    "website": "www.workforcesoftware.com",
+    "is_real_tech_startup": false,
+    "filter_reason": "Lorus Software is the original entity that became WorkForce Software \u2014 a major workforce management SaaS company. Now a large established company, not a startup, and operating as WorkForce Software.",
+    "industry": null,
+    "description": null,
+    "linkedin_url": null,
+    "hiring_signals": false,
+    "data_quality_score": 2,
+    "contacts": []
+  },
+  {
+    "name": "RFX SOLUTIONS, INC.",
+    "state": "OK",
+    "website": "www.rfxsolutions.com",
+    "is_real_tech_startup": true,
+    "filter_reason": null,
+    "industry": "HealthTech / Healthcare Compliance SaaS",
+    "description": "RFX Solutions is a SaaS compliance platform for ambulatory surgery centers (ASCs) and healthcare facilities. Replaces disconnected spreadsheets with unified platform for credentialing, regulatory compliance, staff training, vendor contracts, incident reporting, and employee files. Founded 2020 by Amanda Penrod (PhD, 25yrs healthcare experience) and Luke Woodard (CTO). 28 employees. $9M Series A (April 2024) led by Arthur Ventures.",
+    "linkedin_url": "https://www.linkedin.com/company/rfx-solutions",
+    "hiring_signals": true,
+    "data_quality_score": 9,
+    "contacts": [
+      {
+        "name": "Ms Amanda Penrod",
+        "title": "Chief Executive Officer",
+        "email_guess": "amanda@rfxsolutions.com",
+        "email_confidence": "medium",
+        "linkedin_url": "https://www.linkedin.com/in/amanda-penrod/",
+        "phone": null
+      }
+    ]
+  },
+  {
+    "name": "OSAGE MANHATTAN BUILDERS A JOINT VENTURE",
+    "state": "OK",
+    "website": "www.osagellc.com",
+    "is_real_tech_startup": false,
+    "filter_reason": "Construction joint venture between Osage LLC and Manhattan Construction. Not a tech company.",
+    "industry": null,
+    "description": null,
+    "linkedin_url": null,
+    "hiring_signals": false,
+    "data_quality_score": 1,
+    "contacts": []
+  },
+  {
+    "name": "ONVISOURCE, INC.",
+    "state": "OK",
+    "website": "www.onvisource.com",
+    "is_real_tech_startup": true,
+    "filter_reason": null,
+    "industry": "Contact Center / Workforce Optimization SaaS",
+    "description": "OnviSource is a contact center and enterprise software provider offering AI-driven workforce optimization, customer analytics, and intelligent automation. Products include EngageHub (AI-native contact center platform) and OnviCloud (SaaS). Founded 2004, Plano TX HQ with Oklahoma offices. Serves banking, healthcare, telecom, and contact centers. Phone: (800) 311-3025.",
+    "linkedin_url": "https://www.linkedin.com/company/onvisource",
+    "hiring_signals": false,
+    "data_quality_score": 6,
+    "contacts": [
+      {
+        "name": "Avadelle K Hibbets",
+        "title": "VP Accounting and Finance",
+        "email_guess": "avadelle.hibbets@onvisource.com",
+        "email_confidence": "medium",
+        "linkedin_url": null,
+        "phone": "(800) 311-3025"
+      }
+    ]
+  },
+  {
+    "name": "SEQUOYAH SOFTWARE & CONSULTING",
+    "state": "OK",
+    "website": "www.sequoyahsoftware.com",
+    "is_real_tech_startup": false,
+    "filter_reason": "Software consulting firm. Not a product-based startup.",
+    "industry": null,
+    "description": null,
+    "linkedin_url": null,
+    "hiring_signals": false,
+    "data_quality_score": 2,
+    "contacts": []
+  },
+  {
+    "name": "JUMP T SERVICES",
+    "state": "OK",
+    "website": "www.jumpfaster.com",
+    "is_real_tech_startup": false,
+    "filter_reason": "Cannot verify as an active scalable tech startup. Insufficient public information.",
+    "industry": null,
+    "description": null,
+    "linkedin_url": null,
+    "hiring_signals": false,
+    "data_quality_score": 2,
+    "contacts": []
+  },
+  {
+    "name": "ADVANCED MICRO SOLUTIONS INC",
+    "state": "OK",
+    "website": "www.1099-etc.com",
+    "is_real_tech_startup": true,
+    "filter_reason": null,
+    "industry": "Payroll / Tax Compliance Software",
+    "description": "Advanced Micro Solutions (AMS) provides 1099-ETC, specialized tax form software for preparing and filing 1099, W-2, W-2C, 941 and other IRS/SSA forms. Desktop and cloud-based payroll and tax compliance software for small businesses, CPAs, and tax professionals. Mustang, Oklahoma based.",
+    "linkedin_url": null,
+    "hiring_signals": false,
+    "data_quality_score": 5,
+    "contacts": [
+      {
+        "name": "Robbi Carmack",
+        "title": "AMS Technical Support",
+        "email_guess": "robbi@1099-etc.com",
+        "email_confidence": "medium",
+        "linkedin_url": null,
+        "phone": null
+      },
+      {
+        "name": "Mr Tim Brady",
+        "title": "Network Administrator",
+        "email_guess": "tim.brady@1099-etc.com",
+        "email_confidence": "medium",
+        "linkedin_url": null,
+        "phone": null
+      }
+    ]
+  },
+  {
+    "name": "ELECTRONIC STORAGE CORP",
+    "state": "OK",
+    "website": "laservault.com",
+    "is_real_tech_startup": true,
+    "filter_reason": null,
+    "industry": "Document Management / ECM Software",
+    "description": "Electronic Storage Corp provides LaserVault, a document management and enterprise content management (ECM) platform for digital document storage, retrieval, workflow automation, and archiving. Founded 1996, Oklahoma City area. Serves banking, healthcare, and government sectors.",
+    "linkedin_url": null,
+    "hiring_signals": false,
+    "data_quality_score": 5,
+    "contacts": [
+      {
+        "name": "Ax Synar",
+        "title": "VP Sales",
+        "email_guess": "ax.synar@laservault.com",
+        "email_confidence": "medium",
+        "linkedin_url": null,
+        "phone": null
+      },
+      {
+        "name": "Mr Rick Wilson",
+        "title": "VP Sales & Support",
+        "email_guess": "rick.wilson@laservault.com",
+        "email_confidence": "medium",
+        "linkedin_url": null,
+        "phone": null
+      }
+    ]
+  },
+  {
+    "name": "GLOBAL INTERFACE SOLUTION, INC.",
+    "state": "OK",
+    "website": "www.secureagent.com",
+    "is_real_tech_startup": true,
+    "filter_reason": null,
+    "industry": "InsurTech / Agency Management Software",
+    "description": "Global Interface Solution (SecureAgent Software) provides insurance agency management software with CRM, commission tracking, carrier integration, and compliance tools for independent insurance agents and agencies. Oklahoma City area, founded 2006.",
+    "linkedin_url": null,
+    "hiring_signals": false,
+    "data_quality_score": 5,
+    "contacts": [
+      {
+        "name": "R Brent Johnson",
+        "title": "President",
+        "email_guess": "brent@secureagent.com",
+        "email_confidence": "medium",
+        "linkedin_url": null,
+        "phone": null
+      }
+    ]
+  },
+  {
+    "name": "QDOS INC",
+    "state": "CA",
+    "website": "www.desksite.com",
+    "is_real_tech_startup": true,
+    "filter_reason": null,
+    "industry": "Legal Tech / Document Management Software",
+    "description": "QDOS Inc (DeskSite) provides document management software for legal professionals and enterprises, with features for matter management, document organization, profiling, and retrieval integrated with iManage/WorkSite environments. California-based legal tech software company.",
+    "linkedin_url": null,
+    "hiring_signals": false,
+    "data_quality_score": 5,
+    "contacts": []
+  },
+  {
+    "name": "IDEVICES LLC",
+    "state": "CT",
+    "website": "www.idevicesinc.com",
+    "is_real_tech_startup": false,
+    "filter_reason": "iDevices (smart home IoT, first Apple HomeKit-enabled smart plug) was acquired by Hubbell Incorporated in April 2017. Now operates as part of Hubbell Wiring Device-Kellems. No longer an independent company.",
+    "industry": null,
+    "description": null,
+    "linkedin_url": null,
+    "hiring_signals": false,
+    "data_quality_score": 2,
+    "contacts": []
+  },
+  {
+    "name": "EASYRX, LLC",
+    "state": "GA",
+    "website": "www.easyrxcloud.com",
+    "is_real_tech_startup": true,
+    "filter_reason": null,
+    "industry": "DentalTech / Orthodontic SaaS",
+    "description": "EasyRx is a cloud-based SaaS platform integrating dental/orthodontic prescriptions, digital workflows, 3D software (EasyRx 3D with AI-powered STL editing), and lab management for practices and labs. Enables fully paperless prescription workflows, intraoral scanner integrations, and lab management. Founded 2020 by Todd Blankenbecler (CEO). Active partnerships with Dentagrafix, The Invisible Orthodontist.",
+    "linkedin_url": "https://www.linkedin.com/company/easyrx",
+    "hiring_signals": true,
+    "data_quality_score": 7,
+    "contacts": [
+      {
+        "name": "Mr Todd Blankenbecler",
+        "title": "President & CEO",
+        "email_guess": "todd@easyrxcloud.com",
+        "email_confidence": "medium",
+        "linkedin_url": null,
+        "phone": null
+      }
+    ]
+  },
+  {
+    "name": "SIGNAL SOFTWARE CORP",
+    "state": "PA",
+    "website": "www.signalsoftware.com/lander",
+    "is_real_tech_startup": false,
+    "filter_reason": "Cannot verify as an active, scalable tech startup. URL pattern (signalsoftware.com/lander) suggests limited web presence. Insufficient public information.",
+    "industry": null,
+    "description": null,
+    "linkedin_url": null,
+    "hiring_signals": false,
+    "data_quality_score": 2,
+    "contacts": []
+  },
+  {
+    "name": "CUSTOMER SERVICE DELIVERY PLATFORM CORP",
+    "state": "PA",
+    "website": "www.csdpcorp.com",
+    "is_real_tech_startup": false,
+    "filter_reason": "Small company incorporated 2008 with no significant funding or growth signals found. Insufficient evidence of a scalable tech product.",
+    "industry": null,
+    "description": null,
+    "linkedin_url": null,
+    "hiring_signals": false,
+    "data_quality_score": 2,
+    "contacts": []
+  },
+  {
+    "name": "EXCEL4APPS INCORPORATED",
+    "state": "PA",
+    "website": "www.excel4apps.com",
+    "is_real_tech_startup": true,
+    "filter_reason": null,
+    "industry": "FinTech / ERP Reporting Software",
+    "description": "Excel4apps provides Excel-based reporting and analysis add-ins (GL Wand, Report Wand, Budget Wand) for SAP, Oracle, and NetSuite ERP users. Enables finance teams to build live ERP reports directly in Excel with drill-down capabilities. PA entity is the US subsidiary (global HQ in New Zealand/South Africa). Established niche ERP reporting software.",
+    "linkedin_url": "https://www.linkedin.com/company/excel4apps",
+    "hiring_signals": false,
+    "data_quality_score": 6,
+    "contacts": [
+      {
+        "name": "Peterson Grant",
+        "title": "Product Manager",
+        "email_guess": "peterson.grant@excel4apps.com",
+        "email_confidence": "medium",
+        "linkedin_url": null,
+        "phone": null
+      }
+    ]
+  }
+]

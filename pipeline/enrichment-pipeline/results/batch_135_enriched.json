@@ -1,0 +1,524 @@
+[
+  {
+    "name": "HELLOJOY INC",
+    "state": "IL",
+    "website": "www.blueprint.ai",
+    "is_real_tech_startup": true,
+    "filter_reason": null,
+    "industry": "HealthTech / Mental Health AI SaaS",
+    "description": "Blueprint (formerly HelloJoy, founded 2016) is an AI-assisted EHR and remote patient monitoring platform for mental health therapists. Transcribes therapy sessions, drafts notes and treatment plans, automates clinical assessments, and integrates RPM between appointments. HIPAA/SOC 2 Type II compliant. Series B funded. Total funding: $28.73M.",
+    "linkedin_url": "https://www.linkedin.com/company/blueprinthealth",
+    "hiring_signals": true,
+    "data_quality_score": 8,
+    "contacts": []
+  },
+  {
+    "name": "SIGNAL",
+    "state": "IL",
+    "website": "www.signalhq.com",
+    "is_real_tech_startup": false,
+    "filter_reason": "Original Signal LLC (Chicago marketing SaaS, Inc 5000 #108 in 2011) was acquired by BrightTag in May 2014, which then renamed itself Signal. Subsequently acquired by TransUnion in August 2020. No longer an independent company.",
+    "industry": null,
+    "description": null,
+    "linkedin_url": null,
+    "hiring_signals": false,
+    "data_quality_score": 2,
+    "contacts": [
+      {
+        "name": "Mr Jeff Judge",
+        "title": "Co-Founder & CEO",
+        "email_guess": null,
+        "email_confidence": null,
+        "linkedin_url": null,
+        "phone": null
+      }
+    ]
+  },
+  {
+    "name": "EVENTRIC LLC",
+    "state": "IL",
+    "website": "www.eventric.com",
+    "is_real_tech_startup": true,
+    "filter_reason": null,
+    "industry": "Entertainment Tech / Tour Management SaaS",
+    "description": "Eventric is a global SaaS platform for live event and touring management. Flagship product Master Tour is trusted by thousands of professional tour managers with 80,000+ monthly active users, 150,000+ tours, and 2M+ live events across 35 countries. Serves music, sports, TV, and film industries. Closed $5M equity round December 2024 (Frontier Growth, Staircase Ventures).",
+    "linkedin_url": "https://www.linkedin.com/company/eventric",
+    "hiring_signals": true,
+    "data_quality_score": 8,
+    "contacts": [
+      {
+        "name": "Mr Paul E Bradley",
+        "title": "President",
+        "email_guess": "paul.bradley@eventric.com",
+        "email_confidence": "medium",
+        "linkedin_url": null,
+        "phone": null
+      }
+    ]
+  },
+  {
+    "name": "XCART DEVELOPMENT",
+    "state": "IL",
+    "website": "www.xcartdevelopment.com",
+    "is_real_tech_startup": false,
+    "filter_reason": "E-commerce development/consulting shop. Not a product-based SaaS startup.",
+    "industry": null,
+    "description": null,
+    "linkedin_url": null,
+    "hiring_signals": false,
+    "data_quality_score": 2,
+    "contacts": []
+  },
+  {
+    "name": "AQUILON ENERGY SERVICES INC",
+    "state": "IL",
+    "website": "www.aquilonenergyinc.com",
+    "is_real_tech_startup": false,
+    "filter_reason": "Aquilon Energy Services (energy settlements SaaS, raised $33.6M from Citi, Goldman Sachs, Invenergy) is listed as a deadpooled/defunct company on Crunchbase. No longer operating.",
+    "industry": null,
+    "description": null,
+    "linkedin_url": null,
+    "hiring_signals": false,
+    "data_quality_score": 2,
+    "contacts": []
+  },
+  {
+    "name": "COMMERCIAL FINANCIAL SERVICE INC",
+    "state": "IL",
+    "website": "www.ccs4vms.com",
+    "is_real_tech_startup": false,
+    "filter_reason": "CCS4VMS is a vendor management/financial services company. No clear indicators of a scalable tech product startup.",
+    "industry": null,
+    "description": null,
+    "linkedin_url": null,
+    "hiring_signals": false,
+    "data_quality_score": 3,
+    "contacts": []
+  },
+  {
+    "name": "SCIENTIFIC COMPUTING ASSOCIATES COR",
+    "state": "IL",
+    "website": "www.scausa.com",
+    "is_real_tech_startup": false,
+    "filter_reason": "Scientific computing consultancy incorporated 1990. Not a modern tech startup.",
+    "industry": null,
+    "description": null,
+    "linkedin_url": null,
+    "hiring_signals": false,
+    "data_quality_score": 2,
+    "contacts": []
+  },
+  {
+    "name": "SITETRACKER INC.",
+    "state": "NJ",
+    "website": "www.sitetracker.com",
+    "is_real_tech_startup": true,
+    "filter_reason": null,
+    "industry": "Infrastructure / Telecom SaaS",
+    "description": "Sitetracker is the global standard in Asset Lifecycle Management and Deployment Operations Management SaaS. Manages millions of telecom (5G, fiber), energy, and utility infrastructure sites for customers like Ericsson, Google, British Telecom, and Vodafone. $150B+ in assets managed worldwide. 190+ employees. Founded 2013 in Palo Alto. (Note: source data has typo 'sitetraker.com'; correct is sitetracker.com.)",
+    "linkedin_url": "https://www.linkedin.com/company/sitetracker",
+    "hiring_signals": true,
+    "data_quality_score": 9,
+    "contacts": [
+      {
+        "name": "Mr Giuseppe Incitti",
+        "title": "President & CEO",
+        "email_guess": "g.incitti@sitetracker.com",
+        "email_confidence": "medium",
+        "linkedin_url": "https://www.linkedin.com/in/giuseppeincitti/",
+        "phone": null
+      },
+      {
+        "name": "Mr Michael Joseph Creegan",
+        "title": "Secretary",
+        "email_guess": "michael.creegan@sitetracker.com",
+        "email_confidence": "medium",
+        "linkedin_url": null,
+        "phone": null
+      },
+      {
+        "name": "Mr Bob Amelung",
+        "title": "Director Customer Support",
+        "email_guess": "bob.amelung@sitetracker.com",
+        "email_confidence": "medium",
+        "linkedin_url": null,
+        "phone": null
+      }
+    ]
+  },
+  {
+    "name": "AVICI SYSTEMS INC",
+    "state": "MA",
+    "website": "www.extremenetworks.com",
+    "is_real_tech_startup": false,
+    "filter_reason": "Avici Systems was a networking hardware company that went bankrupt. The listed website extremenetworks.com belongs to Extreme Networks, a completely different company. Data is stale/incorrect.",
+    "industry": null,
+    "description": null,
+    "linkedin_url": null,
+    "hiring_signals": false,
+    "data_quality_score": 1,
+    "contacts": []
+  },
+  {
+    "name": "CADZATION",
+    "state": "IL",
+    "website": "www.cadzation.com",
+    "is_real_tech_startup": false,
+    "filter_reason": "CAD design services company. Not a software product startup.",
+    "industry": null,
+    "description": null,
+    "linkedin_url": null,
+    "hiring_signals": false,
+    "data_quality_score": 2,
+    "contacts": [
+      {
+        "name": "Mr Matt Saban",
+        "title": "Owner",
+        "email_guess": null,
+        "email_confidence": null,
+        "linkedin_url": null,
+        "phone": null
+      }
+    ]
+  },
+  {
+    "name": "RMCIS CORP",
+    "state": "IL",
+    "website": "www.crossroadsrmc.com",
+    "is_real_tech_startup": false,
+    "filter_reason": "CrossroadsRMC is a small IT services company. Insufficient evidence of a scalable software product.",
+    "industry": null,
+    "description": null,
+    "linkedin_url": null,
+    "hiring_signals": false,
+    "data_quality_score": 3,
+    "contacts": [
+      {
+        "name": "Mr David M Dickson",
+        "title": "President",
+        "email_guess": null,
+        "email_confidence": null,
+        "linkedin_url": null,
+        "phone": null
+      }
+    ]
+  },
+  {
+    "name": "CONSCISYS CORPORATION",
+    "state": "IL",
+    "website": "www.conscisys.com",
+    "is_real_tech_startup": false,
+    "filter_reason": "IT consulting and custom software development firm. Not a product-based SaaS startup.",
+    "industry": null,
+    "description": null,
+    "linkedin_url": null,
+    "hiring_signals": false,
+    "data_quality_score": 3,
+    "contacts": [
+      {
+        "name": "Mr Carr Scott",
+        "title": "President",
+        "email_guess": null,
+        "email_confidence": null,
+        "linkedin_url": null,
+        "phone": null
+      }
+    ]
+  },
+  {
+    "name": "WORK COMP SPECIALTY ASSOCIATES INC",
+    "state": "KS",
+    "website": "www.knight-enterprises.com",
+    "is_real_tech_startup": false,
+    "filter_reason": "Workers compensation services company. Not a tech startup.",
+    "industry": null,
+    "description": null,
+    "linkedin_url": null,
+    "hiring_signals": false,
+    "data_quality_score": 1,
+    "contacts": []
+  },
+  {
+    "name": "ACTUATE CORP",
+    "state": "KS",
+    "website": "www.actuate.com",
+    "is_real_tech_startup": false,
+    "filter_reason": "Actuate Corporation (BI/analytics software) was acquired by OpenText in 2015. No longer an independent company.",
+    "industry": null,
+    "description": null,
+    "linkedin_url": null,
+    "hiring_signals": false,
+    "data_quality_score": 2,
+    "contacts": []
+  },
+  {
+    "name": "TRANSMEDIA TECHNOLOGY",
+    "state": "KS",
+    "website": "www.transmediatech.com",
+    "is_real_tech_startup": false,
+    "filter_reason": "Small IT services/media technology company with insufficient verifiable information as a scalable tech startup.",
+    "industry": null,
+    "description": null,
+    "linkedin_url": null,
+    "hiring_signals": false,
+    "data_quality_score": 2,
+    "contacts": []
+  },
+  {
+    "name": "AP PREMIER STAFFING INC",
+    "state": "KS",
+    "website": "www.appsinc.net",
+    "is_real_tech_startup": false,
+    "filter_reason": "Staffing company. Not a tech startup.",
+    "industry": null,
+    "description": null,
+    "linkedin_url": null,
+    "hiring_signals": false,
+    "data_quality_score": 1,
+    "contacts": []
+  },
+  {
+    "name": "EMCIEN CORP",
+    "state": "GA",
+    "website": "www.emcien.com",
+    "is_real_tech_startup": true,
+    "filter_reason": null,
+    "industry": "AI / Manufacturing Analytics SaaS",
+    "description": "Emcien provides AI-driven pattern recognition and analytics software for manufacturing companies to reduce product complexity, optimize portfolios, and improve demand forecasting. Machine learning applied to SKU rationalization and supply chain optimization. Atlanta-based analytics software company.",
+    "linkedin_url": "https://www.linkedin.com/company/emcien",
+    "hiring_signals": false,
+    "data_quality_score": 6,
+    "contacts": []
+  },
+  {
+    "name": "PREPARED HEALTH INC",
+    "state": "IL",
+    "website": "www.preparedhealth.com",
+    "is_real_tech_startup": true,
+    "filter_reason": null,
+    "industry": "HealthTech / Care Coordination SaaS",
+    "description": "PreparedHealth (rebranded to Dina in 2020, now dinacare.com) is a care coordination SaaS enabling real-time communication between healthcare providers, patients, and families for post-acute care. enTouch Network and DiNA predictive analytics tools. Reduced hospital readmissions by 50% at Bayada (300+ locations). Raised $4.2M (Chicago Ventures, Pritzker Group).",
+    "linkedin_url": "https://www.linkedin.com/company/dina-care",
+    "hiring_signals": false,
+    "data_quality_score": 7,
+    "contacts": [
+      {
+        "name": "Mr David Bean",
+        "title": "Senior VP Sales & Marketing",
+        "email_guess": "david.bean@preparedhealth.com",
+        "email_confidence": "medium",
+        "linkedin_url": null,
+        "phone": null
+      },
+      {
+        "name": "Ms Megan Gilmore",
+        "title": "Director, Marketing",
+        "email_guess": "megan.gilmore@preparedhealth.com",
+        "email_confidence": "medium",
+        "linkedin_url": null,
+        "phone": null
+      },
+      {
+        "name": "Ms Monica Ginsburg",
+        "title": "Marketing Manager",
+        "email_guess": "monica.ginsburg@preparedhealth.com",
+        "email_confidence": "medium",
+        "linkedin_url": null,
+        "phone": null
+      }
+    ]
+  },
+  {
+    "name": "CD2 LEARNING",
+    "state": "KS",
+    "website": "www.cd2learning.com",
+    "is_real_tech_startup": true,
+    "filter_reason": null,
+    "industry": "EdTech / LMS SaaS",
+    "description": "CD2 Learning (rebranded to Propelr) is a cloud-based LMS and learning engagement platform featuring gamification, social collaboration, personalized learning, content authoring, ecommerce, and certifications. All-in-one SaaS LMS accessible from any device. Based in Overland Park, KS. ~11 employees, $5.3M revenue.",
+    "linkedin_url": "https://www.linkedin.com/company/cd2-learning",
+    "hiring_signals": false,
+    "data_quality_score": 6,
+    "contacts": [
+      {
+        "name": "Mr Richard A Bartlett",
+        "title": "Chief Executive Officer",
+        "email_guess": "richard@cd2learning.com",
+        "email_confidence": "medium",
+        "linkedin_url": null,
+        "phone": null
+      },
+      {
+        "name": "Ms Dena Bartlett",
+        "title": "Principal & COO",
+        "email_guess": "dena@cd2learning.com",
+        "email_confidence": "medium",
+        "linkedin_url": null,
+        "phone": null
+      },
+      {
+        "name": "Ms Rhonda Cook",
+        "title": "HR Generalist / Client Liaison",
+        "email_guess": "rhonda.cook@cd2learning.com",
+        "email_confidence": "medium",
+        "linkedin_url": null,
+        "phone": null
+      }
+    ]
+  },
+  {
+    "name": "CENTRO LLC",
+    "state": "IL",
+    "website": "www.centro.net",
+    "is_real_tech_startup": true,
+    "filter_reason": null,
+    "industry": "AdTech / Media Management SaaS",
+    "description": "Centro (now Basis Technologies, basistech.com) is an enterprise media management and programmatic advertising automation platform. Automates digital media buying across search, social, and programmatic channels. 130+ employees. Founded by Shawn Riegsecker. Serves major media agencies and brands.",
+    "linkedin_url": "https://www.linkedin.com/company/centro-software",
+    "hiring_signals": false,
+    "data_quality_score": 7,
+    "contacts": [
+      {
+        "name": "Mr Shawn Riegsecker",
+        "title": "Founder & CEO",
+        "email_guess": "shawn.riegsecker@centro.net",
+        "email_confidence": "medium",
+        "linkedin_url": "https://www.linkedin.com/in/shawn-riegsecker-a14a9/",
+        "phone": null
+      },
+      {
+        "name": "Mr Tyler Kelly",
+        "title": "President",
+        "email_guess": "tyler.kelly@centro.net",
+        "email_confidence": "medium",
+        "linkedin_url": null,
+        "phone": null
+      },
+      {
+        "name": "Ms Katie Risch",
+        "title": "Senior VP",
+        "email_guess": "katie.risch@centro.net",
+        "email_confidence": "medium",
+        "linkedin_url": null,
+        "phone": null
+      }
+    ]
+  },
+  {
+    "name": "WELLSPRING WORLDWIDE, INC.",
+    "state": "IL",
+    "website": "www.wellspring.com",
+    "is_real_tech_startup": true,
+    "filter_reason": null,
+    "industry": "Innovation Management / IP Management SaaS",
+    "description": "Wellspring (formerly Wellspring Worldwide) is the premier innovation, IP management, and technology transfer SaaS platform for universities, corporations, and government agencies. Products: Sophia (30+ modules for tech transfer) and Evolve (AI-powered TTO software). Acquired Sopheon (innovation management) in early 2024. PE investment from Resurgens Technology Partners (July 2022). 70+ countries, hundreds of enterprise customers.",
+    "linkedin_url": "https://www.linkedin.com/company/wellspring-worldwide",
+    "hiring_signals": true,
+    "data_quality_score": 8,
+    "contacts": [
+      {
+        "name": "Mr Sean Downs",
+        "title": "Chief Executive Officer",
+        "email_guess": "sean.downs@wellspring.com",
+        "email_confidence": "medium",
+        "linkedin_url": null,
+        "phone": null
+      },
+      {
+        "name": "Mr Matthew T Hamilton",
+        "title": "Officer",
+        "email_guess": "matthew.hamilton@wellspring.com",
+        "email_confidence": "medium",
+        "linkedin_url": null,
+        "phone": null
+      }
+    ]
+  },
+  {
+    "name": "REVEFI, INC.",
+    "state": "WA",
+    "website": "www.revefi.com",
+    "is_real_tech_startup": true,
+    "filter_reason": null,
+    "industry": "Data Observability / DataOps SaaS",
+    "description": "Revefi is a data observability and cost optimization platform founded by ThoughtSpot co-founders Sanjay Agrawal and Shashank Gupta. Helps companies manage data costs, usage, and performance. Launched Raden \u2014 an AI-powered data engineer acting as 'autopilot for data teams'. HQ: Redmond, WA. Series A $20M led by Icon Ventures (Sept 2024). Total funding: $29M.",
+    "linkedin_url": "https://www.linkedin.com/company/revefi",
+    "hiring_signals": true,
+    "data_quality_score": 9,
+    "contacts": [
+      {
+        "name": "Mr Sanjay Agarwal",
+        "title": "Chief Executive Officer",
+        "email_guess": "sanjay@revefi.com",
+        "email_confidence": "medium",
+        "linkedin_url": "https://www.linkedin.com/in/sanjayagrawal/",
+        "phone": null
+      },
+      {
+        "name": "Mr Shashank Gupta",
+        "title": "Co-Founder & Officer",
+        "email_guess": "shashank@revefi.com",
+        "email_confidence": "medium",
+        "linkedin_url": null,
+        "phone": null
+      }
+    ]
+  },
+  {
+    "name": "QUEST",
+    "state": "WA",
+    "website": "www.quest.com",
+    "is_real_tech_startup": false,
+    "filter_reason": "Quest Software is a large, established IT management and security software company with 7,000+ employees. Not a startup. WA entity is likely a subsidiary registration.",
+    "industry": null,
+    "description": null,
+    "linkedin_url": null,
+    "hiring_signals": false,
+    "data_quality_score": 2,
+    "contacts": []
+  },
+  {
+    "name": "TELLAGO INC",
+    "state": "IL",
+    "website": "www.tellago.com",
+    "is_real_tech_startup": false,
+    "filter_reason": "Tellago is an IT consulting and technology solutions company. Consulting/SI firm, not a product SaaS startup.",
+    "industry": null,
+    "description": null,
+    "linkedin_url": null,
+    "hiring_signals": false,
+    "data_quality_score": 3,
+    "contacts": [
+      {
+        "name": "Mr Jesus Rodriguez",
+        "title": "Co-Founder & CEO",
+        "email_guess": null,
+        "email_confidence": null,
+        "linkedin_url": null,
+        "phone": null
+      }
+    ]
+  },
+  {
+    "name": "AUTODEMO, LLC",
+    "state": "KY",
+    "website": "autodemo.com",
+    "is_real_tech_startup": false,
+    "filter_reason": "AutoDemo (founded 1998) creates interactive software demo videos and tutorials. A specialized media/production services company, not a modern scalable tech startup.",
+    "industry": null,
+    "description": null,
+    "linkedin_url": null,
+    "hiring_signals": false,
+    "data_quality_score": 3,
+    "contacts": [
+      {
+        "name": "Jc Stites",
+        "title": "Owner & CEO",
+        "email_guess": null,
+        "email_confidence": null,
+        "linkedin_url": null,
+        "phone": null
+      }
+    ]
+  }
+]

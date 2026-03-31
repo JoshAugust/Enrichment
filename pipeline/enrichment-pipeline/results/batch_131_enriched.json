@@ -1,0 +1,572 @@
+[
+  {
+    "name": "DS3 COMPUTING SOLUTIONS INC",
+    "state": "TX",
+    "website": "www.ds3cs.com",
+    "is_real_tech_startup": false,
+    "filter_reason": "Small IT services/solutions company founded 2001. Not a product company or startup.",
+    "industry": "IT Services / Managed Services",
+    "description": "Small IT solutions provider based in Texas. Offers technology services and support. Not a software product company.",
+    "linkedin_url": null,
+    "hiring_signals": false,
+    "data_quality_score": 4,
+    "contacts": []
+  },
+  {
+    "name": "HOFY INC.",
+    "state": "TX",
+    "website": "www.hofy.com",
+    "is_real_tech_startup": true,
+    "filter_reason": null,
+    "industry": "HR Tech / Remote Work Infrastructure",
+    "description": "Hofy is a remote work IT management platform that equips and manages distributed teams globally — device procurement, MDM enrollment, asset tracking, and lifecycle management in 120+ countries. Raised $15M Series B (Sep 2022, led by CNP). Acquired by Deel in 2024 and rebranded as 'Deel IT'. Trusted by 35,000+ companies.",
+    "linkedin_url": "https://www.linkedin.com/company/hofy",
+    "hiring_signals": false,
+    "recent_news": "Acquired by Deel in 2024; integrated as Deel IT. Previously raised $15M Series B.",
+    "data_quality_score": 9,
+    "contacts": [
+      {
+        "name": "Dr Sami Bouremoum",
+        "title": "President / CEO",
+        "email_guess": "sami.bouremoum@hofy.com",
+        "email_confidence": "medium",
+        "linkedin_url": "https://www.linkedin.com/in/sami-bouremoum",
+        "phone": null
+      },
+      {
+        "name": "Mr Michael Henry Crisp-Ginzo",
+        "title": "Vice President",
+        "email_guess": "michael.crisp-ginzo@hofy.com",
+        "email_confidence": "low",
+        "linkedin_url": null,
+        "phone": null
+      },
+      {
+        "name": "Mr Peter Simmons",
+        "title": "Treasurer",
+        "email_guess": "peter.simmons@hofy.com",
+        "email_confidence": "low",
+        "linkedin_url": null,
+        "phone": null
+      }
+    ]
+  },
+  {
+    "name": "TECHNICAL SALES INTERNATIONAL LLC",
+    "state": "TX",
+    "website": "www.technicalsalesinternational.com",
+    "is_real_tech_startup": false,
+    "filter_reason": "Autodesk product reseller and IT solutions company. Not a product startup — resells third-party software (Autodesk CAD, fabrication, manufacturing tools).",
+    "industry": "IT Reseller / VAR",
+    "description": "TSI is an Autodesk-authorized reseller founded in 2002. Provides Autodesk products for detailing, fabrication, and manufacturing. Not a software creator.",
+    "linkedin_url": null,
+    "hiring_signals": false,
+    "data_quality_score": 5,
+    "contacts": []
+  },
+  {
+    "name": "S3 MATCHING TECHNOLOGIES LP",
+    "state": "TX",
+    "website": "www.s3.com",
+    "is_real_tech_startup": true,
+    "filter_reason": null,
+    "industry": "FinTech / Capital Markets Technology",
+    "description": "S3 provides compliance reporting and trade analytics software to financial institutions and exchanges worldwide. Founded 2001, Austin TX. Products include Best Execution reporting, Transaction Cost Analysis, SEC Rules 605/606 Reporting, CAT Reporting, MiFID II reporting, and Trade Surveillance. Won TabbFORUM NOVA Award 2023 and A-Team Group Innovation Award 2023 for 'Most Innovative Trade & Transaction Reporting Initiative'.",
+    "linkedin_url": "https://www.linkedin.com/company/s3-matching-technologies",
+    "hiring_signals": false,
+    "recent_news": "Won TabbFORUM NOVA Award 2023 and A-Team Innovation Award 2023.",
+    "data_quality_score": 8,
+    "contacts": [
+      {
+        "name": "Mr Mark Davies",
+        "title": "Chief Executive Officer",
+        "email_guess": "mark.davies@s3.com",
+        "email_confidence": "medium",
+        "linkedin_url": null,
+        "phone": null
+      },
+      {
+        "name": "Mr John Standerfer",
+        "title": "CTO",
+        "email_guess": "john.standerfer@s3.com",
+        "email_confidence": "medium",
+        "linkedin_url": null,
+        "phone": null
+      },
+      {
+        "name": "Mr Tobin Griser",
+        "title": "Executive VP - Client Services",
+        "email_guess": "tobin.griser@s3.com",
+        "email_confidence": "medium",
+        "linkedin_url": null,
+        "phone": null
+      }
+    ]
+  },
+  {
+    "name": "ALIANZA",
+    "state": "CA",
+    "website": "www.alianza.com",
+    "is_real_tech_startup": true,
+    "filter_reason": null,
+    "industry": "Telecom SaaS / Cloud Communications",
+    "description": "Alianza is a full-stack cloud-native communications platform built for telecom service providers. Founded 2009. Enables CSPs to deliver VoIP, UCaaS, SIP Trunking, Cloud PBX and business text messaging — all as a SaaS subscription. Supports 1,000+ service providers in 81 countries including 19 of the top 20 global operators. Strategic AWS collaboration agreement announced.",
+    "linkedin_url": "https://www.linkedin.com/company/alianza",
+    "hiring_signals": false,
+    "recent_news": "Announced multi-year Strategic Collaboration Agreement with AWS to transform how CSPs deliver cloud communications.",
+    "data_quality_score": 8,
+    "contacts": []
+  },
+  {
+    "name": "DEFIANT",
+    "state": "CA",
+    "website": "www.defiantwhisky.com",
+    "is_real_tech_startup": false,
+    "filter_reason": "Whisky distillery company. Not a tech company.",
+    "industry": "Spirits / Beverages",
+    "description": "Whisky brand / distillery. No connection to technology or software.",
+    "linkedin_url": null,
+    "hiring_signals": false,
+    "data_quality_score": 9,
+    "contacts": []
+  },
+  {
+    "name": "AYR1 INC",
+    "state": "AZ",
+    "website": "www.ayr1.com",
+    "is_real_tech_startup": false,
+    "filter_reason": "Small IT services/managed services company in Arizona. Website-building and client relations focus. Not a product company.",
+    "industry": "IT Services",
+    "description": "Small IT and web development services firm in Arizona. Contacts include Business Development Manager, Account Manager, and Web Developer/Client Relations — indicative of a services business.",
+    "linkedin_url": null,
+    "hiring_signals": false,
+    "data_quality_score": 4,
+    "contacts": []
+  },
+  {
+    "name": "PAYMENT SOFTWARE COMPANY, LLC",
+    "state": "CA",
+    "website": "www.paysw.com",
+    "is_real_tech_startup": true,
+    "filter_reason": null,
+    "industry": "Cybersecurity / Payment Security Consulting",
+    "description": "PSC (Payment Software Company) is a global PCI compliance, payment security, and penetration testing firm. One of an elite few companies qualified globally in payments security compliance. Specializes in PCI Assessment, PA-DSS Assessment, Penetration Testing, P2PE, Web Application Security, and PCI PIN/PED review. Offices in USA, Canada, UK, and Australia. Focus exclusively on payments and fintech clients.",
+    "linkedin_url": "https://www.linkedin.com/company/payment-software-company---psc",
+    "hiring_signals": false,
+    "data_quality_score": 7,
+    "contacts": [
+      {
+        "name": "Mr Paul Guthrie",
+        "title": "General Partner / Shareholder",
+        "email_guess": "paul.guthrie@paysw.com",
+        "email_confidence": "medium",
+        "linkedin_url": null,
+        "phone": null
+      },
+      {
+        "name": "Mr Michael Cox",
+        "title": "Quality Assurance Manager",
+        "email_guess": "michael.cox@paysw.com",
+        "email_confidence": "medium",
+        "linkedin_url": null,
+        "phone": null
+      },
+      {
+        "name": "Mr Drake Carr",
+        "title": "Senior Information Security Consultant",
+        "email_guess": "drake.carr@paysw.com",
+        "email_confidence": "medium",
+        "linkedin_url": null,
+        "phone": null
+      }
+    ]
+  },
+  {
+    "name": "PLAYFULL INC",
+    "state": "CA",
+    "website": "playfull.gg",
+    "is_real_tech_startup": true,
+    "filter_reason": null,
+    "industry": "Gaming / Esports Tech",
+    "description": "Playfull is an esports gaming rewards platform based in Los Angeles. Tracks gamer performance across popular esports titles and delivers personalized rewards for meaningful achievements. Proprietary AI rewards engine synthesizes gameplay, demographic and redemption data. Raised $3.15M from 11 investors including Techstars and Boston Seed Capital. Relaunched as social gaming platform June 2023.",
+    "linkedin_url": "https://www.linkedin.com/company/playfull",
+    "hiring_signals": false,
+    "data_quality_score": 7,
+    "contacts": [
+      {
+        "name": "Mr Patrick Lu",
+        "title": "Co-Founder & CEO",
+        "email_guess": "patrick.lu@playfull.gg",
+        "email_confidence": "low",
+        "linkedin_url": "https://www.linkedin.com/in/patrickmlu",
+        "phone": null
+      }
+    ]
+  },
+  {
+    "name": "CHEETAH TECHNOLOGIES, L.P.",
+    "state": "PA",
+    "website": "www.cheetahtech.com",
+    "is_real_tech_startup": true,
+    "filter_reason": null,
+    "industry": "Telecom / Broadband Network Monitoring",
+    "description": "Cheetah Technologies is a developer of network monitoring hardware and software solutions for the global cable and broadband industry. Specializes in CATV Status Monitoring, Optical Network Monitoring, Power Supply Monitoring, Network Performance Monitoring, and Video Quality Monitoring. 20+ years experience in broadband QA. Acquired by Alpha Group (power solutions). Offices in Pittsburgh PA and Sunnyvale CA.",
+    "linkedin_url": "https://www.linkedin.com/company/cheetah-technologies",
+    "hiring_signals": false,
+    "recent_news": "Acquired by Alpha Group.",
+    "data_quality_score": 6,
+    "contacts": [
+      {
+        "name": "Mr Maurice Poyurs",
+        "title": "Owner",
+        "email_guess": "maurice.poyurs@cheetahtech.com",
+        "email_confidence": "low",
+        "linkedin_url": null,
+        "phone": null
+      }
+    ]
+  },
+  {
+    "name": "CASEPROOF",
+    "state": "UT",
+    "website": "caseproof.com",
+    "is_real_tech_startup": true,
+    "filter_reason": null,
+    "industry": "SaaS / WordPress Plugins",
+    "description": "Caseproof is a Utah-based software company specializing in premium WordPress plugins for online business monetization. Products include: MemberPress (world's most widely used membership/monetization plugin), Pretty Links (link cloaking/tracking), Easy Affiliate (affiliate program management), ThirstyAffiliates, and MemberMouse (enterprise membership). Acquired MemberMouse (2023) and WishList Products (2023). Active acquisition strategy.",
+    "linkedin_url": null,
+    "hiring_signals": false,
+    "recent_news": "Acquired WishList Products (May 2023) and MemberMouse (Jan 2023), expanding WordPress membership plugin portfolio.",
+    "data_quality_score": 8,
+    "contacts": []
+  },
+  {
+    "name": "REMEDY ANALYTICS, INC.",
+    "state": "WI",
+    "website": "www.remedyanalytics.com",
+    "is_real_tech_startup": true,
+    "filter_reason": null,
+    "industry": "HealthTech / Pharmacy Analytics",
+    "description": "Remedy Analytics is a Milwaukee-based health technology firm providing pharmacy benefit consulting backed by proprietary PharmaLogic® data analytics platform. Founded 2013. Their platform has 60+ 'Actionboards' and processes millions of pharmacy claims to identify clinical and financial inefficiencies. Services: PBM procurement/evaluation, contract auditing, pharmacy benefit strategy. Ranked #2413 on Inc. 5000 (2020). 51-200 employees.",
+    "linkedin_url": "https://www.linkedin.com/company/remedy-analytics",
+    "hiring_signals": false,
+    "recent_news": "Inc. 5000 #2413 (2020). Continued growth in pharmacy benefit consulting.",
+    "data_quality_score": 8,
+    "contacts": [
+      {
+        "name": "Mr Scott Martin",
+        "title": "Chief Executive Officer",
+        "email_guess": "scott.martin@remedyanalytics.com",
+        "email_confidence": "medium",
+        "linkedin_url": null,
+        "phone": null
+      },
+      {
+        "name": "Mr Mark Abate",
+        "title": "President",
+        "email_guess": "mark.abate@remedyanalytics.com",
+        "email_confidence": "medium",
+        "linkedin_url": null,
+        "phone": null
+      },
+      {
+        "name": "A.J. Conley",
+        "title": "Chief Financial Officer",
+        "email_guess": "aj.conley@remedyanalytics.com",
+        "email_confidence": "low",
+        "linkedin_url": null,
+        "phone": null
+      },
+      {
+        "name": "Ms Joy Nguyen",
+        "title": "Product Development Director, Clinical Analytics",
+        "email_guess": "joy.nguyen@remedyanalytics.com",
+        "email_confidence": "medium",
+        "linkedin_url": null,
+        "phone": null
+      }
+    ]
+  },
+  {
+    "name": "KEEBO, INC.",
+    "state": "MI",
+    "website": "keebo.ai",
+    "is_real_tech_startup": true,
+    "filter_reason": null,
+    "industry": "AI / Data Warehouse Optimization",
+    "description": "Keebo is an Ann Arbor-based AI startup that automates cloud data warehouse optimization (Snowflake, BigQuery, Redshift) using agentic AI. Born from 15 years of database research at University of Michigan, UCLA, and MIT. Founded ~2019 by Barzan Mozafari (University of Michigan professor). Raised $15M total ($10.5M Series A led by True Ventures, 2022). Customers reduce cloud data warehousing costs dramatically without code changes.",
+    "linkedin_url": "https://www.linkedin.com/company/keebo-ai",
+    "hiring_signals": false,
+    "recent_news": "Raised $15M Series A (Oct 2022, led by True Ventures). Launched Automated Warehouse Optimization product.",
+    "data_quality_score": 9,
+    "contacts": [
+      {
+        "name": "Mr Barzan Mozafari",
+        "title": "Co-Founder / Officer (CEO)",
+        "email_guess": "barzan@keebo.ai",
+        "email_confidence": "medium",
+        "linkedin_url": "https://www.linkedin.com/in/barzan-mozafari",
+        "phone": null
+      },
+      {
+        "name": "Mr Jordan Brewer",
+        "title": "Chief Financial Officer",
+        "email_guess": "jordan.brewer@keebo.ai",
+        "email_confidence": "medium",
+        "linkedin_url": null,
+        "phone": null
+      },
+      {
+        "name": "Mr Yongjoo Park",
+        "title": "Officer (CTO / Co-Founder)",
+        "email_guess": "yongjoo@keebo.ai",
+        "email_confidence": "medium",
+        "linkedin_url": null,
+        "phone": null
+      }
+    ]
+  },
+  {
+    "name": "TOFTS ASSOCIATES",
+    "state": "SC",
+    "website": "www.tofts.com",
+    "is_real_tech_startup": false,
+    "filter_reason": "Small consulting or professional services firm in SC. tofts.com appears to be a personal/boutique consultancy. Insufficient evidence of being a product tech company.",
+    "industry": "Consulting (Unknown)",
+    "description": "Small firm in South Carolina, apparently a single-person or boutique consultancy run by Leslie Tofts. Insufficient data to determine tech relevance.",
+    "linkedin_url": null,
+    "hiring_signals": false,
+    "data_quality_score": 2,
+    "contacts": []
+  },
+  {
+    "name": "ABA GROUP LLC",
+    "state": "NV",
+    "website": "www.abagroup.org",
+    "is_real_tech_startup": false,
+    "filter_reason": "ABA Group LLC in NV with abagroup.org website is likely an Applied Behavior Analysis (ABA therapy) services company, not a tech startup.",
+    "industry": "Healthcare Services (likely ABA Therapy)",
+    "description": "Nevada entity with .org domain. Likely a behavioral health services provider, not a tech company.",
+    "linkedin_url": null,
+    "hiring_signals": false,
+    "data_quality_score": 3,
+    "contacts": []
+  },
+  {
+    "name": "ENPLUG, INC.",
+    "state": "CA",
+    "website": "www.enplug.com",
+    "is_real_tech_startup": true,
+    "filter_reason": null,
+    "industry": "SaaS / Digital Signage",
+    "description": "Enplug was a digital signage SaaS platform allowing businesses to manage real-time content on digital displays (stadiums, restaurants, offices, retail). Founded 2012 in Culver City CA by Nanxi Liu (Forbes 30-under-30) and team. Raised $3.7M from prominent investors. Acquired by Spectrio in 2021. Nanxi Liu now CEO at Blaze.tech.",
+    "linkedin_url": "https://www.linkedin.com/company/enplug",
+    "hiring_signals": false,
+    "recent_news": "Acquired by Spectrio in 2021. Nanxi Liu (co-founder/CEO) has moved to Blaze.tech.",
+    "data_quality_score": 8,
+    "contacts": [
+      {
+        "name": "Ms Nanxi Liu",
+        "title": "CEO & Co-Founder (now at Blaze.tech)",
+        "email_guess": "nanxi.liu@enplug.com",
+        "email_confidence": "low",
+        "linkedin_url": "https://www.linkedin.com/in/nanxi",
+        "phone": null
+      },
+      {
+        "name": "Mr Colin Bovet",
+        "title": "Head of Marketing",
+        "email_guess": "colin.bovet@enplug.com",
+        "email_confidence": "low",
+        "linkedin_url": null,
+        "phone": null
+      }
+    ]
+  },
+  {
+    "name": "ATOMITON, INC.",
+    "state": "CA",
+    "website": "www.atomiton.com",
+    "is_real_tech_startup": true,
+    "filter_reason": null,
+    "industry": "Industrial IoT / Enterprise Software",
+    "description": "Atomiton is a Sunnyvale-based Industrial IoT application platform. Founded 2013 by Alok Batra, Jane Ren, and Oleg Danilov. Provides a Thing Query Language (TQL)-based platform connecting operational systems and converting IoT sensor data into actionable business intelligence. Specializes in Water & Utilities, Oil & Gas, Smart Cities, Precision Agriculture, and Manufacturing. BOLD Capital Partners portfolio company.",
+    "linkedin_url": "https://www.linkedin.com/company/atomiton",
+    "hiring_signals": false,
+    "data_quality_score": 7,
+    "contacts": [
+      {
+        "name": "Ms Jane Ren (Yunjing Ren)",
+        "title": "Chief Executive Officer",
+        "email_guess": "jane.ren@atomiton.com",
+        "email_confidence": "high",
+        "linkedin_url": "https://www.linkedin.com/in/janeren",
+        "phone": null
+      },
+      {
+        "name": "Mr Alok Batra",
+        "title": "President & CFO",
+        "email_guess": "alok.batra@atomiton.com",
+        "email_confidence": "medium",
+        "linkedin_url": null,
+        "phone": null
+      },
+      {
+        "name": "Mr Lars Paulsen",
+        "title": "Senior Industrial IoT Solution Architect",
+        "email_guess": "lars.paulsen@atomiton.com",
+        "email_confidence": "medium",
+        "linkedin_url": null,
+        "phone": null
+      }
+    ]
+  },
+  {
+    "name": "SYSTEMS INTEGRATION SPECIALISTS COMPANY",
+    "state": "MI",
+    "website": "www.sisconet.com",
+    "is_real_tech_startup": false,
+    "filter_reason": "Founded 1983. Legacy systems integration firm, not a modern tech startup. 40+ year old services company.",
+    "industry": "IT Services / Systems Integration",
+    "description": "Long-established systems integrator in Michigan, founded 1983. Classic IT services/integration firm.",
+    "linkedin_url": null,
+    "hiring_signals": false,
+    "data_quality_score": 5,
+    "contacts": []
+  },
+  {
+    "name": "JANO TECHNOLOGIES, INC.",
+    "state": "MS",
+    "website": "www.janojustice.com",
+    "is_real_tech_startup": true,
+    "filter_reason": null,
+    "industry": "GovTech / Justice Technology",
+    "description": "Jano Technologies is a Mississippi-based justice technology and public safety software company. Their JANO Justice platform serves law enforcement, courts, and government agencies. Founded 2013. Website janojustice.com. Small team (~20 employees).",
+    "linkedin_url": null,
+    "hiring_signals": false,
+    "data_quality_score": 5,
+    "contacts": [
+      {
+        "name": "Mr Vasco L Bridges III",
+        "title": "President",
+        "email_guess": "vasco.bridges@janojustice.com",
+        "email_confidence": "low",
+        "linkedin_url": null,
+        "phone": null
+      },
+      {
+        "name": "Mr Charlie H Bridges",
+        "title": "Vice President",
+        "email_guess": "charlie.bridges@janojustice.com",
+        "email_confidence": "low",
+        "linkedin_url": null,
+        "phone": null
+      },
+      {
+        "name": "Mr Sicy Johnson",
+        "title": "Developer",
+        "email_guess": "sicy.johnson@janojustice.com",
+        "email_confidence": "low",
+        "linkedin_url": null,
+        "phone": null
+      }
+    ]
+  },
+  {
+    "name": "DATA MINING INTERNATIONAL",
+    "state": "PA",
+    "website": "www.datamininginternational.com",
+    "is_real_tech_startup": false,
+    "filter_reason": "Very small company (12 employees), founded 2003, little public presence. Likely a consulting/analytics services firm rather than a product startup.",
+    "industry": "Data Analytics / Consulting",
+    "description": "Pennsylvania data analytics consulting firm, founded 2003. Minimal online presence. Single key contact (CTO/EVP).",
+    "linkedin_url": null,
+    "hiring_signals": false,
+    "data_quality_score": 3,
+    "contacts": []
+  },
+  {
+    "name": "LANGCHAIN INC.",
+    "state": "CA",
+    "website": "www.langchain.com",
+    "is_real_tech_startup": true,
+    "filter_reason": null,
+    "industry": "AI / Developer Tools / LLM Orchestration",
+    "description": "LangChain is a leading AI framework company building the platform for agent engineering. Founded Oct 2022 by Harrison Chase and Ankush Gola. Products: LangChain (open-source LLM framework), LangSmith (LLM observability/evaluation platform), and LangGraph (agent engineering platform). Powers AI agents for Rippling, Vanta, Cloudflare, Replit, Harvey, and thousands more. Total funding: $260M at $1.25B valuation (Series B Oct 2025 led by Sequoia). Investors: Sequoia, Benchmark, IVP.",
+    "linkedin_url": "https://www.linkedin.com/company/langchain",
+    "hiring_signals": true,
+    "recent_news": "Raised $125M Series B at $1.25B valuation (Oct 2025). Launched LangGraph platform for agent engineering.",
+    "data_quality_score": 10,
+    "contacts": [
+      {
+        "name": "Mr Harrison Weld Chase",
+        "title": "Co-Founder & CEO",
+        "email_guess": "harrison@langchain.com",
+        "email_confidence": "high",
+        "linkedin_url": "https://www.linkedin.com/in/harrison-chase-961287118",
+        "phone": null
+      },
+      {
+        "name": "Mr Ankush Gola",
+        "title": "Co-Founder / Secretary",
+        "email_guess": "ankush@langchain.com",
+        "email_confidence": "medium",
+        "linkedin_url": null,
+        "phone": null
+      }
+    ]
+  },
+  {
+    "name": "ELEOS LLC",
+    "state": "FL",
+    "website": "eleos.health",
+    "is_real_tech_startup": true,
+    "filter_reason": null,
+    "industry": "HealthTech / Behavioral Health AI",
+    "description": "Eleos Health makes AI-powered clinical documentation software for behavioral health providers — generating clinical notes from audio of therapy sessions. Founded 2020 by Alon Joffe, Dror Zaide, and Alon Rabinovich. Headquartered in Boston and Tel Aviv. 160+ employees. 140+ enterprise customers, 100+ languages supported. Total raised: $120M+. Latest: $60M Series C (Jan 2025, led by Greenfield Partners). Investors: F-Prime Capital, Eight Roads, Menlo Ventures, Michael & Susan Dell Foundation.",
+    "linkedin_url": "https://www.linkedin.com/company/eleos-health",
+    "hiring_signals": true,
+    "recent_news": "Raised $60M Series C (Jan 2025). Launched AI compliance product. Expanding into substance use disorder (SUD) treatment centers.",
+    "data_quality_score": 10,
+    "contacts": []
+  },
+  {
+    "name": "MEDSTAR HOLDINGS INC",
+    "state": "FL",
+    "website": "medstarsoft.com",
+    "is_real_tech_startup": true,
+    "filter_reason": null,
+    "industry": "HealthTech / Medical Billing Software",
+    "description": "MedStar Holdings develops medical practice management software, EMR solutions, and medical billing services. Founded 1999, Miami FL. Offers HIPAA-compliant multi-tier architecture integrating scheduling, billing, claims processing, and AR management. 25+ years of experience in healthcare billing automation.",
+    "linkedin_url": "https://www.linkedin.com/company/medstar-holdings-inc",
+    "hiring_signals": false,
+    "data_quality_score": 6,
+    "contacts": []
+  },
+  {
+    "name": "GO FIGURE",
+    "state": "FL",
+    "website": "gofigurestudio.com",
+    "is_real_tech_startup": false,
+    "filter_reason": "gofigurestudio.com is a fitness/yoga studio — not a tech company.",
+    "industry": "Fitness / Wellness",
+    "description": "Fitness studio. Not a tech company.",
+    "linkedin_url": null,
+    "hiring_signals": false,
+    "data_quality_score": 9,
+    "contacts": []
+  },
+  {
+    "name": "CAMEO CORP",
+    "state": "FL",
+    "website": "www.cameo.com",
+    "is_real_tech_startup": false,
+    "filter_reason": "Mismatch: This is a Florida corporate entity (Cameo Corp) whose registered officers (Scott L Jaime, Bartlett Jennifer, Allen B Jennifer as 'Manager') do not match the real Cameo.com celebrity video platform (IL-based, founded by Steven Galanis). This FL entity appears to be a shell or unrelated company using the cameo.com domain listing erroneously.",
+    "industry": "Unknown",
+    "description": "Florida entity with contacts that do not match the known celebrity video platform Cameo (cameo.com, HQ in Chicago IL). Likely a data mismatch or unrelated shell entity.",
+    "linkedin_url": null,
+    "hiring_signals": false,
+    "data_quality_score": 2,
+    "contacts": []
+  }
+]
