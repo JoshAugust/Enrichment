@@ -213,10 +213,36 @@ const INDUSTRY_MAP = {
 function mapIndustry(freetext) {
   if (!freetext) return null;
   const lower = freetext.toLowerCase();
-  for (const [keyword, hsValue] of Object.entries(INDUSTRY_MAP)) {
+  // Map to internal enum values (snake_case)
+  const INTERNAL_MAP = {
+    'ai': 'data_analytics_ai_ml', 'artificial intelligence': 'data_analytics_ai_ml', 'machine learning': 'data_analytics_ai_ml',
+    'gpu': 'data_analytics_ai_ml', 'deep learning': 'data_analytics_ai_ml', 'nlp': 'data_analytics_ai_ml',
+    'data': 'data_analytics_ai_ml', 'analytics': 'data_analytics_ai_ml', 'computer vision': 'data_analytics_ai_ml',
+    'cloud': 'saas_cloud_platforms', 'saas': 'saas_cloud_platforms', 'infrastructure': 'saas_cloud_platforms',
+    'neocloud': 'saas_cloud_platforms', 'data center': 'saas_cloud_platforms',
+    'cybersecurity': 'cybersecurity', 'security': 'cybersecurity', 'identity': 'cybersecurity',
+    'devtools': 'developer_tools_devops', 'developer': 'developer_tools_devops', 'devops': 'developer_tools_devops',
+    'fintech': 'financial_services_fintech', 'financial': 'financial_services_fintech',
+    'payment': 'payments_processors', 'insurance': 'insurance_pnc_health_life', 'insurtech': 'insurance_pnc_health_life',
+    'health': 'healthcare_life_sciences', 'healthtech': 'healthtech_digital_health', 'biotech': 'biotechnology',
+    'pharma': 'pharmaceuticals', 'medtech': 'medical_devices_medtech',
+    'telecom': 'telecommunications', 'edtech': 'online_learning_edtech_startups', 'education': 'education_edtech',
+    'retail': 'retail_ecommerce', 'ecommerce': 'ecommerce_marketplaces', 'e-commerce': 'ecommerce_marketplaces',
+    'energy': 'energy_utilities', 'renewable': 'renewable_energy', 'clean energy': 'renewable_energy',
+    'mining': 'mining_metals', 'semiconductor': 'electronics_semiconductors', 'hardware': 'electronics_semiconductors',
+    'automotive': 'automotive_mobility', 'logistics': 'transportation_logistics',
+    'real estate': 'commercial_real_estate_cre', 'proptech': 'proptech',
+    'construction': 'construction_project_management', 'media': 'media_entertainment', 'gaming': 'gaming_esports',
+    'consulting': 'consulting_advisory', 'legal': 'legal_services_law_firms',
+    'government': 'federal_agencies', 'defense': 'defense_military', 'aerospace': 'aerospace_defense',
+    'agriculture': 'agriculture_environment', 'food': 'food_beverage',
+    'hospitality': 'hospitality_travel', 'manufacturing': 'manufacturing_industrial',
+    'martech': 'adtech_martech', 'adtech': 'adtech_martech', 'marketing': 'adtech_martech',
+  };
+  for (const [keyword, hsValue] of Object.entries(INTERNAL_MAP)) {
     if (lower.includes(keyword)) return hsValue;
   }
-  return 'Technology & Software'; // Default for tech companies
+  return 'technology_software';
 }
 
 // ── Funding stage mapper ────────────────────────────────────────────────────
@@ -224,18 +250,19 @@ function mapFundingStage(stage, totalRaised) {
   if (!stage && !totalRaised) return null;
   const s = (stage || '').toLowerCase();
   if (s.includes('public') || s.includes('ipo')) return null; // Not a funding stage
-  if (s.includes('seed') || s.includes('pre-seed')) return 'Seed';
-  if (s.includes('series a')) return 'Series A';
-  if (s.includes('series b')) return 'Series B';
-  if (s.includes('series c') || s.includes('series d') || s.includes('series e') || s.includes('late') || s.includes('growth')) return 'Series C+';
-  if (s.includes('bootstrap')) return 'Bootstrapped';
+  if (s.includes('pre-seed') || s.includes('pre seed')) return 'pre_seed';
+  if (s.includes('seed')) return 'seed';
+  if (s.includes('series a')) return 'series_a';
+  if (s.includes('series b')) return 'series_b';
+  if (s.includes('series c') || s.includes('series d') || s.includes('series e') || s.includes('late') || s.includes('growth')) return 'series_c_plus';
+  if (s.includes('bootstrap')) return 'bootstrapped';
   // Infer from total raised
   if (totalRaised) {
     const amount = parseFloat(String(totalRaised).replace(/[^0-9.]/g, ''));
-    if (amount < 2) return 'Seed';
-    if (amount < 20) return 'Series A';
-    if (amount < 60) return 'Series B';
-    if (amount >= 60) return 'Series C+';
+    if (amount < 2) return 'seed';
+    if (amount < 20) return 'series_a';
+    if (amount < 60) return 'series_b';
+    if (amount >= 60) return 'series_c_plus';
   }
   return null;
 }
@@ -243,15 +270,15 @@ function mapFundingStage(stage, totalRaised) {
 // ── Business model mapper ───────────────────────────────────────────────────
 function mapBusinessModel(description, industry) {
   const text = ((description || '') + ' ' + (industry || '')).toLowerCase();
-  if (text.includes('saas') || text.includes('software as a service') || text.includes('platform')) return 'SaaS (Software as a Service)';
-  if (text.includes('paas') || text.includes('platform as a service')) return 'PaaS (Platform as a Service)';
-  if (text.includes('iaas') || text.includes('infrastructure as a service') || text.includes('cloud infrastructure') || text.includes('gpu cloud')) return 'IaaS (Infrastructure as a Service)';
-  if (text.includes('marketplace')) return 'Marketplace';
-  if (text.includes('api') || text.includes('developer platform')) return 'API-First / Developer Platform';
-  if (text.includes('open source') || text.includes('open-source')) return 'Open Source';
-  if (text.includes('usage-based') || text.includes('pay-as-you-go') || text.includes('metered')) return 'Pay-as-you-go / Usage-Based';
-  if (text.includes('hardware')) return 'Hardware + Software';
-  if (text.includes('consulting') || text.includes('services')) return 'Professional Services / Consulting';
+  if (text.includes('saas') || text.includes('software as a service') || text.includes('platform')) return 'saas';
+  if (text.includes('paas') || text.includes('platform as a service')) return 'paas';
+  if (text.includes('iaas') || text.includes('infrastructure as a service') || text.includes('cloud infrastructure') || text.includes('gpu cloud')) return 'iaas';
+  if (text.includes('marketplace')) return 'marketplace';
+  if (text.includes('api') || text.includes('developer platform')) return 'api_first';
+  if (text.includes('open source') || text.includes('open-source')) return 'open_source';
+  if (text.includes('usage-based') || text.includes('pay-as-you-go') || text.includes('metered')) return 'usage_based';
+  if (text.includes('hardware')) return 'hardware_software';
+  if (text.includes('consulting') || text.includes('services')) return 'professional_services';
   return null;
 }
 
@@ -425,16 +452,16 @@ function buildContactProps(mapped) {
 
   if (mapped.phone) props.phone = mapped.phone;
 
-  // Map contact role from title
+  // Map contact role from title (snake_case internal values)
   const titleLower = (mapped.title || '').toLowerCase();
   if (titleLower.includes('ceo') || titleLower.includes('founder') || titleLower.includes('president') || titleLower.includes('owner')) {
-    props.contact_role = 'Decision Maker';
+    props.contact_role = 'decision_maker';
   } else if (titleLower.includes('cto') || titleLower.includes('cfo') || titleLower.includes('coo') || titleLower.includes('chief')) {
-    props.contact_role = 'Executive Sponsor';
+    props.contact_role = 'executive_sponsor';
   } else if (titleLower.includes('vp') || titleLower.includes('vice president') || titleLower.includes('director')) {
-    props.contact_role = 'Influencer';
+    props.contact_role = 'influencer';
   } else if (titleLower.includes('head of') || titleLower.includes('lead') || titleLower.includes('manager')) {
-    props.contact_role = 'Champion';
+    props.contact_role = 'champion';
   }
 
   // Trigger event from news
