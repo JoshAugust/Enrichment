@@ -22,22 +22,36 @@ const { v4: uuidv4 } = require('uuid');
 const { db } = require('../db');
 
 // ── Source modules ────────────────────────────────────────────────────────────
+//
+// Pipeline execution order:
+//   1. google-maps          — free, gets HQ address for US qualification check
+//   2. website-vibe-scorer  — free, detects builder/vibe signals before paid sources
+//   3. hubspot-dedup        — free, checks if already in CRM before spending credits
+//   4. qualification-engine — gates: DQ non-US/YC/acquired/200+, scores remainder
+//   5. [paid enrichment sources below]
+//
+// Note: website-vibe-scorer, hubspot-dedup, and qualification-engine are ESM modules.
+// In a CJS context use createRequire or dynamic import(). In an ESM context (this
+// file when type=module), import them at the top level instead.
 
 const sources = {
-  'web-search':         require('./sources/web-search'),
-  'company-website':    require('./sources/company-website'),
-  'google-maps':        require('./sources/google-maps'),       // Native GMaps — free tier, runs before OS
-  'linkedin-enrichment': require('./sources/linkedin-enrichment'),
-  'funding-research':   require('./sources/funding-research'),
-  'social-signals':     require('./sources/social-signals'),
-  'email-discovery':    require('./sources/email-discovery'),
-  'news-monitor':       require('./sources/news-monitor'),
-  'sec-edgar':          require('./sources/sec-edgar'),
-  'job-postings':       require('./sources/job-postings'),
-  'nvidia-partners':    require('./sources/nvidia-partners'),
-  'hunter':             require('./sources/hunter'),
-  'apollo':             require('./sources/apollo'),
-  'rocketreach':        require('./sources/rocketreach'),
+  'google-maps':           require('./sources/google-maps'),       // Native GMaps — free tier
+  'website-vibe-scorer':   require('./sources/website-vibe-scorer'),
+  'hubspot-dedup':         require('./sources/hubspot-dedup'),
+  'qualification-engine':  require('./sources/qualification-engine'),
+  'web-search':            require('./sources/web-search'),
+  'company-website':       require('./sources/company-website'),
+  'linkedin-enrichment':   require('./sources/linkedin-enrichment'),
+  'funding-research':      require('./sources/funding-research'),
+  'social-signals':        require('./sources/social-signals'),
+  'email-discovery':       require('./sources/email-discovery'),
+  'news-monitor':          require('./sources/news-monitor'),
+  'sec-edgar':             require('./sources/sec-edgar'),
+  'job-postings':          require('./sources/job-postings'),
+  'nvidia-partners':       require('./sources/nvidia-partners'),
+  'hunter':                require('./sources/hunter'),
+  'apollo':                require('./sources/apollo'),
+  'rocketreach':           require('./sources/rocketreach'),
 };
 
 // ── DB migrations (idempotent) ────────────────────────────────────────────────
