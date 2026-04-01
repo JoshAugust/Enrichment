@@ -26,6 +26,7 @@ const { db } = require('../db');
 const sources = {
   'web-search':         require('./sources/web-search'),
   'company-website':    require('./sources/company-website'),
+  'google-maps':        require('./sources/google-maps'),       // Native GMaps — free tier, runs before OS
   'linkedin-enrichment': require('./sources/linkedin-enrichment'),
   'funding-research':   require('./sources/funding-research'),
   'social-signals':     require('./sources/social-signals'),
