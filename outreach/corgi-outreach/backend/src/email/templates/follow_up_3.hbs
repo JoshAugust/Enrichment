@@ -1,0 +1,53 @@
+{{!-- follow_up_3.hbs --}}
+{{!-- Day 14+ final follow-up — last nudge before closing the loop --}}
+{{!-- subject_a: "Last note — GPU Residual Value Guaranty" --}}
+{{!-- subject_b: "Closing the loop — {{companyName}} + Corgi" --}}
+
+{{#if isHtml}}
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <style>
+    body { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif; font-size: 15px; line-height: 1.6; color: #1a1a1a; max-width: 600px; margin: 0 auto; padding: 20px; }
+    p { margin: 0 0 16px; }
+    a { color: #2563eb; }
+    .signature { margin-top: 28px; color: #555; }
+  </style>
+</head>
+<body>
+  <p>Hi {{firstName}},</p>
+
+  <p>Last note — I won't keep following up after this.</p>
+
+  <p>The short version of what we do: Corgi writes Residual Value Guaranty insurance on GPU hardware. It's a put-style floor on your hardware's value at a specified future date. If the GPU market moves against you at expiry, the policy pays the full guaranteed amount and takes title to the hardware. If the market holds, you walk away with nothing owed and kept the upside.</p>
+
+  <p>The reason mid-market GPU operators care right now: if you're financing hardware with debt — private credit, equipment lines, bank facilities — your lenders are pricing collateral depreciation risk into your rate and your covenants. An RVG policy puts a guaranteed floor on the collateral, which lets your lenders offer better terms. Private credit lenders are increasingly requiring RV protection as a condition on GPU-backed facilities. If {{companyName}} is raising debt against hardware, or planning to, this will likely come up in your next lender conversation — and it's better to have the structure ready than to scramble for it at term sheet stage.</p>
+
+  <p>If the timing is wrong right now, no problem. Feel free to reach back out when GPU financing is back on the agenda. We'll be here.</p>
+
+  <div class="signature">
+    <p>{{callerName}}<br>
+    Corgi Insurance Services<br>
+    <a href="https://corgi.xyz">corgi.xyz</a></p>
+  </div>
+
+  {{#if trackingPixel}}{{{trackingPixel}}}{{/if}}
+</body>
+</html>
+{{else}}
+Hi {{firstName}},
+
+Last note — I won't keep following up after this.
+
+The short version of what we do: Corgi writes Residual Value Guaranty insurance on GPU hardware. It's a put-style floor on your hardware's value at a specified future date. If the GPU market moves against you at expiry, the policy pays the full guaranteed amount and takes title to the hardware. If the market holds, you walk away with nothing owed and kept the upside.
+
+The reason mid-market GPU operators care right now: if you're financing hardware with debt — private credit, equipment lines, bank facilities — your lenders are pricing collateral depreciation risk into your rate and your covenants. An RVG policy puts a guaranteed floor on the collateral, which lets your lenders offer better terms. Private credit lenders are increasingly requiring RV protection as a condition on GPU-backed facilities. If {{companyName}} is raising debt against hardware, or planning to, this will likely come up in your next lender conversation — and it's better to have the structure ready than to scramble for it at term sheet stage.
+
+If the timing is wrong right now, no problem. Feel free to reach back out when GPU financing is back on the agenda. We'll be here.
+
+{{callerName}}
+Corgi Insurance Services
+corgi.xyz
+{{/if}}

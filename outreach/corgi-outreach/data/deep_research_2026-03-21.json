@@ -1,0 +1,1555 @@
+{
+  "research_date": "2026-03-21",
+  "researcher": "Corgi Deep Research Agent",
+  "notes": "Comprehensive research on all 20 companies. Confidence levels: verified=publicly confirmed, likely=strong inference from multiple sources, speculative=single source or inferred.",
+  "companies": [
+    {
+      "name": "Lightning AI (merged with Voltage Park)",
+      "website": "https://lightning.ai",
+      "prior_name": "Voltage Park",
+      "priority": "A",
+      "funding": {
+        "total_raised": "$500M+ (combined pre-merger)",
+        "valuation": "$2.5B+",
+        "last_round": {
+          "type": "Merger",
+          "amount": "N/A",
+          "date": "2026-01",
+          "investors": ["Lightning AI shareholders", "Voltage Park shareholders"],
+          "notes": "Merger completed January 21, 2026. Combined ARR exceeds $500M."
+        },
+        "all_rounds": [
+          {"type": "Merger completed", "date": "2026-01-21", "notes": "Lightning AI and Voltage Park merge to create AI-native cloud, valued at $2.5B+"}
+        ],
+        "confidence": "verified"
+      },
+      "leadership": [
+        {
+          "name": "William Falcon",
+          "title": "CEO & Founder",
+          "linkedin": "https://www.linkedin.com/in/wfalcon",
+          "email_guess": "william.falcon@lightning.ai",
+          "source": "BusinessWire, VentureBeat merger announcement Jan 2026",
+          "confidence": "verified"
+        },
+        {
+          "name": "Ozan Kaya",
+          "title": "President (former Voltage Park CEO)",
+          "linkedin": "https://www.linkedin.com/in/ozankaya",
+          "email_guess": "ozan.kaya@lightning.ai",
+          "source": "BusinessWire merger announcement Jan 2026",
+          "confidence": "verified"
+        },
+        {
+          "name": "Saurabh Giri",
+          "title": "CPTO (Chief Product & Technology Officer)",
+          "linkedin": "https://www.linkedin.com/in/saurabh-giri",
+          "email_guess": "saurabh.giri@lightning.ai",
+          "source": "BusinessWire merger announcement Jan 2026",
+          "confidence": "verified"
+        }
+      ],
+      "recent_news": [
+        {
+          "date": "2026-01-21",
+          "headline": "Lightning AI and Voltage Park Complete Merger to Create the First Cloud Built for AI — $2.5B+ valuation, $500M+ ARR",
+          "url": "https://www.businesswire.com/news/home/20260121371691/en/Lightning-AI-and-Voltage-Park-Complete-Merger-to-Create-the-First-Cloud-Built-for-AI",
+          "category": "executive"
+        }
+      ],
+      "infrastructure": {
+        "gpu_count": "35,000–36,000 (owned and operated)",
+        "gpu_models": ["H100", "B200", "GB300"],
+        "data_centers": [
+          "Puyallup, WA", "Quincy, WA", "Sterling, VA",
+          "Salt Lake City, UT", "Fort Worth, TX", "Allen, TX"
+        ],
+        "capacity_plans": "AI-native cloud; 'virtually unlimited GPU burst capacity' for users"
+      },
+      "financials": {
+        "revenue_estimate": "$500M+ ARR",
+        "growth_signals": "Merger creates combined entity with massive GPU fleet and software platform",
+        "profitability": "Unknown post-merger"
+      },
+      "strategic_context": "Post-merger Lightning AI is one of the largest independent AI clouds globally with 35K+ owned GPUs and $500M+ ARR. As they integrate Voltage Park infra with Lightning AI software, treasury/cash management, GPU asset financing, and working capital become significant pain points. Corgi's product (GPU collateral/treasury optimization) maps directly to managing their massive, owned GPU fleet. Key outreach: President Ozan Kaya (finance background) and new CFO when confirmed.",
+      "corgi_fit_score": 88,
+      "corgi_fit_rationale": "Large owned GPU fleet, $500M+ ARR, post-merger treasury complexity — strong fit for Corgi's GPU-collateralized financing or treasury tooling. Leadership is finance-aware (former Voltage Park CEO Kaya likely oversees capital structure). No public CFO yet = need to track announcement.",
+      "new_contacts_discovered": [
+        {
+          "name": "Ozan Kaya",
+          "title": "President",
+          "email_guess": "ozan.kaya@lightning.ai",
+          "linkedin": "https://www.linkedin.com/in/ozankaya",
+          "source": "BusinessWire merger PR"
+        },
+        {
+          "name": "Saurabh Giri",
+          "title": "CPTO",
+          "email_guess": "saurabh.giri@lightning.ai",
+          "linkedin": "https://www.linkedin.com/in/saurabh-giri",
+          "source": "BusinessWire merger PR"
+        }
+      ]
+    },
+
+    {
+      "name": "Verda (formerly DataCrunch)",
+      "website": "https://verda.com",
+      "prior_name": "DataCrunch",
+      "priority": "A",
+      "funding": {
+        "total_raised": "$85M+",
+        "last_round": {
+          "type": "Private Debt (Armada Credit Partners)",
+          "amount": "Undisclosed (part of $85M+ total)",
+          "date": "2025-10",
+          "investors": ["Armada Credit Partners"],
+          "notes": "Armada investment announced October 2025, described as supporting 'first hyperscaler from the Nordics'"
+        },
+        "all_rounds": [
+          {"type": "Private Debt", "date": "2025-10", "investors": ["Armada Credit Partners"], "amount": "Undisclosed"},
+          {"type": "Prior equity/debt rounds", "date": "Pre-2025", "amount": "Remaining of $85M+ total"}
+        ],
+        "confidence": "verified (total), speculative (individual round sizes)"
+      },
+      "leadership": [
+        {
+          "name": "Ruben Bryon",
+          "title": "CEO / Founder",
+          "linkedin": "https://www.linkedin.com/in/ruben-bryon/",
+          "email_guess": "ruben.bryon@verda.com",
+          "source": "verda.com/company — verified"
+        },
+        {
+          "name": "Tuukka Saukkonen",
+          "title": "CFO / Operations",
+          "linkedin": "https://www.linkedin.com/in/tsaukkonen/",
+          "email_guess": "tuukka.saukkonen@verda.com",
+          "source": "verda.com/company — verified",
+          "notes": "Described as driving 30x revenue growth with healthy cash discipline — strong Corgi target"
+        },
+        {
+          "name": "Arturs Polis",
+          "title": "CTO",
+          "linkedin": "https://www.linkedin.com/in/arturspolis/",
+          "email_guess": "arturs.polis@verda.com",
+          "source": "verda.com/company — verified"
+        },
+        {
+          "name": "Jorge Santos",
+          "title": "COO",
+          "linkedin": "https://www.linkedin.com/in/jorge-santos-714372213/",
+          "email_guess": "jorge.santos@verda.com",
+          "source": "verda.com/company — verified"
+        },
+        {
+          "name": "Anssi Harjunpää",
+          "title": "VP of Sales",
+          "linkedin": "https://www.linkedin.com/in/harjunpaa/",
+          "email_guess": "anssi.harjunpaa@verda.com",
+          "source": "verda.com/company — verified"
+        },
+        {
+          "name": "Leena Kassinen",
+          "title": "Head of Capital Markets",
+          "linkedin": "https://www.linkedin.com/in/leena-kassinen-9053a454/",
+          "email_guess": "leena.kassinen@verda.com",
+          "source": "verda.com/company — verified",
+          "notes": "Capital markets expert — direct Corgi target for GPU financing discussions"
+        },
+        {
+          "name": "Michael Champion",
+          "title": "VP of Security, Compliance, and Government Relations",
+          "linkedin": "https://www.linkedin.com/in/championm/",
+          "email_guess": "michael.champion@verda.com",
+          "source": "verda.com/company — verified"
+        }
+      ],
+      "recent_news": [
+        {
+          "date": "2025-11-01",
+          "headline": "DataCrunch rebrands to Verda, aims to be Europe's first cloud AI hyperscaler",
+          "url": "https://verda.com/blog/datacrunch-is-changing-its-name-to-verda",
+          "category": "executive"
+        },
+        {
+          "date": "2025-10-01",
+          "headline": "Armada Credit Partners provides private debt financing to Verda (DataCrunch)",
+          "url": "https://armadacredit.com/news/private-debt-investment-in-datacrunch/",
+          "category": "funding"
+        }
+      ],
+      "infrastructure": {
+        "gpu_count": "Not publicly disclosed (tens of thousands of users served)",
+        "gpu_models": ["H200 SXM (141GB VRAM)", "B200 (180GB VRAM)", "GB200 NVL72 (36 Grace-Blackwell superchips)", "GB300 NVL72"],
+        "data_centers": ["Finland (primary)", "EU sovereign infrastructure"],
+        "capacity_plans": "Among first providers worldwide with H200, B200, and GB300; targeting 'first hyperscaler from the Nordics'. NVIDIA Preferred Partner status. 100% renewable energy, ISO certified."
+      },
+      "financials": {
+        "revenue_estimate": "Not public; 30x revenue growth signal from CFO bio (likely $10M-$50M ARR range, speculative)",
+        "growth_signals": "30x revenue growth cited in CFO bio; 64 employees; $85M raised; NVIDIA Preferred Partner",
+        "profitability": "Unknown; CFO describes 'healthy cash flow discipline'"
+      },
+      "strategic_context": "Verda is aggressively expanding GPU fleet with latest Blackwell hardware and seeking to be a European hyperscaler. They've already tapped private debt (Armada) — appetite for more sophisticated GPU asset financing is high. Head of Capital Markets (Leena Kassinen) is the direct Corgi entry point. CFO Tuukka Saukkonen is data-savvy and growth-focused. EU sovereignty angle = regulatory pressure around data/finance.",
+      "corgi_fit_score": 92,
+      "corgi_fit_rationale": "Highest fit score in our database. Active capital markets function (Leena Kassinen), ambitious GPU expansion, already using private debt, EU sovereign focus means they need local/European-compatible financing tools. CFO explicitly focused on cash discipline during rapid growth = Corgi's sweet spot.",
+      "new_contacts_discovered": [
+        {
+          "name": "Leena Kassinen",
+          "title": "Head of Capital Markets",
+          "email_guess": "leena.kassinen@verda.com",
+          "linkedin": "https://www.linkedin.com/in/leena-kassinen-9053a454/",
+          "source": "verda.com/company direct"
+        },
+        {
+          "name": "Anssi Harjunpää",
+          "title": "VP of Sales",
+          "email_guess": "anssi.harjunpaa@verda.com",
+          "linkedin": "https://www.linkedin.com/in/harjunpaa/",
+          "source": "verda.com/company direct"
+        }
+      ]
+    },
+
+    {
+      "name": "TensorWave",
+      "website": "https://tensorwave.com",
+      "priority": "A",
+      "funding": {
+        "total_raised": "$166M+ equity + $800M DDTL debt",
+        "last_round": {
+          "type": "Series A",
+          "amount": "$100M",
+          "date": "2025-05",
+          "investors": ["Magnetar", "AMD Ventures", "Nexus Venture Partners", "Maverick Silicon", "Prosperity7 (Aramco-backed)"]
+        },
+        "all_rounds": [
+          {"type": "Seed", "amount": "$43M", "date": "~2024", "investors": ["Magnetar", "Nexus Venture Partners", "Maverick Silicon"]},
+          {"type": "Series A", "amount": "$100M", "date": "2025-05", "investors": ["Magnetar", "AMD Ventures", "Nexus Venture Partners", "Maverick Silicon", "Prosperity7"]},
+          {"type": "DDTL (Delayed Draw Term Loan)", "amount": "$800M", "date": "2025-2026", "investors": ["Magnetar-guided institutional"], "notes": "GPU inventories and long-term contracts as collateral"}
+        ],
+        "confidence": "verified"
+      },
+      "leadership": [
+        {
+          "name": "Darrick Horton",
+          "title": "Co-Founder & CEO",
+          "linkedin": "https://www.linkedin.com/in/darrick-horton",
+          "email_guess": "darrick.horton@tensorwave.com",
+          "source": "BusinessWire Series A announcement, DataCenterDynamics"
+        },
+        {
+          "name": "Piotr Tomasik",
+          "title": "Co-Founder & COO / President",
+          "linkedin": "https://www.linkedin.com/in/piotr-tomasik",
+          "email_guess": "piotr.tomasik@tensorwave.com",
+          "source": "Futuriom article — DDTL confirmed by Tomasik"
+        },
+        {
+          "name": "Jeff Tatarchuk",
+          "title": "Co-Founder & Chief Growth Officer",
+          "linkedin": "https://www.linkedin.com/in/jeff-tatarchuk",
+          "email_guess": "jeff.tatarchuk@tensorwave.com",
+          "source": "TensorWave team / CBInsights"
+        }
+      ],
+      "recent_news": [
+        {
+          "date": "2025-05-14",
+          "headline": "TensorWave Secures $100M Series A Co-Led by Magnetar and AMD Ventures to build world's largest liquid-cooled AMD GPU deployment",
+          "url": "https://tensorwave.com/blog/series-a",
+          "category": "funding"
+        },
+        {
+          "date": "2026-01-01",
+          "headline": "TensorWave partners with Credo to power next-generation AMD-based AI clusters",
+          "url": "https://finance.yahoo.com/news/tensorwave-partners-credo-power-next-140000437.html",
+          "category": "partnership"
+        },
+        {
+          "date": "2025-08-01",
+          "headline": "TensorWave on track for $100M+ revenue run rate (20x YoY); receives first AMD MI355X shipments",
+          "url": "https://www.futuriom.com/articles/news/tensorwave-is-poised-to-be-amds-biggest-advocate/2025/08",
+          "category": "product"
+        }
+      ],
+      "infrastructure": {
+        "gpu_count": "8,192 MI325X (world's largest liquid-cooled AMD cluster); MI355X now arriving",
+        "gpu_models": ["AMD Instinct MI325X", "AMD Instinct MI355X (new arrivals)"],
+        "data_centers": ["Las Vegas, NV (primary)"],
+        "capacity_plans": "Expanding with MI355X; $800M DDTL for further AMD buildouts. Targeting enterprise AI training/inference at scale."
+      },
+      "financials": {
+        "revenue_estimate": "$100M+ run rate (20x YoY growth signal — Futuriom Aug 2025)",
+        "growth_signals": "20x YoY revenue growth cited; rapid GPU procurement; $800M DDTL signals massive near-term capex",
+        "profitability": "Pre-profitability likely; growth mode"
+      },
+      "strategic_context": "TensorWave is the leading AMD-only GPU cloud, aggressively financed via DDTL structures guided by Magnetar. They are the AMD alternative to CoreWeave. The $800M DDTL is a direct parallel to Corgi's product thesis — GPU-backed asset financing. No public CFO means the COO (Tomasik, who confirmed the DDTL publicly) and CEO are the finance decision-makers. Job posting for Director of Capital Markets spotted in Las Vegas.",
+      "corgi_fit_score": 89,
+      "corgi_fit_rationale": "$166M equity + $800M DDTL = sophisticated buyers of GPU financing infrastructure. AMD differentiation = less mainstream tooling available. $100M+ ARR on steep growth curve = treasury/working capital complexity. COO is public face for capital structure discussions.",
+      "new_contacts_discovered": [
+        {
+          "name": "Piotr Tomasik",
+          "title": "Co-Founder & COO",
+          "email_guess": "piotr.tomasik@tensorwave.com",
+          "linkedin": "https://www.linkedin.com/in/piotr-tomasik",
+          "source": "Futuriom article (DDTL confirmation)"
+        }
+      ]
+    },
+
+    {
+      "name": "HIVE Digital Technologies / BUZZ HPC",
+      "website": "https://www.hivedigitaltechnologies.com",
+      "priority": "A",
+      "ticker": "HIVE (NASDAQ, TSX-V)",
+      "funding": {
+        "total_raised": "Publicly traded; revenues + equity markets",
+        "last_round": {
+          "type": "Ongoing public market financing",
+          "amount": "N/A (NASDAQ/TSX-V listed)",
+          "date": "Ongoing",
+          "investors": ["Public markets"]
+        },
+        "all_rounds": [],
+        "confidence": "verified"
+      },
+      "leadership": [
+        {
+          "name": "Frank Holmes",
+          "title": "Executive Chairman / Interim CEO",
+          "linkedin": "https://www.linkedin.com/in/frankholmes",
+          "email_guess": "frank.holmes@hivedigitaltech.com",
+          "source": "HIVE corporate page"
+        },
+        {
+          "name": "Darcy Daubaras",
+          "title": "CFO",
+          "linkedin": "https://www.linkedin.com/in/darcy-daubaras",
+          "email_guess": "darcy.daubaras@hivedigitaltech.com",
+          "source": "ZoomInfo / Proactive Investors interview (verified)"
+        }
+      ],
+      "recent_news": [
+        {
+          "date": "2026-03-18",
+          "headline": "HIVE Digital launches first GPU cluster in Paraguay powered by Itaipú Dam hydroelectric energy",
+          "url": "https://www.banklesstimes.com/articles/2026/03/18/hive-digital-launches-its-first-gpu-cluster-on-renewable-energy-in-paraguay/",
+          "category": "expansion"
+        },
+        {
+          "date": "2026-03-20",
+          "headline": "BUZZ HPC expands into British Columbia with 4x growth in liquid-cooled AI data center capacity",
+          "url": "https://www.bctechnology.com/news/2026/3/20/HIVEs-BUZZ-HPC-Expands-Data-Center-Footprint-Into-British-Columbia-With-4-Times-Growth-in-Liquid-Cooled-AI-Data-Center-Capacity.cfm",
+          "category": "expansion"
+        },
+        {
+          "date": "2026-01-01",
+          "headline": "BUZZ HPC partnership with Bell Canada — 2,000 next-gen GPUs coming online Q1 2026",
+          "url": "https://www.hivedigitaltechnologies.com/news/hive-digital-technologies-subsidiary-buzz-high-performance-computing-accelerates-canadas-ai-industrial-revolution-with-dell-technologies-for-its-ai-cloud-expansion/",
+          "category": "partnership"
+        }
+      ],
+      "infrastructure": {
+        "gpu_count": "5,000 current; targeting 11,000+ by end 2026",
+        "gpu_models": ["NVIDIA next-generation GPUs (specific models not publicly stated)", "Dell Technologies hardware for BUZZ"],
+        "data_centers": [
+          "Toronto, ON (BUZZ acquisition)",
+          "Boden, Sweden (Tier III+ upgrade)",
+          "Asunción, Paraguay (new, March 2026)",
+          "British Columbia (new expansion, March 2026)",
+          "Bell Canada partnership sites (Canada)"
+        ],
+        "capacity_plans": "6,000+ additional next-gen GPUs in new Tier III+ facilities by year-end 2026. BUZZ targets 11,000+ GPU fleet targeting $120M+ annual run-rate revenue at 80% operating margin after power."
+      },
+      "financials": {
+        "revenue_estimate": "$120M+ projected annual run-rate at full 6K+ additional GPU deployment",
+        "growth_signals": "Rapidly converting Bitcoin mining infrastructure to AI/HPC; multiple new DC sites in 2026",
+        "profitability": "Mining operations profitable; AI transition has higher OpEx but 80% margin target post-power"
+      },
+      "strategic_context": "HIVE is a publicly-listed crypto miner making the hard pivot to AI/HPC via BUZZ HPC. They have existing capital markets access (NASDAQ/TSX-V) but need GPU-specific financing tools as they scale rapidly. As a public company with both mining and AI operations, treasury complexity is significant. CFO Darcy Daubaras is the primary finance contact. The Bell Canada partnership and Dell hardware signal institutional ambitions.",
+      "corgi_fit_score": 78,
+      "corgi_fit_rationale": "Rapid GPU fleet scaling, public company treasury needs, multi-currency operations (CAD/USD), ongoing capex. Lower score because public company = more complex procurement processes and existing banking relationships. But 5K→11K GPU growth in one year = significant asset-backed financing need.",
+      "new_contacts_discovered": [
+        {
+          "name": "Darcy Daubaras",
+          "title": "CFO",
+          "email_guess": "darcy.daubaras@hivedigitaltech.com",
+          "linkedin": "https://www.linkedin.com/in/darcy-daubaras",
+          "source": "ZoomInfo / Proactive Investors"
+        }
+      ]
+    },
+
+    {
+      "name": "Vultr",
+      "website": "https://www.vultr.com",
+      "priority": "A",
+      "funding": {
+        "total_raised": "$329M+ (credit facility)",
+        "last_round": {
+          "type": "Credit Facility",
+          "amount": "$329M",
+          "date": "2024",
+          "investors": ["Undisclosed lenders"],
+          "notes": "Bootstrap prior to this facility; privately held"
+        },
+        "all_rounds": [
+          {"type": "Credit Facility", "amount": "$329M", "date": "2024"}
+        ],
+        "confidence": "verified"
+      },
+      "leadership": [
+        {
+          "name": "J.J. Kardwell",
+          "title": "CEO",
+          "linkedin": "https://www.linkedin.com/in/jjkardwell",
+          "email_guess": "jj.kardwell@vultr.com",
+          "source": "Vultr company page / BusinessWire"
+        },
+        {
+          "name": "David Gucker",
+          "title": "COO",
+          "email_guess": "david.gucker@vultr.com",
+          "source": "Vultr company page"
+        },
+        {
+          "name": "Matt Short",
+          "title": "SVP Global Finance & Accounting",
+          "email_guess": "matt.short@vultr.com",
+          "source": "BusinessWire executive announcement March 2024",
+          "notes": "Key Corgi target — SVP of Finance for a major GPU cloud"
+        },
+        {
+          "name": "Amit Rai",
+          "title": "General Manager, AI and Enterprise Cloud",
+          "email_guess": "amit.rai@vultr.com",
+          "source": "BusinessWire March 2024"
+        },
+        {
+          "name": "Nathan Goulding",
+          "title": "SVP Engineering",
+          "email_guess": "nathan.goulding@vultr.com",
+          "source": "BusinessWire March 2024 (joined from Equinix)"
+        },
+        {
+          "name": "Kevin Cochrane",
+          "title": "CMO",
+          "email_guess": "kevin.cochrane@vultr.com",
+          "source": "BusinessWire March 2024"
+        }
+      ],
+      "recent_news": [
+        {
+          "date": "2026-01-01",
+          "headline": "Vultr building 50MW AMD MI355X cluster in Ohio — $1B+ facility coming online Q1 2026",
+          "url": "https://blogs.vultr.com/2026-cloud-ai-trends",
+          "category": "expansion"
+        },
+        {
+          "date": "2025-12-01",
+          "headline": "Vultr high-density GPU clusters deployed on Digital Realty PlatformDIGITAL in Atlanta, Dallas, London, SF, Singapore",
+          "url": "https://www.channelinsider.com/ai/emerging-tech/gpu-cloud-ai-infrastructure-solutions/",
+          "category": "partnership"
+        },
+        {
+          "date": "2026-02-01",
+          "headline": "Exostellar joins Vultr Cloud Alliance for unified AI fabric orchestration across global GPU regions",
+          "url": "https://blogs.vultr.com/exostellar-AI-infrastructure",
+          "category": "partnership"
+        }
+      ],
+      "infrastructure": {
+        "gpu_count": "Large fleet (exact number not public); 50MW Ohio cluster coming online",
+        "gpu_models": ["NVIDIA H100", "AMD MI355X (new)", "AMD MI325X"],
+        "data_centers": ["32 cities globally", "Ohio (50MW AMD cluster, Q1 2026)", "Digital Realty co-locations: Atlanta, Dallas, London, SF, Singapore"],
+        "capacity_plans": "$1B+ Ohio AMD facility at 50MW; additional Digital Realty expansions in Frankfurt, Mumbai, Sydney, Tokyo planned"
+      },
+      "financials": {
+        "revenue_estimate": "Not public (private company); estimated $200M-$400M ARR based on scale/fleet",
+        "growth_signals": "$329M credit facility, $1B Ohio buildout, major enterprise partnerships",
+        "profitability": "Unknown; heavily investing in expansion"
+      },
+      "strategic_context": "Vultr is a long-established cloud provider making a major AI infrastructure bet with $1B+ in Ohio. SVP Finance Matt Short is the key target. Multi-GPU-vendor strategy (NVIDIA + AMD) signals sophisticated procurement. Partnership with Digital Realty and Exostellar shows ecosystem thinking. Credit facility already in place = they understand debt-financed GPU infrastructure.",
+      "corgi_fit_score": 82,
+      "corgi_fit_rationale": "Already has $329M credit facility, building $1B+ AMD cluster, multi-vendor GPU mix. SVP Finance Matt Short is trackable. The Ohio buildout and Digital Realty partnership signal major capital deployment needs. Mid-range score because they're relatively mature and may have strong banking relationships already.",
+      "new_contacts_discovered": [
+        {
+          "name": "Matt Short",
+          "title": "SVP Global Finance & Accounting",
+          "email_guess": "matt.short@vultr.com",
+          "linkedin": "https://www.linkedin.com/in/matt-short",
+          "source": "BusinessWire executive announcement March 2024"
+        },
+        {
+          "name": "Amit Rai",
+          "title": "General Manager, AI & Enterprise Cloud",
+          "email_guess": "amit.rai@vultr.com",
+          "linkedin": "https://www.linkedin.com/in/amitrai",
+          "source": "BusinessWire executive announcement March 2024"
+        }
+      ]
+    },
+
+    {
+      "name": "Genesis Cloud",
+      "website": "https://www.genesiscloud.com",
+      "priority": "A",
+      "funding": {
+        "total_raised": "$37M",
+        "last_round": {
+          "type": "Unknown (private)",
+          "amount": "Part of $37M total",
+          "date": "Unknown",
+          "investors": ["Not publicly disclosed"]
+        },
+        "all_rounds": [
+          {"type": "Total raised", "amount": "$37M", "confidence": "verified — Crunchbase/Nordea"}
+        ],
+        "confidence": "verified (total), speculative (round structure)"
+      },
+      "leadership": [
+        {
+          "name": "Maximilian Freiermuth",
+          "title": "Co-Founder / CEO",
+          "linkedin": "https://www.linkedin.com/in/maximilian-freiermuth",
+          "email_guess": "maximilian.freiermuth@genesiscloud.com",
+          "source": "Crunchbase / company profile"
+        }
+      ],
+      "recent_news": [
+        {
+          "date": "2025-12-01",
+          "headline": "Genesis Cloud launches GB200 NVL72 clusters for EU sovereign AI workloads",
+          "url": "https://www.genesiscloud.com/",
+          "category": "product"
+        }
+      ],
+      "infrastructure": {
+        "gpu_count": "Not publicly disclosed; smaller scale than top-tier providers",
+        "gpu_models": ["NVIDIA H100", "NVIDIA H200", "NVIDIA B200", "NVIDIA GB200 NVL72"],
+        "data_centers": ["Norway", "France", "Spain", "Finland", "USA", "Canada"],
+        "capacity_plans": "EU-sovereign AI focus; expanding GB200 NVL72 cluster availability. 100% renewable energy. NVIDIA reference architecture.",
+        "notes": "39 employees; Munich headquarters; NVIDIA Preferred partner; ISO certified"
+      },
+      "financials": {
+        "revenue_estimate": "Small/mid; 39 employees; $37M total raised suggests $5M-$20M ARR (speculative)",
+        "growth_signals": "Offering latest-gen GPUs (B200, GB200 NVL72); EU regulatory tailwinds; niche sovereign positioning",
+        "profitability": "Unknown; lean team suggests cost discipline"
+      },
+      "strategic_context": "Genesis Cloud is the EU sovereign GPU cloud for enterprises and regulated industries. Their $37M raise is modest — they need capital-efficient GPU procurement. As they scale GB200 NVL72 clusters (expensive hardware), GPU-backed financing becomes essential. Munich HQ means German/EU regulatory environment. Head of Capital Markets contact needed.",
+      "corgi_fit_score": 76,
+      "corgi_fit_rationale": "EU sovereign positioning = strong regulatory data point for Corgi. Latest-gen hardware (GB200) = high per-unit financing need. Modest team (39 people) = they would value external capital market tools. Lower score due to smaller scale ($37M raised, 39 employees) and missing key finance contact.",
+      "new_contacts_discovered": [
+        {
+          "name": "Maximilian Freiermuth",
+          "title": "Co-Founder / CEO",
+          "email_guess": "maximilian.freiermuth@genesiscloud.com",
+          "linkedin": "https://www.linkedin.com/in/maximilian-freiermuth",
+          "source": "Crunchbase"
+        }
+      ]
+    },
+
+    {
+      "name": "Cirrascale Cloud Services",
+      "website": "https://www.cirrascale.com",
+      "priority": "A",
+      "funding": {
+        "total_raised": "$13.2M (equity) + NSF/NVIDIA $152M managed services contract",
+        "last_round": {
+          "type": "NSF Award (managed services contract)",
+          "amount": "$152M (contract value)",
+          "date": "2025",
+          "investors": ["U.S. National Science Foundation (NSF)", "NVIDIA"],
+          "notes": "Selected as managed services provider for Ai2's $152M NSF+NVIDIA national AI infrastructure award"
+        },
+        "all_rounds": [
+          {"type": "Equity rounds", "amount": "$13.2M total", "investors": ["BOXX Technologies", "Innovative Capital Ventures"]},
+          {"type": "NSF Managed Services Contract", "amount": "$152M", "date": "2025", "investors": ["NSF", "NVIDIA"]}
+        ],
+        "confidence": "verified"
+      },
+      "leadership": [
+        {
+          "name": "Alex Nataros",
+          "title": "CTO (appointed Feb 17, 2026)",
+          "linkedin": "https://www.linkedin.com/in/alex-nataros-ab07b2257/",
+          "email_guess": "alex.nataros@cirrascale.com",
+          "source": "Cirrascale press release Feb 17, 2026"
+        },
+        {
+          "name": "Unknown",
+          "title": "CEO",
+          "notes": "CEO name not surfaced in public search — needs direct site check"
+        }
+      ],
+      "recent_news": [
+        {
+          "date": "2026-02-17",
+          "headline": "Cirrascale appoints Alex Nataros as Chief Technology Officer",
+          "url": "https://ai-techpark.com/cirrascale-appoints-alex-nataros-as-chief-technology-officer/",
+          "category": "executive"
+        },
+        {
+          "date": "2025-05-13",
+          "headline": "Cirrascale adds NVIDIA HGX B200 to its AI Innovation Cloud",
+          "url": "https://www.globenewswire.com/news-release/2025/05/13/3080165/0/en/Cirrascale-Cloud-Services-Adds-NVIDIA-HGX-B200-to-its-AI-Innovation-Cloud.html",
+          "category": "product"
+        },
+        {
+          "date": "2025-01-01",
+          "headline": "Cirrascale selected as managed services provider for Ai2's $152M NSF+NVIDIA national AI infrastructure award",
+          "url": "https://www.cirrascale.com/blogs/cirrascale-ai2-nsf-nvidia-152m",
+          "category": "partnership"
+        },
+        {
+          "date": "2026-03-01",
+          "headline": "Cirrascale embraces Cisco Spectrum-6 N9100 series switches for AI infrastructure scaling",
+          "url": "https://newsroom.cisco.com/c/r/newsroom/en/us/a/y2026/m03/cisco-secure-ai-factory-with-nvidia-GTC-2026.html",
+          "category": "partnership"
+        }
+      ],
+      "infrastructure": {
+        "gpu_count": "Not publicly disclosed; private AI cloud for enterprise/research",
+        "gpu_models": ["NVIDIA HGX B200 (SXM6)", "NVIDIA H100", "Multi-vendor"],
+        "data_centers": ["San Diego, CA area (primary)"],
+        "capacity_plans": "World's first NVIDIA DGX-certified data center; expanding with B200 SXM6 and Cisco Spectrum-6 networking for large-scale private AI"
+      },
+      "financials": {
+        "revenue_estimate": "$152M NSF contract + private cloud revenue; significant multi-year revenue stream",
+        "growth_signals": "NSF mega-contract, new CTO hire, B200 launch, Cisco partnership",
+        "profitability": "NSF contract provides stable baseline revenue"
+      },
+      "strategic_context": "Cirrascale is the specialist for private/enterprise AI cloud with NVIDIA's highest certification. The $152M NSF contract gives them credibility and cash flow. They are likely procuring significant GPU hardware to fulfill that contract. A new CTO in Feb 2026 signals technology investment mode. Need to identify CEO/CFO for outreach.",
+      "corgi_fit_score": 74,
+      "corgi_fit_rationale": "NSF contract = significant hardware procurement cycle. Private AI = high-value per-GPU customer. NVIDIA DGX certification = top-tier hardware buyer. Lower score because $13.2M equity raise is modest and CEO/CFO unknown. The NSF contract relationship may constrain financing flexibility.",
+      "new_contacts_discovered": [
+        {
+          "name": "Alex Nataros",
+          "title": "CTO",
+          "email_guess": "alex.nataros@cirrascale.com",
+          "linkedin": "https://www.linkedin.com/in/alex-nataros-ab07b2257/",
+          "source": "Cirrascale press release Feb 2026"
+        }
+      ]
+    },
+
+    {
+      "name": "Hyperbolic",
+      "website": "https://www.hyperbolic.ai",
+      "priority": "A",
+      "funding": {
+        "total_raised": "$20M",
+        "last_round": {
+          "type": "Series A",
+          "amount": "$12M",
+          "date": "2024-12",
+          "investors": ["Variant", "Polychain Capital", "Chapter One", "Lightspeed Faction", "Bankless Ventures", "IOSG", "GSR", "Wintermute Ventures", "Alumni Ventures"]
+        },
+        "all_rounds": [
+          {"type": "Seed", "amount": "$7M", "date": "~2024-06", "investors": ["Polychain Capital", "Lightspeed Faction"]},
+          {"type": "Series A", "amount": "$12M", "date": "2024-12", "investors": ["Variant", "Polychain Capital", "others"]}
+        ],
+        "confidence": "verified"
+      },
+      "leadership": [
+        {
+          "name": "Yuchen Jin",
+          "title": "Co-Founder & CEO",
+          "linkedin": "https://www.linkedin.com/in/yuchen-jin",
+          "email_guess": "yuchen.jin@hyperbolic.ai",
+          "source": "Hyperbolic blog, Crunchbase"
+        }
+      ],
+      "recent_news": [
+        {
+          "date": "2024-12-10",
+          "headline": "Hyperbolic secures $20M total in Series A led by Polychain and Variant; launches cloud-hosted GPU marketplace",
+          "url": "https://siliconangle.com/2024/12/10/hyperbolic-launches-cloud-hosted-gpu-marketplace-raising-12m-funding/",
+          "category": "funding"
+        }
+      ],
+      "infrastructure": {
+        "gpu_count": "Marketplace model — aggregating 3rd-party GPUs; 10,000+ rented to users",
+        "gpu_models": ["NVIDIA H100 (on-demand from $1.49/hr)", "Various aggregated"],
+        "data_centers": ["Distributed/marketplace — not owned"],
+        "capacity_plans": "Growing two-sided marketplace; now adding Reserved GPU Clusters for large-scale training. Hyper-dOS distributed OS. 200,000+ developers."
+      },
+      "financials": {
+        "revenue_estimate": "Small/early stage; $20M raised, marketplace take-rate model",
+        "growth_signals": "200K+ developers, Cornell/NYU/Stanford users, 33K+ GPU-hours delivered",
+        "profitability": "Pre-profitability; early revenue"
+      },
+      "strategic_context": "Hyperbolic is a marketplace/DePIN model — aggregating idle GPUs. This is a weak fit for Corgi's direct GPU asset financing (they don't own the GPUs). However, as a platform with 200K+ developer users, they could be a distribution/integration partner. Crypto-native backers (Polychain, Bankless) = they understand tokenized/programmable finance.",
+      "corgi_fit_score": 42,
+      "corgi_fit_rationale": "Weak direct fit — marketplace model means they don't own GPU assets and can't pledge them as collateral. $20M raised is small. However, potential as distribution partner or for Reserved Cluster financing if they move to owning clusters. Crypto-native = might be interested in programmable finance rails.",
+      "new_contacts_discovered": [
+        {
+          "name": "Yuchen Jin",
+          "title": "Co-Founder & CEO",
+          "email_guess": "yuchen.jin@hyperbolic.ai",
+          "linkedin": "https://www.linkedin.com/in/yuchen-jin",
+          "source": "Hyperbolic blog"
+        }
+      ]
+    },
+
+    {
+      "name": "Upper90",
+      "website": "https://upper90.io",
+      "priority": "B",
+      "type": "Alternative Lender / Private Credit",
+      "funding": {
+        "total_raised": "N/A (fund manager)",
+        "aum": "$1.2B",
+        "deployed": "$2.2B+ since inception (52 portfolio companies)",
+        "confidence": "verified"
+      },
+      "leadership": [
+        {
+          "name": "Billy Libby",
+          "title": "Co-Founder & CEO",
+          "linkedin": "https://www.linkedin.com/in/billy-libby-76464b1",
+          "email_guess": "billy.libby@upper90.io",
+          "source": "Upper90 website, multiple interviews",
+          "notes": "Former Goldman Sachs Head of Quantitative Execution & Systematic Market Making Sales, Americas"
+        },
+        {
+          "name": "Jason Finger",
+          "title": "Co-Founder & Chairman",
+          "linkedin": "https://www.linkedin.com/in/jasonfinger",
+          "email_guess": "jason.finger@upper90.io",
+          "source": "Upper90 website",
+          "notes": "Founder of Seamless (→ GrubHub)"
+        },
+        {
+          "name": "William Geist",
+          "title": "Managing Partner",
+          "email_guess": "william.geist@upper90.io",
+          "source": "Tracxn / firm profile"
+        }
+      ],
+      "recent_news": [
+        {
+          "date": "2025-03-27",
+          "headline": "Upper90 closes $225M credit facility to Crusoe to expand AI Cloud Infrastructure; syndicated with BCI, FS Investments, King Street, Liberty Mutual, ORIX USA",
+          "url": "https://www.globenewswire.com/news-release/2025/03/27/3050928/0/en/Upper90-Closes-225M-Credit-Facility-to-Crusoe-to-Expand-AI-Cloud-Infrastructure.html",
+          "category": "funding"
+        },
+        {
+          "date": "2025-12-24",
+          "headline": "Upper90 invests in Mundi (latest portfolio addition)",
+          "url": "https://upper90.io/portfolio",
+          "category": "funding"
+        }
+      ],
+      "infrastructure": {
+        "gpu_count": "N/A — lender, not operator",
+        "notes": "$200M prior GPU-backed loan to Crusoe (NVIDIA H100/A100). Comfortable underwriting GPU assets as collateral."
+      },
+      "financials": {
+        "aum": "$1.2B",
+        "unicorns_in_portfolio": "5 (including Crusoe, SellerX, Razor Group)",
+        "portfolio_companies": "52"
+      },
+      "strategic_context": "Upper90 is the anchor for the Crusoe GPU-lending syndicate ($225M + prior $200M). They are THE deal originator for GPU-collateralized credit in the mid-market. Billy Libby's Goldman background = highly quantitative, data-driven. Corgi's product could either (a) serve as infrastructure Upper90 sells to its portfolio companies, or (b) be a tool Upper90 itself uses to manage GPU collateral positions. Partnership angle is as strong as direct sales.",
+      "corgi_fit_score": 85,
+      "corgi_fit_rationale": "Upper90 is the premier GPU-collateralized lender in the market. They are building the product Corgi wants to serve. Partnership/infrastructure sale = high value. Billy Libby's quant background means he'll appreciate sophisticated collateral management tooling. $2.2B deployed = scale matters.",
+      "new_contacts_discovered": [
+        {
+          "name": "Billy Libby",
+          "title": "Co-Founder & CEO",
+          "email_guess": "billy.libby@upper90.io",
+          "linkedin": "https://www.linkedin.com/in/billy-libby-76464b1",
+          "source": "Upper90 website / Authority Magazine"
+        },
+        {
+          "name": "William Geist",
+          "title": "Managing Partner",
+          "email_guess": "william.geist@upper90.io",
+          "linkedin": "https://www.linkedin.com/in/william-geist",
+          "source": "Tracxn profile"
+        }
+      ]
+    },
+
+    {
+      "name": "Victory Park Capital",
+      "website": "https://www.victoryparkcapital.com",
+      "priority": "B",
+      "type": "Private Credit / Alternative Investment",
+      "funding": {
+        "total_raised": "N/A (fund manager)",
+        "notes": "Majority-owned by Janus Henderson since 2024. Privacore VPC Asset Backed Credit Fund launched Feb 2026 with $250M+ seed capital.",
+        "confidence": "verified"
+      },
+      "leadership": [
+        {
+          "name": "Richard Levy",
+          "title": "Founder & Co-CEO",
+          "email_guess": "richard.levy@victoryparkcapital.com",
+          "source": "Victory Park website / SEC filings"
+        },
+        {
+          "name": "Scott Zemnick",
+          "title": "Co-CEO",
+          "email_guess": "scott.zemnick@victoryparkcapital.com",
+          "source": "Victory Park website"
+        },
+        {
+          "name": "Sora Monachino",
+          "title": "Head of Investor Relations",
+          "email_guess": "sora.monachino@victoryparkcapital.com",
+          "source": "WSJ Women to Watch List March 2026",
+          "notes": "Named to WSJ Women to Watch, March 2026"
+        },
+        {
+          "name": "TBD (recently promoted)",
+          "title": "CFO (new — March 2026 promotion)",
+          "notes": "Previous CFO/CCO Olibia Stamatoglou departed to Neuberger January 2026; new CFO announced March 11, 2026 but name not in public sources"
+        }
+      ],
+      "recent_news": [
+        {
+          "date": "2025-08-01",
+          "headline": "Crusoe secures $175M credit facility from Victory Park Capital to accelerate GPU hardware deployment",
+          "url": "https://www.finsmes.com/2025/08/crusoe-secures-175m-credit-facility-from-victory-park-capital.html",
+          "category": "funding"
+        },
+        {
+          "date": "2026-02-11",
+          "headline": "Janus Henderson affiliates Privacore Capital and Victory Park Capital launch first interval fund focused on private asset-backed credit — $250M+ seed capital",
+          "url": "https://www.businesswire.com/news/home/20260211251292/en/Janus-Henderson-Affiliates-Privacore-Capital-and-Victory-Park-Capital-Launch-First-Interval-Fund-focused-on-Private-Asset-Backed-Credit",
+          "category": "funding"
+        },
+        {
+          "date": "2026-03-11",
+          "headline": "Victory Park Capital announces key promotions including new CFO and CCO",
+          "url": "https://www.victoryparkcapital.com/news/",
+          "category": "executive"
+        }
+      ],
+      "infrastructure": {
+        "notes": "Lender/investor; not an operator. GPU exposure via $175M Crusoe facility and Privacore VPC fund."
+      },
+      "financials": {
+        "aum": "Multiple billions (exact figure not public post-Janus Henderson acquisition)",
+        "gpu_exposure": "$175M Crusoe credit facility (Aug 2025)",
+        "new_fund": "$250M+ Privacore VPC Asset Backed Credit Fund (Feb 2026)"
+      },
+      "strategic_context": "Victory Park is building an asset-backed credit platform that now explicitly includes GPU-backed loans (Crusoe $175M) and is scaling via the Privacore joint interval fund. The new CFO/CCO hire (identity pending) is a critical contact. Janus Henderson ownership adds distribution muscle. Corgi's GPU collateral management tooling maps directly to what they need to underwrite and manage their GPU loan book.",
+      "corgi_fit_score": 83,
+      "corgi_fit_rationale": "Active GPU lender ($175M Crusoe), building a dedicated asset-backed credit fund, new CFO = fresh decision-maker to influence. Janus Henderson ownership = scale. High fit for Corgi as tooling/infrastructure for managing GPU collateral in their growing loan book.",
+      "new_contacts_discovered": [
+        {
+          "name": "Sora Monachino",
+          "title": "Head of Investor Relations",
+          "email_guess": "sora.monachino@victoryparkcapital.com",
+          "linkedin": "https://www.linkedin.com/in/sora-monachino",
+          "source": "WSJ Women to Watch March 2026"
+        }
+      ]
+    },
+
+    {
+      "name": "ORIX USA",
+      "website": "https://www.orix.com",
+      "priority": "B",
+      "type": "Diversified Financial Services / Infrastructure Lender",
+      "parent": "ORIX Corporation (Japan, NYSE: IX)",
+      "funding": {
+        "notes": "ORIX Corporation has ~$130B+ AUM globally. ORIX USA is their US subsidiary.",
+        "confidence": "verified"
+      },
+      "leadership": [
+        {
+          "name": "Daniel Goldberg",
+          "title": "Head of Digital Infrastructure / Director Asset-Based Finance",
+          "linkedin": "https://www.linkedin.com/in/daniel-goldberg-66a21979/",
+          "email_guess": "daniel.goldberg@orix.com",
+          "source": "ORIX website orix.com/people/daniel-goldberg",
+          "notes": "Leads digital infrastructure investment strategy, origination, and portfolio oversight. Joined 2021. New York-based. DIRECT Corgi target."
+        },
+        {
+          "name": "David Orlandella",
+          "title": "Managing Director, ORIX USA Growth Capital",
+          "email_guess": "david.orlandella@orix.com",
+          "source": "ORIX deals page — ArangoDB investment"
+        }
+      ],
+      "recent_news": [
+        {
+          "date": "2025-03-27",
+          "headline": "ORIX USA participates in $225M Crusoe GPU credit facility, syndicated by Upper90",
+          "url": "https://www.globenewswire.com/news-release/2025/03/27/3050928/0/en/Upper90-Closes-225M-Credit-Facility-to-Crusoe-to-Expand-AI-Cloud-Infrastructure.html",
+          "category": "funding"
+        },
+        {
+          "date": "2025-08-01",
+          "headline": "ORIX USA Growth Capital makes strategic investment in ArangoDB (AI-native data infrastructure)",
+          "url": "https://www.orix.com/deals/arangodb-secures-strategic-investment-from-orix-usa-to-power-the-future-of-ai-native-data-infrastructure/",
+          "category": "funding"
+        },
+        {
+          "date": "2026-03-01",
+          "headline": "ORIX exits Peak Utility Services Group via sale to Greenbelt-affiliated SPC",
+          "url": "https://www.tipranks.com/news/company-announcements/orix-exits-peak-utility-platform-with-sale-of-ix-pusg-holdings-to-greenbelt-affiliated-spc",
+          "category": "expansion"
+        }
+      ],
+      "infrastructure": {
+        "notes": "Lender/investor in digital infrastructure. GPU exposure via Crusoe $225M facility participation."
+      },
+      "financials": {
+        "aum": "$130B+ globally (ORIX Corp); ORIX USA is large regional arm",
+        "gpu_exposure": "Participant in $225M Crusoe credit facility"
+      },
+      "strategic_context": "ORIX USA's Daniel Goldberg oversees digital infrastructure investing — data centers, fiber, wireless, and 'related digital infrastructure platforms.' He is actively originating GPU-backed loan structures and syndicating them. Corgi's tooling for GPU collateral management would be extremely relevant to his underwriting and portfolio management workflow. Email format: d[lastname]@orix.com (d.goldberg@orix.com likely).",
+      "corgi_fit_score": 80,
+      "corgi_fit_rationale": "Daniel Goldberg is a direct analog to the Corgi target buyer — he builds and manages GPU-backed loan structures and needs monitoring/management tooling. ORIX's institutional scale means high ACV potential. Japanese parent means rigorous risk management culture = appetite for better tooling.",
+      "new_contacts_discovered": [
+        {
+          "name": "Daniel Goldberg",
+          "title": "Head of Digital Infrastructure / Director Asset-Based Finance",
+          "email_guess": "d.goldberg@orix.com",
+          "linkedin": "https://www.linkedin.com/in/daniel-goldberg-66a21979/",
+          "source": "ORIX website orix.com/people/daniel-goldberg"
+        },
+        {
+          "name": "David Orlandella",
+          "title": "Managing Director, ORIX USA Growth Capital",
+          "email_guess": "david.orlandella@orix.com",
+          "linkedin": "https://www.linkedin.com/in/david-orlandella",
+          "source": "ORIX website — ArangoDB deal"
+        }
+      ]
+    },
+
+    {
+      "name": "Colovore",
+      "website": "https://www.colovore.com",
+      "priority": "B",
+      "funding": {
+        "total_raised": "$925M debt facility (Blackstone) + King Street equity",
+        "last_round": {
+          "type": "Debt Facility",
+          "amount": "$925M",
+          "date": "2025-05",
+          "investors": ["Blackstone Funds"],
+          "notes": "King Street Capital acquired majority equity stake in 2024; Blackstone $925M debt facility May 2025"
+        },
+        "all_rounds": [
+          {"type": "Majority equity acquisition", "date": "2024", "investors": ["King Street Capital Management"]},
+          {"type": "Debt Facility", "amount": "$925M", "date": "2025-05", "investors": ["Blackstone"]}
+        ],
+        "confidence": "verified"
+      },
+      "leadership": [
+        {
+          "name": "Mark Stucky",
+          "title": "CEO / Founder",
+          "email_guess": "mark.stucky@colovore.com",
+          "source": "King Street acquisition press release 2024",
+          "linkedin": "https://www.linkedin.com/in/mark-stucky"
+        }
+      ],
+      "recent_news": [
+        {
+          "date": "2025-05-12",
+          "headline": "King Street-backed Colovore closes $925M facility with Blackstone for AI data center platform",
+          "url": "https://www.prnewswire.com/news-releases/king-street-backed-colovore-closes-925-million-facility-with-blackstone-for-ai-data-center-platform-302451361.html",
+          "category": "funding"
+        },
+        {
+          "date": "2025-10-01",
+          "headline": "Colovore files to develop AI data center in Hutto/Austin, Texas; Reno site breaking ground",
+          "url": "https://www.colovore.com",
+          "category": "expansion"
+        }
+      ],
+      "infrastructure": {
+        "gpu_count": "High-density colocation; specific GPU counts not applicable (colo model)",
+        "gpu_models": ["Hosts: NVIDIA DGX (DGX-certified)", "Customer-provided GPUs"],
+        "data_centers": [
+          "Santa Clara, CA (existing)",
+          "Reno, NV (new, breaking ground)",
+          "Chicago, IL (new, 2026-2027)",
+          "Austin, TX (new, 2026-2027)"
+        ],
+        "capacity_plans": "Scaling from 10MW to 50MW+ via Reno/Chicago/Austin expansion. 250kW/rack density. World's first NVIDIA DGX-certified data center. Sites online 2026-2027."
+      },
+      "financials": {
+        "revenue_estimate": "Not public; 10MW current capacity scaling to 50MW+",
+        "growth_signals": "$925M facility for 4 new sites; Blackstone vote of confidence",
+        "profitability": "Unknown"
+      },
+      "strategic_context": "Colovore is the premium AI colocation platform for the most demanding GPU workloads (250kW/rack, NVIDIA DGX-certified). King Street equity + Blackstone debt = institutional backing. Major expansion in progress. Known customers include Cerebras, Lambda Cloud, Cirrascale. As they scale from 10MW to 50MW, procurement/financing needs grow dramatically. CEO Mark Stucky is the contact.",
+      "corgi_fit_score": 77,
+      "corgi_fit_rationale": "High-density AI colo with institutional backing scaling 5x capacity. Colo model means they finance racks/infrastructure but customers own GPUs — different structure than GPU cloud. Still relevant for Corgi's data center infrastructure financing angle. King Street relationship = possible introduction path.",
+      "new_contacts_discovered": [
+        {
+          "name": "Mark Stucky",
+          "title": "CEO / Founder",
+          "email_guess": "mark.stucky@colovore.com",
+          "linkedin": "https://www.linkedin.com/in/mark-stucky",
+          "source": "King Street acquisition PR"
+        }
+      ]
+    },
+
+    {
+      "name": "Radiant (formerly Ori Industries, acquired by Brookfield)",
+      "website": "https://radiant.ai",
+      "prior_name": "Ori Industries",
+      "priority": "B",
+      "funding": {
+        "total_raised": "Acquisition terms undisclosed; Brookfield AI Infrastructure Fund (target: $100B)",
+        "last_round": {
+          "type": "Acquisition",
+          "amount": "Undisclosed",
+          "date": "2026-02-24",
+          "investors": ["Brookfield Asset Management (AI Infrastructure Fund)"]
+        },
+        "all_rounds": [
+          {"type": "Brookfield acquisition via Radiant merger", "date": "2026-02-24"}
+        ],
+        "confidence": "verified"
+      },
+      "leadership": [
+        {
+          "name": "Mahdi Yahya",
+          "title": "President of Radiant (formerly Founder & CEO of Ori Industries)",
+          "linkedin": "https://www.linkedin.com/in/mahdi-yahya",
+          "email_guess": "mahdi.yahya@radiant.ai",
+          "source": "Brookfield/Globenewswire PR Feb 24, 2026"
+        },
+        {
+          "name": "Vishal Padiyar",
+          "title": "Executive Chair of Radiant (MD at Brookfield)",
+          "email_guess": "vishal.padiyar@brookfield.com",
+          "source": "Brookfield/Globenewswire PR Feb 24, 2026"
+        }
+      ],
+      "recent_news": [
+        {
+          "date": "2026-02-24",
+          "headline": "Brookfield launches Radiant as first vertically integrated AI Infrastructure Company through merger with Ori Industries",
+          "url": "https://www.globenewswire.com/news-release/2026/02/24/3243665/0/en/Brookfield-Launches-Radiant-as-first-vertically-integrated-AI-Infrastructure-Company-Through-Merger-with-Ori-Industries.html",
+          "category": "executive"
+        }
+      ],
+      "infrastructure": {
+        "gpu_count": "Building; NVIDIA DSX reference design",
+        "gpu_models": ["NVIDIA DSX reference design hardware"],
+        "data_centers": ["UK (Ori origin), expanding globally via Brookfield"],
+        "capacity_plans": "First compute deployment vehicle for Brookfield's AI Infrastructure Fund. Targeting sovereign governments, global enterprises, telecoms. Long-term contracts. $100B+ total Brookfield AI infrastructure program."
+      },
+      "financials": {
+        "revenue_estimate": "Early stage post-merger; Brookfield has $100B AI infra program backing",
+        "growth_signals": "Brookfield is one of world's largest infrastructure investors; $100B AI infra commitment",
+        "profitability": "Unknown; early operational phase"
+      },
+      "strategic_context": "Radiant is the operating vehicle for Brookfield's $100B AI infrastructure bet. Mahdi Yahya (Ori founder) brings 7 years of orchestration software; Brookfield brings capital and global infrastructure relationships. Sovereign/enterprise focus = long-term GPU contracts. As they deploy significant GPU hardware, Corgi's asset monitoring and collateral tooling is directly relevant to Brookfield's portfolio risk management.",
+      "corgi_fit_score": 72,
+      "corgi_fit_rationale": "Early operational stage limits near-term ACV. But Brookfield's $100B program makes this a massive long-term opportunity. Mahdi Yahya is the software/operations person; finance decisions likely run through Brookfield MD Padiyar. Worth tracking quarterly.",
+      "new_contacts_discovered": [
+        {
+          "name": "Mahdi Yahya",
+          "title": "President of Radiant",
+          "email_guess": "mahdi.yahya@radiant.ai",
+          "linkedin": "https://www.linkedin.com/in/mahdi-yahya",
+          "source": "Brookfield Radiant merger PR Feb 2026"
+        },
+        {
+          "name": "Vishal Padiyar",
+          "title": "Executive Chair (Brookfield MD)",
+          "email_guess": "vishal.padiyar@brookfield.com",
+          "linkedin": "https://www.linkedin.com/in/vishal-padiyar",
+          "source": "Brookfield Radiant merger PR Feb 2026"
+        }
+      ]
+    },
+
+    {
+      "name": "phoenixNAP",
+      "website": "https://phoenixnap.com",
+      "priority": "B",
+      "funding": {
+        "total_raised": "Private (bootstrapped/PE-backed); Goldman Sachs sale process active",
+        "last_round": {
+          "type": "Goldman Sachs-run sale process (auction)",
+          "amount": "Target: complete company sale",
+          "date": "2025-Q1 launch",
+          "notes": "Goldman Sachs managing sale process for 100% of company. Process launched Q1 2025, status as of March 2026 unclear — no public completion announcement found."
+        },
+        "confidence": "verified (sale process); speculative (outcome)"
+      },
+      "leadership": [
+        {
+          "name": "Ron Cadwell",
+          "title": "CEO",
+          "linkedin": "https://www.linkedin.com/in/ron-cadwell-0b747313b/",
+          "email_guess": "ron.cadwell@phoenixnap.com",
+          "source": "Comparably, ZoomInfo"
+        },
+        {
+          "name": "Ian McClarty",
+          "title": "Founder & President",
+          "linkedin": "https://www.linkedin.com/in/mcclarty",
+          "email_guess": "ian.mcclarty@phoenixnap.com",
+          "source": "LinkedIn (verified)"
+        },
+        {
+          "name": "Marcus Bohn",
+          "title": "Chief Legal Officer",
+          "email_guess": "marcus.bohn@phoenixnap.com",
+          "source": "Comparably"
+        },
+        {
+          "name": "William Bell",
+          "title": "EVP Products",
+          "email_guess": "william.bell@phoenixnap.com",
+          "source": "Comparably"
+        },
+        {
+          "name": "John Hardie",
+          "title": "Managing VP Sales",
+          "email_guess": "john.hardie@phoenixnap.com",
+          "source": "Comparably"
+        },
+        {
+          "name": "Frank Eickenhorst",
+          "title": "VP Support Services & Data Center Operations",
+          "email_guess": "frank.eickenhorst@phoenixnap.com",
+          "source": "Comparably"
+        }
+      ],
+      "recent_news": [
+        {
+          "date": "2024-11-01",
+          "headline": "PhoenixNAP working with Goldman Sachs on sale process; auction expected Q1 2025",
+          "url": "https://ionanalytics.com/insights/infralogic/goldman-run-sale-for-colo-firm-slated-for-early-2025/",
+          "category": "executive"
+        }
+      ],
+      "infrastructure": {
+        "gpu_count": "Not primarily GPU-focused; colocation/dedicated server/cloud provider",
+        "gpu_models": ["Available but not primary product"],
+        "data_centers": ["Phoenix, AZ (HQ)", "Ashburn, VA", "Atlanta, GA", "Amsterdam, Netherlands", "Singapore"],
+        "capacity_plans": "Global expansion; sale process may accelerate or alter plans"
+      },
+      "financials": {
+        "revenue_estimate": "Not public; significant enough to warrant Goldman Sachs sale mandate",
+        "growth_signals": "Goldman sale process implies meaningful revenue; colocation + dedicated + cloud mix",
+        "profitability": "Unknown; likely profitable given PE-backed / Goldman mandate"
+      },
+      "strategic_context": "PhoenixNAP is in active sale process since Q1 2025 — this creates both opportunity (new PE/strategic owner will revamp operations) and risk (distraction during sale). If acquired by a GPU-focused investor, it could pivot rapidly to AI infra. No CFO identified publicly — sale process likely involves investment bankers managing that relationship. Founder Ian McClarty is the outreach target pre-sale.",
+      "corgi_fit_score": 62,
+      "corgi_fit_rationale": "Moderate fit — not GPU-native but large colocation operator with Goldman M&A process. Sale process creates uncertainty. Post-acquisition could become a strong target if the buyer is AI infrastructure-focused. Watch for sale announcement in 2026.",
+      "new_contacts_discovered": [
+        {
+          "name": "Ian McClarty",
+          "title": "Founder & President",
+          "email_guess": "ian.mcclarty@phoenixnap.com",
+          "linkedin": "https://www.linkedin.com/in/mcclarty",
+          "source": "LinkedIn verified"
+        },
+        {
+          "name": "Ron Cadwell",
+          "title": "CEO",
+          "email_guess": "ron.cadwell@phoenixnap.com",
+          "linkedin": "https://www.linkedin.com/in/ron-cadwell-0b747313b/",
+          "source": "ZoomInfo / Comparably"
+        }
+      ]
+    },
+
+    {
+      "name": "CUDO Compute (CUDO Ventures)",
+      "website": "https://www.cudocompute.com",
+      "priority": "B",
+      "funding": {
+        "total_raised": "Not publicly disclosed (latest public funding was CUDOS seed 2021)",
+        "notes": "CUDO Compute is the GPU cloud arm of CUDO Ventures. Separate from CUDOS blockchain entity. NVIDIA Cloud Partner (NCP).",
+        "confidence": "likely"
+      },
+      "leadership": [
+        {
+          "name": "Matt Hawkins",
+          "title": "CEO, CUDO Ventures",
+          "linkedin": "https://www.linkedin.com/in/mathewhawkins/",
+          "email_guess": "matt.hawkins@cudoventures.com",
+          "source": "CUDOS blog / LinkedIn verified"
+        }
+      ],
+      "recent_news": [
+        {
+          "date": "2024-12-01",
+          "headline": "CUDO leases capacity for NVIDIA GPU deployment at Conapto data centers in Sweden",
+          "url": "https://www.datacenterdynamics.com/en/news/cudo-leases-capacity-for-nvidia-gpu-deployment-at-conapto-data-centers-in-sweden/",
+          "category": "expansion"
+        }
+      ],
+      "infrastructure": {
+        "gpu_count": "Target: 250MW+ contracted by end 2026; 750MW+ by end 2027",
+        "gpu_models": ["NVIDIA (NCP certified)"],
+        "data_centers": ["UK (HQ)", "Sweden (Conapto)", "Expanding globally"],
+        "capacity_plans": "250MW contracted by end 2026 = massive scale ambition for a relatively small company. Land → Power → GPU deployment model."
+      },
+      "financials": {
+        "revenue_estimate": "Not public; relatively early stage",
+        "growth_signals": "250MW contracted target for 2026; NVIDIA NCP status; Swedish expansion",
+        "profitability": "Unknown"
+      },
+      "strategic_context": "CUDO Compute is a UK-based land-power-GPU infrastructure builder with NVIDIA Cloud Partner status. Their 250MW target by 2026 is extremely ambitious for their apparent size. If they're actually hitting this, they need significant GPU financing. Matt Hawkins (founder of C4L, sold to PE) understands capital markets. Worth exploring if they have debt facilities to hit their 250MW target.",
+      "corgi_fit_score": 68,
+      "corgi_fit_rationale": "250MW target = massive GPU procurement need if real. UK/EU = regulatory environment Corgi can serve. NVIDIA NCP = quality hardware. But unclear funding picture and relatively small company means risk. Needs a follow-up call to assess financing sophistication.",
+      "new_contacts_discovered": [
+        {
+          "name": "Matt Hawkins",
+          "title": "CEO, CUDO Ventures",
+          "email_guess": "matt.hawkins@cudoventures.com",
+          "linkedin": "https://www.linkedin.com/in/mathewhawkins/",
+          "source": "LinkedIn / CUDOS blog"
+        }
+      ]
+    },
+
+    {
+      "name": "FS Investments",
+      "website": "https://fsinvestments.com",
+      "priority": "C",
+      "type": "Alternative Asset Manager (BDC/Credit)",
+      "funding": {
+        "notes": "Large alternative asset manager; BDC and private credit platform. Part of Crusoe $225M GPU credit syndicate (March 2025).",
+        "confidence": "verified"
+      },
+      "leadership": [
+        {
+          "name": "Michael Forman",
+          "title": "Chairman & CEO",
+          "email_guess": "michael.forman@fsinvestments.com",
+          "source": "FS Investments website / SEC filings"
+        },
+        {
+          "name": "Unknown",
+          "title": "Head of Digital Infrastructure (MD)",
+          "email_guess": "pattern: first.last@fsinvestments.com",
+          "source": "LeadIQ reference — role identified but name not surfaced",
+          "notes": "A Managing Director with 'Head of Digital Infrastructure' title exists per LeadIQ — needs direct LinkedIn lookup"
+        }
+      ],
+      "recent_news": [
+        {
+          "date": "2025-03-27",
+          "headline": "FS Investments participates in $225M GPU credit facility for Crusoe, syndicated by Upper90",
+          "url": "https://www.globenewswire.com/news-release/2025/03/27/3050928/0/en/Upper90-Closes-225M-Credit-Facility-to-Crusoe-to-Expand-AI-Cloud-Infrastructure.html",
+          "category": "funding"
+        }
+      ],
+      "infrastructure": {
+        "notes": "Lender/investor — not GPU operator. Exposure via Crusoe facility."
+      },
+      "financials": {
+        "aum": "Very large (BDC platform, $50B+)",
+        "gpu_exposure": "Participant in $225M Crusoe credit facility"
+      },
+      "strategic_context": "FS Investments is a major BDC/alternative credit platform that has entered GPU-backed lending via the Crusoe syndicate. Their Head of Digital Infrastructure (MD-level) is the Corgi target. Email format: first.last@fsinvestments.com. Philadelphia HQ. They have the capital to do many more GPU credit facilities.",
+      "corgi_fit_score": 75,
+      "corgi_fit_rationale": "Large credit platform with established GPU lending appetite (Crusoe). Head of Digital Infrastructure = direct Corgi buyer. Need to identify that person's name. Email: first.last@fsinvestments.com.",
+      "new_contacts_discovered": [
+        {
+          "name": "TBD — Head of Digital Infrastructure (MD)",
+          "title": "Managing Director, Digital Infrastructure",
+          "email_guess": "TBD@fsinvestments.com",
+          "source": "LeadIQ reference — name not found in public search",
+          "notes": "Priority: identify this person via LinkedIn search 'FS Investments digital infrastructure'"
+        }
+      ]
+    },
+
+    {
+      "name": "King Street Capital Management",
+      "website": "https://www.kingstreet.com",
+      "priority": "C",
+      "type": "Hedge Fund / Alternative Investment",
+      "funding": {
+        "notes": "NYC-based alternative investment firm. Majority equity owner of Colovore since May 2024. $20B+ AUM (estimated).",
+        "confidence": "likely"
+      },
+      "leadership": [
+        {
+          "name": "Brian Higgins",
+          "title": "Co-Founder & Managing Partner",
+          "email_guess": "brian.higgins@kingstreet.com",
+          "source": "King Street website"
+        },
+        {
+          "name": "O. Francis Biondi Jr.",
+          "title": "Co-Founder & Managing Partner",
+          "email_guess": "o.biondi@kingstreet.com",
+          "source": "King Street website"
+        }
+      ],
+      "recent_news": [
+        {
+          "date": "2024-05-20",
+          "headline": "King Street Capital Management acquires majority interest in Colovore, a leading liquid-cooled AI data center operator",
+          "url": "https://www.prnewswire.com/news-releases/king-street-acquires-majority-interest-in-colovore-a-leading-liquid-cooled-ai-data-center-operator-302149795.html",
+          "category": "funding"
+        }
+      ],
+      "infrastructure": {
+        "notes": "Owner/investor — not operator. Data center investing strategy as extension of global real estate approach."
+      },
+      "financials": {
+        "notes": "Major alternative manager; $20B+ AUM estimated. AI data center is a growing allocation theme."
+      },
+      "strategic_context": "King Street owns Colovore (equity) and is backing its $925M Blackstone-financed expansion. Their data center team works 'in close coordination with technology and energy sector colleagues.' For Corgi — the data center real assets team at King Street (who manages the Colovore investment) would be the target for discussing AI infrastructure financing tools.",
+      "corgi_fit_score": 70,
+      "corgi_fit_rationale": "Indirect fit — they own GPU infrastructure (via Colovore) rather than operating it. But as an owner, they care about asset valuations and performance. Relevant for Corgi's infrastructure monitoring angle. Better entry is via Colovore directly.",
+      "new_contacts_discovered": []
+    },
+
+    {
+      "name": "BCI (British Columbia Investment Management Corporation)",
+      "website": "https://www.bci.ca",
+      "priority": "C",
+      "type": "Canadian Pension / Institutional Investor",
+      "funding": {
+        "notes": "$300B+ AUM. C$32.2B infrastructure portfolio. Part of $225M Crusoe GPU credit syndicate.",
+        "confidence": "verified"
+      },
+      "leadership": [
+        {
+          "name": "Lincoln Webb",
+          "title": "Senior VP, Infrastructure & Renewable Resources",
+          "email_guess": "lincoln.webb@bci.ca",
+          "source": "BCI website / infrastructure team"
+        }
+      ],
+      "recent_news": [
+        {
+          "date": "2025-03-27",
+          "headline": "BCI participates in $225M Crusoe GPU credit facility syndicated by Upper90",
+          "url": "https://www.globenewswire.com/news-release/2025/03/27/3050928/0/en/Upper90-Closes-225M-Credit-Facility-to-Crusoe-to-Expand-AI-Cloud-Infrastructure.html",
+          "category": "funding"
+        }
+      ],
+      "infrastructure": {
+        "notes": "Institutional investor in digital infrastructure including data centers. Not a GPU operator."
+      },
+      "financials": {
+        "aum": "$300B+ (pension fund)",
+        "infrastructure_portfolio": "C$32.2B",
+        "gpu_exposure": "Participant in $225M Crusoe credit facility"
+      },
+      "strategic_context": "BCI is a sophisticated Canadian pension deploying capital into digital infrastructure including GPU-backed credit. Their Infrastructure & Renewable Resources team (C$32.2B) is actively looking at data centers. As an institutional investor participating in GPU credit syndicates, Corgi's collateral management and monitoring tools would serve their portfolio risk function. Victoria BC HQ + NYC/London offices.",
+      "corgi_fit_score": 68,
+      "corgi_fit_rationale": "Large pension with established GPU credit exposure (Crusoe) and digital infra mandate. But institutional sales cycles are very long, and they deploy via deal syndicates (so Upper90/VPC are the real entry points). Better to approach BCI through an Upper90 introduction.",
+      "new_contacts_discovered": [
+        {
+          "name": "Lincoln Webb",
+          "title": "Senior VP, Infrastructure & Renewable Resources",
+          "email_guess": "lincoln.webb@bci.ca",
+          "linkedin": "https://www.linkedin.com/in/lincoln-webb-bci",
+          "source": "BCI infrastructure team page"
+        }
+      ]
+    },
+
+    {
+      "name": "Liberty Mutual Investments (LMI)",
+      "website": "https://www.libertymutualinvestments.com",
+      "priority": "C",
+      "type": "Insurance / Strategic Investor",
+      "funding": {
+        "notes": "$117B AUM globally (Liberty Mutual insurer). Part of $225M Crusoe GPU credit syndicate.",
+        "confidence": "verified"
+      },
+      "leadership": [
+        {
+          "name": "Adam Winn",
+          "title": "Executive Managing Director, Global Alternative Markets",
+          "linkedin": "https://www.linkedin.com/in/adam-winn",
+          "email_guess": "adam.winn@lmig.com",
+          "source": "LMI website / Clay Earth profile",
+          "notes": "Oversees private equity, asset-based credit, real estate, energy strategy"
+        },
+        {
+          "name": "Charley Poole",
+          "title": "Head of Energy & Infrastructure",
+          "email_guess": "charley.poole@lmig.com",
+          "source": "Liberty Mutual Investments search result",
+          "notes": "Specific infrastructure deals managed by Poole per LMI sources"
+        }
+      ],
+      "recent_news": [
+        {
+          "date": "2025-03-27",
+          "headline": "Liberty Mutual Investments participates in $225M Crusoe GPU credit facility",
+          "url": "https://www.globenewswire.com/news-release/2025/03/27/3050928/0/en/Upper90-Closes-225M-Credit-Facility-to-Crusoe-to-Expand-AI-Cloud-Infrastructure.html",
+          "category": "funding"
+        },
+        {
+          "date": "2026-01-26",
+          "headline": "Liberty Mutual Investments takes minority stake in Mascarene Partners (middle-market infrastructure)",
+          "url": "https://www.businesswire.com/news/home/20260126394588/en/Mascarene-Partners-Receives-Strategic-Investment-from-Liberty-Mutual-Investments",
+          "category": "funding"
+        },
+        {
+          "date": "2026-02-10",
+          "headline": "Liberty Mutual Investments partners with Ara Partners for energy infrastructure strategies",
+          "url": "https://www.insurancejournal.com/news/national/2026/02/10/857600.htm",
+          "category": "partnership"
+        }
+      ],
+      "infrastructure": {
+        "notes": "Strategic investor in renewables, transportation, digital infrastructure. GPU exposure via Crusoe credit facility."
+      },
+      "financials": {
+        "aum": "$117B globally (insurance investment arm)",
+        "gpu_exposure": "Participant in $225M Crusoe GPU credit facility"
+      },
+      "strategic_context": "LMI is an $117B insurance investment platform with active digital infrastructure and alternative credit strategies. Adam Winn (Exec MD) and Charley Poole (Head of Energy & Infrastructure) are the targets. As an insurance company deploying into asset-backed credit, they have specific risk management and collateral monitoring requirements — exactly what Corgi provides.",
+      "corgi_fit_score": 72,
+      "corgi_fit_rationale": "Insurance company deploying into GPU-backed credit = strong risk management need. $117B AUM = large ACV potential. Charley Poole (Head of Energy & Infrastructure) is the specific contact for GPU infrastructure deals. Adam Winn oversees the overall alternatives platform.",
+      "new_contacts_discovered": [
+        {
+          "name": "Adam Winn",
+          "title": "Executive Managing Director, Global Alternative Markets",
+          "email_guess": "adam.winn@lmig.com",
+          "linkedin": "https://www.linkedin.com/in/adam-winn",
+          "source": "LMI website / Clay Earth"
+        },
+        {
+          "name": "Charley Poole",
+          "title": "Head of Energy & Infrastructure",
+          "email_guess": "charley.poole@lmig.com",
+          "linkedin": "https://www.linkedin.com/in/charley-poole",
+          "source": "LMI infrastructure deal coverage"
+        }
+      ]
+    },
+
+    {
+      "name": "Armada Credit Partners",
+      "website": "https://armadacredit.com",
+      "priority": "C",
+      "type": "Nordic Private Credit / Mezzanine Lender",
+      "funding": {
+        "notes": "Nordic-focused private credit/mezzanine fund. AUM not public. Invested in Verda (DataCrunch) in October 2025.",
+        "confidence": "verified"
+      },
+      "leadership": [
+        {
+          "name": "Jan Wiklund",
+          "title": "Joint Managing Partner (co-founder)",
+          "linkedin": "https://www.linkedin.com/in/jan-wiklund-armada",
+          "email_guess": "jan.wiklund@armadacredit.com",
+          "source": "Armada website armadacredit.com/team",
+          "notes": "Founded Armada 2010; prior: Director, RBS London leveraged finance"
+        },
+        {
+          "name": "Ilkka Santti",
+          "title": "Joint Managing Partner (co-founder)",
+          "linkedin": "https://www.linkedin.com/in/ilkka-santti",
+          "email_guess": "ilkka.santti@armadacredit.com",
+          "source": "Armada website armadacredit.com/team",
+          "notes": "Founded Armada 2010; prior: Eqvitec Partners"
+        }
+      ],
+      "recent_news": [
+        {
+          "date": "2025-10-01",
+          "headline": "Armada Credit Partners provides private debt financing to Verda (DataCrunch) — first Nordic GPU cloud investment",
+          "url": "https://armadacredit.com/news/private-debt-investment-in-datacrunch/",
+          "category": "funding"
+        }
+      ],
+      "infrastructure": {
+        "notes": "Lender/investor — not operator. GPU credit exposure via Verda financing."
+      },
+      "financials": {
+        "notes": "Nordic mid-market private credit; investment team in Finland, Sweden, Germany",
+        "gpu_exposure": "Verda private debt investment (Oct 2025)"
+      },
+      "strategic_context": "Armada is a Nordic private credit fund that has stepped into GPU infrastructure financing via Verda. Their stated commitment is supporting 'ambitious Nordic companies contributing to green transition.' Jan Wiklund and Ilkka Santti are the co-MPs and decision-makers. They will likely do more GPU/AI infrastructure credit deals in Scandinavia. Corgi's tools for managing GPU-backed debt would be relevant to their Verda position and future deals.",
+      "corgi_fit_score": 65,
+      "corgi_fit_rationale": "Small Nordic private credit fund that has dipped into GPU financing. Relationship with Verda (Corgi's top-ranked prospect) makes them a relevant secondary contact. Good for introductions and understanding the Verda capital structure. Not a large direct ACV target.",
+      "new_contacts_discovered": [
+        {
+          "name": "Jan Wiklund",
+          "title": "Joint Managing Partner",
+          "email_guess": "jan.wiklund@armadacredit.com",
+          "linkedin": "https://www.linkedin.com/in/jan-wiklund-armada",
+          "source": "Armada website"
+        },
+        {
+          "name": "Ilkka Santti",
+          "title": "Joint Managing Partner",
+          "email_guess": "ilkka.santti@armadacredit.com",
+          "linkedin": "https://www.linkedin.com/in/ilkka-santti",
+          "source": "Armada website"
+        }
+      ]
+    }
+  ],
+  "research_summary": {
+    "companies_researched": 20,
+    "priority_a_count": 8,
+    "priority_b_count": 7,
+    "priority_c_count": 5,
+    "top_opportunities": [
+      {"name": "Verda (DataCrunch)", "score": 92, "rationale": "Capital markets function, CFO driving 30x growth, Head of Capital Markets Leena Kassinen = direct Corgi buyer"},
+      {"name": "Lightning AI (Voltage Park)", "score": 88, "rationale": "35K+ owned GPUs, $500M ARR, post-merger treasury complexity, no public CFO yet = opportunity window"},
+      {"name": "TensorWave", "score": 89, "rationale": "$800M DDTL already in place, AMD niche, COO Tomasik is capital structure face"},
+      {"name": "Upper90", "score": 85, "rationale": "GPU lender itself — best partnership/infrastructure sale target, Billy Libby is quant-trained"},
+      {"name": "Victory Park Capital", "score": 83, "rationale": "Active GPU lender, new CFO appointment = decision-maker window"}
+    ],
+    "key_new_contacts_this_session": [
+      "Leena Kassinen — Head of Capital Markets, Verda",
+      "Tuukka Saukkonen — CFO, Verda",
+      "Matt Short — SVP Finance, Vultr",
+      "Daniel Goldberg — Head of Digital Infrastructure, ORIX USA",
+      "Darcy Daubaras — CFO, HIVE Digital / BUZZ HPC",
+      "Charley Poole — Head of Energy & Infrastructure, Liberty Mutual Investments",
+      "Piotr Tomasik — COO (DDTL confirmed), TensorWave",
+      "Ozan Kaya — President, Lightning AI",
+      "Mahdi Yahya — President, Radiant (Brookfield)",
+      "Jan Wiklund / Ilkka Santti — Co-MPs, Armada Credit Partners (Verda lender)"
+    ],
+    "key_relationships_mapped": {
+      "crusoe_syndicate": {
+        "lead": "Upper90 (Billy Libby)",
+        "members": ["BCI", "FS Investments", "King Street Capital", "Liberty Mutual Investments", "ORIX USA"],
+        "deals": ["$225M facility Mar 2025", "$200M GPU loan (prior)", "$175M Victory Park facility Aug 2025"]
+      },
+      "verda_capital_structure": {
+        "equity": "Unknown",
+        "debt": "Armada Credit Partners (Oct 2025)",
+        "internal_contact": "Leena Kassinen (Head of Capital Markets)"
+      },
+      "colovore_capital_structure": {
+        "equity": "King Street Capital Management",
+        "debt": "Blackstone ($925M)",
+        "operations": "Mark Stucky (CEO)"
+      },
+      "tensorwave_capital_structure": {
+        "equity_investors": ["Magnetar", "AMD Ventures", "Nexus", "Maverick Silicon", "Prosperity7"],
+        "debt": "$800M DDTL (Magnetar-guided)"
+      }
+    },
+    "notable_2026_events": [
+      "Lightning AI + Voltage Park merger COMPLETED Jan 21, 2026 ($2.5B+ valuation)",
+      "Ori Industries acquired by Brookfield Radiant Feb 24, 2026",
+      "HIVE BUZZ HPC launches Paraguay GPU cluster Mar 2026; BC expansion Mar 2026",
+      "Victory Park Capital promotes new CFO/CCO Mar 2026 (name TBD)",
+      "Verda earns NVIDIA Preferred Partner status with GB300 NVL72 deployments 2025/2026",
+      "Colovore $925M Blackstone facility May 2025 enabling 5x capacity expansion",
+      "TensorWave $800M DDTL completed; receiving MI355X shipments 2026",
+      "Vultr building $1B+ 50MW AMD cluster in Ohio (online Q1 2026)"
+    ]
+  }
+}

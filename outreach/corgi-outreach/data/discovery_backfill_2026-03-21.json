@@ -1,0 +1,1913 @@
+{
+  "discovery_date": "2026-03-21",
+  "notes": "Backfill batch — reinsurers, adjacent/strategic, brokers, additional lenders/operators. ~115 companies targeting 300 total.",
+  "companies": [
+    {
+      "name": "Everest Re Group",
+      "website": "https://www.everestre.com",
+      "type": "reinsurer",
+      "priority": "A",
+      "description": "Largest Bermuda-based reinsurer with $12.9B GWP in 2024. Writes specialty casualty, property, and professional lines globally.",
+      "headquarters": "Hamilton, Bermuda",
+      "qualification_score": 92,
+      "key_contacts": [
+        { "name": "Jim Williamson", "title": "CEO", "email_guess": "jwilliamson@everestre.com" }
+      ],
+      "corgi_fit_rationale": "Top-tier Bermuda reinsurer with large casualty book and appetite for specialty risk. DIAIC's $3.465B ceded reinsurance need is squarely in Everest's wheelhouse.",
+      "industry_segment": "Reinsurance — Bermuda"
+    },
+    {
+      "name": "RenaissanceRe Holdings",
+      "website": "https://www.renre.com",
+      "type": "reinsurer",
+      "priority": "A",
+      "description": "Bermuda-based reinsurer with $11.7B premiums in 2024. Specializes in property catastrophe and specialty reinsurance.",
+      "headquarters": "Hamilton, Bermuda",
+      "qualification_score": 85,
+      "key_contacts": [
+        { "name": "Kevin O'Donnell", "title": "CEO", "email_guess": "kevin.odonnell@renre.com" }
+      ],
+      "corgi_fit_rationale": "Large specialty reinsurer with active interest in novel risk classes. Could anchor a treaty for GPU residual value risk.",
+      "industry_segment": "Reinsurance — Bermuda"
+    },
+    {
+      "name": "Arch Capital Group",
+      "website": "https://www.archgroup.com",
+      "type": "reinsurer",
+      "priority": "A",
+      "description": "Bermuda specialty insurer/reinsurer with $11.1B GWP. Active across casualty, property, mortgage, and specialty.",
+      "headquarters": "Hamilton, Bermuda",
+      "qualification_score": 90,
+      "key_contacts": [
+        { "name": "Nicolas Papadopoulo", "title": "CEO", "email_guess": "npapadopoulo@archgroup.com" }
+      ],
+      "corgi_fit_rationale": "Arch has a strong appetite for specialty casualty and equipment-related risks. Somers Re subsidiary also relevant.",
+      "industry_segment": "Reinsurance — Bermuda"
+    },
+    {
+      "name": "PartnerRe",
+      "website": "https://www.partnerre.com",
+      "type": "reinsurer",
+      "priority": "A",
+      "description": "Global reinsurer with $9.3B in premiums, owned by Covéa. Strong specialty casualty and technology risk capabilities.",
+      "headquarters": "Hamilton, Bermuda",
+      "qualification_score": 87,
+      "key_contacts": [
+        { "name": "Emmanuel Clarke", "title": "President & CEO", "email_guess": "eclarke@partnerre.com" }
+      ],
+      "corgi_fit_rationale": "Global specialty reinsurer with tech and casualty expertise. Covéa ownership provides capital stability for large capacity deals.",
+      "industry_segment": "Reinsurance — Bermuda"
+    },
+    {
+      "name": "AXIS Capital",
+      "website": "https://www.axiscapital.com",
+      "type": "reinsurer",
+      "priority": "A",
+      "description": "Bermuda specialty insurer/reinsurer with $2.4B in reinsurance premiums. Operates Lloyd's Syndicate 1686 and has dedicated technology insurance division.",
+      "headquarters": "Hamilton, Bermuda",
+      "qualification_score": 93,
+      "key_contacts": [
+        { "name": "Vince Tizzio", "title": "CEO", "email_guess": "vtizzio@axiscapital.com" },
+        { "name": "Lauren Kent", "title": "Head of Global Casualty & Specialty, AXIS Re", "email_guess": "lkent@axiscapital.com" }
+      ],
+      "corgi_fit_rationale": "AXIS Technology Insurance division makes them a highly relevant reinsurance partner. Both Bermuda and Lloyd's platforms available for capacity.",
+      "industry_segment": "Reinsurance — Bermuda / Lloyd's"
+    },
+    {
+      "name": "Convex Group",
+      "website": "https://www.convexin.com",
+      "type": "reinsurer",
+      "priority": "A",
+      "description": "Specialty (re)insurer with $5.2B GWP in 2024. Recently launched Lloyd's Syndicate 1984 writing casualty, crisis management, marine, property.",
+      "headquarters": "London, UK / Hamilton, Bermuda",
+      "qualification_score": 88,
+      "key_contacts": [
+        { "name": "Paul Brand", "title": "CEO", "email_guess": "pbrand@convexin.com" }
+      ],
+      "corgi_fit_rationale": "Fast-growing specialty reinsurer with Lloyd's platform. Casualty and specialty focus aligns with GPU RVG. Syndicate 1984 actively seeking novel risk.",
+      "industry_segment": "Reinsurance — Bermuda / Lloyd's"
+    },
+    {
+      "name": "Hamilton Insurance Group",
+      "website": "https://www.hamiltongroup.com",
+      "type": "reinsurer",
+      "priority": "B",
+      "description": "Bermuda specialty insurer/reinsurer writing property, casualty, and specialty lines globally.",
+      "headquarters": "Hamilton, Bermuda",
+      "qualification_score": 78,
+      "key_contacts": [
+        { "name": "Pina Albo", "title": "CEO", "email_guess": "palbo@hamiltongroup.com" }
+      ],
+      "corgi_fit_rationale": "Mid-size specialty reinsurer with appetite for innovative risk. Relevant for treaty or quota share participation.",
+      "industry_segment": "Reinsurance — Bermuda"
+    },
+    {
+      "name": "Fidelis Insurance Group",
+      "website": "https://www.fidelisinsurance.com",
+      "type": "reinsurer",
+      "priority": "B",
+      "description": "Bermuda specialty insurer/reinsurer focusing on Specialty, Bespoke, and Reinsurance pillars. Known for agile underwriting of complex risks.",
+      "headquarters": "Hamilton, Bermuda",
+      "qualification_score": 84,
+      "key_contacts": [
+        { "name": "Richard Brindle", "title": "Founder & Group Chairman", "email_guess": "rbrindle@fidelisinsurance.com" }
+      ],
+      "corgi_fit_rationale": "Fidelis excels in bespoke/complex risk — GPU residual value reinsurance fits their mandate. Strong relationships with Fidelis Partnership MGA structure.",
+      "industry_segment": "Reinsurance — Bermuda"
+    },
+    {
+      "name": "Conduit Re",
+      "website": "https://www.conduitre.com",
+      "type": "reinsurer",
+      "priority": "B",
+      "description": "Bermuda pure-play reinsurer writing property, casualty, and specialty. Class of 2020 company targeting mid-teens RoE.",
+      "headquarters": "Hamilton, Bermuda",
+      "qualification_score": 76,
+      "key_contacts": [
+        { "name": "Trevor Carvey", "title": "CEO", "email_guess": "tcarvey@conduitre.com" }
+      ],
+      "corgi_fit_rationale": "Pure reinsurance focus with clean casualty and specialty book. Seeking differentiated risk in their treaty portfolio.",
+      "industry_segment": "Reinsurance — Bermuda"
+    },
+    {
+      "name": "Skyward Specialty Insurance",
+      "website": "https://www.skywardinsurance.com",
+      "type": "reinsurer",
+      "priority": "B",
+      "description": "US specialty insurer with nine underwriting divisions including Captives, Credit/Ag Reinsurance, and Professional Lines. Owns Skyward Re captive.",
+      "headquarters": "Houston, TX, USA",
+      "qualification_score": 75,
+      "key_contacts": [
+        { "name": "Andrew Robinson", "title": "CEO", "email_guess": "andrew.robinson@skywardinsurance.com" }
+      ],
+      "corgi_fit_rationale": "Specialty programs division could support GPU RVG. Captive expertise relevant to DIAIC structure. Captives division underwriter worth approaching.",
+      "industry_segment": "Reinsurance — Specialty US"
+    },
+    {
+      "name": "Nephila Capital (Markel)",
+      "website": "https://www.nephila.com",
+      "type": "reinsurer",
+      "priority": "B",
+      "description": "World's largest ILS and catastrophe reinsurance asset manager, owned by Markel. Manages $10B+ in ILS capacity.",
+      "headquarters": "Hamilton, Bermuda",
+      "qualification_score": 72,
+      "key_contacts": [
+        { "name": "Frank Majors", "title": "Co-Head", "email_guess": "frank.majors@nephila.com" }
+      ],
+      "corgi_fit_rationale": "ILS capital sources could provide alternative capacity for GPU risk. Markel umbrella gives access to broader reinsurance relationships.",
+      "industry_segment": "Reinsurance — ILS / Bermuda"
+    },
+    {
+      "name": "HSB Group (Hartford Steam Boiler)",
+      "website": "https://www.munichre.com/hsb",
+      "type": "reinsurer",
+      "priority": "A",
+      "description": "Munich Re subsidiary specializing in equipment breakdown reinsurance. Provides commercial reinsurance for technology equipment, boilers, and machinery.",
+      "headquarters": "Hartford, CT, USA",
+      "qualification_score": 94,
+      "key_contacts": [
+        { "name": "Greg Barats", "title": "President & CEO, HSB", "email_guess": "greg.barats@hsb.com" }
+      ],
+      "corgi_fit_rationale": "HSB is THE equipment breakdown reinsurance specialist globally. GPU residual value risk is directly adjacent to their core competency. Munich Re parent gives massive capacity.",
+      "industry_segment": "Reinsurance — Equipment Breakdown"
+    },
+    {
+      "name": "Beazley plc",
+      "website": "https://www.beazley.com",
+      "type": "reinsurer",
+      "priority": "A",
+      "description": "Lloyd's Syndicate 2623 with £2.3B stamp capacity. Specialty lines including cyber, technology, marine, and property. One of largest Lloyd's syndicates.",
+      "headquarters": "London, UK",
+      "qualification_score": 90,
+      "key_contacts": [
+        { "name": "Adrian Cox", "title": "CEO", "email_guess": "adrian.cox@beazley.com" }
+      ],
+      "corgi_fit_rationale": "Beazley's technology E&O and cyber capabilities make them highly relevant. Could reinsure DIAIC's GPU RVG book. Active in specialty risk innovation.",
+      "industry_segment": "Reinsurance — Lloyd's"
+    },
+    {
+      "name": "Brit Insurance (Syndicate 2987)",
+      "website": "https://www.britinsurance.com",
+      "type": "reinsurer",
+      "priority": "B",
+      "description": "Lloyd's Syndicate 2987. Specialty insurer/reinsurer owned by Fairfax Financial. Active in property, casualty, marine, and technology.",
+      "headquarters": "London, UK",
+      "qualification_score": 79,
+      "key_contacts": [
+        { "name": "Martin Thompson", "title": "CEO", "email_guess": "martin.thompson@britinsurance.com" }
+      ],
+      "corgi_fit_rationale": "Brit's casualty and specialty book includes technology equipment risks. Lloyd's platform relevant for capacity in specialty programs.",
+      "industry_segment": "Reinsurance — Lloyd's"
+    },
+    {
+      "name": "SCOR SE",
+      "website": "https://www.scor.com",
+      "type": "reinsurer",
+      "priority": "A",
+      "description": "Major global reinsurer with specialty insurance solutions at Lloyd's. Known for cyber and technology E&O focus at Lloyd's.",
+      "headquarters": "Paris, France",
+      "qualification_score": 88,
+      "key_contacts": [
+        { "name": "Thierry Léger", "title": "CEO", "email_guess": "thierry.leger@scor.com" }
+      ],
+      "corgi_fit_rationale": "SCOR has a key market position in Cyber and Technology E&O at Lloyd's. Specialty insurance solutions division directly relevant to GPU risk.",
+      "industry_segment": "Reinsurance — Global / Lloyd's"
+    },
+    {
+      "name": "Somers Re (Arch Capital)",
+      "website": "https://www.somersgroup.com",
+      "type": "reinsurer",
+      "priority": "B",
+      "description": "Arch Capital-relaunched specialty reinsurer (formerly Watford Re). Combines underwriting and investment expertise.",
+      "headquarters": "Hamilton, Bermuda",
+      "qualification_score": 74,
+      "key_contacts": [
+        { "name": "Marc Grandisson", "title": "CEO, Arch Capital", "email_guess": "mgrandisson@archgroup.com" }
+      ],
+      "corgi_fit_rationale": "Total return reinsurer model. Specialty and casualty focus. Part of Arch Capital ecosystem — relevant alongside main Arch Re relationship.",
+      "industry_segment": "Reinsurance — Bermuda"
+    },
+    {
+      "name": "Transatlantic Holdings (TransRe)",
+      "website": "https://www.transre.com",
+      "type": "reinsurer",
+      "priority": "B",
+      "description": "Alleghany subsidiary (now Berkshire Hathaway). Global reinsurer writing casualty, property, and specialty treaty business.",
+      "headquarters": "New York, NY, USA",
+      "qualification_score": 80,
+      "key_contacts": [
+        { "name": "Michael Sapnar", "title": "President & CEO", "email_guess": "msapnar@transre.com" }
+      ],
+      "corgi_fit_rationale": "Large casualty treaty reinsurer with Berkshire Hathaway capital behind it. Could participate in a multi-reinsurer program for GPU RVG.",
+      "industry_segment": "Reinsurance — Global"
+    },
+    {
+      "name": "General Re (Gen Re)",
+      "website": "https://www.genre.com",
+      "type": "reinsurer",
+      "priority": "B",
+      "description": "Berkshire Hathaway subsidiary. One of world's largest property/casualty reinsurers. Strong US casualty treaty market presence.",
+      "headquarters": "Stamford, CT, USA",
+      "qualification_score": 82,
+      "key_contacts": [
+        { "name": "Kara Minkoff", "title": "President & CEO", "email_guess": "kminkoff@genre.com" }
+      ],
+      "corgi_fit_rationale": "Berkshire capital backing means virtually unlimited capacity for structured risks. Casualty treaty group worth approaching for GPU RVG reinsurance.",
+      "industry_segment": "Reinsurance — Global"
+    },
+    {
+      "name": "W.R. Berkley Corporation",
+      "website": "https://www.berkley.com",
+      "type": "reinsurer",
+      "priority": "B",
+      "description": "US specialty insurer/reinsurer with multiple operating units. Berkley Re is the reinsurance division. Known for innovation in specialty lines.",
+      "headquarters": "Greenwich, CT, USA",
+      "qualification_score": 77,
+      "key_contacts": [
+        { "name": "W. Robert Berkley Jr.", "title": "President & CEO", "email_guess": "rob.berkley@berkley.com" }
+      ],
+      "corgi_fit_rationale": "Berkley's specialty units actively seek differentiated risk. Multiple operating companies could participate at different layers of GPU RVG program.",
+      "industry_segment": "Reinsurance — US Specialty"
+    },
+    {
+      "name": "Tokio Marine Group",
+      "website": "https://www.tokiomarinehd.com",
+      "type": "reinsurer",
+      "priority": "B",
+      "description": "Japan's largest insurer/reinsurer. Operates internationally through Tokio Marine Kiln (TMK) Lloyd's platform and Tokio Marine America.",
+      "headquarters": "Tokyo, Japan",
+      "qualification_score": 80,
+      "key_contacts": [
+        { "name": "Satoru Komiya", "title": "President & CEO", "email_guess": "s.komiya@tokiomarinehd.com" }
+      ],
+      "corgi_fit_rationale": "Large Asian reinsurer with strong specialty lines globally through TMK. US and Lloyd's platforms both relevant for DIAIC reinsurance capacity.",
+      "industry_segment": "Reinsurance — Asia/Global"
+    },
+    {
+      "name": "MS&AD Insurance Group (Mitsui Sumitomo Re)",
+      "website": "https://www.ms-ad-ins.com",
+      "type": "reinsurer",
+      "priority": "C",
+      "description": "Major Japanese insurance group with reinsurance operations via Mitsui Sumitomo Re and InterAmerican. One of Japan's largest re/insurers.",
+      "headquarters": "Tokyo, Japan",
+      "qualification_score": 70,
+      "key_contacts": [
+        { "name": "Shinichiro Funabiki", "title": "President & CEO", "email_guess": "sfunabiki@ms-ad-ins.com" }
+      ],
+      "corgi_fit_rationale": "Japanese insurer with appetite for specialty treaty. Asian angle relevant if Corgi expands to Asia-Pacific GPU operators.",
+      "industry_segment": "Reinsurance — Asia"
+    },
+    {
+      "name": "Sompo International",
+      "website": "https://www.sompo-intl.com",
+      "type": "reinsurer",
+      "priority": "B",
+      "description": "Bermuda-based specialty insurer/reinsurer, subsidiary of Sompo Holdings Japan. Active in casualty, property, and specialty lines.",
+      "headquarters": "Hamilton, Bermuda",
+      "qualification_score": 78,
+      "key_contacts": [
+        { "name": "James Shea", "title": "CEO", "email_guess": "james.shea@sompo-intl.com" }
+      ],
+      "corgi_fit_rationale": "Well-capitalized Bermuda reinsurer with specialty focus. Sompo Japan parent provides significant capacity. Good fit for structured GPU risk.",
+      "industry_segment": "Reinsurance — Bermuda / Asia"
+    },
+    {
+      "name": "Aspen Insurance Holdings",
+      "website": "https://www.aspen.co",
+      "type": "reinsurer",
+      "priority": "B",
+      "description": "Bermuda specialty insurer/reinsurer. Active across casualty, property, marine, and specialty lines. Strong Lloyd's and Bermuda presence.",
+      "headquarters": "Hamilton, Bermuda",
+      "qualification_score": 79,
+      "key_contacts": [
+        { "name": "Mark Cloutier", "title": "Executive Chairman & Group CEO", "email_guess": "mark.cloutier@aspen.co" }
+      ],
+      "corgi_fit_rationale": "Active specialty reinsurer with technology insurance expertise. Bermuda and Lloyd's platforms available for large structured programs.",
+      "industry_segment": "Reinsurance — Bermuda / Lloyd's"
+    },
+    {
+      "name": "Hiscox Re",
+      "website": "https://www.hiscox.com/reinsurance",
+      "type": "reinsurer",
+      "priority": "B",
+      "description": "Specialty insurer/reinsurer operating through Lloyd's and Bermuda. Known for complex specialty risks and casualty reinsurance.",
+      "headquarters": "London, UK / Hamilton, Bermuda",
+      "qualification_score": 81,
+      "key_contacts": [
+        { "name": "Joanne Musselle", "title": "Group Chief Underwriting Officer", "email_guess": "joanne.musselle@hiscox.com" }
+      ],
+      "corgi_fit_rationale": "Hiscox is a proven innovator in specialty casualty. Known for willingness to underwrite novel risks. Good reinsurance candidate for GPU RVG capacity.",
+      "industry_segment": "Reinsurance — Lloyd's / Bermuda"
+    },
+    {
+      "name": "Markel Corporation",
+      "website": "https://www.markel.com",
+      "type": "reinsurer",
+      "priority": "A",
+      "description": "Specialty insurer/reinsurer holding company. Owns Nephila, Markel Re, and various specialty MGAs. $16B+ in premium.",
+      "headquarters": "Richmond, VA, USA",
+      "qualification_score": 88,
+      "key_contacts": [
+        { "name": "Tom Gayner", "title": "CEO", "email_guess": "tgayner@markel.com" }
+      ],
+      "corgi_fit_rationale": "Markel's specialty insurance and Nephila ILS arms both relevant. Markel Ventures' tech investment focus aligns with GPU infrastructure.",
+      "industry_segment": "Reinsurance — US Specialty"
+    },
+    {
+      "name": "Enstar Group",
+      "website": "https://www.enstargroup.com",
+      "type": "reinsurer",
+      "priority": "C",
+      "description": "Bermuda-based specialty run-off and reinsurance. Active in acquiring and managing complex specialty programs.",
+      "headquarters": "Hamilton, Bermuda",
+      "qualification_score": 65,
+      "key_contacts": [
+        { "name": "Dominic Silvester", "title": "CEO", "email_guess": "dominic.silvester@enstargroup.com" }
+      ],
+      "corgi_fit_rationale": "While primarily run-off focused, Enstar can provide alternative capital structures for novel insurance programs. Could assist with residual value program structuring.",
+      "industry_segment": "Reinsurance — Bermuda / Run-off"
+    },
+    {
+      "name": "Lancashire Holdings",
+      "website": "https://www.lancashiregroup.com",
+      "type": "reinsurer",
+      "priority": "B",
+      "description": "Bermuda specialty insurer/reinsurer. Actively underwriting property, casualty, and specialty short-tail lines. Known for disciplined cycle management.",
+      "headquarters": "London, UK / Hamilton, Bermuda",
+      "qualification_score": 76,
+      "key_contacts": [
+        { "name": "Nicolas Burnet", "title": "Group CEO", "email_guess": "nicolas.burnet@lancashiregroup.com" }
+      ],
+      "corgi_fit_rationale": "Specialty reinsurer comfortable with complex structured products. Could participate in GPU RVG reinsurance at competitive terms.",
+      "industry_segment": "Reinsurance — Bermuda / Lloyd's"
+    },
+    {
+      "name": "Odyssey Re (Fairfax Financial)",
+      "website": "https://www.odysseyre.com",
+      "type": "reinsurer",
+      "priority": "B",
+      "description": "Fairfax Financial subsidiary. Global reinsurer with US, Europe, and London platforms. Property, casualty, and specialty.",
+      "headquarters": "Stamford, CT, USA",
+      "qualification_score": 74,
+      "key_contacts": [
+        { "name": "Brian Young", "title": "President & CEO", "email_guess": "byoung@odysseyre.com" }
+      ],
+      "corgi_fit_rationale": "Fairfax capital backing. Active in specialty casualty and technology coverage. Good candidate for facultative or treaty participation.",
+      "industry_segment": "Reinsurance — Global"
+    },
+    {
+      "name": "Qatar Re",
+      "website": "https://www.qatar-re.com",
+      "type": "reinsurer",
+      "priority": "C",
+      "description": "Bermuda-domiciled reinsurer backed by Qatar Insurance Company. Active in specialty lines globally.",
+      "headquarters": "Hamilton, Bermuda / Doha, Qatar",
+      "qualification_score": 68,
+      "key_contacts": [
+        { "name": "Gunther Saacke", "title": "CEO", "email_guess": "g.saacke@qatar-re.com" }
+      ],
+      "corgi_fit_rationale": "Middle East capital source for reinsurance. Relevant if Corgi targets Gulf-region GPU operators. Qatar sovereign backing provides stable long-term capacity.",
+      "industry_segment": "Reinsurance — Middle East / Bermuda"
+    },
+    {
+      "name": "Greenlight Re",
+      "website": "https://www.greenlightcapitalre.com",
+      "type": "reinsurer",
+      "priority": "C",
+      "description": "Cayman Islands specialty reinsurer with David Einhorn's investment approach. Active in casualty and specialty.",
+      "headquarters": "Grand Cayman, Cayman Islands",
+      "qualification_score": 66,
+      "key_contacts": [
+        { "name": "Simon Burton", "title": "CEO", "email_guess": "sburton@greenlightcapitalre.com" }
+      ],
+      "corgi_fit_rationale": "Specialty reinsurer that seeks differentiated risk/return profiles. GPU RVG could appeal as a non-correlated risk.",
+      "industry_segment": "Reinsurance — Specialty"
+    },
+    {
+      "name": "Third Point Re",
+      "website": "https://www.thirdpointre.com",
+      "type": "reinsurer",
+      "priority": "C",
+      "description": "Bermuda specialty reinsurer with investment portfolio managed by Third Point LLC. Focuses on property and casualty.",
+      "headquarters": "Hamilton, Bermuda",
+      "qualification_score": 65,
+      "key_contacts": [
+        { "name": "Daniel Loeb", "title": "Investor / Founder (parent)", "email_guess": "info@thirdpointre.com" }
+      ],
+      "corgi_fit_rationale": "Hedge fund-backed reinsurer that seeks alpha from both underwriting and investments. GPU risk as asset class could appeal to investment committee.",
+      "industry_segment": "Reinsurance — Bermuda"
+    },
+    {
+      "name": "RVI Group",
+      "website": "https://www.rvigroup.com",
+      "type": "reinsurer",
+      "priority": "A",
+      "description": "Specialist RVI (Residual Value Insurance) reinsurer. Provides reinsurance capacity for RVI programs globally. Direct comp/partner for DIAIC.",
+      "headquarters": "Boston, MA, USA",
+      "qualification_score": 97,
+      "key_contacts": [
+        { "name": "Robert Snarr", "title": "CEO", "email_guess": "rsnarr@rvigroup.com" }
+      ],
+      "corgi_fit_rationale": "RVI Group IS the market for residual value reinsurance. They provide treaty reinsurance for RVI programs. Critical potential reinsurance partner for DIAIC. Must contact.",
+      "industry_segment": "Reinsurance — Residual Value Specialty"
+    },
+    {
+      "name": "Specialty MGA UK",
+      "website": "https://www.specialty-mga.com",
+      "type": "reinsurer",
+      "priority": "A",
+      "description": "UK-based specialty MGA delivering RVI and RVG solutions for diverse asset classes including high-value equipment. Direct comp and potential reinsurance/co-insurance partner.",
+      "headquarters": "London, UK",
+      "qualification_score": 95,
+      "key_contacts": [
+        { "name": "Managing Director", "title": "MD", "email_guess": "info@specialty-mga.com" }
+      ],
+      "corgi_fit_rationale": "One of the few specialty MGAs doing RVG/RVI for equipment. Could be a reinsurance partner, capacity provider, or competitor intelligence source. High priority.",
+      "industry_segment": "Reinsurance — Specialty MGA / RVI"
+    },
+    {
+      "name": "Matrix Specialty Underwriting",
+      "website": "https://www.matrixspecialty.com",
+      "type": "reinsurer",
+      "priority": "A",
+      "description": "Specialty MGA focused on RVI for diverse asset classes. Leading the RVI sector toward broader functionality including industrial equipment and capital-raising applications.",
+      "headquarters": "Hartford, CT, USA",
+      "qualification_score": 96,
+      "key_contacts": [
+        { "name": "Managing Director", "title": "MD, RVI", "email_guess": "info@matrixspecialty.com" }
+      ],
+      "corgi_fit_rationale": "Matrix is explicitly expanding RVI to new asset classes. GPU/AI hardware is a natural next category. Potential reinsurance capacity provider or co-underwriter.",
+      "industry_segment": "Reinsurance — Specialty MGA / RVI"
+    },
+    {
+      "name": "Asset RVI",
+      "website": "https://www.assetrvi.com",
+      "type": "reinsurer",
+      "priority": "A",
+      "description": "Specialist RVI provider with deep expertise in asset residual value insurance across equipment, technology, and commercial assets.",
+      "headquarters": "USA",
+      "qualification_score": 94,
+      "key_contacts": [
+        { "name": "Principal", "title": "Principal", "email_guess": "info@assetrvi.com" }
+      ],
+      "corgi_fit_rationale": "Direct specialist in RVI for equipment assets. Natural reinsurance or co-insurance partner for GPU RVG program. Must research and contact.",
+      "industry_segment": "Reinsurance — RVI Specialist"
+    },
+    {
+      "name": "Allianz Re",
+      "website": "https://www.allianzre.com",
+      "type": "reinsurer",
+      "priority": "B",
+      "description": "Allianz Group's global reinsurance arm. Recently partnered with Oaktree to establish Lloyd's Syndicate 1890. Large capacity across all lines.",
+      "headquarters": "Munich, Germany",
+      "qualification_score": 82,
+      "key_contacts": [
+        { "name": "Thierry Leterme", "title": "CEO, Allianz Re", "email_guess": "thierry.leterme@allianz.com" }
+      ],
+      "corgi_fit_rationale": "Massive capacity. New Oaktree partnership (Syndicate 1890) shows appetite for innovative structures. Allianz's tech sector expertise relevant.",
+      "industry_segment": "Reinsurance — Global / Lloyd's"
+    },
+    {
+      "name": "AIG Syndicate 2478 at Lloyd's",
+      "website": "https://www.aig.com",
+      "type": "reinsurer",
+      "priority": "B",
+      "description": "AIG's new Lloyd's reinsurance syndicate launched January 2025 with Blackstone strategic backing. Focuses on reinsurance lines.",
+      "headquarters": "London, UK / New York, NY",
+      "qualification_score": 80,
+      "key_contacts": [
+        { "name": "Peter Zaffino", "title": "CEO, AIG", "email_guess": "peter.zaffino@aig.com" }
+      ],
+      "corgi_fit_rationale": "New Lloyd's reinsurance syndicate actively building book. AIG's technology insurance capabilities and Blackstone's infrastructure background align with GPU risk.",
+      "industry_segment": "Reinsurance — Lloyd's"
+    },
+    {
+      "name": "Tokio Marine Kiln (TMK)",
+      "website": "https://www.tmk.com",
+      "type": "reinsurer",
+      "priority": "B",
+      "description": "Lloyd's managing agent owned by Tokio Marine Group. One of largest Lloyd's syndicates writing complex specialty, property, and casualty.",
+      "headquarters": "London, UK",
+      "qualification_score": 82,
+      "key_contacts": [
+        { "name": "Brad Irick", "title": "CEO", "email_guess": "b.irick@tmk.com" }
+      ],
+      "corgi_fit_rationale": "TMK's broad specialty mandate and large Lloyd's capacity make them relevant for GPU RVG reinsurance. Technology insurance team worth approaching.",
+      "industry_segment": "Reinsurance — Lloyd's"
+    },
+    {
+      "name": "Apollo Underwriting",
+      "website": "https://www.apollounderwriting.com",
+      "type": "reinsurer",
+      "priority": "C",
+      "description": "Lloyd's managing agency writing specialty property, liability, and reinsurance. Part of Apollo Global Management ecosystem.",
+      "headquarters": "London, UK",
+      "qualification_score": 70,
+      "key_contacts": [
+        { "name": "David Ibeson", "title": "CEO", "email_guess": "d.ibeson@apollounderwriting.com" }
+      ],
+      "corgi_fit_rationale": "Apollo Global Management connection means access to significant alternative capital. Lloyd's specialty platform relevant for GPU risk capacity.",
+      "industry_segment": "Reinsurance — Lloyd's"
+    },
+    {
+      "name": "Guy Carpenter",
+      "website": "https://www.guycarp.com",
+      "type": "broker",
+      "priority": "A",
+      "description": "World's leading reinsurance intermediary, Marsh McLennan subsidiary. Manages $18B+ in reinsurance placements globally.",
+      "headquarters": "New York, NY, USA",
+      "qualification_score": 96,
+      "key_contacts": [
+        { "name": "Dean Klisura", "title": "President & CEO", "email_guess": "dean.klisura@guycarp.com" }
+      ],
+      "corgi_fit_rationale": "Primary reinsurance broker for placing DIAIC's $3.465B ceded reinsurance. Guy Carpenter's specialty team would lead structuring and placement. Critical relationship.",
+      "industry_segment": "Broker — Reinsurance"
+    },
+    {
+      "name": "Gallagher Re",
+      "website": "https://www.ajg.com/gallagherre",
+      "type": "broker",
+      "priority": "A",
+      "description": "Global reinsurance broker, subsidiary of Arthur J. Gallagher. $13.5B acquisition of AssuredPartners in progress, expanding specialty capabilities.",
+      "headquarters": "Chicago, IL, USA",
+      "qualification_score": 93,
+      "key_contacts": [
+        { "name": "Tom Wakefield", "title": "CEO, Gallagher Re", "email_guess": "tom.wakefield@ajg.com" }
+      ],
+      "corgi_fit_rationale": "Major reinsurance broker with global specialty practice. Can place GPU RVG reinsurance across Bermuda and Lloyd's markets.",
+      "industry_segment": "Broker — Reinsurance"
+    },
+    {
+      "name": "Howden Re",
+      "website": "https://www.howdenre.com",
+      "type": "broker",
+      "priority": "A",
+      "description": "Global reinsurance broker from Howden Group. Known for innovative placement strategies and specialty risk expertise.",
+      "headquarters": "London, UK",
+      "qualification_score": 88,
+      "key_contacts": [
+        { "name": "David Flandro", "title": "Head of Analytics", "email_guess": "d.flandro@howdenre.com" }
+      ],
+      "corgi_fit_rationale": "Howden Re focuses on specialty and innovative placements. Strong Lloyd's relationships. Could structure and place GPU RVG reinsurance program.",
+      "industry_segment": "Broker — Reinsurance"
+    },
+    {
+      "name": "BMS Re",
+      "website": "https://www.bmsgroup.com",
+      "type": "broker",
+      "priority": "B",
+      "description": "Independent specialist reinsurance broker. Recently named Latin America and Caribbean CEO. Known for specialty and casualty reinsurance.",
+      "headquarters": "London, UK",
+      "qualification_score": 82,
+      "key_contacts": [
+        { "name": "Nick Cook", "title": "CEO", "email_guess": "nick.cook@bmsgroup.com" },
+        { "name": "Anthony Mirabal", "title": "CEO, Latin America & Caribbean", "email_guess": "anthony.mirabal@bmsgroup.com" }
+      ],
+      "corgi_fit_rationale": "Independent reinsurance broker with specialty focus. BMS Re's casualty and specialty practice could place GPU RVG in Lloyd's/Bermuda market.",
+      "industry_segment": "Broker — Reinsurance"
+    },
+    {
+      "name": "Miller Insurance",
+      "website": "https://www.miller-insurance.com",
+      "type": "broker",
+      "priority": "B",
+      "description": "Independent specialist (re)insurance broker known for complex specialty risk. Strong Lloyd's and international market relationships.",
+      "headquarters": "London, UK",
+      "qualification_score": 80,
+      "key_contacts": [
+        { "name": "Greg Collins", "title": "CEO", "email_guess": "greg.collins@miller-insurance.com" }
+      ],
+      "corgi_fit_rationale": "Independent specialist broker with deep Lloyd's access. Can place niche programs that larger brokers may not prioritize.",
+      "industry_segment": "Broker — Specialty"
+    },
+    {
+      "name": "Lockton Re",
+      "website": "https://www.locktonre.com",
+      "type": "broker",
+      "priority": "B",
+      "description": "Reinsurance division of Lockton, world's largest private insurance broker. Strong specialty casualty capabilities.",
+      "headquarters": "Kansas City, MO, USA",
+      "qualification_score": 83,
+      "key_contacts": [
+        { "name": "Tim Gardner", "title": "Managing Director, Lockton Re", "email_guess": "t.gardner@lockton.com" }
+      ],
+      "corgi_fit_rationale": "Lockton Re's specialty casualty team can place programs in both US and international markets. Private ownership allows flexibility.",
+      "industry_segment": "Broker — Reinsurance"
+    },
+    {
+      "name": "TigerRisk Partners (Howden Tiger)",
+      "website": "https://www.howdentiger.com",
+      "type": "broker",
+      "priority": "B",
+      "description": "Specialty reinsurance broker now part of Howden Group. Known for capital markets, cat bonds, and specialty placement.",
+      "headquarters": "New York, NY, USA",
+      "qualification_score": 78,
+      "key_contacts": [
+        { "name": "Rod Fox", "title": "Co-Founder", "email_guess": "rod.fox@howdentiger.com" }
+      ],
+      "corgi_fit_rationale": "Capital markets expertise from TigerRisk + Howden's specialty focus. Could structure ILS or cat bond alternative for GPU depreciation risk.",
+      "industry_segment": "Broker — Reinsurance / Capital Markets"
+    },
+    {
+      "name": "Newfront Insurance",
+      "website": "https://www.newfront.com",
+      "type": "broker",
+      "priority": "B",
+      "description": "Modern tech-forward insurance brokerage. Raised $200M+. Serves tech companies and digital infrastructure clients.",
+      "headquarters": "San Francisco, CA, USA",
+      "qualification_score": 75,
+      "key_contacts": [
+        { "name": "Spike Lipkin", "title": "CEO", "email_guess": "spike.lipkin@newfront.com" }
+      ],
+      "corgi_fit_rationale": "Tech-focused broker with strong ties to VC-backed AI/GPU companies. Well-positioned to introduce Corgi's RVG to tech clients.",
+      "industry_segment": "Broker — Technology"
+    },
+    {
+      "name": "Woodruff Sawyer",
+      "website": "https://www.woodruffsawyer.com",
+      "type": "broker",
+      "priority": "B",
+      "description": "Top independent insurance brokerage focused on technology, life sciences, and private equity. Strong Bay Area/tech client base.",
+      "headquarters": "San Francisco, CA, USA",
+      "qualification_score": 77,
+      "key_contacts": [
+        { "name": "Andy Barrengos", "title": "CEO", "email_guess": "andy.barrengos@woodruffsawyer.com" }
+      ],
+      "corgi_fit_rationale": "Strong relationships with tech companies, GPU cloud operators, and PE-backed infrastructure firms. Can introduce Corgi to GPU operator clients.",
+      "industry_segment": "Broker — Technology"
+    },
+    {
+      "name": "AssuredPartners",
+      "website": "https://www.assuredpartners.com",
+      "type": "broker",
+      "priority": "C",
+      "description": "Large independent insurance broker. Pending acquisition by Arthur J. Gallagher. Strong mid-market and specialty capabilities.",
+      "headquarters": "Lake Mary, FL, USA",
+      "qualification_score": 68,
+      "key_contacts": [
+        { "name": "Tom Riley", "title": "CEO", "email_guess": "triley@assuredpartners.com" }
+      ],
+      "corgi_fit_rationale": "Large broker with specialty capabilities and wide industry coverage. Post-Gallagher acquisition could access Gallagher Re placement infrastructure.",
+      "industry_segment": "Broker — Specialty"
+    },
+    {
+      "name": "Amwins Group",
+      "website": "https://www.amwins.com",
+      "type": "broker",
+      "priority": "B",
+      "description": "Largest wholesale insurance broker in the US. Specializes in placing complex, unusual, and high-risk coverages in Lloyd's and E&S markets.",
+      "headquarters": "Charlotte, NC, USA",
+      "qualification_score": 82,
+      "key_contacts": [
+        { "name": "Steve DeCarlo", "title": "CEO", "email_guess": "sdecarlo@amwins.com" }
+      ],
+      "corgi_fit_rationale": "Major E&S/wholesale broker with Lloyd's access. Can distribute GPU RVG product to a wide range of retail broker clients seeking coverage for clients.",
+      "industry_segment": "Broker — Wholesale / E&S"
+    },
+    {
+      "name": "Ryan Specialty",
+      "website": "https://www.ryanspecialty.com",
+      "type": "broker",
+      "priority": "B",
+      "description": "Leading US specialty insurance MGA/wholesale broker. Specializes in complex risks not in standard markets.",
+      "headquarters": "Chicago, IL, USA",
+      "qualification_score": 84,
+      "key_contacts": [
+        { "name": "Tim Turner", "title": "President & CEO", "email_guess": "tim.turner@ryanspecialty.com" }
+      ],
+      "corgi_fit_rationale": "Ryan Specialty's MGU/specialty focus means they can create and distribute novel products like GPU RVG. Could act as program administrator or placement broker.",
+      "industry_segment": "Broker — Specialty MGA / Wholesale"
+    },
+    {
+      "name": "Gallagher (Equipment Finance Division)",
+      "website": "https://www.ajg.com/industries/technology-insurance",
+      "type": "broker",
+      "priority": "B",
+      "description": "Arthur J. Gallagher's technology insurance practice. Provides specialist technology sector coverage and equipment finance-related insurance.",
+      "headquarters": "Rolling Meadows, IL, USA",
+      "qualification_score": 80,
+      "key_contacts": [
+        { "name": "J. Patrick Gallagher Jr.", "title": "Chairman & CEO", "email_guess": "jp.gallagher@ajg.com" }
+      ],
+      "corgi_fit_rationale": "AJG's tech insurance practice serves data centers and AI companies. Bridge between insurance (RVG product) and equipment finance clients needing collateral protection.",
+      "industry_segment": "Broker — Technology"
+    },
+    {
+      "name": "SLYD Finance",
+      "website": "https://www.slyd.com",
+      "type": "lender",
+      "priority": "A",
+      "description": "Specialty GPU hardware financing for enterprises. Structures deals from $500K–$50M. Works with Dell, HPE, Supermicro, Lenovo, Gigabyte.",
+      "headquarters": "USA",
+      "qualification_score": 90,
+      "key_contacts": [
+        { "name": "Founder/CEO", "title": "CEO", "email_guess": "info@slyd.com" }
+      ],
+      "corgi_fit_rationale": "Pure-play GPU financing company. RVG would directly de-risk their loan portfolio by guaranteeing collateral floor at maturity. Highly motivated prospect.",
+      "industry_segment": "Lender — GPU Equipment Finance"
+    },
+    {
+      "name": "Vertical Data",
+      "website": "https://www.verticaldata.io",
+      "type": "lender",
+      "priority": "A",
+      "description": "Long-term asset-backed GPU financing for enterprises, AI startups, and cloud providers. Terms up to 36–60 months backed by hardware.",
+      "headquarters": "USA",
+      "qualification_score": 91,
+      "key_contacts": [
+        { "name": "Founder/CEO", "title": "CEO", "email_guess": "info@verticaldata.io" }
+      ],
+      "corgi_fit_rationale": "GPU-collateralized lending with multi-year terms is exactly where RVG protects lenders. Vertical Data would benefit from RVG as collateral enhancement tool.",
+      "industry_segment": "Lender — GPU Equipment Finance"
+    },
+    {
+      "name": "USD.AI",
+      "website": "https://www.usd.ai",
+      "type": "lender",
+      "priority": "B",
+      "description": "Stablecoin protocol for AI infrastructure financing. Raised $13M Series A. Provides fast credit to AI companies using GPU collateral. Tokenized GPU lending.",
+      "headquarters": "USA",
+      "qualification_score": 82,
+      "key_contacts": [
+        { "name": "Founder/CEO", "title": "CEO", "email_guess": "info@usd.ai" }
+      ],
+      "corgi_fit_rationale": "Crypto-native GPU lending uses GPU residual value as collateral. RVG would provide the floor guarantee needed for tokenized GPU loan structures.",
+      "industry_segment": "Lender — Crypto / GPU Finance"
+    },
+    {
+      "name": "GPU Financing (gpufinancing.com)",
+      "website": "https://www.gpufinancing.com",
+      "type": "lender",
+      "priority": "B",
+      "description": "Dedicated AI company helping startups and enterprises secure GPU capital and hardware. Specializes in equipment financing for AI infrastructure.",
+      "headquarters": "USA",
+      "qualification_score": 85,
+      "key_contacts": [
+        { "name": "Founder/CEO", "title": "CEO", "email_guess": "info@gpufinancing.com" }
+      ],
+      "corgi_fit_rationale": "Pure GPU financing specialist. RVG would enable them to offer larger loan amounts and longer terms with guaranteed collateral backing.",
+      "industry_segment": "Lender — GPU Equipment Finance"
+    },
+    {
+      "name": "SQN Capital Management",
+      "website": "https://www.sqncap.com",
+      "type": "lender",
+      "priority": "B",
+      "description": "Equipment leasing and finance investment manager. Runs public and private equipment finance funds. Diverse equipment asset classes.",
+      "headquarters": "New York, NY, USA",
+      "qualification_score": 78,
+      "key_contacts": [
+        { "name": "Michael Lestino", "title": "CEO", "email_guess": "mlestino@sqncap.com" }
+      ],
+      "corgi_fit_rationale": "Specialty equipment finance fund manager. GPU-backed loans would benefit from RVG floor guarantee. Could be a distribution partner for RVG bundled into loans.",
+      "industry_segment": "Lender — Equipment Finance"
+    },
+    {
+      "name": "Wintrust Equipment Finance",
+      "website": "https://www.wintrust.com/commercial-banking/equipment-finance",
+      "type": "lender",
+      "priority": "B",
+      "description": "Wintrust Financial's equipment finance division. Provides lease and loan financing for technology and specialty equipment.",
+      "headquarters": "Chicago, IL, USA",
+      "qualification_score": 75,
+      "key_contacts": [
+        { "name": "President", "title": "President, Equipment Finance", "email_guess": "equipmentfinance@wintrust.com" }
+      ],
+      "corgi_fit_rationale": "Bank-owned equipment finance with technology vertical. RVG improves LTV ratios on AI GPU loans, allowing Wintrust to compete more aggressively.",
+      "industry_segment": "Lender — Equipment Finance"
+    },
+    {
+      "name": "Marlin Capital Solutions",
+      "website": "https://www.marlincapital.com",
+      "type": "lender",
+      "priority": "C",
+      "description": "Equipment financing specialist focused on small and mid-size businesses. Technology and AI equipment vertical.",
+      "headquarters": "Mount Laurel, NJ, USA",
+      "qualification_score": 70,
+      "key_contacts": [
+        { "name": "CEO", "title": "CEO", "email_guess": "info@marlincapital.com" }
+      ],
+      "corgi_fit_rationale": "SMB-focused equipment lender moving into AI hardware. RVG could help manage residual value risk on GPU loans for smaller AI companies.",
+      "industry_segment": "Lender — Equipment Finance"
+    },
+    {
+      "name": "Crestmark (Meta Financial Group)",
+      "website": "https://www.crestmark.com",
+      "type": "lender",
+      "priority": "C",
+      "description": "Specialty commercial finance focusing on equipment leasing, working capital, and government lending. Technology and AI hardware focus growing.",
+      "headquarters": "Troy, MI, USA",
+      "qualification_score": 68,
+      "key_contacts": [
+        { "name": "CEO", "title": "CEO", "email_guess": "info@crestmark.com" }
+      ],
+      "corgi_fit_rationale": "Specialty equipment lessor with growing tech focus. RVG enables better LTV ratios on technology equipment portfolios.",
+      "industry_segment": "Lender — Equipment Finance"
+    },
+    {
+      "name": "Plus500 Capital (AI infrastructure)",
+      "website": "https://www.cloudblue.com",
+      "type": "lender",
+      "priority": "C",
+      "description": "Emerging AI infrastructure financing vehicle. Provides capital to AI/GPU cloud operators through asset-backed structures.",
+      "headquarters": "USA",
+      "qualification_score": 65,
+      "key_contacts": [
+        { "name": "Founder/CEO", "title": "CEO", "email_guess": "info@cloudblue.com" }
+      ],
+      "corgi_fit_rationale": "Newer infrastructure lender specifically targeting GPU cloud sector. RVG directly addresses their core underwriting challenge — residual value uncertainty.",
+      "industry_segment": "Lender — AI Infrastructure"
+    },
+    {
+      "name": "Pacific Western Equipment Finance",
+      "website": "https://www.pacificwesternbank.com/business-banking/equipment-finance",
+      "type": "lender",
+      "priority": "C",
+      "description": "Bank-owned equipment finance division. Technology and digital infrastructure lending. Part of Pacific Western Bank.",
+      "headquarters": "Beverly Hills, CA, USA",
+      "qualification_score": 68,
+      "key_contacts": [
+        { "name": "Director, Equipment Finance", "title": "Director", "email_guess": "equipment@pacificwesternbank.com" }
+      ],
+      "corgi_fit_rationale": "Bank equipment finance with West Coast tech exposure. RVG could be bundled into GPU lending program.",
+      "industry_segment": "Lender — Equipment Finance"
+    },
+    {
+      "name": "North Mill Equipment Finance",
+      "website": "https://www.northmill.com",
+      "type": "lender",
+      "priority": "C",
+      "description": "Specialty equipment finance company focused on technology and advanced manufacturing. Works with emerging technology companies.",
+      "headquarters": "Norwalk, CT, USA",
+      "qualification_score": 69,
+      "key_contacts": [
+        { "name": "David C. Lee", "title": "CEO", "email_guess": "dlee@northmill.com" }
+      ],
+      "corgi_fit_rationale": "Tech-focused equipment finance with appetite for emerging hardware categories including AI accelerators.",
+      "industry_segment": "Lender — Equipment Finance"
+    },
+    {
+      "name": "Banc of California Equipment Finance",
+      "website": "https://www.bancofcal.com/business/equipment-finance",
+      "type": "lender",
+      "priority": "C",
+      "description": "California bank with equipment finance capabilities. Strong relationships with tech companies in California.",
+      "headquarters": "Santa Ana, CA, USA",
+      "qualification_score": 65,
+      "key_contacts": [
+        { "name": "Equipment Finance Director", "title": "Director", "email_guess": "equipmentfinance@bancofcal.com" }
+      ],
+      "corgi_fit_rationale": "West Coast bank with tech company client base. Could introduce RVG to GPU operator clients needing to optimize capital structure.",
+      "industry_segment": "Lender — Equipment Finance"
+    },
+    {
+      "name": "Equinix",
+      "website": "https://www.equinix.com",
+      "type": "adjacent",
+      "priority": "A",
+      "description": "World's largest data center REIT. 507,000+ interconnections across 77 metros. Critical AI/GPU infrastructure backbone.",
+      "headquarters": "Redwood City, CA, USA",
+      "qualification_score": 85,
+      "key_contacts": [
+        { "name": "Adaire Fox-Martin", "title": "CEO", "email_guess": "adaire.fox-martin@equinix.com" }
+      ],
+      "corgi_fit_rationale": "Equinix hosts many GPU cloud operators. As infrastructure owner, they care about hardware value protection. Could co-market RVG to colocation tenants.",
+      "industry_segment": "Adjacent — Data Center REIT"
+    },
+    {
+      "name": "Digital Realty Trust",
+      "website": "https://www.digitalrealty.com",
+      "type": "adjacent",
+      "priority": "A",
+      "description": "World's largest data center platform. 300+ facilities in 50+ cities. Key AI/GPU infrastructure host.",
+      "headquarters": "Austin, TX, USA",
+      "qualification_score": 83,
+      "key_contacts": [
+        { "name": "Andy Power", "title": "President & CEO", "email_guess": "andy.power@digitalrealty.com" }
+      ],
+      "corgi_fit_rationale": "Largest data center landlord with extensive GPU tenant base. Partnership could give Corgi access to hundreds of GPU operators.",
+      "industry_segment": "Adjacent — Data Center REIT"
+    },
+    {
+      "name": "EdgeCore Digital Infrastructure",
+      "website": "https://www.edgecore.com",
+      "type": "adjacent",
+      "priority": "A",
+      "description": "Specialized high-density AI data center provider. Secured $1.9B debt financing in 2024. Focuses on hyperscale and AI workloads.",
+      "headquarters": "Mesa, AZ, USA",
+      "qualification_score": 88,
+      "key_contacts": [
+        { "name": "Winston Damarillo", "title": "CEO", "email_guess": "w.damarillo@edgecore.com" }
+      ],
+      "corgi_fit_rationale": "AI-specific data center operator with significant GPU hardware exposure. RVG directly protects their GPU capex. Active financing means lender relationships also relevant.",
+      "industry_segment": "Adjacent — Data Center / Operator"
+    },
+    {
+      "name": "Iron Mountain (Data Center + ITAD)",
+      "website": "https://www.ironmountain.com/data-centers",
+      "type": "adjacent",
+      "priority": "B",
+      "description": "Data center REIT and ITAD provider. Acquired Wisetek ITAD in 2024. Manages hardware disposition for major enterprises.",
+      "headquarters": "Boston, MA, USA",
+      "qualification_score": 80,
+      "key_contacts": [
+        { "name": "William Meaney", "title": "CEO", "email_guess": "wmeaney@ironmountain.com" }
+      ],
+      "corgi_fit_rationale": "Dual role: data center operator (GPU exposure) and ITAD (secondary market). RVG affects both how they value owned hardware and what they pay for disposed assets.",
+      "industry_segment": "Adjacent — Data Center REIT / ITAD"
+    },
+    {
+      "name": "Sims Lifecycle Services",
+      "website": "https://www.simslifecycleservices.com",
+      "type": "adjacent",
+      "priority": "B",
+      "description": "Global IT asset disposition leader. 21% revenue growth H1 FY2025. Repurposed 4.5M units (80% increase) from data center GPU demand.",
+      "headquarters": "New York, NY, USA",
+      "qualification_score": 82,
+      "key_contacts": [
+        { "name": "Haydn Lorimer", "title": "CEO", "email_guess": "haydn.lorimer@simslifecycleservices.com" }
+      ],
+      "corgi_fit_rationale": "Major ITAD with booming GPU data center business. RVG affects residual values in their market. Partnership could enable better GPU pricing data and ecosystem integration.",
+      "industry_segment": "Adjacent — ITAD"
+    },
+    {
+      "name": "SK Tes (TES Global)",
+      "website": "https://www.sktes.com",
+      "type": "adjacent",
+      "priority": "B",
+      "description": "Largest ITAD company by global R2-certified facilities (31 sites). Recently scaled data center ITAD business. Handles GPU disposition at scale.",
+      "headquarters": "Singapore",
+      "qualification_score": 80,
+      "key_contacts": [
+        { "name": "CEO", "title": "CEO", "email_guess": "info@sktes.com" }
+      ],
+      "corgi_fit_rationale": "Leading ITAD with specific data center GPU focus. As the de facto end-of-life handler for GPU hardware, their pricing data is critical to RVG market. Strategic data partnership potential.",
+      "industry_segment": "Adjacent — ITAD"
+    },
+    {
+      "name": "ALTA Technologies",
+      "website": "https://www.altatechnologies.com",
+      "type": "adjacent",
+      "priority": "A",
+      "description": "R2v3 certified buyer and seller of used/refurbished NVIDIA H100 and A100 GPUs. Serves AI, LLM, and advanced computing environments.",
+      "headquarters": "USA",
+      "qualification_score": 87,
+      "key_contacts": [
+        { "name": "President", "title": "President", "email_guess": "info@altatechnologies.com" }
+      ],
+      "corgi_fit_rationale": "Core GPU secondary market participant. RVG floor guarantees the minimum value they'd pay for GPUs. Strong candidate for integration with SiliconNavigator pricing data.",
+      "industry_segment": "Adjacent — GPU Secondary Market"
+    },
+    {
+      "name": "NetEquity.com",
+      "website": "https://www.netequity.com",
+      "type": "adjacent",
+      "priority": "B",
+      "description": "Competitive buyback, trade-in, and consignment remarketing of used and excess Nvidia GPU/datacenter hardware including H100 and A100.",
+      "headquarters": "USA",
+      "qualification_score": 80,
+      "key_contacts": [
+        { "name": "CEO", "title": "CEO", "email_guess": "info@netequity.com" }
+      ],
+      "corgi_fit_rationale": "Used GPU remarketer whose business depends on accurate residual value forecasting. RVG ecosystem data and partnerships directly support their business model.",
+      "industry_segment": "Adjacent — GPU Secondary Market"
+    },
+    {
+      "name": "Silicon Data (SiliconNavigator)",
+      "website": "https://www.silicondata.com",
+      "type": "adjacent",
+      "priority": "A",
+      "description": "GPU pricing and market intelligence platform. SiliconNavigator™ covers 80% of H100 pricing. Raised $4.7M seed from DRW and Jump Trading (March 2025).",
+      "headquarters": "New York, NY, USA",
+      "qualification_score": 93,
+      "key_contacts": [
+        { "name": "CEO/Founder", "title": "CEO", "email_guess": "info@silicondata.com" }
+      ],
+      "corgi_fit_rationale": "SiliconNavigator is already cited in Corgi's product knowledge as providing 80% H100 coverage for secondary market pricing. Direct data partnership or integration would strengthen RVG underwriting.",
+      "industry_segment": "Adjacent — GPU Market Intelligence"
+    },
+    {
+      "name": "Introl",
+      "website": "https://www.introl.com",
+      "type": "adjacent",
+      "priority": "B",
+      "description": "AI hardware infrastructure company providing secondary market services and market intelligence for GPU assets. Focus on enterprise GPU lifecycle optimization.",
+      "headquarters": "USA",
+      "qualification_score": 79,
+      "key_contacts": [
+        { "name": "CEO", "title": "CEO", "email_guess": "info@introl.com" }
+      ],
+      "corgi_fit_rationale": "GPU secondary market intelligence and lifecycle optimization. Introl's customers face exactly the depreciation risk RVG addresses.",
+      "industry_segment": "Adjacent — GPU Market Intelligence"
+    },
+    {
+      "name": "exIT Technologies",
+      "website": "https://www.exittechnologies.com",
+      "type": "adjacent",
+      "priority": "B",
+      "description": "IT asset disposition specialist with GPU/graphics card liquidation services. Handles enterprise data center hardware refresh and disposition.",
+      "headquarters": "USA",
+      "qualification_score": 75,
+      "key_contacts": [
+        { "name": "CEO", "title": "CEO", "email_guess": "info@exittechnologies.com" }
+      ],
+      "corgi_fit_rationale": "ITAD with specific GPU focus. Their GPU pricing data and buyer/seller network is directly relevant to RVG floor value calculation and claim settlement.",
+      "industry_segment": "Adjacent — ITAD / GPU"
+    },
+    {
+      "name": "Back Market",
+      "website": "https://www.backmarket.com",
+      "type": "adjacent",
+      "priority": "C",
+      "description": "Global marketplace for refurbished electronics including certified pre-owned AMD and NVIDIA graphics cards. Major consumer and prosumer GPU secondary market.",
+      "headquarters": "Paris, France",
+      "qualification_score": 65,
+      "key_contacts": [
+        { "name": "Thibaud Hug de Larauze", "title": "CEO", "email_guess": "thibaud@backmarket.com" }
+      ],
+      "corgi_fit_rationale": "Consumer-grade GPU secondary market; less relevant for enterprise H100/A100. However, their pricing data contributes to overall GPU residual value signals.",
+      "industry_segment": "Adjacent — GPU Secondary Market"
+    },
+    {
+      "name": "SellGPU.com",
+      "website": "https://www.sellgpu.com",
+      "type": "adjacent",
+      "priority": "C",
+      "description": "Founded 2014. Purchases GPUs, CPUs, RAM, SSDs, server CPUs, and bulk IT assets. Instant quotes for GPU liquidation.",
+      "headquarters": "USA",
+      "qualification_score": 63,
+      "key_contacts": [
+        { "name": "Founder", "title": "CEO", "email_guess": "info@sellgpu.com" }
+      ],
+      "corgi_fit_rationale": "Spot market GPU buyer. Their bid prices represent the floor of the secondary market. Relevant for RVG claim valuation methodology.",
+      "industry_segment": "Adjacent — GPU Secondary Market"
+    },
+    {
+      "name": "GPUnex",
+      "website": "https://www.gpunex.com",
+      "type": "adjacent",
+      "priority": "B",
+      "description": "Operational GPU compute marketplace with 2,400+ active GPUs across 150+ verified data centers. Rental and investment marketplace.",
+      "headquarters": "USA",
+      "qualification_score": 74,
+      "key_contacts": [
+        { "name": "CEO", "title": "CEO", "email_guess": "info@gpunex.com" }
+      ],
+      "corgi_fit_rationale": "GPU rental marketplace provides real-time utilization and pricing data. RVG would attract larger GPU hardware owners to list and insure their fleets.",
+      "industry_segment": "Adjacent — GPU Marketplace"
+    },
+    {
+      "name": "Vast.ai",
+      "website": "https://www.vast.ai",
+      "type": "operator",
+      "priority": "B",
+      "description": "Decentralized GPU rental marketplace. Connects GPU providers with AI researchers. 40+ data centers, 20,000+ GPUs. On-demand compute.",
+      "headquarters": "USA",
+      "qualification_score": 77,
+      "key_contacts": [
+        { "name": "CEO", "title": "CEO", "email_guess": "info@vast.ai" }
+      ],
+      "corgi_fit_rationale": "GPU marketplace operator with GPU hardware owners as customers. RVG would help hardware providers on Vast.ai protect the value of their investment.",
+      "industry_segment": "Operator — GPU Cloud / Marketplace"
+    },
+    {
+      "name": "CoreWeave",
+      "website": "https://www.coreweave.com",
+      "type": "operator",
+      "priority": "A",
+      "description": "AI-focused GPU cloud. Closed $7.5B Blackstone debt facility 2024. IPO in 2025. $18.8B total GPU-backed debt using NVIDIA H100s as collateral.",
+      "headquarters": "Roseland, NJ, USA",
+      "qualification_score": 95,
+      "key_contacts": [
+        { "name": "Michael Intrator", "title": "CEO", "email_guess": "mintrator@coreweave.com" }
+      ],
+      "corgi_fit_rationale": "CoreWeave is THE largest GPU-collateralized debt issuer. $18.8B exposure to GPU residual values. RVG would reduce their cost of capital and enable higher LTV on GPU-backed debt.",
+      "industry_segment": "Operator — GPU Cloud"
+    },
+    {
+      "name": "Lambda Labs",
+      "website": "https://www.lambdalabs.com",
+      "type": "operator",
+      "priority": "A",
+      "description": "AI-focused GPU cloud provider. Executed $1.5B sale-leaseback with NVIDIA. Major GPU owner/operator.",
+      "headquarters": "San Francisco, CA, USA",
+      "qualification_score": 90,
+      "key_contacts": [
+        { "name": "Stephen Balaban", "title": "CEO", "email_guess": "stephen@lambdalabs.com" }
+      ],
+      "corgi_fit_rationale": "Large GPU cloud with significant hardware ownership. Sale-leaseback model shows active capital structure optimization. RVG would guarantee residual value in their hardware portfolio.",
+      "industry_segment": "Operator — GPU Cloud"
+    },
+    {
+      "name": "Together AI",
+      "website": "https://www.together.ai",
+      "type": "operator",
+      "priority": "B",
+      "description": "AI cloud platform for training and inference. Owns significant GPU infrastructure. Raised $305M Series B.",
+      "headquarters": "San Francisco, CA, USA",
+      "qualification_score": 83,
+      "key_contacts": [
+        { "name": "Vipul Ved Prakash", "title": "CEO", "email_guess": "vipul@together.ai" }
+      ],
+      "corgi_fit_rationale": "Well-funded AI GPU operator with large capex commitment. RVG hedges depreciation risk on GPU fleet. Series B funding means active capital management.",
+      "industry_segment": "Operator — AI Cloud"
+    },
+    {
+      "name": "Lepton AI",
+      "website": "https://www.lepton.ai",
+      "type": "operator",
+      "priority": "B",
+      "description": "AI-focused cloud platform founded by former Bytedance and Microsoft AI researchers. GPU infrastructure provider.",
+      "headquarters": "San Jose, CA, USA",
+      "qualification_score": 78,
+      "key_contacts": [
+        { "name": "Jiajun Wu", "title": "CEO", "email_guess": "jiajun@lepton.ai" }
+      ],
+      "corgi_fit_rationale": "GPU cloud operator with hardware ownership. Relevant prospect for RVG as they scale GPU fleet.",
+      "industry_segment": "Operator — AI Cloud"
+    },
+    {
+      "name": "Ori Cloud",
+      "website": "https://www.ori.co",
+      "type": "operator",
+      "priority": "B",
+      "description": "UK-based AI cloud provider. Specializes in on-demand GPU compute for training and inference.",
+      "headquarters": "London, UK",
+      "qualification_score": 76,
+      "key_contacts": [
+        { "name": "CEO", "title": "CEO", "email_guess": "info@ori.co" }
+      ],
+      "corgi_fit_rationale": "European GPU cloud operator with hardware capex. RVG hedges their hardware depreciation in European market.",
+      "industry_segment": "Operator — GPU Cloud"
+    },
+    {
+      "name": "Cirrascale Cloud Services",
+      "website": "https://www.cirrascale.com",
+      "type": "operator",
+      "priority": "B",
+      "description": "GPU-accelerated cloud for AI/ML. Operates NVIDIA DGX and HGX systems. Serves AI researchers and enterprises.",
+      "headquarters": "San Diego, CA, USA",
+      "qualification_score": 79,
+      "key_contacts": [
+        { "name": "CEO", "title": "CEO", "email_guess": "info@cirrascale.com" }
+      ],
+      "corgi_fit_rationale": "Specialized GPU cloud with significant NVIDIA hardware investment. RVG protects value of DGX/HGX systems which depreciate rapidly.",
+      "industry_segment": "Operator — GPU Cloud"
+    },
+    {
+      "name": "Sharktech",
+      "website": "https://www.sharktech.net",
+      "type": "operator",
+      "priority": "C",
+      "description": "DDoS-protected dedicated server and GPU cloud provider. Operates US data centers with AI GPU infrastructure.",
+      "headquarters": "Las Vegas, NV, USA",
+      "qualification_score": 66,
+      "key_contacts": [
+        { "name": "CEO", "title": "CEO", "email_guess": "info@sharktech.net" }
+      ],
+      "corgi_fit_rationale": "Mid-size GPU cloud operator with owned hardware. RVG relevant for their GPU fleet depreciation management.",
+      "industry_segment": "Operator — GPU Cloud"
+    },
+    {
+      "name": "DataCrunch",
+      "website": "https://www.datacrunch.io",
+      "type": "operator",
+      "priority": "C",
+      "description": "European GPU cloud provider. High-performance NVIDIA GPU instances for AI/ML. Data center presence in Finland.",
+      "headquarters": "Helsinki, Finland",
+      "qualification_score": 68,
+      "key_contacts": [
+        { "name": "CEO", "title": "CEO", "email_guess": "info@datacrunch.io" }
+      ],
+      "corgi_fit_rationale": "EU-based GPU cloud with owned hardware. Relevant as Corgi considers international expansion.",
+      "industry_segment": "Operator — GPU Cloud"
+    },
+    {
+      "name": "Novita AI",
+      "website": "https://www.novita.ai",
+      "type": "operator",
+      "priority": "C",
+      "description": "AI cloud platform offering GPU instances and model APIs. Growing GPU infrastructure footprint.",
+      "headquarters": "USA",
+      "qualification_score": 65,
+      "key_contacts": [
+        { "name": "CEO", "title": "CEO", "email_guess": "info@novita.ai" }
+      ],
+      "corgi_fit_rationale": "Newer GPU cloud operator building hardware base. RVG valuable as they build investment case for GPU acquisition.",
+      "industry_segment": "Operator — AI Cloud"
+    },
+    {
+      "name": "Prime Intellect",
+      "website": "https://www.primeintellect.ai",
+      "type": "operator",
+      "priority": "C",
+      "description": "Decentralized AI training platform. Aggregates GPU compute across providers for large distributed training runs.",
+      "headquarters": "USA",
+      "qualification_score": 68,
+      "key_contacts": [
+        { "name": "CEO", "title": "CEO", "email_guess": "info@primeintellect.ai" }
+      ],
+      "corgi_fit_rationale": "Emerging GPU aggregation platform. GPU hardware owners in their network face depreciation risk RVG addresses.",
+      "industry_segment": "Operator — Decentralized GPU"
+    },
+    {
+      "name": "Nebius Group",
+      "website": "https://www.nebius.com",
+      "type": "operator",
+      "priority": "B",
+      "description": "European AI cloud infrastructure company spun out of Yandex. Major GPU data center investments in Europe and US.",
+      "headquarters": "Amsterdam, Netherlands",
+      "qualification_score": 84,
+      "key_contacts": [
+        { "name": "Arkady Volozh", "title": "CEO", "email_guess": "a.volozh@nebius.com" }
+      ],
+      "corgi_fit_rationale": "Well-funded EU GPU cloud operator with large hardware capex. International GPU operators are strategic targets for Corgi. Good fit for RVG.",
+      "industry_segment": "Operator — GPU Cloud"
+    },
+    {
+      "name": "Nscale (Norwegian GPU Cloud)",
+      "website": "https://www.nscale.com",
+      "type": "operator",
+      "priority": "B",
+      "description": "European GPU cloud focused on sustainable AI compute. Significant NVIDIA GPU hardware purchases. Norway-based data centers.",
+      "headquarters": "Oslo, Norway",
+      "qualification_score": 79,
+      "key_contacts": [
+        { "name": "CEO", "title": "CEO", "email_guess": "info@nscale.com" }
+      ],
+      "corgi_fit_rationale": "European GPU cloud with significant NVIDIA hardware commitment. RVG hedges depreciation risk on large GPU fleet.",
+      "industry_segment": "Operator — GPU Cloud"
+    },
+    {
+      "name": "Replicate",
+      "website": "https://www.replicate.com",
+      "type": "operator",
+      "priority": "B",
+      "description": "AI model deployment platform running on GPU infrastructure. Provides API access to AI models via owned/operated GPU infrastructure.",
+      "headquarters": "San Francisco, CA, USA",
+      "qualification_score": 75,
+      "key_contacts": [
+        { "name": "Ben Firshman", "title": "CEO", "email_guess": "ben@replicate.com" }
+      ],
+      "corgi_fit_rationale": "GPU-intensive platform with hardware exposure. RVG relevant as they scale GPU fleet for model inference.",
+      "industry_segment": "Operator — AI Cloud"
+    },
+    {
+      "name": "Perplexity AI (Infrastructure)",
+      "website": "https://www.perplexity.ai",
+      "type": "operator",
+      "priority": "B",
+      "description": "AI search engine with significant owned GPU infrastructure. $520M raised. Building large-scale GPU fleet for inference.",
+      "headquarters": "San Francisco, CA, USA",
+      "qualification_score": 80,
+      "key_contacts": [
+        { "name": "Aravind Srinivas", "title": "CEO", "email_guess": "aravind@perplexity.ai" }
+      ],
+      "corgi_fit_rationale": "Well-funded AI company building owned GPU fleet. As they scale hardware investment, RVG becomes valuable depreciation hedge.",
+      "industry_segment": "Operator — AI Infrastructure"
+    },
+    {
+      "name": "SambaNova Systems",
+      "website": "https://www.sambanova.ai",
+      "type": "operator",
+      "priority": "B",
+      "description": "AI hardware and cloud company. Operates SambaNova Cloud with proprietary RDU chips and NVIDIA GPUs. $676M raised.",
+      "headquarters": "Palo Alto, CA, USA",
+      "qualification_score": 81,
+      "key_contacts": [
+        { "name": "Rodrigo Liang", "title": "CEO", "email_guess": "rodrigo.liang@sambanova.ai" }
+      ],
+      "corgi_fit_rationale": "AI hardware company with significant infrastructure investment. RVG relevant for GPU component of their hardware portfolio.",
+      "industry_segment": "Operator — AI Hardware / Cloud"
+    },
+    {
+      "name": "Vercel (AI Infrastructure)",
+      "website": "https://www.vercel.com",
+      "type": "operator",
+      "priority": "C",
+      "description": "Frontend cloud and AI deployment platform. Building GPU inference infrastructure. $250M Series E.",
+      "headquarters": "San Francisco, CA, USA",
+      "qualification_score": 65,
+      "key_contacts": [
+        { "name": "Guillermo Rauch", "title": "CEO", "email_guess": "guillermo@vercel.com" }
+      ],
+      "corgi_fit_rationale": "Growing AI infrastructure owner as they expand GPU for AI inference. Early stage for RVG but worth tracking.",
+      "industry_segment": "Operator — AI Cloud"
+    },
+    {
+      "name": "Nerdio",
+      "website": "https://www.nerdio.com",
+      "type": "operator",
+      "priority": "C",
+      "description": "Cloud management platform for MSPs using Azure/GPU infrastructure. Growing GPU workload management.",
+      "headquarters": "Chicago, IL, USA",
+      "qualification_score": 58,
+      "key_contacts": [
+        { "name": "Vadim Vladimirskiy", "title": "CEO", "email_guess": "vadim@nerdio.com" }
+      ],
+      "corgi_fit_rationale": "MSP GPU management platform. Less direct hardware ownership but relevant as distribution channel to MSPs with GPU assets.",
+      "industry_segment": "Operator — Cloud Management"
+    },
+    {
+      "name": "DataVault AI",
+      "website": "https://www.datavaultai.com",
+      "type": "lender",
+      "priority": "B",
+      "description": "AI infrastructure investment and financing platform. Provides capital for GPU cloud operators via asset-backed structures.",
+      "headquarters": "New York, NY, USA",
+      "qualification_score": 84,
+      "key_contacts": [
+        { "name": "CEO", "title": "CEO", "email_guess": "info@datavaultai.com" }
+      ],
+      "corgi_fit_rationale": "GPU infrastructure financier whose entire model depends on accurate residual value projection. RVG would be a natural value-add for their borrowers.",
+      "industry_segment": "Lender — AI Infrastructure"
+    },
+    {
+      "name": "Generate Capital",
+      "website": "https://www.generatecapital.com",
+      "type": "lender",
+      "priority": "B",
+      "description": "Sustainable infrastructure finance. $10B+ AUM. Expanding into AI/digital infrastructure as a new vertical.",
+      "headquarters": "San Francisco, CA, USA",
+      "qualification_score": 78,
+      "key_contacts": [
+        { "name": "Scott Jacobs", "title": "CEO", "email_guess": "scott.jacobs@generatecapital.com" }
+      ],
+      "corgi_fit_rationale": "Infrastructure credit firm expanding into AI infrastructure. GPU-backed loans benefit from RVG. Generate's responsible investment mandate aligns with GPU lifecycle management.",
+      "industry_segment": "Lender — Infrastructure Credit"
+    },
+    {
+      "name": "Owl Rock Capital (Blue Owl)",
+      "website": "https://www.blueowl.com",
+      "type": "lender",
+      "priority": "B",
+      "description": "Blue Owl subsidiary. $170B+ AUM in direct lending. Technology and digital infrastructure lending active vertical.",
+      "headquarters": "New York, NY, USA",
+      "qualification_score": 80,
+      "key_contacts": [
+        { "name": "Craig Packer", "title": "Co-CEO, Blue Owl Credit", "email_guess": "craig.packer@blueowl.com" }
+      ],
+      "corgi_fit_rationale": "Large direct lender with technology focus. GPU-backed loans in their portfolio benefit from RVG collateral protection. Blue Owl is a major infrastructure credit firm.",
+      "industry_segment": "Lender — Direct Lending"
+    },
+    {
+      "name": "Benefit Street Partners (Franklin Templeton)",
+      "website": "https://www.benefitstreetpartners.com",
+      "type": "lender",
+      "priority": "B",
+      "description": "Franklin Templeton credit subsidiary. $75B+ AUM. Technology and digital infrastructure credit active.",
+      "headquarters": "New York, NY, USA",
+      "qualification_score": 76,
+      "key_contacts": [
+        { "name": "Richard Byrne", "title": "CEO", "email_guess": "richard.byrne@benefitstreetpartners.com" }
+      ],
+      "corgi_fit_rationale": "Large private credit manager with tech exposure. GPU-collateralized loans benefit from RVG floor guarantee. Franklin Templeton distribution opens more doors.",
+      "industry_segment": "Lender — Private Credit"
+    },
+    {
+      "name": "Golub Capital",
+      "website": "https://www.golubcapital.com",
+      "type": "lender",
+      "priority": "B",
+      "description": "Major direct lender with $70B+ AUM. Technology sector focus. Active in software and digital infrastructure lending.",
+      "headquarters": "New York, NY, USA",
+      "qualification_score": 77,
+      "key_contacts": [
+        { "name": "Lawrence Golub", "title": "CEO", "email_guess": "lgolub@golubcapital.com" }
+      ],
+      "corgi_fit_rationale": "Tech-focused direct lender. GPU-backed loans in their portfolio benefit from RVG. Active in venture and growth lending to AI companies.",
+      "industry_segment": "Lender — Direct Lending"
+    },
+    {
+      "name": "Churchill Asset Management (TIAA)",
+      "website": "https://www.churchillam.com",
+      "type": "lender",
+      "priority": "B",
+      "description": "TIAA subsidiary providing private equity and credit financing. $47B+ AUM. Technology infrastructure growing vertical.",
+      "headquarters": "New York, NY, USA",
+      "qualification_score": 75,
+      "key_contacts": [
+        { "name": "Ken Kencel", "title": "President & CEO", "email_guess": "kkencel@churchillam.com" }
+      ],
+      "corgi_fit_rationale": "Large private credit firm with tech exposure through TIAA capital. GPU-backed lending benefits from RVG collateral floor guarantee.",
+      "industry_segment": "Lender — Private Credit"
+    },
+    {
+      "name": "Antares Capital",
+      "website": "https://www.antarescapital.com",
+      "type": "lender",
+      "priority": "B",
+      "description": "One of the largest middle market lenders. $60B+ AUM. Technology vertical active. Backed by Canada Pension Plan Investment Board.",
+      "headquarters": "Chicago, IL, USA",
+      "qualification_score": 76,
+      "key_contacts": [
+        { "name": "Tim Lyne", "title": "CEO", "email_guess": "tlyne@antarescapital.com" }
+      ],
+      "corgi_fit_rationale": "Major middle-market lender with tech exposure. GPU hardware collateral enhancement via RVG supports stronger loan structures.",
+      "industry_segment": "Lender — Private Credit"
+    },
+    {
+      "name": "Runway Growth Capital",
+      "website": "https://www.runwaygrowth.com",
+      "type": "lender",
+      "priority": "B",
+      "description": "Growth-stage debt lender focused on technology companies. Provides non-dilutive capital to SaaS and AI companies.",
+      "headquarters": "Chicago, IL, USA",
+      "qualification_score": 79,
+      "key_contacts": [
+        { "name": "Dave Spreng", "title": "CEO", "email_guess": "dave.spreng@runwaygrowth.com" }
+      ],
+      "corgi_fit_rationale": "Tech-focused growth lender to AI companies. As AI companies take on GPU hardware debt, RVG protects the hardware collateral value.",
+      "industry_segment": "Lender — Venture Debt"
+    },
+    {
+      "name": "Comerica Equipment Finance",
+      "website": "https://www.comerica.com/business/equipment-financing",
+      "type": "lender",
+      "priority": "C",
+      "description": "Comerica Bank's equipment finance division. Strong technology sector presence in Texas and California.",
+      "headquarters": "Dallas, TX, USA",
+      "qualification_score": 68,
+      "key_contacts": [
+        { "name": "Director, Equipment Finance", "title": "Director", "email_guess": "equipmentfinance@comerica.com" }
+      ],
+      "corgi_fit_rationale": "Bank equipment lender with tech industry focus. Could bundle RVG into GPU hardware financing products.",
+      "industry_segment": "Lender — Equipment Finance"
+    },
+    {
+      "name": "KeyBanc Equipment Finance",
+      "website": "https://www.key.com/businesses/products-services/equipment-financing",
+      "type": "lender",
+      "priority": "C",
+      "description": "KeyCorp's equipment finance division. Technology and digital infrastructure vertical. Significant middle-market equipment lending.",
+      "headquarters": "Cleveland, OH, USA",
+      "qualification_score": 67,
+      "key_contacts": [
+        { "name": "Head, Equipment Finance", "title": "Head", "email_guess": "equipmentfinance@keybank.com" }
+      ],
+      "corgi_fit_rationale": "Regional bank equipment lender serving tech companies. GPU lending program would benefit from RVG collateral floor.",
+      "industry_segment": "Lender — Equipment Finance"
+    },
+    {
+      "name": "Siemens Financial Services (Equipment Finance)",
+      "website": "https://www.siemens.com/global/en/products/financing.html",
+      "type": "lender",
+      "priority": "B",
+      "description": "Siemens Financial Services global equipment finance. Provides technology equipment leasing globally. Strong international reach.",
+      "headquarters": "Munich, Germany",
+      "qualification_score": 77,
+      "key_contacts": [
+        { "name": "CEO, Siemens Financial Services", "title": "CEO", "email_guess": "info@siemens-finance.com" }
+      ],
+      "corgi_fit_rationale": "Global equipment lessor with technology vertical. GPU hardware leasing would benefit from RVG. International presence relevant as Corgi expands.",
+      "industry_segment": "Lender — Equipment Finance / Global"
+    },
+    {
+      "name": "Hewlett Packard Financial Services (HPFS)",
+      "website": "https://www.hpe.com/us/en/financial-services.html",
+      "type": "lender",
+      "priority": "B",
+      "description": "HPE's captive finance arm. Provides equipment leasing and financing for HPE technology including GPU servers.",
+      "headquarters": "Murray Hill, NJ, USA",
+      "qualification_score": 82,
+      "key_contacts": [
+        { "name": "President, HPFS", "title": "President", "email_guess": "hpfs@hpe.com" }
+      ],
+      "corgi_fit_rationale": "Captive finance for HPE GPU servers. Direct integration with GPU hardware purchases. RVG bundled into HPFS leases would be highly impactful.",
+      "industry_segment": "Lender — Captive Equipment Finance"
+    },
+    {
+      "name": "Dell Financial Services",
+      "website": "https://www.dell.com/en-us/work/shop/dell-financial-services",
+      "type": "lender",
+      "priority": "B",
+      "description": "Dell Technologies' captive finance arm. Provides equipment leasing and financing for Dell PowerEdge GPU servers and AI infrastructure.",
+      "headquarters": "Round Rock, TX, USA",
+      "qualification_score": 83,
+      "key_contacts": [
+        { "name": "Head, Dell Financial Services", "title": "Head", "email_guess": "dfs@dell.com" }
+      ],
+      "corgi_fit_rationale": "Captive finance for Dell GPU servers and AI infrastructure. Direct path to GPU hardware purchasers at point of sale. Bundling RVG into DFS leases is a major distribution opportunity.",
+      "industry_segment": "Lender — Captive Equipment Finance"
+    },
+    {
+      "name": "Nvidia Capital (NVIDIA Financial Services)",
+      "website": "https://www.nvidia.com/en-us/financing",
+      "type": "lender",
+      "priority": "A",
+      "description": "NVIDIA's emerging financial services and financing programs. Includes the Lambda sale-leaseback and OpenAI leasing arrangements.",
+      "headquarters": "Santa Clara, CA, USA",
+      "qualification_score": 92,
+      "key_contacts": [
+        { "name": "Colette Kress", "title": "CFO, NVIDIA", "email_guess": "ckress@nvidia.com" }
+      ],
+      "corgi_fit_rationale": "NVIDIA is moving into financing. As GPU manufacturer, they face direct residual value risk. RVG as a program through NVIDIA Financial Services would be transformative distribution.",
+      "industry_segment": "Lender — OEM Finance"
+    },
+    {
+      "name": "Lending Club (Equipment/AI)",
+      "website": "https://www.lendingclub.com",
+      "type": "lender",
+      "priority": "C",
+      "description": "Digital lending platform expanding into equipment and business banking. Exploring AI infrastructure financing.",
+      "headquarters": "San Francisco, CA, USA",
+      "qualification_score": 58,
+      "key_contacts": [
+        { "name": "Scott Sanborn", "title": "CEO", "email_guess": "ssanborn@lendingclub.com" }
+      ],
+      "corgi_fit_rationale": "Digital lender exploring new asset classes. Less direct GPU focus but relevant as fintech lenders expand into hardware assets.",
+      "industry_segment": "Lender — Digital / Fintech"
+    },
+    {
+      "name": "Inteleca",
+      "website": "https://www.inteleca.com",
+      "type": "adjacent",
+      "priority": "B",
+      "description": "IT asset disposition and AI hardware refresh specialist. Focuses on enterprise GPU refresh cycles and secondary market placement.",
+      "headquarters": "USA",
+      "qualification_score": 80,
+      "key_contacts": [
+        { "name": "CEO", "title": "CEO", "email_guess": "info@inteleca.com" }
+      ],
+      "corgi_fit_rationale": "ITAD specialist for AI hardware refresh. Their work on GPU disposition and refresh cycles is directly adjacent to RVG residual value analysis.",
+      "industry_segment": "Adjacent — ITAD / GPU"
+    },
+    {
+      "name": "Park Place Technologies",
+      "website": "https://www.parkplacetechnologies.com",
+      "type": "adjacent",
+      "priority": "B",
+      "description": "Global IT infrastructure solutions company. Third-party maintenance and ITAD for data center hardware including GPU servers.",
+      "headquarters": "Beachwood, OH, USA",
+      "qualification_score": 78,
+      "key_contacts": [
+        { "name": "Chris Adams", "title": "CEO", "email_guess": "cadams@parkplacetechnologies.com" }
+      ],
+      "corgi_fit_rationale": "Large IT infrastructure services company handling GPU hardware lifecycle. Their GPU maintenance and disposition data valuable for RVG underwriting.",
+      "industry_segment": "Adjacent — IT Services / ITAD"
+    },
+    {
+      "name": "APTO Solutions",
+      "website": "https://www.aptosolutions.com",
+      "type": "adjacent",
+      "priority": "C",
+      "description": "IT asset management and disposition company. Handles server and GPU hardware recycling and remarketing.",
+      "headquarters": "Austin, TX, USA",
+      "qualification_score": 70,
+      "key_contacts": [
+        { "name": "CEO", "title": "CEO", "email_guess": "info@aptosolutions.com" }
+      ],
+      "corgi_fit_rationale": "ITAD with GPU/server focus. Secondary market data and hardware disposition services relevant to RVG ecosystem.",
+      "industry_segment": "Adjacent — ITAD"
+    },
+    {
+      "name": "Dataknox",
+      "website": "https://www.dataknox.io",
+      "type": "adjacent",
+      "priority": "C",
+      "description": "Data center ITAD and decommissioning specialist. Focused on data security and hardware remarketing for data center operators.",
+      "headquarters": "USA",
+      "qualification_score": 68,
+      "key_contacts": [
+        { "name": "CEO", "title": "CEO", "email_guess": "info@dataknox.io" }
+      ],
+      "corgi_fit_rationale": "Data center ITAD operator. GPU decommissioning and remarketing services are part of the broader RVG value chain.",
+      "industry_segment": "Adjacent — ITAD"
+    },
+    {
+      "name": "Compass Datacenters",
+      "website": "https://www.compassdatacenters.com",
+      "type": "adjacent",
+      "priority": "B",
+      "description": "Data center developer and operator. Builds and operates GPU-dense AI data centers. Significant hardware infrastructure.",
+      "headquarters": "Dallas, TX, USA",
+      "qualification_score": 80,
+      "key_contacts": [
+        { "name": "Chris Crosby", "title": "CEO", "email_guess": "ccrosby@compassdatacenters.com" }
+      ],
+      "corgi_fit_rationale": "Data center operator with AI/GPU infrastructure investment. RVG protects hardware value in their facilities.",
+      "industry_segment": "Adjacent — Data Center"
+    },
+    {
+      "name": "Nautilus Data Technologies",
+      "website": "https://www.nautilusdt.com",
+      "type": "adjacent",
+      "priority": "C",
+      "description": "Floating data center technology company. Innovative data center cooling using water. AI GPU workload focus.",
+      "headquarters": "Stockton, CA, USA",
+      "qualification_score": 65,
+      "key_contacts": [
+        { "name": "Arnold Magcale", "title": "CEO", "email_guess": "amagcale@nautilusdt.com" }
+      ],
+      "corgi_fit_rationale": "Specialty data center operator. GPU hardware investments in novel environments have unique depreciation profiles RVG can address.",
+      "industry_segment": "Adjacent — Data Center"
+    },
+    {
+      "name": "QTS Realty Trust (Blackstone)",
+      "website": "https://www.qtsdatacenters.com",
+      "type": "adjacent",
+      "priority": "B",
+      "description": "Data center REIT acquired by Blackstone in 2021. Major AI/GPU infrastructure investments. Strong private equity backing.",
+      "headquarters": "Overland Park, KS, USA",
+      "qualification_score": 82,
+      "key_contacts": [
+        { "name": "Chad Williams", "title": "CEO", "email_guess": "cwilliams@qtsdatacenters.com" }
+      ],
+      "corgi_fit_rationale": "Blackstone-backed data center operator with massive GPU infrastructure investments. Blackstone's relationship with CoreWeave (GPU financing) makes QTS a strategic touchpoint.",
+      "industry_segment": "Adjacent — Data Center REIT"
+    },
+    {
+      "name": "Switch Inc. (LS Power)",
+      "website": "https://www.switch.com",
+      "type": "adjacent",
+      "priority": "B",
+      "description": "Data center operator known for NVIDIA SuperPOD-certified facilities. Major AI/HPC colocation presence.",
+      "headquarters": "Las Vegas, NV, USA",
+      "qualification_score": 81,
+      "key_contacts": [
+        { "name": "Rob Roy", "title": "Founder & CEO", "email_guess": "rroy@switch.com" }
+      ],
+      "corgi_fit_rationale": "NVIDIA SuperPOD-certified data center means they host massive GPU clusters. Tenants' GPU investments covered by RVG reduce churn and improve long-term lease economics.",
+      "industry_segment": "Adjacent — Data Center"
+    },
+    {
+      "name": "Acrisure Re",
+      "website": "https://www.acrisure.com/reinsurance",
+      "type": "broker",
+      "priority": "B",
+      "description": "Reinsurance broker and corporate risk advisory arm of Acrisure ($4B revenue). International specialty team across Bermuda, London, NY, Chicago, Zurich. Uses AI (AcrisureIQ Pro) for portfolio analytics.",
+      "headquarters": "Grand Rapids, MI, USA",
+      "qualification_score": 81,
+      "key_contacts": [
+        { "name": "Peter Sharpe", "title": "Head, London Specialty Reinsurance", "email_guess": "peter.sharpe@acrisure.com" }
+      ],
+      "corgi_fit_rationale": "Specialty reinsurance broker with Bermuda and Lloyd's access plus tech-enabled analytics. Could place GPU RVG reinsurance and bring analytical firepower to program structuring.",
+      "industry_segment": "Broker — Reinsurance"
+    },
+    {
+      "name": "Willis Towers Watson (WTW)",
+      "website": "https://www.wtwco.com",
+      "type": "broker",
+      "priority": "B",
+      "description": "Global risk advisory and insurance brokerage. Sold treaty reinsurance to Gallagher but retained facultative capabilities. Technology insurance consulting and specialty risk advisory.",
+      "headquarters": "London, UK / Arlington, VA, USA",
+      "qualification_score": 78,
+      "key_contacts": [
+        { "name": "Carl Hess", "title": "CEO", "email_guess": "carl.hess@wtwco.com" }
+      ],
+      "corgi_fit_rationale": "WTW's technology industry advisory and facultative reinsurance capabilities relevant for GPU risk placement. Strong relationships with tech companies and financial institutions.",
+      "industry_segment": "Broker — Technology / Specialty"
+    },
+    {
+      "name": "NFP (Aon Company)",
+      "website": "https://www.nfp.com",
+      "type": "broker",
+      "priority": "B",
+      "description": "One of world's largest P&C brokers, now an Aon company. Specialty insurance, benefits, and risk advisory. Strong technology sector client base.",
+      "headquarters": "New York, NY, USA",
+      "qualification_score": 76,
+      "key_contacts": [
+        { "name": "Doug Hammond", "title": "CEO", "email_guess": "doug.hammond@nfp.com" }
+      ],
+      "corgi_fit_rationale": "Large specialty broker with tech client base now backed by Aon's reinsurance infrastructure. Distribution channel to mid-market GPU operators.",
+      "industry_segment": "Broker — Specialty"
+    },
+    {
+      "name": "NexGen Cloud (Hyperstack)",
+      "website": "https://www.hyperstack.cloud",
+      "type": "operator",
+      "priority": "A",
+      "description": "European sovereign AI cloud infrastructure. Raised $59M, planning $1B AI Supercloud with 20,000 NVIDIA H100 GPUs. Hyperstack platform for on-demand EU GPU compute.",
+      "headquarters": "UK / Amsterdam, Netherlands",
+      "qualification_score": 88,
+      "key_contacts": [
+        { "name": "CEO", "title": "CEO", "email_guess": "info@nexgencloud.com" }
+      ],
+      "corgi_fit_rationale": "European GPU cloud with massive NVIDIA hardware commitment. $1B investment in H100 GPUs creates enormous RVG opportunity. Sovereign AI focus means long-term hardware ownership.",
+      "industry_segment": "Operator — GPU Cloud"
+    },
+    {
+      "name": "GMI Cloud",
+      "website": "https://www.gmicloud.ai",
+      "type": "operator",
+      "priority": "A",
+      "description": "GPU cloud infrastructure provider. Raised $82M Series A ($15M equity + $67M debt) in October 2024. Global access to advanced GPUs.",
+      "headquarters": "USA",
+      "qualification_score": 86,
+      "key_contacts": [
+        { "name": "CEO", "title": "CEO", "email_guess": "info@gmicloud.ai" }
+      ],
+      "corgi_fit_rationale": "Well-funded GPU cloud with GPU-collateralized debt structure. The $67M debt financing is exactly the use case for RVG as collateral enhancement.",
+      "industry_segment": "Operator — GPU Cloud"
+    },
+    {
+      "name": "IREN Limited (formerly Iris Energy)",
+      "website": "https://www.iren.com",
+      "type": "operator",
+      "priority": "A",
+      "description": "Publicly listed GPU cloud and Bitcoin mining company. Purchased 4,200 NVIDIA Blackwell GPUs with secured financing. Expanded AI cloud to 8,500+ GPUs.",
+      "headquarters": "Sydney, Australia (NASDAQ: IREN)",
+      "qualification_score": 90,
+      "key_contacts": [
+        { "name": "Daniel Roberts", "title": "Co-CEO", "email_guess": "dan.roberts@iren.com" },
+        { "name": "William Roberts", "title": "Co-CEO", "email_guess": "will.roberts@iren.com" }
+      ],
+      "corgi_fit_rationale": "Public company with GPU-secured financing. RVG directly protects their Blackwell GPU collateral value. Active GPU capex and financing makes them a prime RVG prospect.",
+      "industry_segment": "Operator — GPU Cloud / Bitcoin Mining"
+    },
+    {
+      "name": "Hyperstack (NexGen Cloud platform)",
+      "website": "https://www.hyperstack.cloud",
+      "type": "operator",
+      "priority": "B",
+      "description": "On-demand GPU cloud platform for European AI workloads, powered by NexGen Cloud's NVIDIA H100 clusters.",
+      "headquarters": "UK",
+      "qualification_score": 82,
+      "key_contacts": [
+        { "name": "CEO", "title": "CEO", "email_guess": "info@hyperstack.cloud" }
+      ],
+      "corgi_fit_rationale": "European GPU cloud platform with significant owned NVIDIA hardware. RVG protects EU-based GPU capex.",
+      "industry_segment": "Operator — GPU Cloud"
+    },
+    {
+      "name": "LiquidStack",
+      "website": "https://www.liquidstack.com",
+      "type": "adjacent",
+      "priority": "B",
+      "description": "Industry-leading immersion cooling company for AI data centers. Breakthrough innovations in cooling for hyperscale, AI, edge, and HPC.",
+      "headquarters": "USA / Netherlands",
+      "qualification_score": 72,
+      "key_contacts": [
+        { "name": "Joe Capes", "title": "CEO", "email_guess": "joe.capes@liquidstack.com" }
+      ],
+      "corgi_fit_rationale": "Cooling infrastructure closely tied to GPU data center operators. Their customers own the GPUs that RVG protects. Partnership/distribution opportunity for Corgi through hardware lifecycle management.",
+      "industry_segment": "Adjacent — Data Center Infrastructure"
+    },
+    {
+      "name": "Vertiv Holdings",
+      "website": "https://www.vertiv.com",
+      "type": "adjacent",
+      "priority": "B",
+      "description": "Critical digital infrastructure company. Multi-year R&D collaboration with NVIDIA. Liquid cooling revenue doubled in Q1 2025. $40B+ market cap.",
+      "headquarters": "Columbus, OH, USA",
+      "qualification_score": 75,
+      "key_contacts": [
+        { "name": "Giordano Albertazzi", "title": "CEO", "email_guess": "giordano.albertazzi@vertiv.com" }
+      ],
+      "corgi_fit_rationale": "Critical GPU data center infrastructure partner with NVIDIA relationship. Vertiv's clients own the GPUs. Distribution partnership with Corgi could reach GPU hardware owners through cooling infrastructure relationships.",
+      "industry_segment": "Adjacent — Data Center Infrastructure"
+    },
+    {
+      "name": "Phison Electronics",
+      "website": "https://www.phison.com",
+      "type": "adjacent",
+      "priority": "C",
+      "description": "Major flash storage controller and enterprise SSD manufacturer. Key component supplier for AI/GPU data center infrastructure.",
+      "headquarters": "Taipei, Taiwan",
+      "qualification_score": 58,
+      "key_contacts": [
+        { "name": "Khein-Seng Pua", "title": "CEO", "email_guess": "pua@phison.com" }
+      ],
+      "corgi_fit_rationale": "Storage hardware manufacturer supporting GPU infrastructure. Less direct exposure to GPU residual values but adjacent to the hardware ecosystem.",
+      "industry_segment": "Adjacent — Hardware Manufacturing"
+    },
+    {
+      "name": "Supermicro (Super Micro Computer)",
+      "website": "https://www.supermicro.com",
+      "type": "adjacent",
+      "priority": "B",
+      "description": "Leading GPU server manufacturer and system integrator. Builds the DGX-SuperPOD equivalent servers for GPU cloud operators. Major NVIDIA partner.",
+      "headquarters": "San Jose, CA, USA",
+      "qualification_score": 80,
+      "key_contacts": [
+        { "name": "Charles Liang", "title": "CEO", "email_guess": "charles@supermicro.com" }
+      ],
+      "corgi_fit_rationale": "Major GPU server OEM. Their hardware depreciates — RVG relevant for customers purchasing Supermicro GPU servers. OEM distribution partnership would be highly impactful.",
+      "industry_segment": "Adjacent — GPU Server OEM"
+    },
+    {
+      "name": "Wiwynn Corporation",
+      "website": "https://www.wiwynn.com",
+      "type": "adjacent",
+      "priority": "B",
+      "description": "Cloud computing server and storage manufacturer. Major supplier to hyperscalers and GPU cloud operators. AI GPU server division growing.",
+      "headquarters": "Taipei, Taiwan",
+      "qualification_score": 75,
+      "key_contacts": [
+        { "name": "CEO", "title": "CEO", "email_guess": "info@wiwynn.com" }
+      ],
+      "corgi_fit_rationale": "GPU server ODM. Customers buy servers that depreciate. OEM bundling of RVG at point of GPU server sale is a major distribution opportunity.",
+      "industry_segment": "Adjacent — GPU Server ODM"
+    },
+    {
+      "name": "Applied Digital",
+      "website": "https://www.applieddigital.com",
+      "type": "operator",
+      "priority": "A",
+      "description": "Publicly listed (NASDAQ: APLD) high-performance computing and AI cloud company. Operates GPU clusters for AI workloads and HPC data centers.",
+      "headquarters": "Dallas, TX, USA",
+      "qualification_score": 89,
+      "key_contacts": [
+        { "name": "Wes Cummins", "title": "CEO", "email_guess": "wcummins@applieddigital.com" }
+      ],
+      "corgi_fit_rationale": "Public GPU cloud operator with significant hardware investment. APLD actively finances GPU infrastructure. RVG protects their GPU asset base.",
+      "industry_segment": "Operator — GPU Cloud / HPC"
+    },
+    {
+      "name": "Nuvve Holding Corp",
+      "website": "https://www.nuvve.com",
+      "type": "lender",
+      "priority": "C",
+      "description": "Grid services and energy infrastructure company moving into AI data center financing. Focused on power + AI infrastructure.",
+      "headquarters": "San Diego, CA, USA",
+      "qualification_score": 60,
+      "key_contacts": [
+        { "name": "Gregory Poilasne", "title": "CEO", "email_guess": "gregory.poilasne@nuvve.com" }
+      ],
+      "corgi_fit_rationale": "Energy infrastructure company entering AI data center financing. Less direct GPU exposure but represents the convergence of power and GPU infrastructure financing.",
+      "industry_segment": "Lender — AI Infrastructure"
+    },
+    {
+      "name": "Macquarie Capital (GPU Infrastructure)",
+      "website": "https://www.macquarie.com/us/en/businesses/capital-markets/macquarie-capital.html",
+      "type": "lender",
+      "priority": "A",
+      "description": "Global investment bank and infrastructure financier. Provided up to $10B debt financing capacity secured by GPU assets to Fluidstack. Major infrastructure capital provider.",
+      "headquarters": "Sydney, Australia / New York, NY, USA",
+      "qualification_score": 93,
+      "key_contacts": [
+        { "name": "Nick O'Neill", "title": "Head, Technology Infrastructure, Macquarie Capital", "email_guess": "nick.oneill@macquarie.com" }
+      ],
+      "corgi_fit_rationale": "Macquarie provided $10B GPU-backed financing to Fluidstack. As one of the world's largest GPU collateralized lenders, RVG directly enhances their underwriting. Critical relationship.",
+      "industry_segment": "Lender — Infrastructure Banking"
+    },
+    {
+      "name": "Blackstone Credit (Infrastructure)",
+      "website": "https://www.blackstone.com/businesses/credit",
+      "type": "lender",
+      "priority": "A",
+      "description": "Blackstone's credit and insurance businesses. Led $7.5B debt facility for CoreWeave. Major GPU infrastructure lender. $300B+ credit AUM.",
+      "headquarters": "New York, NY, USA",
+      "qualification_score": 95,
+      "key_contacts": [
+        { "name": "Michael Zawadzki", "title": "President, Blackstone Credit", "email_guess": "mzawadzki@blackstone.com" }
+      ],
+      "corgi_fit_rationale": "Blackstone led CoreWeave's $7.5B GPU debt facility — the world's largest GPU-collateralized loan. RVG would protect Blackstone's GPU collateral. Critical relationship for Corgi.",
+      "industry_segment": "Lender — Infrastructure Credit"
+    },
+    {
+      "name": "KKR Credit (Infrastructure)",
+      "website": "https://www.kkr.com/businesses/credit",
+      "type": "lender",
+      "priority": "A",
+      "description": "KKR's credit and infrastructure investment arm. $200B+ credit AUM. Active in digital infrastructure and GPU cloud financing.",
+      "headquarters": "New York, NY, USA",
+      "qualification_score": 91,
+      "key_contacts": [
+        { "name": "Dan Pietrzak", "title": "Co-Head, Private Credit, KKR", "email_guess": "dan.pietrzak@kkr.com" }
+      ],
+      "corgi_fit_rationale": "Major infrastructure credit investor with growing GPU exposure. RVG protects collateral in GPU-backed loans. KKR's scale means large potential volume.",
+      "industry_segment": "Lender — Infrastructure Credit"
+    }
+  ]
+}

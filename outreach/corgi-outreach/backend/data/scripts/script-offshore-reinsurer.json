@@ -1,0 +1,141 @@
+{
+  "id": "offshore-reinsurer-cold-call-v1",
+  "name": "Offshore Reinsurer Cold Call (Cayman / Bermuda Direct)",
+  "targetAudience": "offshore-reinsurer",
+  "description": "Short, direct script for Cayman/Bermuda reinsurers. 10 nodes. Peer-to-peer tone — no education layer, no Lloyd's formality. These markets know RV. Goal: confirm fit, pitch the structure, and get the underwriting package in their hands. Core message: proven RV structure, new asset class, $3.465B ceded limit, going direct.",
+  "variables": ["company", "contact_name", "title"],
+  "entryNode": 1,
+  "nodes": [
+    {
+      "id": 1,
+      "type": "gate-check",
+      "label": "Right person?",
+      "script": "Hi, this is [caller] from Corgi Insurance Services. I'm looking for whoever handles new RV or equipment program submissions — is that you?",
+      "branches": [
+        { "condition": "yes / that's me", "next": 2 },
+        { "condition": "wrong person", "next": 9 },
+        { "condition": "bad time", "next": 3 }
+      ]
+    },
+    {
+      "id": 2,
+      "type": "hook",
+      "label": "Direct program pitch",
+      "script": "We're building a reinsurance tower for a GPU Residual Value Guaranty program — $3.465B of ceded limit. The structure is auto RV applied to data-center GPUs: put-style floor on hardware value at expiry, SiliconNavigator™ benchmarks the value test, title transfer at settlement eliminates moral hazard. Per-cohort occurrence basis, tranched rollout. Issuing carrier is DIAIC, program manager is Corgi. We've raised $108M. We're going direct to Cayman and Bermuda because the structure is clean and you don't need an intermediary to evaluate it. Are you looking at new RV programs?",
+      "branches": [
+        { "condition": "yes / interested / tell me more", "next": 4 },
+        { "condition": "what's the underlying data / pricing basis", "next": 5 },
+        { "condition": "how big is the program / capacity targets", "next": 6 },
+        { "condition": "who's the carrier", "next": 7 },
+        { "condition": "not our space / no", "next": 10 }
+      ]
+    },
+    {
+      "id": 3,
+      "type": "time-check",
+      "label": "Bad time",
+      "script": "No problem. We're building a reinsurance tower for a GPU RV program — $3.465B of ceded limit — and going direct to Cayman and Bermuda for capacity. Worth 15 minutes when you have it. When works?",
+      "branches": [
+        { "condition": "gives a time", "next": "SCHEDULE_CALLBACK" },
+        { "condition": "send email", "next": "SEND_COLD_EMAIL" },
+        { "condition": "hard no", "next": 10 }
+      ]
+    },
+    {
+      "id": 4,
+      "type": "program-detail",
+      "label": "Program structure",
+      "script": "The structure: GPU hardware depreciates at ~20% per year. We write a put-style floor — 5%, 10%, or 15% of original purchase price — over 3-, 5-, or 10-year terms. At expiry, SiliconNavigator™ benchmarks the market value. If it's below the floor, we pay the guaranteed amount and take title to the hardware. Title transfer eliminates moral hazard completely. Per-cohort occurrence means each hardware batch is a discrete event — no cross-site accumulation. Monte Carlo-modelled across normal depreciation and generation-cycle shock scenarios. Want the actuarial package?",
+      "branches": [
+        { "condition": "yes / send it", "next": 8 },
+        { "condition": "what's the pricing benchmark", "next": 5 },
+        { "condition": "capacity targets", "next": 6 },
+        { "condition": "who's the carrier", "next": 7 }
+      ]
+    },
+    {
+      "id": 5,
+      "type": "data",
+      "label": "SiliconNavigator pricing data",
+      "script": "SiliconNavigator™ is the secondary market benchmark for H100 and A100 GPUs — 80%+ market coverage, daily pricing, 3+ years of history. It's the index we use for the value test at expiry. Fully independent, auditable, transparent — your team verifies the loss calculation without relying on our numbers. No black-box valuation.",
+      "branches": [
+        { "condition": "OK / workable / good enough", "next": 8 },
+        { "condition": "capacity targets", "next": 6 },
+        { "condition": "who's the carrier", "next": 7 }
+      ]
+    },
+    {
+      "id": 6,
+      "type": "capacity",
+      "label": "Program size and capacity",
+      "script": "We're targeting $3.465B of total ceded limit across the full tower, built in tranched layers — no single reinsurer takes the whole book. We're looking for quota share partners at each layer. What does {company}'s appetite look like for a new RV program in the tech/equipment space?",
+      "branches": [
+        { "condition": "gives appetite / might fit", "next": 8 },
+        { "condition": "need to see the actuarial package first", "next": 8 },
+        { "condition": "too small / below minimum", "next": 10 }
+      ]
+    },
+    {
+      "id": 7,
+      "type": "carrier",
+      "label": "Carrier and program manager",
+      "script": "Issuing carrier is DIAIC — Digital Infrastructure Assurance Insurance Company, Utah-domiciled captive. Corgi Insurance Services is the program manager. We've raised $108M to capitalize the program. Full financials are in the underwriting package.",
+      "branches": [
+        { "condition": "OK / send it", "next": 8 },
+        { "condition": "tell me more about the structure", "next": 4 }
+      ]
+    },
+    {
+      "id": 8,
+      "type": "package-send",
+      "label": "Send underwriting package",
+      "script": "I'll get you the full package today — actuarial model, Monte Carlo loss distributions, SiliconNavigator pricing methodology, treaty structure, DIAIC financials. Who's the right person to receive it, and when would be a good time for a 20-minute call to walk through it?",
+      "branches": [
+        { "condition": "gives contact / time", "next": "BOOK_MEETING" },
+        { "condition": "just send it / we'll review first", "next": "SEND_PACKAGE_THEN_FOLLOWUP" }
+      ]
+    },
+    {
+      "id": 9,
+      "type": "wrong-person",
+      "label": "Wrong person",
+      "script": "No problem. Who at {company} handles new RV or equipment program submissions?",
+      "branches": [
+        { "condition": "gives name", "next": "UPDATE_CONTACT_AND_RESTART" },
+        { "condition": "can't help", "next": 10 }
+      ]
+    },
+    {
+      "id": 10,
+      "type": "graceful-exit",
+      "label": "Exit",
+      "script": "Understood. If GPU RV capacity becomes relevant for {company}, Corgi Insurance Services — worth a call. Thanks.",
+      "branches": [],
+      "terminal": true
+    }
+  ],
+  "objectionHandlers": {
+    "no_gpu_history": {
+      "trigger": "no historical data / too new / no loss history",
+      "response": "The data we have is SiliconNavigator — 3+ years of daily secondary market prices, 80%+ H100/A100 coverage. Monte Carlo modelled across normal depreciation and generation-cycle shock. Title transfer eliminates moral hazard structurally. The actuarial package is built to reinsurance standard. Want me to send it?",
+      "next": 8
+    },
+    "systemic_risk": {
+      "trigger": "systemic / what if GPU market crashes / correlated losses",
+      "response": "Per-cohort occurrence means no cross-site sweep. A market-wide correction produces multiple cohort claims bounded by the book written in that treaty year — same as any equipment RV down cycle. The Monte Carlo models a 30-50% market-wide shock scenario explicitly. It's in the actuarial package.",
+      "next": 8
+    },
+    "moral_hazard": {
+      "trigger": "moral hazard / what stops people from filing false claims",
+      "response": "Title transfer at settlement. To collect, the insured surrenders the hardware. You can't claim on hardware you're still using. Real economic constraint — structurally eliminates the incentive.",
+      "next": 8
+    }
+  },
+  "exitStates": {
+    "BOOK_MEETING": "Log meeting, send calendar invite, send full underwriting package same day",
+    "SEND_PACKAGE_THEN_FOLLOWUP": "Send actuarial package + DIAIC financials today, follow up in 3 days",
+    "SEND_COLD_EMAIL": "Send cold_intro_offshore_reinsurer.hbs",
+    "SCHEDULE_CALLBACK": "Log callback in CRM",
+    "UPDATE_CONTACT_AND_RESTART": "Update CRM, restart from node 1"
+  }
+}

@@ -1,0 +1,608 @@
+{
+  "discovery_date": "2026-03-21",
+  "researcher": "offshore-reinsurers-subagent",
+  "notes": "Initial batch — Cayman P&C reinsurers and additional Bermuda reinsurers NOT already in Corgi's existing database. Life/annuity-only entities excluded. Run-off specialists included at low priority. Further contact enrichment recommended.",
+  "companies": [
+
+    {
+      "name": "Greenlight Reinsurance Ltd.",
+      "website": "https://greenlightre.com",
+      "type": "reinsurer",
+      "domicile": "cayman",
+      "priority": "A",
+      "description": "NASDAQ-listed specialist P&C reinsurer domiciled in the Cayman Islands (with Ireland and UK offices). Founded 2004, backed by David Einhorn's Greenlight Capital. A.M. Best A- (Excellent). Cayman office services US and international cedants across property, casualty, financial risks, and agriculture. Specialty Credit & Surety, Transactional Liability, General Liability, Workers Comp, Mortgage. Net income $74.8M in 2025 (record). Greenlight Re Innovations arm invests in insurtech.",
+      "headquarters": "94 Solaris Avenue, Camana Bay, Grand Cayman KY1-9006, Cayman Islands",
+      "qualification_score": 85,
+      "key_contacts": [
+        {
+          "name": "Simon Burton",
+          "title": "Chief Executive Officer",
+          "email_guess": "simon.burton@greenlightre.com"
+        },
+        {
+          "name": "Neil Greenspan",
+          "title": "Chief Financial Officer",
+          "email_guess": "neil.greenspan@greenlightre.com"
+        }
+      ],
+      "corgi_fit_rationale": "Writes Specialty Credit & Surety and Transactional Liability — directly analogous to GPU Residual Value Guaranty. Financial risk lines are core to their Cayman book. Innovative culture (Greenlight Re Innovations) suggests openness to novel tech-backed products. A- rated, publicly listed = credible capacity. Go-direct in Cayman per supervisor guidance.",
+      "p_and_c_focus": true,
+      "specialty_lines": "General Liability, Workers Comp, Mortgage, Specialty Credit & Surety, Transactional Liability, North American Crop, Property Catastrophe, Marine/Energy, Space, Aviation, Terrorism, Non-Standard Auto",
+      "go_direct_feasibility": "high"
+    },
+
+    {
+      "name": "Barents Re Reinsurance Company, Inc.",
+      "website": "https://barentsre.com",
+      "type": "reinsurer",
+      "domicile": "cayman",
+      "priority": "A",
+      "description": "Independent P&C reinsurance group domiciled in Cayman Islands (re-domiciled from Panama in 2018, Class D insurer). Founded 1996. A.M. Best A (Excellent), S&P A-. 650+ reinsurance connections in 75 countries; primary focus on Europe, Middle East, and Latin America. Niche and specialty P&C: Bonds, Energy, Construction & Engineering, Financial Lines, Marine Cargo, Property. GEO: 978 South Church Street, George Town, Grand Cayman.",
+      "headquarters": "978 South Church Street, Block 7D, P.O. Box 10954, George Town, Grand Cayman KY1-1007, Cayman Islands",
+      "qualification_score": 82,
+      "key_contacts": [
+        {
+          "name": "Luis De Berardinis",
+          "title": "Chief Executive Officer",
+          "email_guess": "ldeberardinis@barentsre.com"
+        }
+      ],
+      "corgi_fit_rationale": "Core competency in Financial Lines and Bonds/Surety — closest traditional analog to GPU Residual Value Guaranty. Strong balance sheet (shareholders' equity ~$550M in 2021). Specialty-only shop willing to underwrite non-standard risks. Class D Cayman = go direct with minimal friction. Latin America / EMEA focus adds diversification they may seek from US-sourced tech risk.",
+      "p_and_c_focus": true,
+      "specialty_lines": "Bonds, Energy, Construction & Engineering, Financial Lines, Life and A&H, Marine Cargo, Property",
+      "go_direct_feasibility": "high"
+    },
+
+    {
+      "name": "Accelerant Re (Cayman) Ltd.",
+      "website": "https://accelerant.ai",
+      "type": "reinsurer",
+      "domicile": "cayman",
+      "priority": "B",
+      "description": "Cayman Islands Class D reinsurer (switched from Bermuda in 2024 due to Bermuda corporate income tax). MGA-capacity focused platform. A.M. Best A- (Excellent). Also operates Flywheel Re, a collateralized ILS sidecar (~$175M capital) launched 2022 as Cayman Class C. Provides insurance capacity to MGAs in UK, EU, and North America. High dependence on reinsurance cessions; conservative net retention.",
+      "headquarters": "Grand Cayman, Cayman Islands",
+      "qualification_score": 72,
+      "key_contacts": [
+        {
+          "name": "Jeff Radke",
+          "title": "Chief Executive Officer",
+          "email_guess": "jeff.radke@accelerant.ai"
+        }
+      ],
+      "corgi_fit_rationale": "Accelerant backs MGAs and specialty programs — GPU RVG fits as a program business structure. Their MGA-centric model means they evaluate novel specialty products regularly. Flywheel Re sidecar adds ILS-style capacity that could participate. Insurtech-native culture. However, they primarily enable others to underwrite rather than holding major risk themselves.",
+      "p_and_c_focus": true,
+      "specialty_lines": "Specialty P&C via MGA panel (UK, EU, North America); property, casualty, specialty lines across multiple verticals",
+      "go_direct_feasibility": "medium"
+    },
+
+    {
+      "name": "Longtail Re (Cayman) SPC Ltd.",
+      "website": "https://stoneridgefunds.com",
+      "type": "reinsurer",
+      "domicile": "cayman",
+      "priority": "B",
+      "description": "Cayman Islands Class B segregated portfolio company (SPC) registered August 2019, part of Stone Ridge Asset Management's reinsurance platform. ILS-backed casualty reinsurer led by former TransRe CEO Mike Sapnar. ~$4B AUM expected end 2025. Stone Ridge owners/employees own 40%+ and have $1B+ in strategies. Also has Longtail Insurance Holdings (Bermuda). Focuses on long-tail casualty reinsurance and legacy runoff. CIRCA board member.",
+      "headquarters": "Grand Cayman, Cayman Islands (SPC); Hamilton, Bermuda (holding company)",
+      "qualification_score": 65,
+      "key_contacts": [
+        {
+          "name": "Mike Sapnar",
+          "title": "Chief Executive Officer",
+          "email_guess": "msapnar@longtailre.com"
+        }
+      ],
+      "corgi_fit_rationale": "Casualty-focused ILS vehicle with innovative appetite. GPU RVG is a short-to-medium tail risk vs their long-tail focus, which may actually be an appeal (improves their duration profile). Stone Ridge's quantitative approach may model GPU depreciation risk well. CIRCA member = go-direct Cayman channel. Leadership from TransRe = credibility in treaty business.",
+      "p_and_c_focus": true,
+      "specialty_lines": "Long-tail casualty reinsurance, legacy portfolio acquisitions, innovative casualty ILS structures",
+      "go_direct_feasibility": "medium"
+    },
+
+    {
+      "name": "Bison Reinsurance Company, Ltd.",
+      "website": "https://www.aon.com/insurance-management",
+      "type": "reinsurer",
+      "domicile": "cayman",
+      "priority": "C",
+      "description": "Cayman Islands licensed reinsurer managed by Aon Insurance Managers (Cayman) Ltd. CIMA-licensed. Limited public information — captive-style structure managed through Aon's Cayman platform. Appears in CIMA insurance licensee registry.",
+      "headquarters": "Grand Cayman, Cayman Islands (c/o Aon Insurance Managers)",
+      "qualification_score": 52,
+      "key_contacts": [
+        {
+          "name": "Aon Insurance Managers (Cayman) Ltd.",
+          "title": "Insurance Manager",
+          "email_guess": "cayman.insurance@aon.com"
+        }
+      ],
+      "corgi_fit_rationale": "Managed through Aon's Cayman operation, which means the approach may go via Aon reinsurance channels anyway. Captive-style structure limits third-party capacity appetite. Worth flagging to Aon broker relationship.",
+      "p_and_c_focus": true,
+      "specialty_lines": "Unknown — likely specialty P&C given Cayman P&C reinsurer classification",
+      "go_direct_feasibility": "low"
+    },
+
+    {
+      "name": "Hamilton Re, Ltd.",
+      "website": "https://www.hamiltongroup.com/hamilton-re",
+      "type": "reinsurer",
+      "domicile": "bermuda",
+      "priority": "A",
+      "description": "Bermuda Class 4 insurer/reinsurer; A.M. Best A (Excellent), KBRA A. Part of Hamilton Insurance Group (NYSE: HG), $2.4B GWP in 2024. Writes property, casualty and specialty reinsurance globally. Specialty reinsurance includes: accident & health, aviation/space, crisis management, mortgage, financial risks, marine/energy, multiline specialty. Recently expanded into Credit, Bond and Political Risk reinsurance. Two platforms: Hamilton Re (Bermuda) and Hamilton Global Specialty.",
+      "headquarters": "Hamilton, Bermuda",
+      "qualification_score": 88,
+      "key_contacts": [
+        {
+          "name": "Pina Albo",
+          "title": "Group Chief Executive Officer",
+          "email_guess": "palbo@hamiltongroup.com"
+        },
+        {
+          "name": "Jesce Samson",
+          "title": "Head of Specialty Reinsurance, Bermuda",
+          "email_guess": "jsamson@hamiltongroup.com"
+        }
+      ],
+      "corgi_fit_rationale": "Financial Risks and Specialty reinsurance are core lines — GPU RVG is a natural extension of their financial risk/equipment value book. Recent expansion into Credit, Bond and Political Risk shows appetite for financial-instrument-adjacent risks. Publicly traded, well-capitalized ($2.4B GWP). Bermuda Class 4 = go direct with straightforward engagement. Strong underwriting culture for novel specialty risks.",
+      "p_and_c_focus": true,
+      "specialty_lines": "Property cat, casualty, financial risks, mortgage, credit/bond/political risk, marine/energy, aviation/space, A&H, crisis management",
+      "go_direct_feasibility": "high"
+    },
+
+    {
+      "name": "Ariel Re Group Ltd.",
+      "website": "https://www.arielre.com",
+      "type": "reinsurer",
+      "domicile": "bermuda",
+      "priority": "A",
+      "description": "Multi-line specialty Bermuda reinsurer (Class 4, founded 2005) with offices in Bermuda, London, Hong Kong. Primarily short-tail, low-frequency/high-severity XL reinsurance. Can commit up to $200M per line. Specialty includes: property cat, cyber, marine/energy, aviation, political risk/terrorism. Notably operates Technology Performance Insurance (TPI) consortium via Lloyd's for clean energy — covers production shortfalls from technology failures. A.M. Best rated. ABIR member.",
+      "headquarters": "Pembroke, Bermuda",
+      "qualification_score": 87,
+      "key_contacts": [
+        {
+          "name": "Don Argondizzo",
+          "title": "Chief Executive Officer",
+          "email_guess": "d.argondizzo@arielre.com"
+        },
+        {
+          "name": "John Millette",
+          "title": "Head of Specialty Reinsurance",
+          "email_guess": "j.millette@arielre.com"
+        }
+      ],
+      "corgi_fit_rationale": "CRITICAL TARGET: Ariel Re writes Technology Performance Insurance (TPI) — coverage for technology shortfalls/failures. GPU Residual Value Guaranty is structurally identical: technology asset performing below expected value triggers payout. Their TPI consortium precedent (clean energy tech) is the closest existing analog in the market. $200M capacity commitment capability. Short-tail XL focus = favorable loss profile for GPU RVG.",
+      "p_and_c_focus": true,
+      "specialty_lines": "Property catastrophe, cyber, marine/energy, aviation, terrorism/political risk, Technology Performance Insurance (TPI)",
+      "go_direct_feasibility": "high"
+    },
+
+    {
+      "name": "Awbury Insurance Ltd.",
+      "website": "https://www.awbury.com",
+      "type": "reinsurer",
+      "domicile": "bermuda",
+      "priority": "A",
+      "description": "Bermuda-domiciled specialist financial lines and economic catastrophe insurer/reinsurer. Class 3B segregated account insurer (BMA). ABIR member. Focused on 'unique and non-traditional financial risks': specialty trade credit, supplier default protection, performance risk, surety, collateral replacement, liquidity/capital optimization. Also covers private equity fund performance risk. Lloyd's Syndicate 2025 targeting European banks/asset managers. Led by President David Ensor.",
+      "headquarters": "Hamilton, Bermuda",
+      "qualification_score": 90,
+      "key_contacts": [
+        {
+          "name": "David Ensor",
+          "title": "President",
+          "email_guess": "densor@awbury.com"
+        },
+        {
+          "name": "Tom Hulst",
+          "title": "Chief Executive Officer",
+          "email_guess": "thulst@awbury.com"
+        }
+      ],
+      "corgi_fit_rationale": "HIGHEST PRIORITY TARGET: Awbury's entire thesis is 'unique and non-traditional financial risks.' Their specialty trade credit, performance risk, surety, and collateral replacement products are DIRECTLY analogous to GPU RVG. They already underwrite equipment/asset performance and fund-level risks. Segregated account structure enables bespoke program design. GPU RVG is exactly the kind of novel financial-instrument-adjacent risk they seek.",
+      "p_and_c_focus": true,
+      "specialty_lines": "Specialty trade credit, supplier default protection, performance risk, surety, collateral replacement, liquidity/capital optimization, private equity fund performance",
+      "go_direct_feasibility": "high"
+    },
+
+    {
+      "name": "Brit Re (Bermuda)",
+      "website": "https://www.britinsurance.com/brit-group/brit-re",
+      "type": "reinsurer",
+      "domicile": "bermuda",
+      "priority": "B",
+      "description": "A-rated Bermuda reinsurer within Brit Group (owned by Fairfax Financial). Writes property, casualty, and specialty reinsurance for US and Bermuda-based clients, plus global facultative. Specialty: marine, energy, aviation, financial institutions, technology. In Jan 2026 launched property D&F in Bermuda for complex US risks. Financial institutions coverage: crime, PI, D&O for banks, asset managers. Tech coverage: Technology Professional Liability, Media Liability, Network Security. ABIR member.",
+      "headquarters": "Hamilton, Bermuda",
+      "qualification_score": 75,
+      "key_contacts": [
+        {
+          "name": "Matthew Wilson",
+          "title": "Group CEO, Brit Insurance",
+          "email_guess": "matthew.wilson@britinsurance.com"
+        },
+        {
+          "name": "Ian Gormley",
+          "title": "CEO, Brit Re (Bermuda)",
+          "email_guess": "ian.gormley@britinsurance.com"
+        }
+      ],
+      "corgi_fit_rationale": "Financial institutions and technology insurance are active lines. GPU RVG sits at intersection of equipment finance and tech risk — fits their FI + Tech lines. Fairfax parent = patient capital, willing to back innovative programs. Bermuda Class 4 direct engagement possible. Recently expanding Bermuda platform = actively seeking new capacity deployment.",
+      "p_and_c_focus": true,
+      "specialty_lines": "Property treaty, casualty treaty, specialty, marine/energy, aviation, financial institutions, technology PI, cyber, D&O",
+      "go_direct_feasibility": "medium"
+    },
+
+    {
+      "name": "Hiscox Re & ILS",
+      "website": "https://www.hiscoxre.com",
+      "type": "reinsurer",
+      "domicile": "bermuda",
+      "priority": "B",
+      "description": "Bermuda and London-based reinsurance business within Hiscox Group. ~150 professionals. ILS platform formalized 2025. Writes property, specialty, cat, casualty, and marine through both Bermuda and Lloyd's (Syndicate 33). ILS AUM $1.5B (back to peak). ABIR member. Known for innovative specialty underwriting, GenAI-enhanced lead underwriting models. Head of Specialty promoted 2025.",
+      "headquarters": "Hamilton, Bermuda (also London)",
+      "qualification_score": 74,
+      "key_contacts": [
+        {
+          "name": "Aki Hussain",
+          "title": "Group CEO, Hiscox",
+          "email_guess": "aki.hussain@hiscox.com"
+        },
+        {
+          "name": "Conor Husbands",
+          "title": "Head of Specialty, Hiscox Re",
+          "email_guess": "conor.husbands@hiscoxre.com"
+        }
+      ],
+      "corgi_fit_rationale": "Active in specialty lines and ILS; technology-forward culture. GPU RVG would fit specialty treaty or quota share if sized appropriately. ILS platform could structure Hiscox-backed sidecar for GPU risk. However Hiscox Re focuses on cat/property first — GPU RVG would need to be positioned as specialty financial risk. Go direct via Bermuda office.",
+      "p_and_c_focus": true,
+      "specialty_lines": "Property cat, retro, marine, casualty, cyber, specialty, ILS/collateralized",
+      "go_direct_feasibility": "medium"
+    },
+
+    {
+      "name": "Mosaic Insurance",
+      "website": "https://www.mosaicinsurance.com",
+      "type": "reinsurer",
+      "domicile": "bermuda",
+      "priority": "B",
+      "description": "Next-generation global specialty insurer/reinsurer with hubs in Bermuda, London, US, and Asia. Lloyd's Syndicate 1609 combined with Bermuda platform. Founded by Mitch Blaser. 8 specialty product lines: cyber, environmental liability, transactional liability, political risk, political violence, financial institutions, professional liability, and (new 2026) excess casualty. Up to $20M capacity per risk on financial lines. Uses blockchain, ML, and advanced analytics. ABIR member.",
+      "headquarters": "Hamilton, Bermuda",
+      "qualification_score": 78,
+      "key_contacts": [
+        {
+          "name": "Mitch Blaser",
+          "title": "Co-CEO and Co-Founder",
+          "email_guess": "mblaser@mosaicinsurance.com"
+        },
+        {
+          "name": "April Andruczyk",
+          "title": "Head of Bermuda, Excess Casualty",
+          "email_guess": "aandruczyk@mosaicinsurance.com"
+        }
+      ],
+      "corgi_fit_rationale": "Transactional liability, financial institutions, and professional liability are core lines. GPU RVG is a transactional/financial guarantee product — squarely in Mosaic's wheelhouse. Insurtech DNA means they'll evaluate novel data-driven products. IMI form covering PE managers/funds shows comfort with asset value risk. Up to $20M/risk capacity per line in Bermuda.",
+      "p_and_c_focus": true,
+      "specialty_lines": "Cyber, environmental liability, transactional liability, political risk/violence, financial institutions, professional liability, excess casualty",
+      "go_direct_feasibility": "medium"
+    },
+
+    {
+      "name": "Somers Re Ltd.",
+      "website": "https://somersgroup.com/reinsurance",
+      "type": "reinsurer",
+      "domicile": "bermuda",
+      "priority": "B",
+      "description": "Bermuda-headquartered specialty P&C reinsurer (formerly Watford Re, rebranded 2021). Owned by Arch Capital Group, Kelso & Company, and Warburg Pincus. A.M. Best A- (Excellent), KBRA A. $1.3B GWP in 2024 (up from $1.05B). Underwriting performed by Arch Capital subsidiaries. Lines: specialty reinsurance, international/US casualty, property, marine/energy, professional lines (D&O, E&O, EPLI, cyber). ABIR member.",
+      "headquarters": "Hamilton, Bermuda",
+      "qualification_score": 73,
+      "key_contacts": [
+        {
+          "name": "Arch Capital Reinsurance",
+          "title": "Underwriting Manager",
+          "email_guess": "reinsurance@archgroup.com"
+        }
+      ],
+      "corgi_fit_rationale": "Professional lines and specialty reinsurance are active — GPU RVG fits in specialty/professional risk bucket. Arch Capital underwriting expertise provides quality risk assessment capability. $1.3B GWP scale means meaningful capacity available. However, underwriting is done through Arch (already in their DB as Arch Re) — may require approach through Arch channel.",
+      "p_and_c_focus": true,
+      "specialty_lines": "Specialty reinsurance, international casualty, US casualty, property, marine/energy, professional lines (D&O, E&O, EPLI, cyber)",
+      "go_direct_feasibility": "medium"
+    },
+
+    {
+      "name": "Aeolus Capital Management Ltd.",
+      "website": "https://aeolus.com",
+      "type": "reinsurer",
+      "domicile": "bermuda",
+      "priority": "B",
+      "description": "Bermuda-based specialist ILS/collateralized reinsurance manager. Top-10 ILS fund manager globally, $5.5B AUM (40%+ growth recently). Led by CEO Andrew Bernstein. Offers bespoke collateralized reinsurance and retrocession products. Focused on non-correlated alternative risk. ABIR member. Cornell research partnership for cat modeling shows quantitative rigor.",
+      "headquarters": "Hamilton, Bermuda",
+      "qualification_score": 68,
+      "key_contacts": [
+        {
+          "name": "Andrew Bernstein",
+          "title": "Chief Executive Officer",
+          "email_guess": "abernstein@aeolus.com"
+        }
+      ],
+      "corgi_fit_rationale": "ILS/collateralized structures could be ideal for GPU RVG — Aeolus can structure bespoke, non-correlated capacity outside traditional treaty markets. GPU depreciation risk is completely uncorrelated with property cat (their core book) = attractive diversifier. $5.5B AUM means substantial capacity. However, primarily focused on property cat; new risk class would require bespoke ILS structure build.",
+      "p_and_c_focus": true,
+      "specialty_lines": "Collateralized reinsurance, retrocession, property catastrophe, ILS structures",
+      "go_direct_feasibility": "medium"
+    },
+
+    {
+      "name": "Fortitude Re (Fortitude Reinsurance Company Ltd.)",
+      "website": "https://fortitude-re.com",
+      "type": "reinsurer",
+      "domicile": "bermuda",
+      "priority": "C",
+      "description": "Bermuda's largest multi-line reinsurer by AUM ($100B+ reinsured since inception). Founded 2017. Backed by Carlyle Group and T&D Insurance Group. Composite license (life & P&C). Originally structured to reinsure AIG's legacy L&A and casualty liabilities. Now executes bespoke transactional solutions for legacy blocks. 550+ professionals. ABIR member.",
+      "headquarters": "Pembroke, Bermuda",
+      "qualification_score": 55,
+      "key_contacts": [
+        {
+          "name": "James Bracken",
+          "title": "Chief Executive Officer",
+          "email_guess": "jbracken@fortitude-re.com"
+        }
+      ],
+      "corgi_fit_rationale": "Primarily a legacy/run-off reinsurer focused on large block acquisitions — not a primary fit for new program business. However, Carlyle Group backing means access to alternative capital that could be structured for non-traditional risks. Their loss portfolio transfer (LPT) expertise could be relevant if Corgi eventually needs portfolio-level protection. Low priority for initial outreach.",
+      "p_and_c_focus": true,
+      "specialty_lines": "Legacy P&C run-off, loss portfolio transfers, casualty reinsurance blocks, life & annuity legacy",
+      "go_direct_feasibility": "low"
+    },
+
+    {
+      "name": "Premia Holdings Ltd.",
+      "website": "https://premiaholdings.com",
+      "type": "reinsurer",
+      "domicile": "bermuda",
+      "priority": "C",
+      "description": "Bermuda Class 4 specialty reinsurer focused exclusively on acquiring non-life run-off liabilities. Founded 2017 with $510M initial capital. Backed by Arch Capital and Kelso & Company. KBRA A- rating. CEO Bill O'Farrell (ex-ACE/Chubb Chief Reinsurance Officer). Eschews property catastrophe exposure; focuses on less-volatile casualty run-off lines. 22% financial leverage. ABIR member.",
+      "headquarters": "Hamilton, Bermuda",
+      "qualification_score": 50,
+      "key_contacts": [
+        {
+          "name": "Bill O'Farrell",
+          "title": "Chief Executive Officer",
+          "email_guess": "bofarrell@premiaholdings.com"
+        }
+      ],
+      "corgi_fit_rationale": "Run-off only shop — will not write new program business. Not a fit for Corgi's capacity needs. Include only for future reference if Corgi seeks a legacy block solution for seasoned portfolio. No near-term outreach recommended.",
+      "p_and_c_focus": true,
+      "specialty_lines": "Non-life run-off, casualty legacy portfolios, loss portfolio transfers",
+      "go_direct_feasibility": "low"
+    },
+
+    {
+      "name": "Canopius Reinsurance (Bermuda)",
+      "website": "https://www.canopius.com",
+      "type": "reinsurer",
+      "domicile": "bermuda",
+      "priority": "B",
+      "description": "Global specialty insurer/reinsurer with significant Bermuda presence. ABIR member. Backed by Centerbridge Partners. Lloyd's Syndicate 4444 and Bermuda entity. Specialty lines: property, casualty, specialty (marine, aviation, space, cyber, political risk, financial lines). Known for innovative underwriting approach in specialty lines. Bermuda platform actively growing.",
+      "headquarters": "Hamilton, Bermuda",
+      "qualification_score": 72,
+      "key_contacts": [
+        {
+          "name": "Neil Robertson",
+          "title": "Group Chief Executive Officer",
+          "email_guess": "neil.robertson@canopius.com"
+        }
+      ],
+      "corgi_fit_rationale": "Financial lines and specialty reinsurance are active. Canopius has written novel specialty structures. GPU RVG as specialty financial guarantee fits their innovation mandate. Bermuda platform + Lloyd's dual capacity means larger aggregate line possible. ABIR member = direct engagement pathway.",
+      "p_and_c_focus": true,
+      "specialty_lines": "Property, casualty, marine, aviation, space, cyber, political risk, financial lines, specialty",
+      "go_direct_feasibility": "medium"
+    },
+
+    {
+      "name": "Ascot Group (Bermuda)",
+      "website": "https://www.ascotgroup.com",
+      "type": "reinsurer",
+      "domicile": "bermuda",
+      "priority": "B",
+      "description": "Bermuda-based specialty (re)insurer backed by Canada Pension Plan Investment Board (CPP Investments). ABIR member. Writes specialty insurance and reinsurance through Bermuda, Lloyd's, and US platforms. Lines: property, casualty, specialty (tech, cyber, marine, energy, aviation). Known for technology and financial lines appetite. Strong capitalization from CPPIB backing.",
+      "headquarters": "Hamilton, Bermuda",
+      "qualification_score": 74,
+      "key_contacts": [
+        {
+          "name": "Andrew Brooks",
+          "title": "Chief Executive Officer",
+          "email_guess": "abrooks@ascotgroup.com"
+        }
+      ],
+      "corgi_fit_rationale": "Specialty tech and financial lines, CPPIB long-term capital backing means patience for novel risk classes. GPU infrastructure is exactly the kind of technology-adjacent specialty risk Ascot targets. Bermuda direct engagement feasible. CPPIB mandate for infrastructure/tech investments aligns with GPU capacity themes.",
+      "p_and_c_focus": true,
+      "specialty_lines": "Property, casualty, marine, energy, aviation, technology, cyber, specialty",
+      "go_direct_feasibility": "medium"
+    },
+
+    {
+      "name": "Argo Group International Holdings (Bermuda)",
+      "website": "https://www.argolimited.com",
+      "type": "reinsurer",
+      "domicile": "bermuda",
+      "priority": "C",
+      "description": "Bermuda-headquartered specialty (re)insurance group. ABIR member. Writes specialty property/casualty across US, international, and run-off segments. Lines include surety, professional liability, technology, environmental. Underwent significant restructuring 2023-2024 (sold Lloyd's business, focused on US specialty). Rating under pressure — recent downgrades. ~$1.7B GWP.",
+      "headquarters": "Hamilton, Bermuda",
+      "qualification_score": 58,
+      "key_contacts": [
+        {
+          "name": "Thomas Bradley",
+          "title": "Chief Executive Officer",
+          "email_guess": "thomas.bradley@argolimited.com"
+        }
+      ],
+      "corgi_fit_rationale": "Surety and technology lines could be relevant for GPU RVG. However, Argo is in restructuring mode — capacity appetite uncertain. Rating pressure reduces confidence. Lower priority for initial outreach; revisit if they stabilize.",
+      "p_and_c_focus": true,
+      "specialty_lines": "Surety, professional liability, technology, environmental, casualty specialty",
+      "go_direct_feasibility": "medium"
+    },
+
+    {
+      "name": "White Mountains Insurance Group (Bermuda)",
+      "website": "https://www.whitemountains.com",
+      "type": "reinsurer",
+      "domicile": "bermuda",
+      "priority": "C",
+      "description": "Bermuda-based holding company for specialty insurance operations (NYSE: WTM). ABIR member. Owns HG Global/BAM (bond guaranty), Ark Insurance (Lloyd's/Bermuda specialty), and various other specialty platforms. Patient, value-oriented capital deployment. Ark Bermuda writes specialty P&C. Known for backing novel insurance businesses.",
+      "headquarters": "Hamilton, Bermuda",
+      "qualification_score": 63,
+      "key_contacts": [
+        {
+          "name": "Manning Rountree",
+          "title": "Chief Executive Officer",
+          "email_guess": "mrountree@whitemountains.com"
+        }
+      ],
+      "corgi_fit_rationale": "White Mountains has deep financial guarantee DNA (BAM) and backs novel specialty insurance businesses. GPU RVG as a financial guaranty/specialty product could attract their interest as a platform investment or capacity provider. Patient capital = willing to support novel risk development. Ark Bermuda provides the underwriting vehicle.",
+      "p_and_c_focus": true,
+      "specialty_lines": "Bond guaranty, specialty P&C (via Ark), financial guarantee, cat risk",
+      "go_direct_feasibility": "medium"
+    },
+
+    {
+      "name": "Assured Guaranty Re Overseas Ltd. (AGRO)",
+      "website": "https://assuredguaranty.com/businesses/reinsurance",
+      "type": "reinsurer",
+      "domicile": "bermuda",
+      "priority": "A",
+      "description": "Bermuda-domiciled subsidiary of Assured Guaranty Re Ltd. (world's largest financial guaranty reinsurer). Class 3A and Class C (Long-Term) Bermuda insurer. A.M. Best and S&P Global rated. Specialty focus: (1) commercial aircraft RESIDUAL VALUE INSURANCE (RVI) to institutional investors, direct and as reinsurance; (2) financial guaranty reinsurance; (3) life insurance capital relief. Parent Assured Guaranty is AA-rated, $100B+ insured portfolio. ABIR member.",
+      "headquarters": "Hamilton, Bermuda",
+      "qualification_score": 97,
+      "key_contacts": [
+        {
+          "name": "Dominic Frederico",
+          "title": "President & CEO, Assured Guaranty Ltd.",
+          "email_guess": "dfrederico@assuredguaranty.com"
+        },
+        {
+          "name": "Robert Tucker",
+          "title": "Managing Director, Specialty Insurance (AGRO)",
+          "email_guess": "rtucker@assuredguaranty.com"
+        }
+      ],
+      "corgi_fit_rationale": "HIGHEST PRIORITY — DIRECT ANALOG: AGRO already writes COMMERCIAL AIRCRAFT RESIDUAL VALUE INSURANCE. GPU RVG is structurally identical to aircraft RVI: guarantees minimum residual value of a depreciating asset at a future date. This is the most direct proof-of-concept in the reinsurance market for exactly what Corgi is building. They understand RVI structuring, have Bermuda regulatory approval for it, and are AA-rated capacity. If they write aircraft RVI, GPU RVI is a natural extension — same product, different tech asset. Approach immediately.",
+      "p_and_c_focus": true,
+      "specialty_lines": "Aircraft residual value insurance (RVI), financial guaranty reinsurance, capital relief (XXX/AXXX), structured finance guarantee",
+      "go_direct_feasibility": "high"
+    },
+
+    {
+      "name": "Topsail Re (Topsail Holdings, Inc.)",
+      "website": "https://topsailre.com",
+      "type": "reinsurer",
+      "domicile": "cayman",
+      "priority": "B",
+      "description": "Closely-held Cayman Islands reinsurer founded late 2018 by former JLT Re/Axiom Re executive David Johnson. Affiliated offices in Greensboro, NC and Schaumburg, IL. Writes $500M+ of P&C reinsurance: quota shares, property cat, per risk, proportional business, property cat retro. Joined Mutual Re's ownership group effective Jan 1, 2026 (backed by Farm Bureau Mutual, Kentucky Farm Bureau, Encova, Mutual Assurance of Virginia). Raised $50M additional equity in 2022. CIRCA board member (Brian Green as Vice Chair 2026).",
+      "headquarters": "Grand Cayman, Cayman Islands (operating offices in Greensboro NC and Schaumburg IL)",
+      "qualification_score": 66,
+      "key_contacts": [
+        {
+          "name": "David Johnson",
+          "title": "Founder & CEO",
+          "email_guess": "djohnson@topsailre.com"
+        },
+        {
+          "name": "Brian Green",
+          "title": "Board Representative / CIRCA Vice Chair",
+          "email_guess": "bgreen@topsailre.com"
+        }
+      ],
+      "corgi_fit_rationale": "Primarily a property cat and quota share reinsurer — not a natural fit for GPU RVG. However, their mutual insurance company backing (Farm Bureau, Encova) and Cayman domicile create an interesting angle. CIRCA membership means they're active in Cayman P&C ecosystem. Proportional/quota share writing model could accommodate a GPU RVG quota share cession structure. Low priority but direct Cayman engagement possible via CIRCA.",
+      "p_and_c_focus": true,
+      "specialty_lines": "Property catastrophe, quota shares, per-risk property, property cat retro",
+      "go_direct_feasibility": "medium"
+    },
+
+    {
+      "name": "Antares Re (Bermuda)",
+      "website": "https://www.antaresmanage.com",
+      "type": "reinsurer",
+      "domicile": "bermuda",
+      "priority": "C",
+      "description": "Bermuda-based specialty reinsurer, ABIR member. Managed by Antares Managing Agency (Lloyd's Syndicate 1274). Backed by GIC (Government of Singapore Investment Corp). Writes specialty lines with Lloyd's integration. Financial lines, professional indemnity, D&O, cyber, property specialty.",
+      "headquarters": "Hamilton, Bermuda",
+      "qualification_score": 62,
+      "key_contacts": [
+        {
+          "name": "Scott Maries",
+          "title": "Chief Executive Officer",
+          "email_guess": "smaries@antaresmanage.com"
+        }
+      ],
+      "corgi_fit_rationale": "Financial lines and specialty reinsurance active. GIC backing means long-term patient capital. Bermuda entity enables direct engagement. GPU RVG could fit in financial/specialty quota share. Medium-term consideration after Priority A/B outreach.",
+      "p_and_c_focus": true,
+      "specialty_lines": "Financial lines, D&O, professional indemnity, cyber, property specialty",
+      "go_direct_feasibility": "medium"
+    },
+
+    {
+      "name": "Northern Reinsurance SPC, Ltd. (Northern Re)",
+      "website": "https://www.northernreins.com",
+      "type": "reinsurer",
+      "domicile": "cayman",
+      "priority": "B",
+      "description": "Cayman Islands-domiciled collateralized reinsurer (Class B(iii) SPC), launched Jan 1, 2023. Wholly owned by NoRe Holdings (NYC). Founded by Anthony McKelvy (ex-Willis Re, Guy Carpenter, Boost Insurance) and Peter McKelvy. Capital raised to $75M after initial $25M. Focus: high-frequency, low-severity risks — personal and commercial auto, general liability, workers compensation, professional lines. CIRCA board member (Peter McKelvy). ILS/collateralized structure.",
+      "headquarters": "Grand Cayman, Cayman Islands (holding company in New York, NY)",
+      "qualification_score": 65,
+      "key_contacts": [
+        {
+          "name": "Anthony McKelvy",
+          "title": "Co-Founder & Managing Partner",
+          "email_guess": "anthony@northernreins.com"
+        },
+        {
+          "name": "Peter McKelvy",
+          "title": "Co-Founder & Managing Partner",
+          "email_guess": "peter@northernreins.com"
+        }
+      ],
+      "corgi_fit_rationale": "P&C collateralized reinsurer actively writing specialty commercial lines. Professional lines and GL in scope. Insurtech-native founders (Boost Insurance background) means comfort with tech-adjacent risks. Collateralized structure could be adapted for GPU RVG ILS structure. $75M capital = smaller capacity but direct engagement and innovative structure possible. CIRCA membership = easy Cayman direct approach.",
+      "p_and_c_focus": true,
+      "specialty_lines": "Personal/commercial auto, general liability, workers compensation, professional lines, high-frequency low-severity specialty",
+      "go_direct_feasibility": "high"
+    }
+
+  ],
+
+  "research_gaps": {
+    "cayman_needs_more_research": [
+      "BOLT Reinsurance SPC — appears in CIMA registry, no public website found; likely ILS/collateralized SPC",
+      "Cover Reinsurance SPC — appears in CIMA registry, no public website found; SPC structure",
+      "Oceanview Re (Cayman) — CIRCA board member (Ahwaz Chagani), new Class D licensee 2024, need more detail",
+      "Additional Class D licensees — only 9 total as of Q1 2025; Greenlight Re + Barents Re + Accelerant Re + Topsail Re + Oceanview Re + 4 unknowns"
+    ],
+    "cayman_note": "CIRCA 2026 board has 15 members representing these companies: Greenlight Re, Hildene Re (L&A), Knighthead (L&A), RBC Insurance, Oceanview Re, Longtail Re, Talcott (L&A), Topsail Re, Northern Re, Nassau (L&A), Aureum Re (L&A), Axonic (L&A), Accelerant, F&G (L&A), Aspida (L&A). Only P&C-focused ones in file.",
+    "bermuda_needs_more_research": [
+      "American International Reinsurance Company Ltd. (AIG Re subsidiary in Bermuda) — potentially large capacity",
+      "Chubb Bermuda — very large (Chubb ACE); worth direct contact for specialty program capacity",
+      "DaVinci Reinsurance Ltd. — RenaissanceRe Bermuda ILS sidecar ($2B+ capital); already related to RenRe in DB but separate entity"
+    ],
+    "already_resolved": [
+      "Topsail Re — researched and added to file (Priority B)",
+      "Northern Re — researched and added to file (Priority B)",
+      "Assured Guaranty Bermuda — researched and added as AGRO, Priority A (writes aircraft RVI!)",
+      "Nirvana Reinsurance — confirmed NOT a Cayman reinsurer; it is Nirvana Insurance (US trucking MGA)"
+    ],
+    "notes": "Root Reinsurance Company Ltd. (Cayman) is Root Inc.'s captive — not third-party capacity. Aureum Re confirmed life/annuity only. Hildene Re/Ludlow Re confirmed life/annuity. Axonic confirmed annuity. CIRCA life/annuity members far outnumber P&C members."
+  },
+  "excluded_life_annuity_only": [
+    "Aureum Re (Cayman) — life/annuity reinsurance only",
+    "Hildene Re / Ludlow Re (Cayman) — life/annuity reinsurance only",
+    "Axonic Insurance Company SPC (Cayman) — annuity reinsurance only (CIRCA member but L&A)",
+    "Root Reinsurance Company Ltd. (Cayman) — captive subsidiary of Root Inc., auto MGA, not third-party capacity"
+  ],
+  "summary": {
+    "total_companies": 23,
+    "cayman_count": 7,
+    "bermuda_count": 16,
+    "priority_a": 6,
+    "priority_b": 11,
+    "priority_c": 6,
+    "top_5_by_fit": [
+      "Assured Guaranty Re Overseas Ltd. AGRO (Bermuda) — already writes AIRCRAFT RVI, the direct analog product, score 97",
+      "Awbury Insurance Ltd. (Bermuda) — financial/performance risk specialist, score 90",
+      "Ariel Re (Bermuda) — Technology Performance Insurance consortium precedent, score 87",
+      "Hamilton Re (Bermuda) — financial risks + specialty, credit/bond expansion, score 88",
+      "Greenlight Re (Cayman) — Specialty Credit & Surety, Transactional Liability, go-direct Cayman, score 85"
+    ],
+    "key_insight": "Assured Guaranty Re Overseas Ltd. is a CRITICAL discovery — they are the only known Bermuda reinsurer already writing Residual Value Insurance on commercial aircraft, which is structurally identical to GPU RVG. This should be first call made."
+  }
+}

@@ -1,0 +1,222 @@
+{
+  "id": "reinsurer-cold-call-v2",
+  "name": "Reinsurer Cold Call",
+  "targetAudience": "reinsurer",
+  "description": "Decision tree for calls to global P&C reinsurers and Bermuda/Lloyd's specialty market. Position as a proven RV structure seeking capacity. Navigate no-historical-data objection with Monte Carlo model and SiliconNavigator transparency. For Cayman/Bermuda direct approach, use the offshore branch (node 15+) — shorter, peer tone, skip the education layer.",
+  "variables": ["company", "contact_name", "title"],
+  "entryNode": 1,
+  "nodes": [
+    {
+      "id": 1,
+      "type": "gate-check",
+      "label": "Right person?",
+      "script": "Hi, this is [caller] from Corgi Insurance Services. I'm looking for someone who handles either equipment or technology RV programs, or new program submissions in AI infrastructure. Is that in your remit, or is there a better person to speak with?",
+      "branches": [
+        { "condition": "yes / that's me / partially", "next": 2 },
+        { "condition": "wrong person", "next": 13 },
+        { "condition": "bad time", "next": 3 },
+        { "condition": "Cayman / Bermuda SPS / offshore / ILS", "next": 15 }
+      ]
+    },
+    {
+      "id": 2,
+      "type": "permission",
+      "label": "Permission ask",
+      "script": "Great. I'll give you the 60-second version. We've built a GPU Residual Value Guaranty program — the first of its kind for data-center AI hardware — and we're building our reinsurance tower. The program structure will be very familiar if you've worked auto or equipment RV. Is now a reasonable moment?",
+      "branches": [
+        { "condition": "yes / go ahead", "next": 4 },
+        { "condition": "make it quick", "next": 4 },
+        { "condition": "no", "next": 3 }
+      ]
+    },
+    {
+      "id": 3,
+      "type": "time-check",
+      "label": "Bad time fallback",
+      "script": "Of course. The reason I'm reaching out is we're targeting $3.465B of ceded limit and we're being selective about who we bring into the tower. When would be a good time — even 20 minutes this week or next?",
+      "branches": [
+        { "condition": "gives a time", "next": "SCHEDULE_CALLBACK" },
+        { "condition": "send email", "next": "SEND_COLD_EMAIL" },
+        { "condition": "hard no", "next": 14 }
+      ]
+    },
+    {
+      "id": 4,
+      "type": "hook",
+      "label": "Core hook — program summary",
+      "script": "The AI GPU market is $100B today on its way to $215B by 2030. The risk we've built around it: GPU hardware depreciates at ~20% per year, and there's significant generation-cycle risk. Our program writes a put-style floor on GPU hardware value — if the market value at expiry is below the guaranteed percentage, we pay the full guaranteed amount and take title to the hardware. It's auto RV mechanics, applied to a new asset class. Issuing carrier is DIAIC, a Utah-domiciled captive. We manage the program.",
+      "branches": [
+        { "condition": "interesting / tell me more", "next": 5 },
+        { "condition": "no GPU loss history", "next": 8 },
+        { "condition": "what's the exposure structure", "next": 6 },
+        { "condition": "we don't do equipment RV", "next": 9 },
+        { "condition": "Cayman / Bermuda / offshore / we can move quickly", "next": 15 },
+        { "condition": "not interested", "next": 14 }
+      ]
+    },
+    {
+      "id": 5,
+      "type": "program-detail",
+      "label": "Program mechanics detail",
+      "script": "The key program features: per-cohort occurrence basis — loss aggregation is bounded by hardware cohort, not cross-site, so you know exactly what the maximum event is. Mandatory recertification before the value test — hardware must pass a condition check, which eliminates deteriorated-asset claims. SiliconNavigator™ provides the pricing benchmark — that's the secondary market index for H100 and A100 GPUs, 80%+ market coverage, daily. Independent, auditable, not our number. Title transfers to us at settlement — which eliminates the moral hazard problem you'd have with RV on any other asset class.",
+      "branches": [
+        { "condition": "what's the actuarial basis", "next": 7 },
+        { "condition": "no historical loss data", "next": 8 },
+        { "condition": "what capacity are you looking for", "next": 10 },
+        { "condition": "let's set up a working session", "next": 12 }
+      ]
+    },
+    {
+      "id": 6,
+      "type": "exposure-structure",
+      "label": "Exposure and aggregation structure",
+      "script": "Exposure is per-cohort occurrence. A cohort is a discrete hardware purchase by a single operator at a single facility. The maximum event is the total insured value of that cohort — there's no cross-site aggregation, no scenario where one event causes claims across multiple unrelated policyholders. The maximum aggregate is bounded by how much you write in a given treaty year, just like any equipment RV book. Cession structure is via tranched treaty layers — we build the tower incrementally, each layer priced independently.",
+      "branches": [
+        { "condition": "what's the target program size", "next": 10 },
+        { "condition": "tell me about the actuarial model", "next": 7 },
+        { "condition": "sounds workable", "next": 12 }
+      ]
+    },
+    {
+      "id": 7,
+      "type": "actuarial-basis",
+      "label": "Actuarial model explanation",
+      "script": "The base assumption is 20% annual depreciation — that's the observed average across H100 and A100 secondary market data from SiliconNavigator. We run Monte Carlo simulations across: (1) normal depreciation curves, (2) generation-cycle shock scenarios where a new NVIDIA architecture triggers 30-50% value compression, and (3) market liquidity scenarios. The model produces loss distributions for each policy tier and term. We can share the full actuarial package in a working session — it's been built to the standard a quota share reinsurer would expect.",
+      "branches": [
+        { "condition": "no historical GPU loss data", "next": 8 },
+        { "condition": "I'd like to see the package", "next": 12 },
+        { "condition": "who built the model", "next": 11 }
+      ]
+    },
+    {
+      "id": 8,
+      "type": "objection-handler",
+      "label": "Objection: no historical GPU loss data",
+      "script": "That's the right question and it's why the program structure is designed the way it is. Three things address it: First, we're not working from nothing — the SiliconNavigator data gives us 3+ years of daily secondary market prices on H100 and A100, which is the underlying price discovery mechanism for any claim. We know the distribution of GPU price moves. Second, our Monte Carlo model stress-tests against generation-cycle shocks — the scenario that worries reinsurers most is a new NVIDIA architecture launch causing a 40% correction. We've modelled that. Third, title transfer at settlement means the carrier is acquiring hardware, not paying cash for a loss. The recovery value is the hardware itself, which is always worth something. Moral hazard is structurally eliminated. The actuarial package addresses all of this in detail — I'd like to share it with your team.",
+      "branches": [
+        { "condition": "OK / willing to look at it", "next": 12 },
+        { "condition": "still concerned", "next": "OFFER_ACTUARIAL_DEEP_DIVE" },
+        { "condition": "not enough data / not interested", "next": 14 }
+      ]
+    },
+    {
+      "id": 9,
+      "type": "reframe-to-rv",
+      "label": "Reframe: equipment RV analogy",
+      "script": "The program structure is identical to auto or fleet RV — just a different underlying asset. If {company} writes auto RV or equipment RV today, the mechanics will be completely familiar: guaranteed floor, value test at expiry, title transfer at settlement. The difference is the asset has better price transparency than most equipment categories — we have a daily liquid secondary market via SiliconNavigator, something you don't get on used trucks or industrial machinery. The new-entry story here is asset class, not structure.",
+      "branches": [
+        { "condition": "who's the issuing carrier", "next": 11 },
+        { "condition": "tell me more about the program", "next": 5 },
+        { "condition": "still not our space", "next": 14 }
+      ]
+    },
+    {
+      "id": 10,
+      "type": "capacity-ask",
+      "label": "Capacity target discussion",
+      "script": "We're targeting $3.465B of total ceded limit across the full tower. The build-out is tranched — we're not asking any single reinsurer to take the whole tower. We're looking for quota share partners at each layer who are comfortable with the asset class and the actuarial basis. The question for {company} is whether the program fits your portfolio — tech exposure, equipment RV, or a new class you want early access to. What does {company}'s appetite look like for new program submissions in the tech or equipment space?",
+      "branches": [
+        { "condition": "gives appetite / interested", "next": 12 },
+        { "condition": "too early / need to see more", "next": 12 },
+        { "condition": "too small / below our minimum", "next": "NOTE_SIZE_MISMATCH" }
+      ]
+    },
+    {
+      "id": 11,
+      "type": "carrier-credibility",
+      "label": "Carrier and program credibility",
+      "script": "Issuing carrier is DIAIC — Digital Infrastructure Assurance Insurance Company, Utah-domiciled captive. Corgi Insurance Services is the program manager. We've raised $108M to capitalize the program. The captive is managed by Dane Administration. We're building the reinsurance tower now as the next step in the capital structure. I'm happy to share the full carrier package — AM Best equivalent, financials, program terms.",
+      "branches": [
+        { "condition": "send it over", "next": "SEND_CARRIER_PACKAGE_THEN_FOLLOWUP" },
+        { "condition": "who's your broker", "next": "DISCUSS_BROKER_RELATIONSHIP" },
+        { "condition": "let's set up a meeting", "next": 12 }
+      ]
+    },
+    {
+      "id": 12,
+      "type": "meeting-ask",
+      "label": "Meeting request — actuarial working session",
+      "script": "I'd like to set up a 30-minute working session with our founders and your underwriting team. We'll share the full actuarial package — loss distributions, Monte Carlo outputs, SiliconNavigator pricing methodology, and treaty structure. No pitch deck — a technical session on the program. Who at {company} should be in that conversation, and when does your team have availability?",
+      "branches": [
+        { "condition": "agrees / gives names / gives time", "next": "BOOK_MEETING" },
+        { "condition": "send materials first", "next": "SEND_CARRIER_PACKAGE_THEN_FOLLOWUP" },
+        { "condition": "need to discuss internally first", "next": "SCHEDULE_CALLBACK" }
+      ]
+    },
+    {
+      "id": 13,
+      "type": "wrong-person",
+      "label": "Wrong person",
+      "script": "No problem. Who handles new program submissions or equipment/technology RV at {company}? I want to make sure I'm talking to the right person for a program like this.",
+      "branches": [
+        { "condition": "gives name", "next": "UPDATE_CONTACT_AND_RESTART" },
+        { "condition": "can't help", "next": 14 }
+      ]
+    },
+    {
+      "id": 14,
+      "type": "graceful-exit",
+      "label": "Exit",
+      "script": "Understood. If the GPU asset class becomes more relevant for {company} — or if you're looking at new program submissions in infrastructure risk — Corgi Insurance Services is worth a call. Thanks for your time.",
+      "branches": [],
+      "terminal": true
+    },
+    {
+      "id": 15,
+      "type": "offshore-direct-pitch",
+      "label": "Offshore / Cayman / Bermuda — direct approach",
+      "script": "Let me get straight to it — we're going direct to Cayman and Bermuda because the structure is clean and you don't need a Lloyd's intermediary to evaluate it. Here's the program: $3.465B of ceded limit, auto RV mechanics applied to data-center GPUs. Per-cohort occurrence, title transfer at settlement, SiliconNavigator™ benchmarks the value test. We've raised $108M, issuing carrier is DIAIC. Monte Carlo-modelled loss curves. We need capacity partners who can look at an actuarial package and move. Is {company} looking at new RV programs right now?",
+      "branches": [
+        { "condition": "yes / interested / we do RV", "next": 16 },
+        { "condition": "tell me more about the structure", "next": 5 },
+        { "condition": "no GPU loss history", "next": 8 },
+        { "condition": "what's the program size / capacity", "next": 10 },
+        { "condition": "not interested / not our space", "next": 14 }
+      ]
+    },
+    {
+      "id": 16,
+      "type": "offshore-package-ask",
+      "label": "Offshore — send the package",
+      "script": "I can get you the full underwriting package today — actuarial model, Monte Carlo outputs, treaty structure, SiliconNavigator pricing methodology, DIAIC financials. Who's the right person to receive it, and when can we get 20 minutes to walk through it together?",
+      "branches": [
+        { "condition": "gives contact / time", "next": "BOOK_MEETING" },
+        { "condition": "just send it / we'll review first", "next": "SEND_CARRIER_PACKAGE_THEN_FOLLOWUP" }
+      ]
+    }
+  ],
+  "objectionHandlers": {
+    "no_historical_loss_data": {
+      "trigger": "no historical data / no loss history / too new",
+      "redirect": 8
+    },
+    "not_our_space": {
+      "trigger": "we don't do tech / not equipment RV / outside our appetite",
+      "redirect": 9
+    },
+    "moral_hazard_concern": {
+      "trigger": "how do you handle moral hazard / what stops people from claiming",
+      "response": "Title transfer at settlement is the structural answer. To collect on the policy, the insured surrenders the hardware. You can't claim on hardware you're still using. The insured is only filing a claim if the market value is genuinely below the floor — because they have to give up the hardware to get paid. That's a real economic constraint that eliminates the incentive to game the system.",
+      "next": 5
+    },
+    "systemic_risk": {
+      "trigger": "what if the whole GPU market collapses / systemic risk",
+      "response": "Per-cohort occurrence structure means there's no systemic sweep. Each cohort is a separate insured event. A market-wide GPU correction would cause multiple cohort claims, but the aggregate is bounded by the book we've written in that treaty year — same as any equipment RV book through a down cycle. The Monte Carlo model explicitly models a 30-50% market-wide correction scenario. We can walk through those loss distributions in a technical session.",
+      "next": 12
+    },
+    "offshore_direct": {
+      "trigger": "we're Cayman / Bermuda / offshore / SPS / ILS / we move fast",
+      "redirect": 15
+    }
+  },
+  "exitStates": {
+    "BOOK_MEETING": "Log meeting in CRM, send calendar invite with actuarial package, trigger follow_up_2.hbs post-meeting",
+    "SEND_COLD_EMAIL": "Send cold_intro_arranger.hbs (global reinsurer) or cold_intro_offshore_reinsurer.hbs (Cayman/Bermuda), tag for follow_up_1.hbs at day 4",
+    "SEND_CARRIER_PACKAGE_THEN_FOLLOWUP": "Send DIAIC carrier package + actuarial summary, schedule technical session in 5 days",
+    "OFFER_ACTUARIAL_DEEP_DIVE": "Offer 45-minute technical session focused on loss model methodology",
+    "SCHEDULE_CALLBACK": "Log callback date in CRM",
+    "NOTE_SIZE_MISMATCH": "Log as below minimum, check after tower is larger",
+    "DISCUSS_BROKER_RELATIONSHIP": "Note broker preference, coordinate with Guy Carpenter / Gallagher Re / Aon if applicable",
+    "UPDATE_CONTACT_AND_RESTART": "Update CRM, restart from node 1 with new contact"
+  }
+}

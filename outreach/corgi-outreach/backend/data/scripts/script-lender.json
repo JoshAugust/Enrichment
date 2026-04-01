@@ -1,0 +1,195 @@
+{
+  "id": "lender-cold-call-v2",
+  "name": "Lender / Private Credit Cold Call",
+  "targetAudience": "lender",
+  "description": "Decision tree for cold calls to private credit lenders and equipment finance firms doing or considering GPU-backed facilities. Focus: mid-market ($50M–$500M facilities), not mega-deals. Goal: establish how RVG improves credit underwriting and borrower terms, and book a founders call.",
+  "variables": ["company", "contact_name", "title", "gpu_count", "funding_amount"],
+  "entryNode": 1,
+  "nodes": [
+    {
+      "id": 1,
+      "type": "gate-check",
+      "label": "Right person?",
+      "script": "Hi, this is [caller] from Corgi Insurance Services. I'm looking for whoever at {company} leads AI infrastructure or GPU-backed credit decisions — is that you, or is there a better person to speak with?",
+      "branches": [
+        { "condition": "yes / that's me", "next": 2 },
+        { "condition": "wrong person", "next": 14 },
+        { "condition": "bad time", "next": 3 }
+      ]
+    },
+    {
+      "id": 2,
+      "type": "permission",
+      "label": "Permission ask",
+      "script": "Great. I'll keep it to 60 seconds — there's one specific thing about GPU-collateralized underwriting I wanted to put in front of you. Is now a good moment?",
+      "branches": [
+        { "condition": "yes / go ahead", "next": 4 },
+        { "condition": "make it quick", "next": 4 },
+        { "condition": "no", "next": 3 }
+      ]
+    },
+    {
+      "id": 3,
+      "type": "time-check",
+      "label": "Bad time fallback",
+      "script": "Of course. When would be a better time? I have something specific on GPU collateral protection — the residual value question that comes up in every GPU-backed IC memo for $50M to $500M facilities. Worth 60 seconds when you have it.",
+      "branches": [
+        { "condition": "gives a time", "next": "SCHEDULE_CALLBACK" },
+        { "condition": "send email", "next": "SEND_COLD_EMAIL" },
+        { "condition": "hard no", "next": 15 }
+      ]
+    },
+    {
+      "id": 4,
+      "type": "hook",
+      "label": "Core hook — IC problem",
+      "script": "The question that kills GPU-backed deals in credit committee is still the same one: what does the hardware recover at maturity? GPUs depreciate at roughly 20% per year. At a 5-year term, you're looking at 33 cents on the dollar in the base case — and potentially worse if the next generation lands mid-facility. We built a product that answers that question with a contract rather than a model — and it lets your borrowers get better terms from you in the process.",
+      "branches": [
+        { "condition": "interested / tell me more", "next": 5 },
+        { "condition": "we already have LTV covenants", "next": 7 },
+        { "condition": "we don't do GPU lending", "next": 13 },
+        { "condition": "we're comfortable with our underwriting", "next": 8 },
+        { "condition": "not interested", "next": 15 }
+      ]
+    },
+    {
+      "id": 5,
+      "type": "pitch",
+      "label": "RVG pitch — lender angle",
+      "script": "We provide Residual Value Guaranty insurance — it puts a contractual floor on GPU hardware value at a specified future date. The lender is named as Loss Payee. If the market value at loan maturity falls below the guaranteed percentage, the policy pays the full guaranteed amount and the carrier takes title to the hardware. For your $50–500M GPU-backed borrowers, RVG provides the collateral floor that lets you improve terms — better LTV, longer tenor, tighter spread. You're not underwriting depreciation risk anymore — your insurance counterparty is.",
+      "branches": [
+        { "condition": "how does it integrate into the deal", "next": 6 },
+        { "condition": "what's the guarantee level", "next": 9 },
+        { "condition": "who's the carrier", "next": 10 },
+        { "condition": "we already have LTV covenants", "next": 7 }
+      ]
+    },
+    {
+      "id": 6,
+      "type": "integration",
+      "label": "Deal integration mechanics",
+      "script": "It plugs directly into your security package using standard Loss Payee provisions — the same structure you'd use for any asset-backed policy. The borrower purchases the policy at time of GPU acquisition, typically financed as part of the facility. You're named Loss Payee. At the value test date, SiliconNavigator™ benchmarks are used — that's the secondary GPU market index with 80%+ H100 coverage, so the valuation methodology is objective and auditable by your credit team. No bespoke appraisals, no arguments about market value.",
+      "branches": [
+        { "condition": "that's clean / straightforward", "next": 11 },
+        { "condition": "what about our existing covenants", "next": 7 },
+        { "condition": "what are the policy terms", "next": 9 }
+      ]
+    },
+    {
+      "id": 7,
+      "type": "objection-handler",
+      "label": "Objection: we already have LTV covenants",
+      "script": "LTV covenants protect you if the borrower defaults. They don't protect you from the value of the collateral itself dropping below your recovery assumptions. Here's the difference: your LTV covenant fires when the borrower violates a ratio. Our RVG fires when the hardware value drops below the floor — regardless of what the borrower does. If there's a GPU market correction and the hardware is worth 25% of original value at maturity, your LTV covenant requires you to take the hardware at 25 cents. The RVG pays you the full guaranteed amount. Those are different protections — and together, they let you offer your borrowers materially better terms than your competitors.",
+      "branches": [
+        { "condition": "I see the distinction", "next": 11 },
+        { "condition": "we're still comfortable", "next": 8 },
+        { "condition": "what are the terms", "next": 9 }
+      ]
+    },
+    {
+      "id": 8,
+      "type": "reframe",
+      "label": "Comfortable but unprotected",
+      "script": "That's reasonable — GPU lending has been mostly fine so far because the market's been strong. The concern most mid-market lenders have is tail risk: what happens when the next generation of AI chips lands and H100 prices correct by 40%? We're not saying that's likely. We're saying the option to transfer that risk to an insurance carrier — at 2–7% of GPU value — is worth knowing about before you're in the middle of a $50–200M facility that's suddenly underwater on collateral. When does {company} typically review risk positions on active GPU facilities?",
+      "branches": [
+        { "condition": "gives timeline / process", "next": 11 },
+        { "condition": "still not relevant", "next": 14 }
+      ]
+    },
+    {
+      "id": 9,
+      "type": "policy-terms",
+      "label": "Policy terms for lenders",
+      "script": "Guarantee levels are 5%, 10%, or 15% of original GPU purchase price. Terms are 3, 5, or 10 years — you pick what aligns to your facility tenor. Premiums run 2.1% to 12.9% of GPU value, paid by the borrower as a one-time premium at policy inception. In a standard $50–200M GPU-backed facility, the premium gets financed as part of the total commitment — your exposure goes up slightly, but so does your recovery floor. The net effect on credit quality is positive, and your borrower benefits from better terms in exchange.",
+      "branches": [
+        { "condition": "interested in how it affects our LTV", "next": 6 },
+        { "condition": "who's the carrier", "next": 10 },
+        { "condition": "let's talk more", "next": 11 }
+      ]
+    },
+    {
+      "id": 10,
+      "type": "carrier-credibility",
+      "label": "Carrier credibility",
+      "script": "The issuing carrier is DIAIC — Digital Infrastructure Assurance Insurance Company, Utah-domiciled captive. Corgi Insurance Services is the program manager. We've raised $108M to capitalize the program. The captive structure means claims-paying ability is backed by our capitalization, and we're building a reinsurance tower to support scale. I'm happy to share the carrier financial package — most lenders ask for it as part of their diligence.",
+      "branches": [
+        { "condition": "OK / send it over", "next": "SEND_CARRIER_PACKAGE_THEN_FOLLOWUP" },
+        { "condition": "want to meet with founders", "next": 11 },
+        { "condition": "need to check with credit / legal", "next": 12 }
+      ]
+    },
+    {
+      "id": 11,
+      "type": "meeting-ask",
+      "label": "Meeting request",
+      "script": "I'd like to set up 20 minutes with our founders — Isaac and Josh — and whoever handles your GPU credit underwriting. They can walk through exactly how RVG integrates into a typical $50–200M GPU-backed facility, show you the Loss Payee documentation, and work through a specific deal structure with your team. No sales presentation — a working session. When does next week look like?",
+      "branches": [
+        { "condition": "agrees / gives availability", "next": "BOOK_MEETING" },
+        { "condition": "send materials first", "next": "SEND_COLD_EMAIL" },
+        { "condition": "loop in credit team first", "next": 12 }
+      ]
+    },
+    {
+      "id": 12,
+      "type": "internal-process",
+      "label": "Internal process — who else",
+      "script": "Of course. Who should we include on that call — is there a credit officer or head of underwriting who'd need to be in the room? I want to make sure we have the right people on both sides.",
+      "branches": [
+        { "condition": "gives names", "next": "BOOK_MEETING_WITH_EXPANDED_AUDIENCE" },
+        { "condition": "just me for now", "next": 11 }
+      ]
+    },
+    {
+      "id": 13,
+      "type": "market-education",
+      "label": "Not currently doing GPU lending",
+      "script": "Good to know. GPU-backed credit in the $50M to $500M range is growing fast as mid-market AI operators use private credit to finance their hardware build-outs — and equipment finance firms are stepping in where traditional banks aren't moving fast enough. When {company} does look at GPU-collateralized facilities, the residual value question is the first thing to solve. Worth a 15-minute briefing from our founders now so you have the structure in your back pocket when the deal flow shows up?",
+      "branches": [
+        { "condition": "yes / sure", "next": 11 },
+        { "condition": "not yet / come back later", "next": "SCHEDULE_FUTURE_CALLBACK" }
+      ]
+    },
+    {
+      "id": 14,
+      "type": "wrong-person",
+      "label": "Wrong person referral",
+      "script": "No problem. Who at {company} would lead on AI infrastructure credit or GPU-backed facility underwriting? I want to make sure I'm talking to someone for whom this is actually relevant.",
+      "branches": [
+        { "condition": "gives name", "next": "UPDATE_CONTACT_AND_RESTART" },
+        { "condition": "can't help", "next": 15 }
+      ]
+    },
+    {
+      "id": 15,
+      "type": "graceful-exit",
+      "label": "Exit",
+      "script": "Understood. I appreciate your time. If GPU residual value protection comes up in a future deal — or a borrower asks about it — Corgi Insurance Services is the right call. Thanks for your time.",
+      "branches": [],
+      "terminal": true
+    }
+  ],
+  "objectionHandlers": {
+    "we_already_have_ltv_covenants": {
+      "trigger": "we already have LTV covenants / we have covenant protection",
+      "redirect": 7
+    },
+    "carrier_concerns": {
+      "trigger": "who backs this / what's your carrier rating / financial strength",
+      "redirect": 10
+    },
+    "too_complex": {
+      "trigger": "adds too much complexity / our borrowers won't want this",
+      "response": "It's designed to be additive, not disruptive. The borrower pays the premium as part of closing costs — same as any property insurance on a financed asset. The lender gets Loss Payee rights. The documentation is standard. What does change is your credit analysis: instead of estimating collateral recovery at maturity, you know it. And your borrower gets better terms in exchange for the premium cost.",
+      "next": 11
+    }
+  },
+  "exitStates": {
+    "BOOK_MEETING": "Log meeting in CRM, send calendar invite, trigger follow_up_2.hbs post-meeting",
+    "BOOK_MEETING_WITH_EXPANDED_AUDIENCE": "Log meeting with expanded attendee list",
+    "SEND_COLD_EMAIL": "Send cold_intro_lender.hbs, tag for follow_up_1.hbs at day 4",
+    "SEND_CARRIER_PACKAGE_THEN_FOLLOWUP": "Send DIAIC carrier financial package PDF, schedule follow_up call in 3 days",
+    "SCHEDULE_CALLBACK": "Log callback date in CRM",
+    "SCHEDULE_FUTURE_CALLBACK": "Set 90-day nurture sequence",
+    "UPDATE_CONTACT_AND_RESTART": "Update CRM, restart from node 1 with new contact"
+  }
+}

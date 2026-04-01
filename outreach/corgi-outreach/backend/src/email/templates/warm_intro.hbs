@@ -1,0 +1,69 @@
+{{!-- warm_intro.hbs --}}
+{{!-- Used when referred or have a mutual connection — get to point fast --}}
+{{!-- subject_a: "{{referrerName}} suggested I reach out — GPU RV insurance" --}}
+{{!-- subject_b: "Intro via {{referrerName}} — Corgi / GPU Residual Value Guaranty" --}}
+
+{{#if isHtml}}
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <style>
+    body { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif; font-size: 15px; line-height: 1.6; color: #1a1a1a; max-width: 600px; margin: 0 auto; padding: 20px; }
+    p { margin: 0 0 16px; }
+    a { color: #2563eb; }
+    .signature { margin-top: 28px; color: #555; }
+  </style>
+</head>
+<body>
+  <p>Hi {{firstName}},</p>
+
+  <p>{{referrerName}} suggested I reach out — thought there was a relevant overlap between what we've built and what {{companyName}} is working on.</p>
+
+  <p>We're Corgi Insurance Services. We provide Residual Value Guaranty (RVG) insurance for GPU hardware — a put-style floor on hardware value at a specified future date. If your GPUs are worth less than the guaranteed percentage when the policy expires, the policy pays out the full guaranteed amount and takes title to the hardware.</p>
+
+  {{#if isLender}}
+  <p>For lenders: RVG turns GPU hardware into qualifying collateral with a known recovery floor. For your $50–500M GPU-backed borrowers, a guaranteed collateral floor means you can improve LTV ratios, offer better rates, and extend longer tenors — making your facilities more competitive while reducing your collateral risk. Standard Loss Payee provisions fit into existing security packages without restructuring the deal.</p>
+  {{else if isReinsurer}}
+  <p>For reinsurers: the structure is analogous to auto and equipment RV programs — proven mechanics in a new asset class. Per-cohort occurrence, mandatory recertification, title transfer at settlement. Pricing is marked to SiliconNavigator™ daily benchmarks. We're building our reinsurance tower now and are targeting $3.465B of ceded limit.</p>
+  {{else}}
+  <p>For GPU operators: if you're financing your hardware with debt, RVG directly lowers your cost of capital. When your lenders see a guaranteed collateral floor, they offer better rates, longer tenors, and higher LTV ratios. For a mid-market operator — $50M to $500M in GPU hardware — that's a material improvement in your all-in borrowing cost. Even if you're equity-funded, RVG protects your balance sheet from depreciation shock when the next GPU generation lands. Premium is 2.1% to 12.9% of GPU value depending on guarantee level and term.</p>
+  {{/if}}
+
+  <p>{{#if specificDetail}}{{specificDetail}}{{/if}}</p>
+
+  <p>{{referrerName}} thought the timing might be right. Would 20 minutes with our founders be useful?</p>
+
+  <div class="signature">
+    <p>{{callerName}}<br>
+    Corgi Insurance Services<br>
+    <a href="https://corgi.xyz">corgi.xyz</a></p>
+  </div>
+
+  {{#if trackingPixel}}{{{trackingPixel}}}{{/if}}
+</body>
+</html>
+{{else}}
+Hi {{firstName}},
+
+{{referrerName}} suggested I reach out — thought there was a relevant overlap between what we've built and what {{companyName}} is working on.
+
+We're Corgi Insurance Services. We provide Residual Value Guaranty (RVG) insurance for GPU hardware — a put-style floor on hardware value at a specified future date. If your GPUs are worth less than the guaranteed percentage when the policy expires, the policy pays out the full guaranteed amount and takes title to the hardware.
+
+{{#if isLender}}
+For lenders: RVG turns GPU hardware into qualifying collateral with a known recovery floor. For your $50–500M GPU-backed borrowers, a guaranteed collateral floor means you can improve LTV ratios, offer better rates, and extend longer tenors — making your facilities more competitive while reducing your collateral risk. Standard Loss Payee provisions fit into existing security packages without restructuring the deal.
+{{else if isReinsurer}}
+For reinsurers: the structure is analogous to auto and equipment RV programs — proven mechanics in a new asset class. Per-cohort occurrence, mandatory recertification, title transfer at settlement. Pricing is marked to SiliconNavigator™ daily benchmarks. We're building our reinsurance tower now and are targeting $3.465B of ceded limit.
+{{else}}
+For GPU operators: if you're financing your hardware with debt, RVG directly lowers your cost of capital. When your lenders see a guaranteed collateral floor, they offer better rates, longer tenors, and higher LTV ratios. For a mid-market operator — $50M to $500M in GPU hardware — that's a material improvement in your all-in borrowing cost. Even if you're equity-funded, RVG protects your balance sheet from depreciation shock when the next GPU generation lands. Premium is 2.1% to 12.9% of GPU value depending on guarantee level and term.
+{{/if}}
+
+{{#if specificDetail}}{{specificDetail}}{{/if}}
+
+{{referrerName}} thought the timing might be right. Would 20 minutes with our founders be useful?
+
+{{callerName}}
+Corgi Insurance Services
+corgi.xyz
+{{/if}}

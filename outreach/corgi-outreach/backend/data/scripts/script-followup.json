@@ -1,0 +1,141 @@
+{
+  "id": "followup-call-v1",
+  "name": "Follow-up Call",
+  "targetAudience": "any",
+  "description": "Universal follow-up call script used after initial email outreach or a prior call where interest was shown but no meeting was booked. Goal: recap briefly, address any blockers, and advance to the next step (meeting or materials).",
+  "variables": ["company", "contact_name", "title", "previous_touchpoint", "previous_subject"],
+  "entryNode": 1,
+  "nodes": [
+    {
+      "id": 1,
+      "type": "opener",
+      "label": "Reminder of context",
+      "script": "Hi {contact_name}, this is [caller] from Corgi Insurance Services. I sent you a note about a week ago on GPU Residual Value Guaranty — I wanted to follow up with a quick call rather than another email. Is now an okay moment?",
+      "branches": [
+        { "condition": "yes / go ahead", "next": 2 },
+        { "condition": "not a good time", "next": 3 },
+        { "condition": "I didn't see your email", "next": 4 },
+        { "condition": "I saw it but not interested", "next": 5 }
+      ]
+    },
+    {
+      "id": 2,
+      "type": "brief-recap",
+      "label": "30-second recap",
+      "script": "Quick recap: we provide insurance that puts a contractual floor on GPU hardware value at a future date — a Residual Value Guaranty. It's relevant for GPU operators protecting their balance sheet, lenders who want guaranteed collateral recovery, and reinsurers looking for a new RV program to write capacity into. Based on what {company} is doing, I thought [operator angle / lender angle / reinsurer angle] was the most relevant hook. Has anything shifted on your end since I wrote?",
+      "branches": [
+        { "condition": "interested now / timing better", "next": 6 },
+        { "condition": "still evaluating / need more info", "next": 7 },
+        { "condition": "not the right time", "next": 8 },
+        { "condition": "passed along internally", "next": 9 }
+      ]
+    },
+    {
+      "id": 3,
+      "type": "time-check",
+      "label": "Bad time",
+      "script": "Of course. When would be better? I have something specific I want to put in front of you — takes 60 seconds — and then I'll leave the decision to you.",
+      "branches": [
+        { "condition": "gives a time", "next": "SCHEDULE_CALLBACK" },
+        { "condition": "just email", "next": "SEND_FOLLOWUP_EMAIL" },
+        { "condition": "hard no", "next": 10 }
+      ]
+    },
+    {
+      "id": 4,
+      "type": "email-not-received",
+      "label": "Email not seen",
+      "script": "No problem — let me give you the short version now. We provide Residual Value Guaranty insurance on GPU hardware — a put-style floor on hardware value at a specified future date. If the GPUs are worth less than the guaranteed percentage at policy expiry, the policy pays out the full guaranteed amount and we take title to the hardware. We're focused on GPU operators, lenders doing GPU-backed facilities, and reinsurers looking for capacity. Does any of those angles resonate for {company}?",
+      "branches": [
+        { "condition": "yes / one of those is relevant", "next": 6 },
+        { "condition": "not really / tell me more", "next": 7 },
+        { "condition": "not for us", "next": 10 }
+      ]
+    },
+    {
+      "id": 5,
+      "type": "light-objection",
+      "label": "Saw email, passed",
+      "script": "Totally fair. Before I let you go — what was the blocker? Was it the timing, the product didn't fit, or something else? I want to make sure I'm not wasting your time with the wrong angle.",
+      "branches": [
+        { "condition": "timing", "next": 8 },
+        { "condition": "don't own GPUs / don't do GPU lending", "next": "DISQUALIFY_AND_LOG" },
+        { "condition": "product not relevant", "next": 7 },
+        { "condition": "hard no", "next": 10 }
+      ]
+    },
+    {
+      "id": 6,
+      "type": "advance",
+      "label": "Interest confirmed — advance",
+      "script": "Good to hear. The most useful next step is usually a 20-minute call with our founders — Isaac and Josh. They can walk through exactly how a policy would look for {company}, including indicative pricing and deal mechanics. No deck — just a working session on the numbers. Can we find a slot this week or next?",
+      "branches": [
+        { "condition": "yes / gives availability", "next": "BOOK_MEETING" },
+        { "condition": "send materials first", "next": "SEND_FOLLOWUP_EMAIL" },
+        { "condition": "need internal sign-off", "next": 9 }
+      ]
+    },
+    {
+      "id": 7,
+      "type": "info-request",
+      "label": "Needs more info",
+      "script": "Happy to elaborate. What specifically would help — the product mechanics, how it fits into a financing structure, or pricing? I can either walk you through it now — takes 3 minutes — or I can send you a brief written overview and we can follow up once you've had a chance to look at it.",
+      "branches": [
+        { "condition": "walk me through it now", "next": "ROUTE_TO_AUDIENCE_SCRIPT" },
+        { "condition": "send written overview", "next": "SEND_FOLLOWUP_EMAIL" },
+        { "condition": "book a call with your founders", "next": 6 }
+      ]
+    },
+    {
+      "id": 8,
+      "type": "timing-objection",
+      "label": "Wrong timing",
+      "script": "Understood. I'd rather be relevant than persistent. Two quick questions: is there a specific event that would make this more timely — a financing close, a hardware purchase, a lender conversation? And is this a 'check back in 3 months' situation or more like 12+ months? That helps me calibrate.",
+      "branches": [
+        { "condition": "3–6 months", "next": "SCHEDULE_FUTURE_CALLBACK_90" },
+        { "condition": "6–12 months", "next": "SCHEDULE_FUTURE_CALLBACK_180" },
+        { "condition": "12+ months or unclear", "next": "ADD_TO_NURTURE" }
+      ]
+    },
+    {
+      "id": 9,
+      "type": "internal-routing",
+      "label": "Passed internally",
+      "script": "Good to know — who did you pass it to? I want to make sure they have everything they need to evaluate it properly, and I'd rather reach out to them directly than have it sit in an inbox.",
+      "branches": [
+        { "condition": "gives name / contact info", "next": "UPDATE_CONTACT_AND_RESTART" },
+        { "condition": "vague / doesn't know", "next": "SEND_FOLLOWUP_EMAIL" }
+      ]
+    },
+    {
+      "id": 10,
+      "type": "graceful-exit",
+      "label": "Final exit",
+      "script": "Understood — I'll leave it here. If GPU residual value, hardware financing, or RV protection becomes relevant to {company} in the future, Corgi Insurance Services is the right call. Thanks for your time.",
+      "branches": [],
+      "terminal": true
+    }
+  ],
+  "objectionHandlers": {
+    "already_passed": {
+      "trigger": "we saw it / we passed / we decided not to",
+      "redirect": 5
+    },
+    "who_are_you_again": {
+      "trigger": "remind me who you are / what company is this",
+      "response": "Corgi Insurance Services — we provide Residual Value Guaranty insurance for GPU hardware. Put-style floor on hardware value at a specified future date. We're the only insurance product built specifically for AI infrastructure. Does that ring a bell from the email?",
+      "next": 2
+    }
+  },
+  "exitStates": {
+    "BOOK_MEETING": "Log meeting, send calendar invite, trigger follow_up_2.hbs post-meeting",
+    "SEND_FOLLOWUP_EMAIL": "Send follow_up_1.hbs or follow_up_2.hbs depending on meeting status",
+    "ROUTE_TO_AUDIENCE_SCRIPT": "Transfer to script-gpu-operator.json node 5 / script-lender.json node 5 / script-reinsurer.json node 5 based on audience",
+    "SCHEDULE_CALLBACK": "Log callback in CRM",
+    "SCHEDULE_FUTURE_CALLBACK_90": "Set 90-day callback reminder",
+    "SCHEDULE_FUTURE_CALLBACK_180": "Set 180-day callback reminder",
+    "ADD_TO_NURTURE": "Long-cycle nurture sequence, quarterly check-in",
+    "DISQUALIFY_AND_LOG": "Mark as disqualified, log reason, remove from active sequence",
+    "UPDATE_CONTACT_AND_RESTART": "Update CRM with new contact, initiate appropriate audience script"
+  }
+}

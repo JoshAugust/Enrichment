@@ -1,0 +1,66 @@
+[
+  {
+    "company_id": "20824926-9a8a-4f16-b1b9-00e297edb0eb",
+    "company_name": "Hudson River Trading",
+    "agent_qa_score": 72,
+    "issues": ["No contacts in database — zero decision-makers on file", "GPU scale relies on cloud (Google Cloud NVIDIA B200) not owned on-prem — RVG exposure may be lower than estimated"],
+    "recommendation": "Add decision-maker contacts before outreach; clarify owned vs cloud GPU split",
+    "checks_run": "web presence check, GPU usage verification (Google Cloud blog + NVIDIA GTC), HQ confirmation, funding model verification"
+  },
+  {
+    "company_id": "a8606910-a554-4158-b072-d00fc95178aa",
+    "company_name": "Waabi",
+    "agent_qa_score": 74,
+    "issues": ["No contacts in database", "Total raised is stale — $280M was accurate at June 2024 Series B, but Waabi raised $750M Series C in early 2026 making actual total ~$1.03B"],
+    "recommendation": "Re-enrich funding figure; strong prospect but add contacts before outreach",
+    "checks_run": "web presence check, Series B/C funding verification via CNBC/TechCrunch, HQ Toronto confirmation, NVIDIA partnership verification"
+  },
+  {
+    "company_id": "162691a8-86a0-4912-9aaf-b4fbe7d2bc6e",
+    "company_name": "Gatik",
+    "agent_qa_score": 75,
+    "issues": ["No contacts in database", "GPU scale (500-2000) may be conservative — Gatik operates full commercial driverless fleets at scale with NVIDIA compute per truck"],
+    "recommendation": "Add contacts; GPU scale estimate could be refreshed given confirmed NVIDIA DRIVE Orin/Hyperion deployment at commercial scale",
+    "checks_run": "web presence check, funding rounds verification (Isuzu $41M CAD, Nippon Express, Itochu 2024), HQ Mountain View confirmed, Walmart/NVIDIA partnership verified, driverless fleet claim verified"
+  },
+  {
+    "company_id": "5467df1c-6777-4a7c-8f93-5ba9e949a05e",
+    "company_name": "Helm.ai",
+    "agent_qa_score": 77,
+    "issues": ["No contacts in database", "Founded year discrepancy: DB says 2018, independent sources say 2016 (founded as Helm.ai in Redwood City)", "GPU details (H100, V100, DRIVE AGX Xavier) fully confirmed — high data quality otherwise"],
+    "recommendation": "Correct founded year; strong GPU asset profile — prioritise adding decision-maker contacts",
+    "checks_run": "web presence check, Honda multi-year JDA verification (Aug 2024), NVIDIA H100/V100/DRIVE AGX Xavier GPU confirmation via NVIDIA blog, $102M funding verified, HQ Redwood City confirmed"
+  },
+  {
+    "company_id": "08eac0b7-eea3-405f-b62a-81087ca95476",
+    "company_name": "Wayve",
+    "agent_qa_score": 83,
+    "issues": ["No contacts in database"],
+    "recommendation": "All data highly accurate; top priority prospect — add London-based decision-maker contacts",
+    "checks_run": "web presence check, $1.05B Series C SoftBank/NVIDIA/Microsoft confirmed (May 2024), HQ London confirmed, NVIDIA DRIVE Orin/Thor partnership verified, GPU scale 2000-10000 plausible given $1B+ raised"
+  },
+  {
+    "company_id": "7eb28ce9-f8d2-4733-9ca7-ff70d14dda27",
+    "company_name": "Plus.ai",
+    "agent_qa_score": 76,
+    "issues": ["No contacts in database", "Going-public description is accurate but via SPAC merger (Churchill Capital Corp IX, Jun 2025) not traditional IPO — minor framing issue", "Volvo listed as investor but primary confirmed investors are Guotai Junan, CPE, Wanxiang — Volvo not prominently cited in recent rounds"],
+    "recommendation": "Verify Volvo investor claim; SPAC merge confirmed; add contacts before outreach",
+    "checks_run": "web presence check, $841M total funding confirmed via Crunchbase, HQ Santa Clara confirmed, NVIDIA DRIVE AGX Hyperion partnership verified, SPAC merger announcement verified"
+  },
+  {
+    "company_id": "79580212-c6f1-4df8-b61e-f7cdc4986232",
+    "company_name": "1X Technologies",
+    "agent_qa_score": 58,
+    "issues": ["HQ listed as Moss, Norway — INCORRECT. Company has relocated HQ to Palo Alto, California (Moss, Norway was founding location as Halodi Robotics)", "Funding stated as $130M — actual confirmed total is ~$123.5M (Series A $23.5M + Series B $100M); slight overstatement", "No contacts in database", "NVIDIA Blackwell HGX B200 GPU usage confirmed; OpenAI backing confirmed; $1B/$10B valuation target confirmed as of Sep 2025"],
+    "recommendation": "Fix HQ to Palo Alto CA; correct funding to ~$123.5M; strong robotics GPU prospect but data needs correction before outreach",
+    "checks_run": "web presence check, HQ relocation verification (Palo Alto confirmed via multiple sources), funding rounds verified (OpenAI Series A $23.5M + EQT Series B $100M), NEO robot confirmed, NVIDIA GPU usage confirmed, valuation target verified"
+  },
+  {
+    "company_id": "91232a36-d968-4b99-a33e-55be00c623f6",
+    "company_name": "Inworld AI",
+    "agent_qa_score": 74,
+    "issues": ["No contacts in database", "Bare-metal Slurm cluster with NVIDIA A100 claim not independently verified — plausible but unconfirmed in public sources", "Investor list largely confirmed but 'Founders Fund' not prominently cited in recent searches — may be stale"],
+    "recommendation": "Verify Slurm/A100 infrastructure claim; add decision-maker contacts; otherwise solid data quality",
+    "checks_run": "web presence check, $125M funding confirmed, $500M valuation confirmed, NVIDIA/Lightspeed/Kleiner Perkins/Microsoft M12/Meta/Intel Capital investors verified, HQ Mountain View confirmed, NVIDIA A100 GPU usage plausible but bare-metal Slurm unverified"
+  }
+]

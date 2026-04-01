@@ -1,0 +1,131 @@
+{
+  "id": "warm-referral-call-v1",
+  "name": "Warm / Referral Call",
+  "targetAudience": "any",
+  "description": "Shorter, faster decision tree for calls where a mutual connection has made an introduction or given permission to name-drop. Leverage the connection immediately. Get to the point in half the time of a cold call.",
+  "variables": ["company", "contact_name", "title", "referrer_name", "referrer_company"],
+  "entryNode": 1,
+  "nodes": [
+    {
+      "id": 1,
+      "type": "warm-opener",
+      "label": "Lead with the connection",
+      "script": "Hi {contact_name}, this is [caller] from Corgi Insurance Services. {referrer_name} suggested I reach out — thought what we're building would be relevant to what {company} is working on. Do you have 2 minutes?",
+      "branches": [
+        { "condition": "yes / go ahead", "next": 2 },
+        { "condition": "I know {referrer_name} / of course", "next": 2 },
+        { "condition": "bad time", "next": 3 },
+        { "condition": "don't know {referrer_name}", "next": 4 }
+      ]
+    },
+    {
+      "id": 2,
+      "type": "fast-hook",
+      "label": "Fast hook — no preamble",
+      "script": "We provide Residual Value Guaranty insurance for GPU hardware — think of it as a put option on your GPU fleet's value. If your hardware is worth less than the guaranteed floor at policy expiry, the policy pays out and we take title to the hardware. It's relevant for GPU operators who want to hedge depreciation risk, lenders who want a guaranteed collateral floor, and reinsurers looking for a new RV program. {referrer_name} thought the [operator / lender / reinsurer] angle was most relevant for {company}. Am I right?",
+      "branches": [
+        { "condition": "yes / that's right", "next": 5 },
+        { "condition": "actually [different angle] is more relevant", "next": 6 },
+        { "condition": "tell me more first", "next": 7 },
+        { "condition": "not for us", "next": 9 }
+      ]
+    },
+    {
+      "id": 3,
+      "type": "time-check",
+      "label": "Bad time",
+      "script": "Of course — when would be a better moment? {referrer_name} was enthusiastic enough that I'd like to give you the proper version rather than rushing it.",
+      "branches": [
+        { "condition": "gives a time", "next": "SCHEDULE_CALLBACK" },
+        { "condition": "email me first", "next": "SEND_WARM_EMAIL" },
+        { "condition": "hard no", "next": "GRACEFUL_EXIT" }
+      ]
+    },
+    {
+      "id": 4,
+      "type": "name-check",
+      "label": "Contact doesn't recognize referrer",
+      "script": "That's okay — {referrer_name} is [brief context: colleague / mutual contact / shared connection from X]. They thought the GPU residual value angle would be relevant to what {company} is doing. Can I take 60 seconds to explain what we do?",
+      "branches": [
+        { "condition": "yes / okay", "next": 2 },
+        { "condition": "no / not interested", "next": "GRACEFUL_EXIT" }
+      ]
+    },
+    {
+      "id": 5,
+      "type": "angle-confirmed",
+      "label": "Right angle confirmed — go deeper",
+      "script": "Good. Here's the specific mechanic: the policy is a contractual floor at a specified percentage of original GPU value — 5%, 10%, or 15% — over a 3, 5, or 10-year term. Premium is a one-time payment, 2.1% to 12.9% of GPU value depending on the tier. At expiry, if the market value per SiliconNavigator™ benchmarks is below the floor, we pay the full guaranteed amount and take title. If not, no claim, policy expires. Does the economics of that structure make sense for {company}?",
+      "branches": [
+        { "condition": "yes / makes sense", "next": 8 },
+        { "condition": "how does it affect our financing", "next": "ROUTE_LENDER_ANGLE" },
+        { "condition": "what's the carrier", "next": "CARRIER_CREDIBILITY" },
+        { "condition": "what did {referrer_name} say specifically", "next": "REFERRER_CONTEXT" }
+      ]
+    },
+    {
+      "id": 6,
+      "type": "angle-redirect",
+      "label": "Redirect to correct angle",
+      "script": "Good to know — let me come at it from the [correct angle] angle then. [Route to node 5 of the relevant audience script — gpu-operator, lender, or reinsurer — based on stated angle.] What specifically is {company} doing in that space?",
+      "branches": [
+        { "condition": "gives context", "next": "ROUTE_TO_AUDIENCE_SCRIPT" }
+      ]
+    },
+    {
+      "id": 7,
+      "type": "more-context",
+      "label": "Contact wants context first",
+      "script": "Happy to. We're Corgi Insurance Services. We built the first Residual Value Guaranty product for data-center GPU hardware — there was no insurance solution for GPU depreciation risk before us. We've raised $108M, we're writing policies on H100 and A100 clusters, and we're building our reinsurance tower. The product works like auto or equipment RV: guaranteed floor, value test at expiry, title transfer at settlement. {referrer_name} thought this was timely for {company}. What's the context on your end?",
+      "branches": [
+        { "condition": "gives context — operator", "next": 5 },
+        { "condition": "gives context — lender", "next": "ROUTE_LENDER_ANGLE" },
+        { "condition": "gives context — reinsurer", "next": "ROUTE_REINSURER_ANGLE" },
+        { "condition": "not immediately relevant", "next": 9 }
+      ]
+    },
+    {
+      "id": 8,
+      "type": "meeting-ask",
+      "label": "Meeting ask — warm",
+      "script": "Good. The most useful next step is a 20-minute call with our founders — Isaac and Josh. Given the intro from {referrer_name}, they'd prioritize the time and come prepared with indicative pricing for {company}'s specific situation. No pitch — working session. When works for you?",
+      "branches": [
+        { "condition": "yes / gives availability", "next": "BOOK_MEETING" },
+        { "condition": "send something over first", "next": "SEND_WARM_EMAIL" },
+        { "condition": "let me check internally", "next": "SCHEDULE_CALLBACK" }
+      ]
+    },
+    {
+      "id": 9,
+      "type": "graceful-exit-warm",
+      "label": "Graceful exit — warm",
+      "script": "Understood — I appreciate the time. I'll let {referrer_name} know we connected. If the GPU residual value or financing angle becomes relevant for {company} in the future, I hope you'll reach out — we're easy to find at corgi.xyz. Thanks.",
+      "branches": [],
+      "terminal": true
+    }
+  ],
+  "objectionHandlers": {
+    "why_did_referrer_suggest_this": {
+      "trigger": "why did {referrer_name} think this was relevant / what did they say",
+      "response": "They mentioned {company} is [operating / financing / writing capacity into] GPU infrastructure and thought the residual value angle was timely. Whether that's exactly right is what I'd like to confirm with you. Is the GPU infrastructure side relevant to {company}?",
+      "next": 7
+    },
+    "not_the_decision_maker": {
+      "trigger": "not my area / someone else handles this",
+      "response": "No problem. Who should I speak with? Given the intro from {referrer_name}, I want to make sure the right person gets the information rather than it floating around.",
+      "next": "CAPTURE_NEW_CONTACT"
+    }
+  },
+  "exitStates": {
+    "BOOK_MEETING": "Log meeting, send calendar invite, send warm_intro.hbs as pre-read, trigger follow_up_2.hbs post-meeting",
+    "SEND_WARM_EMAIL": "Send warm_intro.hbs, follow up in 3 days",
+    "ROUTE_TO_AUDIENCE_SCRIPT": "Transfer to appropriate audience script based on stated angle",
+    "ROUTE_LENDER_ANGLE": "Transfer to script-lender.json node 5",
+    "ROUTE_REINSURER_ANGLE": "Transfer to script-reinsurer.json node 5",
+    "CARRIER_CREDIBILITY": "Deliver carrier credibility response, redirect to meeting ask",
+    "REFERRER_CONTEXT": "Share what referrer said, redirect to meeting ask",
+    "SCHEDULE_CALLBACK": "Log callback, send warm_intro.hbs same day",
+    "CAPTURE_NEW_CONTACT": "Capture correct contact details, update CRM, restart",
+    "GRACEFUL_EXIT": "Log outcome, notify referrer contact was reached"
+  }
+}

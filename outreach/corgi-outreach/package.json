@@ -1,0 +1,13 @@
+{
+  "name": "corgi-outreach",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "build": "cd frontend && (pnpm install --frozen-lockfile 2>/dev/null || npm install) && npm run build",
+    "start": "cd backend && node src/server.js",
+    "postinstall": "cd backend && npm install"
+  },
+  "engines": {
+    "node": ">=20"
+  }
+}

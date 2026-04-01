@@ -1,0 +1,1051 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>GPU Residual Value Guarantee — Corgi Insurance</title>
+  <style>
+    /* ─── Reset & Base ─── */
+    *, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
+
+    :root {
+      --navy:      #0A1628;
+      --navy-mid:  #0F1F3D;
+      --navy-card: #112040;
+      --navy-line: #1C3260;
+      --gold:      #C9A84C;
+      --gold-lt:   #E2C47A;
+      --gold-dk:   #A07830;
+      --white:     #FFFFFF;
+      --off-white: #E8EDF5;
+      --muted:     #8899BB;
+      --radius:    6px;
+      --max-w:     860px;
+    }
+
+    html { scroll-behavior: smooth; }
+
+    body {
+      font-family: 'Georgia', 'Times New Roman', serif;
+      background: var(--navy);
+      color: var(--off-white);
+      line-height: 1.7;
+      -webkit-print-color-adjust: exact;
+      print-color-adjust: exact;
+    }
+
+    /* ─── Typography ─── */
+    h1, h2, h3, h4 {
+      font-family: 'Georgia', serif;
+      font-weight: normal;
+      letter-spacing: 0.01em;
+    }
+
+    .sans {
+      font-family: -apple-system, 'Helvetica Neue', Arial, sans-serif;
+    }
+
+    /* ─── Layout ─── */
+    .page {
+      max-width: var(--max-w);
+      margin: 0 auto;
+      padding: 0 32px;
+    }
+
+    section {
+      padding: 64px 0;
+      border-bottom: 1px solid var(--navy-line);
+    }
+
+    section:last-of-type { border-bottom: none; }
+
+    /* ─── Section Labels ─── */
+    .section-label {
+      font-family: -apple-system, 'Helvetica Neue', Arial, sans-serif;
+      font-size: 10px;
+      font-weight: 600;
+      letter-spacing: 0.2em;
+      text-transform: uppercase;
+      color: var(--gold);
+      margin-bottom: 20px;
+      display: flex;
+      align-items: center;
+      gap: 12px;
+    }
+
+    .section-label::after {
+      content: '';
+      flex: 0 0 32px;
+      height: 1px;
+      background: var(--gold);
+      opacity: 0.5;
+    }
+
+    /* ─── Header / Hero ─── */
+    header {
+      background: linear-gradient(175deg, #0D1E3A 0%, var(--navy) 100%);
+      border-bottom: 1px solid var(--navy-line);
+      padding: 0;
+    }
+
+    .header-inner {
+      max-width: var(--max-w);
+      margin: 0 auto;
+      padding: 0 32px;
+    }
+
+    .topbar {
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      padding: 24px 0 20px;
+      border-bottom: 1px solid var(--navy-line);
+    }
+
+    .logo {
+      display: flex;
+      align-items: center;
+      gap: 12px;
+    }
+
+    .logo-mark {
+      width: 36px;
+      height: 36px;
+      background: var(--gold);
+      border-radius: 50%;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      font-size: 18px;
+      flex-shrink: 0;
+    }
+
+    .logo-text {
+      font-family: -apple-system, 'Helvetica Neue', Arial, sans-serif;
+      font-size: 15px;
+      font-weight: 600;
+      letter-spacing: 0.08em;
+      text-transform: uppercase;
+      color: var(--white);
+    }
+
+    .logo-sub {
+      font-family: -apple-system, 'Helvetica Neue', Arial, sans-serif;
+      font-size: 9px;
+      font-weight: 400;
+      letter-spacing: 0.15em;
+      text-transform: uppercase;
+      color: var(--muted);
+      margin-top: 1px;
+    }
+
+    .topbar-right {
+      font-family: -apple-system, 'Helvetica Neue', Arial, sans-serif;
+      font-size: 11px;
+      letter-spacing: 0.06em;
+      color: var(--muted);
+      text-align: right;
+    }
+
+    .topbar-right strong {
+      display: block;
+      color: var(--gold);
+      font-size: 10px;
+      letter-spacing: 0.15em;
+      text-transform: uppercase;
+      margin-bottom: 2px;
+    }
+
+    /* Hero */
+    .hero {
+      padding: 72px 0 80px;
+    }
+
+    .hero-eyebrow {
+      font-family: -apple-system, 'Helvetica Neue', Arial, sans-serif;
+      font-size: 10px;
+      font-weight: 600;
+      letter-spacing: 0.25em;
+      text-transform: uppercase;
+      color: var(--gold);
+      margin-bottom: 24px;
+    }
+
+    .hero h1 {
+      font-size: 42px;
+      line-height: 1.18;
+      color: var(--white);
+      max-width: 680px;
+      margin-bottom: 28px;
+    }
+
+    .hero h1 em {
+      font-style: normal;
+      color: var(--gold);
+    }
+
+    .hero-lead {
+      font-size: 16px;
+      color: var(--off-white);
+      max-width: 560px;
+      line-height: 1.75;
+      margin-bottom: 44px;
+    }
+
+    .hero-pills {
+      display: flex;
+      flex-wrap: wrap;
+      gap: 10px;
+    }
+
+    .pill {
+      font-family: -apple-system, 'Helvetica Neue', Arial, sans-serif;
+      font-size: 11px;
+      font-weight: 500;
+      letter-spacing: 0.05em;
+      color: var(--gold-lt);
+      background: rgba(201, 168, 76, 0.10);
+      border: 1px solid rgba(201, 168, 76, 0.30);
+      border-radius: 2px;
+      padding: 6px 14px;
+    }
+
+    /* ─── Problem ─── */
+    .problem-grid {
+      display: grid;
+      grid-template-columns: 1fr 1fr 1fr;
+      gap: 24px;
+      margin-top: 40px;
+    }
+
+    .problem-card {
+      background: var(--navy-card);
+      border: 1px solid var(--navy-line);
+      border-top: 3px solid rgba(201, 168, 76, 0.4);
+      border-radius: var(--radius);
+      padding: 28px 24px;
+    }
+
+    .problem-card .num {
+      font-family: -apple-system, 'Helvetica Neue', Arial, sans-serif;
+      font-size: 28px;
+      font-weight: 300;
+      color: var(--gold);
+      margin-bottom: 10px;
+      letter-spacing: -0.02em;
+    }
+
+    .problem-card h3 {
+      font-size: 14px;
+      font-weight: normal;
+      color: var(--white);
+      margin-bottom: 10px;
+    }
+
+    .problem-card p {
+      font-family: -apple-system, 'Helvetica Neue', Arial, sans-serif;
+      font-size: 13px;
+      color: var(--muted);
+      line-height: 1.6;
+    }
+
+    /* ─── Solution ─── */
+    .solution-body {
+      display: grid;
+      grid-template-columns: 1fr 1fr;
+      gap: 48px;
+      margin-top: 40px;
+      align-items: start;
+    }
+
+    .solution-text h3 {
+      font-size: 22px;
+      color: var(--white);
+      margin-bottom: 18px;
+      line-height: 1.35;
+    }
+
+    .solution-text p {
+      font-size: 15px;
+      color: var(--off-white);
+      margin-bottom: 18px;
+      line-height: 1.75;
+    }
+
+    .solution-text p strong {
+      color: var(--gold-lt);
+      font-weight: normal;
+    }
+
+    /* Diagram */
+    .diagram {
+      background: var(--navy-card);
+      border: 1px solid var(--navy-line);
+      border-radius: var(--radius);
+      padding: 32px 24px;
+    }
+
+    .diagram-title {
+      font-family: -apple-system, 'Helvetica Neue', Arial, sans-serif;
+      font-size: 10px;
+      font-weight: 600;
+      letter-spacing: 0.2em;
+      text-transform: uppercase;
+      color: var(--muted);
+      margin-bottom: 28px;
+      text-align: center;
+    }
+
+    .flow {
+      display: flex;
+      flex-direction: column;
+      gap: 0;
+    }
+
+    .flow-node {
+      display: flex;
+      align-items: center;
+      gap: 16px;
+    }
+
+    .flow-icon {
+      width: 44px;
+      height: 44px;
+      border-radius: 50%;
+      background: var(--navy-mid);
+      border: 2px solid var(--gold);
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      font-size: 18px;
+      flex-shrink: 0;
+    }
+
+    .flow-content {
+      flex: 1;
+    }
+
+    .flow-content strong {
+      font-family: -apple-system, 'Helvetica Neue', Arial, sans-serif;
+      font-size: 13px;
+      font-weight: 600;
+      color: var(--white);
+      display: block;
+    }
+
+    .flow-content span {
+      font-family: -apple-system, 'Helvetica Neue', Arial, sans-serif;
+      font-size: 11px;
+      color: var(--muted);
+    }
+
+    .flow-connector {
+      display: flex;
+      align-items: center;
+      gap: 16px;
+      padding: 4px 0;
+    }
+
+    .flow-connector-line {
+      width: 44px;
+      display: flex;
+      justify-content: center;
+      flex-shrink: 0;
+    }
+
+    .flow-connector-inner {
+      width: 2px;
+      height: 28px;
+      background: linear-gradient(to bottom, var(--gold-dk), var(--gold));
+      opacity: 0.5;
+    }
+
+    .flow-connector-label {
+      font-family: -apple-system, 'Helvetica Neue', Arial, sans-serif;
+      font-size: 10px;
+      color: var(--gold);
+      letter-spacing: 0.08em;
+    }
+
+    .flow-node.protected .flow-icon {
+      background: rgba(201, 168, 76, 0.15);
+      border-color: var(--gold-lt);
+    }
+
+    /* ─── For Lenders ─── */
+    .benefits-grid {
+      display: grid;
+      grid-template-columns: 1fr 1fr;
+      gap: 20px;
+      margin-top: 40px;
+    }
+
+    .benefit-card {
+      background: var(--navy-card);
+      border: 1px solid var(--navy-line);
+      border-radius: var(--radius);
+      padding: 28px 26px;
+      position: relative;
+      overflow: hidden;
+    }
+
+    .benefit-card::before {
+      content: '';
+      position: absolute;
+      top: 0;
+      left: 0;
+      right: 0;
+      height: 2px;
+      background: linear-gradient(90deg, var(--gold), transparent);
+    }
+
+    .benefit-card h3 {
+      font-size: 16px;
+      color: var(--white);
+      margin-bottom: 12px;
+      font-weight: normal;
+    }
+
+    .benefit-card p {
+      font-family: -apple-system, 'Helvetica Neue', Arial, sans-serif;
+      font-size: 13px;
+      color: var(--muted);
+      line-height: 1.65;
+    }
+
+    .benefit-card .icon {
+      font-size: 22px;
+      margin-bottom: 14px;
+      display: block;
+    }
+
+    /* ─── How It Works ─── */
+    .steps {
+      display: grid;
+      grid-template-columns: 1fr 1fr 1fr;
+      gap: 0;
+      margin-top: 48px;
+      border: 1px solid var(--navy-line);
+      border-radius: var(--radius);
+      overflow: hidden;
+    }
+
+    .step {
+      padding: 36px 28px;
+      border-right: 1px solid var(--navy-line);
+      background: var(--navy-card);
+      position: relative;
+    }
+
+    .step:last-child { border-right: none; }
+
+    .step-num {
+      font-family: -apple-system, 'Helvetica Neue', Arial, sans-serif;
+      font-size: 42px;
+      font-weight: 300;
+      color: rgba(201, 168, 76, 0.20);
+      position: absolute;
+      top: 20px;
+      right: 20px;
+      line-height: 1;
+    }
+
+    .step-label {
+      font-family: -apple-system, 'Helvetica Neue', Arial, sans-serif;
+      font-size: 10px;
+      font-weight: 600;
+      letter-spacing: 0.18em;
+      text-transform: uppercase;
+      color: var(--gold);
+      margin-bottom: 14px;
+    }
+
+    .step h3 {
+      font-size: 17px;
+      color: var(--white);
+      margin-bottom: 12px;
+      line-height: 1.3;
+      font-weight: normal;
+      max-width: 180px;
+    }
+
+    .step p {
+      font-family: -apple-system, 'Helvetica Neue', Arial, sans-serif;
+      font-size: 13px;
+      color: var(--muted);
+      line-height: 1.65;
+    }
+
+    /* ─── Market Validation ─── */
+    .validation-body {
+      display: grid;
+      grid-template-columns: 1fr 1fr;
+      gap: 40px;
+      margin-top: 40px;
+      align-items: start;
+    }
+
+    .stat-block {
+      display: flex;
+      flex-direction: column;
+      gap: 24px;
+    }
+
+    .stat-item {
+      border-left: 3px solid var(--gold);
+      padding-left: 20px;
+    }
+
+    .stat-item .stat-val {
+      font-family: -apple-system, 'Helvetica Neue', Arial, sans-serif;
+      font-size: 28px;
+      font-weight: 300;
+      color: var(--gold-lt);
+      letter-spacing: -0.02em;
+      line-height: 1;
+      margin-bottom: 6px;
+    }
+
+    .stat-item .stat-label {
+      font-size: 15px;
+      color: var(--white);
+      margin-bottom: 4px;
+    }
+
+    .stat-item .stat-sub {
+      font-family: -apple-system, 'Helvetica Neue', Arial, sans-serif;
+      font-size: 12px;
+      color: var(--muted);
+    }
+
+    .validation-text {
+      padding-top: 4px;
+    }
+
+    .validation-text p {
+      font-size: 15px;
+      color: var(--off-white);
+      margin-bottom: 18px;
+      line-height: 1.75;
+    }
+
+    .validation-text p strong {
+      color: var(--gold-lt);
+      font-weight: normal;
+    }
+
+    .naic-badge {
+      background: var(--navy-card);
+      border: 1px solid var(--navy-line);
+      border-left: 3px solid var(--gold);
+      border-radius: var(--radius);
+      padding: 16px 18px;
+      margin-top: 20px;
+    }
+
+    .naic-badge .badge-label {
+      font-family: -apple-system, 'Helvetica Neue', Arial, sans-serif;
+      font-size: 9px;
+      font-weight: 600;
+      letter-spacing: 0.2em;
+      text-transform: uppercase;
+      color: var(--gold);
+      margin-bottom: 6px;
+    }
+
+    .naic-badge p {
+      font-family: -apple-system, 'Helvetica Neue', Arial, sans-serif;
+      font-size: 12px;
+      color: var(--muted);
+      line-height: 1.6;
+      margin: 0;
+    }
+
+    /* ─── Coverage Details ─── */
+    .coverage-row {
+      display: grid;
+      grid-template-columns: repeat(4, 1fr);
+      gap: 16px;
+      margin-top: 40px;
+    }
+
+    .coverage-item {
+      background: var(--navy-card);
+      border: 1px solid var(--navy-line);
+      border-radius: var(--radius);
+      padding: 22px 18px;
+      text-align: center;
+    }
+
+    .coverage-item .cov-label {
+      font-family: -apple-system, 'Helvetica Neue', Arial, sans-serif;
+      font-size: 10px;
+      letter-spacing: 0.15em;
+      text-transform: uppercase;
+      color: var(--muted);
+      margin-bottom: 8px;
+    }
+
+    .coverage-item .cov-val {
+      font-size: 15px;
+      color: var(--white);
+    }
+
+    /* ─── Contact CTA ─── */
+    .cta-section {
+      background: linear-gradient(165deg, #0D2040 0%, #0A1628 100%);
+      border-top: 1px solid var(--navy-line);
+      padding: 72px 0;
+    }
+
+    .cta-inner {
+      max-width: var(--max-w);
+      margin: 0 auto;
+      padding: 0 32px;
+      text-align: center;
+    }
+
+    .cta-inner h2 {
+      font-size: 30px;
+      color: var(--white);
+      margin-bottom: 16px;
+      line-height: 1.3;
+    }
+
+    .cta-inner p {
+      font-size: 16px;
+      color: var(--muted);
+      margin-bottom: 40px;
+      max-width: 480px;
+      margin-left: auto;
+      margin-right: auto;
+    }
+
+    .contact-block {
+      display: inline-flex;
+      flex-direction: column;
+      align-items: center;
+      gap: 8px;
+      background: var(--navy-card);
+      border: 1px solid var(--navy-line);
+      border-top: 2px solid var(--gold);
+      border-radius: var(--radius);
+      padding: 32px 48px;
+    }
+
+    .contact-block .contact-name {
+      font-size: 18px;
+      color: var(--white);
+      margin-bottom: 4px;
+    }
+
+    .contact-block .contact-email {
+      font-family: -apple-system, 'Helvetica Neue', Arial, sans-serif;
+      font-size: 14px;
+      color: var(--gold-lt);
+      text-decoration: none;
+    }
+
+    .contact-block .contact-web {
+      font-family: -apple-system, 'Helvetica Neue', Arial, sans-serif;
+      font-size: 13px;
+      color: var(--muted);
+      margin-top: 4px;
+    }
+
+    .contact-divider {
+      width: 32px;
+      height: 1px;
+      background: var(--navy-line);
+      margin: 6px 0;
+    }
+
+    /* ─── Footer ─── */
+    footer {
+      background: #060F1E;
+      border-top: 1px solid var(--navy-line);
+      padding: 28px 32px;
+    }
+
+    .footer-inner {
+      max-width: var(--max-w);
+      margin: 0 auto;
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      flex-wrap: wrap;
+      gap: 12px;
+    }
+
+    .footer-left {
+      font-family: -apple-system, 'Helvetica Neue', Arial, sans-serif;
+      font-size: 11px;
+      color: var(--muted);
+    }
+
+    .footer-badges {
+      display: flex;
+      gap: 16px;
+    }
+
+    .footer-badge {
+      font-family: -apple-system, 'Helvetica Neue', Arial, sans-serif;
+      font-size: 10px;
+      letter-spacing: 0.08em;
+      color: var(--muted);
+      border: 1px solid var(--navy-line);
+      border-radius: 2px;
+      padding: 4px 10px;
+      display: flex;
+      align-items: center;
+      gap: 6px;
+    }
+
+    .footer-badge .dot {
+      width: 5px;
+      height: 5px;
+      border-radius: 50%;
+      background: var(--gold);
+      opacity: 0.7;
+    }
+
+    /* ─── Print ─── */
+    @media print {
+      body { background: var(--navy); }
+      section { page-break-inside: avoid; }
+      .cta-section { page-break-before: auto; }
+    }
+
+    /* ─── Responsive ─── */
+    @media (max-width: 680px) {
+      .hero h1 { font-size: 28px; }
+      .problem-grid { grid-template-columns: 1fr; }
+      .solution-body { grid-template-columns: 1fr; }
+      .benefits-grid { grid-template-columns: 1fr; }
+      .steps { grid-template-columns: 1fr; }
+      .step { border-right: none; border-bottom: 1px solid var(--navy-line); }
+      .step:last-child { border-bottom: none; }
+      .validation-body { grid-template-columns: 1fr; }
+      .coverage-row { grid-template-columns: 1fr 1fr; }
+      .footer-inner { flex-direction: column; align-items: flex-start; }
+    }
+  </style>
+</head>
+<body>
+
+<!-- ══════════════════════════════════════════════ HEADER -->
+<header>
+  <div class="header-inner">
+    <div class="topbar">
+      <div class="logo">
+        <div class="logo-mark">🐕</div>
+        <div>
+          <div class="logo-text">Corgi Insurance</div>
+          <div class="logo-sub">Specialty Risk &amp; Structured Products</div>
+        </div>
+      </div>
+      <div class="topbar-right">
+        <strong>Confidential</strong>
+        For qualified lenders &amp; institutional counterparties
+      </div>
+    </div>
+
+    <div class="hero">
+      <div class="hero-eyebrow">GPU Residual Value Guarantee</div>
+      <h1>Collateral protection for the<br /><em>infrastructure powering AI.</em></h1>
+      <p class="hero-lead">
+        GPU-backed lending carries a risk that aviation financing solved decades ago. Corgi's Residual Value Guarantee (RVG) puts a contractual floor on your collateral value at maturity — enabling better advance rates, longer tenors, and a sharper competitive edge on every GPU-secured deal.
+      </p>
+      <div class="hero-pills">
+        <span class="pill">NVIDIA H100 · H200 · Blackwell</span>
+        <span class="pill">Minimum $1M asset value</span>
+        <span class="pill">Reinsurance-backed capacity</span>
+        <span class="pill">Actuarially priced</span>
+        <span class="pill">NAIC-recognised risk mitigation</span>
+      </div>
+    </div>
+  </div>
+</header>
+
+<!-- ══════════════════════════════════════════════ PROBLEM -->
+<section>
+  <div class="page">
+    <div class="section-label">The Problem</div>
+    <h2 style="font-size:26px; color:var(--white); max-width:540px; line-height:1.3; margin-bottom:8px;">
+      GPU depreciation is the unhedged risk on every AI infrastructure loan.
+    </h2>
+    <p style="font-family:sans-serif; font-size:14px; color:var(--muted); max-width:580px;">
+      Lenders face structural uncertainty: AI hardware depreciates rapidly, secondary market liquidity is thin, and model generations shift values overnight. Standard loan structures leave that tail risk entirely on the balance sheet.
+    </p>
+
+    <div class="problem-grid">
+      <div class="problem-card">
+        <div class="num">18–36<span style="font-size:16px;">mo</span></div>
+        <h3>Generational Cycles Compress Value</h3>
+        <p>NVIDIA releases new datacenter GPU architectures every 12–18 months. Prior-gen assets face step-change devaluation as compute buyers migrate to next-gen silicon — compressing residual values faster than loan amortisation schedules.</p>
+      </div>
+      <div class="problem-card">
+        <div class="num">↓LTV</div>
+        <h3>Conservative Advance Rates Constrain Deployment</h3>
+        <p>Without residual value protection, lenders apply aggressive haircuts — often 50–65% LTV — to account for depreciation risk. This leaves borrowers undercapitalised and lenders losing deals to competitors willing to take more risk.</p>
+      </div>
+      <div class="problem-card">
+        <div class="num">$0</div>
+        <h3>No Instrument Has Existed to Transfer This Risk</h3>
+        <p>Until now, GPU lenders had no mechanism to offload collateral depreciation risk. Aviation solved this problem in 1989. The structured credit, insurance, and capital markets infrastructure for GPU assets is only beginning to form.</p>
+      </div>
+    </div>
+  </div>
+</section>
+
+<!-- ══════════════════════════════════════════════ SOLUTION -->
+<section>
+  <div class="page">
+    <div class="section-label">The Solution</div>
+    <div class="solution-body">
+      <div class="solution-text">
+        <h3>A contractual floor on GPU collateral value — at the date that matters.</h3>
+        <p>
+          The Corgi RVG is an insurance policy issued to the lender (or SPV) that guarantees a minimum residual value for covered GPU assets at a specified future date, aligned to loan maturity.
+        </p>
+        <p>
+          If the prevailing secondary market value of the covered hardware falls below the guaranteed floor, <strong>Corgi pays the delta</strong>. If the market holds, the policy simply expires. The borrower pays the premium; the lender holds the protection.
+        </p>
+        <p>
+          Pricing is actuarially derived using <strong>SiliconNavigator real-time GPU secondary market data</strong> — the most granular GPU pricing intelligence available — combined with hardware depreciation curves, supply-demand modelling, and fleet-level utilisation data.
+        </p>
+        <p>
+          All capacity is <strong>reinsurance-backed</strong>, ensuring counterparty strength consistent with rated institutional counterparties.
+        </p>
+      </div>
+
+      <div class="diagram">
+        <div class="diagram-title">How Protection Flows</div>
+        <div class="flow">
+
+          <div class="flow-node">
+            <div class="flow-icon">🏦</div>
+            <div class="flow-content">
+              <strong>Lender Funds GPU Loan</strong>
+              <span>Capital deployed against datacenter GPU collateral</span>
+            </div>
+          </div>
+
+          <div class="flow-connector">
+            <div class="flow-connector-line"><div class="flow-connector-inner"></div></div>
+            <div class="flow-connector-label">Corgi RVG Policy Issued</div>
+          </div>
+
+          <div class="flow-node">
+            <div class="flow-icon">📋</div>
+            <div class="flow-content">
+              <strong>Floor Value Guaranteed</strong>
+              <span>Policy locks minimum collateral value at maturity</span>
+            </div>
+          </div>
+
+          <div class="flow-connector">
+            <div class="flow-connector-line"><div class="flow-connector-inner"></div></div>
+            <div class="flow-connector-label">At loan maturity</div>
+          </div>
+
+          <div class="flow-node">
+            <div class="flow-icon">📉</div>
+            <div class="flow-content">
+              <strong>Market Value vs. Floor</strong>
+              <span>Secondary market price assessed at maturity date</span>
+            </div>
+          </div>
+
+          <div class="flow-connector">
+            <div class="flow-connector-line"><div class="flow-connector-inner"></div></div>
+            <div class="flow-connector-label">If below floor → Corgi pays delta</div>
+          </div>
+
+          <div class="flow-node protected">
+            <div class="flow-icon">🛡️</div>
+            <div class="flow-content">
+              <strong>Lender Is Made Whole</strong>
+              <span>Full collateral recovery regardless of GPU market</span>
+            </div>
+          </div>
+
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+
+<!-- ══════════════════════════════════════════════ FOR LENDERS -->
+<section>
+  <div class="page">
+    <div class="section-label">For Lenders</div>
+    <h2 style="font-size:24px; color:var(--white); margin-bottom:8px;">Turn collateral risk into competitive advantage.</h2>
+    <p style="font-family:sans-serif; font-size:14px; color:var(--muted); max-width:600px;">The RVG directly improves your credit profile and commercial terms on every GPU-backed deal.</p>
+
+    <div class="benefits-grid">
+      <div class="benefit-card">
+        <span class="icon">📈</span>
+        <h3>Higher Advance Rates</h3>
+        <p>With a guaranteed floor on collateral, your credit model can support materially higher LTV ratios — typically 75–85% vs. the 50–65% achievable without protection. More capital deployed per deal, better borrower economics, stronger relationship.</p>
+      </div>
+
+      <div class="benefit-card">
+        <span class="icon">📅</span>
+        <h3>Longer Tenor, Same Risk Appetite</h3>
+        <p>GPU depreciation risk is front-loaded in the out-years of a loan. The RVG absorbs that tail, allowing you to offer 36–60 month tenors with confidence — without increasing your effective credit exposure.</p>
+      </div>
+
+      <div class="benefit-card">
+        <span class="icon">⚖️</span>
+        <h3>Regulatory Capital Relief</h3>
+        <p>The NAIC recognises Residual Value Insurance as an acceptable form of risk mitigation. For insurance-regulated lenders and structured vehicles, the RVG can directly improve capital treatment on covered positions.</p>
+      </div>
+
+      <div class="benefit-card">
+        <span class="icon">🏆</span>
+        <h3>First-Mover Differentiation</h3>
+        <p>GPU ABS is nascent. The lenders who standardise RVG protection now will set market precedent, attract the best borrowers, and build deal flow that competitors cannot easily replicate. This is not a defensive product — it is a market-making one.</p>
+      </div>
+    </div>
+  </div>
+</section>
+
+<!-- ══════════════════════════════════════════════ HOW IT WORKS -->
+<section>
+  <div class="page">
+    <div class="section-label">Process</div>
+    <h2 style="font-size:24px; color:var(--white);">From term sheet to bound policy in three steps.</h2>
+
+    <div class="steps">
+      <div class="step">
+        <div class="step-num">01</div>
+        <div class="step-label">Submission</div>
+        <h3>Share Your Deal Parameters</h3>
+        <p>Provide asset schedule (GPU model, quantity, vintage), loan amount, tenor, and target floor value. Corgi's underwriting team reviews within 48 hours.</p>
+      </div>
+      <div class="step">
+        <div class="step-num">02</div>
+        <div class="step-label">Pricing</div>
+        <h3>Actuarial Pricing via SiliconNavigator</h3>
+        <p>We run the asset profile through our pricing model — live secondary market data, hardware depreciation curves, supply/demand signals — and return a firm indicative premium within 2 business days.</p>
+      </div>
+      <div class="step">
+        <div class="step-num">03</div>
+        <div class="step-label">Bind</div>
+        <h3>Policy Issued at Loan Close</h3>
+        <p>Premium is paid by the borrower at origination. The RVG policy is issued to the lender (or SPV), naming them as loss payee. Claim process at maturity is straightforward: market appraisal vs. floor.</p>
+      </div>
+    </div>
+
+    <div class="coverage-row" style="margin-top:32px;">
+      <div class="coverage-item">
+        <div class="cov-label">Covered Hardware</div>
+        <div class="cov-val" style="font-size:13px; font-family:sans-serif;">H100 · H200 · Blackwell</div>
+      </div>
+      <div class="coverage-item">
+        <div class="cov-label">Minimum Deal Size</div>
+        <div class="cov-val">$1M</div>
+      </div>
+      <div class="coverage-item">
+        <div class="cov-label">Indicative Tenor</div>
+        <div class="cov-val" style="font-size:13px; font-family:sans-serif;">12 – 60 months</div>
+      </div>
+      <div class="coverage-item">
+        <div class="cov-label">Pricing Turnaround</div>
+        <div class="cov-val" style="font-size:13px; font-family:sans-serif;">48 – 72 hours</div>
+      </div>
+    </div>
+  </div>
+</section>
+
+<!-- ══════════════════════════════════════════════ MARKET VALIDATION -->
+<section>
+  <div class="page">
+    <div class="section-label">Market Validation</div>
+    <h2 style="font-size:24px; color:var(--white); margin-bottom:24px;">This structure is proven. The asset class is new.</h2>
+
+    <div class="validation-body">
+      <div class="stat-block">
+        <div class="stat-item">
+          <div class="stat-val">$59B+</div>
+          <div class="stat-label">Aviation RVI Market</div>
+          <div class="stat-sub">Residual Value Insurance has underwritten aviation fleets since 1989. RVI Group and Assured Guaranty Re Overseas (AGRO) have written billions in aircraft RVI — the exact same contractual structure, applied to a prior generation of high-value, depreciating assets.</div>
+        </div>
+
+        <div class="stat-item">
+          <div class="stat-val">$1.1B</div>
+          <div class="stat-label">First GPU ABS — AAA Rated</div>
+          <div class="stat-sub">The inaugural GPU-backed asset-backed security closed in 2024, rated AAA. The structured credit market has validated GPU collateral. RVG is the next logical layer of that capital stack.</div>
+        </div>
+
+        <div class="stat-item">
+          <div class="stat-val">NAIC</div>
+          <div class="stat-label">Regulatory Recognition</div>
+          <div class="stat-sub">The National Association of Insurance Commissioners recognises Residual Value Insurance as an acceptable risk mitigation instrument. The regulatory framework exists — the product just needed to be applied to this asset class.</div>
+        </div>
+      </div>
+
+      <div class="validation-text">
+        <p>
+          Aviation lenders faced an identical problem in the 1980s. Jet aircraft are high-value, depreciating assets with volatile secondary markets and rapid technological obsolescence. Residual Value Insurance emerged as the instrument to bridge that gap — enabling longer loans, better advance rates, and a functional secondary market for aviation credit.
+        </p>
+        <p>
+          <strong>GPU infrastructure is the jet aircraft of the AI era.</strong> The depreciation dynamics are faster, the market is less liquid, and the capital demand is growing faster than any aviation cycle in history.
+        </p>
+        <p>
+          Corgi is bringing the same proven structure to the asset class defining the next decade of infrastructure investment — before the market settles on a standard. The lenders who build RVG into their GPU underwriting now will define that standard.
+        </p>
+
+        <div class="naic-badge">
+          <div class="badge-label">Regulatory Standing</div>
+          <p>The NAIC formally recognises Residual Value Insurance as an acceptable credit risk mitigation instrument. Corgi's RVG policies are structured to qualify under this framework, supporting potential regulatory capital treatment for covered exposures.</p>
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+
+<!-- ══════════════════════════════════════════════ CONTACT CTA -->
+<div class="cta-section">
+  <div class="cta-inner">
+    <div class="section-label" style="justify-content:center; text-align:center;">Get in Touch</div>
+    <h2>Ready to price your next GPU deal<br />with a floor?</h2>
+    <p>
+      Submit a deal for indicative pricing, or reach out directly to discuss how RVG fits your lending programme.
+    </p>
+
+    <div class="contact-block">
+      <div class="contact-name">[Your Name]</div>
+      <div class="contact-email">[your.name@corgiinsurance.com]</div>
+      <div class="contact-divider"></div>
+      <div class="contact-web">corgiinsurance.com</div>
+    </div>
+
+    <p style="font-size:12px; color:var(--muted); margin-top:32px; max-width:400px; margin-left:auto; margin-right:auto; line-height:1.6;">
+      Minimum deal size $1M GPU asset value. Indicative pricing available within 48–72 hours of submission. All submissions treated as confidential.
+    </p>
+  </div>
+</div>
+
+<!-- ══════════════════════════════════════════════ FOOTER -->
+<footer>
+  <div class="footer-inner">
+    <div class="footer-left">
+      © 2025 Corgi Insurance. All rights reserved. This document is for informational purposes only and does not constitute a binding insurance commitment. Policy terms subject to underwriting review and formal policy issuance.
+    </div>
+    <div class="footer-badges">
+      <div class="footer-badge">
+        <div class="dot"></div>
+        Powered by SiliconNavigator
+      </div>
+      <div class="footer-badge">
+        <div class="dot"></div>
+        Reinsurance-Backed Capacity
+      </div>
+    </div>
+  </div>
+</footer>
+
+</body>
+</html>

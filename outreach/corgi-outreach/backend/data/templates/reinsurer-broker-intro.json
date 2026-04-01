@@ -1,0 +1,21 @@
+{
+  "id": "reinsurer-broker-intro-v1",
+  "name": "Reinsurance Broker Intro",
+  "audience": "reinsurance-broker",
+  "targetFirms": ["Guy Carpenter", "Gallagher Re", "Aon", "Howden"],
+  "variables": ["firstName", "companyName", "contact_name", "callerName", "specificDetail", "referrerName"],
+  "subjectLines": {
+    "a": "New RVG program seeking placement — GPU Residual Value Guaranty",
+    "b": "GPU RV insurance program — placement meeting request",
+    "c": "Corgi: $3.465B ceded limit target — placement discussion"
+  },
+  "plainText": "Hi {{firstName}},\n\nI'm reaching out from Corgi Insurance Services. We've built a Residual Value Guaranty (RVG) program for data-center GPU hardware and we're now building the reinsurance tower. We'd like to discuss placement.\n\nThe program in brief:\n\n— Issuing carrier: DIAIC (Utah-domiciled captive), program manager: Corgi Insurance Services\n— Product: put-style floor on GPU hardware value at a specified future date (3, 5, or 10 years)\n— At expiry: if market value < guaranteed floor, policy pays full guaranteed amount; carrier takes title to hardware\n— Policy tiers: 5%, 10%, 15% of original GPU value; premiums 2.1%–12.9%\n— Loss basis: per-cohort occurrence — aggregation bounded by hardware cohort, not cross-site\n— Pricing: SiliconNavigator™ daily benchmarks (80%+ H100/A100 market coverage) — independent, auditable\n— Moral hazard: eliminated via mandatory title transfer at settlement and hardware recertification\n— Actuarial basis: 20% annual depreciation assumption; Monte Carlo stress-tested across GPU generation cycles\n\nTarget ceded limit: $3.465B. We've raised $108M to capitalize the program. Primary buyers are GPU cloud operators with owned hardware (100–10,000 GPU clusters), with a secondary channel through lenders mandating RVG as a loan condition.\n\nThe GPU market is $100B today heading to $215B by 2030. This is a proven RV structure applied to a new — and very large — asset class. The reinsurance mechanics are the same as auto or equipment RV; the innovation is the pricing layer and the asset class.\n\n{{#if specificDetail}}{{specificDetail}}\n\n{{/if}}I'd welcome a 30-minute placement meeting to walk through the actuarial package, treaty structure, and how we're thinking about the tower build-out. Would this month work for your team?\n\n{{callerName}}\nCorgi Insurance Services\ncorgi.xyz",
+  "htmlTemplate": "cold_intro_arranger.hbs",
+  "metadata": {
+    "category": "reinsurance",
+    "subCategory": "broker-placement",
+    "followUpDays": [4, 10, 21],
+    "priority": "high",
+    "notes": "Target: Guy Carpenter, Gallagher Re, Aon reinsurance practices. Lead with program size ($3.465B ceded limit target) and proven RV structure. Key objection: no GPU loss history — address with Monte Carlo model, SiliconNavigator pricing transparency, and title transfer structure. Always offer to share actuarial package as next step."
+  }
+}

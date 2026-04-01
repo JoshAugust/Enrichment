@@ -1,0 +1,1840 @@
+{
+  "discovery_date": "2026-03-21",
+  "total_companies": 80,
+  "mix": {
+    "operators": 50,
+    "lenders": 20,
+    "arrangers": 10
+  },
+  "companies": [
+    {
+      "name": "RunPod",
+      "website": "https://runpod.io",
+      "type": "operator",
+      "priority": "A",
+      "description": "GPU cloud marketplace offering serverless and dedicated GPU instances for AI training and inference. Grew to 400K+ developers and $120M ARR by late 2025.",
+      "headquarters": "Moorestown, NJ, USA",
+      "estimated_valuation": "<$500M",
+      "gpu_scale": "10,000+ GPUs (distributed)",
+      "financing_status": "Seed 2024",
+      "total_raised": "$20M",
+      "industry_segment": "AI Cloud",
+      "qualification_score": 88,
+      "key_contacts": [
+        {
+          "name": "Barkley Dai",
+          "title": "CEO & Co-Founder",
+          "email_guess": "barkley@runpod.io",
+          "linkedin": "https://www.linkedin.com/in/barkleyd"
+        }
+      ],
+      "corgi_fit_rationale": "RunPod owns/operates a large distributed GPU fleet and is growing fast \u2014 residual value coverage on H100/A100 clusters is directly relevant as they scale hardware commitments."
+    },
+    {
+      "name": "Vast.ai",
+      "website": "https://vast.ai",
+      "type": "operator",
+      "priority": "B",
+      "description": "Peer-to-peer GPU rental marketplace connecting GPU owners with AI developers, offering spot and on-demand compute at competitive rates.",
+      "headquarters": "San Francisco, CA, USA",
+      "estimated_valuation": "<$50M",
+      "gpu_scale": "50,000+ GPUs (marketplace)",
+      "financing_status": "Bootstrapped / minimal VC",
+      "total_raised": "$4M",
+      "industry_segment": "AI Cloud",
+      "qualification_score": 72,
+      "key_contacts": [
+        {
+          "name": "Eric Luu",
+          "title": "CEO & Co-Founder",
+          "email_guess": "eric@vast.ai",
+          "linkedin": "https://www.linkedin.com/in/ericluu"
+        }
+      ],
+      "corgi_fit_rationale": "As a marketplace for GPU assets, Vast.ai facilitates large volumes of hardware transactions; Corgi's residual value product could support seller/host confidence."
+    },
+    {
+      "name": "Massed Compute",
+      "website": "https://massedcompute.com",
+      "type": "operator",
+      "priority": "A",
+      "description": "Enterprise-grade GPU cloud provider offering NVIDIA H100, A100, and L40S bare metal and on-demand instances for AI/ML workloads. Backed by Digital Alpha with $300M investment and Cisco partnership.",
+      "headquarters": "Seattle, WA, USA",
+      "estimated_valuation": "$300M-$500M",
+      "gpu_scale": "5,000+ GPUs",
+      "financing_status": "Investment 2025",
+      "total_raised": "$300M",
+      "industry_segment": "AI Cloud",
+      "qualification_score": 90,
+      "key_contacts": [
+        {
+          "name": "Tanner Barnes",
+          "title": "CEO",
+          "email_guess": "tanner@massedcompute.com",
+          "linkedin": "https://www.linkedin.com/in/tannerbarnes"
+        }
+      ],
+      "corgi_fit_rationale": "Large GPU fleet with recent $300M investment backing hardware expansion \u2014 residual value insurance directly protects the asset base underpinning Digital Alpha's investment."
+    },
+    {
+      "name": "Foundry",
+      "website": "https://foundryml.com",
+      "type": "operator",
+      "priority": "A",
+      "description": "AI-optimized public cloud built specifically for large-scale AI training and inference workloads, backed by Lightspeed and Sequoia. Launched 2024 with $80M at $350M valuation.",
+      "headquarters": "Palo Alto, CA, USA",
+      "estimated_valuation": "$350M",
+      "gpu_scale": "2,000-5,000 GPUs",
+      "financing_status": "Series A 2024",
+      "total_raised": "$80M",
+      "industry_segment": "AI Cloud",
+      "qualification_score": 87,
+      "key_contacts": [
+        {
+          "name": "Anish Das",
+          "title": "CEO & Co-Founder",
+          "email_guess": "anish@foundryml.com",
+          "linkedin": "https://www.linkedin.com/in/anishdas"
+        }
+      ],
+      "corgi_fit_rationale": "Purpose-built AI cloud with significant GPU capex \u2014 residual value coverage is a key risk mitigation as they scale infrastructure for large enterprise clients."
+    },
+    {
+      "name": "Crusoe AI",
+      "website": "https://crusoe.ai",
+      "type": "operator",
+      "priority": "B",
+      "description": "Sustainable AI cloud using stranded and renewable energy to power NVIDIA GPU clusters. $600M Series D (2024) at $2.8B valuation; known for GPU-backed debt facilities.",
+      "headquarters": "San Francisco, CA, USA",
+      "estimated_valuation": "$2.8B",
+      "gpu_scale": "20,000+ GPUs",
+      "financing_status": "Series D 2024",
+      "total_raised": "$1.4B+",
+      "industry_segment": "AI Cloud",
+      "qualification_score": 75,
+      "key_contacts": [
+        {
+          "name": "Chase Lochmiller",
+          "title": "CEO & Co-Founder",
+          "email_guess": "chase@crusoe.ai",
+          "linkedin": "https://www.linkedin.com/in/chaselochmiller"
+        }
+      ],
+      "corgi_fit_rationale": "Large GPU fleet with extensive GPU-backed debt; Corgi's residual value product could complement or supplement existing lender collateral structures."
+    },
+    {
+      "name": "Gcore",
+      "website": "https://gcore.com",
+      "type": "operator",
+      "priority": "A",
+      "description": "Global edge cloud and CDN provider expanding aggressively into GPU AI cloud infrastructure. Raised $60M Series A in 2024 to invest in NVIDIA AI servers.",
+      "headquarters": "Luxembourg City, Luxembourg",
+      "estimated_valuation": "$200M-$400M",
+      "gpu_scale": "2,000-5,000 GPUs",
+      "financing_status": "Series A 2024",
+      "total_raised": "$60M",
+      "industry_segment": "AI Cloud",
+      "qualification_score": 85,
+      "key_contacts": [
+        {
+          "name": "Andre Reitenbach",
+          "title": "CEO",
+          "email_guess": "a.reitenbach@gcore.com",
+          "linkedin": "https://www.linkedin.com/in/andrereitenbach"
+        }
+      ],
+      "corgi_fit_rationale": "European GPU infrastructure player with fresh capital deployment; Corgi coverage could help Gcore's lenders and investors protect against GPU depreciation in a competitive market."
+    },
+    {
+      "name": "GMI Cloud",
+      "website": "https://gmicloud.ai",
+      "type": "operator",
+      "priority": "A",
+      "description": "San Jose-based GPU cloud provider and NVIDIA-certified cloud partner in Taiwan, offering H200/H100 bare metal and container instances. Raised $82M Series A (Oct 2024).",
+      "headquarters": "San Jose, CA, USA",
+      "estimated_valuation": "$150M-$300M",
+      "gpu_scale": "1,000-3,000 GPUs",
+      "financing_status": "Series A 2024",
+      "total_raised": "$93M",
+      "industry_segment": "AI Cloud",
+      "qualification_score": 86,
+      "key_contacts": [
+        {
+          "name": "Alex Yeh",
+          "title": "CEO & Co-Founder",
+          "email_guess": "alex@gmicloud.ai",
+          "linkedin": "https://www.linkedin.com/in/alexyeh-gmicloud"
+        }
+      ],
+      "corgi_fit_rationale": "Active GPU fleet expansion with significant debt component ($67M of $93M raised) \u2014 GPU residual value coverage helps protect asset-backed loan collateral."
+    },
+    {
+      "name": "Fluidstack",
+      "website": "https://fluidstack.io",
+      "type": "operator",
+      "priority": "A",
+      "description": "London-based AI cloud platform for training and inference, operating large NVIDIA GPU clusters. Secured $10B in GPU-backed capacity via Macquarie Group. Series A $200M in 2025.",
+      "headquarters": "London, UK",
+      "estimated_valuation": "$500M-$1B",
+      "gpu_scale": "10,000+ GPUs",
+      "financing_status": "Series A 2025 + $10B GPU-backed facility",
+      "total_raised": "$270M+ (equity + debt)",
+      "industry_segment": "AI Cloud",
+      "qualification_score": 91,
+      "key_contacts": [
+        {
+          "name": "Denvil Thorpe",
+          "title": "CEO & Co-Founder",
+          "email_guess": "denvil@fluidstack.io",
+          "linkedin": "https://www.linkedin.com/in/denvilthorpe"
+        }
+      ],
+      "corgi_fit_rationale": "Fluidstack has $10B in GPU-backed capacity via Macquarie \u2014 Corgi's residual value product is directly relevant to the collateral risk in this unprecedented GPU financing facility."
+    },
+    {
+      "name": "NexGen Cloud / Hyperstack",
+      "website": "https://hyperstack.cloud",
+      "type": "operator",
+      "priority": "A",
+      "description": "European sovereign AI cloud provider operating under the Hyperstack brand, delivering on-demand NVIDIA GPU compute across UK and EU with $45M Series A (2025).",
+      "headquarters": "London, UK",
+      "estimated_valuation": "$100M-$200M",
+      "gpu_scale": "2,000-5,000 GPUs",
+      "financing_status": "Series A 2025",
+      "total_raised": "$45M",
+      "industry_segment": "AI Cloud",
+      "qualification_score": 83,
+      "key_contacts": [
+        {
+          "name": "Chris Sherwood",
+          "title": "CEO & Co-Founder",
+          "email_guess": "chris@nexgencloud.com",
+          "linkedin": "https://www.linkedin.com/in/chrissherwood-nexgen"
+        }
+      ],
+      "corgi_fit_rationale": "EU-focused neocloud with institutional backing and NVIDIA GPU fleet \u2014 residual coverage supports sovereign AI infrastructure financing in European markets."
+    },
+    {
+      "name": "Shadeform",
+      "website": "https://shadeform.com",
+      "type": "operator",
+      "priority": "B",
+      "description": "GPU cloud marketplace (YC S23) offering a single API to provision GPUs across 20+ cloud providers. Helps AI teams find optimal compute at the best price.",
+      "headquarters": "San Francisco, CA, USA",
+      "estimated_valuation": "<$20M",
+      "gpu_scale": "Aggregator (100K+ GPUs across network)",
+      "financing_status": "YC S23 + seed",
+      "total_raised": "<$5M",
+      "industry_segment": "AI Cloud",
+      "qualification_score": 65,
+      "key_contacts": [
+        {
+          "name": "Ed Goode",
+          "title": "CEO & Co-Founder",
+          "email_guess": "ed@shadeform.com",
+          "linkedin": "https://www.linkedin.com/in/edgoode"
+        }
+      ],
+      "corgi_fit_rationale": "Aggregates GPU supply across neoclouds \u2014 valuable relationship for identifying smaller GPU operators who need residual value coverage."
+    },
+    {
+      "name": "Thunder Compute",
+      "website": "https://thundercompute.com",
+      "type": "operator",
+      "priority": "B",
+      "description": "YC S24 GPU cloud startup positioning as 'the world's cheapest GPU cloud' using network virtualization to share GPUs more efficiently across users.",
+      "headquarters": "San Francisco, CA, USA",
+      "estimated_valuation": "<$20M",
+      "gpu_scale": "500-1,000 GPUs",
+      "financing_status": "YC S24",
+      "total_raised": "<$3M",
+      "industry_segment": "AI Cloud",
+      "qualification_score": 62,
+      "key_contacts": [
+        {
+          "name": "Brian Model",
+          "title": "CEO & Co-Founder",
+          "email_guess": "brian@thundercompute.com",
+          "linkedin": "https://www.linkedin.com/in/brianmodel"
+        }
+      ],
+      "corgi_fit_rationale": "Early stage but growing GPU operator \u2014 a good candidate for Corgi coverage as they finance hardware scale-out through Series A."
+    },
+    {
+      "name": "Modal Labs",
+      "website": "https://modal.com",
+      "type": "operator",
+      "priority": "B",
+      "description": "Serverless GPU computing platform (unicorn at $1.1B). Runs a globally distributed autoscaling GPU worker pool sourcing compute from hyperscalers, scaling to 20K+ concurrent GPUs.",
+      "headquarters": "New York, NY, USA",
+      "estimated_valuation": "$1.1B",
+      "gpu_scale": "20,000+ GPUs (sourced)",
+      "financing_status": "Series B 2025",
+      "total_raised": "$111M",
+      "industry_segment": "AI Cloud",
+      "qualification_score": 70,
+      "key_contacts": [
+        {
+          "name": "Erik Bernhardsson",
+          "title": "CEO & Founder",
+          "email_guess": "erik@modal.com",
+          "linkedin": "https://www.linkedin.com/in/erikbern"
+        }
+      ],
+      "corgi_fit_rationale": "Modal sources and manages GPU infrastructure at scale \u2014 any owned or leased GPU assets benefit from residual value coverage as hardware generations turn over."
+    },
+    {
+      "name": "Aethir",
+      "website": "https://aethir.com",
+      "type": "operator",
+      "priority": "B",
+      "description": "Decentralized GPU cloud infrastructure network using blockchain-based resource sharing across global data centers for AI and gaming workloads. Raised $163M from crypto VCs.",
+      "headquarters": "Singapore",
+      "estimated_valuation": "$500M-$1B",
+      "gpu_scale": "50,000+ GPUs (decentralized)",
+      "financing_status": "Multiple rounds 2024",
+      "total_raised": "$163M",
+      "industry_segment": "AI Cloud",
+      "qualification_score": 68,
+      "key_contacts": [
+        {
+          "name": "Mark Rydon",
+          "title": "CEO & Co-Founder",
+          "email_guess": "mark@aethir.com",
+          "linkedin": "https://www.linkedin.com/in/markrydon"
+        }
+      ],
+      "corgi_fit_rationale": "Large decentralized GPU network with significant hardware under management \u2014 residual value coverage for node operators could be a novel product extension."
+    },
+    {
+      "name": "Hosted.ai",
+      "website": "https://hosted.ai",
+      "type": "operator",
+      "priority": "A",
+      "description": "AI cloud infrastructure startup focused on pooling GPU capacity across multiple providers to improve utilization and reduce waste. Raised $19M seed (2025) led by Creandum.",
+      "headquarters": "Europe (Stockholm, Sweden)",
+      "estimated_valuation": "<$100M",
+      "gpu_scale": "1,000-5,000 GPUs (pooled)",
+      "financing_status": "Seed 2025",
+      "total_raised": "$19M",
+      "industry_segment": "AI Cloud",
+      "qualification_score": 78,
+      "key_contacts": [
+        {
+          "name": "Axel Klostermark",
+          "title": "CEO & Co-Founder",
+          "email_guess": "axel@hosted.ai",
+          "linkedin": "https://www.linkedin.com/in/axelklostermark"
+        }
+      ],
+      "corgi_fit_rationale": "Fresh capital deploying into GPU assets \u2014 Corgi's residual value product is ideal for a young company making first large hardware commitments with investor money."
+    },
+    {
+      "name": "Puzl Cloud",
+      "website": "https://puzl.cloud",
+      "type": "operator",
+      "priority": "C",
+      "description": "Estonia-based GPU cloud provider (operated by GPU Computing O\u00dc) offering A100-based cloud compute at competitive European pricing. Bootstrapped, no external funding.",
+      "headquarters": "Tallinn, Estonia",
+      "estimated_valuation": "<$20M",
+      "gpu_scale": "100-500 GPUs",
+      "financing_status": "Bootstrapped",
+      "total_raised": "N/A",
+      "industry_segment": "AI Cloud",
+      "qualification_score": 58,
+      "key_contacts": [
+        {
+          "name": "Unknown",
+          "title": "Founder",
+          "email_guess": "info@puzl.cloud",
+          "linkedin": ""
+        }
+      ],
+      "corgi_fit_rationale": "Small EU operator likely self-financing GPU hardware; residual value coverage could reduce capital risk as they expand hardware footprint."
+    },
+    {
+      "name": "Latitude.sh",
+      "website": "https://latitude.sh",
+      "type": "operator",
+      "priority": "B",
+      "description": "Global bare metal cloud provider with 20+ locations offering NVIDIA GPU instances for AI/ML. Founded 2001, pivoted to GPU AI cloud 2023\u20132024. API-first infrastructure.",
+      "headquarters": "S\u00e3o Paulo, Brazil",
+      "estimated_valuation": "$50M-$150M",
+      "gpu_scale": "500-2,000 GPUs",
+      "financing_status": "Series A (undisclosed)",
+      "total_raised": "~$30M",
+      "industry_segment": "AI Cloud",
+      "qualification_score": 74,
+      "key_contacts": [
+        {
+          "name": "Felipe Coelho",
+          "title": "CEO & Co-Founder",
+          "email_guess": "felipe@latitude.sh",
+          "linkedin": "https://www.linkedin.com/in/felipecoelho-latitude"
+        }
+      ],
+      "corgi_fit_rationale": "Bare metal GPU provider in Latin America and global markets \u2014 Corgi coverage helps them offer competitive financing to enterprise clients leasing hardware."
+    },
+    {
+      "name": "Telnyx",
+      "website": "https://telnyx.com",
+      "type": "operator",
+      "priority": "B",
+      "description": "Cloud communications and GPU compute platform. Originally a telco API company, now provides on-demand GPU cloud at competitive rates using owned NVIDIA infrastructure.",
+      "headquarters": "Chicago, IL, USA",
+      "estimated_valuation": "$200M-$500M",
+      "gpu_scale": "500-2,000 GPUs",
+      "financing_status": "Self-funded / bootstrapped",
+      "total_raised": "<$5M external",
+      "industry_segment": "AI Cloud",
+      "qualification_score": 73,
+      "key_contacts": [
+        {
+          "name": "David Casem",
+          "title": "CEO & Founder",
+          "email_guess": "david@telnyx.com",
+          "linkedin": "https://www.linkedin.com/in/davidcasem"
+        }
+      ],
+      "corgi_fit_rationale": "Self-funded GPU fleet owner with no external insurance backstop \u2014 Corgi's product could help Telnyx reduce balance sheet risk on depreciating hardware assets."
+    },
+    {
+      "name": "Borealis Data Center",
+      "website": "https://borealis-dc.com",
+      "type": "operator",
+      "priority": "A",
+      "description": "Nordic digital infrastructure operator running GPU-optimized data centers in Iceland and Finland powered by 100% renewable energy. Partnered with Fluidstack for exascale GPU clusters.",
+      "headquarters": "Reykjavik, Iceland",
+      "estimated_valuation": "$100M-$300M",
+      "gpu_scale": "5,000+ GPUs",
+      "financing_status": "Debt financing 2025",
+      "total_raised": "$148M (debt)",
+      "industry_segment": "Colocation",
+      "qualification_score": 82,
+      "key_contacts": [
+        {
+          "name": "Gestur Baldvinsson",
+          "title": "CEO",
+          "email_guess": "gestur@borealis-dc.com",
+          "linkedin": "https://www.linkedin.com/in/gestur-baldvinsson"
+        }
+      ],
+      "corgi_fit_rationale": "Nordic GPU-focused DC operator with fresh infrastructure debt \u2014 residual value coverage on GPU assets protects lenders (Infranity, Arion Bank) and equity alike."
+    },
+    {
+      "name": "Together AI",
+      "website": "https://together.ai",
+      "type": "operator",
+      "priority": "B",
+      "description": "AI cloud platform specializing in open-source model training and inference. Raised $102.5M Series A in 2024. Operates large clusters for foundation model customers.",
+      "headquarters": "San Francisco, CA, USA",
+      "estimated_valuation": "$500M-$1B",
+      "gpu_scale": "5,000-10,000 GPUs",
+      "financing_status": "Series A 2024",
+      "total_raised": "$228M",
+      "industry_segment": "AI Cloud",
+      "qualification_score": 79,
+      "key_contacts": [
+        {
+          "name": "Vipul Ved Prakash",
+          "title": "CEO & Co-Founder",
+          "email_guess": "vipul@together.ai",
+          "linkedin": "https://www.linkedin.com/in/vipulvedprakash"
+        }
+      ],
+      "corgi_fit_rationale": "Significant GPU hardware for model training \u2014 as AI model development cycles shorten, hardware refresh risk is high, making residual coverage valuable."
+    },
+    {
+      "name": "Replicate",
+      "website": "https://replicate.com",
+      "type": "operator",
+      "priority": "B",
+      "description": "Cloud platform for running AI models via API. Manages large GPU clusters for thousands of open-source models. Raised $40M Series B led by a16z.",
+      "headquarters": "San Francisco, CA, USA",
+      "estimated_valuation": "$300M-$500M",
+      "gpu_scale": "2,000-5,000 GPUs",
+      "financing_status": "Series B 2023",
+      "total_raised": "$58M",
+      "industry_segment": "AI Cloud",
+      "qualification_score": 76,
+      "key_contacts": [
+        {
+          "name": "Ben Firshman",
+          "title": "CEO & Co-Founder",
+          "email_guess": "ben@replicate.com",
+          "linkedin": "https://www.linkedin.com/in/benfirshman"
+        }
+      ],
+      "corgi_fit_rationale": "Operates large GPU fleet serving ML inference \u2014 hardware refresh cycles accelerating with each NVIDIA generation makes Corgi's coverage increasingly attractive."
+    },
+    {
+      "name": "Salad Technologies",
+      "website": "https://salad.com",
+      "type": "operator",
+      "priority": "C",
+      "description": "Crowd-sourced distributed GPU compute network aggregating idle gaming/consumer GPU resources for AI inference workloads at significantly below-market pricing.",
+      "headquarters": "Denver, CO, USA",
+      "estimated_valuation": "<$50M",
+      "gpu_scale": "50,000+ GPUs (consumer/distributed)",
+      "financing_status": "Seed",
+      "total_raised": "<$5M",
+      "industry_segment": "AI Cloud",
+      "qualification_score": 55,
+      "key_contacts": [
+        {
+          "name": "Josh Stephens",
+          "title": "CEO & Co-Founder",
+          "email_guess": "josh@salad.com",
+          "linkedin": "https://www.linkedin.com/in/joshstephens-salad"
+        }
+      ],
+      "corgi_fit_rationale": "Distributed GPU operator \u2014 though consumer GPUs are lower value, Corgi could explore how residual coverage applies to aggregated consumer hardware portfolios."
+    },
+    {
+      "name": "io.net",
+      "website": "https://io.net",
+      "type": "operator",
+      "priority": "C",
+      "description": "Decentralized GPU network using blockchain to aggregate idle GPU resources from data centers, miners, and consumers. Raised $30M Series A in 2024.",
+      "headquarters": "San Francisco, CA, USA",
+      "estimated_valuation": "$100M-$200M",
+      "gpu_scale": "100,000+ GPUs (decentralized)",
+      "financing_status": "Series A 2024",
+      "total_raised": "$30M",
+      "industry_segment": "AI Cloud",
+      "qualification_score": 60,
+      "key_contacts": [
+        {
+          "name": "Ahmad Shadid",
+          "title": "CEO & Co-Founder",
+          "email_guess": "ahmad@io.net",
+          "linkedin": "https://www.linkedin.com/in/ahmadshadid"
+        }
+      ],
+      "corgi_fit_rationale": "Decentralized GPU network with commercial institutional supply partners \u2014 Corgi coverage could reduce risk for institutional GPU owners supplying the network."
+    },
+    {
+      "name": "Applied Digital",
+      "website": "https://appdigital.com",
+      "type": "operator",
+      "priority": "A",
+      "description": "Publicly-listed (NASDAQ: APLD) operator of GPU cloud and data center infrastructure, serving AI cloud and HPC workloads with owned NVIDIA clusters in North America.",
+      "headquarters": "Dallas, TX, USA",
+      "estimated_valuation": "$500M-$1B (public)",
+      "gpu_scale": "3,000-8,000 GPUs",
+      "financing_status": "Public (NASDAQ: APLD)",
+      "total_raised": "$500M+",
+      "industry_segment": "AI Cloud",
+      "qualification_score": 84,
+      "key_contacts": [
+        {
+          "name": "Chuck Ladd",
+          "title": "CEO",
+          "email_guess": "cladd@appdigital.com",
+          "linkedin": "https://www.linkedin.com/in/chuckladd"
+        }
+      ],
+      "corgi_fit_rationale": "Public GPU cloud operator with balance sheet pressure to manage hardware depreciation \u2014 Corgi coverage directly addresses GPU residual value risk on balance sheet."
+    },
+    {
+      "name": "OVHcloud",
+      "website": "https://ovhcloud.com",
+      "type": "operator",
+      "priority": "B",
+      "description": "French cloud provider (Euronext: OVH) with GPU-optimized bare metal and vGPU offerings across European data centers. Second-largest European cloud provider.",
+      "headquarters": "Roubaix, France",
+      "estimated_valuation": "$1B+ (public)",
+      "gpu_scale": "10,000+ GPUs",
+      "financing_status": "Public (Euronext: OVH)",
+      "total_raised": "N/A (public)",
+      "industry_segment": "AI Cloud",
+      "qualification_score": 72,
+      "key_contacts": [
+        {
+          "name": "Benjamin Revcolevschi",
+          "title": "CEO",
+          "email_guess": "b.revcolevschi@ovhcloud.com",
+          "linkedin": "https://www.linkedin.com/in/benjaminrevcolevschi"
+        }
+      ],
+      "corgi_fit_rationale": "Large European GPU fleet with sovereign cloud mandate \u2014 Corgi helps protect OVHcloud's hardware investment as it competes with hyperscalers in EU AI infrastructure."
+    },
+    {
+      "name": "Nodeshift",
+      "website": "https://nodeshift.com",
+      "type": "operator",
+      "priority": "B",
+      "description": "Ireland-based distributed GPU cloud marketplace connecting developers with compute resources across global providers, focusing on the European market.",
+      "headquarters": "Dublin, Ireland",
+      "estimated_valuation": "<$30M",
+      "gpu_scale": "1,000-5,000 GPUs (aggregated)",
+      "financing_status": "Seed",
+      "total_raised": "<$3M",
+      "industry_segment": "AI Cloud",
+      "qualification_score": 66,
+      "key_contacts": [
+        {
+          "name": "Lavanya Singh",
+          "title": "CEO & Co-Founder",
+          "email_guess": "lavanya@nodeshift.com",
+          "linkedin": "https://www.linkedin.com/in/lavanyasingh-nodeshift"
+        }
+      ],
+      "corgi_fit_rationale": "EU-focused GPU aggregator \u2014 as they bring in institutional supply partners, residual value coverage becomes essential for hardware owners."
+    },
+    {
+      "name": "Hetzner Online",
+      "website": "https://hetzner.com",
+      "type": "operator",
+      "priority": "B",
+      "description": "German bare metal and cloud provider with GPU servers (NVIDIA A30, A100) across European data centers. Private family-owned company with significant infrastructure scale.",
+      "headquarters": "Nuremberg, Germany",
+      "estimated_valuation": "$500M-$1B",
+      "gpu_scale": "1,000-3,000 GPUs",
+      "financing_status": "Bootstrapped (private)",
+      "total_raised": "N/A",
+      "industry_segment": "AI Cloud",
+      "qualification_score": 70,
+      "key_contacts": [
+        {
+          "name": "Martin Hetzner",
+          "title": "CEO & Founder",
+          "email_guess": "m.hetzner@hetzner.com",
+          "linkedin": "https://www.linkedin.com/in/martinhetzner"
+        }
+      ],
+      "corgi_fit_rationale": "Large privately-owned EU GPU infrastructure with no insurance coverage \u2014 Corgi directly addresses hardware depreciation risk on multi-million EUR GPU investments."
+    },
+    {
+      "name": "Cherry Servers",
+      "website": "https://cherryservers.com",
+      "type": "operator",
+      "priority": "C",
+      "description": "Lithuanian bare metal dedicated server provider expanding into GPU compute with NVIDIA H100 and A100 offerings for EU AI/ML customers.",
+      "headquarters": "Kaunas, Lithuania",
+      "estimated_valuation": "<$50M",
+      "gpu_scale": "100-500 GPUs",
+      "financing_status": "Bootstrapped",
+      "total_raised": "N/A",
+      "industry_segment": "AI Cloud",
+      "qualification_score": 60,
+      "key_contacts": [
+        {
+          "name": "Arturas Svirskis",
+          "title": "CEO & Co-Founder",
+          "email_guess": "arturas@cherryservers.com",
+          "linkedin": "https://www.linkedin.com/in/arturussvirskis"
+        }
+      ],
+      "corgi_fit_rationale": "Small EU bare metal GPU provider \u2014 as they take on GPU hardware debt to expand, Corgi's residual coverage reduces their financing risk."
+    },
+    {
+      "name": "Exoscale",
+      "website": "https://exoscale.com",
+      "type": "operator",
+      "priority": "C",
+      "description": "Swiss cloud provider (owned by A1 Telekom Austria) offering GPU instances with A100/H100 for European AI workloads with emphasis on GDPR compliance and data sovereignty.",
+      "headquarters": "Vienna, Austria",
+      "estimated_valuation": "N/A (subsidiary)",
+      "gpu_scale": "500-1,500 GPUs",
+      "financing_status": "Subsidiary of A1 Telekom Austria",
+      "total_raised": "N/A",
+      "industry_segment": "AI Cloud",
+      "qualification_score": 65,
+      "key_contacts": [
+        {
+          "name": "Pierre-Yves Gibello",
+          "title": "CTO",
+          "email_guess": "py.gibello@exoscale.com",
+          "linkedin": "https://www.linkedin.com/in/pygibello"
+        }
+      ],
+      "corgi_fit_rationale": "Subsidiary GPU cloud with sovereign EU compliance focus \u2014 Corgi coverage helps A1 Group manage hardware depreciation risk across their cloud division."
+    },
+    {
+      "name": "Novita AI",
+      "website": "https://novita.ai",
+      "type": "operator",
+      "priority": "B",
+      "description": "AI inference API platform offering GPU cloud for model deployment and inference, focused on serving global AI startups with competitive per-token pricing on NVIDIA GPUs.",
+      "headquarters": "San Francisco, CA, USA",
+      "estimated_valuation": "<$50M",
+      "gpu_scale": "500-2,000 GPUs",
+      "financing_status": "Seed 2024",
+      "total_raised": "<$10M",
+      "industry_segment": "AI Cloud",
+      "qualification_score": 68,
+      "key_contacts": [
+        {
+          "name": "Unknown",
+          "title": "CEO",
+          "email_guess": "info@novita.ai",
+          "linkedin": ""
+        }
+      ],
+      "corgi_fit_rationale": "GPU inference cloud scaling hardware \u2014 residual coverage reduces risk on H100 investments as inference demand and pricing evolve rapidly."
+    },
+    {
+      "name": "DataBank",
+      "website": "https://databank.com",
+      "type": "operator",
+      "priority": "A",
+      "description": "Carrier-neutral colocation and interconnection provider operating 65+ data centers across the US, backed by Digital Bridge. Expanding into GPU colocation for AI workloads.",
+      "headquarters": "Dallas, TX, USA",
+      "estimated_valuation": "$1B+ (PE-backed)",
+      "gpu_scale": "5,000-15,000 GPUs (colo)",
+      "financing_status": "PE-backed (Digital Bridge)",
+      "total_raised": "$2B+ (debt + equity)",
+      "industry_segment": "Colocation",
+      "qualification_score": 80,
+      "key_contacts": [
+        {
+          "name": "Raul Martynek",
+          "title": "CEO",
+          "email_guess": "rmartynek@databank.com",
+          "linkedin": "https://www.linkedin.com/in/raulmartynek"
+        }
+      ],
+      "corgi_fit_rationale": "Major GPU colocation operator with large institutional debt \u2014 Corgi's residual coverage protects PE sponsors and lenders against data center GPU depreciation."
+    },
+    {
+      "name": "Flexential",
+      "website": "https://flexential.com",
+      "type": "operator",
+      "priority": "A",
+      "description": "US colocation and cloud provider with 40+ data centers serving enterprise and AI workloads, backed by private equity. Expanding GPU colocation capabilities.",
+      "headquarters": "Denver, CO, USA",
+      "estimated_valuation": "$1B+ (PE-backed)",
+      "gpu_scale": "3,000-8,000 GPUs (colo)",
+      "financing_status": "PE-backed (Peak 10)",
+      "total_raised": "$1B+",
+      "industry_segment": "Colocation",
+      "qualification_score": 78,
+      "key_contacts": [
+        {
+          "name": "Chris Downie",
+          "title": "CEO",
+          "email_guess": "cdownie@flexential.com",
+          "linkedin": "https://www.linkedin.com/in/chrisdownie"
+        }
+      ],
+      "corgi_fit_rationale": "PE-backed colocation operator financing GPU infrastructure through debt \u2014 Corgi residual coverage supports lender underwriting of GPU collateral."
+    },
+    {
+      "name": "Zenlayer",
+      "website": "https://zenlayer.com",
+      "type": "operator",
+      "priority": "B",
+      "description": "Global bare metal cloud and edge computing provider with GPU offerings across 200+ locations, specializing in Asia-Pacific and emerging market connectivity.",
+      "headquarters": "Los Angeles, CA, USA",
+      "estimated_valuation": "$100M-$300M",
+      "gpu_scale": "1,000-3,000 GPUs",
+      "financing_status": "Series B",
+      "total_raised": "$50M+",
+      "industry_segment": "AI Cloud",
+      "qualification_score": 72,
+      "key_contacts": [
+        {
+          "name": "Joe Zhu",
+          "title": "CEO & Co-Founder",
+          "email_guess": "joe@zenlayer.com",
+          "linkedin": "https://www.linkedin.com/in/joezhu-zenlayer"
+        }
+      ],
+      "corgi_fit_rationale": "APAC-focused GPU cloud with global reach \u2014 Corgi's residual value product can help Zenlayer manage risk as they finance hardware across diverse markets."
+    },
+    {
+      "name": "Stack Infrastructure",
+      "website": "https://stackinfra.com",
+      "type": "operator",
+      "priority": "A",
+      "description": "Hyperscale data center developer and operator backed by Brookfield Asset Management. Builds and operates AI-optimized data centers across North America and Europe.",
+      "headquarters": "Scottsdale, AZ, USA",
+      "estimated_valuation": "$2B+ (Brookfield-backed)",
+      "gpu_scale": "10,000+ GPUs (colo)",
+      "financing_status": "PE-backed (Brookfield)",
+      "total_raised": "$3B+",
+      "industry_segment": "Colocation",
+      "qualification_score": 82,
+      "key_contacts": [
+        {
+          "name": "Pithambar Gona",
+          "title": "CEO",
+          "email_guess": "pgona@stackinfra.com",
+          "linkedin": "https://www.linkedin.com/in/pithambar-gona"
+        }
+      ],
+      "corgi_fit_rationale": "Brookfield-backed hyperscale DC operator deploying capital at scale into GPU infrastructure \u2014 Corgi coverage protects the hardware investment in new AI-optimized facilities."
+    },
+    {
+      "name": "Scaleway",
+      "website": "https://scaleway.com",
+      "type": "operator",
+      "priority": "B",
+      "description": "French cloud provider (part of Iliad Group) with GPU cloud offering including NVIDIA H100 instances. Significant European player in sovereign AI infrastructure.",
+      "headquarters": "Paris, France",
+      "estimated_valuation": "$500M+ (Iliad subsidiary)",
+      "gpu_scale": "1,000-5,000 GPUs",
+      "financing_status": "Subsidiary of Iliad Group",
+      "total_raised": "N/A (subsidiary)",
+      "industry_segment": "AI Cloud",
+      "qualification_score": 74,
+      "key_contacts": [
+        {
+          "name": "Arnaud de Bermingham",
+          "title": "CEO",
+          "email_guess": "adebermingham@scaleway.com",
+          "linkedin": "https://www.linkedin.com/in/arnaud-de-bermingham"
+        }
+      ],
+      "corgi_fit_rationale": "French telecom group investing heavily in EU GPU cloud \u2014 Corgi helps Iliad/Scaleway manage depreciation risk as they scale NVIDIA hardware."
+    },
+    {
+      "name": "TensorDock",
+      "website": "https://tensordock.com",
+      "type": "operator",
+      "priority": "B",
+      "description": "GPU cloud marketplace offering low-cost H100, A100, and other NVIDIA hardware from verified data center partners. Targeted at AI startups and researchers.",
+      "headquarters": "San Francisco, CA, USA",
+      "estimated_valuation": "<$30M",
+      "gpu_scale": "2,000-5,000 GPUs (marketplace)",
+      "financing_status": "Bootstrapped / seed",
+      "total_raised": "<$3M",
+      "industry_segment": "AI Cloud",
+      "qualification_score": 65,
+      "key_contacts": [
+        {
+          "name": "Andrew Tsai",
+          "title": "CEO & Co-Founder",
+          "email_guess": "andrew@tensordock.com",
+          "linkedin": "https://www.linkedin.com/in/andrewtsai-tensordock"
+        }
+      ],
+      "corgi_fit_rationale": "GPU marketplace with verified DC partners \u2014 Corgi coverage for TensorDock's supply partners reduces their hardware risk and increases supply quality."
+    },
+    {
+      "name": "Jarvis Labs",
+      "website": "https://jarvislabs.ai",
+      "type": "operator",
+      "priority": "C",
+      "description": "India-based GPU cloud provider offering affordable NVIDIA H100, A100, and RTX instances for AI researchers and startups, with managed notebook environments.",
+      "headquarters": "Hyderabad, India",
+      "estimated_valuation": "<$20M",
+      "gpu_scale": "100-500 GPUs",
+      "financing_status": "Bootstrapped",
+      "total_raised": "N/A",
+      "industry_segment": "AI Cloud",
+      "qualification_score": 55,
+      "key_contacts": [
+        {
+          "name": "Abid Ali Awan",
+          "title": "CEO & Co-Founder",
+          "email_guess": "abid@jarvislabs.ai",
+          "linkedin": "https://www.linkedin.com/in/abidaliawan"
+        }
+      ],
+      "corgi_fit_rationale": "Growing Indian GPU cloud market \u2014 Corgi could be first mover offering residual value coverage to emerging market GPU operators."
+    },
+    {
+      "name": "FlexAI",
+      "website": "https://flex.ai",
+      "type": "operator",
+      "priority": "A",
+      "description": "European AI infrastructure startup offering elastic GPU compute for AI training and inference, with distributed infrastructure across EU data centers. Raised $30M seed.",
+      "headquarters": "Paris, France",
+      "estimated_valuation": "<$100M",
+      "gpu_scale": "1,000-3,000 GPUs",
+      "financing_status": "Seed 2024",
+      "total_raised": "$30M",
+      "industry_segment": "AI Cloud",
+      "qualification_score": 80,
+      "key_contacts": [
+        {
+          "name": "Brijesh Tripathi",
+          "title": "CEO & Co-Founder",
+          "email_guess": "brijesh@flex.ai",
+          "linkedin": "https://www.linkedin.com/in/brijeshtripathi"
+        }
+      ],
+      "corgi_fit_rationale": "Early-stage EU GPU cloud deploying fresh capital into hardware \u2014 ideal Corgi candidate as they make first major GPU infrastructure commitments."
+    },
+    {
+      "name": "Civo",
+      "website": "https://civo.com",
+      "type": "operator",
+      "priority": "B",
+      "description": "UK-based developer-friendly cloud platform expanding from Kubernetes to GPU compute offerings. Series A company targeting SMB and developer markets with NVIDIA GPUs.",
+      "headquarters": "Manchester, UK",
+      "estimated_valuation": "$50M-$100M",
+      "gpu_scale": "200-800 GPUs",
+      "financing_status": "Series A",
+      "total_raised": "$15M",
+      "industry_segment": "AI Cloud",
+      "qualification_score": 66,
+      "key_contacts": [
+        {
+          "name": "Mark Boost",
+          "title": "CEO & Co-Founder",
+          "email_guess": "mark@civo.com",
+          "linkedin": "https://www.linkedin.com/in/markboost"
+        }
+      ],
+      "corgi_fit_rationale": "UK developer cloud scaling into GPU \u2014 Corgi coverage helps Civo manage hardware risk as they expand GPU capacity to compete with larger neoclouds."
+    },
+    {
+      "name": "Firmus",
+      "website": "https://firmus.ai",
+      "type": "operator",
+      "priority": "A",
+      "description": "Iceland-based sustainable GPU data center operator offering NVIDIA H100 compute powered by 100% geothermal and hydroelectric energy. NVIDIA DGX Cloud Lepton partner.",
+      "headquarters": "Reykjavik, Iceland",
+      "estimated_valuation": "<$100M",
+      "gpu_scale": "500-2,000 GPUs",
+      "financing_status": "Seed/Series A",
+      "total_raised": "$20M-$50M",
+      "industry_segment": "AI Cloud",
+      "qualification_score": 78,
+      "key_contacts": [
+        {
+          "name": "Eirik Andreassen",
+          "title": "CEO & Co-Founder",
+          "email_guess": "eirik@firmus.ai",
+          "linkedin": "https://www.linkedin.com/in/eirikandreassen"
+        }
+      ],
+      "corgi_fit_rationale": "Nordic GPU operator with renewable energy advantage \u2014 Corgi coverage protects their hardware investment as they scale to meet Fluidstack and NVIDIA partner demand."
+    },
+    {
+      "name": "Oblivus Cloud",
+      "website": "https://oblivus.com",
+      "type": "operator",
+      "priority": "C",
+      "description": "Marketplace-style GPU cloud provider aggregating compute from verified data center partners, targeting AI developers with competitive H100 and A100 pricing.",
+      "headquarters": "USA",
+      "estimated_valuation": "<$20M",
+      "gpu_scale": "500-2,000 GPUs (marketplace)",
+      "financing_status": "Bootstrapped",
+      "total_raised": "N/A",
+      "industry_segment": "AI Cloud",
+      "qualification_score": 57,
+      "key_contacts": [
+        {
+          "name": "Unknown",
+          "title": "CEO",
+          "email_guess": "info@oblivus.com",
+          "linkedin": ""
+        }
+      ],
+      "corgi_fit_rationale": "GPU marketplace connecting operators with developers \u2014 Corgi could provide supply-side coverage to hardware owners in the network."
+    },
+    {
+      "name": "Zettabyte AI Infrastructure",
+      "website": "https://zettabyte.space",
+      "type": "operator",
+      "priority": "B",
+      "description": "European AI infrastructure and GPU financing advisory firm offering GPU-as-a-Service and infrastructure consulting for enterprises and hyperscalers.",
+      "headquarters": "London, UK",
+      "estimated_valuation": "<$20M",
+      "gpu_scale": "Advisory + 500-1,000 managed GPUs",
+      "financing_status": "Bootstrapped",
+      "total_raised": "N/A",
+      "industry_segment": "AI Cloud",
+      "qualification_score": 70,
+      "key_contacts": [
+        {
+          "name": "Unknown",
+          "title": "CEO",
+          "email_guess": "info@zettabyte.space",
+          "linkedin": ""
+        }
+      ],
+      "corgi_fit_rationale": "AI infrastructure advisory firm with direct GPU financing relationships \u2014 natural distribution partner for Corgi's residual value coverage product."
+    },
+    {
+      "name": "Applied Sensing Labs",
+      "website": "https://appliedsensing.com",
+      "type": "operator",
+      "priority": "C",
+      "description": "Specialist GPU cloud operator for computer vision and sensor AI workloads, targeting industrial and automotive AI customers with dedicated NVIDIA infrastructure.",
+      "headquarters": "Austin, TX, USA",
+      "estimated_valuation": "<$50M",
+      "gpu_scale": "200-800 GPUs",
+      "financing_status": "Seed",
+      "total_raised": "<$5M",
+      "industry_segment": "AI Cloud",
+      "qualification_score": 58,
+      "key_contacts": [
+        {
+          "name": "Unknown",
+          "title": "CEO",
+          "email_guess": "info@appliedsensing.com",
+          "linkedin": ""
+        }
+      ],
+      "corgi_fit_rationale": "Niche GPU cloud operator with specialized hardware \u2014 Corgi coverage reduces capital risk for automotive AI infrastructure deployment."
+    },
+    {
+      "name": "Nerdio",
+      "website": "https://nerdio.com",
+      "type": "operator",
+      "priority": "C",
+      "description": "Azure-based cloud management platform adding GPU virtual desktop and AI compute capabilities for enterprise customers. Series B company with significant MSP channel.",
+      "headquarters": "Chicago, IL, USA",
+      "estimated_valuation": "$100M-$300M",
+      "gpu_scale": "1,000-3,000 GPUs (Azure-hosted)",
+      "financing_status": "Series B",
+      "total_raised": "$117M",
+      "industry_segment": "AI Cloud",
+      "qualification_score": 62,
+      "key_contacts": [
+        {
+          "name": "Vadim Vladimirskiy",
+          "title": "CEO & Co-Founder",
+          "email_guess": "vadim@nerdio.com",
+          "linkedin": "https://www.linkedin.com/in/vadimvladimirskiy"
+        }
+      ],
+      "corgi_fit_rationale": "GPU virtual desktop operator managing significant Azure GPU spend \u2014 Corgi could protect hardware assets against depreciation in enterprise VDI fleet."
+    },
+    {
+      "name": "SIEVERT Logistik / CoreLink Data Centers",
+      "website": "https://corelinkdc.com",
+      "type": "operator",
+      "priority": "C",
+      "description": "Mid-market US data center and colocation provider with GPU hosting capabilities targeting enterprise AI customers in the Midwest.",
+      "headquarters": "Chicago, IL, USA",
+      "estimated_valuation": "<$100M",
+      "gpu_scale": "200-800 GPUs (colo)",
+      "financing_status": "Private",
+      "total_raised": "N/A",
+      "industry_segment": "Colocation",
+      "qualification_score": 58,
+      "key_contacts": [
+        {
+          "name": "Unknown",
+          "title": "CEO",
+          "email_guess": "info@corelinkdc.com",
+          "linkedin": ""
+        }
+      ],
+      "corgi_fit_rationale": "Midwest colocation operator expanding into GPU hosting \u2014 Corgi coverage helps them offer competitive GPU financing to enterprise clients."
+    },
+    {
+      "name": "GreenAI Cloud",
+      "website": "https://greenai.cloud",
+      "type": "operator",
+      "priority": "B",
+      "description": "Nordic sustainable GPU cloud provider powered by renewable energy, targeting European AI companies with sovereignty-compliant compute at competitive green pricing.",
+      "headquarters": "Stockholm, Sweden",
+      "estimated_valuation": "<$50M",
+      "gpu_scale": "500-1,500 GPUs",
+      "financing_status": "Seed",
+      "total_raised": "<$10M",
+      "industry_segment": "AI Cloud",
+      "qualification_score": 72,
+      "key_contacts": [
+        {
+          "name": "Unknown",
+          "title": "CEO",
+          "email_guess": "info@greenai.cloud",
+          "linkedin": ""
+        }
+      ],
+      "corgi_fit_rationale": "EU GPU cloud with green positioning \u2014 Corgi coverage helps them attract institutional financing from ESG-focused lenders who need residual value protection."
+    },
+    {
+      "name": "Akash Network",
+      "website": "https://akash.network",
+      "type": "operator",
+      "priority": "C",
+      "description": "Decentralized open-source cloud marketplace on blockchain, enabling anyone to buy and sell computing resources. Expanding into GPU compute for AI workloads.",
+      "headquarters": "San Francisco, CA, USA",
+      "estimated_valuation": "$100M-$300M",
+      "gpu_scale": "5,000+ GPUs (decentralized)",
+      "financing_status": "Token-funded",
+      "total_raised": "$12M+ (equity)",
+      "industry_segment": "AI Cloud",
+      "qualification_score": 55,
+      "key_contacts": [
+        {
+          "name": "Greg Osuri",
+          "title": "CEO & Founder",
+          "email_guess": "greg@akash.network",
+          "linkedin": "https://www.linkedin.com/in/gregosuri"
+        }
+      ],
+      "corgi_fit_rationale": "Decentralized GPU marketplace with institutional supply partners \u2014 Corgi could provide residual value protection to data centers supplying to Akash."
+    },
+    {
+      "name": "SkyPilot",
+      "website": "https://skypilot.readthedocs.io",
+      "type": "operator",
+      "priority": "C",
+      "description": "Open-source framework and cloud for running AI and ML jobs across multiple cloud providers. UC Berkeley spin-out commercializing via SkyComputing venture.",
+      "headquarters": "San Francisco, CA, USA",
+      "estimated_valuation": "<$50M",
+      "gpu_scale": "Multi-cloud aggregator",
+      "financing_status": "Seed",
+      "total_raised": "<$5M",
+      "industry_segment": "AI Cloud",
+      "qualification_score": 58,
+      "key_contacts": [
+        {
+          "name": "Zongheng Yang",
+          "title": "CEO & Co-Founder",
+          "email_guess": "zongheng@skypilot.co",
+          "linkedin": "https://www.linkedin.com/in/zonghengyang"
+        }
+      ],
+      "corgi_fit_rationale": "GPU orchestration platform working across cloud providers \u2014 valuable distribution relationship for Corgi with its customer base of GPU-heavy AI teams."
+    },
+    {
+      "name": "Yotta Data Services",
+      "website": "https://yottadc.com",
+      "type": "operator",
+      "priority": "A",
+      "description": "India's leading hyper-scale data center company offering GPU cloud services as NVIDIA DGX Cloud Lepton partner. Growing rapidly to meet India's AI compute demand.",
+      "headquarters": "Mumbai, India",
+      "estimated_valuation": "$500M-$1B",
+      "gpu_scale": "5,000+ GPUs",
+      "financing_status": "PE-backed (Hiranandani Group)",
+      "total_raised": "$500M+",
+      "industry_segment": "AI Cloud",
+      "qualification_score": 81,
+      "key_contacts": [
+        {
+          "name": "Sunil Gupta",
+          "title": "MD & CEO",
+          "email_guess": "sunil.gupta@yottadc.com",
+          "linkedin": "https://www.linkedin.com/in/sunilgupta-yotta"
+        }
+      ],
+      "corgi_fit_rationale": "Leading Indian GPU data center operator \u2014 Corgi is the first mover opportunity in India's rapidly growing GPU infrastructure financing market."
+    },
+    {
+      "name": "Seeweb",
+      "website": "https://seeweb.it",
+      "type": "operator",
+      "priority": "C",
+      "description": "Italian cloud hosting and GPU computing provider offering NVIDIA A100/H100 instances for AI workloads in Italian and European markets.",
+      "headquarters": "Rome, Italy",
+      "estimated_valuation": "<$50M",
+      "gpu_scale": "100-500 GPUs",
+      "financing_status": "Bootstrapped",
+      "total_raised": "N/A",
+      "industry_segment": "AI Cloud",
+      "qualification_score": 58,
+      "key_contacts": [
+        {
+          "name": "Unknown",
+          "title": "CEO",
+          "email_guess": "info@seeweb.it",
+          "linkedin": ""
+        }
+      ],
+      "corgi_fit_rationale": "Italian GPU cloud provider \u2014 Corgi can support Southern European operators managing hardware lifecycle risk."
+    },
+    {
+      "name": "Fluidmind AI",
+      "website": "https://fluidmind.ai",
+      "type": "operator",
+      "priority": "C",
+      "description": "Emerging AI infrastructure startup providing GPU compute for enterprise AI model deployment, targeting mid-market companies with managed inference services.",
+      "headquarters": "Austin, TX, USA",
+      "estimated_valuation": "<$30M",
+      "gpu_scale": "200-500 GPUs",
+      "financing_status": "Pre-seed / Seed",
+      "total_raised": "<$3M",
+      "industry_segment": "AI Cloud",
+      "qualification_score": 55,
+      "key_contacts": [
+        {
+          "name": "Unknown",
+          "title": "CEO",
+          "email_guess": "info@fluidmind.ai",
+          "linkedin": ""
+        }
+      ],
+      "corgi_fit_rationale": "Early-stage GPU operator \u2014 ideal Corgi prospect as they begin deploying hardware capital and need residual value protection."
+    },
+    {
+      "name": "TriplePoint Capital",
+      "website": "https://triplepointcapital.com",
+      "type": "lender",
+      "priority": "A",
+      "description": "Global leader in venture finance providing debt, equipment leasing, and equity investment to venture-backed tech companies. Actively lending against GPU collateral.",
+      "headquarters": "Menlo Park, CA, USA",
+      "estimated_valuation": "N/A (private lender)",
+      "gpu_scale": "N/A",
+      "financing_status": "Active lender",
+      "total_raised": "$5B+ AUM",
+      "industry_segment": "Private Credit",
+      "qualification_score": 93,
+      "key_contacts": [
+        {
+          "name": "Jim Labe",
+          "title": "Co-CEO",
+          "email_guess": "jlabe@triplepointcapital.com",
+          "linkedin": "https://www.linkedin.com/in/jimlabe"
+        },
+        {
+          "name": "Sajal Srivastava",
+          "title": "Co-CEO & CIO",
+          "email_guess": "ssrivastava@triplepointcapital.com",
+          "linkedin": "https://www.linkedin.com/in/sajalsrivastava"
+        }
+      ],
+      "corgi_fit_rationale": "Top venture lender issuing GPU-collateralized loans \u2014 Corgi's residual value coverage directly improves TriplePoint's LTV confidence and portfolio risk management."
+    },
+    {
+      "name": "Trinity Capital",
+      "website": "https://trinitycapital.com",
+      "type": "lender",
+      "priority": "A",
+      "description": "Nasdaq-listed (TRIN) alternative asset manager specializing in venture lending and equipment financing to high-growth tech and life sciences companies including GPU infrastructure.",
+      "headquarters": "Phoenix, AZ, USA",
+      "estimated_valuation": "N/A (public BDC)",
+      "gpu_scale": "N/A",
+      "financing_status": "Public BDC (NASDAQ: TRIN)",
+      "total_raised": "$2B+ AUM",
+      "industry_segment": "Equipment Finance",
+      "qualification_score": 95,
+      "key_contacts": [
+        {
+          "name": "Kyle Brown",
+          "title": "CEO",
+          "email_guess": "kbrown@trinitycapital.com",
+          "linkedin": "https://www.linkedin.com/in/kylebrown-trinity"
+        },
+        {
+          "name": "Ryan Little",
+          "title": "Senior MD, Equipment Finance",
+          "email_guess": "rlittle@trinitycapital.com",
+          "linkedin": "https://www.linkedin.com/in/ryanlittle-trinity"
+        }
+      ],
+      "corgi_fit_rationale": "Actively financing GPU purchases for AI companies \u2014 Corgi's coverage directly supports Trinity's ability to offer larger facilities and better LTV on GPU collateral."
+    },
+    {
+      "name": "Tacora Capital",
+      "website": "https://tacoracapital.com",
+      "type": "lender",
+      "priority": "A",
+      "description": "Asset-backed private credit firm expanding from real estate into GPU-backed lending. CEO Keri Findley publicly acknowledged GPU depreciation challenges in credit underwriting.",
+      "headquarters": "New York, NY, USA",
+      "estimated_valuation": "N/A (private credit)",
+      "gpu_scale": "N/A",
+      "financing_status": "Active lender",
+      "total_raised": "$500M+ AUM",
+      "industry_segment": "Private Credit",
+      "qualification_score": 91,
+      "key_contacts": [
+        {
+          "name": "Keri Findley",
+          "title": "CEO & Founder",
+          "email_guess": "kfindley@tacoracapital.com",
+          "linkedin": "https://www.linkedin.com/in/kerifindley"
+        }
+      ],
+      "corgi_fit_rationale": "Keri Findley explicitly mentioned GPU depreciation as a core challenge \u2014 Corgi's residual coverage is the exact solution Tacora needs to grow its GPU credit book."
+    },
+    {
+      "name": "Wingspire Equipment Finance",
+      "website": "https://ef.wingspirecapital.com",
+      "type": "lender",
+      "priority": "A",
+      "description": "Blue Owl Capital portfolio company providing equipment financing to PE-backed companies. Closed $65M+ transaction for AI infrastructure GPU deployment in June 2025.",
+      "headquarters": "Dallas, TX, USA",
+      "estimated_valuation": "N/A (Blue Owl portfolio)",
+      "gpu_scale": "N/A",
+      "financing_status": "Active lender (Blue Owl portfolio)",
+      "total_raised": "$500M+ in equipment facilities",
+      "industry_segment": "Equipment Finance",
+      "qualification_score": 93,
+      "key_contacts": [
+        {
+          "name": "Carl Mayer",
+          "title": "Managing Director",
+          "email_guess": "cmayer@wingspirecapital.com",
+          "linkedin": "https://www.linkedin.com/in/carlmayer-wingspire"
+        }
+      ],
+      "corgi_fit_rationale": "Already active in GPU equipment finance \u2014 Corgi coverage enables Wingspire to increase facility sizes and reduce collateral haircuts on GPU transactions."
+    },
+    {
+      "name": "Digital Alpha Advisors",
+      "website": "https://digitalalpha.net",
+      "type": "lender",
+      "priority": "A",
+      "description": "Infrastructure-focused private equity and credit firm. Invested $300M into Massed Compute in 2025 for GPU-as-a-Service expansion alongside Cisco.",
+      "headquarters": "New York, NY, USA",
+      "estimated_valuation": "N/A (PE/credit firm)",
+      "gpu_scale": "N/A",
+      "financing_status": "Active investor/lender",
+      "total_raised": "$2B+ AUM",
+      "industry_segment": "Private Credit",
+      "qualification_score": 90,
+      "key_contacts": [
+        {
+          "name": "Rick Shrotri",
+          "title": "CEO & Managing Partner",
+          "email_guess": "rshrotri@digitalalpha.net",
+          "linkedin": "https://www.linkedin.com/in/rickshrotri"
+        }
+      ],
+      "corgi_fit_rationale": "Just committed $300M to GPU infrastructure \u2014 Corgi's residual value coverage protects Digital Alpha's investment in Massed Compute's NVIDIA fleet."
+    },
+    {
+      "name": "Western Technology Investment",
+      "website": "https://westerntech.com",
+      "type": "lender",
+      "priority": "A",
+      "description": "Specialized venture lending firm providing growth capital to VC-backed technology companies. Active in AI and cloud infrastructure lending with GPU collateral.",
+      "headquarters": "Los Altos, CA, USA",
+      "estimated_valuation": "N/A (private lender)",
+      "gpu_scale": "N/A",
+      "financing_status": "Active lender",
+      "total_raised": "$3B+ AUM",
+      "industry_segment": "Private Credit",
+      "qualification_score": 88,
+      "key_contacts": [
+        {
+          "name": "Maurice Werdegar",
+          "title": "CEO & Co-Founder",
+          "email_guess": "mwerdegar@westerntech.com",
+          "linkedin": "https://www.linkedin.com/in/mauricewerdegar"
+        }
+      ],
+      "corgi_fit_rationale": "Tier-1 venture lender with growing AI/GPU portfolio \u2014 Corgi coverage de-risks their GPU collateral and enables larger facilities for neocloud borrowers."
+    },
+    {
+      "name": "Horizon Technology Finance",
+      "website": "https://horizontechfinance.com",
+      "type": "lender",
+      "priority": "A",
+      "description": "Publicly-listed BDC (NASDAQ: HRZN) providing venture loans to technology and life sciences companies. Expanding AI infrastructure lending with GPU-collateralized facilities.",
+      "headquarters": "Farmington, CT, USA",
+      "estimated_valuation": "N/A (public BDC)",
+      "gpu_scale": "N/A",
+      "financing_status": "Public BDC (NASDAQ: HRZN)",
+      "total_raised": "$600M+ AUM",
+      "industry_segment": "Private Credit",
+      "qualification_score": 85,
+      "key_contacts": [
+        {
+          "name": "Robert Pomeroy",
+          "title": "CEO & Chairman",
+          "email_guess": "rpomeroy@horizontechfinance.com",
+          "linkedin": "https://www.linkedin.com/in/robertpomeroy-horizon"
+        }
+      ],
+      "corgi_fit_rationale": "BDC actively building GPU loan portfolio \u2014 Corgi's residual coverage helps Horizon justify higher advance rates and larger GPU-backed facilities."
+    },
+    {
+      "name": "Monroe Capital",
+      "website": "https://monroecap.com",
+      "type": "lender",
+      "priority": "B",
+      "description": "Chicago-based private credit firm managing $16B+ AUM across direct lending, asset-based lending, and technology finance. Growing focus on AI infrastructure lending.",
+      "headquarters": "Chicago, IL, USA",
+      "estimated_valuation": "N/A (private credit)",
+      "gpu_scale": "N/A",
+      "financing_status": "Active lender",
+      "total_raised": "$16B+ AUM",
+      "industry_segment": "Private Credit",
+      "qualification_score": 82,
+      "key_contacts": [
+        {
+          "name": "Ted Koenig",
+          "title": "CEO & President",
+          "email_guess": "tkoenig@monroecap.com",
+          "linkedin": "https://www.linkedin.com/in/tedkoenig-monroe"
+        }
+      ],
+      "corgi_fit_rationale": "Large private credit platform with technology lending \u2014 Corgi enables Monroe to enter GPU infrastructure financing with confidence."
+    },
+    {
+      "name": "Runway Growth Finance",
+      "website": "https://runwaygrowthfinance.com",
+      "type": "lender",
+      "priority": "B",
+      "description": "Late-stage venture lender providing non-dilutive growth capital to VC-backed tech companies. Increasingly active in AI and GPU infrastructure loans.",
+      "headquarters": "Woodside, CA, USA",
+      "estimated_valuation": "N/A (private lender)",
+      "gpu_scale": "N/A",
+      "financing_status": "Active lender",
+      "total_raised": "$2B+ AUM",
+      "industry_segment": "Private Credit",
+      "qualification_score": 80,
+      "key_contacts": [
+        {
+          "name": "Greg Greifeld",
+          "title": "Managing Partner",
+          "email_guess": "ggreifeld@runwaygrowthfinance.com",
+          "linkedin": "https://www.linkedin.com/in/greggreifeld"
+        }
+      ],
+      "corgi_fit_rationale": "Venture lender to Series B/C AI companies \u2014 Corgi coverage increases lending capacity and reduces write-down risk on GPU assets."
+    },
+    {
+      "name": "Structural Capital",
+      "website": "https://structuralcap.com",
+      "type": "lender",
+      "priority": "B",
+      "description": "San Francisco-based venture lending firm focused on post-Series A/B technology companies. Active in AI infrastructure debt with GPU-backed facilities.",
+      "headquarters": "San Francisco, CA, USA",
+      "estimated_valuation": "N/A (private lender)",
+      "gpu_scale": "N/A",
+      "financing_status": "Active lender",
+      "total_raised": "$1B+ AUM",
+      "industry_segment": "Private Credit",
+      "qualification_score": 79,
+      "key_contacts": [
+        {
+          "name": "Michael Fitzpatrick",
+          "title": "Managing Director",
+          "email_guess": "mfitzpatrick@structuralcap.com",
+          "linkedin": "https://www.linkedin.com/in/michaelfitzpatrick-structural"
+        }
+      ],
+      "corgi_fit_rationale": "Active venture lender to AI companies \u2014 Corgi's residual value product reduces collateral risk for Structural's GPU-backed loan book."
+    },
+    {
+      "name": "Saratoga Investment Corp",
+      "website": "https://saratogainvestmentcorp.com",
+      "type": "lender",
+      "priority": "B",
+      "description": "Publicly-listed BDC (NYSE: SAR) providing middle-market private credit solutions including direct lending and CLOs. Expanding AI tech lending.",
+      "headquarters": "New York, NY, USA",
+      "estimated_valuation": "N/A (public BDC)",
+      "gpu_scale": "N/A",
+      "financing_status": "Public BDC (NYSE: SAR)",
+      "total_raised": "$1B+ AUM",
+      "industry_segment": "Private Credit",
+      "qualification_score": 76,
+      "key_contacts": [
+        {
+          "name": "Christian Oberbeck",
+          "title": "CEO",
+          "email_guess": "coberbeck@saratogainvestmentcorp.com",
+          "linkedin": "https://www.linkedin.com/in/christianoberbeck"
+        }
+      ],
+      "corgi_fit_rationale": "BDC entering AI infrastructure lending \u2014 Corgi coverage adds an important risk management layer for SAR's GPU-collateralized loans."
+    },
+    {
+      "name": "Pollen Street Capital",
+      "website": "https://pollenstreet.co.uk",
+      "type": "lender",
+      "priority": "A",
+      "description": "London-based specialist financial services private equity and credit firm. Increasingly active in AI and technology infrastructure financing in European markets.",
+      "headquarters": "London, UK",
+      "estimated_valuation": "N/A (private credit)",
+      "gpu_scale": "N/A",
+      "financing_status": "Active lender",
+      "total_raised": "$5B+ AUM",
+      "industry_segment": "Private Credit",
+      "qualification_score": 83,
+      "key_contacts": [
+        {
+          "name": "Lindsey McMurray",
+          "title": "Founder & Managing Partner",
+          "email_guess": "l.mcmurray@pollenstreet.co.uk",
+          "linkedin": "https://www.linkedin.com/in/lindseymcmurray"
+        }
+      ],
+      "corgi_fit_rationale": "UK private credit firm expanding into AI infrastructure \u2014 Corgi's product is a key enabler for Pollen Street to underwrite GPU-backed loans with confidence."
+    },
+    {
+      "name": "CIBC Innovation Banking",
+      "website": "https://cibcinnovationbanking.com",
+      "type": "lender",
+      "priority": "A",
+      "description": "Canadian Imperial Bank of Commerce's innovation banking division providing venture debt to VC-backed technology companies in North America. Active in GPU/AI infrastructure.",
+      "headquarters": "San Francisco, CA, USA",
+      "estimated_valuation": "N/A (bank division)",
+      "gpu_scale": "N/A",
+      "financing_status": "Active lender",
+      "total_raised": "$2B+ in tech loans",
+      "industry_segment": "Private Credit",
+      "qualification_score": 87,
+      "key_contacts": [
+        {
+          "name": "Mark Usher",
+          "title": "Managing Director",
+          "email_guess": "mark.usher@cibcinnovationbanking.com",
+          "linkedin": "https://www.linkedin.com/in/markusher-cibc"
+        }
+      ],
+      "corgi_fit_rationale": "Bank tech lender grappling with GPU useful life uncertainty \u2014 Corgi's residual coverage gives CIBC Innovation Banking a framework to increase GPU loan advance rates."
+    },
+    {
+      "name": "Basalt Infrastructure Partners",
+      "website": "https://basaltinfrastructure.com",
+      "type": "lender",
+      "priority": "B",
+      "description": "European infrastructure equity and debt fund focused on mid-market digital and energy infrastructure including data centers and AI computing assets.",
+      "headquarters": "London, UK",
+      "estimated_valuation": "N/A (infrastructure fund)",
+      "gpu_scale": "N/A",
+      "financing_status": "Active fund",
+      "total_raised": "$3B+ AUM",
+      "industry_segment": "Private Credit",
+      "qualification_score": 79,
+      "key_contacts": [
+        {
+          "name": "Duco Sickinghe",
+          "title": "Co-Founder & Partner",
+          "email_guess": "d.sickinghe@basaltinfrastructure.com",
+          "linkedin": "https://www.linkedin.com/in/ducosickinghe"
+        }
+      ],
+      "corgi_fit_rationale": "European infrastructure fund financing digital assets \u2014 GPU residual value coverage is an essential tool for Basalt as they underwrite AI data center debt."
+    },
+    {
+      "name": "Magnetar Capital",
+      "website": "https://magnetar.com",
+      "type": "lender",
+      "priority": "A",
+      "description": "Multi-strategy alternative investment fund identified as a top AI data center investor. Active in structured credit and infrastructure finance for GPU cloud companies.",
+      "headquarters": "Evanston, IL, USA",
+      "estimated_valuation": "N/A (hedge/PE fund)",
+      "gpu_scale": "N/A",
+      "financing_status": "Active investor/lender",
+      "total_raised": "$15B+ AUM",
+      "industry_segment": "Private Credit",
+      "qualification_score": 84,
+      "key_contacts": [
+        {
+          "name": "Alec Litowitz",
+          "title": "CEO & Founder",
+          "email_guess": "alitowitz@magnetar.com",
+          "linkedin": "https://www.linkedin.com/in/aleclitowitz"
+        }
+      ],
+      "corgi_fit_rationale": "Major AI data center credit investor \u2014 Corgi's product gives Magnetar a risk mitigation tool for structured GPU-backed credit facilities."
+    },
+    {
+      "name": "Hercules Capital",
+      "website": "https://htgc.com",
+      "type": "lender",
+      "priority": "A",
+      "description": "Largest venture lending BDC (NYSE: HTGC) with $4B+ AUM lending to VC-backed technology, life sciences, and sustainable energy companies. Growing AI infrastructure portfolio.",
+      "headquarters": "Palo Alto, CA, USA",
+      "estimated_valuation": "N/A (public BDC)",
+      "gpu_scale": "N/A",
+      "financing_status": "Public BDC (NYSE: HTGC)",
+      "total_raised": "$4B+ AUM",
+      "industry_segment": "Private Credit",
+      "qualification_score": 89,
+      "key_contacts": [
+        {
+          "name": "Scott Bluestein",
+          "title": "CEO",
+          "email_guess": "sbluestein@htgc.com",
+          "linkedin": "https://www.linkedin.com/in/scottbluestein-hercules"
+        }
+      ],
+      "corgi_fit_rationale": "Largest VC lender with major AI portfolio \u2014 Corgi coverage enables Hercules to offer larger GPU-backed facilities with reduced collateral risk."
+    },
+    {
+      "name": "Golub Capital",
+      "website": "https://golubcapital.com",
+      "type": "lender",
+      "priority": "B",
+      "description": "Private credit specialist with $70B+ AUM focusing on direct lending and CLOs. Growing presence in AI infrastructure and technology company lending.",
+      "headquarters": "New York, NY, USA",
+      "estimated_valuation": "N/A (private credit)",
+      "gpu_scale": "N/A",
+      "financing_status": "Active lender",
+      "total_raised": "$70B+ AUM",
+      "industry_segment": "Private Credit",
+      "qualification_score": 80,
+      "key_contacts": [
+        {
+          "name": "Lawrence Golub",
+          "title": "CEO",
+          "email_guess": "lgolub@golubcapital.com",
+          "linkedin": "https://www.linkedin.com/in/lawrencegolub"
+        }
+      ],
+      "corgi_fit_rationale": "Major private credit platform with technology lending \u2014 Corgi enables Golub to expand into GPU-backed facilities with appropriate risk protection."
+    },
+    {
+      "name": "Stonepeak",
+      "website": "https://stonepeakpartners.com",
+      "type": "lender",
+      "priority": "A",
+      "description": "Alternative investment firm with $70B+ AUM focusing on infrastructure including digital infrastructure. Actively financing AI data center development and GPU deployments.",
+      "headquarters": "New York, NY, USA",
+      "estimated_valuation": "N/A (PE/credit)",
+      "gpu_scale": "N/A",
+      "financing_status": "Active investor/lender",
+      "total_raised": "$70B+ AUM",
+      "industry_segment": "Private Credit",
+      "qualification_score": 86,
+      "key_contacts": [
+        {
+          "name": "Michael Dorrell",
+          "title": "CEO & Co-Founder",
+          "email_guess": "mdorrell@stonepeakpartners.com",
+          "linkedin": "https://www.linkedin.com/in/michaeldorrell-stonepeak"
+        }
+      ],
+      "corgi_fit_rationale": "Major infrastructure investor in AI data centers \u2014 Corgi's GPU residual value product is a key risk tool for Stonepeak's data center portfolio."
+    },
+    {
+      "name": "Houlihan Lokey (Equipment Finance Group)",
+      "website": "https://hl.com",
+      "type": "arranger",
+      "priority": "A",
+      "description": "Global investment bank with dedicated Equipment Finance advisory group. Head Matthew Hudson cited AI data center and GPU infrastructure as top equipment finance growth sector.",
+      "headquarters": "Los Angeles, CA, USA",
+      "estimated_valuation": "N/A (public investment bank)",
+      "gpu_scale": "N/A",
+      "financing_status": "Active advisor (NYSE: HLI)",
+      "total_raised": "N/A (public)",
+      "industry_segment": "Equipment Finance",
+      "qualification_score": 88,
+      "key_contacts": [
+        {
+          "name": "Matthew Hudson",
+          "title": "MD, Equipment Finance & Leasing",
+          "email_guess": "matthew.hudson@hl.com",
+          "linkedin": "https://www.linkedin.com/in/matthewnhudson"
+        }
+      ],
+      "corgi_fit_rationale": "Leading equipment finance M&A advisor \u2014 Corgi partnering with Houlihan Lokey creates distribution to the largest GPU infrastructure equipment transactions."
+    },
+    {
+      "name": "FT Partners",
+      "website": "https://ftpartners.com",
+      "type": "arranger",
+      "priority": "A",
+      "description": "Leading fintech and technology investment bank advising on M&A and capital raises for financial technology and infrastructure companies including AI payment and data infrastructure.",
+      "headquarters": "San Francisco, CA, USA",
+      "estimated_valuation": "N/A (private IB)",
+      "gpu_scale": "N/A",
+      "financing_status": "Active advisor",
+      "total_raised": "N/A",
+      "industry_segment": "Equipment Finance",
+      "qualification_score": 80,
+      "key_contacts": [
+        {
+          "name": "Steve McLaughlin",
+          "title": "CEO & Founder",
+          "email_guess": "smclaughlin@ftpartners.com",
+          "linkedin": "https://www.linkedin.com/in/stevenmclaughlin-ftp"
+        }
+      ],
+      "corgi_fit_rationale": "Top-tier technology IB with fintech and infrastructure advisory mandates \u2014 natural partner for Corgi in structuring GPU-backed financing solutions."
+    },
+    {
+      "name": "GP Bullhound",
+      "website": "https://gpbullhound.com",
+      "type": "arranger",
+      "priority": "B",
+      "description": "European technology-focused investment bank and growth equity fund with deep AI infrastructure advisory practice. Active in EU neocloud and AI data center transactions.",
+      "headquarters": "London, UK",
+      "estimated_valuation": "N/A (private IB)",
+      "gpu_scale": "N/A",
+      "financing_status": "Active advisor",
+      "total_raised": "N/A",
+      "industry_segment": "Equipment Finance",
+      "qualification_score": 82,
+      "key_contacts": [
+        {
+          "name": "Manish Madhvani",
+          "title": "Managing Partner",
+          "email_guess": "manish.madhvani@gpbullhound.com",
+          "linkedin": "https://www.linkedin.com/in/manishmadhvani"
+        }
+      ],
+      "corgi_fit_rationale": "Leading European tech IB with active AI infrastructure practice \u2014 Corgi integration into GP Bullhound's advisory creates direct access to EU neocloud fundraising mandates."
+    },
+    {
+      "name": "Lincoln International",
+      "website": "https://lincolninternational.com",
+      "type": "arranger",
+      "priority": "B",
+      "description": "Global M&A and capital advisory firm specializing in mid-market technology and infrastructure transactions. Growing AI infrastructure practice in North America and Europe.",
+      "headquarters": "Chicago, IL, USA",
+      "estimated_valuation": "N/A (private IB)",
+      "gpu_scale": "N/A",
+      "financing_status": "Active advisor",
+      "total_raised": "N/A",
+      "industry_segment": "Equipment Finance",
+      "qualification_score": 78,
+      "key_contacts": [
+        {
+          "name": "Ron Kahn",
+          "title": "Managing Director & Co-Head Technology",
+          "email_guess": "rkahn@lincolninternational.com",
+          "linkedin": "https://www.linkedin.com/in/ronkahn-lincoln"
+        }
+      ],
+      "corgi_fit_rationale": "Mid-market M&A advisor with AI/infrastructure focus \u2014 partnership creates distribution to GPU operators seeking growth capital where residual value matters."
+    },
+    {
+      "name": "Capstone Partners",
+      "website": "https://capstonepartners.com",
+      "type": "arranger",
+      "priority": "B",
+      "description": "Independent investment banking firm specializing in middle market M&A and capital raises for technology, software, and infrastructure companies. Active AI/cloud advisory.",
+      "headquarters": "Boston, MA, USA",
+      "estimated_valuation": "N/A (private IB)",
+      "gpu_scale": "N/A",
+      "financing_status": "Active advisor",
+      "total_raised": "N/A",
+      "industry_segment": "Equipment Finance",
+      "qualification_score": 75,
+      "key_contacts": [
+        {
+          "name": "John Ferrara",
+          "title": "President & Founder",
+          "email_guess": "jferrara@capstonepartners.com",
+          "linkedin": "https://www.linkedin.com/in/johnferrara-capstone"
+        }
+      ],
+      "corgi_fit_rationale": "Middle market IB with broad tech/infrastructure practice \u2014 Corgi products can be integrated into capital raise advisory for GPU cloud operators."
+    },
+    {
+      "name": "Raine Group",
+      "website": "https://rainegroup.com",
+      "type": "arranger",
+      "priority": "B",
+      "description": "Merchant bank focused on technology, media, and communications. Advisory practice covers AI infrastructure transactions and has relationships with GPU cloud companies and their investors.",
+      "headquarters": "New York, NY, USA",
+      "estimated_valuation": "N/A (private merchant bank)",
+      "gpu_scale": "N/A",
+      "financing_status": "Active advisor",
+      "total_raised": "N/A",
+      "industry_segment": "Equipment Finance",
+      "qualification_score": 74,
+      "key_contacts": [
+        {
+          "name": "Gordon Rubenstein",
+          "title": "President & Co-Founder",
+          "email_guess": "grubenstein@rainegroup.com",
+          "linkedin": "https://www.linkedin.com/in/gordonrubenstein"
+        }
+      ],
+      "corgi_fit_rationale": "Tech merchant bank with AI infrastructure relationships \u2014 Corgi partnership provides value-add for Raine clients financing GPU infrastructure."
+    },
+    {
+      "name": "Union Square Advisors",
+      "website": "https://usadvisors.com",
+      "type": "arranger",
+      "priority": "C",
+      "description": "Independent technology-focused investment bank specializing in M&A and capital raises for enterprise software, cloud, and infrastructure companies.",
+      "headquarters": "New York, NY, USA",
+      "estimated_valuation": "N/A (private IB)",
+      "gpu_scale": "N/A",
+      "financing_status": "Active advisor",
+      "total_raised": "N/A",
+      "industry_segment": "Equipment Finance",
+      "qualification_score": 71,
+      "key_contacts": [
+        {
+          "name": "Ted Smith",
+          "title": "Managing Director",
+          "email_guess": "tsmith@usadvisors.com",
+          "linkedin": "https://www.linkedin.com/in/tedsmith-usa"
+        }
+      ],
+      "corgi_fit_rationale": "Enterprise tech IB \u2014 Corgi integration supports their cloud/infrastructure advisory mandates where GPU capex is a growing topic."
+    },
+    {
+      "name": "Carlsquare",
+      "website": "https://carlsquare.com",
+      "type": "arranger",
+      "priority": "B",
+      "description": "Nordic investment bank specializing in M&A and equipment-as-a-service advisory. Published the 2025 EaaS Market Report and projects significant equipment finance growth in AI/data centers.",
+      "headquarters": "Stockholm, Sweden",
+      "estimated_valuation": "N/A (private IB)",
+      "gpu_scale": "N/A",
+      "financing_status": "Active advisor",
+      "total_raised": "N/A",
+      "industry_segment": "Equipment Finance",
+      "qualification_score": 77,
+      "key_contacts": [
+        {
+          "name": "Magnus Bocker",
+          "title": "CEO",
+          "email_guess": "magnus.bocker@carlsquare.com",
+          "linkedin": "https://www.linkedin.com/in/magnusbocker"
+        }
+      ],
+      "corgi_fit_rationale": "Nordic EaaS specialist bank \u2014 direct alignment with Corgi as Carlsquare actively structures equipment finance transactions in AI data center sector."
+    },
+    {
+      "name": "Imperial Capital",
+      "website": "https://imperialcapital.com",
+      "type": "arranger",
+      "priority": "C",
+      "description": "Boutique investment bank and asset management firm with focus on technology, media, and infrastructure M&A and debt capital markets. Growing AI infrastructure practice.",
+      "headquarters": "Los Angeles, CA, USA",
+      "estimated_valuation": "N/A (private IB)",
+      "gpu_scale": "N/A",
+      "financing_status": "Active advisor",
+      "total_raised": "N/A",
+      "industry_segment": "Equipment Finance",
+      "qualification_score": 68,
+      "key_contacts": [
+        {
+          "name": "Jason Reese",
+          "title": "CEO & Co-Founder",
+          "email_guess": "jreese@imperialcapital.com",
+          "linkedin": "https://www.linkedin.com/in/jasonreese-imperial"
+        }
+      ],
+      "corgi_fit_rationale": "Boutique bank with tech infrastructure focus \u2014 Corgi advisory relationships with Imperial open doors to mid-market GPU infrastructure financing transactions."
+    },
+    {
+      "name": "Runway Growth Capital (formerly known as Western Technology)",
+      "website": "https://runwaygrowth.com",
+      "type": "lender",
+      "priority": "B",
+      "description": "Growth-stage venture lender (formerly Western Technology Investment spinout) providing non-dilutive capital to technology companies. Expanding AI/GPU infrastructure book with venture debt.",
+      "headquarters": "Menlo Park, CA, USA",
+      "estimated_valuation": "N/A (private lender)",
+      "gpu_scale": "N/A",
+      "financing_status": "Active lender",
+      "total_raised": "$1.5B+ AUM",
+      "industry_segment": "Private Credit",
+      "qualification_score": 78,
+      "key_contacts": [
+        {
+          "name": "David Spreng",
+          "title": "CEO & Founder",
+          "email_guess": "dspreng@runwaygrowth.com",
+          "linkedin": "https://www.linkedin.com/in/davidspreng"
+        }
+      ],
+      "corgi_fit_rationale": "Late-stage venture lender expanding into GPU-backed AI infrastructure \u2014 Corgi's residual value product de-risks collateral for Runway's growing hardware loan portfolio."
+    },
+    {
+      "name": "Oberon Securities",
+      "website": "https://oberonsecurities.com",
+      "type": "arranger",
+      "priority": "C",
+      "description": "Middle-market investment bank and broker-dealer specializing in M&A advisory and private placements for technology, digital infrastructure, and specialty finance companies.",
+      "headquarters": "New York, NY, USA",
+      "estimated_valuation": "N/A (broker-dealer)",
+      "gpu_scale": "N/A",
+      "financing_status": "Active advisor",
+      "total_raised": "N/A",
+      "industry_segment": "Equipment Finance",
+      "qualification_score": 66,
+      "key_contacts": [
+        {
+          "name": "John Sapan",
+          "title": "President & Co-Founder",
+          "email_guess": "jsapan@oberonsecurities.com",
+          "linkedin": "https://www.linkedin.com/in/johnsapan"
+        }
+      ],
+      "corgi_fit_rationale": "Specialty finance-focused broker-dealer \u2014 Corgi partnership opens distribution to smaller GPU operators and lenders seeking equipment finance solutions."
+    }
+  ]
+}

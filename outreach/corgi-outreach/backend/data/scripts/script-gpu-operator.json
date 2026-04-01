@@ -1,0 +1,312 @@
+{
+  "id": "gpu-operator-cold-call-v2",
+  "name": "GPU Operator Cold Call",
+  "targetAudience": "gpu-operator",
+  "description": "Decision tree for cold calls to mid-market GPU cloud operators and data center companies ($50M–$500M in GPU hardware) that OWN their hardware. Sweet spot: ~$100M in debt-financed GPUs. Goal: qualify financing type, lead with cost-of-capital reduction for debt-financed operators, balance sheet protection for equity-funded. Book a founders call.",
+  "variables": ["company", "contact_name", "title", "gpu_count", "funding_amount"],
+  "entryNode": 1,
+  "nodes": [
+    {
+      "id": 1,
+      "type": "gate-check",
+      "label": "Right person?",
+      "script": "Hi, this is [caller] from Corgi Insurance Services. I'm looking for whoever at {company} handles capital structure or hardware financing decisions — is that you, or is there someone better to speak with?",
+      "branches": [
+        { "condition": "yes / I handle that / that's me", "next": 2 },
+        { "condition": "wrong person / not my area", "next": 22 },
+        { "condition": "no time / busy", "next": 3 }
+      ]
+    },
+    {
+      "id": 2,
+      "type": "permission",
+      "label": "Ask for 60 seconds",
+      "script": "Perfect. I'll keep this to 60 seconds — if it's not relevant you can cut me off. Fair?",
+      "branches": [
+        { "condition": "go ahead / okay / sure", "next": 4 },
+        { "condition": "make it quick", "next": 4 },
+        { "condition": "no / hard no", "next": 23 }
+      ]
+    },
+    {
+      "id": 3,
+      "type": "time-check",
+      "label": "Bad time fallback",
+      "script": "Completely understand. When would be a better time? I have something specific about how GPU operators can lower their cost of capital on hardware debt — worth 60 seconds when the timing's right.",
+      "branches": [
+        { "condition": "gives a time", "next": "SCHEDULE_CALLBACK" },
+        { "condition": "just email me", "next": "SEND_COLD_EMAIL" },
+        { "condition": "hard no", "next": 23 }
+      ]
+    },
+    {
+      "id": 4,
+      "type": "hook",
+      "label": "Core hook — cost of capital + depreciation",
+      "script": "Quick version: if {company} is financing its GPU hardware with debt — equipment lines, private credit — you're almost certainly paying more than you need to. Lenders price GPU-backed loans to account for collateral depreciation. That uncertainty gets baked into your rate, your LTV cap, your covenants. We built a product that changes that. Before I explain it — how does {company} finance its GPU hardware? Debt or equity?",
+      "branches": [
+        { "condition": "debt / financed / private credit / equipment line", "next": 24 },
+        { "condition": "equity / self-funded / no debt", "next": 16 },
+        { "condition": "mix of both", "next": 24 },
+        { "condition": "we don't own GPUs / we lease", "next": 11 },
+        { "condition": "not interested", "next": 23 }
+      ]
+    },
+    {
+      "id": 24,
+      "type": "cost-of-capital-pitch",
+      "label": "Cost of capital pitch — debt-financed",
+      "script": "Perfect — this is exactly the product for you. Corgi provides Residual Value Guaranty insurance — a put-style floor on your GPU hardware's value at a future date. When your lender sees that floor — a contractual minimum recovery from an insurance carrier — they don't need to price for unlimited downside anymore. That translates to a lower rate, a higher LTV ratio (more proceeds on the same hardware), and potentially a longer tenor. For a mid-market GPU facility in the $50M to $500M range, the improvement in terms typically more than pays for the policy premium. Premiums run 2.1% to 12.9% of GPU value depending on guarantee level and term.",
+      "branches": [
+        { "condition": "interesting / tell me more about the mechanics", "next": 7 },
+        { "condition": "what's the cost / premium", "next": 8 },
+        { "condition": "how does it work exactly", "next": 5 },
+        { "condition": "we already have something / we handle this", "next": 6 }
+      ]
+    },
+    {
+      "id": 5,
+      "type": "pitch",
+      "label": "RVG explanation",
+      "script": "We provide Residual Value Guaranty insurance — think of it as a put option on your hardware. You buy a policy at the time of GPU acquisition. At expiry — 3, 5, or 10 years out — if your GPUs are worth less than the guaranteed floor on the open market, the policy pays you the full guaranteed amount and we take title to the hardware. You're hedged against the downside. The lender is protected too — which is why they offer better terms when you have this in place.",
+      "branches": [
+        { "condition": "interesting / how does it work", "next": 7 },
+        { "condition": "what's the cost", "next": 8 },
+        { "condition": "we already depreciate on books", "next": 9 },
+        { "condition": "what does it actually protect", "next": 7 }
+      ]
+    },
+    {
+      "id": 6,
+      "type": "objection-handler",
+      "label": "Objection: already handle this",
+      "script": "Good to hear — how are you managing it? Most operators either self-insure (which is fine for some balance sheets), or they have some contractual language in their financing that doesn't actually transfer the risk to a carrier. What we do is different: it's a policy from an insurance carrier with a defined payout trigger, and your lender can name themselves Loss Payee. That's what changes the underwriting conversation. How are you currently covered?",
+      "branches": [
+        { "condition": "explains accounting / depreciation treatment", "next": 9 },
+        { "condition": "explains actual hedging", "next": 7 },
+        { "condition": "not my area / finance team handles it", "next": 22 }
+      ]
+    },
+    {
+      "id": 7,
+      "type": "mechanics",
+      "label": "Policy mechanics detail",
+      "script": "The guarantee level is 5%, 10%, or 15% of original GPU purchase price. Term is 3, 5, or 10 years. Premium is a one-time payment — runs 2.1% to 12.9% of GPU value. The value test at expiry uses SiliconNavigator™ daily benchmarks — that's the secondary market for H100s and A100s, transparent pricing, your team and your lender can both audit it. Title transfers to us at settlement — which means you handed back hardware you were going to sell anyway.",
+      "branches": [
+        { "condition": "what does the lending angle look like", "next": 10 },
+        { "condition": "interested / let's talk more", "next": 15 },
+        { "condition": "what are the premiums", "next": 8 },
+        { "condition": "why would we pay for this", "next": 13 }
+      ]
+    },
+    {
+      "id": 8,
+      "type": "pricing",
+      "label": "Pricing discussion",
+      "script": "Premiums run from 2.1% of GPU value — that's the 5% guarantee at 3-year term — up to 12.9% for a 15% guarantee over 10 years. On a $10M GPU cluster: the floor-level protection runs roughly $210K one-time, the mid-tier runs around $330K. The way to think about it: you're buying a known exit price on hardware that's otherwise melting away, and your lender sees that floor and offers better terms. The premium is the cost of the hedge — often paid back by what you save on the debt.",
+      "branches": [
+        { "condition": "that's reasonable / interesting", "next": 15 },
+        { "condition": "too expensive", "next": 14 },
+        { "condition": "how does it affect our financing", "next": 10 }
+      ]
+    },
+    {
+      "id": 9,
+      "type": "objection-handler",
+      "label": "Objection: we already depreciate on books",
+      "script": "Book depreciation and market value protection are different things. Your accountants are writing down the asset value — that's an accounting treatment. We're protecting the cash you'd actually receive if you had to sell those GPUs on the secondary market, and more importantly, the floor your lender sees when underwriting your facility. A GPU can be 80% depreciated on your books and still worth 60% of purchase price on the market — or worth 20% when a new generation launches. Book value doesn't change your lender's LTV calculation. An RVG policy does.",
+      "branches": [
+        { "condition": "I see the difference", "next": 15 },
+        { "condition": "still not sure we need it", "next": 13 },
+        { "condition": "what about our lenders", "next": 10 }
+      ]
+    },
+    {
+      "id": 10,
+      "type": "lending-angle",
+      "label": "Lending angle — collateral floor",
+      "script": "This is the core of it. An RVG policy turns your GPUs into bankable collateral with a defined floor. Your lender doesn't have to guess what the hardware recovers at maturity — they know. That changes the LTV conversation, the tenor they'll extend, and the spread they charge. Private credit lenders are increasingly requiring RV protection as a loan condition on GPU-backed facilities. If you're raising debt against hardware now or planning to, your next term sheet may ask for this — and it's better to have the structure ready than to scramble for it at close.",
+      "branches": [
+        { "condition": "we're raising debt now / soon", "next": 15 },
+        { "condition": "we're self-funded", "next": 16 },
+        { "condition": "our lender hasn't asked for this", "next": 17 }
+      ]
+    },
+    {
+      "id": 11,
+      "type": "qualification-miss",
+      "label": "Disqualify: leases GPUs",
+      "script": "Got it — so you're leasing, not holding the iron on your own balance sheet. The depreciation risk sits with the lessor in that case. Two quick questions: first, do you have any plans to own hardware directly in the next 12–18 months? And second, do you know who's financing those leases? The lender angle is directly relevant to them.",
+      "branches": [
+        { "condition": "might own in future", "next": 18 },
+        { "condition": "knows the lender / has a relationship", "next": 19 },
+        { "condition": "no / not applicable", "next": 23 }
+      ]
+    },
+    {
+      "id": 12,
+      "type": "sizing",
+      "label": "Sizing the opportunity",
+      "script": "To make sure what I describe is actually relevant: roughly how much GPU hardware are we talking about in total value — tens of millions, hundreds of millions? And are these H100s, A100s, a mix? That helps me give you accurate numbers on what a policy would look like.",
+      "branches": [
+        { "condition": "gives numbers", "next": 24 },
+        { "condition": "confidential / can't say", "next": 24 },
+        { "condition": "we're still evaluating / not purchased yet", "next": 20 }
+      ]
+    },
+    {
+      "id": 13,
+      "type": "objection-handler",
+      "label": "Objection: don't see the need",
+      "script": "The reason mid-market operators increasingly care is financing. If you're ever going to take on debt against this hardware — or if your investors are starting to ask the balance sheet question — having an RVG policy changes that conversation entirely. Lenders on GPU-backed facilities are starting to require it as a condition. When's your next financing event?",
+      "branches": [
+        { "condition": "has upcoming financing", "next": 15 },
+        { "condition": "no financing planned", "next": 16 },
+        { "condition": "still not interested", "next": 23 }
+      ]
+    },
+    {
+      "id": 14,
+      "type": "objection-handler",
+      "label": "Objection: too expensive",
+      "script": "Let me reframe it. The premium — say, 3.3% on a 10% guarantee at 5 years — buys you a known exit price on hardware that might otherwise recover 20 cents on the dollar in a down market. More importantly, your lender sees that floor and prices your facility accordingly. If the premium saves you 50–100bps on your rate, it pays back fast. If the GPU market corrects when the next generation lands, you receive the guaranteed amount and hand back the hardware. The question is whether you'd pay 3.3% to turn an uncertain depreciating asset into protected collateral with a known floor. For most debt-financed operators, that math works.",
+      "branches": [
+        { "condition": "fair point / I see it", "next": 15 },
+        { "condition": "still too much", "next": 21 },
+        { "condition": "let me think about it", "next": 15 }
+      ]
+    },
+    {
+      "id": 15,
+      "type": "meeting-ask",
+      "label": "Meeting request",
+      "script": "I think a 20-minute call with our founders — Isaac and Josh — would be worth your time. They can walk through exactly how a policy would look for {company}'s specific situation, what the premium would be, and how it fits into your existing or planned financing structure. No deck, no pitch — just a working session on whether the numbers make sense. When does next week look like for you?",
+      "branches": [
+        { "condition": "agrees / gives availability", "next": "BOOK_MEETING" },
+        { "condition": "send info first", "next": "SEND_INFO_THEN_FOLLOWUP" },
+        { "condition": "needs internal sign-off first", "next": 22 }
+      ]
+    },
+    {
+      "id": 16,
+      "type": "self-funded-pivot",
+      "label": "Self-funded pivot",
+      "script": "If you're equity-funded right now, the balance sheet protection angle still applies — you're carrying all the depreciation risk directly, and RVG puts a floor on that. The bigger question is whether you're planning a financing round in the next 12 months. If you want to show up to a lender conversation with a clean collateral story — a known floor on the hardware value — having RVG in place before you're negotiating terms is a lot better than trying to add it at close. Is that relevant to {company}'s roadmap?",
+      "branches": [
+        { "condition": "yes / planning to raise", "next": 15 },
+        { "condition": "no near-term plans", "next": 21 }
+      ]
+    },
+    {
+      "id": 17,
+      "type": "lender-preempt",
+      "label": "Lender hasn't asked yet",
+      "script": "Not yet. But the trend is clear — lenders who've taken losses on GPU collateral are starting to require it. The operators who already have RVG in place when their lender asks don't have to scramble for coverage at term sheet stage, which means better pricing and faster close. It's worth understanding the structure now rather than at the point of need.",
+      "branches": [
+        { "condition": "OK / makes sense", "next": 15 },
+        { "condition": "we'll deal with it when it comes up", "next": 21 }
+      ]
+    },
+    {
+      "id": 18,
+      "type": "future-owner",
+      "label": "Future GPU owner",
+      "script": "Good to know. If {company} moves to owning hardware, the RVG conversation becomes very relevant from day one — ideally you buy the policy at the same time as the hardware, which gives you the best pricing and makes it easy to integrate into your financing. What timeframe are you thinking?",
+      "branches": [
+        { "condition": "gives timeframe", "next": "SCHEDULE_FUTURE_CALLBACK" },
+        { "condition": "unclear / TBD", "next": "ADD_TO_NURTURE" }
+      ]
+    },
+    {
+      "id": 19,
+      "type": "lender-referral",
+      "label": "Referral to lender",
+      "script": "Got it. The lender who's financing those leases is a great conversation for us to have — they're the ones carrying the residual value risk on the hardware, and RVG is specifically designed to sit inside their security package as a Loss Payee policy. Would you be comfortable making an intro, or at least letting me name-drop {company} when I reach out to them?",
+      "branches": [
+        { "condition": "yes / happy to intro", "next": "CAPTURE_LENDER_REFERRAL" },
+        { "condition": "no / prefer not", "next": 23 }
+      ]
+    },
+    {
+      "id": 20,
+      "type": "pre-purchase",
+      "label": "Pre-purchase timing",
+      "script": "Actually that's the ideal time to have this conversation. RVG policies are purchased at the time of acquisition — the earlier in the process, the better the pricing and the simpler the integration into your financing stack. If {company} is evaluating a GPU purchase in the next 6 months, I'd strongly suggest getting the RVG structure in place before you sign anything. Can I set up a call now?",
+      "branches": [
+        { "condition": "yes / makes sense", "next": 15 },
+        { "condition": "too early / not ready", "next": 21 }
+      ]
+    },
+    {
+      "id": 21,
+      "type": "soft-exit",
+      "label": "Soft exit — leave the door open",
+      "script": "I hear you. I'll leave it here — if GPU financing or hardware risk protection comes up for {company} down the road, we're worth a conversation. I'll send you a brief overview email so you have it. Fair enough?",
+      "branches": [
+        { "condition": "yes / fine", "next": "SEND_COLD_EMAIL" },
+        { "condition": "no thanks", "next": 23 }
+      ]
+    },
+    {
+      "id": 22,
+      "type": "wrong-person",
+      "label": "Referral to right person",
+      "script": "No problem. Who would be the right person at {company} to talk about hardware financing or capital structure? I want to make sure I'm talking to someone for whom this is actually relevant.",
+      "branches": [
+        { "condition": "gives name / transfers", "next": "UPDATE_CONTACT_AND_RESTART" },
+        { "condition": "doesn't know / can't help", "next": 23 }
+      ]
+    },
+    {
+      "id": 23,
+      "type": "graceful-exit",
+      "label": "Hard exit",
+      "script": "Understood — I appreciate you taking the call. I won't follow up unless something changes on your end. If GPU cost of capital or residual value ever does come up, Corgi Insurance Services — easy to find. Thanks for your time.",
+      "branches": [],
+      "terminal": true
+    }
+  ],
+  "objectionHandlers": {
+    "we_already_depreciate_on_books": {
+      "trigger": "we already depreciate on books",
+      "redirect": 9
+    },
+    "we_dont_own_we_lease": {
+      "trigger": "we don't own / we lease",
+      "redirect": 11
+    },
+    "too_expensive": {
+      "trigger": "too expensive / too costly / not worth it",
+      "redirect": 14
+    },
+    "dont_need_it": {
+      "trigger": "we don't need this / not relevant",
+      "redirect": 13
+    },
+    "not_big_enough": {
+      "trigger": "we're not big enough / too small / we don't have enough GPUs / we're a small operator",
+      "response": "$100M in GPU hardware is the sweet spot for this product — you don't need to be a hyperscaler. A 500–1,000 H100 cluster financed with private credit is exactly the profile we built this for. The operators too small to justify a full actuarial team, and too big to absorb the depreciation risk themselves. Does that sound like where {company} sits?",
+      "next": 15
+    },
+    "send_info": {
+      "trigger": "just send me info / email me a deck",
+      "response": "Of course. I'll send over a brief overview — policy mechanics, pricing tiers, and a worked example on a typical H100 cluster, including how it affects your financing terms. Worth also setting up 20 minutes with the founders so you can ask direct questions. Can I find a slot?",
+      "next": "SEND_INFO_THEN_FOLLOWUP"
+    },
+    "not_the_right_time": {
+      "trigger": "not the right time / too busy / come back later",
+      "response": "No problem. When would be the right time? We're actively writing policies and I'd rather have this conversation before your next financing event than after.",
+      "next": "SCHEDULE_CALLBACK"
+    }
+  },
+  "exitStates": {
+    "BOOK_MEETING": "Log meeting in CRM, send calendar invite, trigger follow_up_2.hbs post-meeting",
+    "SEND_COLD_EMAIL": "Send cold_intro_operator.hbs, tag for follow_up_1.hbs at day 4",
+    "SEND_INFO_THEN_FOLLOWUP": "Send product overview PDF, schedule follow_up call in 3 days",
+    "SCHEDULE_CALLBACK": "Log callback date in CRM, set reminder",
+    "SCHEDULE_FUTURE_CALLBACK": "Set 90-day nurture sequence",
+    "ADD_TO_NURTURE": "Add to 6-month nurture sequence",
+    "CAPTURE_LENDER_REFERRAL": "Log lender name, trigger lender outreach sequence",
+    "UPDATE_CONTACT_AND_RESTART": "Update CRM with correct contact, restart script from node 1"
+  }
+}

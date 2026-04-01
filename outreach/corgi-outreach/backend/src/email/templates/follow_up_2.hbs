@@ -1,0 +1,77 @@
+{{!-- follow_up_2.hbs --}}
+{{!-- Follow-up after a meeting — recap what was discussed, attach next steps --}}
+{{!-- subject_a: "Next steps from our call — {{companyName}} + Corgi" --}}
+{{!-- subject_b: "Good to connect — here's what we discussed" --}}
+
+{{#if isHtml}}
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <style>
+    body { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif; font-size: 15px; line-height: 1.6; color: #1a1a1a; max-width: 600px; margin: 0 auto; padding: 20px; }
+    p { margin: 0 0 16px; }
+    a { color: #2563eb; }
+    ul { margin: 0 0 16px; padding-left: 20px; }
+    li { margin-bottom: 8px; }
+    .signature { margin-top: 28px; color: #555; }
+  </style>
+</head>
+<body>
+  <p>Hi {{firstName}},</p>
+
+  <p>Thanks for the time today — good conversation. Here's a quick recap and the next steps we agreed on.</p>
+
+  <p><strong>What we covered:</strong></p>
+  <ul>
+    <li>How the Residual Value Guaranty works as a put-style floor on GPU hardware value at policy expiration</li>
+    <li>{{#if meetingSummaryPoint1}}{{meetingSummaryPoint1}}{{else}}Policy tiers: 5%, 10%, and 15% guarantee levels across 3-, 5-, and 10-year terms; premiums from 2.1% to 12.9% of GPU value{{/if}}</li>
+    <li>{{#if meetingSummaryPoint2}}{{meetingSummaryPoint2}}{{else}}How title transfer at settlement eliminates moral hazard and how SiliconNavigator™ benchmarks are used for the value test{{/if}}</li>
+    <li>{{#if meetingSummaryPoint3}}{{meetingSummaryPoint3}}{{else}}How RVG fits into your existing financing structure / security package{{/if}}</li>
+  </ul>
+
+  <p><strong>Next steps:</strong></p>
+  <ul>
+    <li>{{#if nextStep1}}{{nextStep1}}{{else}}Corgi to send a term sheet / indicative pricing for {{companyName}}'s GPU cohort{{/if}}</li>
+    <li>{{#if nextStep2}}{{nextStep2}}{{else}}{{companyName}} to review with [CFO / finance team / counsel] and flag any structural questions{{/if}}</li>
+    <li>{{#if nextStep3}}{{nextStep3}}{{else}}Follow-up call in two weeks to work through questions and discuss path to binding{{/if}}</li>
+  </ul>
+
+  <p>I'll follow up with the materials. In the meantime, if anything comes up — questions on the mechanics, Loss Payee provisions, or how this interacts with your existing lender relationships — just reply to this note.</p>
+
+  <p>Thanks again, {{firstName}}.</p>
+
+  <div class="signature">
+    <p>{{callerName}}<br>
+    Corgi Insurance Services<br>
+    <a href="https://corgi.xyz">corgi.xyz</a></p>
+  </div>
+
+  {{#if trackingPixel}}{{{trackingPixel}}}{{/if}}
+</body>
+</html>
+{{else}}
+Hi {{firstName}},
+
+Thanks for the time today — good conversation. Here's a quick recap and the next steps we agreed on.
+
+What we covered:
+- How the Residual Value Guaranty works as a put-style floor on GPU hardware value at policy expiration
+- {{#if meetingSummaryPoint1}}{{meetingSummaryPoint1}}{{else}}Policy tiers: 5%, 10%, and 15% guarantee levels across 3-, 5-, and 10-year terms; premiums from 2.1% to 12.9% of GPU value{{/if}}
+- {{#if meetingSummaryPoint2}}{{meetingSummaryPoint2}}{{else}}How title transfer at settlement eliminates moral hazard and how SiliconNavigator™ benchmarks are used for the value test{{/if}}
+- {{#if meetingSummaryPoint3}}{{meetingSummaryPoint3}}{{else}}How RVG fits into your existing financing structure / security package{{/if}}
+
+Next steps:
+- {{#if nextStep1}}{{nextStep1}}{{else}}Corgi to send a term sheet / indicative pricing for {{companyName}}'s GPU cohort{{/if}}
+- {{#if nextStep2}}{{nextStep2}}{{else}}{{companyName}} to review with CFO / finance team / counsel and flag any structural questions{{/if}}
+- {{#if nextStep3}}{{nextStep3}}{{else}}Follow-up call in two weeks to work through questions and discuss path to binding{{/if}}
+
+I'll follow up with the materials. In the meantime, if anything comes up — questions on the mechanics, Loss Payee provisions, or how this interacts with your existing lender relationships — just reply to this note.
+
+Thanks again, {{firstName}}.
+
+{{callerName}}
+Corgi Insurance Services
+corgi.xyz
+{{/if}}

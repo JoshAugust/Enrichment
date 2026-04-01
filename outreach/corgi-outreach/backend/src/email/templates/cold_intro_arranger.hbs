@@ -1,0 +1,71 @@
+{{!-- cold_intro_arranger.hbs --}}
+{{!-- Repurposed: First touch to reinsurers (Munich Re, Swiss Re, Hannover Re, Bermuda/Lloyd's) --}}
+{{!-- subject_a: "New RV program seeking reinsurance capacity — $215B GPU market" --}}
+{{!-- subject_b: "GPU Residual Value Guaranty — proven structure, new asset class" --}}
+{{!-- subject_c: "Reinsurance capacity: GPU RVG program — per-cohort occurrence, title transfer" --}}
+
+{{#if isHtml}}
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <style>
+    body { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif; font-size: 15px; line-height: 1.6; color: #1a1a1a; max-width: 600px; margin: 0 auto; padding: 20px; }
+    p { margin: 0 0 16px; }
+    a { color: #2563eb; }
+    .signature { margin-top: 28px; color: #555; }
+  </style>
+</head>
+<body>
+  <p>Hi {{firstName}},</p>
+
+  <p>The AI GPU market is a $100B market today on its way to $215B by 2030. The capital deployed to acquire this hardware needs a risk transfer solution — and nobody has built one until now. This is not a niche bet; it's the next equipment RV program at internet scale.</p>
+
+  <p>Corgi Insurance Services (program manager) and DIAIC (Utah-domiciled issuing carrier) have built a Residual Value Guaranty program for data-center GPU hardware. The structure will be familiar to anyone who has worked auto or equipment RV: we write a put-style floor on GPU value at a specified future date. At policy expiration, if the market value falls below the guaranteed percentage, we pay the full guaranteed amount and take title to the hardware. Title transfer eliminates moral hazard entirely.</p>
+
+  <p>Key program features for reinsurers:</p>
+  <p>
+  — <strong>Per-cohort occurrence basis</strong>: loss aggregation is bounded by hardware cohort, not cross-site accumulation<br>
+  — <strong>Mandatory recertification</strong>: hardware must pass verification before value test — no deteriorated asset problem<br>
+  — <strong>SiliconNavigator™ pricing</strong>: independent daily benchmarks for H100/A100 (80%+ market coverage) — transparent, auditable loss calculation<br>
+  — <strong>Tranched rollout</strong>: program scales via successive treaty layers, aligned to your capacity appetite<br>
+  — <strong>Monte Carlo-modelled loss curves</strong>: 20% base annual depreciation assumption, stress-tested across GPU generation cycles
+  </p>
+
+  <p>We're targeting $3.465B of ceded limit and are building our reinsurance tower now. We've raised $108M to capitalize the program and have active policy conversations underway.</p>
+
+  <p>I'd welcome a working session with your team to share the actuarial package, treaty structure, and SiliconNavigator pricing methodology. Would 30 minutes this month work?</p>
+
+  <div class="signature">
+    <p>{{callerName}}<br>
+    Corgi Insurance Services<br>
+    <a href="https://corgi.xyz">corgi.xyz</a></p>
+  </div>
+
+  {{#if trackingPixel}}{{{trackingPixel}}}{{/if}}
+</body>
+</html>
+{{else}}
+Hi {{firstName}},
+
+The AI GPU market is a $100B market today on its way to $215B by 2030. The capital deployed to acquire this hardware needs a risk transfer solution — and nobody has built one until now. This is not a niche bet; it's the next equipment RV program at internet scale.
+
+Corgi Insurance Services (program manager) and DIAIC (Utah-domiciled issuing carrier) have built a Residual Value Guaranty program for data-center GPU hardware. The structure will be familiar to anyone who has worked auto or equipment RV: we write a put-style floor on GPU value at a specified future date. At policy expiration, if the market value falls below the guaranteed percentage, we pay the full guaranteed amount and take title to the hardware. Title transfer eliminates moral hazard entirely.
+
+Key program features for reinsurers:
+
+— Per-cohort occurrence basis: loss aggregation is bounded by hardware cohort, not cross-site accumulation
+— Mandatory recertification: hardware must pass verification before value test — no deteriorated asset problem
+— SiliconNavigator™ pricing: independent daily benchmarks for H100/A100 (80%+ market coverage) — transparent, auditable loss calculation
+— Tranched rollout: program scales via successive treaty layers, aligned to your capacity appetite
+— Monte Carlo-modelled loss curves: 20% base annual depreciation assumption, stress-tested across GPU generation cycles
+
+We're targeting $3.465B of ceded limit and are building our reinsurance tower now. We've raised $108M to capitalize the program and have active policy conversations underway.
+
+I'd welcome a working session with your team to share the actuarial package, treaty structure, and SiliconNavigator pricing methodology. Would 30 minutes this month work?
+
+{{callerName}}
+Corgi Insurance Services
+corgi.xyz
+{{/if}}

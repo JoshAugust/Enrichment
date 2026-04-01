@@ -1,0 +1,69 @@
+{{!-- cold_intro_operator.hbs --}}
+{{!-- First touch to GPU operators / cloud providers who OWN hardware --}}
+{{!-- subject_a: "Lower your cost of capital on GPU-backed debt" --}}
+{{!-- subject_b: "A put option on your GPU fleet — bankable collateral, better rates" --}}
+{{!-- subject_c: "How {{companyName}} can get better terms on its next GPU facility" --}}
+
+{{#if isHtml}}
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <style>
+    body { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif; font-size: 15px; line-height: 1.6; color: #1a1a1a; max-width: 600px; margin: 0 auto; padding: 20px; }
+    p { margin: 0 0 16px; }
+    a { color: #2563eb; }
+    .signature { margin-top: 28px; color: #555; }
+  </style>
+</head>
+<body>
+  <p>Hi {{firstName}},</p>
+
+  <p>If {{companyName}} is financing its GPU hardware with debt — equipment finance, private credit, bank lines — you're almost certainly paying more than you need to. Here's why: lenders price GPU-backed loans to account for collateral depreciation risk. That uncertainty gets baked into your rate, your LTV cap, and your covenants.</p>
+
+  <p>Corgi provides Residual Value Guaranty (RVG) insurance for GPU hardware — a put-style floor on your hardware's value at a future date. When your lenders see a guaranteed collateral floor from an insurance carrier, they can offer better rates, longer tenors, and higher LTV ratios. The policy pays for itself in cheaper debt.</p>
+
+  <p>Three things that make this different from everything else you've seen:</p>
+  <p>1. <strong>Direct cost-of-capital benefit</strong> — lenders treat RVG-backed GPUs as qualifying collateral with a known floor. Better LTV, longer tenor, tighter spread on your facility.<br>
+  2. <strong>Transparent pricing</strong> — we mark policies to SiliconNavigator™ daily benchmarks, not black-box models. Your CFO and your lender can both audit it.<br>
+  3. <strong>No moral hazard</strong> — title transfers at settlement. There's no incentive to file a spurious claim because you surrender the hardware to collect.</p>
+
+  <p>We're built for mid-market GPU operators — the $50M to $500M hardware buyer who's debt-financed and wants a cleaner collateral story. If you're equity-funded, RVG still protects your balance sheet from depreciation shock when the next GPU generation lands.</p>
+
+  <p>We've raised $108M and we're actively writing policies on H100 and A100 clusters. Premiums run 2.1% to 12.9% of GPU value depending on guarantee level and term.</p>
+
+  <p>Worth 20 minutes with our founders to walk through how this fits {{companyName}}'s capital structure?</p>
+
+  <div class="signature">
+    <p>{{callerName}}<br>
+    Corgi Insurance Services<br>
+    <a href="https://corgi.xyz">corgi.xyz</a></p>
+  </div>
+
+  {{#if trackingPixel}}{{{trackingPixel}}}{{/if}}
+</body>
+</html>
+{{else}}
+Hi {{firstName}},
+
+If {{companyName}} is financing its GPU hardware with debt — equipment finance, private credit, bank lines — you're almost certainly paying more than you need to. Here's why: lenders price GPU-backed loans to account for collateral depreciation risk. That uncertainty gets baked into your rate, your LTV cap, and your covenants.
+
+Corgi provides Residual Value Guaranty (RVG) insurance for GPU hardware — a put-style floor on your hardware's value at a future date. When your lenders see a guaranteed collateral floor from an insurance carrier, they can offer better rates, longer tenors, and higher LTV ratios. The policy pays for itself in cheaper debt.
+
+Three things that make this different from everything else you've seen:
+
+1. Direct cost-of-capital benefit — lenders treat RVG-backed GPUs as qualifying collateral with a known floor. Better LTV, longer tenor, tighter spread on your facility.
+2. Transparent pricing — we mark policies to SiliconNavigator™ daily benchmarks, not black-box models. Your CFO and your lender can both audit it.
+3. No moral hazard — title transfers at settlement. There's no incentive to file a spurious claim because you surrender the hardware to collect.
+
+We're built for mid-market GPU operators — the $50M to $500M hardware buyer who's debt-financed and wants a cleaner collateral story. If you're equity-funded, RVG still protects your balance sheet from depreciation shock when the next GPU generation lands.
+
+We've raised $108M and we're actively writing policies on H100 and A100 clusters. Premiums run 2.1% to 12.9% of GPU value depending on guarantee level and term.
+
+Worth 20 minutes with our founders to walk through how this fits {{companyName}}'s capital structure?
+
+{{callerName}}
+Corgi Insurance Services
+corgi.xyz
+{{/if}}

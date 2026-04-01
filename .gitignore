@@ -11,7 +11,12 @@ dist
 data/sweeps/
 data/apollo/
 data/product-docs/
-outreach/
+outreach/.env
+outreach/**/.env
+outreach/**/.env.*
+outreach/**/node_modules/
+outreach/**/*.db
+outreach/**/*.sqlite
 __pycache__/
 *.pyc
 orangeslice-docs/

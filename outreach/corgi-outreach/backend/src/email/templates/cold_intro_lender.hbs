@@ -1,0 +1,73 @@
+{{!-- cold_intro_lender.hbs --}}
+{{!-- First touch to private credit lenders / equipment finance firms doing GPU-backed loans --}}
+{{!-- subject_a: "GPU-backed loans: the collateral floor problem — solved" --}}
+{{!-- subject_b: "Guaranteed collateral floor at maturity for $50–500M GPU facilities" --}}
+{{!-- subject_c: "We make GPU-backed loans safer to underwrite — mid-market focus" --}}
+
+{{#if isHtml}}
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <style>
+    body { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif; font-size: 15px; line-height: 1.6; color: #1a1a1a; max-width: 600px; margin: 0 auto; padding: 20px; }
+    p { margin: 0 0 16px; }
+    a { color: #2563eb; }
+    .signature { margin-top: 28px; color: #555; }
+  </style>
+</head>
+<body>
+  <p>Hi {{firstName}},</p>
+
+  <p>GPU-backed lending has a specific underwriting problem: the collateral depreciates at ~20% per year and next-gen replacement risk is real. Your credit committee can model the demand story all day, but the question that kills deals at IC is still "what does the hardware recover at maturity?"</p>
+
+  <p>For your $50–500M GPU-backed borrowers, RVG provides the collateral floor that lets you improve terms. Corgi provides Residual Value Guaranty (RVG) insurance — a contractual floor on GPU hardware value at a specified future date. If the market value falls below the guaranteed percentage at loan maturity, the policy pays the full guaranteed amount and takes title to the hardware. The lender is the Loss Payee. Collateral floor is guaranteed by an insurance carrier.</p>
+
+  <p>What this does for your credit structure:</p>
+  <p>
+  — <strong>Improved LTV ratios</strong>: lend against a defined floor, not a depreciation curve guess — your borrower qualifies for more on the same hardware<br>
+  — <strong>Better terms for borrowers</strong>: lower rate, longer tenor, tighter covenants — a direct cost-of-capital benefit that makes your facilities more competitive<br>
+  — <strong>Cleaner IC story</strong>: guaranteed recovery assumption, auditable via SiliconNavigator™ daily benchmarks<br>
+  — <strong>Standard Loss Payee provisions</strong>: plugs directly into your security package without restructuring the deal
+  </p>
+
+  <p>We're purpose-built for mid-market equipment finance — the $50M to $500M GPU-backed facility is exactly where this product works. The sweet spot is an operator with roughly $100M in GPU hardware financed with private credit or an equipment line.</p>
+
+  <p>{{#if specificDetail}}{{specificDetail}} — {{/if}}We've raised $108M. Our issuing carrier is DIAIC (Utah-domiciled), and we're already in conversations with several private credit lenders on active GPU facilities.</p>
+
+  <p>If you're underwriting GPU-collateralized deals now, a 20-minute call with our founders would be worth it. Happy to share the term sheet structure and Loss Payee documentation ahead of time.</p>
+
+  <div class="signature">
+    <p>{{callerName}}<br>
+    Corgi Insurance Services<br>
+    <a href="https://corgi.xyz">corgi.xyz</a></p>
+  </div>
+
+  {{#if trackingPixel}}{{{trackingPixel}}}{{/if}}
+</body>
+</html>
+{{else}}
+Hi {{firstName}},
+
+GPU-backed lending has a specific underwriting problem: the collateral depreciates at ~20% per year and next-gen replacement risk is real. Your credit committee can model the demand story all day, but the question that kills deals at IC is still "what does the hardware recover at maturity?"
+
+For your $50–500M GPU-backed borrowers, RVG provides the collateral floor that lets you improve terms. Corgi provides Residual Value Guaranty (RVG) insurance — a contractual floor on GPU hardware value at a specified future date. If the market value falls below the guaranteed percentage at loan maturity, the policy pays the full guaranteed amount and takes title to the hardware. The lender is the Loss Payee. Collateral floor is guaranteed by an insurance carrier.
+
+What this does for your credit structure:
+
+— Improved LTV ratios: lend against a defined floor, not a depreciation curve guess — your borrower qualifies for more on the same hardware
+— Better terms for borrowers: lower rate, longer tenor, tighter covenants — a direct cost-of-capital benefit that makes your facilities more competitive
+— Cleaner IC story: guaranteed recovery assumption, auditable via SiliconNavigator™ daily benchmarks
+— Standard Loss Payee provisions: plugs directly into your security package without restructuring the deal
+
+We're purpose-built for mid-market equipment finance — the $50M to $500M GPU-backed facility is exactly where this product works. The sweet spot is an operator with roughly $100M in GPU hardware financed with private credit or an equipment line.
+
+{{#if specificDetail}}{{specificDetail}} — {{/if}}We've raised $108M. Our issuing carrier is DIAIC (Utah-domiciled), and we're already in conversations with several private credit lenders on active GPU facilities.
+
+If you're underwriting GPU-collateralized deals now, a 20-minute call with our founders would be worth it. Happy to share the term sheet structure and Loss Payee documentation ahead of time.
+
+{{callerName}}
+Corgi Insurance Services
+corgi.xyz
+{{/if}}

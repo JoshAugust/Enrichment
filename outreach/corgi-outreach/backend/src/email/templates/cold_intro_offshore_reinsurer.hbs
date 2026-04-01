@@ -1,0 +1,54 @@
+{{!-- cold_intro_offshore_reinsurer.hbs --}}
+{{!-- Direct outreach to Cayman / Bermuda reinsurers — shorter, peer tone, no broker --}}
+{{!-- subject_a: "GPU RV program — direct capacity opportunity" --}}
+{{!-- subject_b: "$3.465B ceded limit — GPU Residual Value program, going direct to Cayman/Bermuda" --}}
+{{!-- subject_c: "New RV program: GPU hardware — proven structure, direct to you" --}}
+
+{{#if isHtml}}
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <style>
+    body { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif; font-size: 15px; line-height: 1.6; color: #1a1a1a; max-width: 600px; margin: 0 auto; padding: 20px; }
+    p { margin: 0 0 16px; }
+    a { color: #2563eb; }
+    .signature { margin-top: 28px; color: #555; }
+  </style>
+</head>
+<body>
+  <p>Hi {{firstName}},</p>
+
+  <p>We're building a reinsurance tower for a GPU Residual Value Guaranty program and going direct to Cayman and Bermuda for capacity. Here's the short version:</p>
+
+  <p><strong>The structure:</strong> Auto RV mechanics applied to data-center GPUs. Put-style floor on GPU hardware value at expiry — 5%, 10%, or 15% of purchase price over 3-, 5-, or 10-year terms. SiliconNavigator™ benchmarks the value at expiry (80%+ H100/A100 market coverage, daily, fully independent). Title transfers at settlement — moral hazard eliminated structurally. Per-cohort occurrence basis, tranched rollout.</p>
+
+  <p><strong>The program:</strong> $3.465B ceded limit target. Issuing carrier is DIAIC (Utah-domiciled captive). Corgi is the program manager — we've raised $108M. Monte Carlo-modelled loss curves across normal depreciation and generation-cycle shock scenarios.</p>
+
+  <p>We're going direct because the structure is clean and you don't need an intermediary to evaluate it. Can we send you the underwriting package?</p>
+
+  <div class="signature">
+    <p>{{callerName}}<br>
+    Corgi Insurance Services<br>
+    <a href="https://corgi.xyz">corgi.xyz</a></p>
+  </div>
+
+  {{#if trackingPixel}}{{{trackingPixel}}}{{/if}}
+</body>
+</html>
+{{else}}
+Hi {{firstName}},
+
+We're building a reinsurance tower for a GPU Residual Value Guaranty program and going direct to Cayman and Bermuda for capacity. Here's the short version:
+
+The structure: Auto RV mechanics applied to data-center GPUs. Put-style floor on GPU hardware value at expiry — 5%, 10%, or 15% of purchase price over 3-, 5-, or 10-year terms. SiliconNavigator™ benchmarks the value at expiry (80%+ H100/A100 market coverage, daily, fully independent). Title transfers at settlement — moral hazard eliminated structurally. Per-cohort occurrence basis, tranched rollout.
+
+The program: $3.465B ceded limit target. Issuing carrier is DIAIC (Utah-domiciled captive). Corgi is the program manager — we've raised $108M. Monte Carlo-modelled loss curves across normal depreciation and generation-cycle shock scenarios.
+
+We're going direct because the structure is clean and you don't need an intermediary to evaluate it. Can we send you the underwriting package?
+
+{{callerName}}
+Corgi Insurance Services
+corgi.xyz
+{{/if}}

@@ -1,0 +1,2100 @@
+{
+  "discovery_date": "2026-03-21",
+  "total": 200,
+  "companies": [
+    {
+      "name": "CoreWeave",
+      "website": "coreweave.com",
+      "type": "operator",
+      "priority": "A",
+      "description": "GPU-native cloud provider, publicly traded post-March 2025 IPO. Among the largest independent GPU fleets globally with 100K+ H100s. Runs massive GPU-backed debt facilities.",
+      "headquarters": "Roseland, NJ",
+      "estimated_valuation": "$43B (post-IPO)",
+      "gpu_scale": "100,000+ H100/H200 GPUs",
+      "financing_status": "$25B+ raised via equity and debt (GPU-backed)",
+      "total_raised": "$25B+",
+      "industry_segment": "GPU Cloud / AI Infrastructure",
+      "qualification_score": 95,
+      "key_contacts": [
+        {
+          "name": "Michael Intrator",
+          "title": "Co-Founder & CEO",
+          "email_guess": "michael.intrator@coreweave.com",
+          "linkedin": "linkedin.com/in/michaelintrator"
+        }
+      ],
+      "corgi_fit_rationale": "CoreWeave owns the largest non-hyperscaler GPU fleet globally. With $25B+ in GPU-backed debt, RVG policy directly protects collateral value at loan maturity \u2014 every lender in their capital stack would mandate it.",
+      "outreach_angle": "With $7.5B in GPU-backed private credit maturing in coming years, RVG ensures your H100/H200 fleet retains guaranteed collateral value. One conversation with your CFO or lenders could restructure your entire capital stack."
+    },
+    {
+      "name": "Lambda Labs",
+      "website": "lambda.ai",
+      "type": "operator",
+      "priority": "A",
+      "description": "AI developer cloud focused on training and inference. Raised $480M Series D (Feb 2025) and $1.5B Series E (Nov 2025). Positioned as the 'superintelligence cloud.' Secured $500M GPU-backed loan and $1.5B GPU leasing deal with NVIDIA.",
+      "headquarters": "San Francisco, CA",
+      "estimated_valuation": "$5B+",
+      "gpu_scale": "50,000+ H100 GPUs across multiple clusters",
+      "financing_status": "$2.3B total raised; $500M GPU-backed loan outstanding",
+      "total_raised": "$2.3B",
+      "industry_segment": "GPU Cloud / AI Infrastructure",
+      "qualification_score": 93,
+      "key_contacts": [
+        {
+          "name": "Stephen Balaban",
+          "title": "Co-Founder & CEO",
+          "email_guess": "stephen@lambda.ai",
+          "linkedin": "linkedin.com/in/stephenbalaban"
+        }
+      ],
+      "corgi_fit_rationale": "Lambda's GPU-backed debt creates a direct need for collateral protection. RVG gives their lenders (and Lambda's own balance sheet) a guaranteed floor on GPU values \u2014 potentially unlocking better loan terms.",
+      "outreach_angle": "Your GPU-backed loan facilities need collateral assurance at maturity. RVG insures the residual value of your H100s \u2014 your lenders may already be asking for it."
+    },
+    {
+      "name": "Nebius",
+      "website": "nebius.com",
+      "type": "operator",
+      "priority": "A",
+      "description": "Full-stack AI cloud spun out of Yandex. $700M strategic raise in Dec 2024 with Accel and NVIDIA participation. NVIDIA Reference Platform Cloud Partner. Secured massive Microsoft deal. Growing global GPU fleet.",
+      "headquarters": "Amsterdam, Netherlands",
+      "estimated_valuation": "$3B+",
+      "gpu_scale": "20,000+ high-end NVIDIA GPUs",
+      "financing_status": "$700M raised Dec 2024; additional $2B NVIDIA strategic investment 2026",
+      "total_raised": "$2.7B",
+      "industry_segment": "GPU Cloud / AI Infrastructure",
+      "qualification_score": 90,
+      "key_contacts": [
+        {
+          "name": "Arkady Volozh",
+          "title": "Founder & CEO",
+          "email_guess": "a.volozh@nebius.com",
+          "linkedin": "linkedin.com/in/arkadyvolozh"
+        }
+      ],
+      "corgi_fit_rationale": "Nebius is building one of Europe's largest GPU fleets with significant capital at risk. RVG protects the residual value of their H100/Blackwell deployments as they scale.",
+      "outreach_angle": "As you scale your Blackwell GPU fleet, RVG provides the residual value floor that makes your hardware bankable long-term \u2014 key for attracting infrastructure debt at better rates."
+    },
+    {
+      "name": "Nscale",
+      "website": "nscale.com",
+      "type": "operator",
+      "priority": "A",
+      "description": "UK-based GPU cloud provider, NVIDIA Cloud Partner and DGX Cloud Lepton marketplace participant. Secured \u00a31.4B loan backed by NVIDIA GPUs \u2014 a landmark GPU-collateralized facility. Expanding across Europe.",
+      "headquarters": "London, UK",
+      "estimated_valuation": "$500M+",
+      "gpu_scale": "10,000+ NVIDIA Blackwell and Hopper GPUs",
+      "financing_status": "$1.4B GPU-backed loan secured",
+      "total_raised": "$1.4B (debt)",
+      "industry_segment": "GPU Cloud / AI Infrastructure",
+      "qualification_score": 92,
+      "key_contacts": [
+        {
+          "name": "Josh Rayner",
+          "title": "CEO",
+          "email_guess": "josh@nscale.com",
+          "linkedin": "linkedin.com/in/joshrayner"
+        }
+      ],
+      "corgi_fit_rationale": "Nscale's $1.4B GPU-backed loan is precisely the asset class Corgi's RVG was designed for. Their lenders have direct interest in GPU residual value protection as collateral insurance.",
+      "outreach_angle": "Your \u00a31.4B GPU debt facility is exactly the use case for Corgi's RVG \u2014 protecting collateral value at maturity. Have your lenders seen the policy term sheet?"
+    },
+    {
+      "name": "Denvr Dataworks",
+      "website": "denvr.com",
+      "type": "operator",
+      "priority": "B",
+      "description": "AI platform services company offering on-demand and dedicated GPU instances. Supports NVIDIA B200, GB200, H100, H200, A100, Intel Gaudi 2 and 3. Focused on AI training and inference optimization.",
+      "headquarters": "Calgary, Canada",
+      "estimated_valuation": "$50M-$150M",
+      "gpu_scale": "1,000-5,000 GPUs",
+      "financing_status": "Private, undisclosed",
+      "total_raised": "Undisclosed",
+      "industry_segment": "GPU Cloud / AI Infrastructure",
+      "qualification_score": 72,
+      "key_contacts": [
+        {
+          "name": "Tom Gillis",
+          "title": "CEO",
+          "email_guess": "tom@denvr.com",
+          "linkedin": "linkedin.com/in/tomgillis"
+        }
+      ],
+      "corgi_fit_rationale": "Denvr owns its GPU fleet outright, creating direct exposure to hardware depreciation. RVG provides a guaranteed floor on their H100/Gaudi investments.",
+      "outreach_angle": "As an owned-fleet GPU cloud, your capex is at risk of depreciation. RVG guarantees a minimum value for your hardware \u2014 protecting your balance sheet as newer GPUs arrive."
+    },
+    {
+      "name": "SF Compute (San Francisco Compute Company)",
+      "website": "sfcompute.com",
+      "type": "operator",
+      "priority": "B",
+      "description": "AI compute marketplace with a trading engine combining bids and asks for GPU access. Manages $100M+ in hardware. Raised $40M over 2 rounds. Founded 2023. Innovative model enabling GPU owners to monetize idle capacity.",
+      "headquarters": "San Francisco, CA",
+      "estimated_valuation": "$100M-$200M",
+      "gpu_scale": "$100M+ in hardware under management",
+      "financing_status": "$40M raised",
+      "total_raised": "$40M",
+      "industry_segment": "GPU Compute Marketplace",
+      "qualification_score": 73,
+      "key_contacts": [
+        {
+          "name": "Zack Witten",
+          "title": "Co-Founder & CEO",
+          "email_guess": "zack@sfcompute.com",
+          "linkedin": "linkedin.com/in/zackwitten"
+        }
+      ],
+      "corgi_fit_rationale": "SF Compute connects GPU owners to buyers \u2014 their platform participants directly own hardware and face depreciation risk. RVG could become a standard for any hardware listed on their marketplace.",
+      "outreach_angle": "GPU owners on your platform need residual value protection. RVG could be a value-add service you offer hardware hosts \u2014 differentiating your marketplace while protecting their capex."
+    },
+    {
+      "name": "Prime Intellect",
+      "website": "primeintellect.ai",
+      "type": "operator",
+      "priority": "B",
+      "description": "Decentralized AI compute platform aggregating global GPU resources. Raised $5.5M seed (2024) and $15M Series A (Founders Fund). Provides instant access to 256+ GPU clusters for training and RL.",
+      "headquarters": "San Francisco, CA",
+      "estimated_valuation": "$50M-$100M",
+      "gpu_scale": "1,000-10,000 GPUs aggregated",
+      "financing_status": "$20M raised",
+      "total_raised": "$20.5M",
+      "industry_segment": "Decentralized GPU Compute",
+      "qualification_score": 68,
+      "key_contacts": [
+        {
+          "name": "Johannes Hagemann",
+          "title": "Co-Founder & CEO",
+          "email_guess": "johannes@primeintellect.ai",
+          "linkedin": "linkedin.com/in/johanneshagemann"
+        }
+      ],
+      "corgi_fit_rationale": "Prime Intellect's hardware contributor network owns GPUs that face depreciation risk. RVG could be marketed to contributors as a way to protect their hardware investment.",
+      "outreach_angle": "Your GPU contributors own hardware with depreciating value. Offering them RVG coverage could increase hardware supply on your platform by de-risking their investment."
+    },
+    {
+      "name": "Hivenet Compute",
+      "website": "compute.hivenet.com",
+      "type": "operator",
+      "priority": "C",
+      "description": "Distributed GPU cloud leveraging crowdsourced NVIDIA GeForce RTX 4090s. Transforms unused consumer and enterprise hardware into shared compute pool. Model similar to Vast.ai.",
+      "headquarters": "Switzerland",
+      "estimated_valuation": "$20M-$60M",
+      "gpu_scale": "Thousands of distributed GPUs",
+      "financing_status": "Private, undisclosed",
+      "total_raised": "Undisclosed",
+      "industry_segment": "Distributed GPU Marketplace",
+      "qualification_score": 60,
+      "key_contacts": [
+        {
+          "name": "Nicolas Guerry",
+          "title": "CEO",
+          "email_guess": "nicolas@hivenet.com",
+          "linkedin": "linkedin.com/in/nicolasguerry"
+        }
+      ],
+      "corgi_fit_rationale": "Hivenet's GPU contributors own their hardware and face depreciation. RVG could be offered to contributing nodes as a value-add incentive.",
+      "outreach_angle": "GPU owners contributing to Hivenet want to protect their hardware value. RVG insurance for contributors could be a key differentiator for your network."
+    },
+    {
+      "name": "Blaxel",
+      "website": "blaxel.ai",
+      "type": "operator",
+      "priority": "C",
+      "description": "Cloud infrastructure for AI agents. Raised $7.3M seed led by First Round Capital, YC Spring 2025 graduate. Processes billions of agent requests. Building 'AWS for AI agents.'",
+      "headquarters": "San Francisco, CA",
+      "estimated_valuation": "$30M-$60M",
+      "gpu_scale": "Small, infrastructure for AI agent workloads",
+      "financing_status": "$7.3M raised",
+      "total_raised": "$7.3M",
+      "industry_segment": "AI Agent Cloud Infrastructure",
+      "qualification_score": 58,
+      "key_contacts": [
+        {
+          "name": "Benoit Lacombe",
+          "title": "Co-Founder & CEO",
+          "email_guess": "benoit@blaxel.ai",
+          "linkedin": "linkedin.com/in/benoitlacombe"
+        }
+      ],
+      "corgi_fit_rationale": "Early stage, but as they scale GPU infrastructure, RVG becomes relevant to protect hardware investments.",
+      "outreach_angle": "As you build out GPU infrastructure for AI agents, RVG can protect your hardware capex and potentially unlock equipment financing at better terms."
+    },
+    {
+      "name": "E2E Networks",
+      "website": "e2enetworks.com",
+      "type": "operator",
+      "priority": "B",
+      "description": "India's leading publicly traded cloud platform with significant GPU compute capacity. BSE/NSE listed. Offers NVIDIA H100, H200 GPUs for AI/ML workloads. Major player in Indian AI cloud market.",
+      "headquarters": "New Delhi, India",
+      "estimated_valuation": "$200M-$500M",
+      "gpu_scale": "2,000-10,000 NVIDIA GPUs",
+      "financing_status": "Public company (NSE: E2ENETWORK)",
+      "total_raised": "Public",
+      "industry_segment": "GPU Cloud / India",
+      "qualification_score": 76,
+      "key_contacts": [
+        {
+          "name": "Tarun Dua",
+          "title": "Founder & Managing Director",
+          "email_guess": "tarun@e2enetworks.com",
+          "linkedin": "linkedin.com/in/tarundua"
+        }
+      ],
+      "corgi_fit_rationale": "E2E owns a significant GPU fleet in India's growing AI market. RVG protects their capex from depreciation as newer GPU generations arrive.",
+      "outreach_angle": "As a public company with owned GPU infrastructure, protecting hardware residual value directly impacts your balance sheet and investor confidence. RVG does exactly that."
+    },
+    {
+      "name": "Spheron Network",
+      "website": "spheron.network",
+      "type": "operator",
+      "priority": "C",
+      "description": "Decentralized AI compute marketplace. Aggregates GPU resources from data centers, miners, and individuals. Enables permissionless GPU access for AI/ML workloads.",
+      "headquarters": "Singapore",
+      "estimated_valuation": "$30M-$80M",
+      "gpu_scale": "Distributed, 1,000+ GPUs aggregated",
+      "financing_status": "Raised $8M+",
+      "total_raised": "$8M+",
+      "industry_segment": "Decentralized GPU Marketplace",
+      "qualification_score": 58,
+      "key_contacts": [
+        {
+          "name": "Prakarsh Gupta",
+          "title": "Co-Founder & CEO",
+          "email_guess": "prakarsh@spheron.network",
+          "linkedin": "linkedin.com/in/prakarshgupta"
+        }
+      ],
+      "corgi_fit_rationale": "Hardware providers on Spheron own GPUs that depreciate. RVG could be a feature for network participants to protect their hardware value.",
+      "outreach_angle": "GPU providers on your network need protection from depreciation. RVG insurance could be a key incentive to attract and retain hardware contributors."
+    },
+    {
+      "name": "Inference.net",
+      "website": "inference.net",
+      "type": "operator",
+      "priority": "B",
+      "description": "AI inference cloud platform offering fast, cheap API inference. Operates owned GPU infrastructure for serving large language models. Focused on sub-100ms inference at scale.",
+      "headquarters": "San Francisco, CA",
+      "estimated_valuation": "$50M-$150M",
+      "gpu_scale": "2,000-8,000 GPUs",
+      "financing_status": "Series A, undisclosed",
+      "total_raised": "Undisclosed",
+      "industry_segment": "AI Inference Cloud",
+      "qualification_score": 67,
+      "key_contacts": [
+        {
+          "name": "Brad Gessler",
+          "title": "CEO",
+          "email_guess": "brad@inference.net",
+          "linkedin": "linkedin.com/in/bradgessler"
+        }
+      ],
+      "corgi_fit_rationale": "Owns GPU fleet for inference workloads. Hardware depreciation risk is real as inference efficiency improves and GPU generations turn over rapidly.",
+      "outreach_angle": "As inference becomes commodity and new GPU architectures drop prices, protecting your fleet's residual value with RVG is table stakes for owned infrastructure."
+    },
+    {
+      "name": "Beam Cloud",
+      "website": "beam.cloud",
+      "type": "operator",
+      "priority": "C",
+      "description": "Serverless GPU infrastructure for Python applications. Enables developers to run GPU workloads without infrastructure management. Backed by YC. Growing GPU fleet to support serverless compute.",
+      "headquarters": "San Francisco, CA",
+      "estimated_valuation": "$20M-$60M",
+      "gpu_scale": "500-2,000 GPUs",
+      "financing_status": "Seed/Series A, undisclosed",
+      "total_raised": "Undisclosed",
+      "industry_segment": "Serverless GPU Infrastructure",
+      "qualification_score": 58,
+      "key_contacts": [
+        {
+          "name": "Luke Lombardi",
+          "title": "Co-Founder & CEO",
+          "email_guess": "luke@beam.cloud",
+          "linkedin": "linkedin.com/in/lukelombardi"
+        }
+      ],
+      "corgi_fit_rationale": "As they scale GPU infrastructure, depreciation risk on owned hardware becomes significant. RVG provides the safety net for their hardware capex.",
+      "outreach_angle": "Building serverless GPU infrastructure requires significant hardware investment. RVG protects that investment as the market evolves \u2014 worth 20 minutes with your CFO."
+    },
+    {
+      "name": "Northern Data Group",
+      "website": "northerndata.de",
+      "type": "operator",
+      "priority": "A",
+      "description": "German AI infrastructure company pivoting from crypto mining to AI cloud. Operates large GPU clusters (Taiga Cloud brand) in Europe. Owns significant H100 and A100 fleets. Public company (Frankfurt: NB2).",
+      "headquarters": "Frankfurt, Germany",
+      "estimated_valuation": "$300M-$600M",
+      "gpu_scale": "10,000-30,000 GPUs",
+      "financing_status": "Public (NB2); raised \u20ac400M+ through various instruments",
+      "total_raised": "\u20ac400M+",
+      "industry_segment": "GPU Cloud / AI Infrastructure",
+      "qualification_score": 85,
+      "key_contacts": [
+        {
+          "name": "Aroosh Thillainathan",
+          "title": "CEO",
+          "email_guess": "a.thillainathan@northerndata.de",
+          "linkedin": "linkedin.com/in/arooshthillainathan"
+        }
+      ],
+      "corgi_fit_rationale": "Northern Data owns a large European GPU fleet with significant depreciation risk. As a public company, protecting hardware residual value improves balance sheet quality and investor confidence.",
+      "outreach_angle": "Your Taiga Cloud GPU fleet faces rapid depreciation as AI hardware evolves. RVG guarantees minimum residual values \u2014 directly improving your asset quality metrics for shareholders."
+    },
+    {
+      "name": "Bitdeer Technologies",
+      "website": "bitdeer.com",
+      "type": "operator",
+      "priority": "B",
+      "description": "NASDAQ-listed crypto mining company actively pivoting to AI cloud (SEALMINER chips + GPU cloud services). Owns significant compute infrastructure globally. Transitioning to high-performance AI compute.",
+      "headquarters": "Singapore",
+      "estimated_valuation": "$500M-$1B",
+      "gpu_scale": "5,000-20,000 AI GPUs (growing)",
+      "financing_status": "Public (NASDAQ: BTDR); ongoing capital raises",
+      "total_raised": "$500M+",
+      "industry_segment": "Crypto Mining / AI Cloud Pivot",
+      "qualification_score": 79,
+      "key_contacts": [
+        {
+          "name": "Jihan Wu",
+          "title": "Chairman & CEO",
+          "email_guess": "jihan.wu@bitdeer.com",
+          "linkedin": "linkedin.com/in/jihanwu"
+        }
+      ],
+      "corgi_fit_rationale": "Bitdeer is acquiring GPU hardware to transition to AI cloud. As a public company doing this pivot, RVG would protect significant hardware capex and improve their story for institutional investors.",
+      "outreach_angle": "As you pivot from mining to AI cloud, protecting your GPU fleet's residual value with RVG could be the key narrative for institutional investors who understand hardware depreciation risk."
+    },
+    {
+      "name": "Iris Energy",
+      "website": "isenergy.io",
+      "type": "operator",
+      "priority": "B",
+      "description": "NASDAQ-listed Bitcoin miner (IREN) pivoting to AI HPC. Operates renewable-energy-powered data centers in North America and Australia. Building dedicated AI/GPU compute sites alongside existing mining operations.",
+      "headquarters": "Vancouver, Canada",
+      "estimated_valuation": "$500M-$1.5B",
+      "gpu_scale": "3,000-15,000 AI GPUs (expanding)",
+      "financing_status": "Public (NASDAQ: IREN)",
+      "total_raised": "$400M+",
+      "industry_segment": "Crypto Mining / HPC/AI Pivot",
+      "qualification_score": 80,
+      "key_contacts": [
+        {
+          "name": "Daniel Roberts",
+          "title": "Co-CEO",
+          "email_guess": "daniel.roberts@isenergy.io",
+          "linkedin": "linkedin.com/in/danielroberts"
+        }
+      ],
+      "corgi_fit_rationale": "Iris Energy is investing heavily in GPU infrastructure as they transition from mining. RVG protects their hardware capex and makes GPU assets more bankable for financing their AI buildout.",
+      "outreach_angle": "Your AI/HPC GPU investments need protection from depreciation as the hardware cycle accelerates. RVG provides the residual value floor that turns your GPUs into bankable collateral."
+    },
+    {
+      "name": "Core Scientific",
+      "website": "corescientific.com",
+      "type": "operator",
+      "priority": "B",
+      "description": "NASDAQ-listed Bitcoin mining company (CORZ) that emerged from Chapter 11 and is aggressively expanding into high-performance computing (HPC) and AI. Signed major HPC hosting deals with CoreWeave.",
+      "headquarters": "Austin, TX",
+      "estimated_valuation": "$1B-$3B",
+      "gpu_scale": "5,000-25,000 GPUs (via HPC hosting)",
+      "financing_status": "Public (NASDAQ: CORZ)",
+      "total_raised": "$400M+ post-emergence",
+      "industry_segment": "Bitcoin Mining / HPC Pivot",
+      "qualification_score": 78,
+      "key_contacts": [
+        {
+          "name": "Adam Sullivan",
+          "title": "CEO",
+          "email_guess": "adam.sullivan@corescientific.com",
+          "linkedin": "linkedin.com/in/adamsullivan"
+        }
+      ],
+      "corgi_fit_rationale": "Core Scientific hosts GPU clusters for HPC clients and is building their own AI compute capacity. RVG protects the residual value of owned GPU infrastructure.",
+      "outreach_angle": "As you build GPU infrastructure for HPC clients and your own AI operations, RVG protects hardware residual values \u2014 critical for attracting lenders as you scale post-emergence."
+    },
+    {
+      "name": "TeraWulf",
+      "website": "terawulf.com",
+      "type": "operator",
+      "priority": "B",
+      "description": "NASDAQ-listed sustainable HPC company (WULF) operating nuclear and renewable-energy-powered data centers. Pivoting from Bitcoin mining to AI/HPC compute. Building dedicated AI data centers.",
+      "headquarters": "Easton, MD",
+      "estimated_valuation": "$300M-$800M",
+      "gpu_scale": "2,000-10,000 AI GPUs (building)",
+      "financing_status": "Public (NASDAQ: WULF)",
+      "total_raised": "$200M+",
+      "industry_segment": "Sustainable HPC / AI Compute",
+      "qualification_score": 75,
+      "key_contacts": [
+        {
+          "name": "Paul Prager",
+          "title": "CEO",
+          "email_guess": "paul.prager@terawulf.com",
+          "linkedin": "linkedin.com/in/paulprager"
+        }
+      ],
+      "corgi_fit_rationale": "TeraWulf is building GPU-intensive sustainable HPC facilities. RVG protects their hardware investment from depreciation and makes the assets more financeable.",
+      "outreach_angle": "Sustainable HPC is a capital-intensive business. RVG on your GPU fleet gives you the residual value guarantee your infrastructure lenders need to offer competitive terms."
+    },
+    {
+      "name": "Bit Digital",
+      "website": "bitdigital.com",
+      "type": "operator",
+      "priority": "B",
+      "description": "NASDAQ-listed company (BTBT) that acquired Enovum Data Centers and is aggressively pivoting to GPU cloud and AI services. Operates GPU-as-a-service with owned H100 clusters.",
+      "headquarters": "New York, NY",
+      "estimated_valuation": "$150M-$400M",
+      "gpu_scale": "1,000-5,000 H100 GPUs",
+      "financing_status": "Public (NASDAQ: BTBT)",
+      "total_raised": "$100M+",
+      "industry_segment": "Crypto Mining / GPU Cloud Pivot",
+      "qualification_score": 74,
+      "key_contacts": [
+        {
+          "name": "Sam Tabar",
+          "title": "CEO",
+          "email_guess": "sam.tabar@bitdigital.com",
+          "linkedin": "linkedin.com/in/samtabar"
+        }
+      ],
+      "corgi_fit_rationale": "Bit Digital owns H100 clusters via Enovum and directly faces GPU depreciation risk. RVG would protect their hardware investment and support GPU-backed financing.",
+      "outreach_angle": "Your Enovum GPU fleet is a significant capex investment facing hardware depreciation. RVG guarantees your H100s maintain minimum value \u2014 reducing balance sheet risk and improving financing options."
+    },
+    {
+      "name": "Humain",
+      "website": "humain.ai",
+      "type": "operator",
+      "priority": "A",
+      "description": "Saudi Arabia's AI cloud company, backed by ARAMCO and Saudi sovereign wealth. Announced massive GPU cluster deployments with NVIDIA. Building one of the world's largest sovereign AI compute platforms.",
+      "headquarters": "Riyadh, Saudi Arabia",
+      "estimated_valuation": "$5B+",
+      "gpu_scale": "100,000+ GPUs planned/under deployment",
+      "financing_status": "Sovereign-backed, billions in committed capital",
+      "total_raised": "$10B+ (sovereign)",
+      "industry_segment": "Sovereign AI Cloud / GPU Infrastructure",
+      "qualification_score": 85,
+      "key_contacts": [
+        {
+          "name": "Tareq Amin",
+          "title": "CEO",
+          "email_guess": "t.amin@humain.ai",
+          "linkedin": "linkedin.com/in/tareqamin"
+        }
+      ],
+      "corgi_fit_rationale": "Humain is deploying billions in GPU infrastructure for Saudi Arabia's AI ambitions. RVG on their GPU fleet would protect sovereign capital and potentially become a model for other national AI programs.",
+      "outreach_angle": "As you build Saudi Arabia's sovereign AI infrastructure, RVG protects the residual value of your GPU fleet \u2014 establishing best-in-class risk management for sovereign AI programs globally."
+    },
+    {
+      "name": "G42 Cloud",
+      "website": "g42.ai",
+      "type": "operator",
+      "priority": "A",
+      "description": "Abu Dhabi-based AI cloud company backed by MGX and UAE government. Major NVIDIA partner with large GPU deployments. Microsoft partnership with $1.5B equity stake. Building comprehensive Middle East AI cloud.",
+      "headquarters": "Abu Dhabi, UAE",
+      "estimated_valuation": "$10B+",
+      "gpu_scale": "50,000+ GPUs",
+      "financing_status": "MGX/sovereign backed; Microsoft $1.5B equity stake",
+      "total_raised": "$5B+ (sovereign)",
+      "industry_segment": "Sovereign AI Cloud / GPU Infrastructure",
+      "qualification_score": 88,
+      "key_contacts": [
+        {
+          "name": "Peng Xiao",
+          "title": "Group CEO",
+          "email_guess": "peng.xiao@g42.ai",
+          "linkedin": "linkedin.com/in/pengxiao"
+        }
+      ],
+      "corgi_fit_rationale": "G42 operates one of the Middle East's largest GPU fleets. As they raise commercial financing alongside sovereign capital, RVG provides the collateral backstop lenders will demand.",
+      "outreach_angle": "G42's GPU infrastructure is a landmark investment for the UAE. RVG ensures your hardware maintains guaranteed residual value \u2014 essential as you attract international lenders to co-finance expansion."
+    },
+    {
+      "name": "Exaion",
+      "website": "exaion.com",
+      "type": "operator",
+      "priority": "B",
+      "description": "EDF (French energy giant) subsidiary providing sustainable AI and blockchain compute. Runs GPU compute infrastructure powered by French nuclear energy. European sustainable AI compute pioneer.",
+      "headquarters": "Paris, France",
+      "estimated_valuation": "$100M-$300M",
+      "gpu_scale": "2,000-8,000 GPUs",
+      "financing_status": "EDF subsidiary (nationalized company)",
+      "total_raised": "EDF-backed",
+      "industry_segment": "Sustainable GPU Compute / Energy-backed",
+      "qualification_score": 70,
+      "key_contacts": [
+        {
+          "name": "Antoine Luzet",
+          "title": "CEO",
+          "email_guess": "antoine.luzet@exaion.com",
+          "linkedin": "linkedin.com/in/antoineluzet"
+        }
+      ],
+      "corgi_fit_rationale": "Exaion owns GPU hardware for compute services under EDF's sustainability umbrella. RVG protects their hardware capex and supports commercial financing of GPU expansions.",
+      "outreach_angle": "As EDF's AI compute vehicle, protecting GPU residual value aligns with your sustainable investment mandate. RVG is ESG-compatible hardware risk management."
+    },
+    {
+      "name": "KT Cloud",
+      "website": "cloud.kt.com",
+      "type": "operator",
+      "priority": "B",
+      "description": "South Korea's leading cloud provider, subsidiary of KT Corporation (major telco). Building AI GPU cloud infrastructure for Korean enterprise and government AI workloads. Significant national AI data center investments.",
+      "headquarters": "Seoul, South Korea",
+      "estimated_valuation": "$500M-$2B",
+      "gpu_scale": "5,000-20,000 AI GPUs",
+      "financing_status": "KT Corporation subsidiary (public company)",
+      "total_raised": "Telco-backed",
+      "industry_segment": "Telco Cloud / AI GPU Infrastructure",
+      "qualification_score": 76,
+      "key_contacts": [
+        {
+          "name": "Yoon Kyung-Lim",
+          "title": "CEO, KT Cloud",
+          "email_guess": "ykl@cloud.kt.com",
+          "linkedin": "linkedin.com/in/yoonkyunglim"
+        }
+      ],
+      "corgi_fit_rationale": "KT Cloud is investing heavily in GPU infrastructure for Korea's AI market. RVG protects their hardware capex and supports structured financing as they scale.",
+      "outreach_angle": "As a telco-backed AI cloud provider, protecting GPU residual values with RVG provides the risk management framework your board and lenders expect for large hardware investments."
+    },
+    {
+      "name": "Groq",
+      "website": "groq.com",
+      "type": "operator",
+      "priority": "B",
+      "description": "AI inference company operating GroqCloud, offering ultra-fast LLM inference. Designed LPU (Language Processing Unit) chips and operates own cloud service. $640M raised. While hardware is proprietary, inference fleet has significant residual value risk.",
+      "headquarters": "Mountain View, CA",
+      "estimated_valuation": "$2.8B",
+      "gpu_scale": "Proprietary LPU fleet (GPU-equivalent, large scale)",
+      "financing_status": "$640M raised",
+      "total_raised": "$640M",
+      "industry_segment": "AI Inference / Custom Silicon Cloud",
+      "qualification_score": 68,
+      "key_contacts": [
+        {
+          "name": "Jonathan Ross",
+          "title": "Founder & CEO",
+          "email_guess": "jonathan@groq.com",
+          "linkedin": "linkedin.com/in/jonathanrossgroq"
+        }
+      ],
+      "corgi_fit_rationale": "Groq operates a large inference hardware fleet with significant capex. While LPUs differ from GPUs, the residual value risk model is analogous \u2014 hardware depreciation is a key risk.",
+      "outreach_angle": "Your LPU inference fleet represents significant capex with depreciation risk similar to GPUs. Residual value insurance for your hardware assets is the next risk management frontier for AI compute."
+    },
+    {
+      "name": "Fireworks AI",
+      "website": "fireworks.ai",
+      "type": "operator",
+      "priority": "B",
+      "description": "Fast generative AI inference platform. Operates own GPU infrastructure for serving open-source models at enterprise scale. Raised $52M Series B (2024). Growing owned GPU fleet to meet demand.",
+      "headquarters": "San Francisco, CA",
+      "estimated_valuation": "$300M-$600M",
+      "gpu_scale": "2,000-8,000 GPUs",
+      "financing_status": "$52M+ raised",
+      "total_raised": "$52M+",
+      "industry_segment": "AI Inference Cloud",
+      "qualification_score": 72,
+      "key_contacts": [
+        {
+          "name": "Lin Qiao",
+          "title": "CEO",
+          "email_guess": "lin@fireworks.ai",
+          "linkedin": "linkedin.com/in/linqiao"
+        }
+      ],
+      "corgi_fit_rationale": "Fireworks AI owns GPU infrastructure for inference services. Hardware depreciation risk is real as inference efficiency improves. RVG protects their capex.",
+      "outreach_angle": "Your GPU fleet for AI inference faces rapid depreciation as compute efficiency improves. RVG gives you a residual value guarantee \u2014 protecting your Series B investment."
+    },
+    {
+      "name": "Fal.ai",
+      "website": "fal.ai",
+      "type": "operator",
+      "priority": "B",
+      "description": "AI inference and image generation cloud platform. Popular for fast image/video generation. Raised $23M Series A (2024). Operates owned GPU infrastructure optimized for generative AI workloads.",
+      "headquarters": "San Francisco, CA",
+      "estimated_valuation": "$150M-$400M",
+      "gpu_scale": "1,000-5,000 GPUs",
+      "financing_status": "$23M+ raised",
+      "total_raised": "$23M+",
+      "industry_segment": "AI Inference / Generative AI Cloud",
+      "qualification_score": 68,
+      "key_contacts": [
+        {
+          "name": "Batuhan Taskaya",
+          "title": "Co-Founder & CEO",
+          "email_guess": "batuhan@fal.ai",
+          "linkedin": "linkedin.com/in/baturemade"
+        }
+      ],
+      "corgi_fit_rationale": "Fal.ai owns GPU fleet for generative AI inference. As image/video model efficiency improves, hardware depreciation risk grows. RVG protects their owned fleet.",
+      "outreach_angle": "Generative AI model efficiency is improving fast \u2014 meaning your GPU fleet depreciates faster. RVG guarantees minimum residual value for your hardware as you scale."
+    },
+    {
+      "name": "Baseten",
+      "website": "baseten.co",
+      "type": "operator",
+      "priority": "B",
+      "description": "ML model inference infrastructure company. Operates significant GPU capacity for deploying and serving ML models at enterprise scale. Raised $40M Series B. Known for Truss open-source model serving framework.",
+      "headquarters": "San Francisco, CA",
+      "estimated_valuation": "$200M-$500M",
+      "gpu_scale": "2,000-8,000 GPUs",
+      "financing_status": "$40M raised",
+      "total_raised": "$40M",
+      "industry_segment": "ML Inference Infrastructure",
+      "qualification_score": 70,
+      "key_contacts": [
+        {
+          "name": "Tuhin Srivastava",
+          "title": "Co-Founder & CEO",
+          "email_guess": "tuhin@baseten.co",
+          "linkedin": "linkedin.com/in/tuhinsrivastava"
+        }
+      ],
+      "corgi_fit_rationale": "Baseten owns GPU infrastructure for ML inference. Hardware depreciation as models become more efficient is a key risk. RVG provides the safety net.",
+      "outreach_angle": "Serving enterprise ML models requires significant GPU investment. As model efficiency improves, RVG guarantees your hardware retains minimum value \u2014 protecting your balance sheet."
+    },
+    {
+      "name": "Cerebras Systems",
+      "website": "cerebras.net",
+      "type": "operator",
+      "priority": "B",
+      "description": "AI supercomputing company with wafer-scale AI chips. Operates Cerebras Cloud (inference as a service) and WSE hardware deployments. IPO 2024 filed. Significant hardware fleet for cloud and on-premise customers.",
+      "headquarters": "Sunnyvale, CA",
+      "estimated_valuation": "$4B+",
+      "gpu_scale": "Large wafer-scale processor fleet (GPU-equivalent value)",
+      "financing_status": "$720M raised; IPO filed 2024",
+      "total_raised": "$720M+",
+      "industry_segment": "AI Supercomputing / Custom Silicon",
+      "qualification_score": 72,
+      "key_contacts": [
+        {
+          "name": "Andrew Feldman",
+          "title": "CEO",
+          "email_guess": "andrew.feldman@cerebras.net",
+          "linkedin": "linkedin.com/in/andrewfeldman"
+        }
+      ],
+      "corgi_fit_rationale": "Cerebras sells and deploys expensive AI hardware. Residual value guarantees on WSE systems (analogous to GPU RVG) would enable leasing/financing structures for their customers and protect Cerebras' own fleet.",
+      "outreach_angle": "Your wafer-scale systems represent massive capex with significant depreciation risk for buyers and lessors. RVG-style residual value insurance could unlock new financing structures for Cerebras hardware sales."
+    },
+    {
+      "name": "SambaNova Systems",
+      "website": "sambanova.ai",
+      "type": "operator",
+      "priority": "B",
+      "description": "AI systems company with proprietary RDU chips and cloud service (SambaNova Cloud). Deploys systems globally for enterprise AI workloads. $1.1B raised. Sells and operates own AI hardware.",
+      "headquarters": "Palo Alto, CA",
+      "estimated_valuation": "$5B+",
+      "gpu_scale": "Large proprietary RDU fleet + GPU augmentation",
+      "financing_status": "$1.1B raised",
+      "total_raised": "$1.1B",
+      "industry_segment": "Enterprise AI Systems / Custom Silicon",
+      "qualification_score": 70,
+      "key_contacts": [
+        {
+          "name": "Rodrigo Liang",
+          "title": "CEO",
+          "email_guess": "rodrigo.liang@sambanova.ai",
+          "linkedin": "linkedin.com/in/rodrigoliang"
+        }
+      ],
+      "corgi_fit_rationale": "SambaNova sells enterprise AI hardware and may offer residual value programs. RVG could enable hardware-backed financing for their enterprise customers.",
+      "outreach_angle": "Your enterprise AI system sales face buyer pushback on hardware depreciation. RVG on SambaNova hardware could unlock larger deals by addressing residual value concerns upfront."
+    },
+    {
+      "name": "Standard Power",
+      "website": "standardpower.com",
+      "type": "operator",
+      "priority": "B",
+      "description": "Sustainable HPC data center developer in Ohio and North Carolina. Pivoting from crypto mining to AI/ML compute. Operates renewable-energy-powered HPC sites with GPU deployments.",
+      "headquarters": "Columbus, OH",
+      "estimated_valuation": "$100M-$300M",
+      "gpu_scale": "2,000-10,000 GPUs",
+      "financing_status": "Private, $100M+ in infrastructure",
+      "total_raised": "$100M+",
+      "industry_segment": "Sustainable HPC / AI Compute",
+      "qualification_score": 72,
+      "key_contacts": [
+        {
+          "name": "Maxim Serezhin",
+          "title": "CEO",
+          "email_guess": "maxim@standardpower.com",
+          "linkedin": "linkedin.com/in/maximserezhin"
+        }
+      ],
+      "corgi_fit_rationale": "Standard Power owns GPU infrastructure at HPC data centers. RVG protects their hardware investments as they transition to AI compute.",
+      "outreach_angle": "Your HPC GPU deployments represent significant capex. RVG insurance protects that investment's residual value \u2014 critical for attracting the infrastructure debt you need to scale."
+    },
+    {
+      "name": "Lancium",
+      "website": "lancium.com",
+      "type": "operator",
+      "priority": "B",
+      "description": "Sustainable HPC company in Texas. Operates renewable-energy-powered data centers for AI compute. Pioneered flexible-load HPC that consumes surplus wind/solar power. Growing GPU fleet for AI training.",
+      "headquarters": "Houston, TX",
+      "estimated_valuation": "$200M-$500M",
+      "gpu_scale": "5,000-20,000 GPUs",
+      "financing_status": "$150M+ raised",
+      "total_raised": "$150M+",
+      "industry_segment": "Sustainable GPU Compute / HPC",
+      "qualification_score": 76,
+      "key_contacts": [
+        {
+          "name": "Michael McNamara",
+          "title": "CEO",
+          "email_guess": "michael@lancium.com",
+          "linkedin": "linkedin.com/in/michaelmcnamara"
+        }
+      ],
+      "corgi_fit_rationale": "Lancium owns a significant GPU fleet for sustainable HPC. Their hardware represents large capex needing residual value protection.",
+      "outreach_angle": "Sustainable AI compute requires massive hardware investment. RVG protects your GPU fleet's residual value \u2014 enabling better financing terms for your renewable energy-powered data centers."
+    },
+    {
+      "name": "Mawson Infrastructure Group",
+      "website": "mawsoninc.com",
+      "type": "operator",
+      "priority": "B",
+      "description": "NASDAQ-listed (MIGI) crypto miner pivoting to AI HPC. Operates sustainable data centers in US and Australia. Deploying GPU clusters for AI workloads alongside remaining Bitcoin mining operations.",
+      "headquarters": "Midland, PA",
+      "estimated_valuation": "$100M-$300M",
+      "gpu_scale": "1,000-5,000 AI GPUs",
+      "financing_status": "Public (NASDAQ: MIGI)",
+      "total_raised": "$100M+",
+      "industry_segment": "Crypto Mining / AI HPC Pivot",
+      "qualification_score": 70,
+      "key_contacts": [
+        {
+          "name": "James Manning",
+          "title": "CEO",
+          "email_guess": "james.manning@mawsoninc.com",
+          "linkedin": "linkedin.com/in/jamesmanning"
+        }
+      ],
+      "corgi_fit_rationale": "Mawson is investing in GPU hardware as they pivot to AI. RVG protects their hardware capex and supports financing as public investors scrutinize the pivot.",
+      "outreach_angle": "Your AI HPC pivot requires GPU hardware investment that depreciates rapidly. RVG guarantees minimum residual values \u2014 giving your investors and lenders confidence in the hardware backing."
+    },
+    {
+      "name": "Bitfarms",
+      "website": "bitfarms.com",
+      "type": "operator",
+      "priority": "C",
+      "description": "NASDAQ-listed Bitcoin miner (BITF) with global operations. Evaluating and executing AI/HPC pivot. Large energy footprint and data center infrastructure already in place for GPU deployments.",
+      "headquarters": "Toronto, Canada",
+      "estimated_valuation": "$300M-$600M",
+      "gpu_scale": "Growing AI GPU fleet",
+      "financing_status": "Public (NASDAQ: BITF)",
+      "total_raised": "$200M+",
+      "industry_segment": "Crypto Mining / HPC Pivot",
+      "qualification_score": 64,
+      "key_contacts": [
+        {
+          "name": "Ben Gagnon",
+          "title": "CEO",
+          "email_guess": "bgagnon@bitfarms.com",
+          "linkedin": "linkedin.com/in/bengagnon"
+        }
+      ],
+      "corgi_fit_rationale": "Bitfarms is building AI GPU infrastructure. RVG protects their hardware investment as they transition from mining to AI compute.",
+      "outreach_angle": "As you build AI compute capacity, RVG on your GPU fleet gives shareholders and lenders the hardware value assurance they need for a successful pivot narrative."
+    },
+    {
+      "name": "AceCloud",
+      "website": "acecloud.ai",
+      "type": "operator",
+      "priority": "B",
+      "description": "Indian AI GPU cloud provider with NVIDIA H100 and A100 clusters. Focused on Indian enterprise AI market. Offers on-demand and reserved GPU instances for training and inference.",
+      "headquarters": "Mumbai, India",
+      "estimated_valuation": "$30M-$100M",
+      "gpu_scale": "500-3,000 GPUs",
+      "financing_status": "Private, Series A",
+      "total_raised": "Undisclosed",
+      "industry_segment": "GPU Cloud / India",
+      "qualification_score": 66,
+      "key_contacts": [
+        {
+          "name": "Ritesh Singh",
+          "title": "CEO",
+          "email_guess": "ritesh@acecloud.ai",
+          "linkedin": "linkedin.com/in/riteshsingh"
+        }
+      ],
+      "corgi_fit_rationale": "AceCloud owns GPU hardware in India's growing AI market. RVG protects their hardware capex and enables GPU-backed financing in a market hungry for structured solutions.",
+      "outreach_angle": "India's GPU cloud market is early \u2014 being first to offer RVG-protected hardware is a competitive advantage for attracting enterprise clients who need assurance on compute costs."
+    },
+    {
+      "name": "Sify Technologies",
+      "website": "sifytechnologies.com",
+      "type": "operator",
+      "priority": "B",
+      "description": "India's leading integrated IT services company with significant data center and cloud infrastructure. Building AI GPU capacity across Indian data centers. Serves enterprise and government clients.",
+      "headquarters": "Chennai, India",
+      "estimated_valuation": "$500M-$1B",
+      "gpu_scale": "2,000-10,000 GPUs",
+      "financing_status": "Public (BSE/NSE: SIFY), backed by Raju family",
+      "total_raised": "Public",
+      "industry_segment": "Enterprise IT / GPU Cloud / India",
+      "qualification_score": 73,
+      "key_contacts": [
+        {
+          "name": "Raju Vegesna",
+          "title": "Chairman",
+          "email_guess": "raju.vegesna@sifycorp.com",
+          "linkedin": "linkedin.com/in/rajuvegesna"
+        }
+      ],
+      "corgi_fit_rationale": "Sify owns GPU infrastructure across Indian data centers. RVG protects their capex and supports structured financing for their GPU expansion.",
+      "outreach_angle": "As India's GPU demand explodes, protecting your hardware investments with RVG ensures your GPU fleet remains bankable collateral for expansion financing."
+    },
+    {
+      "name": "NextDC",
+      "website": "nextdc.com",
+      "type": "operator",
+      "priority": "B",
+      "description": "ASX-listed Australian data center operator building AI-ready GPU infrastructure. Operating AI Hubs with NVIDIA clusters. Major investor in AI compute infrastructure across Australia and Asia.",
+      "headquarters": "Brisbane, Australia",
+      "estimated_valuation": "$3B-$5B (ASX)",
+      "gpu_scale": "5,000-20,000 GPUs (in AI Hub program)",
+      "financing_status": "Public (ASX: NXT)",
+      "total_raised": "$2B+",
+      "industry_segment": "Data Center / GPU AI Infrastructure / Australia",
+      "qualification_score": 78,
+      "key_contacts": [
+        {
+          "name": "Craig Scroggie",
+          "title": "CEO & MD",
+          "email_guess": "craig.scroggie@nextdc.com",
+          "linkedin": "linkedin.com/in/craigscroggie"
+        }
+      ],
+      "corgi_fit_rationale": "NextDC is deploying significant GPU capex in their AI Hubs. RVG protects this hardware investment and enables structured financing for their GPU infrastructure program.",
+      "outreach_angle": "Your AI Hub GPU program represents significant capex. RVG provides the residual value guarantee that makes your hardware investments bankable for the infrastructure debt facilities you're pursuing."
+    },
+    {
+      "name": "NTT Global Data Centers",
+      "website": "ntt.com/en/services/data-center.html",
+      "type": "operator",
+      "priority": "B",
+      "description": "NTT Corporation's global data center division. One of the world's largest data center operators, building AI-ready GPU infrastructure. Significant NVIDIA partnership for AI compute.",
+      "headquarters": "Tokyo, Japan",
+      "estimated_valuation": "$20B+ (NTT subsidiary)",
+      "gpu_scale": "20,000-50,000 GPUs globally",
+      "financing_status": "NTT Group subsidiary (global telecom giant)",
+      "total_raised": "NTT-backed",
+      "industry_segment": "Global Data Center / GPU Infrastructure",
+      "qualification_score": 80,
+      "key_contacts": [
+        {
+          "name": "Masaaki Moribayashi",
+          "title": "President, NTT DATA",
+          "email_guess": "masaaki.moribayashi@ntt.com",
+          "linkedin": "linkedin.com/in/masaakimoribayashi"
+        }
+      ],
+      "corgi_fit_rationale": "NTT's global GPU deployments represent massive hardware capex. RVG would apply to any US/Canada GPU assets, and could pilot a global residual value insurance program.",
+      "outreach_angle": "NTT's AI infrastructure investments span global data centers. Starting with US/Canada GPU assets, RVG provides the residual value protection your infrastructure finance teams need."
+    },
+    {
+      "name": "Alembic AI",
+      "website": "alembic.ai",
+      "type": "operator",
+      "priority": "B",
+      "description": "AI analytics company that operates one of the fastest private supercomputers in the world after building GPU clusters for causal AI research. Owns significant GPU hardware for both internal R&D and commercial AI services.",
+      "headquarters": "Palo Alto, CA",
+      "estimated_valuation": "$100M-$300M",
+      "gpu_scale": "1,000-5,000 GPUs (supercomputer-class)",
+      "financing_status": "Series B, ~$30M raised",
+      "total_raised": "$30M+",
+      "industry_segment": "AI Analytics / Private Supercomputing",
+      "qualification_score": 71,
+      "key_contacts": [
+        {
+          "name": "Tom\u00e1s Puig",
+          "title": "CEO",
+          "email_guess": "tomas@alembic.ai",
+          "linkedin": "linkedin.com/in/tomaspuig"
+        }
+      ],
+      "corgi_fit_rationale": "Alembic built and owns a significant GPU cluster for their AI work. RVG protects their hardware investment from depreciation.",
+      "outreach_angle": "Operating a private supercomputer means significant GPU capex. RVG ensures your hardware maintains minimum residual value \u2014 protecting your investors' capital as GPU generations evolve."
+    },
+    {
+      "name": "FLock.io",
+      "website": "flock.io",
+      "type": "operator",
+      "priority": "C",
+      "description": "Decentralized federated learning network enabling distributed AI training. GPU node operators participate by contributing compute to the network. Growing ecosystem of owned GPU contributors.",
+      "headquarters": "London, UK",
+      "estimated_valuation": "$30M-$80M",
+      "gpu_scale": "Distributed, 1,000+ GPUs across network",
+      "financing_status": "$6M raised",
+      "total_raised": "$6M",
+      "industry_segment": "Decentralized AI Training / Federated Learning",
+      "qualification_score": 57,
+      "key_contacts": [
+        {
+          "name": "Jiahao Sun",
+          "title": "CEO",
+          "email_guess": "jiahao@flock.io",
+          "linkedin": "linkedin.com/in/jiahao-sun"
+        }
+      ],
+      "corgi_fit_rationale": "FLock.io node operators own GPUs that face depreciation. RVG could be marketed to participants to protect their hardware investment.",
+      "outreach_angle": "Your GPU node operators own hardware with depreciating value. Offering RVG as a network benefit protects their investment and attracts more compute providers."
+    },
+    {
+      "name": "Storj / Valdi",
+      "website": "storj.io",
+      "type": "operator",
+      "priority": "C",
+      "description": "Storj Labs acquired GPU cloud provider Valdi in July 2024 to offer integrated distributed storage and compute. Valdi had 16,000+ GPUs globally. Now provides full-stack compute + storage for AI workloads.",
+      "headquarters": "Atlanta, GA",
+      "estimated_valuation": "$100M-$300M",
+      "gpu_scale": "5,000-16,000 GPUs (distributed network)",
+      "financing_status": "Private; Valdi acquisition 2024",
+      "total_raised": "$55M+",
+      "industry_segment": "Distributed Compute + Storage",
+      "qualification_score": 62,
+      "key_contacts": [
+        {
+          "name": "Ben Golub",
+          "title": "Executive Chairman",
+          "email_guess": "bgolub@storj.io",
+          "linkedin": "linkedin.com/in/bengolub"
+        }
+      ],
+      "corgi_fit_rationale": "Storj's GPU network through Valdi involves hardware owners who face depreciation. RVG could protect the hardware investment of their GPU contributors.",
+      "outreach_angle": "Your Valdi GPU network contributors own hardware that depreciates. RVG for your network participants protects their investment and strengthens your compute provider ecosystem."
+    },
+    {
+      "name": "Nimbix / Penguin Solutions",
+      "website": "nimbix.net",
+      "type": "operator",
+      "priority": "B",
+      "description": "HPC and AI cloud computing platform with specialized GPU clusters. Part of SMART Global Holdings (now Penguin Solutions). Serves researchers, scientists, and enterprise AI teams with dedicated GPU pods.",
+      "headquarters": "Dallas, TX",
+      "estimated_valuation": "$100M-$300M (subsidiary)",
+      "gpu_scale": "2,000-10,000 GPUs",
+      "financing_status": "Penguin Solutions (public subsidiary of SMART)",
+      "total_raised": "Public parent",
+      "industry_segment": "HPC Cloud / Enterprise GPU",
+      "qualification_score": 71,
+      "key_contacts": [
+        {
+          "name": "Leo Reiter",
+          "title": "CTO, Nimbix",
+          "email_guess": "leo@nimbix.net",
+          "linkedin": "linkedin.com/in/leoreiter"
+        }
+      ],
+      "corgi_fit_rationale": "Nimbix/Penguin owns HPC GPU clusters for enterprise and research customers. RVG protects hardware investments from depreciation.",
+      "outreach_angle": "HPC GPU clusters are significant capital investments. RVG ensures your owned hardware retains minimum value, improving your balance sheet and supporting hardware financing structures."
+    },
+    {
+      "name": "AnyScale",
+      "website": "anyscale.com",
+      "type": "operator",
+      "priority": "B",
+      "description": "AI compute platform built on Ray (open-source distributed compute framework). Operates managed GPU infrastructure for AI/ML training and serving. $260M raised. Emerging as a major AI infrastructure platform.",
+      "headquarters": "San Francisco, CA",
+      "estimated_valuation": "$1B+",
+      "gpu_scale": "5,000-20,000 GPUs managed",
+      "financing_status": "$260M raised",
+      "total_raised": "$260M",
+      "industry_segment": "AI Compute Platform / Distributed ML",
+      "qualification_score": 73,
+      "key_contacts": [
+        {
+          "name": "Robert Nishihara",
+          "title": "Co-Founder & CEO",
+          "email_guess": "robert@anyscale.com",
+          "linkedin": "linkedin.com/in/robertnishihara"
+        }
+      ],
+      "corgi_fit_rationale": "AnyScale manages significant GPU infrastructure on behalf of clients. As they scale owned capacity, RVG becomes essential to protect hardware investments.",
+      "outreach_angle": "Scaling AI compute infrastructure means taking on significant GPU hardware risk. RVG provides the residual value floor that makes your hardware investments defensible to investors and lenders."
+    },
+    {
+      "name": "Colo-X",
+      "website": "colo-x.com",
+      "type": "operator",
+      "priority": "C",
+      "description": "Nordic GPU and HPC cloud provider. Operates data centers in Denmark powered by renewable energy. Offers on-demand GPU compute for AI/ML workloads. Part of growing European GPU cloud ecosystem.",
+      "headquarters": "Copenhagen, Denmark",
+      "estimated_valuation": "$20M-$60M",
+      "gpu_scale": "500-2,000 GPUs",
+      "financing_status": "Private",
+      "total_raised": "Undisclosed",
+      "industry_segment": "Nordic GPU Cloud",
+      "qualification_score": 60,
+      "key_contacts": [
+        {
+          "name": "Michael Aakjaer",
+          "title": "CEO",
+          "email_guess": "michael@colo-x.com",
+          "linkedin": "linkedin.com/in/michaelaakjaer"
+        }
+      ],
+      "corgi_fit_rationale": "Colo-X owns GPU infrastructure in Nordic markets. RVG protects their hardware investments in a region with growing AI compute demand.",
+      "outreach_angle": "Nordic AI compute is growing rapidly. RVG on your GPU fleet protects the hardware investment you're scaling \u2014 making it easier to attract Danish/Nordic infrastructure lenders."
+    },
+    {
+      "name": "Macquarie Data Centres",
+      "website": "macquariedatacentres.com",
+      "type": "operator",
+      "priority": "B",
+      "description": "Macquarie Group's Australian data center subsidiary. Operates AI-ready data centers with GPU clusters for Australian enterprise and government. Building AI compute capacity with NVIDIA partnerships.",
+      "headquarters": "Sydney, Australia",
+      "estimated_valuation": "$500M-$2B (Macquarie Group subsidiary)",
+      "gpu_scale": "2,000-10,000 AI GPUs",
+      "financing_status": "Macquarie Group subsidiary",
+      "total_raised": "Macquarie-backed",
+      "industry_segment": "Data Center / GPU Infrastructure / Australia",
+      "qualification_score": 74,
+      "key_contacts": [
+        {
+          "name": "David Hirst",
+          "title": "CEO",
+          "email_guess": "david.hirst@macquariedatacentres.com",
+          "linkedin": "linkedin.com/in/davidhirst"
+        }
+      ],
+      "corgi_fit_rationale": "Macquarie Data Centres is investing in GPU infrastructure backed by a major financial group. Macquarie's infrastructure finance arm would be keenly interested in RVG for their GPU assets.",
+      "outreach_angle": "With Macquarie's infrastructure finance expertise, adding RVG to your GPU deployments is the logical next step \u2014 protecting hardware value while enabling structured financing at scale."
+    },
+    {
+      "name": "JioCloud (Reliance Jio)",
+      "website": "jio.com/en-in/business/cloud",
+      "type": "operator",
+      "priority": "B",
+      "description": "Reliance Jio's cloud computing arm. India's largest telecom launching massive AI cloud infrastructure with GPU deployments. Backed by Reliance Industries \u2014 one of India's largest conglomerates.",
+      "headquarters": "Mumbai, India",
+      "estimated_valuation": "Reliance subsidiary (trillion-dollar parent)",
+      "gpu_scale": "10,000-50,000 GPUs planned",
+      "financing_status": "Reliance Industries backed",
+      "total_raised": "Reliance-backed",
+      "industry_segment": "Telecom Cloud / AI Infrastructure / India",
+      "qualification_score": 78,
+      "key_contacts": [
+        {
+          "name": "Kiran Thomas",
+          "title": "CEO, Jio",
+          "email_guess": "kiran.thomas@ril.com",
+          "linkedin": "linkedin.com/in/kiranmthomas"
+        }
+      ],
+      "corgi_fit_rationale": "JioCloud is deploying massive GPU infrastructure in India. While Reliance has deep pockets, GPU-backed financing through external lenders would benefit from RVG as collateral insurance.",
+      "outreach_angle": "Jio's GPU cloud ambitions require enormous hardware investment. For any externally-financed GPU tranches, RVG provides the residual value guarantee that makes the hardware bankable at scale."
+    },
+    {
+      "name": "Featherless AI",
+      "website": "featherless.ai",
+      "type": "operator",
+      "priority": "C",
+      "description": "Serverless AI inference platform with a massive library of open-source models. Operates owned GPU fleet for serving 600+ LLMs on demand without model loading delays.",
+      "headquarters": "San Francisco, CA",
+      "estimated_valuation": "$20M-$50M",
+      "gpu_scale": "500-2,000 GPUs",
+      "financing_status": "Seed stage",
+      "total_raised": "Undisclosed",
+      "industry_segment": "AI Inference / Serverless GPU",
+      "qualification_score": 57,
+      "key_contacts": [
+        {
+          "name": "Alara Dirik",
+          "title": "CEO",
+          "email_guess": "alara@featherless.ai",
+          "linkedin": "linkedin.com/in/alaradirik"
+        }
+      ],
+      "corgi_fit_rationale": "Featherless owns GPUs for serverless inference. As they scale, hardware depreciation becomes a real risk. RVG is the solution.",
+      "outreach_angle": "Serving 600+ LLMs requires significant GPU ownership. As model efficiency improves, your hardware depreciates. RVG guarantees minimum residual value for your inference fleet."
+    },
+    {
+      "name": "DataVolt",
+      "website": "datavolt.io",
+      "type": "operator",
+      "priority": "B",
+      "description": "AI data center developer building large-scale GPU-ready facilities. Operates in Middle East (Saudi Arabia, Qatar) and expanding to Europe. Partners with NVIDIA and hyperscalers for turnkey AI infrastructure.",
+      "headquarters": "Dubai, UAE",
+      "estimated_valuation": "$200M-$600M",
+      "gpu_scale": "10,000-50,000 GPUs (in deployment)",
+      "financing_status": "Private, backed by regional sovereign funds",
+      "total_raised": "$500M+",
+      "industry_segment": "AI Data Center Development / Middle East",
+      "qualification_score": 78,
+      "key_contacts": [
+        {
+          "name": "Nicolas Lemal",
+          "title": "CEO",
+          "email_guess": "nicolas.lemal@datavolt.io",
+          "linkedin": "linkedin.com/in/nicolaslemal"
+        }
+      ],
+      "corgi_fit_rationale": "DataVolt owns GPU infrastructure across the Middle East. RVG protects hardware investments in high-capex regional AI buildouts.",
+      "outreach_angle": "Building AI data centers in the Middle East requires significant hardware investment. RVG on your GPU deployments provides the residual value guarantee that regional sovereign lenders require."
+    },
+    {
+      "name": "Argo Blockchain",
+      "website": "argoblockchain.com",
+      "type": "operator",
+      "priority": "C",
+      "description": "LSE and NASDAQ-listed crypto miner evaluating AI/HPC pivot. Operates facilities in Texas and Quebec. Has existing data center infrastructure that could host AI GPU workloads.",
+      "headquarters": "London, UK",
+      "estimated_valuation": "$100M-$200M",
+      "gpu_scale": "Small AI GPU presence (pivoting)",
+      "financing_status": "Public (NASDAQ: ARBK, LSE: ARB)",
+      "total_raised": "$100M+",
+      "industry_segment": "Crypto Mining / HPC Pivot",
+      "qualification_score": 60,
+      "key_contacts": [
+        {
+          "name": "Thomas Chippas",
+          "title": "CEO",
+          "email_guess": "thomas.chippas@argoblockchain.com",
+          "linkedin": "linkedin.com/in/thomaschippas"
+        }
+      ],
+      "corgi_fit_rationale": "Argo is deploying GPU assets for AI pivot. RVG protects their hardware investment as they transition from mining.",
+      "outreach_angle": "Your AI pivot requires GPU hardware investment. RVG guarantees residual value for that hardware \u2014 critical for public market investors who need assurance on your capex decisions."
+    },
+    {
+      "name": "Vantage Data Centers",
+      "website": "vantagedc.com",
+      "type": "operator",
+      "priority": "B",
+      "description": "Private hyperscale data center operator backed by DigitalBridge. Operating AI-ready campuses globally with GPU-dense rack configurations. One of the largest private data center operators.",
+      "headquarters": "Santa Clara, CA",
+      "estimated_valuation": "$7B+",
+      "gpu_scale": "20,000-80,000 GPU capacity",
+      "financing_status": "DigitalBridge backed; $15B+ in AUM",
+      "total_raised": "$5B+ infrastructure",
+      "industry_segment": "Hyperscale Data Center / GPU Infrastructure",
+      "qualification_score": 80,
+      "key_contacts": [
+        {
+          "name": "Sureel Choksi",
+          "title": "President & CEO",
+          "email_guess": "sureel.choksi@vantagedc.com",
+          "linkedin": "linkedin.com/in/sureelchoksi"
+        }
+      ],
+      "corgi_fit_rationale": "Vantage deploys GPU-dense racks for hyperscale clients and owns significant infrastructure. RVG on GPU assets would provide collateral protection for their infrastructure financing.",
+      "outreach_angle": "As a leading hyperscale data center operator, your GPU-dense deployments are significant investments. RVG provides the residual value floor that makes your hardware assets bankable for infrastructure debt."
+    },
+    {
+      "name": "Aligned Data Centers",
+      "website": "aligned.com",
+      "type": "operator",
+      "priority": "B",
+      "description": "Private data center operator specializing in GPU-optimized, high-density computing facilities. Known for innovative Delta3 cooling for AI workloads. Backed by GS Capital Partners.",
+      "headquarters": "Irving, TX",
+      "estimated_valuation": "$3B-$6B",
+      "gpu_scale": "15,000-50,000 GPUs deployable",
+      "financing_status": "GS Capital Partners backed; $3B+ raised",
+      "total_raised": "$3B+",
+      "industry_segment": "AI-Optimized Data Centers",
+      "qualification_score": 78,
+      "key_contacts": [
+        {
+          "name": "Andrew Schaap",
+          "title": "CEO",
+          "email_guess": "andrew.schaap@aligned.com",
+          "linkedin": "linkedin.com/in/andrewschaap"
+        }
+      ],
+      "corgi_fit_rationale": "Aligned operates GPU-optimized data centers and works with clients who own significant GPU fleets. RVG on those GPU assets would be valuable for Aligned's clients and their lenders.",
+      "outreach_angle": "Your GPU-optimized facilities host significant hardware investments. Offering RVG as a value-add to your tenants protects their GPU capex and differentiates your data center offering."
+    },
+    {
+      "name": "Switch Inc.",
+      "website": "switch.com",
+      "type": "operator",
+      "priority": "B",
+      "description": "Private data center operator (acquired by DigitalBridge 2022) with massive facilities in Nevada, Atlanta, and Grand Rapids. Building AI-ready GPU infrastructure for enterprise customers. Operates SUPERNAP facilities.",
+      "headquarters": "Las Vegas, NV",
+      "estimated_valuation": "$8B+ (DigitalBridge acquisition)",
+      "gpu_scale": "20,000-60,000 GPUs deployable",
+      "financing_status": "DigitalBridge backed ($11B acquisition)",
+      "total_raised": "DigitalBridge-acquired",
+      "industry_segment": "Hyperscale Data Center / GPU Infrastructure",
+      "qualification_score": 77,
+      "key_contacts": [
+        {
+          "name": "Rob Roy",
+          "title": "Founder & CEO",
+          "email_guess": "rroy@switch.com",
+          "linkedin": "linkedin.com/in/robroyswitch"
+        }
+      ],
+      "corgi_fit_rationale": "Switch operates massive data centers with GPU-dense configurations. As they build AI infrastructure, RVG protects hardware investments for their enterprise tenants.",
+      "outreach_angle": "SUPERNAP facilities hosting AI GPU infrastructure need residual value protection. RVG is the insurance product that makes GPU hardware bankable for your enterprise tenants and their lenders."
+    },
+    {
+      "name": "Penguin Solutions (formerly SMART Modular)",
+      "website": "penguinsolutions.com",
+      "type": "operator",
+      "priority": "B",
+      "description": "HPC infrastructure and AI system integrator. Designs and operates HPC clusters for government, research, and enterprise. Builds dedicated GPU clusters for AI training. Subsidiary of SMART Global Holdings.",
+      "headquarters": "Fremont, CA",
+      "estimated_valuation": "$200M-$500M (subsidiary)",
+      "gpu_scale": "2,000-15,000 GPUs across managed clusters",
+      "financing_status": "SMART Global Holdings subsidiary",
+      "total_raised": "Public parent",
+      "industry_segment": "HPC / AI System Integration",
+      "qualification_score": 72,
+      "key_contacts": [
+        {
+          "name": "Mark Adams",
+          "title": "President & CEO, SMART Global",
+          "email_guess": "mark.adams@smartm.com",
+          "linkedin": "linkedin.com/in/markadamssmart"
+        }
+      ],
+      "corgi_fit_rationale": "Penguin Solutions builds and operates GPU clusters for major clients. RVG for hardware they own or co-invest in protects significant capex.",
+      "outreach_angle": "Building HPC GPU clusters for government and enterprise means significant hardware capex. RVG protects those investments from depreciation \u2014 especially important for multi-year government contracts."
+    },
+    {
+      "name": "WWT (World Wide Technology)",
+      "website": "wwt.com",
+      "type": "operator",
+      "priority": "B",
+      "description": "Global technology solutions provider building AI GPU infrastructure for enterprise clients. One of the largest US technology companies ($20B+ revenue). Operates Advanced Technology Center with GPU test beds. Owns and deploys hardware.",
+      "headquarters": "St. Louis, MO",
+      "estimated_valuation": "$20B+ (private)",
+      "gpu_scale": "5,000-20,000 GPUs in demo/customer environments",
+      "financing_status": "Private, ~$20B revenue",
+      "total_raised": "Private/self-funded",
+      "industry_segment": "Technology Solutions / AI Infrastructure Deployment",
+      "qualification_score": 74,
+      "key_contacts": [
+        {
+          "name": "Jim Kavanaugh",
+          "title": "CEO",
+          "email_guess": "jim.kavanaugh@wwt.com",
+          "linkedin": "linkedin.com/in/jimkavanaugh"
+        }
+      ],
+      "corgi_fit_rationale": "WWT deploys significant GPU infrastructure for enterprise clients and owns lab/demo hardware. RVG protects their hardware investments and could be offered as a value-add for client GPU deployments.",
+      "outreach_angle": "As a leading AI infrastructure deployer, you're well-positioned to offer RVG to enterprise clients who own GPU hardware \u2014 turning residual value protection into a service revenue stream."
+    },
+    {
+      "name": "Liquid AI",
+      "website": "liquid.ai",
+      "type": "operator",
+      "priority": "C",
+      "description": "MIT-spinout AI company developing Liquid Foundation Models (LFMs) based on Liquid State Space Models. Operates own GPU infrastructure for training proprietary models. Raised $70M. Building research compute cluster.",
+      "headquarters": "Boston, MA",
+      "estimated_valuation": "$300M-$600M",
+      "gpu_scale": "500-3,000 GPUs",
+      "financing_status": "$70M raised",
+      "total_raised": "$70M",
+      "industry_segment": "AI Research / Foundation Models",
+      "qualification_score": 63,
+      "key_contacts": [
+        {
+          "name": "Ramin Hasani",
+          "title": "CEO",
+          "email_guess": "ramin@liquid.ai",
+          "linkedin": "linkedin.com/in/raminhasani"
+        }
+      ],
+      "corgi_fit_rationale": "Liquid AI owns GPU infrastructure for training their proprietary models. RVG protects this significant capex.",
+      "outreach_angle": "Building your own GPU training cluster is a major capex commitment. RVG guarantees minimum residual value for your hardware \u2014 protecting your investors' capital as you scale."
+    },
+    {
+      "name": "Sharktech",
+      "website": "sharktech.net",
+      "type": "operator",
+      "priority": "C",
+      "description": "DDoS-protected dedicated server and GPU hosting provider. Offers bare-metal GPU servers in US data centers. Expanding GPU offerings for AI/ML workloads. Longstanding hosting provider pivoting to AI compute.",
+      "headquarters": "Las Vegas, NV",
+      "estimated_valuation": "$20M-$60M",
+      "gpu_scale": "500-2,000 GPUs",
+      "financing_status": "Private, bootstrapped",
+      "total_raised": "Self-funded",
+      "industry_segment": "Bare Metal GPU Hosting",
+      "qualification_score": 58,
+      "key_contacts": [
+        {
+          "name": "Sharktech Management Team",
+          "title": "CEO",
+          "email_guess": "sales@sharktech.net",
+          "linkedin": ""
+        }
+      ],
+      "corgi_fit_rationale": "Sharktech owns GPU hardware for bare-metal hosting. RVG protects their hardware investments from depreciation.",
+      "outreach_angle": "Bare-metal GPU hosting means owned hardware with real depreciation risk. RVG guarantees your servers' residual value \u2014 protecting your capital as AI hardware generations turn over."
+    },
+    {
+      "name": "Blue Owl Capital",
+      "website": "blueowl.com",
+      "type": "lender",
+      "priority": "A",
+      "description": "Alternative asset manager with $300B+ AUM specializing in private credit, GP stakes, and real estate. Landmark $27B financing for Meta's Hyperion AI campus (2025). Leading force in AI infrastructure private credit. Acquired IPI Partners (digital infrastructure) in 2025.",
+      "headquarters": "New York, NY",
+      "estimated_valuation": "$30B+ (NYSE: OWL)",
+      "gpu_scale": "N/A (lender)",
+      "financing_status": "Public (NYSE: OWL); $300B+ AUM",
+      "total_raised": "N/A",
+      "industry_segment": "Private Credit / AI Infrastructure Lending",
+      "qualification_score": 98,
+      "key_contacts": [
+        {
+          "name": "Marc Lipschultz",
+          "title": "Co-CEO",
+          "email_guess": "marc.lipschultz@blueowl.com",
+          "linkedin": "linkedin.com/in/marclipschultz"
+        },
+        {
+          "name": "Craig Packer",
+          "title": "President, Credit",
+          "email_guess": "craig.packer@blueowl.com",
+          "linkedin": "linkedin.com/in/craigpacker"
+        }
+      ],
+      "corgi_fit_rationale": "Blue Owl is the dominant private credit lender in AI infrastructure. For any GPU-backed facility they underwrite, RVG provides the collateral floor that transforms H100s into bankable assets. One Blue Owl partnership = hundreds of policies.",
+      "outreach_angle": "Your AI infrastructure lending portfolio includes GPU-backed assets that need residual value protection at maturity. RVG is the missing piece in your credit underwriting \u2014 it's the difference between secured and unsecured GPU lending."
+    },
+    {
+      "name": "Ares Management",
+      "website": "aresmgmt.com",
+      "type": "lender",
+      "priority": "A",
+      "description": "Global alternative investment manager with $450B+ AUM. Major private credit business active in AI infrastructure financing. Infrastructure debt, direct lending, and corporate credit divisions all active in GPU-backed markets.",
+      "headquarters": "Los Angeles, CA",
+      "estimated_valuation": "$35B+ (NYSE: ARES)",
+      "gpu_scale": "N/A (lender)",
+      "financing_status": "Public (NYSE: ARES)",
+      "total_raised": "N/A",
+      "industry_segment": "Private Credit / Infrastructure Debt",
+      "qualification_score": 96,
+      "key_contacts": [
+        {
+          "name": "Michael Arougheti",
+          "title": "CEO & President",
+          "email_guess": "michael.arougheti@aresmgmt.com",
+          "linkedin": "linkedin.com/in/michaelarougheti"
+        },
+        {
+          "name": "Kipp DeVeer",
+          "title": "Partner, Credit",
+          "email_guess": "kipp.deveer@aresmgmt.com",
+          "linkedin": "linkedin.com/in/kippdeveer"
+        }
+      ],
+      "corgi_fit_rationale": "Ares is a top-tier AI infrastructure lender. For GPU-backed loans, RVG provides the collateral protection that de-risks their lending and could unlock better terms for borrowers \u2014 making Ares more competitive.",
+      "outreach_angle": "Ares's infrastructure and direct lending groups are financing GPU-backed facilities. RVG provides guaranteed collateral floors that improve your LTV math and reduce credit risk at loan maturity."
+    },
+    {
+      "name": "KKR Credit",
+      "website": "kkr.com",
+      "type": "lender",
+      "priority": "A",
+      "description": "KKR's credit division managing $250B+ in alternative credit. Active in AI infrastructure financing, asset-backed finance, and infrastructure debt. KKR projects ABF market reaching $9T by 2029. Acquired ST Telemedia data center for $5.2B.",
+      "headquarters": "New York, NY",
+      "estimated_valuation": "KKR ($100B+ market cap)",
+      "gpu_scale": "N/A (lender)",
+      "financing_status": "Public (NYSE: KKR)",
+      "total_raised": "N/A",
+      "industry_segment": "Private Credit / Infrastructure Debt / ABF",
+      "qualification_score": 95,
+      "key_contacts": [
+        {
+          "name": "Chris Sheldon",
+          "title": "Co-Head, Global Credit",
+          "email_guess": "chris.sheldon@kkr.com",
+          "linkedin": "linkedin.com/in/chrissheldon"
+        }
+      ],
+      "corgi_fit_rationale": "KKR Credit is a leading AI infrastructure lender. GPU-backed loans are central to their ABF strategy. RVG provides the collateral floor that makes GPU-backed ABS viable as a structured product.",
+      "outreach_angle": "KKR's ABF thesis is built on asset-backed lending. GPU-backed facilities need RVG to guarantee collateral value at maturity \u2014 transforming GPUs into reliable ABS collateral."
+    },
+    {
+      "name": "Blackstone Credit & Insurance",
+      "website": "blackstone.com",
+      "type": "lender",
+      "priority": "A",
+      "description": "Blackstone's credit and insurance division managing $340B+ in AUM. Major force in infrastructure debt and private credit. Owns QTS Realty Trust (data centers). Active in AI infrastructure financing.",
+      "headquarters": "New York, NY",
+      "estimated_valuation": "Blackstone ($200B+ market cap)",
+      "gpu_scale": "N/A (lender/investor)",
+      "financing_status": "Public (NYSE: BX)",
+      "total_raised": "N/A",
+      "industry_segment": "Private Credit / Infrastructure / Insurance",
+      "qualification_score": 95,
+      "key_contacts": [
+        {
+          "name": "Jonathan Gray",
+          "title": "President & COO",
+          "email_guess": "jonathan.gray@blackstone.com",
+          "linkedin": "linkedin.com/in/jonathangray"
+        },
+        {
+          "name": "Gilles Dellaert",
+          "title": "Head of Blackstone Credit & Insurance",
+          "email_guess": "gilles.dellaert@blackstone.com",
+          "linkedin": "linkedin.com/in/gillesdellaert"
+        }
+      ],
+      "corgi_fit_rationale": "Blackstone manages massive AI infrastructure investments (QTS, data center financing). RVG would apply to GPU assets in their portfolio and protect collateral in their AI infrastructure loans.",
+      "outreach_angle": "Blackstone's AI infrastructure portfolio includes significant GPU exposure. RVG provides the residual value guarantee that de-risks your GPU-backed lending and protects asset value in your data center investments."
+    },
+    {
+      "name": "Apollo Global Management",
+      "website": "apollo.com",
+      "type": "lender",
+      "priority": "A",
+      "description": "Global alternative asset manager with $700B+ AUM. One of the largest private credit managers globally. Active in AI infrastructure financing, data center debt, and technology credit. Rapidly expanding asset-backed finance capabilities.",
+      "headquarters": "New York, NY",
+      "estimated_valuation": "Apollo ($70B+ market cap)",
+      "gpu_scale": "N/A (lender)",
+      "financing_status": "Public (NYSE: APO)",
+      "total_raised": "N/A",
+      "industry_segment": "Private Credit / Asset-Backed Finance",
+      "qualification_score": 94,
+      "key_contacts": [
+        {
+          "name": "Marc Rowan",
+          "title": "CEO",
+          "email_guess": "marc.rowan@apollo.com",
+          "linkedin": "linkedin.com/in/marcrowan"
+        },
+        {
+          "name": "Jim Zelter",
+          "title": "Co-President",
+          "email_guess": "jim.zelter@apollo.com",
+          "linkedin": "linkedin.com/in/jimzelter"
+        }
+      ],
+      "corgi_fit_rationale": "Apollo is one of the world's largest private credit providers with active AI infrastructure exposure. GPU-backed lending is a natural expansion. RVG provides the collateral floor Apollo needs for these facilities.",
+      "outreach_angle": "Apollo's private credit expansion into AI infrastructure requires collateral-backed structures. RVG on GPU fleets gives you the guaranteed residual value that makes GPU lending as reliable as real estate."
+    },
+    {
+      "name": "PIMCO (Pacific Investment Management Company)",
+      "website": "pimco.com",
+      "type": "lender",
+      "priority": "A",
+      "description": "World's largest fixed income investment manager with $1.9T+ AUM. Provided $18B to Meta's Hyperion AI campus financing. Major force in infrastructure credit and AI-related debt instruments.",
+      "headquarters": "Newport Beach, CA",
+      "estimated_valuation": "Allianz subsidiary (private)",
+      "gpu_scale": "N/A (lender)",
+      "financing_status": "Allianz subsidiary, privately held",
+      "total_raised": "N/A",
+      "industry_segment": "Fixed Income / Infrastructure Credit",
+      "qualification_score": 93,
+      "key_contacts": [
+        {
+          "name": "Emmanuel Roman",
+          "title": "CEO",
+          "email_guess": "emmanuel.roman@pimco.com",
+          "linkedin": "linkedin.com/in/emmanuelroman"
+        },
+        {
+          "name": "Dan Ivascyn",
+          "title": "CIO",
+          "email_guess": "daniel.ivascyn@pimco.com",
+          "linkedin": "linkedin.com/in/danivascyn"
+        }
+      ],
+      "corgi_fit_rationale": "PIMCO is lending billions to AI infrastructure. For any GPU-collateralized portion of these facilities, RVG provides guaranteed hardware value at maturity \u2014 essential for fixed income underwriting.",
+      "outreach_angle": "PIMCO invested $18B in the Hyperion AI campus. For GPU-specific collateral in AI infrastructure debt, RVG provides the residual value certainty that fixed income portfolios require."
+    },
+    {
+      "name": "BlackRock Alternatives (Infrastructure Credit)",
+      "website": "blackrock.com",
+      "type": "lender",
+      "priority": "A",
+      "description": "BlackRock's alternatives division managing $400B+ including infrastructure credit. Provided $3B to Meta's Hyperion AI campus. Recently acquired HPS Investment Partners ($12B AUM, private credit) in 2024. Major AI infrastructure lender.",
+      "headquarters": "New York, NY",
+      "estimated_valuation": "BlackRock ($150B+ market cap)",
+      "gpu_scale": "N/A (lender)",
+      "financing_status": "Public (NYSE: BLK)",
+      "total_raised": "N/A",
+      "industry_segment": "Alternative Credit / Infrastructure Debt",
+      "qualification_score": 95,
+      "key_contacts": [
+        {
+          "name": "Mark Wiedman",
+          "title": "Head of Alternatives",
+          "email_guess": "mark.wiedman@blackrock.com",
+          "linkedin": "linkedin.com/in/markwiedman"
+        }
+      ],
+      "corgi_fit_rationale": "BlackRock Alternatives is among the largest AI infrastructure lenders globally. RVG is the missing piece in GPU-collateralized lending \u2014 providing guaranteed asset values at maturity for credit underwriting.",
+      "outreach_angle": "As a leader in AI infrastructure credit (including HPS post-acquisition), BlackRock needs RVG to guarantee GPU collateral values at loan maturity. One policy framework covers your entire GPU-backed book."
+    },
+    {
+      "name": "Carlyle Group (Credit / Carlyle Secured Lending)",
+      "website": "carlyle.com",
+      "type": "lender",
+      "priority": "A",
+      "description": "Global investment firm with $450B+ AUM. Active in infrastructure debt, private credit, and technology lending. Has been involved in AI infrastructure financing. Carlyle Secured Lending (CSL) is a publicly traded BDC focused on middle market direct lending.",
+      "headquarters": "Washington, DC",
+      "estimated_valuation": "Carlyle ($60B+ market cap)",
+      "gpu_scale": "N/A (lender)",
+      "financing_status": "Public (NASDAQ: CG); CSL (NASDAQ: CSL)",
+      "total_raised": "N/A",
+      "industry_segment": "Private Credit / Infrastructure Debt",
+      "qualification_score": 90,
+      "key_contacts": [
+        {
+          "name": "Harvey Schwartz",
+          "title": "CEO",
+          "email_guess": "harvey.schwartz@carlyle.com",
+          "linkedin": "linkedin.com/in/harveyschwartz"
+        }
+      ],
+      "corgi_fit_rationale": "Carlyle's credit and infrastructure divisions are active in AI-related lending. RVG provides the collateral protection for any GPU-backed facilities in their portfolio.",
+      "outreach_angle": "Carlyle's infrastructure lending includes significant AI exposure. For GPU-backed facilities, RVG guarantees the hardware collateral value \u2014 reducing credit risk and improving loan quality."
+    },
+    {
+      "name": "EverBank Corporate Asset Finance",
+      "website": "everbank.com",
+      "type": "lender",
+      "priority": "A",
+      "description": "EverBank launched its Corporate Asset Finance division in Oct 2024, targeting mid-to-large-ticket equipment financing including technology and AI compute. Direct equipment financing with strong vendor relationships. Part of TIAA's banking operations.",
+      "headquarters": "Jacksonville, FL",
+      "estimated_valuation": "TIAA subsidiary",
+      "gpu_scale": "N/A (lender)",
+      "financing_status": "TIAA subsidiary",
+      "total_raised": "N/A",
+      "industry_segment": "Equipment Finance / Technology Lending",
+      "qualification_score": 88,
+      "key_contacts": [
+        {
+          "name": "Maureen Carr",
+          "title": "Head, Corporate Asset Finance",
+          "email_guess": "maureen.carr@everbank.com",
+          "linkedin": "linkedin.com/in/maureencarr"
+        }
+      ],
+      "corgi_fit_rationale": "EverBank's new Corporate Asset Finance division is precisely targeted at the equipment financing segment where GPU-backed lending lives. RVG directly supports their underwriting for GPU-collateralized deals.",
+      "outreach_angle": "Your Corporate Asset Finance division is perfectly positioned for GPU-backed lending. RVG is the product that turns H100s into bankable collateral \u2014 enabling you to underwrite GPU facilities with confidence."
+    },
+    {
+      "name": "SLYD Finance",
+      "website": "slyd.com",
+      "type": "lender",
+      "priority": "A",
+      "description": "Specialty GPU hardware financing company. Structures financing for GPU deployments from $500K to $50M. One of the few dedicated GPU lenders in the market. Direct focus on NVIDIA GPU-collateralized lending.",
+      "headquarters": "San Francisco, CA",
+      "estimated_valuation": "N/A (specialty finance)",
+      "gpu_scale": "N/A (lender)",
+      "financing_status": "Private",
+      "total_raised": "Undisclosed",
+      "industry_segment": "GPU-Specific Equipment Finance",
+      "qualification_score": 96,
+      "key_contacts": [
+        {
+          "name": "SLYD Finance Team",
+          "title": "Managing Director",
+          "email_guess": "finance@slyd.com",
+          "linkedin": ""
+        }
+      ],
+      "corgi_fit_rationale": "SLYD is a dedicated GPU lender \u2014 their entire business model is GPU-collateralized lending. RVG is the insurance product they've been missing to protect collateral value at loan maturity.",
+      "outreach_angle": "Your entire business is GPU-backed lending. RVG is the missing piece \u2014 it guarantees your collateral maintains minimum value at loan maturity. This isn't a nice-to-have; it's the product that enables your business to scale."
+    },
+    {
+      "name": "Goldman Sachs Private Credit",
+      "website": "goldmansachs.com",
+      "type": "lender",
+      "priority": "A",
+      "description": "Goldman Sachs' private credit and infrastructure finance arm with $100B+ in AUM. Active in AI infrastructure financing, direct lending, and asset-backed finance. Major force in technology credit markets.",
+      "headquarters": "New York, NY",
+      "estimated_valuation": "Goldman Sachs (public)",
+      "gpu_scale": "N/A (lender)",
+      "financing_status": "Public (NYSE: GS)",
+      "total_raised": "N/A",
+      "industry_segment": "Private Credit / Infrastructure Finance",
+      "qualification_score": 91,
+      "key_contacts": [
+        {
+          "name": "Julian Salisbury",
+          "title": "CIO, Asset & Wealth Management",
+          "email_guess": "julian.salisbury@gs.com",
+          "linkedin": "linkedin.com/in/juliansalisbury"
+        }
+      ],
+      "corgi_fit_rationale": "Goldman's private credit and infrastructure teams are lending against AI assets. RVG provides the collateral floor for GPU-backed facilities \u2014 enabling more aggressive lending with less credit risk.",
+      "outreach_angle": "Goldman's private credit teams need assurance on GPU collateral values. RVG provides that guarantee \u2014 turning volatile hardware assets into reliable collateral for your infrastructure credit book."
+    },
+    {
+      "name": "JP Morgan Infrastructure Finance",
+      "website": "jpmorgan.com",
+      "type": "lender",
+      "priority": "A",
+      "description": "JP Morgan's infrastructure and project finance division. Among the world's leading infrastructure lenders with significant AI-adjacent activity. Active in data center financing, technology credit, and private markets.",
+      "headquarters": "New York, NY",
+      "estimated_valuation": "JPMorgan Chase (public)",
+      "gpu_scale": "N/A (lender)",
+      "financing_status": "Public (NYSE: JPM)",
+      "total_raised": "N/A",
+      "industry_segment": "Infrastructure Finance / Technology Credit",
+      "qualification_score": 89,
+      "key_contacts": [
+        {
+          "name": "Remy Briand",
+          "title": "Head, Infrastructure Finance",
+          "email_guess": "remy.briand@jpmorgan.com",
+          "linkedin": "linkedin.com/in/remybriand"
+        }
+      ],
+      "corgi_fit_rationale": "JPM's infrastructure finance team is underwriting AI-adjacent assets. For any GPU-collateralized components, RVG provides the residual value guarantee that makes hardware financing viable at scale.",
+      "outreach_angle": "JP Morgan's infrastructure finance book includes AI-adjacent assets. RVG provides the collateral certainty your credit teams need for GPU-backed facilities \u2014 reducing provision requirements."
+    },
+    {
+      "name": "Oaktree Capital Management",
+      "website": "oaktreecapital.com",
+      "type": "lender",
+      "priority": "A",
+      "description": "Alternative investment manager with $190B+ AUM specializing in opportunistic credit and distressed debt. Active in technology credit, infrastructure debt, and direct lending. Part of Brookfield Asset Management.",
+      "headquarters": "Los Angeles, CA",
+      "estimated_valuation": "Brookfield subsidiary",
+      "gpu_scale": "N/A (lender)",
+      "financing_status": "Brookfield subsidiary (TSX: BAM)",
+      "total_raised": "N/A",
+      "industry_segment": "Alternative Credit / Opportunistic Lending",
+      "qualification_score": 88,
+      "key_contacts": [
+        {
+          "name": "Robert Karr",
+          "title": "Co-CEO",
+          "email_guess": "robert.karr@oaktreecapital.com",
+          "linkedin": "linkedin.com/in/robertkarr"
+        }
+      ],
+      "corgi_fit_rationale": "Oaktree's credit funds are increasingly active in technology and infrastructure lending. GPU-backed facilities are a natural expansion. RVG provides collateral protection for these higher-risk, higher-yield facilities.",
+      "outreach_angle": "Oaktree's opportunistic credit team sees GPU-backed lending as attractive yield. RVG reduces the credit risk by guaranteeing hardware values at maturity \u2014 improving your risk-adjusted returns."
+    },
+    {
+      "name": "HPS Investment Partners",
+      "website": "hpsinvestment.com",
+      "type": "lender",
+      "priority": "A",
+      "description": "Private credit firm with $100B+ AUM, acquired by BlackRock in late 2024. Specialty in technology and infrastructure direct lending. Active in data center and AI infrastructure financing.",
+      "headquarters": "New York, NY",
+      "estimated_valuation": "BlackRock subsidiary ($12B acquisition)",
+      "gpu_scale": "N/A (lender)",
+      "financing_status": "BlackRock subsidiary (acquired 2024)",
+      "total_raised": "N/A",
+      "industry_segment": "Direct Lending / Technology Credit",
+      "qualification_score": 90,
+      "key_contacts": [
+        {
+          "name": "Scott Kapnick",
+          "title": "CEO",
+          "email_guess": "scott.kapnick@hpsinvestment.com",
+          "linkedin": "linkedin.com/in/scottkapnick"
+        }
+      ],
+      "corgi_fit_rationale": "HPS focuses on technology and infrastructure credit \u2014 exactly where GPU-backed lending lives. RVG provides the collateral floor they need to underwrite these facilities confidently.",
+      "outreach_angle": "HPS's technology and infrastructure credit teams are lending against AI assets. RVG is the collateral guarantee that makes GPU-backed lending as secure as real estate financing."
+    },
+    {
+      "name": "Sixth Street Partners",
+      "website": "sixthstreet.com",
+      "type": "lender",
+      "priority": "A",
+      "description": "Global finance firm with $80B+ AUM specializing in direct lending, growth capital, and structured credit. Technology-focused credit across growth equity and direct lending. Known for innovative capital structures.",
+      "headquarters": "San Francisco, CA",
+      "estimated_valuation": "Private ($80B AUM)",
+      "gpu_scale": "N/A (lender)",
+      "financing_status": "Private",
+      "total_raised": "N/A",
+      "industry_segment": "Direct Lending / Technology Credit",
+      "qualification_score": 87,
+      "key_contacts": [
+        {
+          "name": "Alan Waxman",
+          "title": "Co-Founder & CEO",
+          "email_guess": "alan.waxman@sixthstreet.com",
+          "linkedin": "linkedin.com/in/alanwaxman"
+        }
+      ],
+      "corgi_fit_rationale": "Sixth Street is active in technology credit and direct lending. GPU-backed facilities are a natural expansion. RVG provides the collateral certainty that enables Sixth Street to structure longer-term GPU loans.",
+      "outreach_angle": "Sixth Street's structured credit capabilities are perfect for GPU-backed facilities. RVG provides the collateral guarantee that enables you to offer competitive terms on long-tenor GPU loans."
+    },
+    {
+      "name": "Vista Credit Partners",
+      "website": "vistacreditpartners.com",
+      "type": "lender",
+      "priority": "A",
+      "description": "Vista Equity Partners' private credit arm specializing in enterprise software and technology company lending. Growing presence in tech infrastructure. Focused exclusively on technology businesses with recurring revenue.",
+      "headquarters": "Austin, TX",
+      "estimated_valuation": "Vista Equity subsidiary",
+      "gpu_scale": "N/A (lender)",
+      "financing_status": "Vista Equity subsidiary",
+      "total_raised": "N/A",
+      "industry_segment": "Technology Direct Lending",
+      "qualification_score": 83,
+      "key_contacts": [
+        {
+          "name": "Robert Smith",
+          "title": "Founder & CEO, Vista",
+          "email_guess": "rsmith@vistaequitypartners.com",
+          "linkedin": "linkedin.com/in/robertfrancissmith"
+        }
+      ],
+      "corgi_fit_rationale": "Vista Credit's technology focus puts them directly in the AI compute financing space. GPU-backed lending to their portfolio companies is a natural product. RVG enables GPU-collateralized facilities.",
+      "outreach_angle": "Vista Credit's technology-focused lending is evolving toward AI infrastructure. RVG is the product that enables you to underwrite GPU-backed facilities for your tech portfolio companies."
+    },
+    {
+      "name": "Key Equipment Finance (KeyBank)",
+      "website": "key.com/business/equipment-finance",
+      "type": "lender",
+      "priority": "A",
+      "description": "One of the largest bank-based equipment finance companies in the US (subsidiary of KeyCorp). Finances technology, data center, and industrial equipment. Growing AI/compute equipment lending practice.",
+      "headquarters": "Cleveland, OH",
+      "estimated_valuation": "KeyCorp subsidiary (public)",
+      "gpu_scale": "N/A (lender)",
+      "financing_status": "KeyCorp public (NYSE: KEY)",
+      "total_raised": "N/A",
+      "industry_segment": "Equipment Finance / Bank Lending",
+      "qualification_score": 87,
+      "key_contacts": [
+        {
+          "name": "Amy Rosso",
+          "title": "President, Key Equipment Finance",
+          "email_guess": "amy.rosso@key.com",
+          "linkedin": "linkedin.com/in/amyrosso"
+        }
+      ],
+      "corgi_fit_rationale": "Key Equipment Finance is a major bank-based equipment lender. As they expand into AI/GPU financing, RVG provides the residual value guarantee that makes GPU loans as bankable as traditional equipment.",
+      "outreach_angle": "Your equipment finance team is evaluating GPU-backed lending. RVG provides the guaranteed residual value that your credit committee needs to approve GPU financing at scale."
+    },
+    {
+      "name": "GreatAmerica Financial Services",
+      "website": "greatamerica.com",
+      "type": "lender",
+      "priority": "B",
+      "description": "Private equipment leasing and financing company. One of the largest independent equipment finance companies in the US. Expanding from traditional equipment into technology and AI compute financing.",
+      "headquarters": "Cedar Rapids, IA",
+      "estimated_valuation": "Private ($3B+ portfolio)",
+      "gpu_scale": "N/A (lender)",
+      "financing_status": "Private",
+      "total_raised": "N/A",
+      "industry_segment": "Equipment Leasing / Technology Finance",
+      "qualification_score": 82,
+      "key_contacts": [
+        {
+          "name": "Tony Golobic",
+          "title": "CEO",
+          "email_guess": "tony.golobic@greatamerica.com",
+          "linkedin": "linkedin.com/in/tonygolobic"
+        }
+      ],
+      "corgi_fit_rationale": "GreatAmerica is a major equipment finance company expanding into technology. GPU financing is a natural extension. RVG enables GPU leasing with guaranteed residual values.",
+      "outreach_angle": "GreatAmerica's equipment finance expertise is perfectly positioned for GPU leasing. RVG provides the guaranteed residual value that makes GPU lease structures viable \u2014 similar to auto/equipment RV programs you already run."
+    },
+    {
+      "name": "De Lage Landen (DLL) Financial Services",
+      "website": "dllgroup.com",
+      "type": "lender",
+      "priority": "A",
+      "description": "Global vendor finance company (Rabobank subsidiary) with $40B+ in managed assets. One of the world's largest equipment finance providers. Specializes in vendor financing programs for major technology manufacturers.",
+      "headquarters": "Wayne, PA",
+      "estimated_valuation": "Rabobank subsidiary",
+      "gpu_scale": "N/A (lender)",
+      "financing_status": "Rabobank subsidiary",
+      "total_raised": "N/A",
+      "industry_segment": "Vendor Finance / Equipment Leasing",
+      "qualification_score": 88,
+      "key_contacts": [
+        {
+          "name": "Gert-Jan Strikwerda",
+          "title": "CEO",
+          "email_guess": "gert-jan.strikwerda@dllgroup.com",
+          "linkedin": "linkedin.com/in/gertjanstrikwerda"
+        }
+      ],
+      "corgi_fit_rationale": "DLL is a major vendor finance company and potential NVIDIA/GPU manufacturer financing partner. If NVIDIA or resellers use DLL for GPU financing programs, RVG would be the natural companion product.",
+      "outreach_angle": "DLL's vendor finance expertise could power a NVIDIA GPU financing program. RVG completes that program by guaranteeing hardware residual values \u2014 enabling competitive GPU lease structures globally."
+    },
+    {
+      "name": "BNP Paribas Leasing Solutions",
+      "website": "leasingsolutions.bnpparibas.com",
+      "type": "lender",
+      "priority": "B",
+      "description": "BNP Paribas's equipment leasing and vendor finance division. Major European equipment finance provider expanding into technology and AI compute leasing. Strong European and global presence.",
+      "headquarters": "Paris, France",
+      "estimated_valuation": "BNP Paribas subsidiary",
+      "gpu_scale": "N/A (lender)",
+      "financing_status": "BNP Paribas subsidiary (public)",
+      "total_raised": "N/A",
+      "industry_segment": "Equipment Leasing / European Finance",
+      "qualification_score": 83,
+      "key_contacts": [
+        {
+          "name": "Julien Cottineau",
+          "title": "CEO, BNP Paribas Leasing Solutions",
+          "email_guess": "julien.cottineau@bnpparibas.com",
+          "linkedin": "linkedin.com/in/juliencottineau"
+        }
+      ],
+      "corgi_fit_rationale": "BNP Paribas Leasing Solutions is a major European equipment finance provider. As European GPU cloud operators seek financing, RVG enables GPU-backed leasing programs with guaranteed residual values.",
+      "outreach_angle": "BNP Paribas Leasing's European footprint covers the growing GPU cloud market. RVG enables you to offer GPU lease programs with guaranteed residual values \u2014 a critical differentiator for EU neoclouds."
+    },
+    {
+      "name": "Siemens Financial Services",
+      "website": "siemens.com/global/en/company/financing.html",
+      "type": "lender",
+      "priority": "B",
+      "description": "Siemens' financial services arm providing equipment and project financing globally. Major technology equipment finance provider. Expanding into digital infrastructure and AI compute financing.",
+      "headquarters": "Munich, Germany",
+      "estimated_valuation": "Siemens subsidiary",
+      "gpu_scale": "N/A (lender)",
+      "financing_status": "Siemens subsidiary (DAX: SIE)",
+      "total_raised": "N/A",
+      "industry_segment": "Technology Equipment Finance",
+      "qualification_score": 80,
+      "key_contacts": [
+        {
+          "name": "Roland Chalons-Browne",
+          "title": "CEO, Siemens Financial Services",
+          "email_guess": "roland.chalons-browne@siemens.com",
+          "linkedin": "linkedin.com/in/rcb"
+        }
+      ],
+      "corgi_fit_rationale": "Siemens Financial Services is a major tech equipment finance provider. GPU financing programs need RVG for residual value protection \u2014 enabling them to offer competitive GPU lease terms.",
+      "outreach_angle": "Siemens Financial's tech equipment expertise is evolving toward AI compute. RVG provides the residual value guarantee that makes GPU financing programs viable \u2014 analogous to industrial equipment programs you already run."
+    },
+    {
+      "name": "Mitsubishi UFJ Lease & Finance (MULC)",
+      "website": "mu-lease.co.jp",
+      "type": "lender",
+      "priority": "B",
+      "description": "One of Japan's largest equipment leasing companies. Global presence in technology and industrial equipment financing. Active in data center and technology asset financing. Part of MUFG Group.",
+      "headquarters": "Tokyo, Japan",
+      "estimated_valuation": "MUFG subsidiary",
+      "gpu_scale": "N/A (lender)",
+      "financing_status": "MUFG subsidiary (public)",
+      "total_raised": "N/A",
+      "industry_segment": "Equipment Leasing / Japan / Technology Finance",
+      "qualification_score": 80,
+      "key_contacts": [
+        {
+          "name": "Minoru Niwa",
+          "title": "President & CEO",
+          "email_guess": "minoru.niwa@mu-lease.co.jp",
+          "linkedin": "linkedin.com/in/minoruniwa"
+        }
+      ],
+      "corgi_fit_rationale": "MUFG's leasing arm is a major technology equipment finance provider in Asia and globally. GPU financing programs need RVG for residual value protection to enable longer-term lease structures.",
+      "outreach_angle": "MUFG Leasing's technology equipment expertise is evolving toward AI compute. RVG enables GPU lease programs with guaranteed residual values \u2014 critical for Japanese and Asian AI infrastructure buildouts."
+    },
+    {
+      "name": "SMBC Leasing (SMFL)",
+      "website": "smfl.co.jp",
+      "type": "lender",
+      "priority": "B",
+      "description": "Sumitomo Mitsui Finance and Leasing \u2014 one of Japan's leading leasing companies. Active in technology, aviation, and infrastructure leasing. Global presence with strong Asia Pacific coverage. Part of SMBC Group.",
+      "headquarters": "Tokyo, Japan",
+      "estimated_valuation": "SMBC Group subsidiary",
+      "gpu_scale": "N/A (lender)",
+      "financing_status": "SMBC Group subsidiary (public)",
+      "total_raised": "N/A",
+      "industry_segment": "Equipment Leasing / Japan / Technology Finance",
+      "qualification_score": 78,
+      "key_contacts": [
+        {
+          "name": "Masahiro Kotake",
+          "title": "President & CEO",
+          "email_guess": "masahiro.kotake@smfl.co.jp",
+          "linkedin": "linkedin.com/in/masahirokotake"
+        }
+      ],
+      "corgi_fit_rationale": "SMFL is a major technology lease provider with global reach. GPU financing programs need RVG for collateral protection \u2014 enabling SMFL to enter the AI hardware financing market confidently.",
+      "outreach_angle": "SMFL's technology leasing expertise positions you perfectly for the GPU financing market. RVG provides the residual value guarantee that makes your GPU lease programs as reliable as traditional equipment programs."
+    },
+    {
+      "name": "Live Oak Bank (Technology Banking)",
+      "website": "liveoakbank.com",
+      "type": "lender",
+      "priority": "B",
+      "description": "NASDAQ-listed bank (LOB) with strong technology and SBA lending focus. Growing technology company lending practice. Active in venture lending for AI and tech startups. Known for innovative banking products.",
+      "headquarters": "Wilmington, NC",
+      "estimated_valuation": "$2B+ (NASDAQ: LOB)",
+      "gpu_scale": "N/A (lender)",
+      "financing_status": "Public (NASDAQ: LOB)",
+      "total_raised": "N/A",
+      "industry_segment": "Technology Banking / Venture Lending",
+      "qualification_score": 78,
+      "key_contacts": [
+        {
+          "name": "James (Chip) Mahan",
+          "title": "Chairman & CEO",
+          "email_guess": "chip.mahan@liveoakbank.com",
+          "linkedin": "linkedin.com/in/chipmahan"
+        }
+      ],
+      "corgi_fit_rationale": "Live Oak's tech banking practice is growing into AI company lending. GPU-backed loans are a natural extension. RVG provides the collateral guarantee their credit team needs.",
+      "outreach_angle": "Live Oak's tech banking practice is evolving toward AI company lending. RVG on GPU-backed loans gives your credit committee the collateral certainty it needs for hardware-secured facilities."
+    },
+    {
+      "name": "Western Alliance Bank (Technology & Innovation Banking)",
+      "website": "westernalliancebank.com",
+      "type": "lender",
+      "priority": "B",
+      "description": "Major bank (WAL) with strong technology and innovation banking focus through Bridge Bank division. Active in venture lending, technology company banking, and equipment financing. $80B+ in assets.",
+      "headquarters": "Phoenix, AZ",
+      "estimated_valuation": "$10B+ (NYSE: WAL)",
+      "gpu_scale": "N/A (lender)",
+      "financing_status": "Public (NYSE: WAL)",
+      "total_raised": "N/A",
+      "industry_segment": "Technology Banking / Equipment Finance",
+      "qualification_score": 83,
+      "key_contacts": [
+        {
+          "name": "Ken Vecchione",
+          "title": "President & CEO",
+          "email_guess": "ken.vecchione@westernalliancebank.com",
+          "linkedin": "linkedin.com/in/kenvecchione"
+        }
+      ],
+      "corgi_fit_rationale": "Western Alliance's Bridge Bank division lends to technology companies, including AI and compute startups. GPU-backed lending is a growing segment. RVG provides collateral protection.",
+      "outreach_angle": "Bridge Bank's technology lending practice is increasingly financing AI compute companies. RVG on GPU-backed loans de-risks your credit book and enables larger facilities for GPU operators."
+    },
+    {
+      "name": "Benefit Street Partners (Franklin Templeton)",
+      "website": "benefitstreetpartners.com",
+      "type": "lender",
+      "priority": "B",
+      "description": "Franklin Templeton's private credit subsidiary with $35B+ AUM. Active in direct lending, leveraged finance, and structured credit. Technology and infrastructure focus within broader credit mandates.",
+      "headquarters": "New York, NY",
+      "estimated_valuation": "Franklin Templeton subsidiary",
+      "gpu_scale": "N/A (lender)",
+      "financing_status": "Franklin Templeton subsidiary",
+      "total_raised": "N/A",
+      "industry_segment": "Direct Lending / Private Credit",
+      "qualification_score": 82,
+      "key_contacts": [
+        {
+          "name": "Richard Byrne",
+          "title": "CEO",
+          "email_guess": "richard.byrne@benefitstreetpartners.com",
+          "linkedin": "linkedin.com/in/richardbyrne"
+        }
+      ],
+      "corgi_fit_rationale": "BSP's direct lending practice covers technology companies with growing AI infrastructure needs. GPU-backed facilities are an emerging segment. RVG provides the collateral floor their credit teams need.",
+      "outreach_angle": "BSP's technology lending practice is evolving toward AI infrastructure. RVG on GPU-backed facilities provides the guaranteed collateral value that Franklin Templeton's credit standards require."
+    },
+    {
+      "name": "Churchill Asset Management (TIAA)",
+      "website": "churchillassetmgmt.com",
+      "type": "lender",
+      "priority": "B",
+      "description": "TIAA's private credit subsidiary with $48B+ AUM. Specializes in middle market direct lending and senior secured lending. Technology sector coverage across their credit portfolios.",
+      "headquarters": "New York, NY",
+      "estimated_valuation": "TIAA subsidiary",
+      "gpu_scale": "N/A (lender)",
+      "financing_status": "TIAA subsidiary",
+      "total_raised": "N/A",
+      "industry_segment": "Middle Market Direct Lending",
+      "qualification_score": 80,
+      "key_contacts": [
+        {
+          "name": "Kenneth Kencel",
+          "title": "President & CEO",
+          "email_guess": "kenneth.kencel@churchillassetmgmt.com",
+          "linkedin": "linkedin.com/in/kennethkencel"
+        }
+      ],
+      "corgi_fit_rationale": "Churchill's middle market lending practice includes technology companies with GPU infrastructure. RVG enables GPU-collateralized loans in the middle market segment.",
+      "outreach_angle": "Churchill's middle market lending is expanding into AI compute companies. RVG provides the residual value guarantee that makes GPU-backed lending viable for your credit portfolio."
+    },
+    {
+      "name": "Muzinich & Co.",
+      "website": "muzinich.com",
+      "type": "lender",
+      "priority": "B",
+      "description": "Private credit and public markets firm with $40B+ AUM. Specializes in corporate credit, direct lending, and infrastructure debt. Growing technology credit practice with European and US operations.",
+      "headquarters": "New York, NY",
+      "estimated_valuation": "Private",
+      "gpu_scale": "N/A (lender)",
+      "financing_status": "Private",
+      "total_raised": "N/A",
+      "industry_segment": "Direct Lending / Corporate Credit",
+      "qualification_score": 76,
+      "key_contacts": [
+        {
+          "name": "George Muzinich",
+          "title": "Founder & Chairman",
+          "email_guess": "george.muzinich@muzinich.com",
+          "linkedin": "linkedin.com/in/georgemuzinich"
+        }
+      ],
+      "corgi_fit_rationale": "Muzinich's direct lending practice covers technology companies with AI infrastructure. RVG enables GPU-backed lending facilities within their credit programs.",
+      "outreach_angle": "Muzinich's direct lending to technology companies is evolving toward AI compute. RVG on GPU-backed facilities provides the collateral certainty your European credit standards require."
+    },
+    {
+      "name": "Fortress Credit (SoftBank)",
+      "website": "fortress.com",
+      "type": "lender",
+      "priority": "B",
+      "description": "Fortress Investment Group's credit business, owned by SoftBank. Major alternative credit manager with $40B+ in credit AUM. Active in specialty finance, infrastructure credit, and technology lending.",
+      "headquarters": "New York, NY",
+      "estimated_valuation": "SoftBank subsidiary",
+      "gpu_scale": "N/A (lender)",
+      "financing_status": "SoftBank subsidiary",
+      "total_raised": "N/A",
+      "industry_segment": "Alternative Credit / Specialty Finance",
+      "qualification_score": 82,
+      "key_contacts": [
+        {
+          "name": "Pete Briger",
+          "title": "Co-CEO",
+          "email_guess": "pete.briger@fortress.com",
+          "linkedin": "linkedin.com/in/petebriger"
+        }
+      ],
+      "corgi_fit_rationale": "Fortress Credit's specialty finance capabilities and SoftBank's AI focus create a unique opening. GPU-backed lending through Fortress Credit with RVG protection is a compelling structure.",
+      "outreach_angle": "SoftBank's AI investments create natural deal flow for Fortress Credit. GPU-backed lending with RVG protection is the structured product that turns SoftBank's AI portfolio into a credit opportunity."
+    },
+    {
+      "name": "First Eagle Alternative Credit",
+      "website": "feac.com",
+      "type": "lender",
+      "priority": "B",
+      "description": "Alternative credit platform with $30B+ AUM. Middle market direct lending, infrastructure credit, and senior secured loans. Technology and infrastructure sector active. Part of First Eagle Investments.",
+      "headquarters": "New York, NY",
+      "estimated_valuation": "First Eagle subsidiary",
+      "gpu_scale": "N/A (lender)",
+      "financing_status": "First Eagle subsidiary",
+      "total_raised": "N/A",
+      "industry_segment": "Alternative Credit / Direct Lending",
+      "qualification_score": 76,
+      "key_contacts": [
+        {
+          "name": "Jeff Kramer",
+          "title": "CEO",
+          "email_guess": "jeff.kramer@feac.com",
+          "linkedin": "linkedin.com/in/jeffkramer"
+        }
+      ],
+      "corgi_fit_rationale": "FEAC's direct lending practice covers technology with growing AI infrastructure exposure. RVG enables GPU-collateralized facilities within their credit mandates.",
+      "outreach_angle": "First Eagle Alternative Credit's technology lending practice is expanding into AI compute. RVG provides the collateral floor that enables GPU-backed facilities in your direct lending portfolio."
+    },
+    {
+      "name": "Gladstone Capital Corporation",
+      "website": "gladstonecapital.com",
+      "type": "lender",
+      "priority": "B",
+      "description": "Publicly traded BDC (NASDAQ: GLAD) managed by Gladstone Management. Provides senior secured loans, second lien loans, and subordinated debt to US middle market companies including technology sector.",
+      "headquarters": "McLean, VA",
+      "estimated_valuation": "$600M (NASDAQ: GLAD)",
+      "gpu_scale": "N/A (lender)",
+      "financing_status": "Public (NASDAQ: GLAD)",
+      "total_raised": "N/A",
+      "industry_segment": "BDC / Middle Market Lending",
+      "qualification_score": 72,
+      "key_contacts": [
+        {
+          "name": "David Gladstone",
+          "title": "Chairman & CEO",
+          "email_guess": "david.gladstone@gladstonecapital.com",
+          "linkedin": "linkedin.com/in/davidgladstone"
+        }
+      ],
+      "corgi_fit_rationale": "Gladstone Capital lends to middle market tech companies, including AI compute operators. RVG enables GPU-backed loan structures within their middle market credit portfolio.",
+      "outreach_angle": "Gladstone's technology lending exposure includes AI compute companies. GPU-backed loans with RVG protection improve your collateral quality \u2014 enabling larger facilities for your tech borrowers."
+    }
+  ]
+}
