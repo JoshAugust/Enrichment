@@ -28,3 +28,39 @@ FINAL_REPORT.md
 MORNING_BRIEFING*.md
 SMB_ENRICHMENT_BUILD_NOTES.md
 STATUS.md
+
+# Pipeline is its own repo
+pipeline/
+
+# Data files
+data/*.json
+data/*.csv
+data/*.xlsx
+data/*.gz
+*.db
+*.db-wal
+*.db-shm
+
+# Logs
+*.log
+*.jsonl
+
+# Progress files
+*_progress.json
+*_state.json
+
+# Browser sessions
+browser_sessions/
+
+# Sensitive
+apollo_storage.json
+zi_storage.json
+zi_cookies_backup.json
+.config/
+
+# Build
+.next/
+
+# Images
+*.jpg
+*.png

@@ -336,7 +336,7 @@ export async function searchProducts(searchTerm, count = 10) {
  *
  * @param {object} opts
  * @param {number} [opts.daysBack=7] — how many days back to look
- * @param {number} [opts.minUpvotes=10] — minimum upvotes to consider
+ * @param {number} [opts.minUpvotes=0] — minimum upvotes to consider
  * @param {string} [opts.order='RANKING'] — NEWEST, VOTES, or RANKING
  * @param {number} [opts.count=20] — max leads to return
  * @param {boolean} [opts.resolveDomains=true] — resolve actual website domains
@@ -346,7 +346,7 @@ export async function searchProducts(searchTerm, count = 10) {
 export async function discoverLeads(opts = {}) {
   const {
     daysBack = 7,
-    minUpvotes = 10,
+    minUpvotes = 0,
     order = 'RANKING',
     count = 20,
     resolveDomains: shouldResolve = true,
