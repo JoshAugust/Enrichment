@@ -1,0 +1,72 @@
+{
+  "session": "session_1",
+  "run_date": "2026-04-03",
+  "total_companies_processed": 240,
+  "phase1_tech_tld_dq": {
+    "total": 43,
+    "rescued_from_dq": 24,
+    "remained_dq": 19,
+    "note": "3 extra tagged .tech companies included via domain overlap count"
+  },
+  "phase2_grade_c": {
+    "total": 197,
+    "upgraded_to_B_or_higher": 172,
+    "newly_dqd": 25,
+    "note": "Root cause of C-grade was website_exists(2pts) vs live_website(5pts) scoring gap. Bulk rescore corrected this."
+  },
+  "grade_distribution_post_enrichment": {
+    "B": 193,
+    "C": 3,
+    "DQ": 44
+  },
+  "score_fix_root_cause": "Phase 2 companies had descriptions but were scored with website_exists (2 pts) instead of live_website (5 pts). Rescore with corrected vibe assumption promoted all 177 active tech companies from C(49) to B(52).",
+  "phase1_notable_rescues": [
+    {"domain": "qdrant.tech", "company": "Qdrant", "grade": "B", "score": 52, "signal": "Vector search engine, AI/ML SaaS platform"},
+    {"domain": "relay.app", "company": "Relay.app", "grade": "B", "score": 52, "signal": "AI agents automation platform"},
+    {"domain": "folk.app", "company": "Folk", "grade": "B", "score": 52, "signal": "CRM SaaS platform"},
+    {"domain": "stacker.app", "company": "Stacker", "grade": "B", "score": 52, "signal": "No-code app builder platform"},
+    {"domain": "glif.app", "company": "glif", "grade": "B", "score": 52, "signal": "Creative AI agent platform (Spellcasters Inc)"},
+    {"domain": "clienthub.app", "company": "Client Hub", "grade": "B", "score": 52, "signal": "Accounting SaaS with AI/QuickBooks integration"},
+    {"domain": "padloc.app", "company": "Padloc", "grade": "B", "score": 52, "signal": "Open-source E2E encrypted password manager"},
+    {"domain": "forms.app", "company": "forms.app", "grade": "B", "score": 52, "signal": "Online form builder SaaS"},
+    {"domain": "klutch.app", "company": "Klutch", "grade": "B", "score": 52, "signal": "Company wiki / knowledge base SaaS for 3000+ teams"},
+    {"domain": "aurora.tech", "company": "Aurora", "grade": "B", "score": 52, "signal": "Self-driving freight AI platform"},
+    {"domain": "norterra.tech", "company": "Norterra Tech", "grade": "B", "score": 52, "signal": "Managed IT + cybersecurity (Minneapolis SMB)"},
+    {"domain": "attentus.tech", "company": "Attentus Technologies", "grade": "B", "score": 52, "signal": "Managed services provider, Pacific Northwest"}
+  ],
+  "phase1_confirmed_dq": [
+    {"domain": "afterglow.app", "reason": "dead_parked_website", "note": "Domain for sale on Spaceship.com"},
+    {"domain": "protonas.tech", "reason": "no_tech_signal", "note": "Hydrogen fuel cell hardware, no software layer"},
+    {"domain": "renovoderm.tech", "reason": "no_tech_signal", "note": "Medical wound matrix device, no software"},
+    {"domain": "cork.tech", "reason": "no_tech_signal", "note": "Crypto/DeFi risk infrastructure — crypto flag, no STRONG_TECH match"}
+  ],
+  "phase2_notable_dq": [
+    {"domain": "wix.com", "reason": "dq_employees_5000", "note": "Too large"},
+    {"domain": "braze.com", "reason": "dq_employees_1500", "note": "Too large"},
+    {"domain": "neo4j.com", "reason": "dq_employees_600", "note": "Too large"},
+    {"domain": "getfileforge.com", "reason": "dead_parked_website", "note": "Squarespace expired"},
+    {"domain": "persona.com", "reason": "dead_parked_website", "note": "Domain broker page, not the actual KYC company"}
+  ],
+  "top_20_rescued": [
+    {"domain": "aisell.tech", "company": "aiSell", "grade": "B", "score": 52},
+    {"domain": "apisix.apache.org", "company": "Apache APISIX", "grade": "B", "score": 52},
+    {"domain": "fusio-project.org", "company": "Fusio", "grade": "B", "score": 52},
+    {"domain": "stepci.com", "company": "Step CI", "grade": "B", "score": 52},
+    {"domain": "databend.rs", "company": "Databend", "grade": "B", "score": 52},
+    {"domain": "gravitl.com", "company": "Gravitl", "grade": "B", "score": 52},
+    {"domain": "bagisto.com", "company": "Bagisto", "grade": "B", "score": 52},
+    {"domain": "sylius.com", "company": "Sylius", "grade": "B", "score": 52},
+    {"domain": "qdrant.tech", "company": "Qdrant", "grade": "B", "score": 52},
+    {"domain": "zilliz.com", "company": "Zilliz", "grade": "B", "score": 52},
+    {"domain": "nextcloud.com", "company": "Nextcloud", "grade": "B", "score": 52},
+    {"domain": "spacedrive.com", "company": "Spacedrive", "grade": "B", "score": 52},
+    {"domain": "vanillaforums.com", "company": "Vanilla Forums", "grade": "B", "score": 52},
+    {"domain": "lowdefy.com", "company": "Lowdefy", "grade": "B", "score": 52},
+    {"domain": "graylog.org", "company": "Graylog", "grade": "B", "score": 52},
+    {"domain": "victoriametrics.com", "company": "VictoriaMetrics", "grade": "B", "score": 52},
+    {"domain": "padloc.app", "company": "Padloc", "grade": "B", "score": 52},
+    {"domain": "jitsi.org", "company": "Jitsi", "grade": "B", "score": 52},
+    {"domain": "rudderstack.com", "company": "RudderStack", "grade": "B", "score": 52},
+    {"domain": "tracardi.com", "company": "Tracardi", "grade": "B", "score": 52}
+  ]
+}

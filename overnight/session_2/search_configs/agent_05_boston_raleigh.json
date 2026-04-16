@@ -1,0 +1,10 @@
+{
+  "agent_id": "05",
+  "label": "Boston + Raleigh",
+  "searches": [
+    {"cities": ["Boston"], "industry_keywords": ["saas", "software"], "titles": ["Founder", "CEO", "CTO", "Co-founder"], "max_employees": 50, "pages": 25},
+    {"cities": ["Boston", "Cambridge"], "industry_keywords": ["healthtech", "health technology", "biotech software"], "titles": ["Founder", "CEO", "CTO"], "max_employees": 50, "pages": 15},
+    {"cities": ["Raleigh", "Durham"], "industry_keywords": ["saas", "software", "technology"], "titles": ["Founder", "CEO", "CTO", "Co-founder"], "max_employees": 50, "pages": 20},
+    {"cities": ["Chapel Hill"], "industry_keywords": ["software", "technology"], "titles": ["Founder", "CEO", "CTO"], "max_employees": 50, "pages": 10}
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "agent_id": "04",
+  "label": "Seattle + Portland",
+  "searches": [
+    {"cities": ["Seattle"], "industry_keywords": ["saas", "software", "cloud"], "titles": ["Founder", "CEO", "CTO", "Co-founder"], "max_employees": 50, "pages": 25},
+    {"cities": ["Seattle"], "industry_keywords": ["artificial intelligence", "machine learning"], "titles": ["Founder", "CEO", "CTO"], "max_employees": 50, "pages": 15},
+    {"cities": ["Portland"], "industry_keywords": ["saas", "software", "technology"], "titles": ["Founder", "CEO", "CTO", "Co-founder"], "max_employees": 50, "pages": 20},
+    {"cities": ["Bellevue", "Redmond"], "industry_keywords": ["software", "technology"], "titles": ["Founder", "CEO", "CTO"], "max_employees": 50, "pages": 10}
+  ]
+}

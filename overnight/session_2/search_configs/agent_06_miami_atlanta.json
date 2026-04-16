@@ -1,0 +1,10 @@
+{
+  "agent_id": "06",
+  "label": "Miami + Atlanta",
+  "searches": [
+    {"cities": ["Miami"], "industry_keywords": ["saas", "software", "fintech"], "titles": ["Founder", "CEO", "CTO", "Co-founder"], "max_employees": 50, "pages": 20},
+    {"cities": ["Miami", "Fort Lauderdale"], "industry_keywords": ["technology", "startup"], "titles": ["Founder", "CEO", "CTO"], "max_employees": 50, "pages": 15},
+    {"cities": ["Atlanta"], "industry_keywords": ["saas", "software"], "titles": ["Founder", "CEO", "CTO", "Co-founder"], "max_employees": 50, "pages": 25},
+    {"cities": ["Atlanta"], "industry_keywords": ["cybersecurity", "fintech", "martech"], "titles": ["Founder", "CEO", "CTO"], "max_employees": 50, "pages": 15}
+  ]
+}

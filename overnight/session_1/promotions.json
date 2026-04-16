@@ -1,0 +1,191 @@
+{
+  "session": "session_1",
+  "generated_at": "2026-04-04T03:32:25.110747+00:00",
+  "total_promotions": 13,
+  "promotions": [
+    {
+      "domain": "causal.app",
+      "company_name": "CAUSAL, INC.",
+      "old_score": 71,
+      "new_score": 76,
+      "old_grade": "B",
+      "new_grade": "A",
+      "reason": "recently_funded (Series A $20M confirmed in recent_news)",
+      "signals_added": [
+        "recently_funded"
+      ],
+      "evidence": "Causal, Inc. receives financing of $20M in Series A; $4.2M seed round",
+      "timestamp": "2026-04-04T03:13:52.974128Z"
+    },
+    {
+      "domain": "preparedapp.com",
+      "company_name": "INVICTUS APPS INC",
+      "old_score": 73,
+      "new_score": 78,
+      "old_grade": "B",
+      "new_grade": "A",
+      "reason": "recently_funded (Series B $27M confirmed in recent_news)",
+      "signals_added": [
+        "recently_funded"
+      ],
+      "evidence": "Prepared received financing of $27M in Series B (Sep 2024); $16M Series A",
+      "timestamp": "2026-04-04T03:13:52.974320Z"
+    },
+    {
+      "domain": "veruna.com",
+      "company_name": "VERUNA, INC.",
+      "old_score": 74,
+      "new_score": 79,
+      "old_grade": "B",
+      "new_grade": "A",
+      "reason": "recently_funded (Series B $10M confirmed in recent_news) + hiring",
+      "signals_added": [
+        "recently_funded"
+      ],
+      "evidence": "Veruna, Inc. receives financing of $10M in Series B; also hiring CSO",
+      "timestamp": "2026-04-04T03:13:52.974413Z"
+    },
+    {
+      "domain": "acryldata.io",
+      "company_name": "ACRYL DATA, INC.",
+      "old_score": 74,
+      "new_score": 79,
+      "old_grade": "B",
+      "new_grade": "A",
+      "reason": "recently_funded",
+      "signals_added": [
+        "recently_funded"
+      ],
+      "evidence": "Acryl Data raised $21M Series A (June 2023, 8VC led) + $9M prior seed. Total $30M. Source: TechCrunch 2023.",
+      "timestamp": "2026-04-04T03:16:32.785116+00:00"
+    },
+    {
+      "domain": "kickstarter.com",
+      "company_name": "Kickstarter",
+      "old_score": 72,
+      "new_score": 75,
+      "old_grade": "B",
+      "new_grade": "A",
+      "reason": "is_hiring",
+      "signals_added": [
+        "hiring"
+      ],
+      "evidence": "Kickstarter actively hiring: Senior iOS Engineer, Engineering Manager Platform Experience. jobs.kickstarter.com.",
+      "timestamp": "2026-04-04T03:16:32.785480+00:00"
+    },
+    {
+      "domain": "blastpoint.co",
+      "company_name": "BLASTPOINT, INC.",
+      "old_score": 74,
+      "new_score": 79,
+      "old_grade": "B",
+      "new_grade": "A",
+      "reason": "recently_funded",
+      "signals_added": [
+        "recently_funded"
+      ],
+      "evidence": "BlastPoint raised $10M Series A (Oct 2025, MissionOG). Total $19.8M across 6 rounds. Source: BusinessWire 2025.",
+      "timestamp": "2026-04-04T03:16:32.785604+00:00"
+    },
+    {
+      "domain": "edquity.co",
+      "company_name": "EDQUITY, INC.",
+      "old_score": 72,
+      "new_score": 77,
+      "old_grade": "B",
+      "new_grade": "A",
+      "reason": "recently_funded",
+      "signals_added": [
+        "recently_funded"
+      ],
+      "evidence": "Beam (formerly Edquity) raised $6.4M Series A (Nov 2022, Potencia Ventures led). TechCrunch confirmed.",
+      "timestamp": "2026-04-04T03:20:56.916180+00:00"
+    },
+    {
+      "domain": "smallstep.com",
+      "company_name": "SMALLSTEP LABS, INC.",
+      "old_score": 73,
+      "new_score": 78,
+      "old_grade": "B",
+      "new_grade": "A",
+      "reason": "recently_funded",
+      "signals_added": [
+        "recently_funded"
+      ],
+      "evidence": "Smallstep Labs raised $26M Series A (April 2022, StepStone Group + Accel + Bain Capital Ventures). Source: BusinessWire.",
+      "timestamp": "2026-04-04T03:23:21.285274+00:00"
+    },
+    {
+      "domain": "robinpowered.com",
+      "company_name": "ROBIN POWERED, INC.",
+      "old_score": 73,
+      "new_score": 78,
+      "old_grade": "B",
+      "new_grade": "A",
+      "reason": "recently_funded",
+      "signals_added": [
+        "recently_funded"
+      ],
+      "evidence": "Robin raised $30M Series C (July 2022, Tola Capital) + Atlassian Ventures strategic investment (Sep 2022). Total $59.9M. Source: BusinessWire.",
+      "timestamp": "2026-04-04T03:23:21.285526+00:00"
+    },
+    {
+      "domain": "agshift.com",
+      "company_name": "JIDDU, INC.",
+      "old_score": 74,
+      "new_score": 81,
+      "old_grade": "B",
+      "new_grade": "A",
+      "reason": "accelerator_backed",
+      "signals_added": [
+        "accelerator"
+      ],
+      "evidence": "AgShift/Jiddu completed THRIVE Agtech Accelerator (2017 cohort). SVG Ventures THRIVE is a legitimate agtech accelerator. Source: Tracxn/Crunchbase.",
+      "timestamp": "2026-04-04T03:30:08.338290+00:00"
+    },
+    {
+      "domain": "forallsecure.com",
+      "company_name": "FORALLSECURE",
+      "old_score": 69,
+      "new_score": 77,
+      "old_grade": "B",
+      "new_grade": "A",
+      "reason": "recently_funded + is_hiring",
+      "signals_added": [
+        "recently_funded",
+        "hiring"
+      ],
+      "evidence": "ForAllSecure raised $21M Series B (March 2022, Koch Disruptive + NEA). Glassdoor shows 3 active positions. Source: PRNewsWire, Glassdoor.",
+      "timestamp": "2026-04-04T03:30:08.338779+00:00"
+    },
+    {
+      "domain": "aquabyte.ai",
+      "company_name": "AQUABYTE, INC.",
+      "old_score": 69,
+      "new_score": 77,
+      "old_grade": "B",
+      "new_grade": "A",
+      "reason": "recently_funded + is_hiring",
+      "signals_added": [
+        "recently_funded",
+        "hiring"
+      ],
+      "evidence": "Aquabyte raised $25M Series B (July 2022, SoftBank Ventures Asia + The Nature Conservancy). 5+ active job openings on Lever. Source: EIN Presswire, Lever.",
+      "timestamp": "2026-04-04T03:30:08.339240+00:00"
+    },
+    {
+      "domain": "xosphere.io",
+      "company_name": "XOSPHERE, INC.",
+      "old_score": 73,
+      "new_score": 80,
+      "old_grade": "B",
+      "new_grade": "A",
+      "reason": "accelerator_backed",
+      "signals_added": [
+        "accelerator"
+      ],
+      "evidence": "Xosphere backed by Idealab (Bill Gross accelerator/studio, Pasadena). Listed as accelerator investment. Source: Tracxn/Crunchbase.",
+      "timestamp": "2026-04-04T03:32:25.110635+00:00"
+    }
+  ]
+}

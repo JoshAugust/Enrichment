@@ -1,0 +1,10 @@
+{
+  "agent_id": "07",
+  "label": "LA + San Diego",
+  "searches": [
+    {"cities": ["Los Angeles"], "industry_keywords": ["saas", "software"], "titles": ["Founder", "CEO", "CTO", "Co-founder"], "max_employees": 50, "pages": 25},
+    {"cities": ["Los Angeles", "Santa Monica"], "industry_keywords": ["martech", "adtech", "media technology"], "titles": ["Founder", "CEO", "CTO"], "max_employees": 50, "pages": 15},
+    {"cities": ["San Diego"], "industry_keywords": ["saas", "software", "technology"], "titles": ["Founder", "CEO", "CTO", "Co-founder"], "max_employees": 50, "pages": 20},
+    {"cities": ["Irvine", "Costa Mesa"], "industry_keywords": ["software", "technology"], "titles": ["Founder", "CEO", "CTO"], "max_employees": 50, "pages": 10}
+  ]
+}

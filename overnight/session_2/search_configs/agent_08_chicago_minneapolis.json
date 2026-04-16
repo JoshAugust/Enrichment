@@ -1,0 +1,10 @@
+{
+  "agent_id": "08",
+  "label": "Chicago + Minneapolis + Detroit",
+  "searches": [
+    {"cities": ["Chicago"], "industry_keywords": ["saas", "software"], "titles": ["Founder", "CEO", "CTO", "Co-founder"], "max_employees": 50, "pages": 25},
+    {"cities": ["Chicago"], "industry_keywords": ["fintech", "hr tech", "edtech"], "titles": ["Founder", "CEO", "CTO"], "max_employees": 50, "pages": 15},
+    {"cities": ["Minneapolis", "St. Paul"], "industry_keywords": ["saas", "software", "technology"], "titles": ["Founder", "CEO", "CTO", "Co-founder"], "max_employees": 50, "pages": 15},
+    {"cities": ["Detroit", "Ann Arbor"], "industry_keywords": ["software", "technology"], "titles": ["Founder", "CEO", "CTO"], "max_employees": 50, "pages": 15}
+  ]
+}

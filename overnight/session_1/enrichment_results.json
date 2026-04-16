@@ -1,0 +1,12 @@
+{
+  "total": 232,
+  "enriched": 232,
+  "promoted_to_a": 0,
+  "still_b": 179,
+  "demoted": 47,
+  "dq": 6,
+  "failed_fetch": 26,
+  "with_employee_count": 11,
+  "with_hiring_signal": 108,
+  "notes": "232 Grade B queue_import companies processed in 2 runs (SIGTERM interrupted first at ~6, second run completed remaining 226). All 232 now have enrichment_status=website_enriched."
+}

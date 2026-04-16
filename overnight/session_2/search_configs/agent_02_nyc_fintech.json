@@ -1,0 +1,10 @@
+{
+  "agent_id": "02",
+  "label": "NYC + Fintech/Data",
+  "searches": [
+    {"cities": ["New York"], "industry_keywords": ["saas", "software"], "titles": ["Founder", "CEO", "CTO", "Co-founder"], "max_employees": 50, "pages": 25},
+    {"cities": ["New York"], "industry_keywords": ["fintech", "financial technology"], "titles": ["Founder", "CEO", "CTO"], "max_employees": 50, "pages": 15},
+    {"cities": ["New York"], "industry_keywords": ["data analytics", "business intelligence"], "titles": ["Founder", "CEO", "CTO"], "max_employees": 50, "pages": 15},
+    {"cities": ["Brooklyn", "Jersey City"], "industry_keywords": ["software", "technology"], "titles": ["Founder", "CEO", "CTO"], "max_employees": 50, "pages": 10}
+  ]
+}

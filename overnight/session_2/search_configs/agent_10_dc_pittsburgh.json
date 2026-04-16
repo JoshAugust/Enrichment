@@ -1,0 +1,10 @@
+{
+  "agent_id": "10",
+  "label": "DC + Pittsburgh + Misc",
+  "searches": [
+    {"cities": ["Washington"], "industry_keywords": ["saas", "software", "cybersecurity"], "titles": ["Founder", "CEO", "CTO", "Co-founder"], "max_employees": 50, "pages": 20},
+    {"cities": ["Pittsburgh"], "industry_keywords": ["saas", "software", "artificial intelligence"], "titles": ["Founder", "CEO", "CTO", "Co-founder"], "max_employees": 50, "pages": 15},
+    {"cities": ["Philadelphia"], "industry_keywords": ["saas", "software", "technology"], "titles": ["Founder", "CEO", "CTO", "Co-founder"], "max_employees": 50, "pages": 15},
+    {"cities": ["Tampa", "Orlando"], "industry_keywords": ["software", "technology"], "titles": ["Founder", "CEO", "CTO"], "max_employees": 50, "pages": 15}
+  ]
+}

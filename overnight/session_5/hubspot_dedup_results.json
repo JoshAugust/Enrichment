@@ -1,0 +1,448 @@
+{
+  "grade_a_dupes": [],
+  "grade_a_fuzzy": [
+    {
+      "domain": "homecourt.ai",
+      "company_name": "NEX TEAM INC.",
+      "match_type": "fuzzy_base"
+    },
+    {
+      "domain": "citia.com",
+      "company_name": "SEMI-LINEAR, INC.",
+      "match_type": "fuzzy_base"
+    },
+    {
+      "domain": "powerhouse.fund",
+      "company_name": "POWERHOUSE ACCELERATOR LLC",
+      "match_type": "fuzzy_base"
+    },
+    {
+      "domain": "regen.com",
+      "company_name": "REGENERATING SOLUTIONS INC",
+      "match_type": "fuzzy_base"
+    },
+    {
+      "domain": "lifo.co",
+      "company_name": "LIFO INC",
+      "match_type": "fuzzy_base"
+    },
+    {
+      "domain": "push.io",
+      "company_name": "PUSH IO LLC",
+      "match_type": "fuzzy_base"
+    },
+    {
+      "domain": "usetandem.com",
+      "company_name": "RIDE IN TANDEM, INC.",
+      "match_type": "fuzzy_base"
+    },
+    {
+      "domain": "unytalk.com",
+      "company_name": "UNYTALK, INC",
+      "match_type": "fuzzy_base"
+    },
+    {
+      "domain": "3dextreme.com.3dextreme.com",
+      "company_name": "3 D EXTREME",
+      "match_type": "fuzzy_base"
+    },
+    {
+      "domain": "netex.net",
+      "company_name": "NETXPOSURE, INC.",
+      "match_type": "fuzzy_base"
+    },
+    {
+      "domain": "confida.net",
+      "company_name": "CONFIDA MA, INC.",
+      "match_type": "fuzzy_base"
+    },
+    {
+      "domain": "on.energy",
+      "company_name": "ON ENERGY STORAGE LLC",
+      "match_type": "fuzzy_base"
+    },
+    {
+      "domain": "triggo.city",
+      "company_name": "TRIGGO INC",
+      "match_type": "fuzzy_base"
+    },
+    {
+      "domain": "hypr.com",
+      "company_name": "HYPR",
+      "match_type": "fuzzy_base"
+    },
+    {
+      "domain": "airship.com",
+      "company_name": "APPTIMIZE INC",
+      "match_type": "fuzzy_base"
+    },
+    {
+      "domain": "lever.co",
+      "company_name": "LEVER",
+      "match_type": "fuzzy_base"
+    },
+    {
+      "domain": "dispatch.me",
+      "company_name": "DISPATCH",
+      "match_type": "fuzzy_base"
+    },
+    {
+      "domain": "welcome.1worldonline.com",
+      "company_name": "1WORLD ONLINE, INC.",
+      "match_type": "fuzzy_base"
+    },
+    {
+      "domain": "multiply.net",
+      "company_name": "MULTIPLY INC",
+      "match_type": "fuzzy_base"
+    },
+    {
+      "domain": "soliton.co.jp",
+      "company_name": "SOLITON SYSTEMS, INC.",
+      "match_type": "fuzzy_base"
+    },
+    {
+      "domain": "conductiv.com",
+      "company_name": "MEDPRICER.COM INC",
+      "match_type": "fuzzy_base"
+    },
+    {
+      "domain": "neo.org",
+      "company_name": "NEO INC",
+      "match_type": "fuzzy_base"
+    },
+    {
+      "domain": "ca.com",
+      "company_name": "CA TECHNOLOGIES INC",
+      "match_type": "fuzzy_base"
+    },
+    {
+      "domain": "matter.health",
+      "company_name": "MATTER",
+      "match_type": "fuzzy_base"
+    },
+    {
+      "domain": "hoopla.net",
+      "company_name": "HOOPLA",
+      "match_type": "fuzzy_base"
+    },
+    {
+      "domain": "fanup.io",
+      "company_name": "FANUP SOFTWARE INC",
+      "match_type": "fuzzy_base"
+    },
+    {
+      "domain": "info.ebix.com",
+      "company_name": "CONFIRMNET CORP",
+      "match_type": "fuzzy_base"
+    },
+    {
+      "domain": "skyward.io",
+      "company_name": "ROSEN/BROWN DIRECT INC",
+      "match_type": "fuzzy_base"
+    },
+    {
+      "domain": "ponder.io",
+      "company_name": "PONDER DATA INC.",
+      "match_type": "fuzzy_base"
+    },
+    {
+      "domain": "join.com",
+      "company_name": "MAMA CRUZ INC.",
+      "match_type": "fuzzy_base"
+    },
+    {
+      "domain": "ascend.careers",
+      "company_name": "GRANDSTAGE, INC.",
+      "match_type": "fuzzy_base"
+    },
+    {
+      "domain": "home.neustar",
+      "company_name": "NEUSTAR INC",
+      "match_type": "fuzzy_base"
+    },
+    {
+      "domain": "cogentes.biz",
+      "company_name": "COGENTES INC",
+      "match_type": "fuzzy_base"
+    },
+    {
+      "domain": "web.simsol.com",
+      "company_name": "SIM SOL SOFTWARE INC",
+      "match_type": "fuzzy_base"
+    },
+    {
+      "domain": "ww25.grainite.com",
+      "company_name": "GRAINITE, INC.",
+      "match_type": "fuzzy_base"
+    },
+    {
+      "domain": "welcome.nudgit.com",
+      "company_name": "NUDGIT, INC.",
+      "match_type": "fuzzy_base"
+    },
+    {
+      "domain": "airmap.com",
+      "company_name": "AIRMAP, INC. WHICH WILL DO BUSINESS IN CALIFORNIA AS AIRMAP TECHNOLOGY",
+      "match_type": "fuzzy_base"
+    },
+    {
+      "domain": "shift.org",
+      "company_name": "SHIFT.ORG, INC.",
+      "match_type": "fuzzy_base"
+    },
+    {
+      "domain": "care.ai",
+      "company_name": "CAREAI",
+      "match_type": "fuzzy_base"
+    },
+    {
+      "domain": "carta.com",
+      "company_name": "CARTA CORPORATION",
+      "match_type": "fuzzy_base"
+    },
+    {
+      "domain": "docs.pachyderm.com",
+      "company_name": "PACHYDERM INC",
+      "match_type": "fuzzy_base"
+    },
+    {
+      "domain": "elevatedigital.com",
+      "company_name": "SMARTDIGITAL HOLDINGS, INC.",
+      "match_type": "fuzzy_base"
+    },
+    {
+      "domain": "cloudcover.com",
+      "company_name": "CLOUDCOVER, LTD.",
+      "match_type": "fuzzy_base"
+    },
+    {
+      "domain": "get.downshiftit.com",
+      "company_name": "DOWNSHIFT LLC",
+      "match_type": "fuzzy_base"
+    },
+    {
+      "domain": "community.fandom.com",
+      "company_name": "WIKIA INC",
+      "match_type": "fuzzy_base"
+    },
+    {
+      "domain": "sage.com",
+      "company_name": "SAGE ENTERPRISE LLC",
+      "match_type": "fuzzy_base"
+    },
+    {
+      "domain": "board.com",
+      "company_name": "PREVEDERE INC",
+      "match_type": "fuzzy_base"
+    },
+    {
+      "domain": "stacks.org",
+      "company_name": "STACKS OPEN INTERNET FOUNDATION, INC.",
+      "match_type": "fuzzy_base"
+    }
+  ],
+  "grade_b_dupes": [],
+  "grade_b_fuzzy": [
+    {
+      "domain": "blastpoint.co",
+      "company_name": "BLASTPOINT, INC.",
+      "match_type": "fuzzy_base"
+    },
+    {
+      "domain": "abstract.tech",
+      "company_name": "ABSTRACT MEDIA",
+      "match_type": "fuzzy_base"
+    },
+    {
+      "domain": "multiply.us",
+      "company_name": "TOSOMEONE INC.",
+      "match_type": "fuzzy_base"
+    },
+    {
+      "domain": "betablocks.io",
+      "company_name": "BETABLOCKS COMPANY",
+      "match_type": "fuzzy_base"
+    },
+    {
+      "domain": "frdm.co",
+      "company_name": "FRDM INC.",
+      "match_type": "fuzzy_base"
+    },
+    {
+      "domain": "ncorium.com",
+      "company_name": "NCORIUM",
+      "match_type": "fuzzy_base"
+    },
+    {
+      "domain": "myheritage.com",
+      "company_name": "MYHERITAGE (USA) , INC.",
+      "match_type": "fuzzy_base"
+    },
+    {
+      "domain": "evas.com",
+      "company_name": "JERRYS AT MISQUAMICUT INC",
+      "match_type": "fuzzy_base"
+    },
+    {
+      "domain": "neo.com",
+      "company_name": "NEO INNOVATION, INC.",
+      "match_type": "fuzzy_base"
+    },
+    {
+      "domain": "brave.com",
+      "company_name": "BRAVE INC",
+      "match_type": "fuzzy_base"
+    },
+    {
+      "domain": "humanity.com",
+      "company_name": "HUMANITY COM INC",
+      "match_type": "fuzzy_base"
+    },
+    {
+      "domain": "perceptive.com",
+      "company_name": "LIQUENT, INC.",
+      "match_type": "fuzzy_base"
+    },
+    {
+      "domain": "astera.com",
+      "company_name": "ASTERA SOFTWARE CORPORATION",
+      "match_type": "fuzzy_base"
+    },
+    {
+      "domain": "self.inc",
+      "company_name": "SELF FINANCIAL, INC.",
+      "match_type": "fuzzy_base"
+    },
+    {
+      "domain": "portolasystems.net",
+      "company_name": "PORTOLA SYSTEMS, INC.",
+      "match_type": "fuzzy_base"
+    },
+    {
+      "domain": "cal.net",
+      "company_name": "CALNET",
+      "match_type": "fuzzy_base"
+    },
+    {
+      "domain": "legal.thomsonreuters.com",
+      "company_name": "THOUGHTTRACE INC",
+      "match_type": "fuzzy_base"
+    },
+    {
+      "domain": "shift.com",
+      "company_name": "CARLOTZ GROUP INC",
+      "match_type": "fuzzy_base"
+    },
+    {
+      "domain": "stratis.com",
+      "company_name": "STRATIS IOT LLC",
+      "match_type": "fuzzy_base"
+    },
+    {
+      "domain": "elis.io",
+      "company_name": "ELIS OS, INC.",
+      "match_type": "fuzzy_base"
+    },
+    {
+      "domain": "prox.io",
+      "company_name": "SF SOFTWARE, INC.",
+      "match_type": "fuzzy_base"
+    },
+    {
+      "domain": "mobilize.io",
+      "company_name": "MOBILIZE NETWORKS, INC.",
+      "match_type": "fuzzy_base"
+    },
+    {
+      "domain": "hibob.com",
+      "company_name": "HI BOB INC",
+      "match_type": "fuzzy_base"
+    },
+    {
+      "domain": "about.scarf.sh",
+      "company_name": "SCARF SYSTEMS, INC.",
+      "match_type": "fuzzy_base"
+    },
+    {
+      "domain": "atlasgo.org",
+      "company_name": "ATLAS UNLIMITED INC.",
+      "match_type": "fuzzy_base"
+    },
+    {
+      "domain": "ensemble.energy",
+      "company_name": "ENSEMBLE ENERGY INC.",
+      "match_type": "fuzzy_base"
+    },
+    {
+      "domain": "sama.com",
+      "company_name": "SAMASOURCE IMPACT SOURCING, INC.",
+      "match_type": "fuzzy_base"
+    },
+    {
+      "domain": "revenew.com",
+      "company_name": "REVENEW INC",
+      "match_type": "fuzzy_base"
+    },
+    {
+      "domain": "sitelink.com",
+      "company_name": "SITELINK SOFTWARE, LLC",
+      "match_type": "fuzzy_base"
+    },
+    {
+      "domain": "carestarter.com",
+      "company_name": "CARESTARTER TECHNOLOGIES INC.",
+      "match_type": "fuzzy_base"
+    },
+    {
+      "domain": "corp.trackabout.com",
+      "company_name": "TRACKABOUT, INC.",
+      "match_type": "fuzzy_base"
+    },
+    {
+      "domain": "start.docuware.com",
+      "company_name": "DOCUWARE CORPORATION",
+      "match_type": "fuzzy_base"
+    },
+    {
+      "domain": "go.remo.app",
+      "company_name": "LITERACYTECH, INC",
+      "match_type": "fuzzy_base"
+    },
+    {
+      "domain": "onboarddata.i",
+      "company_name": "ONBOARD DATA, INC.",
+      "match_type": "fuzzy_base"
+    },
+    {
+      "domain": "fizz.studio.com",
+      "company_name": "FIZZ STUDIO LLC",
+      "match_type": "fuzzy_base"
+    },
+    {
+      "domain": "timetrust.net",
+      "company_name": "SIMPLE EFFECTIVE TECHNOLOGY OF MISSISSIPPI, INC.",
+      "match_type": "fuzzy_base"
+    },
+    {
+      "domain": "corporate.foodcare.com",
+      "company_name": "FOODCARE INC",
+      "match_type": "fuzzy_base"
+    },
+    {
+      "domain": "currentsoftware.com",
+      "company_name": "CURRENT SOFTWARE USA INC",
+      "match_type": "fuzzy_base"
+    }
+  ],
+  "total_removed": 0,
+  "summary": {
+    "grade_a_total": 1184,
+    "grade_a_exact_matches": 0,
+    "grade_a_fuzzy_matches": 48,
+    "grade_b_total": 1356,
+    "grade_b_exact_matches": 0,
+    "grade_b_fuzzy_matches": 38,
+    "hubspot_domains_count": 82966
+  }
+}

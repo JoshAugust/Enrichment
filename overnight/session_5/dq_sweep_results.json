@@ -1,0 +1,126 @@
+{
+  "sweep_timestamp": "2026-04-04T05:14:00-07:00",
+  "total_dqd": 9,
+  "sweeps": {
+    "sweep_1_gov_tech": {
+      "query_hits": 2,
+      "dqd": 2,
+      "companies": [
+        {
+          "domain": "softech-inc.net",
+          "company_name": "SOFTECH INC",
+          "description": "Government workflow automation platform operator [source: Bureau van Dijk]",
+          "previous_grade": "A",
+          "previous_score": 79,
+          "action": "DQ",
+          "reason": "gov_tech_verified"
+        },
+        {
+          "domain": "onecle.com",
+          "company_name": "ONECLE INC.",
+          "description": "Government workflow automation platform operator [source: Bureau van Dijk]",
+          "previous_grade": "A",
+          "previous_score": 76,
+          "action": "DQ",
+          "reason": "gov_tech_verified"
+        }
+      ]
+    },
+    "sweep_2_non_tech_sic": {
+      "query_hits": 119,
+      "dqd": 5,
+      "skipped_vertical_saas": 114,
+      "notes": "Most hits are legitimate vertical SaaS companies (software FOR construction/real estate/restaurant/dental). Only DQ'd companies that are clearly non-tech operations despite having tech SIC codes. Many BvD descriptions appear copy-pasted across unrelated companies (e.g., browserstack.com described as real estate SaaS).",
+      "companies_dqd": [
+        {
+          "domain": "summit-service.com",
+          "company_name": "SUMMIT SERVICES",
+          "description": "Engaged in laundry, cleaning, and garment services",
+          "action": "DQ",
+          "reason": "non_tech_sic_mismatch"
+        },
+        {
+          "domain": "dotoloresearch.com",
+          "company_name": "DOTOLO RESEARCH CORP",
+          "description": "Colon cleaning and bowel preparation hardware manufacturer",
+          "action": "DQ",
+          "reason": "non_tech_sic_mismatch"
+        },
+        {
+          "domain": "krk.com",
+          "company_name": "KRK",
+          "description": "Engaged in the management and operation of real estate properties",
+          "action": "DQ",
+          "reason": "non_tech_sic_mismatch"
+        },
+        {
+          "domain": "stigroup.net",
+          "company_name": "SECURE TECHNOLOGY INTEGRATION PRODUCTS I",
+          "description": "Real estate investment services provider",
+          "action": "DQ",
+          "reason": "non_tech_sic_mismatch"
+        },
+        {
+          "domain": "l1enterprises.com",
+          "company_name": "L1 ENTERPRISES, INC.",
+          "description": "Data centre consultancy and management services; Data centre construction services",
+          "action": "DQ",
+          "reason": "non_tech_sic_mismatch"
+        }
+      ]
+    },
+    "sweep_3_duplicate_bvd_descriptions": {
+      "suspicious_clusters_found": 20,
+      "clusters": [
+        {"description": "Sales office [source: Bureau van Dijk]", "count": 86, "verdict": "SUSPICIOUS - generic BvD label, not a real description. Companies likely have real products unrelated to this label."},
+        {"description": "Engaged in the provision of computer programming, data processing, and other computer related services [source: Bureau van Dijk]", "count": 86, "verdict": "GENERIC - vague but plausibly accurate for IT service companies."},
+        {"description": "Engaged in the provision of computer programming services [source: Bureau van Dijk]", "count": 72, "verdict": "GENERIC - vague but plausibly accurate."},
+        {"description": "Software developer", "count": 61, "verdict": "OK - accurate if vague."},
+        {"description": "Non classifiable establishment [source: Bureau van Dijk]", "count": 45, "verdict": "SUSPICIOUS - literally means BvD couldn't classify them. MicroStrategy (well-known BI company) is in this group, confirming BvD labels are unreliable for these."},
+        {"description": "Software", "count": 41, "verdict": "OK - minimal but probably accurate."},
+        {"description": "Information technology consulting and professional services provider [source: Bureau van Dijk]", "count": 38, "verdict": "GENERIC - may include staffing firms, not pure SaaS."},
+        {"description": "Engaged in the provision of computer programming and data processing, as well as other related services [source: Bureau van Dijk]", "count": 32, "verdict": "GENERIC - same as above, slight wording variation."},
+        {"description": "Engaged in the provision of personnel supply services [source: Bureau van Dijk]", "count": 30, "verdict": "FLAGGED - staffing/temp agencies. These are likely NOT tech product companies. Recommend manual review."},
+        {"description": "Software developer [source: Bureau van Dijk]", "count": 29, "verdict": "OK - accurate if vague."},
+        {"description": "Sales Office [source: Bureau van Dijk]", "count": 29, "verdict": "SUSPICIOUS - same as 'Sales office' cluster, different capitalization."},
+        {"description": "Veterans and caregivers vital personal, medical, & military records & documents platform operator", "count": 26, "verdict": "HIGHLY SUSPICIOUS - very specific description applied to 26 companies including jewelry, homeschool, and money management companies. Classic BvD copy-paste error."},
+        {"description": "Engaged in the provision of innovative automation system solutions to several industries throughout the United States [source: Bureau van Dijk]", "count": 26, "verdict": "SUSPICIOUS - specific claim applied to 26 companies suggests BvD error."},
+        {"description": "Engaged in the provision of computer systems design and related services [source: Bureau van Dijk]", "count": 25, "verdict": "GENERIC - plausibly accurate."},
+        {"description": "Custom Computer Programming Services [source: Bureau van Dijk]", "count": 24, "verdict": "GENERIC - SIC code label, not a real description."},
+        {"description": "IT consultancy services [source: Bureau van Dijk]", "count": 23, "verdict": "GENERIC - may include non-product companies."},
+        {"description": "Enterprise resource planning (ERP) software developer", "count": 23, "verdict": "SUSPICIOUS if all 23 are truly ERP. Likely BvD copy-paste."},
+        {"description": "Engaged in the provision of computer programming, data processing, and other computer related services", "count": 22, "verdict": "GENERIC - same boilerplate without BvD source tag."},
+        {"description": "Engaged in developing and marketing customer interaction and workforce optimization software solutions for contact center market", "count": 22, "verdict": "HIGHLY SUSPICIOUS - very specific description for 22 companies. BvD copy-paste."},
+        {"description": "Digital business and techology consulting services [source: Bureau van Dijk]", "count": 22, "verdict": "GENERIC - note typo 'techology'. May include non-product consulting firms."}
+      ],
+      "action": "No auto-DQs. Flagged for manual review. Key risk clusters: 'personnel supply services' (30 staffing firms?), 'Veterans and caregivers' (26 mismatched companies), 'Sales office' (115 combined)."
+    },
+    "sweep_4_unknown_size_grade_a": {
+      "query_hits": 0,
+      "notes": "No Grade A companies found with all three size fields (bvd_employees, linkedin_employees, revenue_th_usd) NULL. All Grade A companies have at least one size data point."
+    },
+    "sweep_5_known_large_companies": {
+      "found_in_db": 13,
+      "already_dq": 9,
+      "dqd_this_sweep": 2,
+      "not_in_db": 2,
+      "companies": [
+        {"domain": "datadog.com", "previous_grade": "B", "previous_score": 55, "action": "DQ", "reason": "known_large_company"},
+        {"domain": "stability.ai", "previous_grade": "B", "previous_score": 70, "action": "DQ", "reason": "known_large_company"},
+        {"domain": "canva.com", "status": "already_DQ"},
+        {"domain": "databricks.com", "status": "already_DQ"},
+        {"domain": "figma.com", "status": "already_DQ"},
+        {"domain": "hashicorp.com", "status": "already_DQ"},
+        {"domain": "notion.so", "status": "already_DQ"},
+        {"domain": "openai.com", "status": "already_DQ"},
+        {"domain": "replit.com", "status": "already_DQ"},
+        {"domain": "snowflake.com", "status": "already_DQ"},
+        {"domain": "stripe.com", "status": "already_DQ"},
+        {"domain": "supabase.com", "status": "already_DQ"},
+        {"domain": "linear.app", "grade": "C", "note": "Already Grade C, no action needed"},
+        {"domain": "vercel.com", "status": "not_in_db"},
+        {"domain": "anthropic.com", "status": "not_in_db"}
+      ]
+    }
+  }
+}

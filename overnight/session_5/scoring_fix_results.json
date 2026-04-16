@@ -1,0 +1,43 @@
+{
+  "session": 5,
+  "task": "scoring_fix_rescore",
+  "timestamp": "2026-04-04T05:14:00-07:00",
+  "baseline": {
+    "grade_A": 1185,
+    "grade_B": 14487,
+    "grade_C": 29168,
+    "grade_D": 3,
+    "grade_DQ": 41159,
+    "total": 86002
+  },
+  "bug_1_recently_funded": {
+    "description": "recently_funded=False hardcoded; companies with accelerator data never got +5",
+    "companies_with_accelerator": 138,
+    "companies_updated": 46,
+    "promoted_to_A": 2,
+    "promoted_to_B": 0
+  },
+  "bug_2_blockchain_defi_keywords": {
+    "description": "STRONG_TECH_KEYWORDS missing blockchain/DeFi terms; affected companies scored moderate_tech instead of strong_tech (-10 pts)",
+    "companies_affected": 22,
+    "companies_updated": 22,
+    "promoted_to_A": 0,
+    "promoted_to_B": 5
+  },
+  "bug_3_website_exists_gap": {
+    "description": "website_exists (+2) vs live_website (+5) gap; companies with domain+description should get full credit",
+    "companies_affected": 0,
+    "companies_updated": 0,
+    "promoted_to_A": 0,
+    "promoted_to_B": 0
+  },
+  "final": {
+    "grade_A": 1187,
+    "grade_B": 14490,
+    "grade_C": 29163,
+    "grade_D": 3,
+    "grade_DQ": 41159,
+    "net_A_change": 2,
+    "total": 86002
+  }
+}

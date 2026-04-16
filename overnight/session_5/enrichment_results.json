@@ -1,0 +1,39 @@
+{
+  "total_enriched": 395,
+  "dq_count": 120,
+  "total_grade_A": 0,
+  "promoted_to_A": [],
+  "total_grade_B": 275,
+  "grade_changes": [
+    {
+      "domain": "adzerk.com",
+      "old": "C(45)",
+      "new": "B(51)",
+      "emp": 50
+    },
+    {
+      "domain": "edka.io",
+      "old": "C(37)",
+      "new": "B(65)",
+      "emp": 3
+    },
+    {
+      "domain": "konekt.io",
+      "old": "C(35)",
+      "new": "B(63)",
+      "emp": 10
+    },
+    {
+      "domain": "kubespec.dev",
+      "old": "C(37)",
+      "new": "B(65)",
+      "emp": 3
+    },
+    {
+      "domain": "otomi.io",
+      "old": "C(37)",
+      "new": "B(62)",
+      "emp": 5
+    }
+  ]
+}

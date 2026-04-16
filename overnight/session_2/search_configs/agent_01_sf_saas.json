@@ -1,0 +1,10 @@
+{
+  "agent_id": "01",
+  "label": "SF + SaaS/DevTools",
+  "searches": [
+    {"cities": ["San Francisco"], "industry_keywords": ["saas", "software as a service"], "titles": ["Founder", "CEO", "CTO", "Co-founder"], "max_employees": 50, "pages": 25},
+    {"cities": ["San Francisco"], "industry_keywords": ["developer tools", "devtools"], "titles": ["Founder", "CEO", "CTO", "Co-founder"], "max_employees": 50, "pages": 15},
+    {"cities": ["San Jose"], "industry_keywords": ["saas", "software"], "titles": ["Founder", "CEO", "CTO"], "max_employees": 50, "pages": 15},
+    {"cities": ["Palo Alto", "Mountain View"], "industry_keywords": ["software", "technology"], "titles": ["Founder", "CEO", "CTO"], "max_employees": 50, "pages": 15}
+  ]
+}

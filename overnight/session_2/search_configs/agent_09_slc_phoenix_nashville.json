@@ -1,0 +1,10 @@
+{
+  "agent_id": "09",
+  "label": "SLC + Phoenix + Nashville",
+  "searches": [
+    {"cities": ["Salt Lake City", "Provo", "Lehi"], "industry_keywords": ["saas", "software"], "titles": ["Founder", "CEO", "CTO", "Co-founder"], "max_employees": 50, "pages": 20},
+    {"cities": ["Phoenix", "Scottsdale", "Tempe"], "industry_keywords": ["saas", "software", "technology"], "titles": ["Founder", "CEO", "CTO", "Co-founder"], "max_employees": 50, "pages": 20},
+    {"cities": ["Nashville"], "industry_keywords": ["saas", "software", "healthtech"], "titles": ["Founder", "CEO", "CTO", "Co-founder"], "max_employees": 50, "pages": 15},
+    {"cities": ["Nashville"], "industry_keywords": ["technology", "startup"], "titles": ["Founder", "CEO", "CTO"], "max_employees": 50, "pages": 10}
+  ]
+}

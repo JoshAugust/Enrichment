@@ -1,0 +1,10 @@
+{
+  "used": 0,
+  "limit": 1000,
+  "last_updated": "2026-04-04T04:16:29.850202+00:00",
+  "session": "apollo_company_search",
+  "note": "Company search endpoint used via curl",
+  "requests_made": 228,
+  "results_fetched": 17003,
+  "new_domains_added": 300
+}

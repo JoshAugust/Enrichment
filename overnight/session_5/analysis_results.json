@@ -1,0 +1,1007 @@
+{
+  "generated_at": "2026-04-04T12:17:02.977Z",
+  "grade_a_by_state": [
+    {
+      "state": "CA",
+      "cnt": 218
+    },
+    {
+      "state": "VA",
+      "cnt": 116
+    },
+    {
+      "state": "TX",
+      "cnt": 77
+    },
+    {
+      "state": "GA",
+      "cnt": 75
+    },
+    {
+      "state": "NY",
+      "cnt": 68
+    },
+    {
+      "state": "FL",
+      "cnt": 66
+    },
+    {
+      "state": "MN",
+      "cnt": 47
+    },
+    {
+      "state": "PA",
+      "cnt": 46
+    },
+    {
+      "state": "MA",
+      "cnt": 36
+    },
+    {
+      "state": "MD",
+      "cnt": 32
+    },
+    {
+      "state": "NJ",
+      "cnt": 31
+    },
+    {
+      "state": "MI",
+      "cnt": 28
+    },
+    {
+      "state": "DE",
+      "cnt": 26
+    },
+    {
+      "state": "IL",
+      "cnt": 25
+    },
+    {
+      "state": "OH",
+      "cnt": 24
+    },
+    {
+      "state": "CO",
+      "cnt": 23
+    },
+    {
+      "state": "NC",
+      "cnt": 20
+    },
+    {
+      "state": "AZ",
+      "cnt": 20
+    },
+    {
+      "state": "IN",
+      "cnt": 19
+    },
+    {
+      "state": "CT",
+      "cnt": 17
+    },
+    {
+      "state": "WA",
+      "cnt": 14
+    },
+    {
+      "state": "DC",
+      "cnt": 14
+    },
+    {
+      "state": "MO",
+      "cnt": 13
+    },
+    {
+      "state": "WI",
+      "cnt": 12
+    },
+    {
+      "state": "AL",
+      "cnt": 11
+    },
+    {
+      "state": "NV",
+      "cnt": 10
+    },
+    {
+      "state": "UT",
+      "cnt": 8
+    },
+    {
+      "state": "TN",
+      "cnt": 7
+    },
+    {
+      "state": "OR",
+      "cnt": 7
+    },
+    {
+      "state": "NE",
+      "cnt": 7
+    },
+    {
+      "state": "IA",
+      "cnt": 7
+    },
+    {
+      "state": "SC",
+      "cnt": 6
+    },
+    {
+      "state": "NH",
+      "cnt": 6
+    },
+    {
+      "state": "RI",
+      "cnt": 5
+    },
+    {
+      "state": "KY",
+      "cnt": 5
+    },
+    {
+      "state": "ID",
+      "cnt": 5
+    },
+    {
+      "state": "LA",
+      "cnt": 4
+    },
+    {
+      "state": "AR",
+      "cnt": 4
+    },
+    {
+      "state": "ND",
+      "cnt": 3
+    },
+    {
+      "state": "ME",
+      "cnt": 3
+    },
+    {
+      "state": "HI",
+      "cnt": 3
+    },
+    {
+      "state": "WY",
+      "cnt": 2
+    },
+    {
+      "state": "VT",
+      "cnt": 2
+    },
+    {
+      "state": "San Francisco, CA",
+      "cnt": 2
+    },
+    {
+      "state": "PR",
+      "cnt": 2
+    },
+    {
+      "state": "NM",
+      "cnt": 2
+    },
+    {
+      "state": "MT",
+      "cnt": 2
+    },
+    {
+      "state": "KS",
+      "cnt": 2
+    },
+    {
+      "state": "WV",
+      "cnt": 1
+    },
+    {
+      "state": "SD",
+      "cnt": 1
+    },
+    {
+      "state": "New York, NY",
+      "cnt": 1
+    },
+    {
+      "state": "MS",
+      "cnt": 1
+    }
+  ],
+  "grade_a_by_source": [
+    {
+      "source": "bvd_45k",
+      "cnt": 1005
+    },
+    {
+      "source": "bvd_60k",
+      "cnt": 166
+    },
+    {
+      "source": "us_software",
+      "cnt": 11
+    },
+    {
+      "source": "Betaworks",
+      "cnt": 2
+    },
+    {
+      "source": "Techstars",
+      "cnt": 1
+    },
+    {
+      "source": "Dreamit",
+      "cnt": 1
+    },
+    {
+      "source": "500 Global",
+      "cnt": 1
+    }
+  ],
+  "grade_a_by_employee_range": [
+    {
+      "employee_range": "1-9",
+      "cnt": 985
+    },
+    {
+      "employee_range": "10-24",
+      "cnt": 201
+    },
+    {
+      "employee_range": "Unknown",
+      "cnt": 1
+    }
+  ],
+  "grade_a_by_revenue_range": [
+    {
+      "revenue_range": "1M-5M",
+      "cnt": 982
+    },
+    {
+      "revenue_range": "100K-500K",
+      "cnt": 168
+    },
+    {
+      "revenue_range": "5M-10M",
+      "cnt": 28
+    },
+    {
+      "revenue_range": "500K-1M",
+      "cnt": 6
+    },
+    {
+      "revenue_range": "10M-50M",
+      "cnt": 2
+    },
+    {
+      "revenue_range": "Unknown",
+      "cnt": 1
+    }
+  ],
+  "grade_distribution": [
+    {
+      "icp_grade": "A",
+      "cnt": 1185,
+      "avg_score": 77.4,
+      "min_score": 75,
+      "max_score": 88
+    },
+    {
+      "icp_grade": "B",
+      "cnt": 14490,
+      "avg_score": 59.6,
+      "min_score": 50,
+      "max_score": 74
+    },
+    {
+      "icp_grade": "C",
+      "cnt": 29163,
+      "avg_score": 44.9,
+      "min_score": 27,
+      "max_score": 49
+    },
+    {
+      "icp_grade": "D",
+      "cnt": 3,
+      "avg_score": 21.3,
+      "min_score": 20,
+      "max_score": 24
+    },
+    {
+      "icp_grade": "DQ",
+      "cnt": 41161,
+      "avg_score": 0,
+      "min_score": 0,
+      "max_score": 79
+    }
+  ],
+  "dq_reason_breakdown": [
+    {
+      "dq_reason": "no_tech_signal",
+      "cnt": 26929
+    },
+    {
+      "dq_reason": "in_hubspot",
+      "cnt": 13144
+    },
+    {
+      "dq_reason": "biotech_no_software",
+      "cnt": 52
+    },
+    {
+      "dq_reason": "dq_employees_100",
+      "cnt": 43
+    },
+    {
+      "dq_reason": "dq_employees_150",
+      "cnt": 42
+    },
+    {
+      "dq_reason": "dq_employees_200",
+      "cnt": 34
+    },
+    {
+      "dq_reason": "dq_employees_120",
+      "cnt": 29
+    },
+    {
+      "dq_reason": "dq_employees_60",
+      "cnt": 28
+    },
+    {
+      "dq_reason": "dq_employees_140",
+      "cnt": 26
+    },
+    {
+      "dq_reason": "dq_employees_51",
+      "cnt": 25
+    },
+    {
+      "dq_reason": "dq_employees_180",
+      "cnt": 25
+    },
+    {
+      "dq_reason": "dq_employees_110",
+      "cnt": 24
+    },
+    {
+      "dq_reason": "dq_employees_55",
+      "cnt": 23
+    },
+    {
+      "dq_reason": "dq_employees_75",
+      "cnt": 21
+    },
+    {
+      "dq_reason": "dq_employees_160",
+      "cnt": 21
+    },
+    {
+      "dq_reason": "dq_employees_65",
+      "cnt": 19
+    },
+    {
+      "dq_reason": "gov_tech",
+      "cnt": 18
+    },
+    {
+      "dq_reason": "dq_employees_80",
+      "cnt": 18
+    },
+    {
+      "dq_reason": "dq_employees_85",
+      "cnt": 16
+    },
+    {
+      "dq_reason": "dq_employees_70",
+      "cnt": 16
+    }
+  ],
+  "contact_coverage_grade_a": [
+    {
+      "total_grade_a": 1185,
+      "with_email": 1014,
+      "with_phone": 58,
+      "with_dm_name": 1118,
+      "with_dm_email": 1024,
+      "with_dm_phone": 1,
+      "with_dm_linkedin": 11
+    }
+  ],
+  "top_20_grade_a": [
+    {
+      "company_name": "OPEN SOLUTIONS GROUP, LLC",
+      "domain": "bigbear.io",
+      "state": "VA",
+      "icp_score": 88,
+      "icp_grade": "A",
+      "employees": 4,
+      "revenue_th_usd": 340,
+      "source": "bvd_60k",
+      "dm_name": "Mr Brian C Levy",
+      "has_email": 0,
+      "has_phone": 1
+    },
+    {
+      "company_name": "Intercom",
+      "domain": "intercom.com",
+      "state": "San Francisco, CA",
+      "icp_score": 87,
+      "icp_grade": "A",
+      "employees": 7,
+      "revenue_th_usd": 410,
+      "source": "500 Global",
+      "dm_name": null,
+      "has_email": 0,
+      "has_phone": 0
+    },
+    {
+      "company_name": "STELLARITE INC",
+      "domain": "stellarite.io",
+      "state": "CA",
+      "icp_score": 86,
+      "icp_grade": "A",
+      "employees": 5,
+      "revenue_th_usd": 2170,
+      "source": "bvd_45k",
+      "dm_name": "Mr Ryan Noon",
+      "has_email": 1,
+      "has_phone": 1
+    },
+    {
+      "company_name": "SECURITYBRICKS INC",
+      "domain": "securitybricks.io",
+      "state": "WA",
+      "icp_score": 86,
+      "icp_grade": "A",
+      "employees": 7,
+      "revenue_th_usd": 410,
+      "source": "bvd_60k",
+      "dm_name": "Mr Raj Raghavan",
+      "has_email": 0,
+      "has_phone": 0
+    },
+    {
+      "company_name": "COEUS USA LLC",
+      "domain": "bubble.io",
+      "state": "CA",
+      "icp_score": 85,
+      "icp_grade": "A",
+      "employees": 4,
+      "revenue_th_usd": 260,
+      "source": "bvd_60k",
+      "dm_name": "Mr Gongyun Long",
+      "has_email": 0,
+      "has_phone": 0
+    },
+    {
+      "company_name": "WRENO, INC.",
+      "domain": "wreno.io",
+      "state": "AZ",
+      "icp_score": 85,
+      "icp_grade": "A",
+      "employees": 2,
+      "revenue_th_usd": 300,
+      "source": "bvd_60k",
+      "dm_name": "Jingwei Schell",
+      "has_email": 0,
+      "has_phone": 0
+    },
+    {
+      "company_name": "CLAIRVOYANT AI, INC.",
+      "domain": "clairvoyant.ai",
+      "state": "AZ",
+      "icp_score": 85,
+      "icp_grade": "A",
+      "employees": 2,
+      "revenue_th_usd": 300,
+      "source": "bvd_60k",
+      "dm_name": "Mr Chandra Sekhar Ambadipudi",
+      "has_email": 0,
+      "has_phone": 0
+    },
+    {
+      "company_name": "PIXM INC",
+      "domain": "pixm.net",
+      "state": "NY",
+      "icp_score": 84,
+      "icp_grade": "A",
+      "employees": 6,
+      "revenue_th_usd": 3350,
+      "source": "bvd_45k",
+      "dm_name": "Mr Chris Wilburn",
+      "has_email": 1,
+      "has_phone": 1
+    },
+    {
+      "company_name": "NEX TEAM INC.",
+      "domain": "homecourt.ai",
+      "state": "CA",
+      "icp_score": 84,
+      "icp_grade": "A",
+      "employees": 8,
+      "revenue_th_usd": 8730,
+      "source": "bvd_45k",
+      "dm_name": "Mr Alex Wu",
+      "has_email": 1,
+      "has_phone": 1
+    },
+    {
+      "company_name": "ELEMENT DATA, INC.",
+      "domain": "decisioncloud.io",
+      "state": "WA",
+      "icp_score": 84,
+      "icp_grade": "A",
+      "employees": 7,
+      "revenue_th_usd": 3160,
+      "source": "bvd_45k",
+      "dm_name": "Mr Geoff Mcdonald",
+      "has_email": 1,
+      "has_phone": 1
+    },
+    {
+      "company_name": "BLUVECTOR, INC.",
+      "domain": "bluvector.io",
+      "state": "VA",
+      "icp_score": 84,
+      "icp_grade": "A",
+      "employees": 6,
+      "revenue_th_usd": 2780,
+      "source": "bvd_45k",
+      "dm_name": "Mr Nicholas Arraje",
+      "has_email": 1,
+      "has_phone": 0
+    },
+    {
+      "company_name": "BLUVECTOR, INC.",
+      "domain": "databee.ai",
+      "state": "VA",
+      "icp_score": 84,
+      "icp_grade": "A",
+      "employees": 6,
+      "revenue_th_usd": 2780,
+      "source": "bvd_45k",
+      "dm_name": "Mr Rob Fogel",
+      "has_email": 1,
+      "has_phone": 0
+    },
+    {
+      "company_name": "CODESCAN ENTERPRISES, L.L.C.",
+      "domain": "codescan.io",
+      "state": "CA",
+      "icp_score": 83,
+      "icp_grade": "A",
+      "employees": 6,
+      "revenue_th_usd": 330,
+      "source": "bvd_60k",
+      "dm_name": null,
+      "has_email": 0,
+      "has_phone": 1
+    },
+    {
+      "company_name": "CARROLCODE LLC",
+      "domain": "texas-biz.com",
+      "state": "TX",
+      "icp_score": 83,
+      "icp_grade": "A",
+      "employees": 4,
+      "revenue_th_usd": 300,
+      "source": "bvd_60k",
+      "dm_name": "Brandon Mckimmons",
+      "has_email": 0,
+      "has_phone": 0
+    },
+    {
+      "company_name": "RIDE IN TANDEM, INC.",
+      "domain": "usetandem.com",
+      "state": "MI",
+      "icp_score": 83,
+      "icp_grade": "A",
+      "employees": 5,
+      "revenue_th_usd": 300,
+      "source": "bvd_60k",
+      "dm_name": "Ms Jessica Holterhoff",
+      "has_email": 0,
+      "has_phone": 1
+    },
+    {
+      "company_name": "ANCHOROCK SOLUTIONS",
+      "domain": "anchorock.com",
+      "state": "CA",
+      "icp_score": 83,
+      "icp_grade": "A",
+      "employees": 6,
+      "revenue_th_usd": 330,
+      "source": "bvd_60k",
+      "dm_name": "Mr Zafar Malik",
+      "has_email": 0,
+      "has_phone": 1
+    },
+    {
+      "company_name": "CUBIC COMPASS SOFTWARE",
+      "domain": "cubiccompass.com",
+      "state": "OR",
+      "icp_score": 83,
+      "icp_grade": "A",
+      "employees": 4,
+      "revenue_th_usd": 280,
+      "source": "bvd_60k",
+      "dm_name": "Mr Michael Alan Leach",
+      "has_email": 1,
+      "has_phone": 0
+    },
+    {
+      "company_name": "BRISK LABS CORPORATION",
+      "domain": "brisklabs.com",
+      "state": "CA",
+      "icp_score": 83,
+      "icp_grade": "A",
+      "employees": 4,
+      "revenue_th_usd": 260,
+      "source": "bvd_60k",
+      "dm_name": "Mr Arman Jaffer",
+      "has_email": 1,
+      "has_phone": 0
+    },
+    {
+      "company_name": "DOXLY INC",
+      "domain": "doxly.com",
+      "state": "IN",
+      "icp_score": 83,
+      "icp_grade": "A",
+      "employees": 3,
+      "revenue_th_usd": 380,
+      "source": "bvd_60k",
+      "dm_name": "Mr Damien Black",
+      "has_email": 0,
+      "has_phone": 0
+    },
+    {
+      "company_name": "EVERSTAGE INC.",
+      "domain": "everstage.com",
+      "state": "DE",
+      "icp_score": 83,
+      "icp_grade": "A",
+      "employees": 4,
+      "revenue_th_usd": 320,
+      "source": "bvd_60k",
+      "dm_name": null,
+      "has_email": 0,
+      "has_phone": 0
+    }
+  ],
+  "near_miss_70_74": [
+    {
+      "company_name": "BLASTPOINT, INC.",
+      "domain": "blastpoint.co",
+      "state": "PA",
+      "icp_score": 74,
+      "icp_grade": "B",
+      "icp_signals": "[\"strong_tech\", \"sic_tech_7372\", \"emp_sweet_13\", \"rev_good_7080k\", \"live_website\", \"has_product\", \"has_contact\", \"has_description\", \"hiring\"]",
+      "employees": 13,
+      "revenue_th_usd": 7080,
+      "source": "bvd_45k"
+    },
+    {
+      "company_name": "IDENTITYLOGIC CONSULTING LLC",
+      "domain": "identitylogic.ai",
+      "state": "VA",
+      "icp_score": 74,
+      "icp_grade": "B",
+      "icp_signals": "[\"moderate_tech\", \"sic_tech_7371\", \"tech_tld\", \"emp_sweet_6\", \"rev_sweet_2720k\", \"live_website\", \"has_product\", \"has_contact\", \"has_description\", \"hiring\"]",
+      "employees": 6,
+      "revenue_th_usd": 2720,
+      "source": "bvd_45k"
+    },
+    {
+      "company_name": "ASPEN TECHNOLOGIES GROUP LLC",
+      "domain": "aspentgi.com",
+      "state": "CO",
+      "icp_score": 74,
+      "icp_grade": "B",
+      "icp_signals": "[\"strong_tech\", \"sic_tech_7371\", \"emp_sweet_15\", \"rev_good_9940k\", \"live_website\", \"has_product\", \"has_contact\", \"has_description\", \"hiring\"]",
+      "employees": 9,
+      "revenue_th_usd": 9940,
+      "source": "bvd_45k"
+    },
+    {
+      "company_name": "I.H.M. SERVICES, CORP",
+      "domain": "ihmplumbingservices.com",
+      "state": "FL",
+      "icp_score": 74,
+      "icp_grade": "B",
+      "icp_signals": "[\"strong_tech\", \"sic_tech_7374\", \"emp_sweet_7\", \"rev_good_7120k\", \"live_website\", \"has_product\", \"has_contact\", \"has_description\", \"hiring\"]",
+      "employees": 7,
+      "revenue_th_usd": 7120,
+      "source": "bvd_45k"
+    },
+    {
+      "company_name": "ALINCO IT INC",
+      "domain": "alinco.net",
+      "state": "CA",
+      "icp_score": 74,
+      "icp_grade": "B",
+      "icp_signals": "[\"strong_tech\", \"sic_tech_7379\", \"emp_sweet_7\", \"rev_good_5820k\", \"live_website\", \"has_product\", \"has_contact\", \"has_description\", \"hiring\"]",
+      "employees": 7,
+      "revenue_th_usd": 5820,
+      "source": "bvd_45k"
+    },
+    {
+      "company_name": "EXSCRIBE INC",
+      "domain": "exscribe.com",
+      "state": "FL",
+      "icp_score": 74,
+      "icp_grade": "B",
+      "icp_signals": "[\"strong_tech\", \"sic_tech_7371\", \"emp_sweet_12\", \"rev_good_9370k\", \"live_website\", \"has_product\", \"has_contact\", \"has_description\", \"hiring\"]",
+      "employees": 7,
+      "revenue_th_usd": 9370,
+      "source": "bvd_45k"
+    },
+    {
+      "company_name": "JIDDU, INC.",
+      "domain": "agshift.com",
+      "state": "CA",
+      "icp_score": 74,
+      "icp_grade": "B",
+      "icp_signals": "[\"strong_tech\", \"sic_tech_7371\", \"emp_sweet_8\", \"rev_good_6570k\", \"live_website\", \"has_product\", \"has_contact\", \"has_description\", \"hiring\"]",
+      "employees": 8,
+      "revenue_th_usd": 6570,
+      "source": "bvd_45k"
+    },
+    {
+      "company_name": "ABRAZO TECHNOLOGIES, LLC",
+      "domain": "abrazo-tech.com",
+      "state": "NM",
+      "icp_score": 74,
+      "icp_grade": "B",
+      "icp_signals": "[\"strong_tech\", \"sic_tech_7373\", \"emp_sweet_8\", \"rev_good_6030k\", \"live_website\", \"has_product\", \"has_contact\", \"has_description\", \"hiring\"]",
+      "employees": 8,
+      "revenue_th_usd": 6030,
+      "source": "bvd_45k"
+    },
+    {
+      "company_name": "ARCANANETWORKS, INC.",
+      "domain": "arcananet.com",
+      "state": "AZ",
+      "icp_score": 74,
+      "icp_grade": "B",
+      "icp_signals": "[\"strong_tech\", \"sic_tech_7373\", \"emp_sweet_9\", \"rev_good_5990k\", \"live_website\", \"has_product\", \"has_contact\", \"has_description\", \"hiring\"]",
+      "employees": 9,
+      "revenue_th_usd": 5990,
+      "source": "bvd_45k"
+    },
+    {
+      "company_name": "UPBOARD, INC.",
+      "domain": "upboard.io",
+      "state": "CA",
+      "icp_score": 74,
+      "icp_grade": "B",
+      "icp_signals": "[\"strong_tech\", \"tech_tld\", \"emp_sweet_8\", \"rev_sweet_1050k\", \"live_website\", \"has_product\", \"has_contact\", \"has_description\", \"hiring\"]",
+      "employees": 8,
+      "revenue_th_usd": 1050,
+      "source": "us_software"
+    },
+    {
+      "company_name": "BETABLOCKS COMPANY",
+      "domain": "betablocks.io",
+      "state": "FL",
+      "icp_score": 74,
+      "icp_grade": "B",
+      "icp_signals": "[\"strong_tech\", \"tech_tld\", \"emp_sweet_7\", \"rev_sweet_1030k\", \"live_website\", \"has_product\", \"has_contact\", \"has_description\", \"hiring\"]",
+      "employees": 7,
+      "revenue_th_usd": 1030,
+      "source": "us_software"
+    },
+    {
+      "company_name": "J2 SOFTWARE SOLUTIONS, INC.",
+      "domain": "j2ss.com",
+      "state": "TN",
+      "icp_score": 74,
+      "icp_grade": "B",
+      "icp_signals": "[\"strong_tech\", \"sic_tech_7371\", \"emp_sweet_12\", \"rev_good_9970k\", \"live_website\", \"has_product\", \"has_contact\", \"has_description\", \"hiring\"]",
+      "employees": 12,
+      "revenue_th_usd": 9970,
+      "source": "bvd_45k"
+    },
+    {
+      "company_name": "KEEN HOME INC.",
+      "domain": "keenhome.io",
+      "state": "NY",
+      "icp_score": 74,
+      "icp_grade": "B",
+      "icp_signals": "[\"strong_tech\", \"tech_tld\", \"emp_sweet_7\", \"rev_sweet_1190k\", \"live_website\", \"has_product\", \"has_contact\", \"has_description\", \"hiring\"]",
+      "employees": 7,
+      "revenue_th_usd": 1190,
+      "source": "us_software"
+    },
+    {
+      "company_name": "INFOWORKS.IO, INC.",
+      "domain": "infoworks.io",
+      "state": "CA",
+      "icp_score": 74,
+      "icp_grade": "B",
+      "icp_signals": "[\"strong_tech\", \"tech_tld\", \"emp_sweet_14\", \"rev_sweet_1050k\", \"live_website\", \"has_product\", \"has_contact\", \"has_description\", \"hiring\"]",
+      "employees": 14,
+      "revenue_th_usd": 1050,
+      "source": "us_software"
+    },
+    {
+      "company_name": "TOTALLY IN VIEW",
+      "domain": "tiv.solutions",
+      "state": "NY",
+      "icp_score": 74,
+      "icp_grade": "B",
+      "icp_signals": "[\"strong_tech\", \"sic_tech_7379\", \"emp_sweet_6\", \"rev_good_9630k\", \"live_website\", \"has_product\", \"has_contact\", \"has_description\", \"hiring\"]",
+      "employees": 6,
+      "revenue_th_usd": 9630,
+      "source": "bvd_45k"
+    },
+    {
+      "company_name": "PRECISION IT SOLUTIONS, INC.",
+      "domain": "hijackingofhappiness.com",
+      "state": "CA",
+      "icp_score": 74,
+      "icp_grade": "B",
+      "icp_signals": "[\"strong_tech\", \"sic_tech_7379\", \"emp_sweet_7\", \"rev_good_6630k\", \"live_website\", \"has_product\", \"has_contact\", \"has_description\", \"hiring\"]",
+      "employees": 7,
+      "revenue_th_usd": 6630,
+      "source": "bvd_45k"
+    },
+    {
+      "company_name": "FIPSAR INCORPORATED",
+      "domain": "fipsar.com",
+      "state": "NJ",
+      "icp_score": 74,
+      "icp_grade": "B",
+      "icp_signals": "[\"strong_tech\", \"sic_tech_7371\", \"emp_sweet_7\", \"rev_good_9790k\", \"live_website\", \"has_product\", \"has_contact\", \"has_description\", \"hiring\"]",
+      "employees": 7,
+      "revenue_th_usd": 9790,
+      "source": "bvd_45k"
+    },
+    {
+      "company_name": "REMIX SOFTWARE INC",
+      "domain": "ridewithvia.com",
+      "state": "CA",
+      "icp_score": 74,
+      "icp_grade": "B",
+      "icp_signals": "[\"strong_tech\", \"sic_tech_7371\", \"emp_sweet_9\", \"rev_good_9780k\", \"live_website\", \"has_product\", \"has_contact\", \"has_description\", \"hiring\"]",
+      "employees": 9,
+      "revenue_th_usd": 9780,
+      "source": "bvd_45k"
+    },
+    {
+      "company_name": "TEKGENCE, INC.",
+      "domain": "tekgence.com",
+      "state": "TX",
+      "icp_score": 74,
+      "icp_grade": "B",
+      "icp_signals": "[\"strong_tech\", \"sic_tech_7379\", \"emp_sweet_7\", \"rev_good_7760k\", \"live_website\", \"has_product\", \"has_contact\", \"has_description\", \"hiring\"]",
+      "employees": 7,
+      "revenue_th_usd": 7760,
+      "source": "bvd_45k"
+    },
+    {
+      "company_name": "CATALYST EDUCATION LLC",
+      "domain": "catalystedu.com",
+      "state": "TX",
+      "icp_score": 74,
+      "icp_grade": "B",
+      "icp_signals": "[\"strong_tech\", \"sic_tech_7372\", \"emp_sweet_9\", \"rev_good_7400k\", \"live_website\", \"has_product\", \"has_contact\", \"has_description\", \"hiring\"]",
+      "employees": 9,
+      "revenue_th_usd": 7400,
+      "source": "bvd_45k"
+    },
+    {
+      "company_name": "NEXZENTEK SOLUTIONS INC",
+      "domain": "nexzentek.com",
+      "state": "NJ",
+      "icp_score": 74,
+      "icp_grade": "B",
+      "icp_signals": "[\"strong_tech\", \"sic_tech_7379\", \"emp_sweet_8\", \"rev_good_7400k\", \"live_website\", \"has_product\", \"has_contact\", \"has_description\", \"hiring\"]",
+      "employees": 8,
+      "revenue_th_usd": 7400,
+      "source": "bvd_45k"
+    },
+    {
+      "company_name": "CLEVER DEVICES LTD",
+      "domain": "cleverdevices.com",
+      "state": "NC",
+      "icp_score": 74,
+      "icp_grade": "B",
+      "icp_signals": "[\"strong_tech\", \"sic_tech_7373\", \"emp_sweet_6\", \"rev_good_6120k\", \"live_website\", \"has_product\", \"has_contact\", \"has_description\", \"hiring\"]",
+      "employees": 6,
+      "revenue_th_usd": 6120,
+      "source": "bvd_45k"
+    },
+    {
+      "company_name": "DYNAMIC IMAGING SYSTEMS INC",
+      "domain": "dynamicimaging.com",
+      "state": "NJ",
+      "icp_score": 74,
+      "icp_grade": "B",
+      "icp_signals": "[\"strong_tech\", \"sic_tech_7379\", \"emp_sweet_6\", \"rev_good_8740k\", \"live_website\", \"has_product\", \"has_contact\", \"has_description\", \"hiring\"]",
+      "employees": 6,
+      "revenue_th_usd": 8740,
+      "source": "bvd_45k"
+    },
+    {
+      "company_name": "INNOVATIVE NETWORKING TECHNOLOGY, INC.",
+      "domain": "innovativent.com",
+      "state": "VA",
+      "icp_score": 74,
+      "icp_grade": "B",
+      "icp_signals": "[\"strong_tech\", \"sic_tech_7379\", \"emp_sweet_10\", \"rev_good_8730k\", \"live_website\", \"has_product\", \"has_contact\", \"has_description\", \"hiring\"]",
+      "employees": 10,
+      "revenue_th_usd": 8730,
+      "source": "bvd_45k"
+    },
+    {
+      "company_name": "CONSOLIDATED COMPUTING, INC.",
+      "domain": "consolidatedcomputing.com",
+      "state": "CT",
+      "icp_score": 74,
+      "icp_grade": "B",
+      "icp_signals": "[\"strong_tech\", \"sic_tech_7376\", \"emp_sweet_8\", \"rev_good_7480k\", \"live_website\", \"has_product\", \"has_contact\", \"has_description\", \"hiring\"]",
+      "employees": 8,
+      "revenue_th_usd": 7480,
+      "source": "bvd_45k"
+    },
+    {
+      "company_name": "MARCUS NETWORKING INC.",
+      "domain": "marcusnetworking.com",
+      "state": "AZ",
+      "icp_score": 74,
+      "icp_grade": "B",
+      "icp_signals": "[\"strong_tech\", \"sic_tech_7373\", \"emp_sweet_7\", \"rev_good_7470k\", \"live_website\", \"has_product\", \"has_contact\", \"has_description\", \"hiring\"]",
+      "employees": 7,
+      "revenue_th_usd": 7470,
+      "source": "bvd_45k"
+    },
+    {
+      "company_name": "ONLINE TECH LLC",
+      "domain": "onlinetech.com",
+      "state": "MI",
+      "icp_score": 74,
+      "icp_grade": "B",
+      "icp_signals": "[\"strong_tech\", \"sic_tech_7375\", \"emp_sweet_12\", \"rev_good_6320k\", \"live_website\", \"has_product\", \"has_contact\", \"has_description\", \"hiring\"]",
+      "employees": 12,
+      "revenue_th_usd": 6320,
+      "source": "bvd_45k"
+    },
+    {
+      "company_name": "ONLINE TECH LLC",
+      "domain": "otava.com",
+      "state": "MI",
+      "icp_score": 74,
+      "icp_grade": "B",
+      "icp_signals": "[\"strong_tech\", \"sic_tech_7375\", \"emp_sweet_12\", \"rev_good_6320k\", \"live_website\", \"has_product\", \"has_contact\", \"has_description\", \"hiring\"]",
+      "employees": 12,
+      "revenue_th_usd": 6320,
+      "source": "bvd_45k"
+    },
+    {
+      "company_name": "GENESIS DATACOM LLC",
+      "domain": "gcautotow.com",
+      "state": "AR",
+      "icp_score": 74,
+      "icp_grade": "B",
+      "icp_signals": "[\"strong_tech\", \"sic_tech_7373\", \"emp_sweet_9\", \"rev_good_6200k\", \"live_website\", \"has_product\", \"has_contact\", \"has_description\", \"hiring\"]",
+      "employees": 9,
+      "revenue_th_usd": 6200,
+      "source": "bvd_45k"
+    },
+    {
+      "company_name": "EXPERT SYSTEM ENTERPRISE CORP.",
+      "domain": "expert.ai",
+      "state": "MD",
+      "icp_score": 74,
+      "icp_grade": "B",
+      "icp_signals": "[\"strong_tech\", \"sic_tech_7372\", \"tech_tld\", \"emp_acceptable_25\", \"rev_sweet_2460k\", \"live_website\", \"has_product\", \"has_contact\", \"has_description\"]",
+      "employees": 25,
+      "revenue_th_usd": 2460,
+      "source": "bvd_45k"
+    }
+  ]
+}
